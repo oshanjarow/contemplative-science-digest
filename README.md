@@ -31,7 +31,7 @@ A static website that aggregates new publications in contemplative science, upda
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/contemplative-science-digest.git
+   git clone https://github.com/oshanjarow/contemplative-science-digest.git
    cd contemplative-science-digest
    ```
 
