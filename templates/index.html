@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block title %}{{ site_title }} - Latest{% endblock %}
+
+{% block content %}
+<div class="digest-stats">
+    <p>
+        <strong>{{ total_papers }}</strong> papers and
+        <strong>{{ total_articles }}</strong> articles in today's digest
+    </p>
+</div>
+
+<section class="digest-section papers-section">
+    <h2>Research Papers</h2>
+
+    {% if papers %}
+    <div class="items-list">
+        {% for paper in papers %}
+        <article class="digest-item paper-item">
+            <h3 class="item-title">
+                <a href="{{ paper.url }}" target="_blank" rel="noopener">{{ paper.title }}</a>
+            </h3>
+
+            <div class="item-meta">
+                <span class="authors">{{ paper.authors|format_authors }}</span>
+                {% if paper.year %}
+                <span class="year">({{ paper.year }})</span>
+                {% endif %}
+                {% if paper.journal %}
+                <span class="journal">{{ paper.journal }}</span>
+                {% endif %}
+            </div>
+
+            {% if paper.abstract %}
+            <div class="item-abstract">
+                <p>{{ paper.abstract|truncate_abstract }}</p>
+            </div>
+            {% endif %}
+
+            <div class="item-links">
+                <a href="{{ paper.url }}" target="_blank" rel="noopener" class="link-primary">View Paper</a>
+                {% if paper.doi %}
+                <a href="https://doi.org/{{ paper.doi }}" target="_blank" rel="noopener" class="link-doi">DOI</a>
+                {% endif %}
+                <span class="source-badge source-{{ paper.source_type }}">{{ paper.source_type }}</span>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p class="no-items">No new papers today. Check back tomorrow!</p>
+    {% endif %}
+</section>
+
+<section class="digest-section articles-section">
+    <h2>Magazine Articles</h2>
+
+    {% if articles %}
+    <div class="items-list">
+        {% for article in articles %}
+        <article class="digest-item article-item">
+            <h3 class="item-title">
+                <a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a>
+            </h3>
+
+            <div class="item-meta">
+                {% if article.source_name %}
+                <span class="source-name">{{ article.source_name }}</span>
+                {% endif %}
+                {% if article.authors %}
+                <span class="authors">{{ article.authors|format_authors }}</span>
+                {% endif %}
+                {% if article.date_published %}
+                <span class="date">{{ article.date_published|format_date }}</span>
+                {% endif %}
+            </div>
+
+            {% if article.excerpt %}
+            <div class="item-excerpt">
+                <p>{{ article.excerpt }}</p>
+            </div>
+            {% endif %}
+
+            <div class="item-links">
+                <a href="{{ article.url }}" target="_blank" rel="noopener" class="link-primary">Read Article</a>
+                {% if article.matched_keywords %}
+                <span class="keywords">Keywords: {{ article.matched_keywords|join(', ') }}</span>
+                {% endif %}
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p class="no-items">No relevant articles today. Check back tomorrow!</p>
+    {% endif %}
+</section>
+{% endblock %}

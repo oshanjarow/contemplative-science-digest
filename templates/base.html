@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ site_title }}{% endblock %}</title>
+    <meta name="description" content="{{ site_description }}">
+    <link rel="stylesheet" href="static/css/style.css">
+    {% block head %}{% endblock %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="site-title"><a href="index.html">{{ site_title }}</a></h1>
+            <p class="site-description">{{ site_description }}</p>
+            <nav class="site-nav">
+                <a href="index.html">Today</a>
+                <a href="archive.html">Archive</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>
+                Generated on {{ generated_at|format_date }}.
+                Data sourced from Semantic Scholar, PubMed, and various RSS feeds.
+            </p>
+            <p>
+                <a href="https://github.com/YOUR_USERNAME/contemplative-science-digest">View on GitHub</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

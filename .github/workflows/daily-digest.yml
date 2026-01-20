@@ -1,0 +1,46 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # Run at 7am EST (12:00 UTC)
+    - cron: '0 12 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        run: python -m src.main --skip-coauthors
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet docs/ data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/ data/
+          git commit -m "Update digest - $(date -u +%Y-%m-%d)"
+          git push

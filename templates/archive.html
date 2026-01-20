@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block title %}{{ site_title }} - Archive{% endblock %}
+
+{% block content %}
+<section class="archive-section">
+    <h2>Archive</h2>
+
+    <p class="archive-description">
+        Browse past digests organized by date.
+    </p>
+
+    {% if archive_data %}
+    <div class="archive-list">
+        {% for date, items in archive_data.items()|sort(reverse=True) %}
+        <div class="archive-day">
+            <h3 class="archive-date">{{ date }}</h3>
+
+            {% if items.papers %}
+            <div class="archive-papers">
+                <h4>Papers ({{ items.papers|length }})</h4>
+                <ul>
+                    {% for paper in items.papers %}
+                    <li>
+                        <a href="{{ paper.url }}" target="_blank" rel="noopener">{{ paper.title }}</a>
+                        {% if paper.authors %}
+                        <span class="authors">- {{ paper.authors|format_authors }}</span>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if items.articles %}
+            <div class="archive-articles">
+                <h4>Articles ({{ items.articles|length }})</h4>
+                <ul>
+                    {% for article in items.articles %}
+                    <li>
+                        <a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a>
+                        {% if article.source_name %}
+                        <span class="source">- {{ article.source_name }}</span>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p class="no-items">No archived items yet. Check back after a few days!</p>
+    {% endif %}
+</section>
+{% endblock %}
