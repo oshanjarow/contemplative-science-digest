@@ -12,7 +12,6 @@ from .config import (
     AUTHOR_IDS_FILE,
     TIER1_RESEARCHERS,
     COAUTHOR_MIN_PAPERS,
-    PUBMED_SEARCH_DAYS,
 )
 from .sources.semantic_scholar import SemanticScholarClient
 from .sources.pubmed import PubMedClient
@@ -149,9 +148,10 @@ def run_digest(
     skip_semantic_scholar: bool = False,
     skip_pubmed: bool = False,
     skip_rss: bool = False,
+    days_back: int = 7,
 ):
     """Run the full digest pipeline."""
-    logger.info("Starting Contemplative Science Digest...")
+    logger.info(f"Starting Contemplative Science Digest (looking back {days_back} days)...")
 
     # Initialize clients
     ss_client = SemanticScholarClient()
@@ -178,7 +178,7 @@ def run_digest(
     if not skip_semantic_scholar:
         # Papers from tracked authors
         logger.info("Fetching papers from tracked authors...")
-        author_papers = fetch_papers_from_authors(ss_client, authors)
+        author_papers = fetch_papers_from_authors(ss_client, authors, days_back=days_back)
         all_papers.extend(author_papers)
 
         # Papers from keyword searches
@@ -203,11 +203,11 @@ def run_digest(
         logger.info("Fetching papers from PubMed...")
 
         # MeSH term search
-        mesh_papers = pubmed_client.search_mesh_terms(days_back=PUBMED_SEARCH_DAYS)
+        mesh_papers = pubmed_client.search_mesh_terms(days_back=days_back)
         all_papers.extend(mesh_papers)
 
         # Keyword search
-        keyword_papers = pubmed_client.search_keywords(days_back=PUBMED_SEARCH_DAYS)
+        keyword_papers = pubmed_client.search_keywords(days_back=days_back)
         all_papers.extend(keyword_papers)
 
     # Step 5: Fetch articles from RSS feeds
@@ -284,6 +284,12 @@ def main():
         action="store_true",
         help="Enable verbose logging",
     )
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=7,
+        help="Number of days to look back for papers (default: 7)",
+    )
 
     args = parser.parse_args()
 
@@ -296,6 +302,7 @@ def main():
         skip_semantic_scholar=args.skip_semantic_scholar,
         skip_pubmed=args.skip_pubmed,
         skip_rss=args.skip_rss,
+        days_back=args.days,
     )
 
 
