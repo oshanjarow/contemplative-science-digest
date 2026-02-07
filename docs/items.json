@@ -1,38 +1,248 @@
 {
-  "generated_at": "2026-02-06T12:34:51.733655",
+  "generated_at": "2026-02-07T12:25:18.368592",
   "papers": [
     {
-      "title": "A late meta-stable code of conscious access in the absence of report",
-      "url": "https://www.semanticscholar.org/paper/84e66da415cc191c8600d2864978d4943fd11b1e",
+      "title": "The effect of mindfulness training on the psychological state of high-level athletes: Meta analysis and system evaluation research",
+      "url": "https://www.semanticscholar.org/paper/8ba767190a684d07f8258db06caa8b584e8e19e9",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-02T00:00:00",
-      "date_fetched": "2026-02-06T12:33:53.697974",
-      "doi": "10.64898/2026.01.30.702733",
+      "date_published": "2025-02-26T00:00:00",
+      "date_fetched": "2026-02-07T12:24:29.069129",
+      "doi": "10.1080/02640414.2025.2468997",
       "authors": [
         {
-          "name": "Brendan T. Hutchinson",
-          "author_id": "2304557263",
+          "name": "Jianjun Zhang",
+          "author_id": "2347565448",
           "affiliation": null
         },
         {
-          "name": "S. Dehaene",
-          "author_id": "2256385748",
+          "name": "Jinxiu Sun",
+          "author_id": "2347803130",
           "affiliation": null
         },
         {
-          "name": "H. Slagter",
-          "author_id": "1743265",
+          "name": "Yuchuan Zhou",
+          "author_id": "2378043896",
           "affiliation": null
         },
         {
-          "name": "Michael Pitts",
-          "author_id": "2268683499",
+          "name": "Lihong Gong",
+          "author_id": "2210989627",
+          "affiliation": null
+        },
+        {
+          "name": "Sen Huang",
+          "author_id": "2347571253",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "bioRxiv",
+      "abstract": "ABSTRACT To investigate the impact of mindfulness training on mindfulness, psychological resilience, flow state, subjective well-being, sports anxiety, sports depression, and psychological fatigue among elite athletes through a meta-analysis. Databases like PubMed, Web of Science, and others were searched for randomized controlled trials up to October 31, 2024. Included studies compared mindfulness training interventions to non-mindfulness training in elite athletes. The outcome indicators were analyzed using Review Manager 5.4 software. Among 6917 articles, 32 studies with 1108 athletes (560 experimental, 548 control) were included. Mindfulness training significantly improved mindfulness (p<0.01), psychological resilience (p<0.05), flow state (p<0.01), sports anxiety (p<0.01), sports depression (p<0.01), and psychological fatigue dimensions (p<0.01) but not subjective well-being (p>0.05). MAC, MAIC, MBSP, and MT were effective for mindfulness. The best intervention duration was 7 weeks, with sessions lasting over 60 minutes once a week. MAC was best for psychological resilience. MBSP, MT, and MAC improved flow state. MBSP and MT alleviated anxiety, while MBSR was effective for depression. MAIC training mitigated psychological fatigue. Mindfulness training positively impacts elite athletes\u2019 psychological state, enhancing mindfulness, resilience, flow, and alleviating anxiety, depression, and psychological fatigue, but not subjective well-being. Optimal methods and durations vary by outcome.",
+      "journal": "Jurnal sport science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Seabed-to-Sky Mapping of Maritime Environments with a Dual Orthogonal SONAR and LiDAR Sensor Suite",
+      "url": "https://www.semanticscholar.org/paper/9c0a4fc14fa342dae39688b4ff40a9960ac415bc",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-04T00:00:00",
+      "date_fetched": "2026-02-07T12:24:33.977465",
+      "doi": "10.48550/arXiv.2512.05303",
+      "authors": [
+        {
+          "name": "Christian Westerdahl",
+          "author_id": "2397182395",
+          "affiliation": null
+        },
+        {
+          "name": "Jonas Poulsen",
+          "author_id": "2397182696",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel Holmelund",
+          "author_id": "2397182557",
+          "affiliation": null
+        },
+        {
+          "name": "P. N. Hansen",
+          "author_id": "153628398",
+          "affiliation": null
+        },
+        {
+          "name": "Fletcher Thompson",
+          "author_id": "2056595014",
+          "affiliation": null
+        },
+        {
+          "name": "Roberto Galeazzi",
+          "author_id": "2324286159",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Critical maritime infrastructure increasingly demands situational awareness both above and below the surface, yet existing''seabed-to-sky''mapping pipelines either rely on GNSS (vulnerable to shadowing/spoofing) or expensive bathymetric sonars. We present a unified, GNSS-independent mapping system that fuses LiDAR-IMU with a dual, orthogonally mounted Forward Looking Sonars (FLS) to generate consistent seabed-to-sky maps from an Autonomous Surface Vehicle. On the acoustic side, we extend orthogonal wide-aperture fusion to handle arbitrary inter-sonar translations (enabling heterogeneous, non-co-located models) and extract a leading edge from each FLS to form line-scans. On the mapping side, we modify LIO-SAM to ingest both stereo-derived 3D sonar points and leading-edge line-scans at and between keyframes via motion-interpolated poses, allowing sparse acoustic updates to contribute continuously to a single factor-graph map. We validate the system on real-world data from Belvederekanalen (Copenhagen), demonstrating real-time operation with approx. 2.65 Hz map updates and approx. 2.85 Hz odometry while producing a unified 3D model that spans air-water domains.",
+      "journal": "arXiv.org",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "non-dual awareness"
+      ]
+    },
+    {
+      "title": "Dual-View Predictive Diffusion: Lightweight Speech Enhancement via Spectrogram-Image Synergy",
+      "url": "https://www.semanticscholar.org/paper/b2ffc5bd6c0079d52d2def757ec43d7bc30d5766",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-31T00:00:00",
+      "date_fetched": "2026-02-07T12:24:33.977572",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Ke Xue",
+          "author_id": "2345005141",
+          "affiliation": null
+        },
+        {
+          "name": "Rongfei Fan",
+          "author_id": "2303259348",
+          "affiliation": null
+        },
+        {
+          "name": "Kai Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shanping Yu",
+          "author_id": "2345069957",
+          "affiliation": null
+        },
+        {
+          "name": "Puning Zhao",
+          "author_id": "2302921762",
+          "affiliation": null
+        },
+        {
+          "name": "Jianping An",
+          "author_id": "2408650819",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Diffusion models have recently set new benchmarks in Speech Enhancement (SE). However, most existing score-based models treat speech spectrograms merely as generic 2D images, applying uniform processing that ignores the intrinsic structural sparsity of audio, which results in inefficient spectral representation and prohibitive computational complexity. To bridge this gap, we propose DVPD, an extremely lightweight Dual-View Predictive Diffusion model, which uniquely exploits the dual nature of spectrograms as both visual textures and physical frequency-domain representations across both training and inference stages. Specifically, during training, we optimize spectral utilization via the Frequency-Adaptive Non-uniform Compression (FANC) encoder, which preserves critical low-frequency harmonics while pruning high-frequency redundancies. Simultaneously, we introduce a Lightweight Image-based Spectro-Awareness (LISA) module to capture features from a visual perspective with minimal overhead. During inference, we propose a Training-free Lossless Boost (TLB) strategy that leverages the same dual-view priors to refine generation quality without any additional fine-tuning. Extensive experiments across various benchmarks demonstrate that DVPD achieves state-of-the-art performance while requiring only 35% of the parameters and 40% of the inference MACs compared to SOTA lightweight model, PGUSE. These results highlight DVPD's superior ability to balance high-fidelity speech quality with extreme architectural efficiency. Code and audio samples are available at the anonymous website: {https://anonymous.4open.science/r/dvpd_demo-E630}",
+      "journal": "",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "non-dual awareness"
+      ]
+    },
+    {
+      "title": "Real-Time Acceleration Estimation for Low-Thrust Spacecraft Using a Dual-Layer Filter and an Interacting Multiple Model",
+      "url": "https://www.semanticscholar.org/paper/d75352d103ad3d19088d0d1bb954ac40bde5312e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-29T00:00:00",
+      "date_fetched": "2026-02-07T12:24:33.977583",
+      "doi": "10.3390/aerospace13020130",
+      "authors": [
+        {
+          "name": "Zipeng Wu",
+          "author_id": "2408432107",
+          "affiliation": null
+        },
+        {
+          "name": "Peng Zhang",
+          "author_id": "2375495422",
+          "affiliation": null
+        },
+        {
+          "name": "Fanghua Jiang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Orbit determination for non-cooperative targets represents a significant focus of research within the domain of space situational awareness. In contrast to cooperative targets, non-cooperative targets do not provide their orbital parameters, necessitating the use of observation data for accurate orbit determination. The increasing prevalence of low-cost, low-thrust spacecraft has heightened the demand for advancements in real-time orbit determination and parameter estimation for low-thrust maneuvers. This paper presents a novel dual-layer filter approach designed to facilitate real-time acceleration estimation for non-cooperative targets. Initially, the method employs a square-root cubature Kalman filter (SRCKF) to handle the nonlinearity of the system and a Jerk model to address the challenges in acceleration modeling, thereby yielding a preliminary estimation of the acceleration produced by the thruster of the non-cooperative target. Subsequently, a specialized filtering structure is established for the estimated acceleration, and two filtering frameworks are integrated into a dual-layer filter model via the cubature transform, significantly enhancing the estimation accuracy of acceleration parameters. Finally, to adapt to the potential on/off states of the thrusters, the Interacting Multiple Model (IMM) algorithm is employed to bolster the robustness of the proposed solution. Simulation results validate the effectiveness of the proposed method in achieving real-time orbit determination and acceleration estimation.",
+      "journal": "Aerospace",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "non-dual awareness"
+      ]
+    },
+    {
+      "title": "Expansion without Erasure: A Psychoanalytic Response to Peoples and Rundel",
+      "url": "https://www.semanticscholar.org/paper/201f6494fb9703307cea3a37620241c6b8b0c6c3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-02T00:00:00",
+      "date_fetched": "2026-02-07T12:24:50.795314",
+      "doi": "10.1080/10481885.2025.2574581",
+      "authors": [
+        {
+          "name": "Daniel A. Brenner",
+          "author_id": "2397778777",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Peoples and Rundel argue that oceanic experiences in psychedelic-assisted treatment need not indicate regression but may reflect expansions of consciousness. I respond by examining how the self enables survival yet contributes to suffering, distinguishing expanded states from perspective, and proposing perspective as the hinge that transforms transient ego-dissolution into lasting growth. I differentiate pain from suffering and note how ketamine\u2019s modulation of the default mode and anti-reward networks uniquely fosters equanimity, opening analytic space. Because psychedelics can overwhelm defenses, preparation, and set and setting remain decisive. I propose integration practices that consolidate the observing stance\u2014variously described as observing ego, thirdness, mindful awareness, or Atman. Psychedelic psychoanalysis, I suggest, builds upon rather than abandons analytic commitments, translating oceanic states into enduring capacities for reflection, equanimity, and relatedness. I close with a clinical vignette and proposals for distinguishing restorative union from defensive fusion, sequencing ketamine-assisted analysis, and sustaining perspective.",
+      "journal": "Psychoanalytic dialogues",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "Reducing Burnout by Developing Mindfulness: A Pilot Study of a Micro-Habit Mobile Application.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650324/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-05T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.359525",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Ayman Mukerji-Househam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Candi Nobles-James",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sydnee G Burke",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Je'Marcus D McDaniel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barry H Cohen",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Burnout is a debilitating syndrome associated with emotional exhaustion, depersonalization, and a low sense of personal accomplishment. For medical students, studies suggest that burnout related to stress may begin as early as their first year and can be associated with poor academic performance, general distress, substance abuse, and suicidal ideation. PRIMARY STUDY OBJECTIVE: Previous literature suggests that mindfulness training, breathing exercises, and social support can be protective against the effects of burnout. Our study aimed to evaluate the efficacy of a new wellness program consisting mainly of brief, daily, mindfulness-based micro-habit training sessions. METHODS/DESIGN: The study adopted a single-group before-and-after design for a duration of eight weeks. PARTICIPANTS: Twelve medical students consented to participate (7 female); mean age = 26.25 years (SD = 4.4). INTERVENTION: The micro-habit intervention is delivered by a mobile app and is supported by weekly peer-circle meetings. The micro-habits are taught by listening to self-contained 90-second mindfulness exercises, at least once daily, five days per week. PRIMARY OUTCOME MEASURES: Maslach burnout inventory, a well-established 22-item self-report survey; Depression Anxiety Stress Scale (DASS21), a 21-item version of the DASS42; and Weekly Stress Scale, for which participants reported their stress level in terms of one of the categories (i.e., green, amber, or red) each week. RESULTS: The six participants who completed the post-intervention Maslach inventory exhibited a significant decline in emotional exhaustion (P = .03, 1-tailed) with a large effect size (d = 0.99). The five participants who completed the DASS21 at post-intervention averaged a considerable but non-significant decline in anxiety (d = 0.57). CONCLUSION: Despite the small sample size, it is encouraging that even a brief micro-habit intervention, one suited to busy medical students, can produce a considerable decrease in burnout symptoms, warranting a study with a larger cohort. KEYWORDS: burnout, mindfulness, habits, micro-habits, stress, wellness, medical students.",
+      "journal": "Advances in mind-body medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -40,569 +250,335 @@
       "matched_keywords": []
     },
     {
-      "title": "MINDFULNESS-BASED STRESS REDUCTION (MBSR) AND EFFECTIVENESS ON ANXIETY IN BREAST CANCER SURVIVORS: A RAPID LITERATURE REVIEW",
-      "url": "https://www.semanticscholar.org/paper/a26b1580b6d085075ca26fe59ae0b0766e7d38a9",
+      "title": "The Mapping of Meditation-Based Interventions with Emphasis on Brain-Derived Neurotrophic Factor in Hypertension: A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650325/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-12-07T00:00:00",
-      "date_fetched": "2026-02-06T12:34:08.380146",
-      "doi": "10.36780/jmcrh.v8i4.12344",
+      "source_type": "pubmed",
+      "date_published": "2026-02-05T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.360499",
+      "doi": null,
       "authors": [
         {
-          "name": "Witdiawati Witdiawati",
-          "author_id": "2089903015",
+          "name": "Kapila Goswami Sharma",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wilda Andini",
-          "author_id": "2404146548",
+          "name": "S D Manjula",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Dadang Purnama",
-          "author_id": "2237851012",
+          "name": "Shobha U Kamath",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nur Azmina Dinan",
-          "author_id": "2404146514",
+          "name": "M Mukhyaprana Prabhu",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shabila Fasa Noor Bakar",
-          "author_id": "2404172219",
+          "name": "M G Ramesh Babu",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Siti Fauziah",
-          "author_id": "2404028291",
+          "name": "Ujjal Bose",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Airin Rizki Mulyani",
-          "author_id": "2404158032",
+          "name": "K Vasanthalaxmi",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Hypertension is a global target for noncommunicable diseases, and meditation-based interventions (MBIs) benefit patients with hypertension (HTN). The primary objective of this scoping review is to map the globally published MBI studies on patients with HTN. The secondary goal is to identify the role of brain-derived neurotrophic factor (BDNF) in HTN. METHODS: Based on the Arksey and O'Malley protocol of the Joanna Briggs Institute framework for scoping review, 5 electronic databases were searched with search terms related to HTN and meditation. The open-access articles in the English language published between 1985 and 2024 were selected. The selected articles involved MBIs. All the studies were uploaded to the Rayyan software. Two reviewers worked independently and in duplicate to screen the studies first for title and abstract, and then for full text. Data were extracted based on the template for the intervention description and replication checklist. The data were summarized and reported as a narrative summary. RESULTS: In total, 966 studies were identified. After removing 429 duplicates, 537 studies were screened for their titles and abstracts. 467 studies were excluded based on the inclusion and exclusion criteria, 18 were not retrieved, and 20 were excluded with reasons. Finally, the full texts of 70 studies were read. 32 eligible studies were included in this review. The studies were divided into 3 categories based on meditation and into 7 categories based on outcome. Moreover, no study involving human subjects has analyzed the level of BDNF in HTN patients receiving MBIs. CONCLUSION: MBIs have shown promising results among HTN patients. There is a research gap in studies related to BDNF and meditation among hypertensive patients. The limitation of the review is the inclusion of open-access articles published only in the English language. KEYWORDS: Hypertension, Meditation, Mindfulness, Brain-Derived Neurotrophic Factor.",
+      "journal": "Advances in mind-body medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Neurophenomenology of a Self-Induced Transcendental Visionary State: A Case Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41651089/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-04T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.360861",
+      "doi": "10.1016/j.neuroimage.2026.121784",
+      "authors": [
+        {
+          "name": "Gabriel Della Bella",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Agustina Velez Picatto",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dante Sebasti\u00e1n Galv\u00e1n Rial",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sebasti\u00e1n Cukier",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gustavo Foa Torres",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Magaly Catanzariti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Diego Mateos",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pedro Lamberti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Etzel Carde\u00f1a",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pablo Barttfeld",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Non-ordinary states of consciousness (NOC) offer a way to examine how large-scale brain dynamics reorganize as experience changes. We studied a participant able to reliably enter a self-induced NOC state characterized by vivid imagery, altered bodily perception, and a sense of unity. Across 20 fMRI sessions, we measured functional connectivity in four conditions (Baseline, Transition, NOC, and Residual) and compared the results with a matched control group. During the Transition phase, connectivity became more variable, indicating a temporary destabilization of network organization. In the NOC state, inter-network connectivity decreased broadly, with visual cortex showing reduced coupling to auditory, sensorimotor, orbitofrontal, thalamic, and cerebellar regions, and the somatomotor-dorsal network disengaging from auditory and language cortices, paralleling the reported visual phenomena and changes in bodily experience. In contrast, frontoparietal and salience networks showed increased coupling with precuneus/posterior cingulate, multimodal temporal cortex, and cerebellar hubs, in agreement with subjective reports of sustained inward-directed attention and stable absorption. Entropy and complexity analyses revealed systematic shifts that tracked the experiential sequence and returned to baseline in the Residual condition. This single-case study brings together something uncommon: controlled experimentation, voluntary induction of NOC states, and rich phenomenological data. Taken together, these elements offer a strong foundation for neurophenomenological research and illustrate why pairing structured paradigms with lived experience is useful for understanding non-ordinary states of consciousness.",
+      "journal": "NeuroImage",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mindfulness-Based Interventions During Pregnancy, Including Mindful Eating: A Systematic Review of Effects on Health and Well-Being.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41651461/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-06T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.361945",
+      "doi": "10.1093/nutrit/nuaf302",
+      "authors": [
+        {
+          "name": "Carolina B de Souza",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maykeline S P Mangia",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claudia C B Almeida",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rafaela C Pereira",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Daniela F A Silva",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lilian G Teixeira",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "CONTEXT: Beneficial effects of mindful eating-based interventions during pregnancy have been reported. OBJECTIVE: This study aimed to synthesize the available evidence on the effects of mindfulness-based interventions during pregnancy that incorporate a mindful eating (ME) protocol on the health and well-being of pregnant women, including mental health, body metabolism (weight gain and/or blood glucose levels), eating behavior, and physical activity levels. DATA SOURCES: The search was conducted in the Medline, Web of Science, PsycArticles, Embase, Scopus, Food Science Source, CINAHL, and Google Scholar databases. DATA EXTRACTION: Studies that describe ME-based interventions in pregnant women were identified. Risk of bias was determined using the Joanna Briggs Institute (JBI) critical appraisal tool, and the level of evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. DATA ANALYSIS: Of the 489 articles identified, only 4 non-randomized intervention studies met the inclusion criteria. All selected studies used the \"Mindful Motherhood Training\" protocol and employed validated methods for measuring outcomes. The studies assessed the impact of the intervention on mental health and revealed significant reductions in stress and depressive symptoms, and significant increases in physical activity, among other outcomes. CONCLUSION: Although they showed that there are potentially benefits from ME interventions, particularly in contributing to mental health (reduction in depressive symptoms) and increasing physical activity levels, the included studies were assessed as being exploratory in nature, of low methodological quality, having inconsistent results, and having aspects of serious concern regarding the certainty domain. Improvements in the quality of the ME interventions during pregnancy are necessary. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. CRD42024496025.",
+      "journal": "Nutrition reviews",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effect of Yogic Techniques on Short-Term Memory and Self-Esteem of Adolescent Students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650328/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-05T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.362932",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Mitali Mukherjee",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Parichiti Saha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Abhimanyu Arya",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Yoga is reported to have a beneficial impact on mental well-being, thus improving attention. Research efforts have focused on understanding how yoga influences various aspects, such as short-term memory and self-esteem, particularly among adolescents. OBJECTIVE: This study aims to investigate the effect of yogic techniques on short-term memory and self-esteem in school students. METHODS: The study conducted at Srinanda High School in Bolpur, West Bengal, investigated the effects of asanas, pranayama, chanting, and meditation on short-term memory and self-esteem among school students aged 12-15 years. With a sample size of 40, comprising 14 males and 26 females, the study included physically and mentally healthy participants who had provided informed consent. The study employed a single-group pre- and post-design, where participants underwent assessments using the Trail Making Test (A & B) to measure short-term memory and the Rosenberg Self-Esteem Scale to assess self-esteem before and after engaging in yogic techniques. RESULTS: Significant improvements were observed in short-term memory among the participants after practicing yogic techniques for one and a half months. The P values for both components of the Trail Making Test (A and B) were less than .001, indicating enhanced memory function. However, a reduction in Rosenberg Self-Esteem Scale scores was observed post-intervention. CONCLUSION: These findings suggest that Yoga can be effective in enhancing the short-term memory of adolescents. In the future, longitudinal studies and randomized controlled trials should be conducted in this area to generalize the results. KEYWORDS: yoga, self-esteem, short-term memory, adolescents, school students.",
+      "journal": "Advances in mind-body medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The mediating role of mindfulness in the relationship between digital health literacy and e-healthy nutrition literacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41652465/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-06T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.363136",
+      "doi": "10.1186/s40359-026-04120-5",
+      "authors": [
+        {
+          "name": "Canan Kele\u015f Ert\u00fcrk",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Emine Arslan Kili\u00e7o\u011flu",
+          "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of Maternity Care and Reproductive Health",
-      "year": 2025,
+      "journal": "BMC psychology",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBSR"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Lateral Cerebellar Theta Burst Stimulation Can Modulate Default Mode Network Connectivity in Autistic Adults",
-      "url": "https://www.semanticscholar.org/paper/a80e0a7cb26567e5dfbb6bea5fed465121e58191",
+      "title": "\"Mindful eating: a comparative study between medical and non-medical students of Tanta University\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41652506/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-29T00:00:00",
-      "date_fetched": "2026-02-06T12:34:26.880522",
-      "doi": "10.1007/s12311-025-01912-0",
+      "source_type": "pubmed",
+      "date_published": "2026-02-06T00:00:00",
+      "date_fetched": "2026-02-07T12:25:17.363950",
+      "doi": "10.1186/s41043-025-01232-3",
       "authors": [
         {
-          "name": "H. Ni",
-          "author_id": "4888166",
+          "name": "Asmaa Mohammad",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Heng Chien",
-          "author_id": "2382867914",
+          "name": "Enas Kassim",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chun-Hung Yeh",
-          "author_id": "2118331518",
+          "name": "Maha El-Sharawy",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michael Cheng",
-          "author_id": "2384073261",
+          "name": "Ali Ali Elsherbini",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wei-Cheng Lin",
-          "author_id": "2266997924",
-          "affiliation": null
-        },
-        {
-          "name": "Hsiang-Yuan Lin",
-          "author_id": "2309986458",
+          "name": "Abdelaziz Farouk Eldeeb",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Cerebellum",
-      "year": 2025,
+      "abstract": "BACKGROUND: Mindful eating serves as a therapeutic intervention for recognizing and gradually altering the established daily eating habits and patterns. OBJECTIVES: This study aims to estimate the prevalence of adoption of principles of mindful eating among medical and non-medical university students and to detect the effect of adoption of mindful eating on the Body Mass Index of the studied subjects. METHODS: A cross-sectional study was conducted among 576 undergraduate students using a structured self-administered questionnaire comprising sociodemographic data, perceived weight and height and Mindful Eating Questionnaire. RESULTS: The majority of the studied students (94.4%) were used to adopt Mindful eating. The percentages of medical and non-medical students were used to adopt Mindful eating were (97.6% and 91.3%, respectively). A statistically significant association was detected between the type of the study (faculty) and adoption of mindful eating (P-value\u2009=\u20090.001). Medical study permits adopting mindful eating by about 73.8% more than non-medical studies. Medical male students showed higher scores for the disinhibition subscale than females (P-value\u2009=\u20090.025) while non-medical female students showed higher scores for the awareness subscale than males (P-value\u2009=\u20090.006). Nearly three fourths of the studied subjects (74.3%) had Body Mass Index\u2009\u2265\u200925. The percentage of medical students (17.4%) having Body Mass Index\u2009\u2265\u200925 was less than the percentage of their non-medical peers (34.0%). The association between the type of the study (faculty) and Body Mass Index categories was statistically significant (P-value\u2009=\u2009<\u20090.001). The higher scores on the Mindful Eating Questionnaire overall and on each of the categories except the awareness score had been associated with lower Body Mass Index. Most of the students adopting Mindful eating (75.4%) had Body Mass Index\u2009<\u200925 as compared to their peers who did not adopt Mindful eating where more than one third of them (43.8%) had Body Mass Index\u2009\u2265\u200925. The association between Mindful eating summary score categories and Body Mass Index categories was statistically significant (P-value\u2009=\u20090.016). A significant negative weak correlation was detected between Mindful eating summary score categories and Body Mass Index categories (P-value\u2009=\u20090.044). CONCLUSION: Academic background reinforces the potential of mindful eating as a viable strategy for promoting healthier eating habits and effective weight management among university students.",
+      "journal": "Journal of health, population, and nutrition",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "default mode network meditation"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "The Promise of Mindfulness-Based Interventions: A Stress-Reduction Strategy for Testicular Cancer Survivors' Health-Related Quality of Life.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41645861/",
+      "title": "Effect of antenatal education and midwifery-led care on maternal anxiety, depression, and birth outcomes: A meta-analysis of clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41344307/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-02-06T12:34:40.240977",
-      "doi": "10.1002/cam4.71523",
+      "date_fetched": "2026-02-07T12:25:17.364194",
+      "doi": "10.1016/j.wombi.2025.102138",
       "authors": [
         {
-          "name": "Michael J Rovito",
+          "name": "Yang Xu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Colin F O'Mahony",
+          "name": "Yingying Han",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kamalie Thomas",
+          "name": "Li Wang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Keith Brazendale",
+          "name": "Hui Xue",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ciaran M Fairman",
+          "name": "Yue Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yanyan Men",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yinxin Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaoyun Zhou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qianqian Li",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Testicular cancer (TC) disproportionately affects younger men and carries unique psychosocial and physiological consequences that extend well beyond treatment. Despite favorable survival rates, TC survivors frequently report diminished health-related quality of life (HRQoL). These burdens are often compounded by masculinity-related identity disruptions, fear of recurrence, sexual dysfunction, and a lack of tailored psychosocial support. Existing interventions remain limited, with most programs focused on physical rehabilitation or early detection. Few address the multidimensional stressors that shape the TC survivorship experience. AIMS: This narrative review examines the literature on HRQoL among TC survivors and evaluates the potential of mindfulness-based interventions (MBIs) as a viable therapeutic strategy. MATERIALS AND METHODS: A comprehensive literature search identified artivles that were produced in the past two decades+ that investigated the relationship between MBIs and TC survivor HRQoL. DISCUSSION: Evidence from broader cancer populations demonstrates that MBIs, such as meditation, breathing exercises, and mindfulness-based psychoeducation, can reduce psychological distress and promote emotional regulation. Programs like MindCAN have shown promise in improving self-awareness, affect, and coping. Importantly, MBIs offer a low-cost, flexible, and sustainable approach that aligns with the autonomy often valued by men navigating survivorship. CONCLUSION: To date, no fully developed mindfulness trials have been developed specifically for TC survivors. Given the early age of diagnosis and long survivorship trajectories, as well as the unique psychological and physiological health outcomes associated with TC, MBIs may be especially well-suited to this population. This review calls for a renewed focus on implementing mindfulness-based strategies designed for the lived realities of TC survivors. Doing so may meaningfully enhance post-treatment outcomes, reduce disparities in male mental health care, and promote holistic wellness in one of the most underserved cancer survivor populations.",
-      "journal": "Cancer medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Investigating the effectiveness of structured mindfulness sessions in mitigating burnout among final-year dental students: A mixed-methods analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642871/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-02-06T12:34:40.242348",
-      "doi": "10.1371/journal.pone.0342017",
-      "authors": [
-        {
-          "name": "Aliya Islam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Javeria Rehman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sumbul Mujeeb",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rubab Javed",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Unaiza Hashmi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tazeen Saeed Ali",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: The transition from dental student to practicing dentist is often accompanied by high level of stress and risk of burnout. This shift from academic to professional roles can overwhelm students and compromise their well-being. Addressing burnout early is essential to maintain academic performance, resilience, and quality patient care. Mindfulness interventions have shown increasing empirical support in reducing stress and burnout. This mixed-methods study evaluated the effectiveness of mindfulness-based life skill-building sessions in alleviating burnout among final-year dental students at Baqai Dental College, Karachi, Pakistan. METHOD: A sequential mixed-method study was conducted at Baqai Dental College in Karachi, Pakistan, involving sixty-nine final-year dental students. The intervention comprised two mindfulness sessions. Participants completed pre- and post-intervention questionnaires that included demographic information and the Copenhagen Burnout Inventory-Student Survey (CBI-SS), a validated 25-item tool assessing burnout across four domains: personal, study-related, colleague-related, and teacher-related. Post-intervention questionnaires were completed immediately after the sessions. Qualitative data were obtained through focus group discussions with stakeholders to explore perceptions of burnout and assess the relevance and feasibility of mindfulness sessions. Quantitative data were analyzed using paired t-tests, while qualitative data were examined through content analysis and triangulated with literature and documentation. RESULT: Diverse emotions and experiences were revealed through qualitative analysis, underscoring the substantial influence of exhaustion on personal, academic, and professional domains. Furthermore, the mean exhaustion scores were significantly different between the pre- and post-intervention periods, with a p-value of 0.001. Students conveyed satisfaction and a desire for more meaningful sessions that bolster life-building skills. CONCLUSION: The study findings demonstrate a decrease in burnout rates following the intervention, indicating the necessity for interventions to mitigate academic stress. Qualitative findings underscore the significance of a student support centre and self-care initiatives.",
-      "journal": "PloS one",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The impactof Transcendental Meditation on psychological distress and coping in the lives of women in Uganda: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642087/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-05T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.763735",
-      "doi": "10.1080/07399332.2025.2611927",
-      "authors": [
-        {
-          "name": "Leslee Goldstein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daniela Romagnoli",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sanford Nidich",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "In this randomized controlled trial with women living in poverty in Uganda ",
-      "journal": "Health care for women international",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Real-world effectiveness and safety of psychedelic-assisted psychotherapy: Outcomes from a large-scale compassionate use cohort in Switzerland.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41643299/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-02T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.764769",
-      "doi": "10.1016/j.psychres.2026.116992",
-      "authors": [
-        {
-          "name": "T Aboulafia-Brakha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "A Buchard",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C Mabilais",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "S Alaux",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C Amberger",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "L Furtado",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "F Seragnoli",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "J-F Briefer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "G Thorens",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "M Sab\u00e9",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "L Szczesniak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "R Iuga",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "D Zullino",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "L Penzenstadler",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Classic serotonergic psychedelics such as LSD and psilocybin show promising antidepressant effects in controlled trials, but real-world data from routine clinical care remain limited. METHODS: This study retrospectively analysed routine data from adults with treatment-resistant depressive and/or anxiety disorders who received a first standardized Psychedelic-assisted Psychotherapy (PAP) cycle with 100 \u00b5g LSD or 25 mg psilocybin at a Swiss university hospital (May 2024-October 2025). Self-reported depression (BDI) and trait anxiety (STAI-T) were assessed at screening, one month before treatment, and 1-3 months post-treatment. In a subset of participants, cognitive emotion regulation (CERQ) was assessed pre- and post-treatment. Subjective drug effects and adverse events were recorded on the treatment day. RESULTS: The sample consisted of 115 patients (56.5 % female; Mean age = 47.5 years). Depressive and anxiety symptoms significantly decreased over time (BDI: F(2178) = 63.50, p < 0.001, partial \u03b7\u00b2 = 0.42; STAI-T: F(1.74,145.9) = 16.97, p < 0.001, partial \u03b7\u00b2 = 0.17), with no main effect of substance. CERQ analyses indicated reduced self-blame, rumination and catastrophizing, and increased positive refocusing and reappraisal. Perceived intensity followed distinct temporal profiles for LSD and psilocybin, but comparable subjective drug effects and clinical outcomes. Adverse events were mostly mild and transient, with no serious complications or treatment discontinuations. CONCLUSIONS: In this compassionate-use real-world cohort, a first fully-active dose PAP session with LSD or psilocybin was well tolerated and associated with significant improvements in depressive and anxiety symptoms. These findings support the feasibility and effectiveness of PAP in specialised routine care.",
-      "journal": "Psychiatry research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "What factors shape the effectiveness of a leader-focused mental health training?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642792/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-05T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.764946",
-      "doi": "10.1037/ocp0000424",
-      "authors": [
-        {
-          "name": "Kristin Hildenbrand",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anna Topakas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jennifer K Dimoff",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karina M Nielsen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kevin E Kelloway",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "In light of the high prevalence of mental health (MH) problems and the important role that has been ascribed to MH-focused leadership training in addressing MH concerns in organizations, this study examines the conditions necessary for such training to be effective. Drawing on resource allocation theory, we explore the factors that influence training-induced changes in leaders' MH-related knowledge and self-efficacy following participation in the 3-hr long Mental Health Awareness Training (MHAT; Dimoff et al., 2016). Using multisource, multiwave data from 83 leaders and their followers (",
-      "journal": "Journal of occupational health psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Key Components and Barriers in Web-Based Suicide Prevention Gatekeeper Training: Systematic Narrative Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41643187/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-05T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.765873",
-      "doi": "10.2196/81572",
-      "authors": [
-        {
-          "name": "Olivier Ferlatte",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Emmanuelle Gareau",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Keven Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kinda Wassef",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John Lindsay Oliffe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hannah Kia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brock Dumville",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Gatekeeper training programs (GTPs) are a key component of contemporary suicide prevention strategies, equipping community members and non-mental health professionals with the skills to identify, engage with, and refer individuals at risk of suicide. Increasingly, these programs are delivered via the web, offering a compelling alternative to in-person training through greater scalability, flexibility, and cost-effectiveness. However, little consensus exists regarding the design, modes of delivery, and implementation strategies of web-based GTPs. Further, there is a limited understanding of which components affect their usability and engagement. OBJECTIVE: This systematic narrative review aims to identify the key components-including facilitators and barriers-of web-based GTPs. METHODS: We systematically searched web-based databases (CINAHL, Embase, MEDLINE, PsycINFO, and Web of Science) to identify peer-reviewed articles published between 2000 and 2025 that involved web-based GTPs. After screening, 59 studies met the inclusion criteria and were analyzed using content analysis to identify key components and barriers affecting the delivery and receipt of web-based GTPs. RESULTS: Results were organized under 3 categories: design, content, and pedagogy. Key design considerations emphasized accessibility for diverse learning styles and digital literacy levels, customizability for different user groups, privacy protection, and the long-term sustainability of training content and delivery platforms. Core training content covered four domains: (1) suicide-related knowledge (eg, prevalence, myths, and at-risk groups), (2) gatekeeping skills (eg, understanding risk factors, recognizing warning signs, problem-solving and safety planning), (3) resource awareness (eg, available local resources and referral procedures), and (4) general mental health education (eg, mental fitness, mindfulness, and self-care strategies for gatekeepers). In terms of pedagogy, the reviewed studies used a wide range of strategies that comprised interactive learning activities (eg, simulation, practice exercises), periodic knowledge checks (eg, quizzes), and reinforcement mechanisms (eg, booster sessions). Additionally, fostering a sense of community (eg, online support spaces or discussion forums) and promoting trainees' autonomy (eg, self-paced training) were highlighted as key components of training delivery. CONCLUSIONS: Web-based GTPs represent a promising avenue for expanding access to suicide prevention training. Their effectiveness may be strengthened through the integration of frameworks tailored to web-based learning environments, as well as interactive and user-centered design elements that support learning and retention. Future research should examine the acceptability, feasibility, and sustainability of these programs, while also refining their adaptation for diverse populations. In this regard, co-design approaches could facilitate the tailoring of such programs to the needs and specificities of their target populations. Overall, enhancing the design and delivery of web-based GTPs may ultimately improve their contribution to suicide prevention efforts.",
-      "journal": "Journal of medical Internet research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Efficacy of a smartphone app to improve mental health among emergency service workers: A randomised controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642859/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.766444",
-      "doi": "10.1371/journal.pone.0342419",
-      "authors": [
-        {
-          "name": "Mark Deady",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mikayla Gregory",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Quincy J J Wong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Denise Meuldijk",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daniel A J Collins",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lasse B Sander",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard Bryant",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Samuel B Harvey",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Emergency service workers (ESWs) are routinely exposed to highly stressful and potentially traumatic events leading to high rates of psychological distress. Early intervention is vital to prevent chronic impairment and/or psychiatric disorders, with digital health innovations (e.g., smartphone apps) offering a potential means of scaling such intervention while overcoming barriers to help-seeking in this population. This study aims to evaluate the efficacy of an app designed to reduce psychological distress and related outcomes in ESWs. METHODS: We conducted a randomised controlled trial with ESWs experiencing psychological distress (Kessler Psychological Distress Scale; K10) score >15. Participants were assigned to the intervention group, a full version of the Build Back Better app (including mindfulness, behavioural activation, trauma-focused cognitive therapy skills, activity and mood monitoring, and healthy coping strategies) or a mood/activity tracking-only version of the same app. Assessment occurred via online self-report questionnaires at baseline (T0) and at 1- and 3-month post-baseline (T1, T2) timepoints. The primary outcome was the K10 score at T2. Linear mixed model analyses were conducted based on the intention-to-treat principle. RESULTS: N\u2009=\u2009880 ESWs were randomized to the full (n\u2009=\u2009440) or tracking-only (n\u2009=\u2009440) condition. There was no Time x Condition effect for K10 scores, with both conditions showing similar improvements from baseline to 1-month (all ps\u2009<\u2009.001), and 3-month follow-up (all ps\u2009<\u2009.001). Exploratory analyses of moderators (engagement; baseline severity) found generally no significant differences in K10 score decreases across different levels of engagement in the full-app condition, however, app use was markedly low overall. At higher baseline psychological distress levels, there was a significant decrease in posttraumatic stress disorder symptoms from baseline to 1-month for the full-app group but not the tracking-only group (p\u2009=\u2009.002, d\u2009=\u2009-1.43). CONCLUSION: Despite consistent improvement across both app conditions, the minimal between group differences found here highlight the difficulties in developing effective, scalable resources for ESWs and the limitations of unguided digital programs more broadly. TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry ACTRN12622001324707.",
-      "journal": "PloS one",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "'Brain Rot' Among University Students in the Digital Age: A Phenomenological Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642385/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-05T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.766795",
-      "doi": "10.1007/s11920-025-01658-w",
-      "authors": [
-        {
-          "name": "\u00d6zkan \u00d6zbay",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE OF REVIEW: This study uses a phenomenological approach to explore how university students perceive and experience \"brain rot,\" a digital-age phenomenon marked by cognitive decline, attention deficits, and emotional desensitization from prolonged exposure to low-quality digital content. RECENT FINDINGS: Semi-structured interviews were conducted with 15 university students selected through maximum variation sampling, and data were analyzed using Moustakas' phenomenological method. Findings showed that students associated brain rot with reduced productivity, poor concentration, and impaired decision-making. They reported that low-quality digital content harmed academic performance, caused social isolation, and evoked inadequacy, while coping through self-regulation strategies such as exercise, digital detox, and mindfulness. Ultimately, this study provides the first qualitative evidence of how university students experience brain rot as a result of exposure to low-quality digital content and offers a unique and in-depth conceptual framework regarding its impact on individual and academic life in the digital era.",
-      "journal": "Current psychiatry reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Impact of yoga therapy in intestinal disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41641687/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-05T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.767777",
-      "doi": "10.1080/17474124.2026.2628016",
-      "authors": [
-        {
-          "name": "Giovanni Santacroce",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alessandra Cocchi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Antonio Di Sabatino",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Intestinal disorders such as irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), and colorectal cancer (CRC) are rising in prevalence worldwide. Despite medical advances, many patients experience persistent symptoms and impaired quality of life (QoL), highlighting the need for integrative, non-pharmacological approaches. AREAS COVERED: This review explores the physiological and clinical impact of yoga therapy in intestinal disorders, examining its effects on neural, intestinal, and microbial pathways. A structured literature search was conducted in PubMed for studies published from database inception to August 2025, to identify relevant clinical trials and meta-analyses across IBS, IBD, and CRC. Evidence suggests yoga improves symptom control, stress resilience, QoL, and may exert anti-inflammatory and neuromodulatory effects. EXPERT OPINION: Yoga therapy presents a low-risk, potentially cost-effective adjunct to conventional care, with applicability across diverse gastrointestinal conditions. Future integration into clinical practice will depend on overcoming barriers such as protocol variability, lack of clinician awareness, and limited reimbursement. Advancements in biomarker research, digital therapeutics, and personalized treatment models will shape the field. In the next decades, yoga therapy may become a standard, personalized component of integrative care in gastroenterology.",
-      "journal": "Expert review of gastroenterology & hepatology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Efficacy of Single-Session Intervention of Tinnitus Educational Counseling: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41642082/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-05T00:00:00",
-      "date_fetched": "2026-02-06T12:34:50.767904",
-      "doi": "10.1044/2025_AJA-25-00120",
-      "authors": [
-        {
-          "name": "Preeti Pandey",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Megan Knoetze",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anu Sharma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "De Wet Swanepoel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vinaya Manchaiah",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE: This systematic review aims to evaluate the efficacy of single-session interventions of tinnitus educational counseling (SSI-TEDs) in the management of tinnitus. METHOD: A systematic literature search was conducted and reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Five studies met the inclusion criteria: three were two-arm randomized controlled trials (RCTs), and two employed a pretest-posttest design. Two studies compared SSI-TED with other interventions-neuro-music therapy ( RESULTS: Across five studies, a total of 307 participants received SSI-TED, while 190 were given alternative interventions. At 1-3 months follow-up, one RCT demonstrated a small-to-medium effect of SSI-TED on reducing tinnitus severity and distress. Pretest-posttest studies reported large effects of SSI-TED on these outcomes. Improvements were also observed in negative emotions, frustration, rumination, and social life. The long-term effect of SSI-TED was noted in one study. No significant effects were found for anxiety or depression. CONCLUSIONS: SSI-TED appears to be a promising intervention for reducing tinnitus-related distress and improving emotional well-being in the short term. The evidence suggests moderate benefits in control conditions and larger effects when evaluated in uncontrolled settings. However, its impact on comorbid anxiety and depression remains unclear. Further high-quality studies with long-term follow-up are needed to establish the sustained efficacy, effectiveness, and broader psychological benefits of SSI-TED. SUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.31215364.",
-      "journal": "American journal of audiology",
+      "abstract": "BACKGROUND: Psychological distress during pregnancy-including anxiety, depression, and fear of childbirth can adversely affect maternal well-being and obstetric outcomes. Midwifery-led care, which integrates antenatal education and psychosocial support, has been increasingly recognized as an effective approach to enhance maternal mental health and birth experiences. However, evidence from clinical trials remains fragmented and inconsistent. METHODS: A systematic review and meta-analysis were conducted following the PRISMA 2020 and Cochrane guidelines. Randomized controlled trials (RCTs) assessing the effects of midwifery-led interventions, including psychoeducation, counselling, mindfulness, continuity of care, and group prenatal care-on maternal psychological and obstetric outcomes were identified through PubMed, Embase, CENTRAL, Web of Science, and CINAHL up to January 2024. Pooled effect sizes were calculated via random-effects models (REMLs) with standardized mean differences (SMDs) or risk ratios (RRs) and 95\u202f% confidence intervals (CIs). RESULTS: A total of 18 RCTs involving 7462 women were included. Compared with standard or routine care, midwifery-led interventions significantly reduced maternal anxiety (SMD = -0.51, 95\u202f% CI -0.62 to -0.39), depression (SMD = -0.61, 95\u202f% CI -0.77 to -0.45), and fear of childbirth (SMD = -0.77, 95\u202f% CI -1.06 to -0.49) while enhancing maternal satisfaction and self-efficacy (SMD = 0.46, 95\u202f% CI 0.36-0.57). Regarding obstetric outcomes, pooled analyses indicated lower risks of preterm birth (RR = 0.74, 95\u202f% CI 0.63-0.88) and cesarean section (RR = 0.81, 95\u202f% CI 0.76-0.86), with a modest increase in birthweight (+0.11\u202fkg, 95\u202f% CI -0.09-0.30). Subgroup and sensitivity analyses confirmed the robustness of the results across intervention formats (in-person, group, or digital), regions, and measurement tools. CONCLUSION: Compared with standard care, midwifery-led psychological and educational interventions significantly improved maternal mental health and obstetric outcomes. The incorporation of structured midwife-led programs into routine antenatal services may enhance childbirth preparation, reduce intervention rates, and promote positive maternal experiences. These findings support midwifery-led care as a safe, effective, and woman-centered clinical model for optimizing perinatal outcomes.",
+      "journal": "Women and birth : journal of the Australian College of Midwives",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
