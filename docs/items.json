@@ -1,5 +1,250 @@
 {
-  "generated_at": "2026-02-08T12:26:00.412145",
-  "papers": [],
+  "generated_at": "2026-02-09T12:42:48.605271",
+  "papers": [
+    {
+      "title": "Enhancing Mindfulness-Based Cognitive Therapy in a Virtual Reality: A Prospective Interventional Study",
+      "url": "https://www.semanticscholar.org/paper/8d6a48bdad68556e372e00347cea474be34edcee",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-09T00:00:00",
+      "date_fetched": "2026-02-09T12:42:04.863950",
+      "doi": "10.1038/s41598-025-01359-7",
+      "authors": [
+        {
+          "name": "Bogoan Kim",
+          "author_id": "51043444",
+          "affiliation": null
+        },
+        {
+          "name": "Dayoung Jeong",
+          "author_id": "23996264",
+          "affiliation": null
+        },
+        {
+          "name": "Yoonseon Choi",
+          "author_id": "2322607024",
+          "affiliation": null
+        },
+        {
+          "name": "Yoonyoung Choi",
+          "author_id": "2249069646",
+          "affiliation": null
+        },
+        {
+          "name": "Hyungsook Kim",
+          "author_id": "2248545774",
+          "affiliation": null
+        },
+        {
+          "name": "Kyungsik Han",
+          "author_id": "2300431159",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The increasing prevalence of depression has highlighted Mindfulness-Based Cognitive Therapy (MBCT) as an effective treatment. However, conventional MBCT has several limitations, including barriers to access, the need for trained professionals, and inconsistent levels of participant engagement. The feasibility of using Virtual Reality (VR) for MBCT has emerged as a promising solution, but further research is needed to assess its therapeutic potential. This study examines the potential of VR-based treatment as an approach for individuals with depression. We developed and evaluated introductory mindfulness exercises and a three-session VR-MBCT program and conducted a feasibility study. Using the Meta Quest Pro and the E4 wristband, we collected data from 73 participants and analyzed feasibility, engagement, and behavioral patterns. Results showed high concentration levels, distinct emotional responses, and unique interaction patterns in individuals with depression. While survey data showed no significant differences between individuals with depression and individuals without depression in terms of the usability and presence of VR, sensor data showed higher entropy in electrodermal activity for individuals with depression, suggesting better emotional confrontation. Overall, our study highlighted the user-friendly and immersive aspects of VR-MBCT and its feasibility and potential applicability for individuals with depression.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBCT"
+      ]
+    },
+    {
+      "title": "Using chills-inducing music to augment self-transcendence, emotional breakthrough, and psychological insight during mindfulness and loving kindness meditation",
+      "url": "https://www.semanticscholar.org/paper/59cf32f7592b256d3f4a4217eae0364c90e0640b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-03T00:00:00",
+      "date_fetched": "2026-02-09T12:42:07.929504",
+      "doi": "10.3389/fpsyg.2026.1589132",
+      "authors": [
+        {
+          "name": "Leonardo Christov-Moore",
+          "author_id": "1404564137",
+          "affiliation": null
+        },
+        {
+          "name": "F. Schoeller",
+          "author_id": "2276137093",
+          "affiliation": null
+        },
+        {
+          "name": "Mathilda von Guttenberg",
+          "author_id": "2334785817",
+          "affiliation": null
+        },
+        {
+          "name": "Tiffany Durinski",
+          "author_id": "2409314362",
+          "affiliation": null
+        },
+        {
+          "name": "M. Walder",
+          "author_id": "2042404004",
+          "affiliation": null
+        },
+        {
+          "name": "Felipe A. Jain",
+          "author_id": "2409320444",
+          "affiliation": null
+        },
+        {
+          "name": "Marco Iacoboni",
+          "author_id": "2409314409",
+          "affiliation": null
+        },
+        {
+          "name": "N. Reggente",
+          "author_id": "3435438",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n \n Non-pharmacologically induced altered states of consciousness that promote mental health and wellbeing are a growing focus of clinical and basic research. Previous work has revealed the mood-augmenting, belief-altering, and self-transcendent effects of aesthetic-chills-inducing audiovisual stimulation. The current study investigated how a guided loving kindness meditation (LKM) combined with uplifting, chills-inducing music (henceforth: chills-augmented) affected participants\u2019 mood, self-transcendence (ST), psychological insight, and emotional breakthrough.\n \n \n \n \n We conducted a randomized, controlled online study (\n n\n \u202f=\u202f398) using a 2 \u00d7 2 design comparing a validated loving kindness meditation (LKM) to mindfulness-based control (MC), each with chills augmentation (+) and without (\u2212).\n \n \n \n \n As hypothesized, LKM, compared to MC, increased connectedness to others, while chills augmentation to either stimulus (LKM+/MC+) enhanced ST, mood, emotional breakthrough, and psychological insight. Mediation analyses confirmed that the occurrence of aesthetic chills during meditation predicted these downstream effects. They also found trait measures that independently (of main effects) contributed to distinct outcomes: absorption predicted feelings of ego-dissolution, connectedness to the world and self, and moral elevation; interoceptive awareness predicted ego-dissolution and connectedness to self; and vividness of internal imagery predicted connectedness to the world and others.\n \n \n \n Chills augmentation appears a viable method for enhancing the immersiveness, salience, and downstream positive impact of guided contemplative interventions, without interfering with the intended outcome. This work can further our understanding of and access to non-ordinary experiences that beget salutogenic, prosocial outcomes.\n",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Investigating the neurological effects of loving kindness meditation using EEG-based feature extraction and machine learning",
+      "url": "https://www.semanticscholar.org/paper/a5bccb8de34a5d589ce1ca7a8f5c8d8b0ab2e2fb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-01T00:00:00",
+      "date_fetched": "2026-02-09T12:42:07.929514",
+      "doi": "10.1049/icp.2025.4715",
+      "authors": [
+        {
+          "name": "Lalita Moharkar",
+          "author_id": "40071415",
+          "affiliation": null
+        },
+        {
+          "name": "Monika Bhagwat",
+          "author_id": "2408817945",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "IET Conference Proceedings",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Optimizing deep CNN architecture via hybrid Harris Hawks arithmetic algorithm for EEG meditation classification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41655886/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-06T00:00:00",
+      "date_fetched": "2026-02-09T12:42:47.699130",
+      "doi": "10.1016/j.neuroscience.2026.02.001",
+      "authors": [
+        {
+          "name": "Soniya Shakil Usgaonkar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Damodar Reddy Edla",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dharavath Ramesh",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Meditation is a widely recognized practice that enhances mental well-being and cognitive function. Despite advances in EEG meditation neuroscience, challenges persist in extracting robust and interpretable features from complex, non-stationary EEG signals. Existing classification methods often rely on limited feature sets and traditional machine learning approaches. These methods lack comprehensive integration of advanced time-frequency analysis, deep learning, and modern nature-inspired optimization techniques. To address this gap, we introduce a hybrid EEG-based theta-band meditation classification framework that combines Harris Hawks Optimization (HHO) and the Arithmetic Optimization Algorithm (AOA) to tune the parameters of a Convolutional Neural Network (CNN). EEG signals are pre-processed and converted into time-frequency images using the Stockwell Transform (S-transform). These images are fed into the proposed HHO-AOA-CNN framework, where HHO explores and AOA exploits to achieve effective hyper-parameter optimization. The optimized CNN is then used to classify EEG data into three categories: Vipassana (VIP), Isha Shoonya (IS), and Control (CTR). Experimental results demonstrate that the hybrid model outperforms standalone HHO-CNN, AOA-CNN, and baseline CNN models. The proposed approach achieves an accuracy of 94.20%, indicating strong classification performance. Additionally, statistical measures such as best, worst, average fitness, and standard deviation confirm the stability and robustness of the hybrid optimizer.",
+      "journal": "Neuroscience",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Trait-like stability of selfhood triumvirate and its constituent aspects: A qEEG intra-individual test-retest reliability study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41653492/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-06T00:00:00",
+      "date_fetched": "2026-02-09T12:42:47.699551",
+      "doi": "10.1016/j.concog.2026.104004",
+      "authors": [
+        {
+          "name": "Alexander A Fingelkurts",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andrew A Fingelkurts",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study investigated the intraindividual stability and reliability of the three core aspects of the Selfhood triumvirate ('Self', 'Me', and 'I') as well as their mutual relationship (the Selfhood triumvirate configuration/pattern) by measuring the within-subjects reproducibility of functional integrity within three operational modules (OMs) of the brain's self-referential network (SRN), each associated with one of these aspects, upon repeat testing (test-retest reliability). Our findings revealed statistically robust, moderate-to-high intraindividual test-retest reliability for the individual aspects ('Self', 'Me', and 'I'), and exceptionally high reliability for their overall functional configuration (i.e., the relative proportion of expression among the three aspects). Importantly, the analyses did not provide evidence that the duration between assessments, participants' age, or the presence of somatic or psychopathological conditions moderated these reliability measures. Taken together, the results suggest that the 'Self', 'Me', and 'I' aspects of the Selfhood triumvirate, as well as their overall functional configuration, exhibit trait-like properties, albeit to varying degrees, measured as the stability of functional integrity within the corresponding SRN OMs across time, age, and normative versus pathological conditions. Limitations of the present study and directions for future research are discussed.",
+      "journal": "Consciousness and cognition",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The role of streamer trustworthiness and attractiveness in enhancing viewer engagement and mindfulness in live streaming.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41655352/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-07T00:00:00",
+      "date_fetched": "2026-02-09T12:42:47.699858",
+      "doi": "10.1016/j.actpsy.2026.106367",
+      "authors": [
+        {
+          "name": "Madina Khudaykulova",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuanqiong He",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bojan Obrenovic",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Akmal Khudaykulov",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nurbanu Abueva",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "The current study aims to propose, develop, and validate a conceptual framework featuring viewer engagement and psychological consequences in the context of live streaming commerce. Focusing on how streamers' trustworthiness and attractiveness shape streamers' state mindfulness experiences for live streaming commerce among Uzbekistan-based consumers, our framework draws upon Stimulus-Organism-Response (S-O-R); Uses and Gratifications Theory (UGT) and Social Cognitive Theory (SCT). Survey data generated 319 valid responses from livestream viewers in Uzbekistan, which were used to empirically evaluate the proposed model through Structural Equation Modeling (SEM). Findings reveal that participants engage in a three-stage process, which includes the stimulus, organism, and response stage, in shaping their psychological engagement during livestreaming. The evidence demonstrates that streamer trustworthiness and attractiveness serve as important precursors to information seeking, recognition, and escapism gratifications, which, in turn, enhance mindful engagement online. By offering insights into viewers' mental and emotional reactions to streamer cues in a developing market environment, the study is expected to guide the creation of livestreaming platforms that foster sustained attention and online well-being in Uzbekistan and other developing economies with similar socio-cultural settings.",
+      "journal": "Acta psychologica",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    }
+  ],
   "articles": []
 }
