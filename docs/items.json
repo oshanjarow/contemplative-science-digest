@@ -1,303 +1,313 @@
 {
-  "generated_at": "2026-02-10T12:47:04.519221",
+  "generated_at": "2026-02-11T12:42:31.793922",
   "papers": [
     {
-      "title": "Mindfulness-based interventions for enhancing adolescent mental health and well-being: A scoping review",
-      "url": "https://www.semanticscholar.org/paper/541725d096298d6518ea6bbb25fcf2cd5a91e3cc",
+      "title": "Mindfulness Meditation for Sleep Disturbances Among Individuals with Cognitive Impairment: A Scoping Review",
+      "url": "https://www.semanticscholar.org/paper/8247eb28416bace3cddf7173d32ea2a3451c43f7",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-02-10T12:46:16.204224",
-      "doi": "10.1016/j.cegh.2025.101961",
+      "date_published": "2025-01-31T00:00:00",
+      "date_fetched": "2026-02-11T12:41:41.360391",
+      "doi": "10.3390/healthcare13030296",
       "authors": [
         {
-          "name": "Jobin. K",
-          "author_id": "2348970015",
+          "name": "Sunny H W Chan",
+          "author_id": "2148763891",
           "affiliation": null
         },
         {
-          "name": "Ravichandran Nair K",
-          "author_id": "2348966499",
+          "name": "R. Cheston",
+          "author_id": "144757940",
           "affiliation": null
         },
         {
-          "name": "Lena Ashok",
-          "author_id": "2348966524",
+          "name": "Charlotte Steward-Anderson",
+          "author_id": "2343978321",
           "affiliation": null
         },
         {
-          "name": "M. Manjula",
-          "author_id": "2344075136",
+          "name": "C. Yu",
+          "author_id": "2306495753",
           "affiliation": null
         },
         {
-          "name": "Teddy Andrews J J",
-          "author_id": "2348972468",
+          "name": "E. Dodd",
+          "author_id": "145822517",
           "affiliation": null
         },
         {
-          "name": "Edlin Glane Mathias",
-          "author_id": "2232593643",
-          "affiliation": null
-        },
-        {
-          "name": "Priyanka Krishnan",
-          "author_id": "2348969480",
+          "name": "E. Coulthard",
+          "author_id": "2191673897",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Clinical Epidemiology and Global Health",
+      "abstract": "Background: This scoping review investigates the effectiveness of mindfulness meditation in alleviating sleep disturbances among individuals with mild cognitive impairment (MCI) and Alzheimer\u2019s disease (AD). With the rising prevalence of dementia and its profound impact on cognitive function and quality of life, this review aims to synthesize existing research and identify gaps in the literature. Methods: We systematically searched six electronic databases (CINAHL, Embase, Medline, PsycINFO, PubMed, and Scopus) from 2004 to 2024, yielding 462 potentially relevant articles. Screening was conducted using ASReview, an AI ranking tool, which facilitated the selection of studies. Ultimately, seven studies that met our stringent eligibility criteria were included in the review. We adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines for reporting. Results: Our findings indicate that mindfulness meditation significantly improves sleep quality, reduces insomnia severity, and enhances overall well-being in this at-risk population. Notably, interventions that combine structured, face-to-face sessions with at-home practice emerged as the most effective. Conclusions: Despite these positive outcomes, methodological limitations, including small sample sizes and reliance on self-reported measures, underscore the need for more rigorous long-term studies. This review highlights the potential of mindfulness meditation as a low-cost, scalable intervention to improve sleep and cognitive health in older adults, paving the way for future research and clinical applications.",
+      "journal": "Healthcare",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "mindfulness"
+        "meditation"
       ]
     },
     {
-      "title": "Mindfulness-based interventions for adults with type 2 diabetes mellitus: A systematic review and meta-analysis",
-      "url": "https://www.semanticscholar.org/paper/4a432abeee59a2270085a81d77e267c216894734",
+      "title": "EEG oscillations reveal neuroplastic changes in pain processing associated with long-term meditation",
+      "url": "https://www.semanticscholar.org/paper/5400eb6428c1072f4a6e6dd2c9cf9be8a4270e47",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-02-10T12:46:16.204240",
-      "doi": "10.1016/j.imr.2025.101138",
+      "date_published": "2025-03-27T00:00:00",
+      "date_fetched": "2026-02-11T12:41:41.360403",
+      "doi": "10.1038/s41598-025-94223-7",
       "authors": [
         {
-          "name": "C. Ee",
-          "author_id": "2264968575",
+          "name": "J. Yordanova",
+          "author_id": "2031843",
           "affiliation": null
         },
         {
-          "name": "Ieman Al-Kanini",
-          "author_id": "2147169907",
+          "name": "V. Nicolardi",
+          "author_id": "2910211",
           "affiliation": null
         },
         {
-          "name": "Mike Armour",
-          "author_id": "2340346293",
+          "name": "Peter Malinowski",
+          "author_id": "2352440261",
           "affiliation": null
         },
         {
-          "name": "Milan K Piya",
-          "author_id": "2351523286",
+          "name": "Luca Simione",
+          "author_id": "2421672",
           "affiliation": null
         },
         {
-          "name": "Rita McMorrow",
-          "author_id": "2351529301",
+          "name": "Salvatore M. Aglioti",
+          "author_id": "2300380809",
           "affiliation": null
         },
         {
-          "name": "V. Rao",
-          "author_id": "1380540304",
+          "name": "A. Raffone",
+          "author_id": "3103577",
           "affiliation": null
         },
         {
-          "name": "Dhevaksha Naidoo",
-          "author_id": "151449064",
-          "affiliation": null
-        },
-        {
-          "name": "Maria-Inti Metzendorf",
-          "author_id": "7975514",
-          "affiliation": null
-        },
-        {
-          "name": "Cynthia M Kroeger",
-          "author_id": "2253516111",
-          "affiliation": null
-        },
-        {
-          "name": "Angelo Sabag",
-          "author_id": "2350960153",
+          "name": "V. Kolev",
+          "author_id": "1944869",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Integrative Medicine Research",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "mindfulness"
-      ]
-    },
-    {
-      "title": "Enhancing Rigor in Quantitative Meta-Analyses for Mindfulness Research: A Comprehensive Guide",
-      "url": "https://www.semanticscholar.org/paper/14447f820c322d5b88a934fe08a71bb30be61ab3",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-01T00:00:00",
-      "date_fetched": "2026-02-10T12:46:16.204252",
-      "doi": "10.1007/s12671-025-02517-8",
-      "authors": [
-        {
-          "name": "Edie L. Sperling",
-          "author_id": "66295850",
-          "affiliation": null
-        },
-        {
-          "name": "B. Khoury",
-          "author_id": "6339775",
-          "affiliation": null
-        },
-        {
-          "name": "Anna Sutton",
-          "author_id": "2248062074",
-          "affiliation": null
-        },
-        {
-          "name": "Mollie A. Price-Blackshear",
-          "author_id": "1460281504",
-          "affiliation": null
-        },
-        {
-          "name": "B. A. Bettencourt",
-          "author_id": "2255004582",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "mindfulness"
-      ]
-    },
-    {
-      "title": "Effets de la pleine conscience (MBSR) sur la sant\u00e9 cardiom\u00e9tabolique: revue syst\u00e9matique et m\u00e9ta-analyse de 1200 participants",
-      "url": "https://www.semanticscholar.org/paper/4d1fbdf1ff0ebbf7351ffbab3bf088b3a63c4d48",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-11-01T00:00:00",
-      "date_fetched": "2026-02-10T12:46:21.672946",
-      "doi": "10.1016/j.ancard.2025.101963",
-      "authors": [
-        {
-          "name": "M. Temgoua",
-          "author_id": "2260931553",
-          "affiliation": null
-        },
-        {
-          "name": "F. Endomba",
-          "author_id": "2083516993",
-          "affiliation": null
-        },
-        {
-          "name": "C. Berenfeld",
-          "author_id": "2155223935",
-          "affiliation": null
-        },
-        {
-          "name": "A. Berenfeld",
-          "author_id": "2387566444",
-          "affiliation": null
-        },
-        {
-          "name": "J. Bloch",
-          "author_id": "145798831",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Annales de cardiologie et d'angeiologie",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBSR"
-      ]
-    },
-    {
-      "title": "Optical band gap modulation in functionalized chitosan biopolymer hybrids using absorption and derivative spectrum fitting methods: A spectroscopic analysis",
-      "url": "https://www.semanticscholar.org/paper/cd638b100d4fc0424322d91ddaebab0e0555d06c",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-25T00:00:00",
-      "date_fetched": "2026-02-10T12:46:34.137607",
-      "doi": "10.1038/s41598-025-87353-5",
-      "authors": [
-        {
-          "name": "D. Mamand",
-          "author_id": "1396585919",
-          "affiliation": null
-        },
-        {
-          "name": "Dana S. Muhammad",
-          "author_id": "2059434391",
-          "affiliation": null
-        },
-        {
-          "name": "Daron Q. Muheddin",
-          "author_id": "2204385100",
-          "affiliation": null
-        },
-        {
-          "name": "Karzan A. Abdalkarim",
-          "author_id": "2028840744",
-          "affiliation": null
-        },
-        {
-          "name": "Dana A. Tahir",
-          "author_id": "94272805",
-          "affiliation": null
-        },
-        {
-          "name": "Hawkar A Muhammad",
-          "author_id": "2342267937",
-          "affiliation": null
-        },
-        {
-          "name": "S. Aziz",
-          "author_id": "2294387119",
-          "affiliation": null
-        },
-        {
-          "name": "Sarkawt A Hussen",
-          "author_id": "93325439",
-          "affiliation": null
-        },
-        {
-          "name": "Jamal Hassan",
-          "author_id": "2268842919",
-          "affiliation": null
-        }
-      ],
-      "abstract": "In this study, biopolymer composites based on chitosan (CS) with enhanced optical properties were functionalized using Manganese metal complexes and black tea solution dyes. The results indicate that CS with Mn2+-complexes can produce polymer hybrids with high absorption, high refractive index and controlled optical band gaps, with a significant reduction from 6.24 eV to 1.21 eV. The refractive index and optical dielectric constant measurements show that the doped CS films have more charge carriers and traps than those in pure CS films. The Lorentz-Drude model was used to derive several significant optical parameters, and the W-D model was utilized to calculate the optical moments M-1 changing from 0.35 to 2.13 and M-3 changing from 0.005 to 0.4. It was shown that the doped samples have larger Urbach energy than pure film, increased from 0.29 to 0.55 eV. Tauc and ASF model was also used to calculate the electronic transitions, band structure, and optical characteristics. Bandgap energy based on Tauc model at m\u2009=\u20092, 1/3, 1/2, and 2/3 are 1.77, 1.54, 1.47, and 1.37 eV, based on ASF model are 1.52, 1.42, 1.69, and 1.47 eV, respectively. As a result of changes in the optical diffraction parameters the optical mobility (\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mu }_{opt}$$\\end{document}) changed from 1.67 to 1.27 and optical resistivity \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\rho }_{opt}$$\\end{document} from 9.36\u2009\u00d7\u200910\u201327 to 4.0\u2009\u00d7\u200910\u201329. The dopped samples show an increase in their linear optical susceptibility, third-order nonlinear optical susceptibility and nonlinear refractive indices, changing from 3.165\u2009\u00d7\u200910\u201315 to 2.831\u2009\u00d7\u200910\u201312 esu. Finally, light propagation velocities, surface resistance, and thermal emissivity were also examined.",
+      "abstract": "The experience of pain is a combined product of bottom-up and top-down influences mediated by attentional and emotional factors. Meditation states and traits are characterized by enhanced attention/emotion regulation and expanded self-awareness that can be expected to modify pain processing. The main objective of the present study was to explore the effects of long-term meditation on neural mechanisms of pain processing. EEG pain-related oscillations (PROs) were analysed in highly experienced practitioners and novices during a non-meditative resting state with respect to (a) local frequency-specific and temporal synchronizing characteristics to reflect mainly bottom-up mechanisms, (b) spatial synchronizing patterns to reflect the neural communication of noxious information, (c) pre-stimulus oscillations to reflect top-down mechanisms during pain expectancy, and (d) the P3b component of the pain-related potential to compare the emotional/cognitive reappraisal of pain events by expert and novice meditators. Main results demonstrated that in experienced (long-term) meditators as compared to non-experienced (short-term) meditators (1) the temporal and spatial synchronizations of multispectral (from theta-alpha to gamma) PROs were substantially suppressed at primary and secondary somatosensory regions contra-lateral to pain stimulation within 200 ms after noxious stimulus; (2) pre-stimulus alpha activity was significantly increased at the same regions, which predicted the suppressed synchronization of PROs in long-term meditators; (3) the decrease of the P3b component was non-significant. These novel observations provide evidence that even when subjected to pain outside of meditation, experienced meditators exhibit a pro-active top-down inhibition of somatosensory areas resulting in suppressed processing and communication of sensory information at early stages of painful input. The emotional/cognitive appraisal of pain is reduced but remains preserved revealing a capacity of experienced meditators to dissociate pro-active and reactive top-down processes during pain control.",
       "journal": "Scientific Reports",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "meditation"
       ]
     },
     {
-      "title": "IMPACTS OF MINDFULNESS ON CONCENTRATION: A SELF-REPORT OF A 20-DAY PRACTICE OF MEDITATIVE WALKING",
-      "url": "https://www.semanticscholar.org/paper/33cf7be61219cf41d65e59bbefdda068d2359681",
+      "title": "A novel classification of meditation techniques via optimised chi-squared 1D-CNN method based on complexity, continuity and connectivity features",
+      "url": "https://www.semanticscholar.org/paper/403a8b8954270797241c0144ef7b17b6f7d0da23",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-09-01T00:00:00",
-      "date_fetched": "2026-02-10T12:46:34.137626",
-      "doi": "10.22159/ijss.2025v13i5.55961",
+      "date_published": "2025-02-19T00:00:00",
+      "date_fetched": "2026-02-11T12:41:41.360413",
+      "doi": "10.1080/09540091.2025.2467387",
       "authors": [
         {
-          "name": "Thang Van Bui",
-          "author_id": "2395226764",
+          "name": "Abhishek Jain",
+          "author_id": "2279258526",
+          "affiliation": null
+        },
+        {
+          "name": "Rohit Raja",
+          "author_id": "2279246732",
+          "affiliation": null
+        },
+        {
+          "name": "Manoj Kumar",
+          "author_id": "2380380263",
+          "affiliation": null
+        },
+        {
+          "name": "P. Verma",
+          "author_id": "2346356160",
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness is originally a concept in Buddhism and has been widely used to improve mental state around the world. Meditative walking, a type of mindfulness practice, is a widespread practice. The main aim of the research is to find how a 20-day practice of mindfulness can improve the practitioners\u2019 concentration. A self-report method was employed. The author reflected on his practices and experiences within a total of 20 days of mindfulness practice by meditative walking at night for 20 min (from 8 to 8.20 pm) every day. He made notes on every single happenstance that he was aware of. The primary assessment was through daily monitoring of increased mindfulness and other internal and external factors influencing the practice. Findings show that regular mindfulness practice improved the concentration level. Specifically, in the first 2 days, the practitioner kept concentration for about 2\u20133 min. On day 5, the concentration level increased up to 7 min. It kept growing to 17 min on day 15. Furthermore, on the final 5 days, the concentration continued to grow and reached the level of 20 min on the last day. Implications of mindfulness practice for concentration are discussed.",
-      "journal": "Innovare journal of social sciences",
+      "abstract": "The intricate world of human\u2013computer interaction deeply explores how people gain knowledge and blend technology into daily life. Electroencephalography (EEG) is one of several methods for measuring brain activity, it is non-invasive, portable, inexpensive and time-sensitive. Research shows a strong link between meditation and changes in EEG patterns, spanning various techniques. With machine learning playing a major role, EEG datasets have made comprehensive study possible. This paper investigates the efficacy of 1D-CNN (One-Dimensional Convolutional Neural Network) classification, using complexity, continuity and connectivity features. It remarkably outperforms and achieves 60% training accuracy, showcasing model robustness in meditation classification. This novel methodology enables to differentiates neural oscillations in type of meditator and control. Prior research used power spectrum density, entropy, and connectivity for meditation distinctions. EEG data from practitioners of Himalayan Yoga (HYT), Isha Shoonya (SYN) and Vipassana (VIP) as well as untrained controls (CTR) are examined in this research. Employing chi-square, CNN and hyperparameter models, outcomes reveal distinctive cognitive aspects among meditation styles, allowing effective differentiation.",
+      "journal": "Connection science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditation"
+      ]
+    },
+    {
+      "title": "Peran Mindfulness Berbasis Islam terhadap Kesejahteraan Psikologis Siswa di Era Digital",
+      "url": "https://www.semanticscholar.org/paper/3ce05a8ef80f5883f87e0c89bfc66b8d47a463f6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-10T00:00:00",
+      "date_fetched": "2026-02-11T12:41:42.461601",
+      "doi": "10.30998/jebg.v1i1.3725",
+      "authors": [
+        {
+          "name": "Retisfa Khairanis",
+          "author_id": "2335755895",
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad Aldi",
+          "author_id": "1381654786",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengeksplorasi peran mindfulness berbasis Islam dalam meningkatkan kesejahteraan psikologis siswa di era digital. Dengan meningkatnya tekanan dan tantangan yang dihadapi mahasiswa akibat penggunaan teknologi, penelitian ini berfokus pada pemahaman mendalam tentang bagaimana praktik mindfulness yang diintegrasikan dengan nilai-nilai Islam dapat membantu mahasiswa mengatasi stres dan meningkatkan kesejahteraan mental mereka. Metode yang digunakan dalam penelitian ini adalah pendekatan kualitatif dengan teknik wawancara mendalam. Data dikumpulkan dari beberapa siswa yang terlibat dalam program mindfulness berbasis Islam di beberapa sekolah menengah di daerah perkotaan. Analisis data dilakukan dengan menggunakan metode analisis tematik untuk mengidentifikasi tema-tema utama yang muncul dari pengalaman para partisipan. Hasil penelitian menunjukkan bahwa siswa yang menerapkan mindfulness berbasis Islam melaporkan adanya peningkatan dalam kemampuan mengelola emosi, penurunan tingkat kecemasan, dan peningkatan rasa syukur. Selain itu, para siswa juga merasakan manfaat sosial dari praktik ini, seperti peningkatan hubungan interpersonal dan dukungan emosional dari teman sebaya. Kesimpulan dari penelitian ini menegaskan pentingnya mengintegrasikan mindfulness berbasis Islam dalam pendidikan untuk mendukung kesejahteraan psikologis siswa, terutama di era digital yang penuh tekanan. Penelitian ini merekomendasikan pengembangan program pelatihan mindfulness berbasis Islam sebagai bagian dari kurikulum pendidikan untuk membantu siswa menghadapi tantangan modern.",
+      "journal": "Akhlak: Journal of Education Behavior and Religious Ethics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Pengaruh Pelaksanaan Vipassan\u0101 Bhavana terhadap Pengendalian Diri (Samvara) para Sastri di Pasastrian Buddha Kusalamitra Gunungkidul",
+      "url": "https://www.semanticscholar.org/paper/dfbcccb90a984e12d46f6565f65422e6ecd5538b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-30T00:00:00",
+      "date_fetched": "2026-02-11T12:41:50.049810",
+      "doi": "10.61132/jbpab.v3i3.1841",
+      "authors": [
+        {
+          "name": "Titik Handayani",
+          "author_id": "2409418353",
+          "affiliation": null
+        },
+        {
+          "name": "Suharno Suharno",
+          "author_id": "2220424358",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Kusalamitra Buddhist Pasastrian in Gunungkidul is one of the institutions that organizes non-formal education. Kusalamitra Buddhist Pasastrian is engaged in non-formal education and training that is social and religious in nature. The Kusalamitra Buddhist Pasastrian organizes religious education and training such as Dharma guidance, meditation practice, religious ceremony practice, guidance and training of Buddhist youth. The habituation of behaving based on Buddhist teachings is the main goal of this Pasatrian Education. One of the education and training programs at the Kusalamitra Buddhist Pasastrian is vipassan\u0101 bhavana training. Some students are diligent in implementing vipassan\u0101 bhavana, but some are not diligent. In addition, there are still some students who do not have good self-control (samvara). The purpose of the study was to determine the effect of the implementation of vipassan\u0101 bhavana on the self-control (samvara) of students at the Kusalamitra Buddhist Pasastrian. This study is a quantitative study with a population of 44 students. The results of the study showed that the implementation of vipassan\u0101 bhavana had an effect on self-control (samvara), by 55% and the remaining 45% was influenced by other factors.",
+      "journal": "Jurnal Budi Pekerti Agama Buddha",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "vipassana"
+      ]
+    },
+    {
+      "title": "A Religious\u2013Psychological Study of Anthony de Mello\u2019s Sadhana Practice",
+      "url": "https://www.semanticscholar.org/paper/d4e3d2a21b02927a1104156d27c7f3d99b2cf6ce",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-20T00:00:00",
+      "date_fetched": "2026-02-11T12:41:50.049984",
+      "doi": "10.3390/rel16091207",
+      "authors": [
+        {
+          "name": "Yong Un Choe",
+          "author_id": "2382023599",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study aims to examine Anthony de Mello\u2019s Sadhana practice from a religious\u2013psychological perspective, applying Carl Gustav Jung\u2019s analytical psychology and views on the Spiritual Exercises. The analysis reveals that Sadhana, which integrates psychotherapeutic methods such as Gestalt therapy and the methodology of Vipassana meditation, holds significant implications. First, based on Jung\u2019s theory, Sadhana pursues wholeness through the union of opposites, such as extraversion and introversion. Jung posited that opposing elements coexist within the human psyche, and their harmonization is central to individuation. Thus, practices that integrate these opposites are meaningful attempts to foster inner growth and maturity. Second, by incorporating Gestalt therapy into the Spiritual Exercises, Sadhana enhances awareness and employs methods to address contact boundary disturbances, enabling self-reflection and restoration of one\u2019s relationship with God. Anthony de Mello\u2019s Sadhana practice is evaluated as a novel case that presents new possibilities for contemporary Christian spirituality.",
+      "journal": "Religions",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "vipassana"
+      ]
+    },
+    {
+      "title": "Cultivating the Meditative Mind: The Philosophical Integration of \u015aamatha and Vipa\u015byan\u0101 in Early Yog\u0101c\u0101ra Thought",
+      "url": "https://www.semanticscholar.org/paper/0695c62c3946b609c4d2a2c77303e6eeceb1b713",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-06T00:00:00",
+      "date_fetched": "2026-02-11T12:41:59.054151",
+      "doi": "10.3390/rel17020200",
+      "authors": [
+        {
+          "name": "Feifei Yan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zhanguo Peng",
+          "author_id": "2382998405",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study examines the systematic development and philosophical \u201cfinalization\u201d of \u015bamatha (\u6b62 tranquility) and vipa\u015byan\u0101 (\u89c0 insight) within the foundational texts of the Yog\u0101c\u0101ra tradition. Central to the transmission of Buddhism to East Asia was the categorization of practice (\u4fee\u884c cary\u0101) through the lenses of concentration (\u4e09\u6469\u5730 sam\u0101dhi) and wisdom (\u822c\u82e5 praj\u00f1\u0101). This paper focuses on two pivotal canons: the \u015ar\u0101vakabh\u016bmi \u8072\u805e\u5730 section of the Yog\u0101c\u0101rabh\u016bmi-\u015b\u0101stra \u745c\u4f3d\u5e2b\u5730\u8ad6 and the Sa\u1e43dhinirmocana-s\u016btra \u89e3\u6df1\u5bc6\u7d93. In the \u015ar\u0101vakabh\u016bmi, \u015aamatha is presented as a rigorous, self-contained psychological system. The text outlines a cognitive progression from \u201cworldly common paths\u201d\u2014including impurities meditation (\u4e0d\u6de8\u89c0 a\u015bubhabh\u0101van\u0101) and the eight liberations (\u516b\u89e3\u812b a\u1e63\u1e6dau vimok\u1e63\u0101\u1e25)\u2014to the sophisticated \u201cnine stages of mental abiding\u201d (\u4e5d\u4f4f\u5fc3 nav\u0101k\u0101r\u0101 citta-sthiti\u1e25). This research analyzes the psychological mechanisms of these stages, illustrating how they facilitate a metacognitive transition from distraction (\u6563\u4e82 vik\u1e63epa) to absorption (\u79aa\u90a3 dhy\u0101na), culminating in the eradication of afflictions (\u7169\u60f1 kle\u015ba). Furthermore, the paper explores how the Sa\u1e43dhinirmocana-s\u016btra provides the ultimate philosophical synthesis of these practices. By framing \u015bamatha and vipa\u015byan\u0101 within the Consciousness-Only (\u552f\u8b58 vij\u00f1aptim\u0101trat\u0101) framework, the s\u016btra finalizes the meaning of Adhicitta-\u015bik\u1e63\u0101 (\u589e\u4e0a\u5fc3\u5b78 training in higher mind). By bridging the technical rigor of the \u015ar\u0101vakabh\u016bmi with the Mah\u0101y\u0101na ontological depth of the Sa\u1e43dhinirmocana-s\u016btra, this study clarifies the evolution of buddhist bh\u0101van\u0101.",
+      "journal": "Religions",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Peran Sosial dan Keagamaan Manggal\u012ba di Vihara Surya Putra Dusun Ngadisari",
+      "url": "https://www.semanticscholar.org/paper/5a847b4869c8ffd0930dc0908d9b26819a0d01c3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-30T00:00:00",
+      "date_fetched": "2026-02-11T12:41:59.054346",
+      "doi": "10.61132/jbpab.v3i1.1831",
+      "authors": [
+        {
+          "name": "Danu Aryanto",
+          "author_id": "2409305189",
+          "affiliation": null
+        },
+        {
+          "name": "Hesti Sadtyadi",
+          "author_id": "2372702849",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study examines the social and religious roles of a Manggal\u012ba within the Buddhist community, with a case study in Dusun Ngadisari, Tempuran Village, Kaloran District, Temanggung Regency, Central Java. The Manggal\u012ba is a local religious figure who serves as both an elder and leader of the community in various religious rituals such as weddings, funerals, patid\u0101na, and traditional ceremonies including gendurenan, nyadran kubur, and village selametan. In Buddhist communities without a pandita, the Manggal\u012ba plays a central role as a spiritual guide and preserver of local traditions. This research employs a qualitative descriptive approach using observation, in-depth interviews, and documentation methods. The selection of a Manggal\u012ba is conducted through communal deliberation, based on spiritual and ritual competence, particularly in the aspects of s\u012bla, sam\u0101dhi, and pa\u00f1\u00f1\u0101. The findings show that the Manggal\u012ba in Dusun Ngadisari fulfills his role with great dedication, both in guiding the community's spiritual life and participating in social matters such as conflict mediation, community empowerment, and maintaining social harmony among villagers.",
+      "journal": "Jurnal Budi Pekerti Agama Buddha",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Two Notions of Non-Conceptuality in Buddhist Meditative Practice",
+      "url": "https://www.semanticscholar.org/paper/339e46d551fb1dadb452251ec1cdaf1724120901",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-01T00:00:00",
+      "date_fetched": "2026-02-11T12:42:00.582859",
+      "doi": "10.1353/pew.2025.a973417",
+      "authors": [
+        {
+          "name": "John Spackman",
+          "author_id": "2344445842",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract:This article examines two accounts of how Buddhist meditative practice has been seen as cultivating non-conceptual mental states. The first, exemplified in recent work by Evan Thompson, drawing on Dharmak\u012brti, views the representational contents of certain meditative states as non-conceptual. The second, found in Yog\u0101c\u0101ra texts like the Mah\u0101y\u0101nasa\u1e43graha, suggests that meditation cultivates a type of awareness that is non-conceptual (nirvikalpaj\u00f1\u0101na). I argue that while there are strong epistemological and phenomenological arguments against any representational contents being non-conceptual, the view that awareness itself is non-conceptual can avoid these problems. Non-conceptual awareness is best understood, I suggest, as having a reflexive structure akin to later notions of selfawareness (svasa\u1e43vedana), which simultaneously establishes it as non-conceptual and vouchsafes it against the challenges facing non-conceptual content accounts. I thus offer a preliminary defense of the view that certain meditative practices cultivate an awareness in which the reflexive, non-conceptual nature of consciousness is revealed.",
+      "journal": "Philosophy East & West",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
@@ -307,27 +317,22 @@
       ]
     },
     {
-      "title": "Cultivating Awareness, Reverence, and Autonomy in Students: Meditative Inquiry as a Catalyst to Holistic Learning and Living",
-      "url": "https://www.semanticscholar.org/paper/d89d31dfce83d5f3ff03f82cd598e85ded94568d",
+      "title": "Listening to meditative sounds in film: an exploration of emotional guidance for the audience",
+      "url": "https://www.semanticscholar.org/paper/4a9017088a4c58d95be515df5bae109d9301a56a",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-25T00:00:00",
-      "date_fetched": "2026-02-10T12:46:34.137636",
-      "doi": "10.37119/ojs2025.v30i2.865",
+      "date_published": "2025-08-12T00:00:00",
+      "date_fetched": "2026-02-11T12:42:00.582868",
+      "doi": "10.54254/2753-7080/2025.25903",
       "authors": [
         {
-          "name": "Ashwani Kumar",
-          "author_id": "2254000892",
-          "affiliation": null
-        },
-        {
-          "name": "Shane Theunissen",
-          "author_id": "2377734054",
+          "name": "Jingya Li",
+          "author_id": "2377266604",
           "affiliation": null
         }
       ],
-      "abstract": "This conversational paper between Ashwani Kumar and Shane Theunissen explores how meditative inquiry in teaching and learning can foster reverence for nature, life, and learning. Through an organic and reflective conversation rooted in Dialogical Meditative Inquiry (DMI), the authors offer a holistic exploration of the intersections between personal transformation, environmental awareness, and holistic education. The authors emphasize that meditative inquiry challenges predetermined educational outcomes and encourages a profound, personal transformation that can lead to social change. Authors discuss how meditative inquiry can facilitate learning relationships that promote student autonomy and awareness, and how it can instill reverence for life. The paper considers how awe, wonder, and reverence can shift educational paradigms from mechanistic models toward contemplative, relational approaches informed by Indigenous and meditative perspectives. The conversation also highlights the strong connection between meditative inquiry and Indigenous ways of knowing, both of which are rooted in a deep reverence for nature and a harmonious relationship with the natural world. The paper promotes a contemplative and holistic approach to education and living, suggesting that personal transformation through meditative inquiry can contribute to a more respectful and interconnected relationship with oneself, others, and the environment. By challenging dominant narratives in education and promoting meditative and emergent dialogue, the authors advocate for education as a regenerative and transformative practice grounded in deep listening, interconnectedness, and awareness.\nKeywords: meditative inquiry, reverence, dialogical meditative inquiry, holistic education, nature, Indigenous philosophy \u00a0",
-      "journal": "On education",
+      "abstract": "This dissertation explores the role of meditative sound in film and its influence on emotional guidance and audience immersion. In contemporary film sound design, meditative sounds subtly evoke introspection, calm, and deep emotional resonance, yet their narrative significance is often overlooked. By analysing three distinct films - Nomadland, Arrival, and Her - this study examines how different auditory environments, from natural landscapes and silent cosmic expanses to futuristic electronic soundscapes, shape the perceptions and emotional responses of viewers. Employing psychoacoustic analysis, the research focuses on features such as low-frequency sound waves, rhythmic repetition, ASMR-like auditory triggers, and the strategic use of silence. The findings reveal that meditative sound design creates emotional balance, fosters psychological intimacy, and enhances immersion by constructing sonic spaces that guide audiences into states of relaxation, introspection, and emotional openness. These techniques significantly impact narrative engagement and emotional experience. The dissertation concludes that meditative sounds are intentional, integral elements of cinematic storytelling, offering filmmakers subtle yet powerful tools to shape audience emotions and perceptions. It also encourages further exploration into the integration of psychoacoustic principles within sound design practice.",
+      "journal": "Advances in Humanities Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
@@ -337,82 +342,153 @@
       ]
     },
     {
-      "title": "Resilience as a Mediator in a Web-Based Intervention (MINDxYOU) to Reduce Stress Among Health Care Professionals: Stepped-Wedge Cluster Randomized Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41662682/",
+      "title": "\u201cLittle Cause for Carolings\u201d: Resistance to Music in Hardy\u2019s Meditative Verse",
+      "url": "https://www.semanticscholar.org/paper/545627d2deb1b5087956a7dcb3ef9a3d67e037ff",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-11T00:00:00",
+      "date_fetched": "2026-02-11T12:42:00.582877",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Paul H. Schmidt",
+          "author_id": "2388064465",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Physical activity intensities and depression in colorectal cancer: interoceptive accuracy as a mediator and mindfulness as a moderator.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41665746/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-10T00:00:00",
+      "date_fetched": "2026-02-11T12:42:30.827901",
+      "doi": "10.1007/s11764-026-01979-6",
+      "authors": [
+        {
+          "name": "Muhammad Suliman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hongqun Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xinyi Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fares Barakat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wei Yao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ping Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meiling Qi",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: Depression is prevalent among colorectal cancer (CRC) survivors. Although various physical activity intensities are differentially associated with depressive symptoms, the underlying mediator and moderator involving interoception and mindfulness, remain unclear. This study aims to examine whether interoceptive accuracy differentially mediates the relationship between various physical activity intensities and depressive symptoms and whether mindfulness moderates these pathways. METHODS: In this multicenter cross-sectional study, 395 CRC survivors completed validated questionnaires assessing depressive symptoms, physical activity\u00a0participation, interoceptive accuracy, and mindfulness. Mediation and moderated mediation analyses via PROCESS version 4.1 for SPSS tested whether interoceptive accuracy mediated associations between light and moderate-to-vigorous physical activity (LPA vs. MVPA) and depressive symptoms, and whether mindfulness moderated these pathways. RESULTS: Both LPA and MVPA are negatively associated with depressive symptoms (p\u2009<\u20090.001). Interoceptive accuracy significantly mediated these associations, accounting for 49.09% of the total effect for LPA and 20.56% for MVPA. Mindfulness moderated the LPA-interoceptive accuracy (B\u2009=\u2009-0.004, p\u2009=\u20090.031), interoceptive accuracy-depression (B\u2009=\u2009-0.022, p\u2009=\u20090.004), and MVPA-depression pathways (B\u2009=\u2009-0.001, p\u2009=\u20090.034), suggesting differential, intensity-dependent associations. CONCLUSIONS: LPA showed negative associations with depressive symptoms, with interoceptive accuracy fully mediating this association. In contrast, MVPA demonstrated both direct and indirect associations with depressive symptoms, partially mediated by interoceptive accuracy. Mindfulness strengthened these relationships through complementary and synergistic moderation, highlighting the dynamic interaction between bodily awareness and physical activity in psychological recovery. IMPLICATIONS FOR CANCER SURVIVORS: Tailoring gentle, mindful movement to enhance interoception may offer a feasible, integrative rehabilitation strategy to reduce depression among CRC survivors.",
+      "journal": "Journal of cancer survivorship : research and practice",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Effect of Mindfulness-Based Art Therapy in Nursing Students: A Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41666347/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-11T00:00:00",
+      "date_fetched": "2026-02-11T12:42:30.828030",
+      "doi": "10.3928/01484834-20251119-01",
+      "authors": [
+        {
+          "name": "Nurcan D\u00fczg\u00fcn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Feride Ercan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Critical thinking and self-confidence are important concepts for nursing students. This study aimed to investigate the effects of mindfulness-based art therapy (MBAT) on the critical thinking dispositions and self-confidence levels of nursing students. METHOD: A randomized controlled trial was conducted using a parallel-group design with pretest and posttest measurements. A total of 53 nursing students completed the study. The intervention group participated in an 8-week MBAT program, whereas the control group received no intervention during this period. RESULTS: During the pretest phase, the intervention and control groups showed no statistically significant differences in their mean scores on the Critical Thinking Disposition and Self-Confidence scales ( CONCLUSION: The findings indicate that MBAT effectively enhances critical thinking disposition and self-confidence levels in nursing students.",
+      "journal": "The Journal of nursing education",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mindfulness-based Interventions for Pain and Symptom Management in Adolescent Cancer: Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41667310/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-10T12:46:53.405552",
-      "doi": "10.2196/82905",
+      "date_fetched": "2026-02-11T12:42:30.828175",
+      "doi": "10.1016/j.pmn.2026.01.003",
       "authors": [
         {
-          "name": "Gloria Guerrero-Perti\u00f1ez",
+          "name": "Wannita Sonkongdang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Vera Carbonell-Aranda",
+          "name": "Nuttanicha Sriboonyawattana",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Gloria P\u00e9rez-Guerrero",
+          "name": "Jutarat Mesukko",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jonathan Joseph Dawood-Hristova",
+          "name": "Srimana Niyomkar",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Adri\u00e1n P\u00e9rez-Aranda",
+          "name": "Petsunee Thungjaroenkul",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Selene Fern\u00e1ndez-Mart\u00ednez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alicia Monreal-Bartolom\u00e9",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alberto Barcel\u00f3-Soler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Javier Garc\u00eda-Campayo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yolanda L\u00f3pez Del Hoyo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jes\u00fas Herrera-Imbroda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jessica Marian Goodman-Casanova",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jose Guzman-Parra",
+          "name": "Piyanut Xuto",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: The mechanisms through which mindfulness and third wave-based digital programs exert their effects on stress reduction remain poorly understood. Identifying these mediators is essential to optimize their implementation, particularly in health care settings. This approach is particularly relevant for health care professionals, who are constantly exposed to high levels of emotional demands, work overload, and risk of burnout, especially in the aftermath of the COVID-19 pandemic. Despite the growing need for scalable and accessible mental health support in this population, such digital programs remain scarce and underused. OBJECTIVE: The primary aim of this study was to analyze the psychological mechanisms through which the MINDxYOU online program may contribute to stress reduction among health care professionals, focusing on a mediation model. Specifically, we explored if variables such as resilience and facets of mindfulness, compassion, and acceptance mediated the effects of the intervention on perceived stress. METHODS: In a stepped-wedge cluster randomized design, 357 health professionals from health centers in Aragon and M\u00e1laga, Spain, were recruited. They were divided into 6 clusters, 3 per region, and randomly assigned to one of the 3 sequences, each starting with a control phase and then transitioning to the intervention phase (the MINDxYOU program) after 8, 16, or 24 weeks. This self-guided, web-based program, designed to be completed over 8 weeks, included weekly contact (via WhatsApp, call, or email) from the research team to promote adherence. Participants were assessed on the web every 8 weeks for 5 assessments. Perceived stress was the study's primary outcome, with additional measures of clinical factors (anxiety, depression, and somatization) and process variables (resilience, mindfulness, compassion, and acceptance). Mediation models using mixed-effects regressions and bootstrap resampling (1000 iterations) were applied to analyze the direct and indirect effects of the treatment on psychological outcomes. RESULTS: Resilience emerged as the most consistent and significant mediator, exerting a relevant indirect effect on reducing stress (\u03b2=-1.41; P=.02), anxiety (\u03b2=-0.88; P=.03), and depression (\u03b2=-0.97; P=.01), even in multivariate models. Mindfulness facets such as observing, describing, and nonreacting also showed significant, albeit less consistent, mediating effects. In contrast, compassion and acceptance were weakly associated and did not play a significant mediating role. CONCLUSIONS: These results demonstrate resilience as the key psychological mediator. Strengthening resilience through online interventions appears to be a crucial pathway for reducing stress and emotional symptoms in this population. Specific mindfulness skills may also contribute to the intervention's therapeutic effect, although with less robust evidence.",
-      "journal": "JMIR mental health",
+      "abstract": "BACKGROUND: This systematic review aimed to examine how mindfulness approaches affect pain, symptom cluster severity, and quality of life among adolescents receiving cancer chemotherapy. Contrasting with prior syntheses emphasizing adult populations or isolated symptoms, this investigation specifically targets symptom clusters in adolescent cancer patients (aged 10-19 years), a unique population requiring specialized nursing care approaches given their distinct developmental characteristics. METHODS: A comprehensive literature evaluation was conducted across Scopus, Cochrane Embase, PubMed, CINAHL (EBSCOhost), and ProQuest databases for publications in English and Thai from 2014 to 2024. Independent researchers conducted quality evaluation using established JBI appraisal tools. Information was synthesized through quantitative analysis employing random-effects modeling to address methodological heterogeneity between controlled and uncontrolled investigations. RESULTS: From 299 identified publications, three investigations (n = 141) satisfied inclusion requirements. Participants received individualized mindfulness-based yoga protocols incorporating breathing techniques, physical movements, and relaxation practices. Analysis revealed predominantly nonsignificant outcomes across symptom measures. Uncontrolled studies demonstrated considerable heterogeneity for pain (I\u00b2 = 84%) and sleep (I\u00b2 = 86%) with no overall meaningful effects. The randomized trial showed no significant between-group differences for symptom measures. Uncontrolled studies indicated modest enhancement in cancer-specific quality of life aspects (standardized mean difference [SMD] = -0.55, p = .05); however, controlled comparison revealed no significant between-group changes for quality of life indicators. Evidence confidence was rated as low to extremely low across all measures due to high heterogeneity. CONCLUSION: This first systematic synthesis of MBIs for adolescent cancer populations identifies limited current efficacy but reveals critical evidence gaps. Findings highlight the need for rigorous, age-appropriate, nursing-led interventions that integrate mindfulness with other evidence-based strategies to address multidimensional symptom clusters in pediatric oncology care. CLINICAL IMPLICATIONS FOR NURSING PRACTICE: Pain management nurses play an integral role in advancing nonpharmacological approaches to symptom management for adolescents with cancer. Mindfulness-based interventions may have potential to enhance holistic care and support patients and families in coping with treatment-related symptoms; however, the current evidence base remains limited and of variable quality. Accordingly, these interventions should be interpreted with caution, and additional rigorous, nursing-led research is warranted to determine their efficacy, feasibility, and sustainability in pediatric oncology practice. REVIEW REGISTRATION: PROSPERO CRD42024538493.",
+      "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -420,358 +496,37 @@
       "matched_keywords": []
     },
     {
-      "title": "Current rehabilitation for adults with peripheral nerve injuries in the UK: An online survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41657760/",
+      "title": "The influence of organisational mindfulness on construction workers' safety behavior: a dual-path model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41665386/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-04T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.719780",
-      "doi": "10.1177/17589983261420313",
+      "date_published": "2026-02-10T00:00:00",
+      "date_fetched": "2026-02-11T12:42:30.828468",
+      "doi": "10.1080/13548506.2026.2623560",
       "authors": [
         {
-          "name": "Caroline Miller",
+          "name": "Min Yu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Suzanne Beale",
+          "name": "Qiqi Su",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Beth Fordham",
+          "name": "Jizu Li",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "David J Keene",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kenneth F Valyear",
+          "name": "Wenjing Qin",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Peripheral nerve injuries can lead to paralysis, sensory loss, chronic pain, and profound psychological and vocational consequences. Recent UK guidelines recommend biopsychosocial rehabilitation, yet qualitative evidence suggest gaps in service provision. This study explored current rehabilitation and perceived barriers among therapists treating adults with peripheral nerve injuries. METHODS: A cross-sectional online survey was distributed to UK physiotherapists and occupational therapists experienced in upper and lower limb peripheral nerve injury rehabilitation. Questions captured demographics, treatment strategies before and after reinnervation, access to psychological support, and perceived organisational barriers. Descriptive analysis was undertaken. RESULTS: Fifty-three respondents (60% physiotherapists, 40% occupational therapists) completed the survey; 70% had more than 10\u00a0years' experience. Ninety eight percent of respondents treated adults with upper limb nerve injuries. Motor and sensory interventions (active and passive range of motion, splinting, strength training, and functional activity) were reported as \"always/frequently\" used by >80% of respondents. Over a quarter of respondents (28%) occasionally/rarely used pain neuroscience education. Other specific psychological interventions including cognitive behavioural techniques and mindfulness were rarely used (<30% always/frequently). Over half respondents reported no outpatient access to clinical psychology. Organisational barriers included limited time, funding, skilled staff, and absence of local guidelines. However, 83% believed therapists could deliver more psychologically informed care. CONCLUSIONS: UK rehabilitation for adults with peripheral nerve injuries remains predominantly biomedical, with limited integration of psychologically informed care and limited access to Clinical Psychology. Addressing systemic barriers and evaluating digital or hybrid models may enable more biopsychosocial, patient-centred care.",
-      "journal": "Hand therapy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Addressing Health Inequities in Treating Neuropathic Pain: A Scoping Review of Cognitive Behavioral Therapies, Mindfulness, and Meditative-Based Interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41662824/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.720123",
-      "doi": "10.1093/epirev/mxag002",
-      "authors": [
-        {
-          "name": "Robert Buren",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Matteo Ponzano",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nathan T Adams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jane Jun",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kathleen A Martin Ginis",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Chronic pain is the leading cause of disability worldwide and chronic neuropathic pain (NP) disproportionately affects individuals with unmet healthcare needs, especially those facing health inequities. This scoping review addressed three research questions: (1) What are the characteristics and outcomes of cognitive behavioral therapy (CBT), mindfulness, and meditative-based intervention studies, designed to manage NP? (2) Are these intervention studies including participants from populations experiencing h2ealth inequities? (3) Are the interventions customized to meet the needs of people experiencing health inequities? Ten databases were searched for studies focused on the search terms cognitive behavioral therapy, CBT, mindfulness meditation, and neuropathic pain. In total, 1732 abstracts were screened and a total of 24 articles from 22 original studies were included. The primary characteristics of the studies showed that 99% of participants had NP attributable to diabetes, cancer, or spinal cord injury. Outcomes were consistent with previous reviews, demonstrating promise for CBT, mindfulness, and meditative-based therapies in relieving NP. However, demographics were poorly reported, and with little diversity among participants. Individuals from groups experiencing health inequities were largely unrepresented. While 55% of studies tailored intervention materials and provided content to support long-term practice, few included long-term follow-ups to evaluate sustained impact. In general, research on this topic has fallen short in including and addressing the needs of people experiencing health inequities. Future research should prioritize broader participant inclusion criteria, involve individuals with lived experience in intervention design and delivery, and conduct long-term follow-ups to enhance the accessibility, relevance, and sustainability of NP interventions.",
-      "journal": "Epidemiologic reviews",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Addressing Healthcare Provider Well-being in a Conflict Zone: A Mixed-Method Study of Vital Anesthesia Simulation Training Wellbeing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41662700/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.720484",
-      "doi": "10.1213/ANE.0000000000007983",
-      "authors": [
-        {
-          "name": "Mohamed Elaibaid",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rodrigo A Lopez-Barreda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jonathan G Bailey",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adam I Mossenson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elisabetta Maio",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Patricia Livingston",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Burnout among healthcare providers can adversely impact their performance and patient care. Vital Anaesthesia Simulation Training (VAST) Wellbeing is a 1-day course designed to promote personal and professional well-being and to reduce burnout for healthcare providers in low-resource settings. VAST Wellbeing has demonstrated benefits in this context but has never been evaluated in a conflict zone. This study assessed the influence of VAST Wellbeing among healthcare workers practicing in the EMERGENCY-NGO Salam Centre for Cardiac Surgery in Sudan amidst a conflict. METHODS: This mixed-methods study was designed to explore participants' experience of VAST Wellbeing offered in Sudan to learn about benefits and challenges to this training in a conflict zone. Our team used in-depth qualitative interviews with purposively selected course participants. Perceived social stigma of receiving mental health support and attitudes toward help seeking for mental health were also quantitatively assessed using the Stigma Scale for Receiving Psychological Help and the General Help-Seeking Questionnaire, respectively. RESULTS: Sixty healthcare providers attended the course; 35 completed quantitative measures, and 12 were interviewed. Stigma for receiving mental health support decreased comparing median [interquartile range {IQR}] precourse to postcourse scores (8.0 [6-9] versus 6.0 [3-8], P =.005). Willingness to seek help in the event of a mental health concern significantly increased when comparing precourse to postcourse scores (3.4 [2.6 to 3.9] versus 4.6 [3.9 to 5.0], P >.001). Three major themes and nine subthemes were identified during qualitative data analysis. Theme 1: The influence of conflict manifested as participants reporting persistent fear and stress and that the workplace was extremely strained. Theme 2: In social context it was noted that the training reduced social stigma, strengthened of a sense of community, and led to subtle changes in the workplace environment. Theme 3: The training contributed to new learning and practices, such as greater recognition of burnout and engaging in personal well-being practices. Acceptance of mindfulness was mixed, albeit with recognition of its positive effects. Despite many contextual challenges, participants reported the course to be needed and relevant. CONCLUSION: The findings suggest that VAST Wellbeing was pertinent and impactful in a conflict zone. It helped to foster a stronger sense of community, reduce stigma around mental health discussions, increase the acceptability of help-seeking, and encourage participants to adopt strategies for self-care and well-being.",
-      "journal": "Anesthesia and analgesia",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Complementary and Integrative Health Approaches for Low Back Pain in Veterans: A Narrative Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41661633/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.720566",
-      "doi": "10.1093/milmed/usaf641",
-      "authors": [
-        {
-          "name": "Richard P Petri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kosaku Aoyagi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gabriel Ibarra-Mej\u00eda",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Chronic low back pain (cLBP) is the most prevalent chronic pain condition among veterans, contributing to disability, reduced quality of life, and opioid dependence. Complementary and integrative health (CIH) approaches offer evidence-based, non-pharmacological alternatives that may improve pain management, enhance patient satisfaction, lower healthcare costs, and reduce opioid dependence. MATERIALS AND METHODS: The objective of the study was to synthesize current evidence on CIH approaches for veterans with cLBP, evaluate their impact on pain, function, and well-being, and identify implications for policy, health system implementation, and future research. The key questions of the study included: what is the effectiveness of CIH modalities in reducing cLBP intensity among veterans, what are their broader effects on health outcomes, opioid use, and quality of life, what barriers exist to implementation within the VA, and what research and policy priorities are needed to optimize veteran-centered CIH care? A narrative synthesis of peer-reviewed literature published between 2010 and 2025 was conducted, prioritizing studies specific to veterans and incorporating systematic reviews, randomized controlled trials, observational studies, and evidence maps. A patient-centered, biopsychosocial, and whole-health framework guided the analysis. RESULTS: Evidence for CIH in veterans remains limited compared to that in civilian populations, but it demonstrates promise. Battlefield acupuncture demonstrated clinically meaningful reductions in pain, although yoga, Tai Chi, Qigong, and mindfulness offered modest improvements in pain and functional outcomes. Cognitive-behavioral therapy, Chiropractic care, and massage showed mixed results, with low to moderate certainty and limited durability. Multimodal approaches integrating CIH with conventional care have demonstrated the strongest outcomes, including reduced opioid prescriptions, improved coping, and potential cost savings. Barriers to care include provider shortages, administrative challenges, and uneven access across facilities. CONCLUSIONS: CIH approaches represent patient-centered and holistic strategies with the potential to reduce pain, enhance function, and mitigate opioid reliance among veterans with cLBP. Broader, standardized implementation and veteran-specific trials are necessary to strengthen the evidence base and guide the sustainable integration of this approach into the VA health system.",
-      "journal": "Military medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A network meta-analysis of interventions for anxiety and depression in PCOS.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41664652/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.720612",
-      "doi": "10.7717/peerj.20744",
-      "authors": [
-        {
-          "name": "Zuolin Tan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yunqing Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jingyuan Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xinyin Hu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xuhan Su",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuhua Huang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: The study aimed to provide evidence to support optimal interventions for alleviating anxiety and depression symptoms in patients with polycystic ovarian syndrome (PCOS) through a systematic review and network meta-analysis. METHODS: A comprehensive literature search of PubMed, Embase, Cochrane Library, and Web of Science from their inceptions to January 2, 2025 was performed. The criteria for inclusion defined were as follows: (1) The study population consisted of female PCOS patients; (2) interventions included psychological therapy, exercise, drug treatment, or digital intervention; (3) studies that reported changes in anxiety and depression scores; and (4) randomized controlled trials (RCTs). Two reviewers independently screened the literature and extracted the data. Disagreements were resolved by consulting a third party. Standardized mean difference (SMD) was used for data recording in this study. The analysis of data was carried out based on a random-effects model, while network meta-analysis was implemented through R 4.4.0 and Just Another Gibbs Sampler (JAGS) 4.3.1. We conducted a Bayesian random-effects network meta-analysis (NMA) and ranked interventions using the surface under the cumulative ranking curve (SUCRA). RESULTS: This study included a total of 25 RCTs, involving 1,453 female PCOS patients, to evaluate the effects of various interventions in alleviating anxiety and depression symptoms. Effective interventions included emotion-focused therapy (EFT), peer support (PS), omega-3 plus vitamin E (O3+VE), and mindfulness stress management (MSM). Other interventions, such as metformin and vitamin D plus probiotics (VD+Pro), showed no significant benefit compared with control. Data on PS for anxiety were not analyzed in the present network meta-analysis because relevant trials could not be connected within the network structure. CONCLUSION: Our study demonstrates that EFT and PS emerge as promising interventions in alleviating anxiety and depression symptoms in PCOS patients. Interventions such as O3+VE and MSM also showed potential in improving emotional states.",
-      "journal": "PeerJ",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Shinshu mindful study: can mindfulness training change the retrieval mode of autobiographical memory?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41664487/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.720695",
-      "doi": "10.1080/09658211.2026.2628213",
-      "authors": [
-        {
-          "name": "Noboru Matsumoto",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Masahiro Fujino",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hana Sekine",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eri Yoshida",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lynn Ann Watson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Aleksandra Eriksen Isham",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Krystian Barzykowski",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Researchers have suggested that interoception can trigger the retrieval of autobiographical memories or influence the subjective sense of retrieval mode (e.g., involuntary or voluntary). This study examined whether four sessions of mindfulness training, aimed at improving interoceptive processing over eight weeks, can alter autobiographical memory retrieval and perceived retrieval mode in a community sample. 26 participants in the mindfulness group and 30 participants in the waitlist control group completed the study (",
-      "journal": "Memory (Hove, England)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Non-pharmacological interventions for sexual health in multiple sclerosis: a systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41657373/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.720885",
-      "doi": "10.1093/sexmed/qfaf102",
-      "authors": [
-        {
-          "name": "Hikmat Hadoush PhD",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Abdallah Al Hassoun MSc",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mohammad Al-Wardat PhD",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mohammad Etoom PhD",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alham Al-Sharman PhD",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Multiple sclerosis (MS), a neurodegenerative disease, frequently causes sexual dysfunction (SD) besides the well-known motor impairment, which significantly reduces patients' quality of life (QOL). AIM: This meta-analysis evaluates the effectiveness of non-pharmacological interventions for MS-related SD. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, a systematic search of PubMed, ScienceDirect, CINAHL, and Cochrane databases identified randomized and clinical trials; data were extracted, the risk of bias was assessed, and meta-analyses were conducted. OUTCOMES: The primary outcomes were changes in sexual function, satisfaction, and QOL. RESULTS: A total of 34 studies were included and eligible for meta-analysis. Pooled analyses revealed that yoga did not significantly improve sexual function standardized mean difference (SMD\u2009=\u2009-0.18,  CLINICAL IMPLICATION: Tailored exercise and psychoeducational interventions can be recommended to improve sexual function and satisfaction in patients with MS. STRENGTHS AND LIMITATIONS: Strengths include adherence to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines and comprehensive analysis; limitations are the heterogeneity of interventions and the short-term nature of the included studies. CONCLUSION: Tailored exercise and psychoeducation significantly benefit sexual function in MS, while other therapies like yoga require refinement; future research should investigate long-term outcomes and patient-specific factors.",
-      "journal": "Sexual medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "An Evaluation of Treatment Effects of Acceptance and Commitment Therapy for Outpatient Group Treatment of Adolescents.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41661487/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-10T12:47:03.721272",
-      "doi": "10.1007/s10578-026-01971-2",
-      "authors": [
-        {
-          "name": "Tajinder Uppal Dhariwal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Juwairiya Fatima Ahmad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marci Gordeyko",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mary Bell",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Laura Duncan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sheri Turrell",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study is an evaluation of group-based acceptance and commitment therapy (ACT)-a transdiagnostic therapeutic approach-in adolescents with anxiety and/or depressive psychiatric disorders in a community hospital outpatient setting. The objective was to evaluate treatment effects on 1) symptom reduction and 2) psychological flexibility measured by underlying ACT processes (avoidance, fusion, mindfulness, valued action) and evaluate whether improvements represent reliable and clinically significant change. Measures were completed by 99 outpatients aged 13 to 18 pre- and post-treatment and at 3-month follow-up. Generalized estimating equation analysis and pairwise comparisons were used to identify changes in symptoms and ACT processes over time. Results showed decreases in anxiety symptoms (pre to post d\u2009=\u2009-.50; post to 3-month follow-up d\u2009=\u2009-.41); 2) depression symptoms (d\u2009=\u2009-.51; d\u2009=\u2009-.46); 3) and avoidance/fusion (d\u2009=\u2009-.60; d\u2009=\u2009-.49), increased mindfulness (d\u2009=\u2009-.70; d\u2009=\u2009-.34); and enhanced commitment to values-based action from post-treatment to 3-month follow-up (d\u2009=\u2009.25). About half of participants reporting clinically elevated symptoms before treatment showed reliable and clinically significant improvement 3-months after treatment ended. Results support the utility of group-based ACT with adolescents. This is the first evaluation conducted in Canadian adolescents seeking community hospital outpatient services for wide ranging and complex mental health difficulties. Future research should continue to take a transdiagnostic perspective and include a control or comparison group and adolescents from different settings.",
-      "journal": "Child psychiatry and human development",
+      "abstract": "Although studies have identified that individuals' safety behavior is critical to construction site safety, little research has considered how organisational mindfulness affects safety behavior. Based on the trait activation theory and self-determination theory, this study constructed a dual-path model and aims to assess two mediating mechanisms, situational awareness and harmonious safety passion, through which organisational mindfulness influence safety behavior, respectively, and the moderating role of leader safety commitment was tested among dual-path model. Data were collected from 398 construction workers from 15 project teams in China. The results showed that organisational mindfulness significantly and positively predicted safety behavior, situational awareness and harmonious safety passion played a parallel mediating role in this relationship. Moreover, leader safety commitment moderated the effect of organisational mindfulness: the higher the leader safety commitment, the stronger the mediating role of situational awareness and harmonious safety passion. Construction managers should improve organisational dynamic emergency handling capabilities, fulfill the safety commitment, and trigger the different psychological incentive paths to enhance safety behavior.",
+      "journal": "Psychology, health & medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -779,31 +534,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "\u201cMcMindfulness\u201d and the Fate of Spirituality Under Capitalism",
-      "url": "https://www.newyorker.com/news/fault-lines/can-mindfulness-be-a-path-to-activism",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-02-10T11:00:00",
-      "date_fetched": "2026-02-10T12:47:04.127437",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Jay Caspian Kang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "Thich Nhat Hanh saw mindfulness as a way to understand the \u201cinterbeing\u201d between all forms of life, but its social dimension has been largely forgotten.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "mindfulness"
-      ]
-    }
-  ]
+  "articles": []
 }
