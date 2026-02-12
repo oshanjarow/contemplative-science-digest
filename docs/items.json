@@ -1,363 +1,71 @@
 {
-  "generated_at": "2026-02-11T12:42:31.793922",
+  "generated_at": "2026-02-12T12:39:07.014295",
   "papers": [
     {
-      "title": "Mindfulness Meditation for Sleep Disturbances Among Individuals with Cognitive Impairment: A Scoping Review",
-      "url": "https://www.semanticscholar.org/paper/8247eb28416bace3cddf7173d32ea2a3451c43f7",
+      "title": "Grounding distractor inhibition in action control: Implicit distractor-location learning is viewer dependent.",
+      "url": "https://www.semanticscholar.org/paper/63bbca431558266a0eb801942557f7e300d066b7",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-31T00:00:00",
-      "date_fetched": "2026-02-11T12:41:41.360391",
-      "doi": "10.3390/healthcare13030296",
+      "date_published": "2026-02-09T00:00:00",
+      "date_fetched": "2026-02-12T12:38:12.847121",
+      "doi": "10.1016/j.cognition.2026.106480",
       "authors": [
         {
-          "name": "Sunny H W Chan",
-          "author_id": "2148763891",
-          "affiliation": null
-        },
-        {
-          "name": "R. Cheston",
-          "author_id": "144757940",
-          "affiliation": null
-        },
-        {
-          "name": "Charlotte Steward-Anderson",
-          "author_id": "2343978321",
-          "affiliation": null
-        },
-        {
-          "name": "C. Yu",
-          "author_id": "2306495753",
-          "affiliation": null
-        },
-        {
-          "name": "E. Dodd",
-          "author_id": "145822517",
-          "affiliation": null
-        },
-        {
-          "name": "E. Coulthard",
-          "author_id": "2191673897",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background: This scoping review investigates the effectiveness of mindfulness meditation in alleviating sleep disturbances among individuals with mild cognitive impairment (MCI) and Alzheimer\u2019s disease (AD). With the rising prevalence of dementia and its profound impact on cognitive function and quality of life, this review aims to synthesize existing research and identify gaps in the literature. Methods: We systematically searched six electronic databases (CINAHL, Embase, Medline, PsycINFO, PubMed, and Scopus) from 2004 to 2024, yielding 462 potentially relevant articles. Screening was conducted using ASReview, an AI ranking tool, which facilitated the selection of studies. Ultimately, seven studies that met our stringent eligibility criteria were included in the review. We adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines for reporting. Results: Our findings indicate that mindfulness meditation significantly improves sleep quality, reduces insomnia severity, and enhances overall well-being in this at-risk population. Notably, interventions that combine structured, face-to-face sessions with at-home practice emerged as the most effective. Conclusions: Despite these positive outcomes, methodological limitations, including small sample sizes and reliance on self-reported measures, underscore the need for more rigorous long-term studies. This review highlights the potential of mindfulness meditation as a low-cost, scalable intervention to improve sleep and cognitive health in older adults, paving the way for future research and clinical applications.",
-      "journal": "Healthcare",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "EEG oscillations reveal neuroplastic changes in pain processing associated with long-term meditation",
-      "url": "https://www.semanticscholar.org/paper/5400eb6428c1072f4a6e6dd2c9cf9be8a4270e47",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-27T00:00:00",
-      "date_fetched": "2026-02-11T12:41:41.360403",
-      "doi": "10.1038/s41598-025-94223-7",
-      "authors": [
-        {
-          "name": "J. Yordanova",
-          "author_id": "2031843",
-          "affiliation": null
-        },
-        {
-          "name": "V. Nicolardi",
-          "author_id": "2910211",
-          "affiliation": null
-        },
-        {
-          "name": "Peter Malinowski",
-          "author_id": "2352440261",
-          "affiliation": null
-        },
-        {
-          "name": "Luca Simione",
-          "author_id": "2421672",
-          "affiliation": null
-        },
-        {
-          "name": "Salvatore M. Aglioti",
-          "author_id": "2300380809",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "V. Kolev",
-          "author_id": "1944869",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The experience of pain is a combined product of bottom-up and top-down influences mediated by attentional and emotional factors. Meditation states and traits are characterized by enhanced attention/emotion regulation and expanded self-awareness that can be expected to modify pain processing. The main objective of the present study was to explore the effects of long-term meditation on neural mechanisms of pain processing. EEG pain-related oscillations (PROs) were analysed in highly experienced practitioners and novices during a non-meditative resting state with respect to (a) local frequency-specific and temporal synchronizing characteristics to reflect mainly bottom-up mechanisms, (b) spatial synchronizing patterns to reflect the neural communication of noxious information, (c) pre-stimulus oscillations to reflect top-down mechanisms during pain expectancy, and (d) the P3b component of the pain-related potential to compare the emotional/cognitive reappraisal of pain events by expert and novice meditators. Main results demonstrated that in experienced (long-term) meditators as compared to non-experienced (short-term) meditators (1) the temporal and spatial synchronizations of multispectral (from theta-alpha to gamma) PROs were substantially suppressed at primary and secondary somatosensory regions contra-lateral to pain stimulation within 200 ms after noxious stimulus; (2) pre-stimulus alpha activity was significantly increased at the same regions, which predicted the suppressed synchronization of PROs in long-term meditators; (3) the decrease of the P3b component was non-significant. These novel observations provide evidence that even when subjected to pain outside of meditation, experienced meditators exhibit a pro-active top-down inhibition of somatosensory areas resulting in suppressed processing and communication of sensory information at early stages of painful input. The emotional/cognitive appraisal of pain is reduced but remains preserved revealing a capacity of experienced meditators to dissociate pro-active and reactive top-down processes during pain control.",
-      "journal": "Scientific Reports",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "A novel classification of meditation techniques via optimised chi-squared 1D-CNN method based on complexity, continuity and connectivity features",
-      "url": "https://www.semanticscholar.org/paper/403a8b8954270797241c0144ef7b17b6f7d0da23",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-19T00:00:00",
-      "date_fetched": "2026-02-11T12:41:41.360413",
-      "doi": "10.1080/09540091.2025.2467387",
-      "authors": [
-        {
-          "name": "Abhishek Jain",
-          "author_id": "2279258526",
-          "affiliation": null
-        },
-        {
-          "name": "Rohit Raja",
-          "author_id": "2279246732",
-          "affiliation": null
-        },
-        {
-          "name": "Manoj Kumar",
-          "author_id": "2380380263",
-          "affiliation": null
-        },
-        {
-          "name": "P. Verma",
-          "author_id": "2346356160",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The intricate world of human\u2013computer interaction deeply explores how people gain knowledge and blend technology into daily life. Electroencephalography (EEG) is one of several methods for measuring brain activity, it is non-invasive, portable, inexpensive and time-sensitive. Research shows a strong link between meditation and changes in EEG patterns, spanning various techniques. With machine learning playing a major role, EEG datasets have made comprehensive study possible. This paper investigates the efficacy of 1D-CNN (One-Dimensional Convolutional Neural Network) classification, using complexity, continuity and connectivity features. It remarkably outperforms and achieves 60% training accuracy, showcasing model robustness in meditation classification. This novel methodology enables to differentiates neural oscillations in type of meditator and control. Prior research used power spectrum density, entropy, and connectivity for meditation distinctions. EEG data from practitioners of Himalayan Yoga (HYT), Isha Shoonya (SYN) and Vipassana (VIP) as well as untrained controls (CTR) are examined in this research. Employing chi-square, CNN and hyperparameter models, outcomes reveal distinctive cognitive aspects among meditation styles, allowing effective differentiation.",
-      "journal": "Connection science",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Peran Mindfulness Berbasis Islam terhadap Kesejahteraan Psikologis Siswa di Era Digital",
-      "url": "https://www.semanticscholar.org/paper/3ce05a8ef80f5883f87e0c89bfc66b8d47a463f6",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-10T00:00:00",
-      "date_fetched": "2026-02-11T12:41:42.461601",
-      "doi": "10.30998/jebg.v1i1.3725",
-      "authors": [
-        {
-          "name": "Retisfa Khairanis",
-          "author_id": "2335755895",
-          "affiliation": null
-        },
-        {
-          "name": "Muhammad Aldi",
-          "author_id": "1381654786",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Penelitian ini bertujuan untuk mengeksplorasi peran mindfulness berbasis Islam dalam meningkatkan kesejahteraan psikologis siswa di era digital. Dengan meningkatnya tekanan dan tantangan yang dihadapi mahasiswa akibat penggunaan teknologi, penelitian ini berfokus pada pemahaman mendalam tentang bagaimana praktik mindfulness yang diintegrasikan dengan nilai-nilai Islam dapat membantu mahasiswa mengatasi stres dan meningkatkan kesejahteraan mental mereka. Metode yang digunakan dalam penelitian ini adalah pendekatan kualitatif dengan teknik wawancara mendalam. Data dikumpulkan dari beberapa siswa yang terlibat dalam program mindfulness berbasis Islam di beberapa sekolah menengah di daerah perkotaan. Analisis data dilakukan dengan menggunakan metode analisis tematik untuk mengidentifikasi tema-tema utama yang muncul dari pengalaman para partisipan. Hasil penelitian menunjukkan bahwa siswa yang menerapkan mindfulness berbasis Islam melaporkan adanya peningkatan dalam kemampuan mengelola emosi, penurunan tingkat kecemasan, dan peningkatan rasa syukur. Selain itu, para siswa juga merasakan manfaat sosial dari praktik ini, seperti peningkatan hubungan interpersonal dan dukungan emosional dari teman sebaya. Kesimpulan dari penelitian ini menegaskan pentingnya mengintegrasikan mindfulness berbasis Islam dalam pendidikan untuk mendukung kesejahteraan psikologis siswa, terutama di era digital yang penuh tekanan. Penelitian ini merekomendasikan pengembangan program pelatihan mindfulness berbasis Islam sebagai bagian dari kurikulum pendidikan untuk membantu siswa menghadapi tantangan modern.",
-      "journal": "Akhlak: Journal of Education Behavior and Religious Ethics",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "mindfulness"
-      ]
-    },
-    {
-      "title": "Pengaruh Pelaksanaan Vipassan\u0101 Bhavana terhadap Pengendalian Diri (Samvara) para Sastri di Pasastrian Buddha Kusalamitra Gunungkidul",
-      "url": "https://www.semanticscholar.org/paper/dfbcccb90a984e12d46f6565f65422e6ecd5538b",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-30T00:00:00",
-      "date_fetched": "2026-02-11T12:41:50.049810",
-      "doi": "10.61132/jbpab.v3i3.1841",
-      "authors": [
-        {
-          "name": "Titik Handayani",
-          "author_id": "2409418353",
-          "affiliation": null
-        },
-        {
-          "name": "Suharno Suharno",
-          "author_id": "2220424358",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Kusalamitra Buddhist Pasastrian in Gunungkidul is one of the institutions that organizes non-formal education. Kusalamitra Buddhist Pasastrian is engaged in non-formal education and training that is social and religious in nature. The Kusalamitra Buddhist Pasastrian organizes religious education and training such as Dharma guidance, meditation practice, religious ceremony practice, guidance and training of Buddhist youth. The habituation of behaving based on Buddhist teachings is the main goal of this Pasatrian Education. One of the education and training programs at the Kusalamitra Buddhist Pasastrian is vipassan\u0101 bhavana training. Some students are diligent in implementing vipassan\u0101 bhavana, but some are not diligent. In addition, there are still some students who do not have good self-control (samvara). The purpose of the study was to determine the effect of the implementation of vipassan\u0101 bhavana on the self-control (samvara) of students at the Kusalamitra Buddhist Pasastrian. This study is a quantitative study with a population of 44 students. The results of the study showed that the implementation of vipassan\u0101 bhavana had an effect on self-control (samvara), by 55% and the remaining 45% was influenced by other factors.",
-      "journal": "Jurnal Budi Pekerti Agama Buddha",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "vipassana"
-      ]
-    },
-    {
-      "title": "A Religious\u2013Psychological Study of Anthony de Mello\u2019s Sadhana Practice",
-      "url": "https://www.semanticscholar.org/paper/d4e3d2a21b02927a1104156d27c7f3d99b2cf6ce",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-20T00:00:00",
-      "date_fetched": "2026-02-11T12:41:50.049984",
-      "doi": "10.3390/rel16091207",
-      "authors": [
-        {
-          "name": "Yong Un Choe",
-          "author_id": "2382023599",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study aims to examine Anthony de Mello\u2019s Sadhana practice from a religious\u2013psychological perspective, applying Carl Gustav Jung\u2019s analytical psychology and views on the Spiritual Exercises. The analysis reveals that Sadhana, which integrates psychotherapeutic methods such as Gestalt therapy and the methodology of Vipassana meditation, holds significant implications. First, based on Jung\u2019s theory, Sadhana pursues wholeness through the union of opposites, such as extraversion and introversion. Jung posited that opposing elements coexist within the human psyche, and their harmonization is central to individuation. Thus, practices that integrate these opposites are meaningful attempts to foster inner growth and maturity. Second, by incorporating Gestalt therapy into the Spiritual Exercises, Sadhana enhances awareness and employs methods to address contact boundary disturbances, enabling self-reflection and restoration of one\u2019s relationship with God. Anthony de Mello\u2019s Sadhana practice is evaluated as a novel case that presents new possibilities for contemporary Christian spirituality.",
-      "journal": "Religions",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "vipassana"
-      ]
-    },
-    {
-      "title": "Cultivating the Meditative Mind: The Philosophical Integration of \u015aamatha and Vipa\u015byan\u0101 in Early Yog\u0101c\u0101ra Thought",
-      "url": "https://www.semanticscholar.org/paper/0695c62c3946b609c4d2a2c77303e6eeceb1b713",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-02-06T00:00:00",
-      "date_fetched": "2026-02-11T12:41:59.054151",
-      "doi": "10.3390/rel17020200",
-      "authors": [
-        {
-          "name": "Feifei Yan",
+          "name": "Litian Chen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zhanguo Peng",
-          "author_id": "2382998405",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study examines the systematic development and philosophical \u201cfinalization\u201d of \u015bamatha (\u6b62 tranquility) and vipa\u015byan\u0101 (\u89c0 insight) within the foundational texts of the Yog\u0101c\u0101ra tradition. Central to the transmission of Buddhism to East Asia was the categorization of practice (\u4fee\u884c cary\u0101) through the lenses of concentration (\u4e09\u6469\u5730 sam\u0101dhi) and wisdom (\u822c\u82e5 praj\u00f1\u0101). This paper focuses on two pivotal canons: the \u015ar\u0101vakabh\u016bmi \u8072\u805e\u5730 section of the Yog\u0101c\u0101rabh\u016bmi-\u015b\u0101stra \u745c\u4f3d\u5e2b\u5730\u8ad6 and the Sa\u1e43dhinirmocana-s\u016btra \u89e3\u6df1\u5bc6\u7d93. In the \u015ar\u0101vakabh\u016bmi, \u015aamatha is presented as a rigorous, self-contained psychological system. The text outlines a cognitive progression from \u201cworldly common paths\u201d\u2014including impurities meditation (\u4e0d\u6de8\u89c0 a\u015bubhabh\u0101van\u0101) and the eight liberations (\u516b\u89e3\u812b a\u1e63\u1e6dau vimok\u1e63\u0101\u1e25)\u2014to the sophisticated \u201cnine stages of mental abiding\u201d (\u4e5d\u4f4f\u5fc3 nav\u0101k\u0101r\u0101 citta-sthiti\u1e25). This research analyzes the psychological mechanisms of these stages, illustrating how they facilitate a metacognitive transition from distraction (\u6563\u4e82 vik\u1e63epa) to absorption (\u79aa\u90a3 dhy\u0101na), culminating in the eradication of afflictions (\u7169\u60f1 kle\u015ba). Furthermore, the paper explores how the Sa\u1e43dhinirmocana-s\u016btra provides the ultimate philosophical synthesis of these practices. By framing \u015bamatha and vipa\u015byan\u0101 within the Consciousness-Only (\u552f\u8b58 vij\u00f1aptim\u0101trat\u0101) framework, the s\u016btra finalizes the meaning of Adhicitta-\u015bik\u1e63\u0101 (\u589e\u4e0a\u5fc3\u5b78 training in higher mind). By bridging the technical rigor of the \u015ar\u0101vakabh\u016bmi with the Mah\u0101y\u0101na ontological depth of the Sa\u1e43dhinirmocana-s\u016btra, this study clarifies the evolution of buddhist bh\u0101van\u0101.",
-      "journal": "Religions",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Peran Sosial dan Keagamaan Manggal\u012ba di Vihara Surya Putra Dusun Ngadisari",
-      "url": "https://www.semanticscholar.org/paper/5a847b4869c8ffd0930dc0908d9b26819a0d01c3",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-30T00:00:00",
-      "date_fetched": "2026-02-11T12:41:59.054346",
-      "doi": "10.61132/jbpab.v3i1.1831",
-      "authors": [
-        {
-          "name": "Danu Aryanto",
-          "author_id": "2409305189",
+          "name": "F. van Ede",
+          "author_id": "7813439",
           "affiliation": null
         },
         {
-          "name": "Hesti Sadtyadi",
-          "author_id": "2372702849",
+          "name": "Chris Jungerius",
+          "author_id": "2197221744",
           "affiliation": null
-        }
-      ],
-      "abstract": "This study examines the social and religious roles of a Manggal\u012ba within the Buddhist community, with a case study in Dusun Ngadisari, Tempuran Village, Kaloran District, Temanggung Regency, Central Java. The Manggal\u012ba is a local religious figure who serves as both an elder and leader of the community in various religious rituals such as weddings, funerals, patid\u0101na, and traditional ceremonies including gendurenan, nyadran kubur, and village selametan. In Buddhist communities without a pandita, the Manggal\u012ba plays a central role as a spiritual guide and preserver of local traditions. This research employs a qualitative descriptive approach using observation, in-depth interviews, and documentation methods. The selection of a Manggal\u012ba is conducted through communal deliberation, based on spiritual and ritual competence, particularly in the aspects of s\u012bla, sam\u0101dhi, and pa\u00f1\u00f1\u0101. The findings show that the Manggal\u012ba in Dusun Ngadisari fulfills his role with great dedication, both in guiding the community's spiritual life and participating in social matters such as conflict mediation, community empowerment, and maintaining social harmony among villagers.",
-      "journal": "Jurnal Budi Pekerti Agama Buddha",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Two Notions of Non-Conceptuality in Buddhist Meditative Practice",
-      "url": "https://www.semanticscholar.org/paper/339e46d551fb1dadb452251ec1cdaf1724120901",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-02-11T12:42:00.582859",
-      "doi": "10.1353/pew.2025.a973417",
-      "authors": [
+        },
         {
-          "name": "John Spackman",
-          "author_id": "2344445842",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Abstract:This article examines two accounts of how Buddhist meditative practice has been seen as cultivating non-conceptual mental states. The first, exemplified in recent work by Evan Thompson, drawing on Dharmak\u012brti, views the representational contents of certain meditative states as non-conceptual. The second, found in Yog\u0101c\u0101ra texts like the Mah\u0101y\u0101nasa\u1e43graha, suggests that meditation cultivates a type of awareness that is non-conceptual (nirvikalpaj\u00f1\u0101na). I argue that while there are strong epistemological and phenomenological arguments against any representational contents being non-conceptual, the view that awareness itself is non-conceptual can avoid these problems. Non-conceptual awareness is best understood, I suggest, as having a reflexive structure akin to later notions of selfawareness (svasa\u1e43vedana), which simultaneously establishes it as non-conceptual and vouchsafes it against the challenges facing non-conceptual content accounts. I thus offer a preliminary defense of the view that certain meditative practices cultivate an awareness in which the reflexive, non-conceptual nature of consciousness is revealed.",
-      "journal": "Philosophy East & West",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Listening to meditative sounds in film: an exploration of emotional guidance for the audience",
-      "url": "https://www.semanticscholar.org/paper/4a9017088a4c58d95be515df5bae109d9301a56a",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-08-12T00:00:00",
-      "date_fetched": "2026-02-11T12:42:00.582868",
-      "doi": "10.54254/2753-7080/2025.25903",
-      "authors": [
-        {
-          "name": "Jingya Li",
-          "author_id": "2377266604",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This dissertation explores the role of meditative sound in film and its influence on emotional guidance and audience immersion. In contemporary film sound design, meditative sounds subtly evoke introspection, calm, and deep emotional resonance, yet their narrative significance is often overlooked. By analysing three distinct films - Nomadland, Arrival, and Her - this study examines how different auditory environments, from natural landscapes and silent cosmic expanses to futuristic electronic soundscapes, shape the perceptions and emotional responses of viewers. Employing psychoacoustic analysis, the research focuses on features such as low-frequency sound waves, rhythmic repetition, ASMR-like auditory triggers, and the strategic use of silence. The findings reveal that meditative sound design creates emotional balance, fosters psychological intimacy, and enhances immersion by constructing sonic spaces that guide audiences into states of relaxation, introspection, and emotional openness. These techniques significantly impact narrative engagement and emotional experience. The dissertation concludes that meditative sounds are intentional, integral elements of cinematic storytelling, offering filmmakers subtle yet powerful tools to shape audience emotions and perceptions. It also encourages further exploration into the integration of psychoacoustic principles within sound design practice.",
-      "journal": "Advances in Humanities Research",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "\u201cLittle Cause for Carolings\u201d: Resistance to Music in Hardy\u2019s Meditative Verse",
-      "url": "https://www.semanticscholar.org/paper/545627d2deb1b5087956a7dcb3ef9a3d67e037ff",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-11T00:00:00",
-      "date_fetched": "2026-02-11T12:42:00.582877",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Paul H. Schmidt",
-          "author_id": "2388064465",
+          "name": "H. Slagter",
+          "author_id": "1743265",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "",
+      "journal": "Cognition",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Meditative Tendencies in Ukrainian Academic Music of the 20th Century: From Individual Style to Cultural Phenomenon",
+      "url": "https://www.semanticscholar.org/paper/05ea1a6c6918bbed8365812e8fd1ac8a1bc863dc",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-25T00:00:00",
+      "date_fetched": "2026-02-12T12:38:36.432320",
+      "doi": "10.32461/2226-3209.3.2025.344451",
+      "authors": [
+        {
+          "name": "Khrystyna Kazymyriv",
+          "author_id": "2003368597",
+          "affiliation": null
+        },
+        {
+          "name": "Tetiana Maskovych",
+          "author_id": "2003353271",
+          "affiliation": null
+        },
+        {
+          "name": "Irina Serediuk",
+          "author_id": "2144747001",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The purpose of the article is to identify and comprehend manifestations of meditativeness in Ukrainian academic music of the second half of the 20th century, tracing its evolution \u2014 from individual compositional styles to its establishment as a cultural phenomenon with its own aesthetic and philosophical foundation. Special attention is given to the influence of meditative elements on the listener\u2019s perceptual experience and the formation of an inner dialogue through musical reflection. The research employs an interdisciplinary methodology, combining musicological analysis with a cultural approach, allowing for the examination of specific works by Ukrainian composers in the context of the listener\u2019s perceptive engagement. Scientific novelty lies in the interpretation of meditativeness not merely as a stylistic feature or artistic device, but as a form of spiritual practice integrated into the academic tradition, shaping a distinct type of musical thinking. For the first time, the role of the listener is emphasised as an active participant in the meditative process, capable of deep reflection. The conclusions affirm that meditative tendencies in Ukrainian academic music of the second half of the 20th century are not accidental stylistic phenomena, but rather profound expressions of a cultural need for silence, introspection, and inner dialogue. These tendencies form a new quality of musical thought that unites aesthetic, philosophical, and existential dimensions. In this context, music becomes a space for spiritual practice, where the listener does not merely perceive the sonic fabric but engages in dialogue with their own inner world. Such experience fosters new models of perception, in which music acts as a mediator between the external and the internal, between aesthetic experience and personal transformation. Meditativeness in music opens up prospects for further research, particularly in the fields of perceptual aesthetics, music psychology, and the philosophy of art, where the listener is viewed as an active participant in the aesthetic process, capable of profound reflection and spiritual growth.",
+      "journal": "NATIONAL ACADEMY OF MANAGERIAL STAFF OF CULTURE AND ARTS HERALD",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
@@ -367,80 +75,232 @@
       ]
     },
     {
-      "title": "Physical activity intensities and depression in colorectal cancer: interoceptive accuracy as a mediator and mindfulness as a moderator.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41665746/",
+      "title": "The Phenomenon of Forest Monks\u2019 Meditative Practices in Thai Society",
+      "url": "https://www.semanticscholar.org/paper/bc04e78097884a677db6e4c2ae91346b206df30d",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-10T00:00:00",
-      "date_fetched": "2026-02-11T12:42:30.827901",
-      "doi": "10.1007/s11764-026-01979-6",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-19T00:00:00",
+      "date_fetched": "2026-02-12T12:38:36.432330",
+      "doi": "10.24158/fik.2025.10.54",
       "authors": [
         {
-          "name": "Muhammad Suliman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hongqun Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xinyi Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fares Barakat",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wei Yao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ping Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Meiling Qi",
-          "author_id": null,
+          "name": "Miss Pawalee Intarasompong",
+          "author_id": "2393737718",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Depression is prevalent among colorectal cancer (CRC) survivors. Although various physical activity intensities are differentially associated with depressive symptoms, the underlying mediator and moderator involving interoception and mindfulness, remain unclear. This study aims to examine whether interoceptive accuracy differentially mediates the relationship between various physical activity intensities and depressive symptoms and whether mindfulness moderates these pathways. METHODS: In this multicenter cross-sectional study, 395 CRC survivors completed validated questionnaires assessing depressive symptoms, physical activity\u00a0participation, interoceptive accuracy, and mindfulness. Mediation and moderated mediation analyses via PROCESS version 4.1 for SPSS tested whether interoceptive accuracy mediated associations between light and moderate-to-vigorous physical activity (LPA vs. MVPA) and depressive symptoms, and whether mindfulness moderated these pathways. RESULTS: Both LPA and MVPA are negatively associated with depressive symptoms (p\u2009<\u20090.001). Interoceptive accuracy significantly mediated these associations, accounting for 49.09% of the total effect for LPA and 20.56% for MVPA. Mindfulness moderated the LPA-interoceptive accuracy (B\u2009=\u2009-0.004, p\u2009=\u20090.031), interoceptive accuracy-depression (B\u2009=\u2009-0.022, p\u2009=\u20090.004), and MVPA-depression pathways (B\u2009=\u2009-0.001, p\u2009=\u20090.034), suggesting differential, intensity-dependent associations. CONCLUSIONS: LPA showed negative associations with depressive symptoms, with interoceptive accuracy fully mediating this association. In contrast, MVPA demonstrated both direct and indirect associations with depressive symptoms, partially mediated by interoceptive accuracy. Mindfulness strengthened these relationships through complementary and synergistic moderation, highlighting the dynamic interaction between bodily awareness and physical activity in psychological recovery. IMPLICATIONS FOR CANCER SURVIVORS: Tailoring gentle, mindful movement to enhance interoception may offer a feasible, integrative rehabilitation strategy to reduce depression among CRC survivors.",
-      "journal": "Journal of cancer survivorship : research and practice",
-      "year": 2026,
+      "abstract": "This article examines the phenomenon of forest monks\u2019 meditative practices in Thai Buddhism based on a comprehensive historical, philosophical, phenomenological, and sociocultural analysis. Particular attention is paid to the role of key teachers in the dissemination of this phenomenon (Ajahn Sao, Ajahn Mun, Ajahn Chah, and others), meditation methods (samatha, vipassana, thudong), and the influence of the natural environment on the development of ascetic discipline. The contemporary social and cultural significance of forest monks is analyzed, including their contributions to environmental conservation, as well as their interaction with governmental and community institutions. The article argues that the combination of strict asceticism, adherence to the Vinaya, and flexible responses to urban challenges enables the forest tradition to remain relevant in the 21st century. Forest monasticism is shown to be a holistic cultural complex \u2013 a system of symbols, norms, and bodily practices that ensure the reproduction of Thai society\u2019s cultural identity and the production of cultural meanings in the context of global transformations. The relevance of approaches from cultural ecology, symbolic anthropology, and ritual theory to the analysis of forest tradition is emphasized.",
+      "journal": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "The Effect of Mindfulness-Based Art Therapy in Nursing Students: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41666347/",
+      "title": "Moral Considerations and the Experience of Ego Dissolution: Insights from Psilocybin",
+      "url": "https://www.semanticscholar.org/paper/d340c3fd8467b31d8f04bbef5d07d76870b313b8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-02-12T12:38:40.407220",
+      "doi": "10.51847/ml10ckoxsw",
+      "authors": [
+        {
+          "name": "Azimjon Karimov",
+          "author_id": "2409362289",
+          "affiliation": null
+        },
+        {
+          "name": "Dilshodbek Rasulov",
+          "author_id": "2409392006",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Asian Journal of Ethics in Health and Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "PhoCoil: A photodegradable and injectable single-component recombinant protein hydrogel for minimally invasive delivery and degradation",
+      "url": "https://www.semanticscholar.org/paper/b5755407cd7e3fa93727f318e3aa0cd768445ee8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-27T00:00:00",
+      "date_fetched": "2026-02-12T12:38:40.407326",
+      "doi": "10.1126/sciadv.adx3472",
+      "authors": [
+        {
+          "name": "Nicole E. Gregorio",
+          "author_id": "2218995688",
+          "affiliation": null
+        },
+        {
+          "name": "Fan Zhang",
+          "author_id": "2291129278",
+          "affiliation": null
+        },
+        {
+          "name": "Yusuke Suita",
+          "author_id": "2309151384",
+          "affiliation": null
+        },
+        {
+          "name": "Lisa S. Ang",
+          "author_id": "2377756991",
+          "affiliation": null
+        },
+        {
+          "name": "Olivia Prado",
+          "author_id": "2203983045",
+          "affiliation": null
+        },
+        {
+          "name": "Arafat Fasuyi",
+          "author_id": "2377756130",
+          "affiliation": null
+        },
+        {
+          "name": "James M. Olson",
+          "author_id": "2237997931",
+          "affiliation": null
+        },
+        {
+          "name": "K. Stevens",
+          "author_id": "46926410",
+          "affiliation": null
+        },
+        {
+          "name": "Cole A. DeForest",
+          "author_id": "2369035730",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Hydrogel biomaterials offer great promise for three-dimensional cell culture and therapeutic delivery. Despite many successes, challenges persist in that gels formed from natural proteins are only marginally tunable whereas those derived from synthetic polymers lack intrinsic bioinstructivity. Toward the creation of biomaterials with both excellent biocompatibility and customizability, recombinant protein\u2013based hydrogels have emerged as molecularly defined and user-programmable platforms that mimic the proteinaceous nature of the extracellular matrix. Here, we introduce PhoCoil, a dynamically tunable recombinant hydrogel formed from a single protein component with unique multistimuli responsiveness. Physical cross-linking through coiled-coil interactions promotes rapid shear-thinning and self-healing behavior, rendering the gel injectable, whereas an included photodegradable motif affords on-demand network dissolution via visible light. PhoCoil gel photodegradation can be spatiotemporally and lithographically controlled in a dose-dependent manner, through complex tissue, and without harm to encapsulated cells. We anticipate that PhoCoil will further enable applications in tissue engineering and regenerative medicine.",
+      "journal": "Science Advances",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "Hypothalamus Regulates Anabolic Metabolism of Articular Cartilage Superficial Chondrocytes through PGE2 Skeletal Interoception",
+      "url": "https://www.semanticscholar.org/paper/d0829164d9903e966c5c59bc7eb5c0de6ce4ea53",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-26T00:00:00",
+      "date_fetched": "2026-02-12T12:38:43.174836",
+      "doi": "10.1002/advs.202501039",
+      "authors": [
+        {
+          "name": "Ziyi Wang",
+          "author_id": "2353571815",
+          "affiliation": null
+        },
+        {
+          "name": "Xuequan Han",
+          "author_id": "2310658216",
+          "affiliation": null
+        },
+        {
+          "name": "Jiawen Xu",
+          "author_id": "2352499528",
+          "affiliation": null
+        },
+        {
+          "name": "Weixin Zhang",
+          "author_id": "2332587740",
+          "affiliation": null
+        },
+        {
+          "name": "Kalp Patel",
+          "author_id": "2265245360",
+          "affiliation": null
+        },
+        {
+          "name": "Jinjian Zheng",
+          "author_id": "2310608484",
+          "affiliation": null
+        },
+        {
+          "name": "Mei Wan",
+          "author_id": "2253407224",
+          "affiliation": null
+        },
+        {
+          "name": "Junying Zheng",
+          "author_id": "2254130587",
+          "affiliation": null
+        },
+        {
+          "name": "Xu Cao",
+          "author_id": "2256587535",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Degeneration of articular cartilage is the key underlying cause of most joint\u2010related diseases and yet little is known about its regeneration. Here, we report that skeletal interoception induces anabolic synthesis of superficial membrane by tuning down sympathetic norepinephrine (NE). Specifically, the superficial membrane is consumed during animal activity and anabolically renewed by the underneath chondrocytes in the superficial zone (SFZ). Notably, by stereotactic knockdown of sympathetic NE synthesis in the paraventricular nucleus, articular cartilage thickness increases. Moreover, deletion of the gene encoding the prostaglandin E2 (PGE2) receptor, EP4, in sensory nerves for ascending interoceptive pathway induces damage of superficial membrane and articular cartilage degeneration. In contrast, increase of interoceptive signaling by elevation of local PGE2 reduces sympathetic outflow to promote the anabolic renewal of superficial membrane. Importantly, inducible knockout of the \u03b2\u20102\u2010adrenergic\u2010receptor (Adrb2) in the SFZ chondrocytes damages superficial membrane and treadmill running aggravates the damage. Mechanistically, NE\u2010mediated activation of Adrb2 induces internalization of Adrb2 and TGF\u2010\u03b2 type II receptor as a complex, thereby regulating TGF\u2010\u03b2 activity for articular cartilage homeostasis regeneration. Together, physical activity induces an anabolic renewal of the superficial membrane by downregulation hypothalamic NE for optimized thickness and integrity of articular cartilage.",
+      "journal": "Advancement of science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
+    },
+    {
+      "title": "Feasibility and Acceptability of a Remote, Asynchronous, Stroke-Tailored Mindfulness Intervention for Stroke Survivors and Support Persons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41671264/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-11T00:00:00",
-      "date_fetched": "2026-02-11T12:42:30.828030",
-      "doi": "10.3928/01484834-20251119-01",
+      "date_fetched": "2026-02-12T12:39:05.931974",
+      "doi": "10.1097/JNN.0000000000000876",
       "authors": [
         {
-          "name": "Nurcan D\u00fczg\u00fcn",
+          "name": "Jenifer G Prather",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Feride Ercan",
+          "name": "Jennifer E S Beauchamp",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xueyuan Cao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anne Alexandrov",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brandon Baughman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ansley Grimes Stanfill",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Critical thinking and self-confidence are important concepts for nursing students. This study aimed to investigate the effects of mindfulness-based art therapy (MBAT) on the critical thinking dispositions and self-confidence levels of nursing students. METHOD: A randomized controlled trial was conducted using a parallel-group design with pretest and posttest measurements. A total of 53 nursing students completed the study. The intervention group participated in an 8-week MBAT program, whereas the control group received no intervention during this period. RESULTS: During the pretest phase, the intervention and control groups showed no statistically significant differences in their mean scores on the Critical Thinking Disposition and Self-Confidence scales ( CONCLUSION: The findings indicate that MBAT effectively enhances critical thinking disposition and self-confidence levels in nursing students.",
-      "journal": "The Journal of nursing education",
+      "abstract": "BACKGROUND: Stress impacts the quality of life for stroke survivors (SS) and support persons (SPs) during recovery, negatively affecting both individuals in the stroke dyad (SD). While mindfulness-based interventions (MBIs) can improve well-being, their complexity and time demands are significant barriers for implementation in the stroke community. Tailoring MBI to the needs of SS and SP (modified-MBI) shows promise in improving stress and quality of life for both members of the SD throughout long-term recovery. METHODS: The A Mindful Approach to Managing Stress (A-MAMS) intervention enrolled 58 participants to assess the feasibility and acceptability of an 8-week virtual asynchronous m-MBI. Enrollment, retention, lesson, and homework completion rates were measured. End-of-study feedback survey (EOS) data was also collected. RESULTS: The A-MAMS intervention demonstrated high feasibility (enrollment rate=96.7%; attendance rate=98.3%) and acceptability (lesson and homework completion rates=97.8% and 98.8%, retention rate=89.7%). A total of 52 participants (30 SS and 22 SP; 15 SD members) completed all course components and EOS. The EOS feedback indicated 96.2% found the intervention helpful for stress management and would recommend it. No significant dyadic effect was identified. CONCLUSION: This remotely delivered m-MBI was feasible and acceptable for adult SS and SP. These findings support the utility of tailored, accessible mindfulness interventions for the SD, laying a foundation for future research on their implementation and impact.",
+      "journal": "The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -448,47 +308,47 @@
       "matched_keywords": []
     },
     {
-      "title": "Mindfulness-based Interventions for Pain and Symptom Management in Adolescent Cancer: Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41667310/",
+      "title": "Optimizing just-in-time adaptive interventions for interpersonal distress: mechanisms, prediction, and the challenge of engagement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41673098/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-09T00:00:00",
-      "date_fetched": "2026-02-11T12:42:30.828175",
-      "doi": "10.1016/j.pmn.2026.01.003",
+      "date_published": "2026-02-11T00:00:00",
+      "date_fetched": "2026-02-12T12:39:05.932259",
+      "doi": "10.1038/s41598-026-39518-z",
       "authors": [
         {
-          "name": "Wannita Sonkongdang",
+          "name": "Agata Jaremba",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nuttanicha Sriboonyawattana",
+          "name": "Sarah O'Reilly",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jutarat Mesukko",
+          "name": "Liam Mason",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Srimana Niyomkar",
+          "name": "Tobias Nolte",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Petsunee Thungjaroenkul",
+          "name": "Madiha Shaikh",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Piyanut Xuto",
+          "name": "Ciar\u00e1n O'Driscoll",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: This systematic review aimed to examine how mindfulness approaches affect pain, symptom cluster severity, and quality of life among adolescents receiving cancer chemotherapy. Contrasting with prior syntheses emphasizing adult populations or isolated symptoms, this investigation specifically targets symptom clusters in adolescent cancer patients (aged 10-19 years), a unique population requiring specialized nursing care approaches given their distinct developmental characteristics. METHODS: A comprehensive literature evaluation was conducted across Scopus, Cochrane Embase, PubMed, CINAHL (EBSCOhost), and ProQuest databases for publications in English and Thai from 2014 to 2024. Independent researchers conducted quality evaluation using established JBI appraisal tools. Information was synthesized through quantitative analysis employing random-effects modeling to address methodological heterogeneity between controlled and uncontrolled investigations. RESULTS: From 299 identified publications, three investigations (n = 141) satisfied inclusion requirements. Participants received individualized mindfulness-based yoga protocols incorporating breathing techniques, physical movements, and relaxation practices. Analysis revealed predominantly nonsignificant outcomes across symptom measures. Uncontrolled studies demonstrated considerable heterogeneity for pain (I\u00b2 = 84%) and sleep (I\u00b2 = 86%) with no overall meaningful effects. The randomized trial showed no significant between-group differences for symptom measures. Uncontrolled studies indicated modest enhancement in cancer-specific quality of life aspects (standardized mean difference [SMD] = -0.55, p = .05); however, controlled comparison revealed no significant between-group changes for quality of life indicators. Evidence confidence was rated as low to extremely low across all measures due to high heterogeneity. CONCLUSION: This first systematic synthesis of MBIs for adolescent cancer populations identifies limited current efficacy but reveals critical evidence gaps. Findings highlight the need for rigorous, age-appropriate, nursing-led interventions that integrate mindfulness with other evidence-based strategies to address multidimensional symptom clusters in pediatric oncology care. CLINICAL IMPLICATIONS FOR NURSING PRACTICE: Pain management nurses play an integral role in advancing nonpharmacological approaches to symptom management for adolescents with cancer. Mindfulness-based interventions may have potential to enhance holistic care and support patients and families in coping with treatment-related symptoms; however, the current evidence base remains limited and of variable quality. Accordingly, these interventions should be interpreted with caution, and additional rigorous, nursing-led research is warranted to determine their efficacy, feasibility, and sustainability in pediatric oncology practice. REVIEW REGISTRATION: PROSPERO CRD42024538493.",
-      "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
+      "abstract": null,
+      "journal": "Scientific reports",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -496,37 +356,95 @@
       "matched_keywords": []
     },
     {
-      "title": "The influence of organisational mindfulness on construction workers' safety behavior: a dual-path model.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41665386/",
+      "title": "Modulation of sensory attenuation by intensive meditation practice: an active inference perspective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41674550/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-10T00:00:00",
-      "date_fetched": "2026-02-11T12:42:30.828468",
-      "doi": "10.1080/13548506.2026.2623560",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-02-12T12:39:05.932306",
+      "doi": "10.1093/nc/niaf051",
       "authors": [
         {
-          "name": "Min Yu",
+          "name": "Arnaud Poublan-Couzardot",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Qiqi Su",
+          "name": "Alexandre Foncelle",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jizu Li",
+          "name": "Eric Koun",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wenjing Qin",
+          "name": "Yves Rossetti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Oussama Abdoun",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Giuseppe Pagnoni",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Antoine Lutz",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Although studies have identified that individuals' safety behavior is critical to construction site safety, little research has considered how organisational mindfulness affects safety behavior. Based on the trait activation theory and self-determination theory, this study constructed a dual-path model and aims to assess two mediating mechanisms, situational awareness and harmonious safety passion, through which organisational mindfulness influence safety behavior, respectively, and the moderating role of leader safety commitment was tested among dual-path model. Data were collected from 398 construction workers from 15 project teams in China. The results showed that organisational mindfulness significantly and positively predicted safety behavior, situational awareness and harmonious safety passion played a parallel mediating role in this relationship. Moreover, leader safety commitment moderated the effect of organisational mindfulness: the higher the leader safety commitment, the stronger the mediating role of situational awareness and harmonious safety passion. Construction managers should improve organisational dynamic emergency handling capabilities, fulfill the safety commitment, and trigger the different psychological incentive paths to enhance safety behavior.",
-      "journal": "Psychology, health & medicine",
+      "abstract": "Active inference describes motor action as a prediction-driven inferential process, whereby ascending proprioceptive prediction errors are attenuated to allow the fulfillment of expected movement. Meditative practices typically involve a heightened attention to bodily sensations, begging the question of whether this could partially offset the normal proprioceptive suppression during a simple motor act. In this study, 42 experienced meditators completed a tactile force-matching task, designed to measure somatosensory attenuation. The active group ([Formula: see text]) performed the task before (T1), during (T2), and three weeks after (T3) an intensive 10-day mindfulness meditation retreat, while a control waiting list group ([Formula: see text]) was also measured three times, but before participating in the retreat. Analysis of T1 data confirmed the presence of a general somatosensory attenuation effect across groups, which correlated negatively with pre-retreat trait measures of mindfulness, as predicted by our hypothesis. Contrary to our expectations, however, longitudinal analyses did not reveal a global reduction in somatosensory attenuation as an effect of intensive meditation practice. We observed instead a subtler regression-to-the-mean effect at T1, which increased with task repetition in control participants (T1>T2>T3), a training-related phenomenon not previously reported for the force-matching task. Interestingly, this habituation behavior was not shown by the active participants, who maintained the level of regression-to-the-mean observed at baseline at T2, suggesting that the formation of prior expectations about the presented force intensity may be affected by the retreat. We discuss how multiple, opposite effects of meditation on proprioceptive active inference mechanisms, and/or an alteration of prior formation and their influence, may explain these findings.",
+      "journal": "Neuroscience of consciousness",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The role of dual-tasking, mindfulness, and rumination on gait in older adults with chronic pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41671741/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-05T00:00:00",
+      "date_fetched": "2026-02-12T12:39:05.932811",
+      "doi": "10.1016/j.gaitpost.2026.110122",
+      "authors": [
+        {
+          "name": "Katherine L Hsieh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joy Furlipa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kyle Kershner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amber K Brooks",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jason Fanning",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Chronic pain is a debilitating condition in older adults that can lead to mobility impairments, disability, and premature death. While older adults with chronic pain demonstrate gait impairments compared to healthy older adults, how gait patterns change following cognitive or psychological tasks remain unclear. RESEARCH QUESTION: How do gait patterns change from usual walking to dual-task walking, following an acute rumination task, and following an acute mindfulness task in older adults with chronic pain? Secondarily, what is the relationship between pain, number of pain medications, and gait? METHODS: In this ancillary study, 21 participants walked over a four-meter instrumented walkway at their usual speed, while performing a cognitive task, following an acute mindfulness task, and following an acute rumination task. Participants also reported their pain interference and number of pain medications. Paired t-tests were used to determine differences in spatiotemporal gait measures from usual walking to dual-task, mindfulness, and rumination. Spearman's correlations determined the relationship between pain interference, medications, and gait measures. RESULTS: Compared to usual walking, older adults walked slower, with shorter steps, and greater variability during dual-task walking. Following acute mindfulness, older adults walked with moderately longer steps, and following acute rumination, there were no changes in gait. Increased pain intensity was associated with greater gait variability and longer step time, and more pain medications were associated with slower gait speed. SIGNIFICANCE: Nonpharmacological interventions, such as dual-task training or longer, repeated bouts of mindfulness training, should be explored as interventions to improve gait and mobility in older adults with chronic pain.",
+      "journal": "Gait & posture",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
