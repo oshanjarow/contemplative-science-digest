@@ -1,28 +1,263 @@
 {
-  "generated_at": "2026-02-13T12:34:23.325957",
+  "generated_at": "2026-02-14T12:24:56.467702",
   "papers": [
     {
-      "title": "Mindfulness, psychological resilience, and well-being as predictors of professional identity among early childhood teachers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41679158/",
+      "title": "Effects of mindfulness breathing meditation on stress and cognitive functions: a heart rate variability and eye-tracking study",
+      "url": "https://www.semanticscholar.org/paper/1459c23c5fa8144f15c04a44070ce035047198fb",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-11T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.286800",
-      "doi": "10.1016/j.actpsy.2026.106401",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-24T00:00:00",
+      "date_fetched": "2026-02-14T12:24:06.904623",
+      "doi": "10.1038/s41598-025-23727-z",
       "authors": [
         {
-          "name": "Xianhua Zhang",
+          "name": "LY Hooi",
+          "author_id": "2269398586",
+          "affiliation": null
+        },
+        {
+          "name": "Po Ling Chen",
+          "author_id": "2387745052",
+          "affiliation": null
+        },
+        {
+          "name": "Kok Wei Tan",
+          "author_id": "2305162465",
+          "affiliation": null
+        },
+        {
+          "name": "Marieke de Vries",
+          "author_id": "2387654367",
+          "affiliation": null
+        },
+        {
+          "name": "H. K. Wong",
+          "author_id": "115121016",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindfulness meditation has been suggested to protect mental health and enhance cognitive functions. However, the effectiveness of mindfulness breathing meditation for the general population in Malaysia has not been well documented. This study investigated the effects of mindfulness breathing meditation on perceived stress levels and cognitive functions (i.e., visual attention, inhibitory control, and cognitive flexibility) using heart rate variability (HRV) and eye-tracking methods. Fifty Malaysian adults aged between 18 and 34 years participated in this study. Participants were randomly allocated to either mindfulness breathing meditation or active control (music therapy) groups. Participants underwent a four-week intervention consisting of 30 min of online classes once a week and 10 min of daily meditation self-practice or music listening. The results showed significant improvement in cognitive flexibility and reduction in perceived stress levels after the intervention in the mindfulness breathing meditation group compared to the active control group. Participants in the mindfulness breathing meditation group self-reported this intervention as highly acceptable and effective in promoting stress reduction, emotional regulation, and attentional control. However, no significant improvement was found in attention, inhibitory control, and HRV after the intervention, suggesting that the mindfulness breathing meditation had no effect on these variables. While short-term engagement with mindfulness breathing meditation practice is achievable, the three-month follow-up using the Mindfulness Adherence Questionnaire showed that sustaining long-term adherence remains a challenge. The approved Stage 1 protocol can be found under \u201cFiles\u201d, named \u201cSR_HLY_Manuscript_OSF\u201d, via this link: https://doi.org/10.17605/OSF.IO/P67EG.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditation"
+      ]
+    },
+    {
+      "title": "Efficacy of an Online Mindfulness Training to Improve Well-Being in Teachers: A Randomized Waitlist Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/d48628d521a3baa67cb3a5c992990c0107128bb5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-02-14T12:24:08.214569",
+      "doi": "10.1007/s12671-024-02494-4",
+      "authors": [
+        {
+          "name": "Katelyn N. Jackman",
+          "author_id": "2338597701",
+          "affiliation": null
+        },
+        {
+          "name": "Paul Caldarella",
+          "author_id": "35464303",
+          "affiliation": null
+        },
+        {
+          "name": "Jared S. Warren",
+          "author_id": "2301129868",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Effectiveness of brief online mindfulness-based intervention on different types of mobile phone addiction: mechanisms of influence of trait mindfulness",
+      "url": "https://www.semanticscholar.org/paper/57efd3fb0bd1d1f127535c0d7d2ed75d5050a54f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-17T00:00:00",
+      "date_fetched": "2026-02-14T12:24:08.214603",
+      "doi": "10.3389/fpsyg.2025.1400327",
+      "authors": [
+        {
+          "name": "Zhiyu Zhang",
+          "author_id": "2346487266",
+          "affiliation": null
+        },
+        {
+          "name": "Lei Wu",
+          "author_id": "2346053010",
+          "affiliation": null
+        },
+        {
+          "name": "Chu Lu",
+          "author_id": "2346050723",
+          "affiliation": null
+        },
+        {
+          "name": "Tianming Guan",
+          "author_id": "2346019480",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction It is common for college students to suffer from mobile phone addiction, which can seriously affect their physical and mental health. The current study looked at the impact of a brief online mindfulness-based intervention (MBI) on mobile phone addiction to address this problem. The mechanisms behind the influence of trait mindfulness (TM) on this process were also investigated in the current study. Methods Subjects were split into two groups for a randomized controlled trial: an experimental group and a control group. During brief online MBI, online assessments of mobile social networking addiction (MSNA), mobile game addiction (MGA), mobile information acquisition addiction (MIAA), and mobile short-form video addiction (MSVA) as well as TM were completed. The present study examined the effectiveness of the brief online MBI with a two-factor repeated measures ANOVA and explored the effects of TM on the four types of mobile phone addiction with hierarchical linear modeling (HLM) after a brief online MBI. Results Results revealed that the experimental group receiving brief online MBI showed a significant decrease in MSNA, MGA, MIAA, and MSVA at the post-test level compared to the pre-test. TM negatively predicted MSNA, MGA, MIAA, and MSVA. Discussion The present study found that the brief online mindfulness-based intervention can effectively reduce four types of mobile phone addiction. In addition, the present study revealed that as the levels of TM increased, all four types of mobile phone addiction decreased.",
+      "journal": "Frontiers in Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "[PO-1007] Tratamiento psicol\u00f3gico en tiempos de crisis: Aplicaci\u00f3n del programa MBSR",
+      "url": "https://www.semanticscholar.org/paper/ead555173e5296077289d5100d939b4764d13c20",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-01T00:00:00",
+      "date_fetched": "2026-02-14T12:24:13.718803",
+      "doi": "10.1016/j.psiq.2025.100767",
+      "authors": [
+        {
+          "name": "Paloma Ruiz Sastre",
+          "author_id": "2148789460",
+          "affiliation": null
+        },
+        {
+          "name": "Jes\u00fas Herrera Imbroda",
+          "author_id": "2394757842",
+          "affiliation": null
+        },
+        {
+          "name": "Vera Carbonell Aranda",
+          "author_id": "2394758383",
+          "affiliation": null
+        },
+        {
+          "name": "J. G. Parra",
+          "author_id": "78394204",
+          "affiliation": null
+        },
+        {
+          "name": "Ferm\u00edn Mayoral Cleries",
+          "author_id": "7571056",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Psiquiatr\u00eda Biol\u00f3gica",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "\u2018Whether in the body or out of the body I do not know\u2019: Mystical experience and the body in the Alister Hardy database",
+      "url": "https://www.semanticscholar.org/paper/eeef472f5bd3efac82808843fd437bb442f31c2a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-10T00:00:00",
+      "date_fetched": "2026-02-14T12:24:29.241452",
+      "doi": "10.1080/20440243.2026.2615781",
+      "authors": [
+        {
+          "name": "Rachel Kevern",
+          "author_id": "2410273952",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal for the Study of Spirituality",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Effects of acupuncture and mindfulness-based stress reduction for chronic non-specific low back pain: study protocol for a 2\u00d72 factorial randomised controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41689229/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-12T00:00:00",
+      "date_fetched": "2026-02-14T12:24:45.257462",
+      "doi": "10.1136/bmjopen-2025-113227",
+      "authors": [
+        {
+          "name": "Ke Chen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Enqin Yan",
+          "name": "Youmei Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Huibiao Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaonan Zhan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xin Zhao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jianhao Zhou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jing Yang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Siying Fu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zhenyuan Niu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hong Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zheng Jiang",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Although previous studies have explored factors influencing teachers' professional identity, limited attention has been given to its underlying psychological mechanisms from a metacognitive perspective. In particular, few studies have examined how mindfulness, a core psychological resource, relates to professional identity among early childhood education teachers, a group facing unique emotional and occupational challenges. This study aims to investigate the relationships among mindfulness, psychological resilience, well-being, and professional identity among early childhood education teachers. It focuses on how mindfulness, as a metacognitive psychological resource, is associated with professional identity directly and indirectly through psychological resilience and well-being. METHODS: A cross-sectional survey was conducted with 854 full-time kindergarten teachers (48 males and 806 females; M RESULTS: The results demonstrated that mindfulness was positively associated with professional identity (\u03b2\u00a0=\u00a00.15, p\u00a0<\u00a00.05). Psychological resilience significantly mediated this relationship (\u03b2\u00a0=\u00a00.52, p\u00a0<\u00a00.001), accounting for 55.5% of the total indirect effect. Well-being also served as an independent mediator (\u03b2\u00a0=\u00a00.21, p\u00a0<\u00a00.001), accounting for 22.6% of the total effect. In addition, a sequential mediation pathway was identified, in which psychological resilience and well-being sequentially mediated the relationship between mindfulness and professional identity (\u03b2\u00a0=\u00a00.03, p\u00a0<\u00a00.001). CONCLUSION: The findings highlight mindfulness as a critical factor in strengthening professional identity among early childhood educators by enhancing both psychological resilience and well-being. These results contribute to professional identity theory by incorporating metacognitive and psychological constructs, and also provide practical implications: integrating mindfulness-based interventions (e.g., mindfulness meditation, stress-reduction programs) into teacher training can help educators enhance emotion regulation and resilience. Additionally, creating supportive and caring work environments may further promote teachers' well-being and sustainable professional development.",
-      "journal": "Acta psychologica",
+      "abstract": "BACKGROUND: Chronic non-specific low back pain (CNLBP) is a multifactorial disease involving physical dysfunction and psychological distress. Acupuncture and mindfulness-based stress reduction (MBSR) are two non-pharmacological therapies recommended by guidelines, which have been proven effective in improving the clinical symptoms of CNLBP. However, the efficacy of their combined use has yet to be explored. This study aims to explore whether the combination of acupuncture and MBSR would have different synergistic effects in patients with CNLBP compared with acupuncture or MBSR alone. METHODS AND ANALYSIS: This protocol describes a randomised controlled trial with a 2\u00d72 factorial design involving 120 CNLBP patients. Participants will be randomly allocated to four groups: (1) acupuncture, (2) MBSR, (3) acupuncture combined with MBSR, and (4) health education. The intervention period is 6 weeks. The outcome measurements will include the Visual Analogue Scale (VAS), Tactile Acuity Test, Short-form of McGill Pain Questionnairethe(SF-MPQ); Roland-Morris Functional Disability Questionnaire (RMDQ), Oswestry Disability Index(ODI), the Five Facet Mindfulness Questionnaire (FFMQ), the 21-item Depression Anxiety Stress Scales (DASS-21), the Regulatory Self-Efficacy Scale (RESE), the Beck Depression Inventory (BDI-II), the Beck Anxiety Inventory (BAI), the Fear-Avoidance Beliefs Questionnaire (FABQ) and the Pain Catastrophizing Scale (PCS);Pain Sensitivity Questionnaire(PSQ); Pittsburgh Sleep Quality Index(PSQI). All evaluations will be conducted at the baseline stage as well as 6 weeks and 4 months after the implementation of the intervention measures. ETHICS AND DISSEMINATION: Ethics approval was obtained from the Ethics Committee of the Affiliated Rehabilitation Hospital of the Fujian University of Traditional Chinese Medicine (2024KY-041-04). The results of the study will be disseminated through peer-reviewed publications and at scientific conferences. TRIAL REGISTRATION NUMBER: ITMCTR2025000764.",
+      "journal": "BMJ open",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -30,51 +265,132 @@
       "matched_keywords": []
     },
     {
-      "title": "Facilitating unusual bodily experiences and out-of-body experiences across wakefulness and sleep: A high-density EEG and neurophenomenology study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41678848/",
+      "title": "Enhancing motor skills through a mindfulness-based program in adolescents with intellectual and developmental disabilities: A randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687438/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-11T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.286990",
-      "doi": "10.1016/j.concog.2026.104002",
+      "date_fetched": "2026-02-14T12:24:55.573467",
+      "doi": "10.1016/j.ridd.2026.105253",
       "authors": [
         {
-          "name": "Teresa Campillo-Ferrer",
+          "name": "Nesrine Ben Mansour",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Antonella Iadarola",
+          "name": "Sana Jarraya",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ramona Cordani",
+          "name": "Liwa Masmoudi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marco Veneruso",
+          "name": "Ichrak Abdelkefi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "\u00c7a\u011fatay Demirel",
+          "name": "Dorra Jallalli",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lino Nobili",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert Oostenveld",
+          "name": "Riadh Dahmen",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Unusual bodily experiences (UBEs) are illusory bodily perceptions that are not coherent with typical wakeful experiences, including flying or floating sensations, body distortions, and out-of-body experiences. This study examines UBEs in a controlled sleep laboratory using meditation and light stimulation to facilitate their occurrence. A total of N\u00a0=\u00a035 healthy participants underwent high-density EEG, with additional EMG, EOG, and ECG recordings. Participants signalled UBEs by performing left-right-left-right eye movements, providing an objective marker for analysis. Interviews adapted from the micro-phenomenological technique were conducted to capture detailed subjective reports and to guide subsequent sleep and EEG analyses. Of the 35 participants, N\u00a0=\u00a020 reported a total of n\u00a0=\u00a036 UBEs, occurring primarily during meditation (wakefulness) but also during sleep arousals, rapid eye-movement (REM) sleep and non-REM sleep. Spectral EEG analyses and generalized linear mixed models were used to investigate the neural correlates of these experiences, suggesting that UBEs emerge during intermediate states of consciousness combining EEG features of both wakefulness and sleep. Specifically, exploratory EEG analyses showed that UBEs across sleep and wakefulness were associated with EEG reactivation, marked by increased high-frequency activity (beta and gamma) and decreased low-frequency activity (delta and theta), with a particularly pronounced effect around temporal regions. Collectively, these results provide novel insights into the EEG correlates associated with UBEs and contribute to a deeper understanding of self-consciousness and body perception across sleep and wakefulness.",
+      "abstract": "OBJECTIVES: This single-site randomized controlled trial evaluated the effects of an 8-week mindfulness program on motor performance in adolescents with intellectual and developmental disabilities (IDD). METHOD: A total of forty-seven male participants (mean age: 15.49\u202f\u00b1\u202f0.51 years; mean weight: 61.79\u202f\u00b1\u202f4.19\u202fkg; mean height: 172.53\u202f\u00b1\u202f2.8\u202fcm) were recruited and randomly assigned to one of three groups: a mindfulness group (MG; n\u202f=\u202f15), a physical activity group (PAG; n\u202f=\u202f16), and a control group (CG; n\u202f=\u202f16). The intervention consisted of 16 sessions, lasting 30\u202fmin for the MG and 45\u202fmin for the PAG, while the CG received no intervention. Motor skills were assessed at baseline (T0) and after the 8-week intervention (T1) using the Bruininks-Oseretsky Test of Motor Proficiency, Second Edition Short Form (BOT-2 SF). RESULTS: Following the intervention, the MG showed significant improvements across (1) fine motor precision (p\u202f<\u202f0.001), (2) fine motor integration (p\u202f<\u202f0.001), (3) manual dexterity (p\u202f<\u202f0.001), (4) bilateral coordination (p\u202f=\u202f0.002), (5) balance (p\u202f=\u202f0.001), (6) running speed and agility (p\u202f<\u202f0.001), (7) upper-limb coordination (p\u202f<\u202f0.001) and (8) strength (p\u202f<\u202f0.001). CONCLUSIONS: Mindfulness practice is an effective, accessible, and low-cost method to improve motor performance in adolescents with IDD, and its integration into school and therapeutic settings supports their physical development and inclusion.",
+      "journal": "Research in developmental disabilities",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effect of an integrated Yoga module on clinical, endocrine and metabolomic outcomes in polycystic ovarian syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41679257/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-11T00:00:00",
+      "date_fetched": "2026-02-14T12:24:55.573555",
+      "doi": "10.1016/j.jaim.2025.101294",
+      "authors": [
+        {
+          "name": "Deepika Kumari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Reeta Mahey",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Neena Malhotra",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rima Dada",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Polycystic ovarian syndrome (PCOS) affects 5-20\u00a0% of women of reproductive age, with reproductive, metabolic, endocrine, and psychological consequences. Lifestyle interventions such as yoga provide safe, low-cost, and sustainable therapy. In this study, 25 women with PCOS underwent a 12-week yoga program (Asanas, Pranayama, Meditation) without concurrent therapy. Yoga improved menstrual regularity, normalized hormonal and metabolomic profiles. Biochemical analysis revealed reduced oxidative stress, enhanced mitochondrial function, improved insulin signaling, and decreased inflammation. Hormonal assays showed reduced luteinizing hormone (LH), anti-M\u00fcllerian hormone (AMH), dihydrotestosterone (DHT), and testosterone, with increased follicle-stimulating hormone (FSH), estradiol, and sex hormone-binding globulin (SHBG). Metabolomic improvements included reductions in glucose, fructose, d-ribose, xanthine, cholesterol, triglycerides, and body weight. These findings highlight yoga's potential to target core PCOS pathophysiology and support its use as a cost-effective, non-pharmacological, and sustainable therapy inn management of PCOS.",
+      "journal": "Journal of Ayurveda and integrative medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Corrigendum to \"Action without agent, but with awareness? Meditation and the modulation of agency induced sensory suppression\". [Conscious. Cogn. (2026) 103960].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41688262/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-12T00:00:00",
+      "date_fetched": "2026-02-14T12:24:55.573640",
+      "doi": "10.1016/j.concog.2026.104008",
+      "authors": [
+        {
+          "name": "Yoav Schweitzer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aviva Berkovich-Ohana",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yair Dor-Ziderman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ohad Nave",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stephen Fulder",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fynn-Mathis Trautwein",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
       "journal": "Consciousness and cognition",
       "year": 2026,
       "source_name": null,
@@ -83,100 +399,47 @@
       "matched_keywords": []
     },
     {
-      "title": "Exploring the underlying mechanism of the relation between trait mindfulness and insomnia among university students: a dual processing perspective.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41680715/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-13T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287070",
-      "doi": "10.1186/s12889-026-26513-2",
-      "authors": [
-        {
-          "name": "Yanhui Mao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yiyan Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shujun Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Weiwei Peng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wei Zhang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "BMC public health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Corrigendum to \"Dispositional factors affecting the analgesic response to imagery and mindfulness suggestions during hypnosis\" [Conscious. Cogn. 139 (2026) 103993].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41680063/",
+      "title": "Autonomic Indices of Negative Emotion Regulation Predict Treatment Response in Opioid-Treated Chronic Low Back Pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687705/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-11T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287210",
-      "doi": "10.1016/j.concog.2026.104007",
+      "date_fetched": "2026-02-14T12:24:55.573727",
+      "doi": "10.1016/j.jpain.2026.106219",
       "authors": [
         {
-          "name": "Carolane Desmarteaux",
+          "name": "Anna Parisi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "\u00c9milie Gigu\u00e8re",
+          "name": "Miranda Johnson",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mouni Amrane",
+          "name": "Aleksandra Zgierska",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mathieu Pich\u00e9",
+          "name": "Bruce Barrett",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Arnaud Saj",
+          "name": "Rob R Edwards",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "David Ogez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ali Filali",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pierre Rainville",
+          "name": "Eric L Garland",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Consciousness and cognition",
+      "abstract": "Difficulties engaging in emotion regulation strategies, such as cognitive reappraisal, may contribute to heightened pain severity, functional interference and poorer treatment response among adults with chronic low back pain (CLBP) receiving long-term opioid therapy (LTOT). This study used high-frequency heart rate variability (HF-HRV) as a physiological index of negative emotion regulation capacity to examine its influence on psychological treatment outcomes in opioid-treated CLBP. Participants (N = 68) were adults with opioid-treated CLBP enrolled in the Salt Lake City site of a multisite randomized clinical trial comparing mindfulness-based therapy (MBT) and cognitive behavioral therapy (CBT) adjunctive to usual care. At baseline, participants completed an emotion regulation task involving passive viewing and cognitive reappraisal of negative affective stimuli while HF-HRV was recorded. They also completed the Brief Pain Inventory (BPI) to assess pain severity and functional interference. Participants were then randomized to 8 weeks of MBT (n = 41) or CBT (n = 27) and completed BPI assessments at 3-, 6-, 9-, and 12-month follow-ups. Linear mixed-effects models revealed that lower baseline reappraisal capacity, as indicated by blunted phasic HF-HRV during the emotional regulation task, significantly predicted higher pain severity and interference following treatment with MBT or CBT through 12-month follow-up. Findings suggest that attenuated ability to regulate autonomic responses during reappraisal of negative emotional stimuli may contribute to more refractory pain outcomes as long as a year later among individuals engaged in evidence-based psychological treatments. Enhancing emotion regulation strategies, like cognitive reappraisal, may strengthen autonomic functioning and improve pain-related outcomes. PERSPECTIVE: This study found that lower baseline cognitive reappraisal efficacy, indexed by blunted HF-HRV during an emotion regulation task, predicted worse response to psychological treatment for adults with opioid-treated CLBP. These findings point to the potential importance of cognitive reappraisal as a therapeutic target in chronic pain interventions.",
+      "journal": "The journal of pain",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -184,125 +447,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Chiropractic Management of Adults with Cervicogenic or Tension-Type Headaches: Development of a Clinical Practice Guideline.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41685545/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-13T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287348",
-      "doi": "10.1177/27683605251397769",
-      "authors": [
-        {
-          "name": "Robert J Trager",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Clinton J Daniels",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cheryl Hawk",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David N Taylor",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sheryl A Walters",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Morgan R Price",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kristian R Anderson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Louis S Crivelli",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Scott A Mooring",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carina A Staab",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christopher B Oakley",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Chiropractors commonly manage cervicogenic headache (CGH) and tension-type headache (TTH) using nonpharmacological interventions such as spinal manipulative therapy. However, dedicated guidelines on chiropractic management of headaches are outdated. METHODS: We first conducted an umbrella review. A search for systematic reviews and clinical practice guidelines on nonpharmacological interventions for adults with CGH or TTH published from 2017 to August 2023 was conducted. At least two authors independently performed article screening, risk of bias/quality assessment, certainty of evidence, and data extraction. A steering committee developed statements from the synthesized data and seed documents, which were refined by anonymous feedback from a 57-member Delphi panel until reaching at least 80% consensus. The statements were then subjected to public comment, prompting further revisions that were subsequently reviewed by the Delphi panel. RESULTS: Thirty-two relevant articles were identified (31 systematic reviews and 1 clinical practice guideline). Statements included recommendations regarding history (e.g., red flags) and examination for CGH/TTH, recommendation to use of spinal manipulation for CGH, and for TTH only within multimodal care. Certainty of evidence and strength of recommendations for other nonpharmacological interventions (e.g., acupuncture and exercise) varied. Limitations in evidence precluded strong recommendations for acupuncture, education, meditation/mindfulness, and modalities used in isolation for CGH and electroacupuncture for TTH. CONCLUSIONS: This clinical practice guideline created evidence-based consensus recommendations for chiropractic management of adults with CGH and TTH. Chiropractors may appropriately care for individuals with CGH and TTH using a variety of nonpharmacological interventions, while considering best practices in diagnosis, referral, and other aspects of care management.",
-      "journal": "Journal of integrative and complementary medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "One skill to rule them all? Coping strategies as mediators of depression and anxiety during early COVID-19.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41680594/",
+      "title": "Mindfulness knowledge and practice in patients with cardiopulmonary conditions: A qualitative thematic analysis of adults living with pulmonary hypertension and chronic obstructive pulmonary disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687248/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-12T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287572",
-      "doi": "10.1177/13591053261415744",
+      "date_fetched": "2026-02-14T12:24:55.574119",
+      "doi": "10.1016/j.hrtlng.2026.102740",
       "authors": [
         {
-          "name": "Cyrano Patton",
+          "name": "Tania T Von Visger",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Liya Levanda",
+          "name": "Amarjot Singh Gill",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jordan Brooks",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amy Perez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Travis Salle",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeraca Gayle",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Huda Ajaz",
+          "name": "Lea Ann Matura",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "A wealth of coping skills for psychological resilience in the face of everyday stressors becomes pivotal during a global pandemic with physical, social, and societal impacts. The present analyses examined the relationship between coping strategies, pandemic-related distress during early phase COVID-19, and clinical symptoms of depression and anxiety. Data were collected via online survey from a sample of adults diverse in age, ethnicity, sexual orientation, gender, population density, education, disability status, and economic status, all living within the United States (",
-      "journal": "Journal of health psychology",
+      "abstract": "BACKGROUND: Mindfulness practice has shown therapeutic benefits in symptom reduction and improved quality of life for adults with pulmonary hypertension (PH) and chronic obstructive pulmonary disease (COPD). Some studies testing mindfulness-based interventions often include patients' perspectives about their engagement and acceptability of the tested intervention. Yet, a knowledge gap remains about those who have not participated in mindfulness clinical trials. OBJECTIVE: The purpose of this study is to explore the experiential insights of community-dwelling adults with PH and COPD regarding learning and practicing mindfulness. They were asked to reflect on their understanding of mindfulness, how they acquired the knowledge, and how they practice it, as well as its relationship to disease management. METHODS: Twenty adults (n = 10 PH and n = 10 COPD) provided their perspectives via one-on-one focused interviews after participating in a parent survey study. A qualitative thematic analysis of 20 transcripts was conducted to summarize the main themes relevant to their perspectives. RESULTS: Qualitative analysis revealed six main contextual themes related to mindfulness and disease management: (1) acceptability and accessibility, (2) benefits of mindfulness, (3) barriers to engagement, (4) understanding of mindfulness, (5) symptom management, and (6) introduction and promotion of mindfulness. CONCLUSION: Understanding non-research participants' mindfulness knowledge and practice through their experiences provides considerations for future research. Perspectives from these individuals, who were not self-selected for the research, are valuable because they inform the clinical implementation of creating appropriate mindfulness-based interventions that are likely to be successful in the real world.",
+      "journal": "Heart & lung : the journal of critical care",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -310,47 +480,117 @@
       "matched_keywords": []
     },
     {
-      "title": "Mindfulness for heart and mind: Mindfulness-based blood pressure reduction randomized clinical trial for depression symptoms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41678222/",
+      "title": "Is intensive behavioural change enhanced with dialectical behavioural therapy feasible for weight management in adolescents living with higher body weight? A protocol for a pilot randomised controlled trial in three centres in Canada.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41688123/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-12T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287664",
-      "doi": "10.1037/hea0001568",
+      "date_fetched": "2026-02-14T12:24:55.574183",
+      "doi": "10.1136/bmjopen-2025-106645",
       "authors": [
         {
-          "name": "Surenmaa Sukhbaatar",
+          "name": "Emily E Cameron",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shufang Sun",
+          "name": "Katherine M Morrison",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Matthew M Scarpaci",
+          "name": "Josephine Ho",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Vinicius V Neves",
+          "name": "Leslie Roos",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Margaret A Sheridan",
+          "name": "Laurence Katz",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Eric B Loucks",
+          "name": "Aislin Mushquash",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Allison Dart",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brandy A Wicklow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Martin Senechal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mary E Jung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shaelyn M Strachan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tracie O Afifi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mandy Archibald",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brendan Andrade",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stasia Hadjiyannakis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jill Hamilton",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jana Slaght",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kailey Penner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Robert F Balshaw",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jonathan McGavock",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: This study evaluated the effects of the Mindfulness-Based Blood Pressure Reduction (MB-BP) program on depression symptoms in individuals with elevated blood pressure (BP). Exploratory analyses examined whether childhood abuse or neglect moderated these effects. METHOD: Adults with elevated BP ( RESULTS: Participants (58.8% female, 81.1% non-Hispanic White, mean age 59.5years) in the MB-BP group had a 1.65-point greater reduction in Center for Epidemiologic Studies Depression Scale-Revised scores at 6 months versus controls (95% CI [-2.79, -0.51], Cohen's  CONCLUSION: MB-BP significantly reduced depression symptoms in individuals with elevated BP, with preliminary evidence suggesting amplified benefits for those with early-life adversity, particularly neglect. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "journal": "Health psychology : official journal of the Division of Health Psychology, American Psychological Association",
+      "abstract": "INTRODUCTION: For adolescents living with higher body weight, changing lifestyle behaviours can be met with challenges due to psychosocial factors, such as mental health and emotional challenges. Few behavioural interventions have included skill development to manage these mental health and emotional challenges. METHODS AND ANALYSIS: The feasibility of a dialectical behavioural therapy (DBT)-enhanced lifestyle intervention will be evaluated through a pilot randomised controlled trial. We will recruit 90 adolescents aged 14-17 years with a body mass index Z-score >1.4\u2009and mild-to-moderate depressive symptoms to participate with a caregiver in the trial. Adolescents will be randomised 2:2:1 to one of the three study arms: (A) behavioural lifestyle intervention with DBT skills training, (B) behavioural lifestyle intervention alone (ie, without DBT skills training) or (C) control. The interventions will include two sessions weekly for 16 weeks that include (1) one modified DBT skills training with two facilitators, supervised by a clinical psychologist, combined with one behavioural lifestyle session delivered by a dietitian and/or a kinesiologist and (2) two behavioural lifestyle sessions alone. DBT skills training will consist of teaching mindfulness, emotion regulation, distress tolerance, interpersonal effectiveness and walking the middle path modules. Behavioural sessions will be guided by evidence-based practices for goal setting, dietary counselling, improving sleep, reducing screen time and structured physical activity. The main outcomes are enrolment rates, adherence to the intervention and retention rates for follow-up measurements. The secondary outcome will be changes in the quality of life (Pediatric Quality of Life Inventory) and daily physical activity levels between baseline and immediately post-intervention. Adolescents will participate in a focus group incorporating photo elicitation to explore satisfaction, acceptability and perceived benefits of the study arms. ETHICS AND DISSEMINATION: This study has received ethical approval from the University of Manitoba's Biomedical Research Ethics Committee (HS24295-H2020:427), Hamilton Health Sciences & McMaster University (HiREB 18159) and The Conjoint Health Research Ethics Board (CHREB), University of Calgary (REB24-1084). Results will be disseminated through publication in peer-reviewed journals and be relevant to researchers and clinicians involved in paediatrics and paediatric weight management. TRIAL REGISTRATION NUMBER: NCT05338944.",
+      "journal": "BMJ open",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -358,42 +598,65 @@
       "matched_keywords": []
     },
     {
-      "title": "Investigating the benefits of an arts-based mindfulness program conducted with varsity student athletes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41680524/",
+      "title": "Mindfulness-based stress reduction for functional neurological disorder: A feasibility study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687569/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-13T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287705",
-      "doi": "10.1007/s44192-026-00369-9",
+      "date_published": "2026-02-09T00:00:00",
+      "date_fetched": "2026-02-14T12:24:55.574277",
+      "doi": "10.1016/j.jpsychores.2026.112581",
       "authors": [
         {
-          "name": "Cole E Giffin",
+          "name": "Rosa Michaelis",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Diana Coholic",
+          "name": "J\u00f6rg Meibert",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Melonie Gilchrist",
+          "name": "Nicole Alimov",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Melanie Romain",
+          "name": "Christoph Kleinschnitz",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Thierry R F Middleton",
+          "name": "Stoyan Popkirov",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Functional neurological disorder (FND) is common and associated with substantial disability, yet evidence-based treatment options remain limited. Because maladaptive attentional processes are central to FND pathophysiology, mindfulness-based interventions may be beneficial. Mindfulness-Based Stress Reduction (MBSR) has strong empirical support across physical and mental health conditions, but evidence in FND is sparse. OBJECTIVES: To assess feasibility, acceptability, and preliminary clinical outcomes of MBSR for patients with FND. METHODS: In this monocentric, single-arm feasibility study, German-speaking adults with confirmed FND were recruited from a specialized outpatient clinic. Participants completed an 8-week standardized MBSR program across three course cycles (two in-person, one online). Primary outcomes included recruitment, retention, attendance, and self-reported home practice; acceptability was assessed via recommendation likelihood. Secondary outcomes included health-related quality of life (WHODAS 2.0), functional impairment (WSAS), depressive (PHQ-9) and anxiety symptoms (GAD-7), and FND symptom burden (FNSQ). Assessments occurred at baseline, post-intervention, and three-month follow-up. RESULTS: Of 57 eligible patients, 24 enrolled (42%); 22 completed the course (92%). Recommendation likelihood was high. Statistically significant pre-post improvements were observed in WHODAS 2.0 (d\u00a0=\u00a0-0.56) and WSAS (d\u00a0=\u00a0-0.67), with comparable values at three-month follow-up. Post-intervention PHQ-9 scores improved (d\u00a0=\u00a0-0.75), FNSQ symptom count decreased (d\u00a0=\u00a0-0.68), whereas GAD-7 changes were nonsignificant. Online delivery demonstrated particularly strong adherence without dropouts. CONCLUSIONS: MBSR for FND is feasible and well-accepted. A randomized controlled trial is warranted to determine efficacy. Future research could serve as a model for transforming patient-centered care in the digital era. CLINICAL TRIAL REGISTRATION NUMBER: German Clinical Trials Register (DRKS00034806).",
+      "journal": "Journal of psychosomatic research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "When Silence Speaks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687949/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-11T00:00:00",
+      "date_fetched": "2026-02-14T12:24:55.574414",
+      "doi": "10.1016/j.amjmed.2026.02.011",
+      "authors": [
+        {
+          "name": "Edward D Chan",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Discover mental health",
+      "journal": "The American journal of medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -401,37 +664,27 @@
       "matched_keywords": []
     },
     {
-      "title": "The role of Islamic workplace spirituality and grit in predicting teachers' career commitment: A structural equation modeling approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41679155/",
+      "title": "Exploring mindfulness and language learning: EFL students' journey coping with speaking anxiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41689143/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-11T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.287747",
-      "doi": "10.1016/j.actpsy.2026.106365",
+      "date_published": "2026-02-13T00:00:00",
+      "date_fetched": "2026-02-14T12:24:55.574456",
+      "doi": "10.1186/s40359-026-04161-w",
       "authors": [
         {
-          "name": "Khoiruddin Bashori",
+          "name": "Zeynep Ko\u00e7ali",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zalik Nuryana",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Herdian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tommy Tanu Wijaya",
+          "name": "Asuman A\u015f\u0131k",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Amid increasing scholarly attention to faith-based organizational values, this study examines how Islamic workplace spirituality and grit influence teachers' career commitment within private Islamic schools in Indonesia. Grounded in the constructs of istiq\u0101mah (steadfastness), mur\u0101qabah (spiritual mindfulness), and taqarrub (closeness to God), the research introduces an integrative framework in which grit serves as a mediating psychological mechanism linking spiritual orientation to vocational dedication. Utilizing data from 429 teachers across elementary, middle, and high schools, this study employed a quantitative cross-sectional design and used a convenience sampling technique to recruit participants. The data were analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM) to evaluate both the measurement and structural models. Findings demonstrate that istiq\u0101mah and mur\u0101qabah significantly and directly predict career commitment, whereas taqarrub exerts an indirect effect through grit. Grit itself emerges as a critical psychological construct that amplifies the influence of spiritual dimensions on professional perseverance. By bridging theological and psychological perspectives, this research offers a nuanced understanding of career motivation in religious educational settings. The results provide actionable insights for school leaders and policymakers seeking to cultivate spiritually grounded strategies that foster long-term professional commitment among educators.",
-      "journal": "Acta psychologica",
+      "abstract": "BACKGROUND: Foreign language learning often triggers significant anxiety, particularly in speaking tasks, which can hinder students' performance and engagement. According to recent research, mindfulness stands as a promising approach to alleviate such anxiety and foster a more supportive language learning environment. AIMS: This study explores the impact of a mindfulness-based intervention program for foreign language classes (MBI-FLC) on foreign language speaking anxiety (FLSA) and the reflections of the participants about the implemented program. SAMPLE: Following the earthquake-related transition to online instruction, 15 students in a one-year intensive English program participated in the eight-week MBI-FLC program including sessions between 45 and 60\u00a0min. METHOD: A mixed-methods approach was utilized, combining quantitative measures through pre-, post-, and 6-month delayed post-intervention questionnaire/scale and qualitative insights from semi-structured interviews, learner journals, and reflection reports during/after the relevant sessions. RESULTS: Quantitative analysis revealed descriptive decreases in FLSA immediately after the intervention, though gains diminished at follow-up, highlighting the need for continued practice. Some mindfulness facets correlated negatively with FLSA, while the \"relativity of thoughts\" facet unexpectedly showed a positive relationship. Moreover, the qualitative data collected throughout the study revealed three convergent themes: increased awareness, greater acceptance, and improved attentional control, aligning with the short-term reductions in anxiety. CONCLUSION: The findings highlight the potential of mindfulness to improve emotional well-being and speaking confidence in EFL contexts, offering practical implications for integrating mindfulness into language pedagogy.",
+      "journal": "BMC psychology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -439,72 +692,47 @@
       "matched_keywords": []
     },
     {
-      "title": "Mindfulness-based group therapy for auditory hallucination management in schizophrenia: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41679222/",
+      "title": "Emotion regulation-targeted interventions initiated during hospitalization for suicidal crisis: a systematic review and exploratory meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687975/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-11T00:00:00",
-      "date_fetched": "2026-02-13T12:34:22.288150",
-      "doi": "10.1016/j.jpsychires.2026.02.019",
+      "date_fetched": "2026-02-14T12:24:55.574640",
+      "doi": "10.1016/j.jad.2026.121375",
       "authors": [
         {
-          "name": "Shuixian Yang",
+          "name": "Luigi F Saccaro",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wenqing Zhou",
+          "name": "Alexis E Giff",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yingying Qin",
+          "name": "Zamfira Parincu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tao Zheng",
+          "name": "Camille Piguet",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fengxia Huang",
+          "name": "Christian Greiner",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chunqun Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jingxin Dai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lina Zhou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Linmin Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fengchun Wu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qiubi Tang",
+          "name": "Paco Prada",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Auditory hallucinations, a core symptom of schizophrenia, affect 50-70% of patients and significantly impair their quality of life. Although multimodal treatments, including pharmacotherapy, psychotherapy, and neuromodulation, are commonly employed, their efficacy remains limited. This randomized controlled trial aimed to assess the effects of Mindfulness-Based Auditory Hallucination Management (MBAHM) on auditory hallucinations, anxiety, depression, and quality of life in patients with schizophrenia. Eighty patients with schizophrenia were randomly assigned to the MBAHM group (n\u00a0=\u00a040) or the control group (n\u00a0=\u00a040). The MBAHM group received a 2-h MBAHM intervention twice a week for eight weeks, while the control group received routine treatment and care. Auditory hallucinations, anxiety, depression, and quality of life were assessed at baseline and post-intervention. The results revealed that, compared to both the baseline and the control group, the MBAHM group showed significant reductions in auditory hallucinations, anxiety, and depression, along with improvements in quality of life (p\u00a0<\u00a00.001). Correlation analyses further indicated significant associations between reductions in auditory hallucination severity, anxiety, and depression, alongside improvements in quality of life. These findings provide preliminary evidence that MBAHM may be an effective complementary approach for managing auditory hallucinations and improving overall well-being in patients with schizophrenia. TRIAL REGISTRATION: Chinese Clinical Trial Registry ChiCTR2400088029. Date of registration: August 09, 2024.",
-      "journal": "Journal of psychiatric research",
+      "abstract": "INTRODUCTION: Suicide is a leading cause of premature death, with risk peaking around psychiatric hospitalization. Emotion dysregulation (ED) is recognized as a key factor contributing to suicidal ideation and behavior across psychiatric diagnoses. The efficacy of interventions that target ED for suicidality reduction remains unclear, so we aimed to assess these interventions in psychiatric inpatients. METHODS: We conducted a PRISMA-compliant, PROSPERO-registered (CRD420251140949) systematic review and meta-analysis of randomized and non-randomized trials evaluating interventions targeting emotion regulation (ER) for psychiatric inpatients with suicidal ideation and/or behavior. Searches covered PubMed, Embase, and PsycINFO to September 18, 2025. Standardized mean differences (Hedges' g) were pooled under random-effects models and heterogeneity was assessed (Q, I RESULTS: Twelve studies met inclusion (n\u202f=\u202f1708), spanning dialectical behavior therapy (DBT), mindfulness-based interventions, acceptance and commitment therapy (ACT), and other ER-related protocols. Across modalities, feasibility and acceptability were high and interventions consistently improved suicide-related outcomes in transdiagnostic adolescents and adult populations. Suicide attempts and ideation met outcome criteria for exploratory meta-analyses, and, for both, ER-targeted interventions outperformed usual care, despite heterogeneity and small samples. Exploratory meta-regressions were non-significant; funnel plots did not suggest marked publication bias, though power was limited. CONCLUSIONS: ER-targeted interventions delivered during psychiatric hospitalization are feasible and show promising benefits on suicide-related outcomes. Given heterogeneity and limited sample sizes, larger, well-powered randomized trials using standardized suicidality endpoints are needed to establish efficacy, refine inpatient protocols, and inform acute care pathways.",
+      "journal": "Journal of affective disorders",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
