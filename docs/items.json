@@ -1,158 +1,386 @@
 {
-  "generated_at": "2026-02-17T12:37:36.458476",
+  "generated_at": "2026-02-18T12:37:15.525473",
   "papers": [
     {
-      "title": "Effectiveness of mindfulness based interventions in reducing depressive symptoms across mental disorders: A meta-analysis of randomized controlled trials",
-      "url": "https://www.semanticscholar.org/paper/fa8e36e33a5af5a19ce834893fbd4fd8fb221bdc",
+      "title": "Mindfulness, Decentering, and Mother\u2013Child Relationships in COVID-19 Lockdown: A Daily Diary Study",
+      "url": "https://www.semanticscholar.org/paper/d73e423226f8e04f39aecdf92e03e9fe8275bc03",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-02-17T12:36:54.310033",
-      "doi": "10.1016/j.psychres.2025.116473",
+      "date_published": "2026-02-13T00:00:00",
+      "date_fetched": "2026-02-18T12:36:22.841024",
+      "doi": "10.1007/s12671-025-02736-z",
       "authors": [
         {
-          "name": "Ekin Alkan",
-          "author_id": "2352809683",
+          "name": "Liat Ben-Uriel Maoz",
+          "author_id": "2411147653",
           "affiliation": null
         },
         {
-          "name": "Geetanjali Kumar",
-          "author_id": "2355584687",
+          "name": "S. Lavy",
+          "author_id": "48325321",
           "affiliation": null
         },
         {
-          "name": "Shreya Ravichandran",
-          "author_id": "2352808618",
-          "affiliation": null
-        },
-        {
-          "name": "Samiksha Rakesh Kaushal",
-          "author_id": "2352808521",
-          "affiliation": null
-        },
-        {
-          "name": "Gonzalo Salazar-de-Pablo",
-          "author_id": "2153448713",
-          "affiliation": null
-        },
-        {
-          "name": "Livia Alerci",
-          "author_id": "2260633698",
-          "affiliation": null
-        },
-        {
-          "name": "Joelle Michaud-feinberg",
-          "author_id": "2352810348",
-          "affiliation": null
-        },
-        {
-          "name": "L. Guti\u00e9rrez-Rojas",
-          "author_id": "2277745260",
-          "affiliation": null
-        },
-        {
-          "name": "Carline Zorzi",
-          "author_id": "2352810352",
-          "affiliation": null
-        },
-        {
-          "name": "P. Klauser",
-          "author_id": "2244153380",
-          "affiliation": null
-        },
-        {
-          "name": "P. Golay",
-          "author_id": "2271110877",
-          "affiliation": null
-        },
-        {
-          "name": "Ueli Kramer",
-          "author_id": "2310312112",
-          "affiliation": null
-        },
-        {
-          "name": "Luis Alameda",
-          "author_id": "2254022968",
+          "name": "Aviva Berkovich-Ohana",
+          "author_id": "1403270222",
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness based interventions (MBIs) are increasingly recognised for their efficacy in treating depressive disorders. Depressive symptoms are prevalent across various disorders and can significantly impact outcomes, therefore being an important transdiagnostic target. Multiple randomized controlled Trials (RCTs) have explored this question in discrete disorders; however, evidence has never been meta-analysed transdiagnostically. The Prospero-registered (CRD42022352046) systematic review has been conducted on EMBASE, MEDLINE and PsychINFO using terms related to Randomised controlled trials, mindfulness and depression in clinical samples aged between 18 and 65. Random-effects models were performed to assess the effectiveness of MBIs, including Mindfulness based Cognitive Therapy (MBCT), Acceptance and Commitment Therapy (ACT), and Dialectical Behavioural Therapy (DBT), on depressive symptoms transdiagnostically. We conducted sensitivity, heterogeneity analyses, publication bias assessments, meta-regressions and assessed quality. Thirty-five studies, including participants from 12 different diagnostic categories, were included. The results revealed that MBCT, ACT, DBT and others are efficacious in treating depressive symptoms across psychiatric diagnoses compared to active control conditions, all with significant effect sizes. MBIs are effective in reducing depressive symptoms across psychiatric disorders. They should be considered as a potential cost-effective tool to be systematically implemented, not only in those with depression but across mental health disorders.",
-      "journal": "Psychiatry Research",
+      "abstract": null,
+      "journal": "Mindfulness",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effects of mindfulness meditation combined with progressive muscle relaxation on sleep disorders, anxiety, and depression in patients with sarcopenia undergoing hemodialysis",
+      "url": "https://www.semanticscholar.org/paper/a58736175d6cbf2b99e640c6fa37f4d73562f8f7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-13T00:00:00",
+      "date_fetched": "2026-02-18T12:36:25.253476",
+      "doi": "10.3389/fpsyt.2025.1542028",
+      "authors": [
+        {
+          "name": "Yongyao Wu",
+          "author_id": "2301953503",
+          "affiliation": null
+        },
+        {
+          "name": "Haojie Zhang",
+          "author_id": "2302033177",
+          "affiliation": null
+        },
+        {
+          "name": "Lei Jiang",
+          "author_id": "2366997759",
+          "affiliation": null
+        },
+        {
+          "name": "Zhiping Liu",
+          "author_id": "2382305779",
+          "affiliation": null
+        },
+        {
+          "name": "Xinfei Li",
+          "author_id": "2366963442",
+          "affiliation": null
+        },
+        {
+          "name": "Bei Guo",
+          "author_id": "2367283420",
+          "affiliation": null
+        },
+        {
+          "name": "Junyuan Li",
+          "author_id": "2367000503",
+          "affiliation": null
+        },
+        {
+          "name": "Pengjie Xu",
+          "author_id": "2302703795",
+          "affiliation": null
+        },
+        {
+          "name": "Jiang Liu",
+          "author_id": "2302123708",
+          "affiliation": null
+        },
+        {
+          "name": "Rizhen Yu",
+          "author_id": "2302137747",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Objective Long-term physiological, psychological, economic, and lifestyle pressures make maintenance hemodialysis (MHD) patients prone to anxiety and depression. This study aims to evaluate the effects of mindfulness meditation combined with progressive muscle relaxation on sleep and emotional disorders in hemodialysis patients with sarcopenia. Methods Patients with uremic sarcopenia and sleep issues were randomly divided into a control group (n=24) and an intervention group (n=25), with an average age of 45.4 \u00b1 4.77 years and an average dialysis duration of 56.86 \u00b1 17.48 months. The control group received standard treatment (hemodialysis three times per week, medication, health education, dietary guidance, and exercise recommendations), while the intervention group additionally underwent home-based mindfulness and relaxation training for at least 0.5 hours daily over 12 weeks. Sleep quality, emotional states, and quality of life were assessed using the Pittsburgh Sleep Quality Index (PSQI), Self-Rating Depression Scale (SDS), Self-Rating Anxiety Scale (SAS), and 36-Item Short Form Health Survey (SF-36). Data analysis included descriptive statistics, t-tests, analysis of covariance, Mann-Whitney U tests, and chi-square tests. Results Before the intervention, there were no significant differences between the two groups in sleep, anxiety, depression, or quality of life (P>0.05). After the intervention, the intervention group showed significant improvements in all PSQI dimensions (e.g., sleep medication use, sleep quality, and sleep duration) (P<0.01), significant reductions in SAS and SDS scores (P<0.05), and significantly higher SF-36 scores compared to the control group (P<0.05). Conclusion Mindfulness and muscle relaxation training can alleviate psychological stress, reduce skeletal muscle tension, promote muscle anabolism, and significantly improve sleep quality, anxiety, and depression in hemodialysis patients with sarcopenia. This approach is simple, unrestricted, and widely applicable, making it worthy of clinical promotion. Limitations The study had a small sample size and a short follow-up period. Clinical trial registration https://register.clinicaltrials.gov/, identifier NCT06261372.",
+      "journal": "Frontiers in Psychiatry",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "MBCT"
+        "meditation"
       ]
     },
     {
-      "title": "Pengaruh Meditasi Mindfulness terhadap Penurunan Tingkat Kecemasan (Anxiety)Anxiety atau gangguan kecemasan merupakan salah satu masalah kesehatan mental yang banyak dialami oleh masyarakat modern, baik laki-laki maupun perempuan, terutama pada era digita",
-      "url": "https://www.semanticscholar.org/paper/a9f986c073295cc2099f055de70e944cdabf01b6",
+      "title": "Ultra-broadband coherent open-path spectroscopy for multi-gas monitoring in wastewater treatment",
+      "url": "https://www.semanticscholar.org/paper/12b2eccd32b240dd5558c831b9d187bb39b60ea0",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-01-08T00:00:00",
-      "date_fetched": "2026-02-17T12:36:59.051498",
-      "doi": "10.47927/jssdm.v6i1.1400",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-02-18T12:36:39.438811",
+      "doi": "10.1016/j.ese.2025.100554",
       "authors": [
         {
-          "name": "Suryanti Suryanti",
-          "author_id": "73844820",
+          "name": "R. Krebbers",
+          "author_id": "49576765",
           "affiliation": null
         },
         {
-          "name": "Lauw Acep",
-          "author_id": "2321365748",
+          "name": "K. van Kempen",
+          "author_id": "2237903613",
           "affiliation": null
         },
         {
-          "name": "Metta Dewi Wong",
-          "author_id": "2409157851",
+          "name": "Yueyu Lin",
+          "author_id": "2350761164",
+          "affiliation": null
+        },
+        {
+          "name": "J. Meurs",
+          "author_id": "48101683",
+          "affiliation": null
+        },
+        {
+          "name": "Lisanne Hendriks",
+          "author_id": "2221996167",
+          "affiliation": null
+        },
+        {
+          "name": "R. Aben",
+          "author_id": "46711207",
+          "affiliation": null
+        },
+        {
+          "name": "Jos\u00e9 R. Parana\u00edba",
+          "author_id": "31499772",
+          "affiliation": null
+        },
+        {
+          "name": "Christian Fritz",
+          "author_id": "2350667886",
+          "affiliation": null
+        },
+        {
+          "name": "A. Veraart",
+          "author_id": "5099437",
+          "affiliation": null
+        },
+        {
+          "name": "A. Khodabakhsh",
+          "author_id": "2283414325",
+          "affiliation": null
+        },
+        {
+          "name": "S. M. Cristescu",
+          "author_id": "2345842996",
           "affiliation": null
         }
       ],
-      "abstract": "Anxiety or anxiety disorders are among the most prevalent mental health problems experienced by modern society, affecting both men and women, particularly in the digital era due to pressures from family, work, academic demands, and social environments. One non-pharmacological approach that is widely used to address anxiety disorders is mindfulness meditation. This article aims to examine conceptually and empirically the effect of mindfulness meditation on reducing anxiety levels. The method employed is a literature review of relevant national journals. The findings indicate that consistent practice of mindfulness meditation is effective in reducing anxiety symptoms through increased self-awareness, improved emotional regulation, and greater acceptance of unpleasant experiences. Therefore, mindfulness meditation can be recommended as a complementary intervention in the management of anxiety disorders",
-      "journal": "Journal of Social Science and Digital Marketing",
-      "year": 2026,
+      "abstract": "Wastewater treatment plants significantly contribute to greenhouse gas emissions, including nitrous oxide (N2O), carbon dioxide (CO2), and methane (CH4). Current methods to measure these emissions typically target specific molecular compounds, providing limited scope and potentially incomplete emissions profiles. Here, we show an innovative ultra-broadband coherent open-path spectroscopy (COPS) system capable of simultaneously monitoring multiple greenhouse gases. This novel approach combines Fourier transform spectroscopy with a coherent, ultra-broadband mid-infrared light source spanning 2\u201311.5 \u03bcm at approximately 3 W power. Positioned above an aeration tank, the COPS system selectively detected absorption signatures for CH4, CO2, N2O, ammonia (NH3), carbon monoxide (CO), and water vapor (H2O), enabling real-time, path-integrated concentration measurements with a temporal resolution of 40 s. Elevated concentrations of CH4 and CO2 were clearly identified within emission plumes traversing the beam path above the aeration tank. Additionally, CH4 emission patterns closely tracked variations in ammonium loading from incoming wastewater, whereas CO2 emissions correlated strongly with oxygen concentrations introduced during aeration. Measurements of N2O, NH3, and CO were stable and aligned closely with traditional point-based measurements from commercial gas analyzers. Our findings demonstrate that COPS offers a robust, comprehensive solution for the simultaneous real-time monitoring of multiple gases in complex and heterogeneous emission environments. This capability significantly enhances atmospheric and industrial emission assessments, potentially transforming the approach to emissions quantification and environmental management.",
+      "journal": "Environmental Science and Ecotechnology",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "metta meditation"
+        "open monitoring"
       ]
     },
     {
-      "title": "Integrative Oncology for Biochemical Recurrence of Epithelial Ovarian Cancer.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41697452/",
+      "title": "Single-Cell Localized Treatment and ROS Dynamics Monitoring via an Open Electrochemical-Microfluidic Probe.",
+      "url": "https://www.semanticscholar.org/paper/3c9ac6a5d8b6b63dc160ba72d18d8c17cb44bc1c",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-16T00:00:00",
-      "date_fetched": "2026-02-17T12:37:35.251680",
-      "doi": "10.1007/s11912-026-01762-x",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-14T00:00:00",
+      "date_fetched": "2026-02-18T12:36:39.438836",
+      "doi": "10.1002/smll.202503911",
       "authors": [
         {
-          "name": "Tara Berman",
+          "name": "Jiaxu Lin",
+          "author_id": "2240925208",
+          "affiliation": null
+        },
+        {
+          "name": "Ying Hou",
+          "author_id": "2148893773",
+          "affiliation": null
+        },
+        {
+          "name": "Zengnan Wu",
+          "author_id": "35500815",
+          "affiliation": null
+        },
+        {
+          "name": "Yang Song",
+          "author_id": "2241114018",
+          "affiliation": null
+        },
+        {
+          "name": "Qiang Zhang",
+          "author_id": "2145894762",
+          "affiliation": null
+        },
+        {
+          "name": "Jinming Lin",
+          "author_id": "2165190138",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Capturing immediate responses to diverse stimulations in single living cells offers new insights into cellular behaviors and functions. However, integrating precise micro-perturbations with in-situ acquisition of molecular information remains challenging. Here, an open electrochemical-microfluidic probe (OEMP) is developed for single-cell localized treatment and reactive oxygen species (ROS) dynamics monitoring. The OEMP integrates fluidic apertures and functionalized carbon microelectrode in an open interface, which can create a hydrodynamic flow confinement area for precise cell manipulation, followed by real-time ROS evaluation via electrochemical sensing. As a proof of concept, oxidative stress during the ferroptosis process is investigated by stimulating the whole single cell, elucidating the regulatory role of glucose through amperometric parameters. Furthermore, an expanded fluidic configuration can create symmetrical areas within single cells for partial membrane damage and successfully track ROS dynamics involved in potential wound-repair mechanisms. This versatile approach provides a promising way for acquiring in-situ molecular insights and advancing understandings of biological processes from a single-cell perspective.",
+      "journal": "Small",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Monitoring Antioxidant Consumption and Build-Up in Polypropylene During Open-Loop and Closed-Loop Mechanical Recycling",
+      "url": "https://www.semanticscholar.org/paper/05fd9619d0460aef0ad7ae45e825945350c5fa8f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-02-18T12:36:39.438847",
+      "doi": "10.3390/ma18071640",
+      "authors": [
+        {
+          "name": "Niek Knoben",
+          "author_id": "2353819370",
+          "affiliation": null
+        },
+        {
+          "name": "Max Vanhouttem",
+          "author_id": "2353817649",
+          "affiliation": null
+        },
+        {
+          "name": "Aike Wypkema",
+          "author_id": "2353810969",
+          "affiliation": null
+        },
+        {
+          "name": "Nithya Subramanian",
+          "author_id": "2347630087",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Polypropylene (PP), a widely used recyclable plastic in packaging and engineering applications, is prone to thermo-oxidative degradation during reprocessing and molding at high temperatures. Antioxidants (AOs) are essential for stabilizing PP in both its virgin and recycled states. The quantity of AO added is critical: insufficient amounts can lead to poor stabilization, while excessive amounts can cause safety concerns due to build-up. This study presents a modified approach to measure the Oxidation Induction Temperature (OIT) using Differential Scanning Calorimetry (DSC), particularly for recycled PP from waste that contains unpredictable contaminations. This modified approach ensures the safety of the calorimetry cell by limiting the oxidation reaction and preventing the release of volatile compounds during measurements. By performing DSC measurements in inert environments, we obtain the OIT, which can be correlated to residual intact AO levels. This approach to monitoring AO levels is demonstrated in both open- and closed-loop recycling of rigid PP. Although the presence of contamination is known to catalyze thermo-oxidative degradation in PP, our results indicate that recycled PP from open-loop collection still contains sufficient residual AO that allows it to withstand limited thermal reprocessing. However, this tendency of AO retention leads to significant build-up during closed-loop recycling when AOs are added to each cycle, where the PP grade remains fairly homogeneous and the dispersity (\u0110) does not significantly increase over multiple recycling loops.",
+      "journal": "Materials",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "AXIOLOGY OF YOGA IN THE SCRIPTURE OF GHERANDA SAMHITA",
+      "url": "https://www.semanticscholar.org/paper/bc34ba2d8eca18b7408b6150fbe39400effe282e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-31T00:00:00",
+      "date_fetched": "2026-02-18T12:36:42.957943",
+      "doi": "10.25078/vidyottama.v9i1.4788",
+      "authors": [
+        {
+          "name": "I Gusti Made Widya Sena",
+          "author_id": "2364769423",
+          "affiliation": null
+        },
+        {
+          "name": "Ida Bagus Putu Adnyana",
+          "author_id": "2364769872",
+          "affiliation": null
+        },
+        {
+          "name": "I Komang Suastika Arimbawa",
+          "author_id": "2364770867",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The background of this research is that apart from interpreting the verses related to God and yoga practice contextually, it also aims to analyze the axiology of yoga in the Gheranda Samhita scripture so that the knowledge obtained by academics and yoga practitioners is more comprehensive. Axiology in terms of terms is a study related to the theory of value or the study of everything that can be valuable or provide benefits. One scripture that can be used as a reference to get the value or benefits of yoga is the Gheranda Samhita. Through qualitative descriptive methods, using hermeneutic theory, this research found the following findings: First, Yoga ethics as described in the Gheranda Samhita scripture; Second, Seven exercise as a form of seven yoga practises; Third, Ahara yoga as a form of healthy food consumption; Fourth, Asana, as a body form in doing yoga by doing 32 asana poses; Fifth, Mudra, is another term for the mystical movements of the two hands; Sixth, Pratyahara-Pranayama and Seventh, Dhyana-Samadhi. These seven axiological values of yoga are found in the Gheranda Samhita scripture to help a person achieve physical fitness, mental balance and spiritual awareness.",
+      "journal": "Vidyottama Sanatana: International Journal of Hindu Science and Religious Studies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "The effect of cigarette prices on smoking cessation in South Africa using duration analysis: 1970-2017.",
+      "url": "https://www.semanticscholar.org/paper/651e25302ca9c8cea5bc635f048b8e399e3760fb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-02-18T12:36:45.599213",
+      "doi": "10.1016/j.socscimed.2025.117772",
+      "authors": [
+        {
+          "name": "N. Vellios",
+          "author_id": "6809604",
+          "affiliation": null
+        },
+        {
+          "name": "C. van Walbeek",
+          "author_id": "52141192",
+          "affiliation": null
+        },
+        {
+          "name": "G. Guindon",
+          "author_id": "2538411",
+          "affiliation": null
+        }
+      ],
+      "abstract": "South Africa is an interesting case to explore given its high smoking rates and quit intentions, its experience with periods of tax- and industry-initiated cigarette price increases, and the mixed evidence of the effect of prices on smoking cessation (particularly in low- and middle-income countries). We used data from five waves of the National Income Dynamics Study, a nationally-representative survey conducted between 2008 and 2017, and duration analysis techniques to examine whether cigarette prices were associated with South African smokers' decision to quit smoking. Smoking histories were constructed from self-reported age of onset and cessation and matched to monthly price data from 1970 to 2017. We found that price was associated with smoking cessation: a 10% increase in the price of cigarettes was associated with an increase in smoking cessation of 5.8-7.9%, depending on model specification. Our results indicate that increasing the excise tax on cigarettes above inflation would likely encourage smoking cessation in South Africa, provided measures to reduce illicit cigarette trade are concurrently implemented.",
+      "journal": "Social Science & Medicine (1967)",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "cessation experience"
+      ]
+    },
+    {
+      "title": "Validation of the Interpersonal Mindfulness Questionnaire (IMQ) in a Chinese Context: Preliminary Evidence for Cross-Cultural Measurement Invariance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41700781/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-17T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.486151",
+      "doi": "10.1080/00223891.2026.2628575",
+      "authors": [
+        {
+          "name": "Ruixi Ji",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Emad Matanes",
+          "name": "Mingcong Tang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chen Ben David",
+          "name": "Rodrigo C Vegara",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Moshe Frenkel",
+          "name": "Jieting Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wenjia Cai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bassam Khoury",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE OF REVIEW: Biochemical recurrence of epithelial ovarian cancer (EOC), defined as rising CA-125 levels without clinical or radiologic evidence of disease, is a frequent and challenging scenario. Cytotoxic therapy initiated at this stage does not improve survival and may diminish quality of life. This review evaluates integrative oncology (IO) interventions that may support women during this vulnerable period. RECENT FINDINGS: Mind-body therapies, including mindfulness, yoga, and cognitive behavioral therapy, have demonstrated benefits in reducing anxiety, distress, and fear of recurrence. Exercise and acupuncture improve vitality, mood, and sleep. Nutritional strategies-particularly anti-inflammatory diets, vitamin D sufficiency, and omega-3 fatty acid intake-promote resilience and overall health. Natural compounds such as green tea, medicinal mushrooms, modified citrus pectin, melatonin, and AHCC show immune-modulating or anti-tumor effects in preclinical or early clinical studies. Among repurposed non-oncologic drugs, metformin provides the strongest rationale, especially for women with type 2 diabetes. Although ovarian cancer-specific trials are limited, IO approaches are safe, feasible, and evidence-informed. They address psychosocial distress, improve quality of life, and may influence disease biology, offering meaningful options for women under surveillance during biochemical recurrence.",
-      "journal": "Current oncology reports",
+      "abstract": "The Interpersonal Mindfulness Questionnaire (IMQ), based on embodiment theory and interpersonal mindfulness, was developed in Canadian populations but had not been examined in Eastern contexts. This study aimed to validate a Chinese version and assess the cross-cultural measurement invariance between the Chinese and Canadian samples. In Study 1, we translated the IMQ into Chinese, examined its factor structure, and assessed internal validity in a sample of Chinese adults (",
+      "journal": "Journal of personality assessment",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -160,37 +388,57 @@
       "matched_keywords": []
     },
     {
-      "title": "Linking citizenship pressure to work-family conflict: the mediating role of citizenship fatigue and the moderating role of mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41699735/",
+      "title": "A qualitative study of patient perspectives for a mindfulness-based intervention in lung cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702288/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-16T00:00:00",
-      "date_fetched": "2026-02-17T12:37:35.251768",
-      "doi": "10.1186/s40359-026-04181-6",
+      "date_published": "2026-02-11T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.486294",
+      "doi": "10.1016/j.ejon.2026.103133",
       "authors": [
         {
-          "name": "Peixu He",
+          "name": "Jiani Chen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Junna Liu",
+          "name": "Danxia Huang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jiahui Liu",
+          "name": "Qing Luo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xinru Wu",
+          "name": "Yingying Qin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wenjing Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M Tish Knobf",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ying Zhou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zengjie Ye",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "BMC psychology",
+      "abstract": "PURPOSE: This study aimed to explore the psychological experience of patients with early-stage lung cancer in the postoperative period, including their perceptions and attitudes, expectations of potential benefits, and barriers to engagement of an eight-week mindfulness-based intervention (MBI) on psychological recovery. METHODS: This study was conducted as part of the Be Resilient to Lung Cancer (BRLC) research program, registered in the Chinese Clinical Trial Registry (ChiCTR2400080459). Participants were purposively recruited from the thoracic surgery wards and outpatient follow-up clinics of a tertiary hospital in Guangzhou, China. Eligible participants were early-stage lung cancer patients who had undergone curative resection and were interviewed prior to participation in a MBI. Data were collected through semi-structured, in-depth interviews and analyzed using Braun and Clarke's six-phase framework for thematic analysis, guided by the Consolidated Criteria for Reporting Qualitative Research checklist. RESULTS: Twenty-four participants (mean age\u00a0=\u00a050.6\u00a0\u00b1\u00a016.7 years) completed the interviews. Three themes were identified: (1) Perceptions and attitudes toward mindfulness; (2) Expectations of potential benefits; and (3) Barriers to engagement. The findings indicate that psychological recovery lags behind physical recovery, and a MBI is viewed as an acceptable, non-pharmacological approach to enhance emotional recovery. CONCLUSIONS: Patients with lung cancer following curative intent surgery perceive a MBI as a promising strategy to address ongoing distress and promote psychological adjustment. Addressing misconceptions, self-efficacy concerns, and cultural barriers may optimize engagement in future patient-centered, culturally adapted MBI programs.",
+      "journal": "European journal of oncology nursing : the official journal of European Oncology Nursing Society",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -198,37 +446,262 @@
       "matched_keywords": []
     },
     {
-      "title": "Fostering Connection and Shame Resilience Through Self-Compassion: An Innovative Elective for Health Professions Learners.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41695548/",
+      "title": "Understanding social media addiction through Ayurveda, Yoga, and Neuroscience: A narrative review anchored in Indian Knowledge Systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702252/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-16T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.486377",
+      "doi": "10.1016/j.jaim.2025.101293",
+      "authors": [
+        {
+          "name": "Divyansh Pandey",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arnav Bhavsar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alok Bajpai",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Social Media Addiction (SMA), a pervasive behavior disorder of the modern digital age, particularly in youth, is characterized by compulsive internet use and disrupted cognitive control. This narrative review integrates evidence from modern neuroscience and ancient Indian mind-body knowledge systems, namely Ayurveda, Yoga, and spiritual scripture on the basis of the Bhagavad Gita, Katha Upanishad, Charak Samhita, and Yoga Sutras. Databases such as PubMed, Google Scholar, Scopus, and JSTOR were searched using keywords such as \"social media addiction,\" \"Neurobiological mechanisms,\" \"Ayurveda,\" \"Indian Knowledge Systems,\" and \"Yoga and mindfulness,\". PRISMA-based screening of the studies was conducted for the period 1994-2024. Included peer-reviewed articles were thematically categorized into neuroscience-based mechanisms of SMA, mind-body interventions (Yoga, mindfulness), and Ayurvedic models (Pradnyaparadh, Triguna, Satvavajaya Chikitsa, and Medhya Rasayana). This transdisciplinary overview illustrates the potential of integrative approaches that align neuroplastic techniques with culture-informed models of therapeutics. The aim is to comprehend how neurobiological processes like compromised executive function, reward sensitivity, and brain development intersect with ancient Indian mind-body balance systems, moral living, and mental self-regulation. By considering empirical neuroscience as well as established frameworks in Indian medicine and philosophy, it suggests an improved, holistic approach to understanding and treating social media addiction.",
+      "journal": "Journal of Ayurveda and integrative medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effectiveness and outcomes of digital telehealth third-wave cognitive behavioral therapy for depression and anxiety: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41700842/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-17T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.486744",
+      "doi": "10.1080/16506073.2026.2623505",
+      "authors": [
+        {
+          "name": "Vanessa Ip",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Santhija Jegatheeswaran",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aaima Akbar Cheema",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maya FitzGerald",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zahra Wakif",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jannat Kaur Thind",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shannen Kyte",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Spencer Yung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ruchi Raiker",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad Anas Ansar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad Ayub",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ahmad Jamal Khan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "And Farooq Naeem",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Third-wave Cognitive Behavioral Therapy (CBT) interventions, which integrate mindfulness and acceptance-based strategies, have demonstrated efficacy in reducing anxiety and depression. However, barriers such as cost and limited access to in-person therapy restrict widespread usage. Digital delivery of third-wave CBT provides a promising, cost-effective alternative. This meta-analysis aims to synthesize the evidence for the effectiveness of digital telehealth third-wave CBT interventions in reducing symptoms of depression and anxiety through a comprehensive search of randomized controlled trials. Secondary objectives include subgroup analyses of additional psychosocial outcomes. A total of 13 studies were included with ",
+      "journal": "Cognitive behaviour therapy",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Correction: How does mindfulness training affect attention and penalty kick performance in university football player.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41701722/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-02-17T12:37:35.252576",
-      "doi": "10.1177/23821205261420679",
+      "date_fetched": "2026-02-18T12:37:14.486784",
+      "doi": "10.1371/journal.pone.0343309",
       "authors": [
         {
-          "name": "Gioconda Mojica",
+          "name": "Jiaqi Wu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Peggy Hsieh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrew J Revell",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rex Marco",
+          "name": "Lixin Ai",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Shame is an emotional experience in health professions education, often contributing to burnout, isolation, and threats to professional identity. Self-compassion has been identified as a protective factor against shame. This study describes the development and evaluation of an elective designed to foster shame resilience and cultivate self-compassion among health professions students. METHODS: A 6-h elective,  RESULTS: Of 21 learners who completed both pre and post SCS-SF scales, statistically significant improvements were observed in 7 of 12 items and in 4 of 6 subscales (Self-Kindness, Self-Judgment, Common Humanity, and Mindfulness). The total self-compassion score increased from mild to moderate. On the SFQ-MS, 6 of 12 items showed statistically significant differences between the postelective group and matched controls. Program evaluation data indicated that 62% reported significantly greater awareness of shame, and 57% reported significantly increased openness to practicing self-compassion. CONCLUSIONS: This elective represents an innovative approach to improving emotional resilience in learners, integrating experiential learning, interpersonal connection, and small-group learning. Findings suggest that even brief interventions can positively impact learners' self-compassion and aspects of shame resilience. Curricula addressing these affective domains may offer valuable tools for enhancing well-being and professional identity formation in health professions education.",
-      "journal": "Journal of medical education and curricular development",
+      "abstract": "[This corrects the article DOI: 10.1371/journal.pone.0327134.].",
+      "journal": "PloS one",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Efficacy of a Confucianism-based ACT for college students in China: A randomized controlled trial against a standard mindfulness-based intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702456/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-15T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.486943",
+      "doi": "10.1016/j.jad.2026.121441",
+      "authors": [
+        {
+          "name": "Xiaochen Wen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yaping Zhou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yinan Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qiushan Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Li Zhou",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Declining mental health among college students is a global concern. This study aimed to compare the effects of a Confucianism-based Internet-delivered Acceptance and Commitment Therapy (C-ACT) with a standard mindfulness-based I-ACT (M-ACT) and to examine the longitudinal relationship between psychological flexibility (PF) and meaning-centered coping (MCC). METHOD: In this randomized controlled trial, 300 Chinese college students were assigned to either the C-ACT intervention or the M-ACT active comparison group. Both 8-week online interventions were followed over a 20-week period with assessments at five time points. A parallel process latent growth curve model was used to analyze the change trajectories of PF and MCC. RESULTS: Both groups demonstrated significant increases in PF and MCC over time. At baseline, higher PF was significantly associated with higher MCC. Furthermore, the rate of change in PF was positively correlated with the rate of change in MCC across both groups. Crucially, the C-ACT group showed a significantly greater rate of increase in MCC compared to the M-ACT group. No significant group difference was found for the rate of change in PF. CONCLUSIONS: While the findings support the general efficacy of I-ACT for improving psychological well-being in college students, the superior effect of the culturally adapted C-ACT on meaning-centered coping specifically highlights the potential benefits of integrating indigenous cultural values, such as Confucian ethics, into evidence-based psychological interventions to enhance specific therapeutic outcomes. CLINICAL TRIAL REGISTRATION NUMBER: ChiCTR2400090851.",
+      "journal": "Journal of affective disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Parenting young children while grieving a spouse's death: A qualitative application and adaptation of family level components of the Dual Process Model of Coping with Bereavement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41701513/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-17T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.487109",
+      "doi": "10.1080/07481187.2026.2630952",
+      "authors": [
+        {
+          "name": "Erin Donohue",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Catherine Duffey",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "The goal of this qualitative study was to apply components of the revised Dual Process Model of Coping with Bereavement, including loss-oriented and restoration-oriented coping at the family level, oscillation, and overload, to the experiences of young, widowed parents with children and adapt it in relation to their unique experiences. Young parents in this study (N=12) had at least one child under 18 years old at the time of the loss. Semi-structured interviews from a larger project were examined using secondary data analysis, which involved inductive and deductive approaches. Key findings provide evidence for how LO and RO coping at the family-level, oscillation, and parenting and emotional overload occur and encourage a more in-depth conceptualization of oscillation influences within this population. Further, practical implications for grieving parents with young children include receiving structured support in emotion regulation techniques, mindfulness training, and in-the-moment strategies to better manage oscillation and overload.",
+      "journal": "Death studies",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Identifying past-year self-reported suicidality in outpatients with somatic symptom disorder using an interpretable machine-learning model: a multicenter study with an online calculator.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41703511/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-18T00:00:00",
+      "date_fetched": "2026-02-18T12:37:14.487602",
+      "doi": "10.1186/s12888-026-07901-9",
+      "authors": [
+        {
+          "name": "Xing Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shuixiu Lai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Peng Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yibo Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yunhui Zhong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tieshi Zhu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Somatic symptom disorder (SSD) is associated with an elevated risk of suicidality. However, clinically implementable tools to identify outpatients with SSD who may warrant prioritized suicidality assessment remain limited. We therefore aimed to develop an interpretable model using routinely available outpatient data to stratify the likelihood of past-year self-reported suicidality. METHODS: We analyzed a multicenter cross-sectional registry from 3 hospitals in Ganzhou including adults aged 18-60 years with DSM-5-defined SSD. Past-year self-reported suicidality was assessed using a prespecified binary (yes/no) item. Data were split 70/30 into training/test sets. Candidate predictors were selected by the intersection of least absolute shrinkage and selection operator and Boruta. Eight algorithms were trained with repeated 5-fold cross-validation and compared primarily by area under the receiver operating characteristic curve (AUC) and Brier score; the top model underwent calibration and decision-curve analysis. Shapley additive explanations (SHAP) provided model explanations; a Shiny web calculator was implemented. RESULTS: Of 899 participants (median age, 33 years; 64.4% female), 19.9% reported past-year suicidality. All models showed high discrimination in the test set (AUCs\u2009>\u20090.900). The random forest (RANGER implementation) performed best (AUC, 0.978; 95% CI, 0.955-1.000; area under the precision-recall curve, 0.960; Brier, 0.028; accuracy, 0.967; sensitivity, 0.927; specificity, 0.977), with good calibration and favorable net clinical benefit on DCA. SHAP ranked insomnia severity index as the leading contributor, followed by the five facet mindfulness questionnaire and the repeatable battery for the assessment of neuropsychological status. CONCLUSIONS: In SSD outpatients, an interpretable RANGER-based model showed strong internal performance for classifying participants who reported past-year self-reported suicidality, and yielded favorable clinical net benefit across relevant decision thresholds. A web-based calculator illustrates potential usability in outpatient settings; external validation and prospective implementation studies are warranted before routine adoption.",
+      "journal": "BMC psychiatry",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -236,31 +709,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "ChatGPT Gave Out My Office Address. Then Someone Showed Up.",
-      "url": "https://nautil.us/chatgpt-gave-out-my-office-address-then-someone-showed-up-1267710/",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-02-16T13:00:00",
-      "date_fetched": "2026-02-17T12:37:35.997703",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Kristen French",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Nautilus",
-      "excerpt": "AI consciousness expert Susan Schneider on being stalked by chatbot users, the Moltbook meltdown, and why agentic AI isn\u2019t ready for prime time The post ChatGPT Gave Out My Office Address. Then Someone Showed Up. appeared first on Nautilus.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "consciousness"
-      ]
-    }
-  ]
+  "articles": []
 }
