@@ -1,73 +1,78 @@
 {
-  "generated_at": "2026-02-19T12:38:34.298204",
+  "generated_at": "2026-02-20T12:33:59.418304",
   "papers": [
     {
-      "title": "The default mode network and the complex dynamics of ongoing experience: an attractor-state perspective",
-      "url": "https://www.semanticscholar.org/paper/fed21d2d74886d5be5c0be475301bc8aafd38dbd",
+      "title": "A systematic review of mindfulness-based interventions to reduce ICU nurse burnout: global evidence and thematic synthesis",
+      "url": "https://www.semanticscholar.org/paper/9929a613419f34083347c36bf460006357817f7b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-02-19T12:38:09.473484",
-      "doi": "10.1016/j.cobeha.2025.101546",
+      "date_published": "2025-07-15T00:00:00",
+      "date_fetched": "2026-02-20T12:33:09.973211",
+      "doi": "10.1186/s12912-025-03507-w",
       "authors": [
         {
-          "name": "Giulia L Poerio",
-          "author_id": "2366238874",
+          "name": "Budur Ateeq A. Alharbi",
+          "author_id": "2372710590",
           "affiliation": null
         },
         {
-          "name": "Theodoros Karapanagiotidis",
-          "author_id": "2366239620",
+          "name": "Niall McKenna",
+          "author_id": "2372698208",
           "affiliation": null
         }
       ],
-      "abstract": "Ongoing experiences are a defining feature of the human condition, encompassing the thoughts, feelings, and sensations that underscore how we experience the world and our subjective sense of self from moment to moment. In this review, we show how the Default Mode Network\u2019s structural and functional properties make it uniquely suited to supporting ongoing experiences as a system capable of abstraction, integration",
-      "journal": "Current Opinion in Behavioral Sciences",
+      "abstract": "Burnout among ICU nurses remains a global concern due to their constant exposure to high-stress, high-stakes environments. Sustained psychological strain, ethical dilemmas, and workload intensity contribute to emotional exhaustion, reduced job satisfaction, and compromised patient outcomes. This review aimed to evaluate the effectiveness of mindfulness-based interventions (MBIs) in mitigating burnout and occupational stress among ICU nurses, and to examine how the duration and structure of these interventions influence their impact. Following PRISMA 2020 guidelines, a comprehensive search was conducted across PubMed, CINAHL, MEDLINE, PsycINFO, and EMBASE for peer-reviewed studies published between 2013 and 2025. Inclusion criteria were guided by the PICOT framework. Eight studies\u2014comprising randomized controlled trials, quasi-experimental, cohort, and cross-sectional designs\u2014met the eligibility criteria. Data were synthesized narratively, and methodological quality was assessed using appropriate Joanna Briggs Institute (JBI) critical appraisal tools. Thematic analysis revealed three major findings: (1) MBIs effectively reduced emotional exhaustion, depersonalization, and stress-related symptoms among ICU nurses; (2) longer and more structured interventions, such as the 8-week MBSR programs, demonstrated more sustained benefits compared to shorter MBIs; and (3) demographic and contextual factors\u2014including age, years of ICU experience, organizational support, and delivery format\u2014moderated the effectiveness of interventions. All included studies demonstrated medium to high methodological quality. Mindfulness-based interventions are effective and scalable tools for mitigating burnout among ICU nurses. Evidence supports their integration into wellness initiatives within hospital settings, with attention to program structure, duration, and organizational facilitation. Implementation of MBIs may improve nurse wellbeing, resilience, and retention in high-stress care environments. \u2022 Mindfulness-based interventions (MBIs) reduce burnout and stress in ICU nurses. \u2022 8-week programs show stronger and more sustained effects than shorter interventions. \u2022 Younger or early-career nurses show greater responsiveness to MBIs. \u2022 Organizational support and digital delivery enhance implementation. \u2022 Long-term outcomes and cost-effectiveness remain understudied.",
+      "journal": "BMC Nursing",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "default mode network meditation"
+        "mindfulness"
       ]
     },
     {
-      "title": "Mindfulness-based self-compassion and vagal nerve stimulation impact on heart rate variability, psychological resilience, and sleep quality in earthquake survivors.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41706653/",
+      "title": "A Qualitative Evaluation of a Longitudinally Integrated Professionalism Curriculum in the Surgery Clerkship.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41713255/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.328743",
-      "doi": "10.1080/13548506.2026.2628981",
+      "date_fetched": "2026-02-20T12:33:58.324968",
+      "doi": "10.1016/j.jsurg.2026.103888",
       "authors": [
         {
-          "name": "Merve Bat Tonku\u015f",
+          "name": "Rachel Zhang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "\u015eule Okur D\u00fcndar",
+          "name": "Guadalupe Federico-Martinez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Arzu Dikici",
+          "name": "Jeremi Smith",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ece Alag\u00f6z",
+          "name": "Ara Feinstein",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Behice Belk\u0131s \u00c7aliskan",
+          "name": "Priya Rajdev",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Natasha Keric",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Earthquakes pose significant risks to both psychological and physiological health by disrupting autonomic regulation and increasing stress-related disorders. This study aims to evaluate the combined effects of Mindful Self-Compassion (MSC) and vagus nerve stimulation (VNS) on sleep quality, psychological resilience, and heart rate variability (HRV) in survivors of the February 2023 Turkey-Syria earthquakes. A randomized experimental study was conducted with 26 earthquake survivors, assigned to either a combined MSC+VNS group or a VNS-only group. The intervention lasted three weeks. Pre- and post-intervention assessments included the Pittsburgh Sleep Quality Index (PSQI), the Psychological Resilience Scale, and HRV parameters (RMSSD, pNN50, LF/HF ratio). Both groups showed improvement in sleep quality and resilience, with the MSC+VNS group demonstrating greater gains. Significant improvement was observed in LF/HF ratios in both groups, indicating enhanced autonomic balance. However, changes in RMSSD and pNN50 were not statistically significant. While VNS supports stress reduction, combining it with MSC yields stronger psychological and physiological benefits. These findings suggest that integrative approaches may be particularly effective in post-disaster recovery. Future studies with larger and more diverse samples are recommended to validate and expand on these results.",
-      "journal": "Psychology, health & medicine",
+      "abstract": "OBJECTIVE: Professionalism remains a critical yet challenging component of medical education, particularly during the clinical years. Although accreditation standards mandate its instruction, the integration of professionalism into the clerkship experience often lacks consistency and clarity. This study examines the design, implementation, and impact of a structured professionalism curriculum introduced during the surgery clerkship at a college of medicine. DESIGN: An exploratory qualitative case study was conducted using postsession survey data collected from three clerkship cohorts between March and October 2022. SETTING: The curriculum focused on four key domains: communication, wellness, health equity, and career exploration. An exploratory qualitative case study was conducted using postsession survey data collected from three clerkship cohorts between March and October 2022. PARTICIPANTS: A total of 217 student comments were analyzed across sessions addressing professionalism, resilience/wellness, structural competency, and career development. RESULTS: Thematic analysis was performed by a multidisciplinary team using iterative coding and consensus- building to identify prevailing themes in student feed- back. Students consistently valued the curriculum's focus on wellness and career exploration, reporting increased awareness of academic medicine pathways and mindfulness-based coping strategies. However, areas such as structural competency and communication elicited more mixed feedback, revealing a need for enhanced experiential learning, case-based discussion, and longitudinal mentorship. CONCLUSIONS: These findings support the value of a longitudinal, experiential professionalism curriculum during clinical training. Aligning content with real-world clinical practice may strengthen engagement and application, better preparing students for the complexities of professional identity formation in medicine.",
+      "journal": "Journal of surgical education",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -75,67 +80,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Cancer-related fatigue in cancer survivors: an updated clinical practice review for healthcare providers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41706215/",
+      "title": "Treatment of Gender in Research on Intervention Programs Targeting Social Isolation and Loneliness Among Older Adults: Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41705739/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.328798",
-      "doi": "10.1007/s00520-026-10379-6",
+      "date_fetched": "2026-02-20T12:33:58.325012",
+      "doi": "10.2196/72281",
       "authors": [
         {
-          "name": "Jashmira K Bhinder",
+          "name": "Kenta Nomura",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Daniel Astray",
+          "name": "Naoto Kiguchi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Samantha K F Kennedy",
+          "name": "Eisuke Inomata",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Malika Peera",
+          "name": "Takeshi Nakamachi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shing Fung Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Edward Chow",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Henry C Y Wong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Darren Haywood",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicolas H Hart",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Muna Al-Khaifi",
+          "name": "Norikazu Kobayashi",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Cancer-related fatigue (CRF) is a persistent and distressing sense of physical, emotional, or cognitive exhaustion that results from cancer or its treatment, affecting approximately 70-100% of individuals diagnosed with cancer. Despite its prevalence and impact, CRF is often underrecognized and insufficiently managed. This review aims to provide healthcare providers with clear, evidence-based guidance to improve the recognition, assessment, and management of CRF across the continuum of cancer care. METHODS: A narrative literature review was conducted by searching databases for peer-reviewed studies, clinical guidelines, and expert frameworks. Emphasis was placed on high-quality evidence supporting the recognition, assessment, and management of CRF in people with cancer. RESULTS: CRF may emerge before treatment, intensify during anti-cancer treatment, and persist long after treatment completion. It is multifactorial in origin and varies in severity and duration. Validated self-report tools such as the Numeric Rating Scale and EORTC QLQ-C30 are essential for accurate screening and assessment. Management should begin with addressing reversible contributors and proceed with individualized, multimodal interventions. Non-pharmacological approaches including structured physical activity, cognitive behavioral therapy, and mindfulness-based techniques have the strongest supporting evidence. Complementary strategies such as massage therapy, nutritional support, and bright light therapy also show potential benefit. Pharmacologic treatments remain limited in efficacy and should be considered only when non-pharmacologic options are insufficient. CONCLUSIONS: CRF is a clinically significant and potentially modifiable symptom that warrants routine assessment and personalized management. Integrating evidence-based screening tools and interventions into standard oncology care can improve patient outcomes and overall quality of life.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "abstract": "BACKGROUND: Social isolation and loneliness have considerable health implications. Research indicates that older men are generally more susceptible to social isolation compared with women, highlighting the need to integrate gender-responsive approaches in the development and implementation of interventions for mitigating social isolation and loneliness in later life. OBJECTIVE: This study aimed to conduct a review of intervention programs targeting social isolation and loneliness, focusing on gender-specific considerations. Specifically, it aims to examine the gender composition (male-to-female ratio) of participants in intervention programs and identify and analyze intervention strategies that demonstrate gender-sensitive effectiveness. METHODS: A scoping review was conducted as per the Joanna Briggs Institute manual for evidence synthesis. A comprehensive literature search, including hand searching, was conducted across 6 English-language databases, PubMed, MEDLINE, Cochrane, CINAHL, ScienceDirect, and Web of Science, for papers and reports published in 2013-2023. The authors, country, subjects, research design, intervention method, results, and mentions of gender for each included document were presented. RESULTS: The study identified 1282 papers and reports, of which 10 were selected for analysis. Only 1 study reported a higher number of male participants compared with female ones; in contrast, all other studies included predominantly female samples. The studies assessed outcomes based on 2 indicators of social isolation, 4 indicators of loneliness, and 29 other indicators. Exercise and workshops proved effective for social isolation and loneliness, while meditation and laughter therapy were effective for loneliness. The intervention with the highest percentage of male participants (264/323, 82%) was a customized meditation program. Conversely, physical activities, social support, and community-based group health classes drew more female participants. In total, 8 studies did not mention gender in the discussion section, and none considered gender-specific issues in formulating research objectives and outcomes. CONCLUSIONS: Research on social isolation and loneliness has generally ignored the influence of gender. The review also indicated a gender bias in participant selection, with women markedly overrepresented in study samples. The study found that women tend to prefer interventions emphasizing conversations, shared experiences, and emotional exchange. In contrast, men showed the highest participation in a meditation program focused on self-dialogue, which required minimal interaction. Importantly, interventions aimed at promoting social interaction or participation are unlikely to succeed without consideration of gender-specific issues. Therefore, systematically identifying conditions necessary for effective interventions that target older men is crucial for guiding future research and program development. TRIAL REGISTRATION: Open Science Framework 10.17605/OSF.IO/83JQF; hhttps://osf.io/83jqf/overview.",
+      "journal": "Interactive journal of medical research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -143,42 +123,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Psychometric validation of the Arabic self-compassion scale short form (SCS-SF) among Lebanese adults.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41709590/",
+      "title": "Cognitive-behavioral interventions for (peri)menopausal symptoms: A scoping review of interventions characteristics and content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41713169/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.328978",
-      "doi": "10.1177/13591053261417897",
+      "date_published": "2026-02-14T00:00:00",
+      "date_fetched": "2026-02-20T12:33:58.325717",
+      "doi": "10.1016/j.pec.2026.109545",
       "authors": [
         {
-          "name": "Sarah Gerges",
+          "name": "Mariana Branquinho",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fouad Sakr",
+          "name": "K\u00e1tia Berganton",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mariam Dabbous",
+          "name": "Fl\u00e1via Carvalho",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sahar Obeid",
+          "name": "Fabiana Monteiro",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Souheil Hallit",
+          "name": "Ana Fonseca",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Self-compassion is defined as an orientation toward treating oneself with kindness, understanding, and acceptance, particularly in times of personal failure, inadequacy, or external life challenges. It constitutes a significant strategy for fostering positive health behaviors and mitigating psychopathology. Given the limited prior research on this construct in the Lebanese context, the purpose of our study was to examine the psychometric properties of the Arabic-translated Self Compassion Scale Short Form (SCS-SF) in a Lebanese adult sample (",
-      "journal": "Journal of health psychology",
+      "abstract": "OBJECTIVES: Menopause transition is characterized by several changes that can impact a woman's well-being and mental health. Despite the increasing evidence on cognitive-behavioral therapy (CBT) for managing menopausal symptoms, research lacks a comprehensive synthesis of interventions' characteristics for this population. This scoping review aims to provide a comprehensive and updated synthesis of the characteristics, content, and impact of cognitive-behavioral interventions on the treatment of psychological and/or (peri)menopausal symptoms. METHODS: Eligibility criteria included empirical studies published in English that described CBT interventions for (peri)menopausal women targeting psychological and/or menopausal symptoms. A literature search was conducted in two databases (PubMed and PsycINFO) and identified 921 articles, of which 40 were eligible and included in this review. The following data was extracted from included papers: publication details; study design; intervention goals; participants; therapeutic approach; delivery format; provider/facilitator; number and duration of sessions; duration of the intervention; main contents; outcomes; main findings. RESULTS: Therapeutic approaches of the interventions included CBT, CBT for insomnia, mindfulness-based interventions, relaxation-based interventions and Acceptance and Commitment Therapy. Most interventions were delivered either in face-to-face group formats or individual face-to-face sessions, and a lack of internet-delivered interventions was identified. The median length of interventions was 8 sessions, with durations ranging from 4 to 12 weeks. The interventions combined different contents, with psychoeducation about menopause, cognitive and behavioral strategies, and relaxation techniques being the most frequently identified. The studies targeted a wide range of outcomes, and the evidence demonstrated that CBT positively impacted symptoms of depression and anxiety, sleep difficulties, vasomotor symptoms, sexual concerns and perceived stress. CONCLUSIONS/PRACTICE IMPLICATIONS: This review can inform health professionals' clinical practice and guide researchers in developing new interventions targeting (peri)menopausal women, as it provides a synthesis about the relevant characteristics and content of current CBT interventions.",
+      "journal": "Patient education and counseling",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -186,239 +166,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Predicting Adolescent Response to School-Based Mindfulness: A Secondary Analysis of the MYRIAD Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41706471/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.329086",
-      "doi": "10.1001/jamapsychiatry.2025.4638",
-      "authors": [
-        {
-          "name": "Christian A Webb",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Boyu Ren",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Verena Hinze",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tim Dalgleish",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tasmin Jane Ford",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mark T Greenberg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jesus Montero-Marin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Willem Kuyken",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "IMPORTANCE: Depression most commonly first emerges during adolescence, making early prevention critical. While school-based mindfulness training (SBMT) offers a scalable prevention approach with broad reach, evidence of its effectiveness is mixed, and there is a compelling case for a more personalized approach to prevention. OBJECTIVE: To develop a data-driven algorithm from baseline characteristics to predict which adolescents are most likely to benefit from SBMT. DESIGN, SETTING, AND PARTICIPANTS: The My Resilience in Adolescence (MYRIAD) cluster randomized clinical trial was conducted from October 2016 to July 2018. In this secondary analysis, school-level nested cross-validation was used to train and evaluate machine learning models for predicting individualized benefit from SBMT. Participants were students aged 11 to 13 years at baseline from broadly representative secondary schools across England, Scotland, Wales, and Northern Ireland. Data analysis was performed from April 2023 to October 2025. INTERVENTIONS: SBMT teaching core mindfulness skills through psychoeducation, class discussion, and practices, compared with standard social-emotional learning (teaching as usual). MAIN OUTCOMES AND MEASURES: Change in depressive symptoms from preintervention to postintervention measured by the Center for Epidemiologic Studies Depression scale. Causal forest (CF) and elastic net regression (ENR) models computed personalized advantage index scores quantifying individual expected benefit from SBMT vs teaching as usual. RESULTS: Among 8376 adolescents from 84 UK secondary schools, the mean (SD) age at baseline was 12.2 (0.6) years; there were 4509 (54.9%) female participants and 3547 (43.2%) male participants. CF showed acceptable calibration (mean [SE] best linear predictor slope\u2009=\u20090.78 [0.15]), while ENR demonstrated modest predictive performance (r\u2009=\u20090.29; R2\u2009=\u20090.09; root mean square error\u2009=\u200910.3). Both the CF and ENR models identified a subset of adolescents predicted to benefit from SBMT, but group differences in outcomes were negligible (CF: d\u2009=\u20090.07; 95% CI, 0.02-0.12; P\u2009=\u2009.007; ENR: d\u2009=\u20090.08; 95% CI, 0.02-0.13; P\u2009=\u2009.004). Top predictive features from the CF model were symptom severity (eg, low-to-moderate depression and anxiety predicted greater SBMT benefit) and several school factors with nonlinear patterns. ENR emphasized school-level characteristics with minimal differentiation. CONCLUSIONS AND RELEVANCE: This study found that machine learning identified a subgroup with statistically detectable but clinically trivial differential intervention response. These findings highlight the substantial challenges in achieving clinically useful personalization in universal school-based prevention programs. TRIAL REGISTRATION: isrctn.org Identifier: ISRCTN86619085.",
-      "journal": "JAMA psychiatry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Healthcare professionals' perspectives on minoritised ethnic young people's access to eating disorder services in the West Midlands, United Kingdom: a qualitative study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41709297/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.329134",
-      "doi": "10.1186/s40337-026-01546-5",
-      "authors": [
-        {
-          "name": "Aliyah-Mae Williams-Ridgway",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sheryllin McNeil",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Newman Leung",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Donna Hamilton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sukbinder Bilkhu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anthony P Winston",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Helena Tuomainen",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Minoritised ethnic individuals have comparable eating disorder rates to White populations in the United Kingdom (UK) yet face inequalities in treatment access and experiences. Understanding healthcare professional perspectives is essential for addressing these disparities. This study explores health care professional views on the access of minoritised ethnic young people to specialist eating disorder services through Levesque's bidirectional access framework, which considers both supply and demand factors. METHODS: Semi-structured qualitative interviews were conducted with 12 health care professionals from diverse personal and professional backgrounds, recruited from four National Health Service (NHS) community specialist eating disorder services in the West Midlands - the UK's second most ethnically diverse region. Participants completed sociodemographic questionnaires and online interviews via Microsoft Teams. Transcripts were analysed using reflexive thematic analysis. RESULTS: Health care professionals observed that young people of minoritised ethnic backgrounds accessed specialist eating disorder services less frequently than White British peers. Analysis revealed six interconnected themes spanning service-level and service-user-level factors. At the service level, systemic barriers included gatekeeping mechanisms (particularly GP referral requirements), service invisibility within minoritised ethnic communities, and inaccessible locations. Cultural and linguistic barriers were prominent, with communication challenges extending beyond language proficiency to fundamental differences in expressing distress. Health care professionals identified critical gaps in developing culturally sensitive services, citing limited resources, lack of workforce diversity, top-down organizational constraints, and insufficient cultural humility training. At the service-user level, education and awareness emerged as key barriers, with lower mental health literacy and limited eating disorder knowledge within minoritised ethnic communities as hindering recognition and help-seeking. Shame and stigma compounded these challenges, driven by eating disorder stereotypes and cultural beliefs about mental health that discouraged disclosure and treatment-seeking. Health care professionals noted that these barriers disproportionately affected minoritised ethnic individuals compared to their White British peers. CONCLUSIONS: Findings highlight multilevel barriers to accessing eating disorder services requiring comprehensive system changes including removing gatekeeping barriers, enhancing workforce diversity and cultural competency, developing targeted educational initiatives, and challenging eating disorder stereotypes. Culturally responsive services integrating these interventions are essential to improve access and outcomes for minoritised ethnic young people.",
-      "journal": "Journal of eating disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The association of sleep duration, wake-up time, and lifestyle habits with obesity in adolescents.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41701916/",
+      "title": "Yoga, Meditation, and Mindfulness for Treatment of Traumatic Brain Injury: A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40966159/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-19T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.329356",
-      "doi": "10.1515/ijamh-2025-0236",
+      "date_fetched": "2026-02-20T12:33:58.325805",
+      "doi": "10.1177/27683605251379812",
       "authors": [
         {
-          "name": "Banu Turhan",
+          "name": "Alyssa C Ehrhardt",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "G\u00f6n\u00fcl B\u00fcy\u00fcky\u0131lmaz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Demet Ta\u015f",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mehmet Ali Sungur",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mehmet Boyraz",
+          "name": "Matthew J Rogatzki",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVES: Obesity is linked to excessive caloric intake, sleep behaviors, and the environment. Few studies explore the connection between wake-up time and obesity. This research aims to examine sleep patterns, timing, lifestyle, and sociodemographic factors associated with obesity among adolescents aged 15-17. METHODS: This cross-sectional study at Ankara Bilkent City Hospital's Pediatric Endocrinology Outpatient Clinic from December 2023 to November 2024 included 453 adolescents (217 normal weight, 236 obese) without comorbidities. Data on demographics, sleep patterns, physical activity, sedentary behavior, and diet were collected via face-to-face questionnaires. Obese participants were classified into Class 1 and Class 2-3 based on body mass\u00a0index. RESULTS: Obese participants woke up significantly later on weekdays (p=0.001). While normal-weight adolescents often woke between 7:00 and 8:00 AM, more obese adolescents woke after 9:00 AM. They also slept for more than 9\u202fh more often (p=0.002). Obese adolescents spent more than 3\u202fh in sedentary activity (p=0.022). Those with Class 2-3 obesity who did not exercise and had prolonged sedentary time were more common. Bedtimes did not differ significantly. CONCLUSIONS: A delayed morning wake-up time was significantly associated with obesity among adolescents. Sleep timing appears to be as relevant to metabolic health as sleep duration. Reduced physical activity coupled with increased sedentary behavior is associated with obesity. Therefore, advocating for improved sleep hygiene, fostering consistent physical activity routines, and implementing behavioral awareness training in adolescents should be regarded as essential elements of obesity prevention initiatives.",
-      "journal": "International journal of adolescent medicine and health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "\"Like the Clouds Covered the Sun\": Maternal Experiences With Dysphoric Milk Ejection Reflex.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41709120/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.329734",
-      "doi": "10.1177/08903344261419051",
-      "authors": [
-        {
-          "name": "Stephanie L Herr",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jessica Devido",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard Zoucha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jill R Demirci",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Dysphoric Milk Ejection Reflex (D-MER) is defined as an undesirable feeling that some breastfeeding women experience within seconds of milk letdown. D-MER can impact maternal psychological well-being and breastfeeding continuation, but it is an understudied phenomenon. RESEARCH AIM: To uncover and understand D-MER among breastfeeding women within 3 years of birth who self-identified as having experienced D-MER. METHODS: This descriptive qualitative research study was conducted to uncover and understand breastfeeding experiences of women who self-identify as experiencing D-MER. We conducted in-depth interviews with 13 women about their D-MER experience(s). Interview data were qualitatively analyzed using Braun and Clarke's thematic analysis for descriptive studies. RESULTS: We found four themes that captured participants' perceptions, emotional reactions, and behavioral responses to D-MER: (A) Breastfeeding concessions and toleration; (B) Something does not feel \"normal\"; (C) I remember a feeling like this before; and (D) This is real, and recognition is validating. Themes reflected an outsized influence of D-MER on participants' breastfeeding goals, trajectories, and maternal identities. Participants expressed frustration about the lack of recognition and help for D-MER among healthcare providers, but relief in understanding, often through social media, that D-MER was considered a real, physiological condition. Participants were able to reduce, but not eliminate, D-MER symptoms through trial-and-error processes, including distraction, operant conditioning, and mindfulness/relaxation. CONCLUSION: D-MER had a profound, negative impact on participants' breastfeeding experiences and led to decisions to stop breastfeeding or consider stopping before a participant had originally intended. Research is needed to develop interventions that reduce or eliminate D-MER symptomology.",
-      "journal": "Journal of human lactation : official journal of International Lactation Consultant Association",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The effect and neural changes underlying mindfulness meditation training in patients with comorbid internet gaming disorder and depression: A randomized clinical trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41708591/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-18T00:00:00",
-      "date_fetched": "2026-02-19T12:38:33.329825",
-      "doi": "10.1038/s41398-026-03837-6",
-      "authors": [
-        {
-          "name": "Xuefeng Xu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Huabin Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shaoyu Cui",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chang Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaolan Song",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Guang-Heng Dong",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Internet gaming disorder (IGD) has been recognized as a serious mental illness and is often accompanied by depression (IGD-D). An ideal treatment strategy should have effects on both the conditions. Mindfulness meditation (MM) has attracted substantial attention for the treatment of psychiatric diseases; however, its effects on IGD-D and the underlying mechanisms remain unknown. A total of 70 patients with IGD-D were randomly divided into the MM and progressive muscle relaxation (PMR) groups. Of these patients, 61 completed the 1-month study (MM group, n\u2009=\u200934; PMR group, n\u2009=\u200927), including pre- and post-resting-state functional magnetic resonance imaging (fMRI) and 8 training sessions. Regional homogeneity and degree centrality were calculated, and overlapping brain regions were selected as seed points for functional connectivity (FC) analysis. The correlation of FC with behavioral data and neurotransmitters was subsequently evaluated. Compared with the PMR group, the MM group had less severe depression, addiction, and cravings. FC analysis showed that MM increased FC in the executive control, frontal-striatal, and default mode networks. FC was significantly correlated with 5-Hydroxytryptamine 1\u2009A receptor, serotonin transporter, vesicular acetylcholine transporter and dopamine receptors D1 and D2. This study demonstrated that MM was effective in the treatment of IGD-D. MM altered the default mode network, enhanced top-down control, and emotion regulation, and disrupted negative reinforcement mechanisms. These phenomena were supported by the correlation between FC and behavioral as well as biochemical measures, suggesting that MM is a promising therapy for IGD-D.",
-      "journal": "Translational psychiatry",
+      "abstract": "OBJECTIVE: The objective of this scoping review was to analyze research using yoga, meditation, and mindfulness (YMM) as a treatment for traumatic brain injury (TBI). INTRODUCTION: The rationale for this review was to provide an understanding of the methodology and outcome measures used in studies that include YMM as TBI treatment. There are currently no reviews that investigate how all three of these modalities are used in TBI treatment. This review is meant to draw attention to how this research is done and potentially improve future research study design. INCLUSION CRITERIA: Criteria for studies included in this review were developed according to the participants, concept, and context framework. Specifically, participants must have experienced a TBI, the TBI had to be treated with yoga, mindfulness, meditation, or some combination of the three, subjects could not exclusively have had acquired brain injury such as stroke or Alzheimer's disease, and the study must have been published in the English language. METHODS: PubMed, Google Scholar, Scopus, Web of Science, Cumulative Index to Nursing and Allied Health Literature, PsyArXiv, ProQuest, and LoveYourBrain were searched for articles that met our criteria. A total of 72 articles were extracted to address 15 variables. RESULTS: The majority of studies used either a pre-post or exploratory study design with no more than 29 female Caucasian subjects in the age range of 45-54 years. Most subjects participated in the study one month since their mild to severe TBI. In order to treat TBI symptoms, most studies used mindfulness, with the treatment done in person. Sessions of treatment typically occurred on a weekly basis for 10-30 min over 7-8 weeks. Outcome measures used to determine efficacy of treatment were primarily quality of life, followed by cognitive function and depression. Most studies were conducted in the United States after 2010 in the journal  CONCLUSIONS: Studies using YMM for treatment of TBI are typically done on a single type of population with a wide range of outcome variables and no control group. Future research may aim to include a control group and a variety of outcome measures consistent with those used in previous studies for result comparisons.",
+      "journal": "Journal of integrative and complementary medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
