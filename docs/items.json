@@ -1,50 +1,394 @@
 {
-  "generated_at": "2026-02-22T12:25:48.890613",
+  "generated_at": "2026-02-23T12:38:24.336347",
   "papers": [
     {
-      "title": "Active Inference, Computational Phenomenology, and Advanced Meditation: Toward the Formalization of the Experience of Meditation.",
-      "url": "https://www.semanticscholar.org/paper/79e844d4fbb37657f2ca993a98fe19c3ff26c7f8",
+      "title": "Brief Mindfulness-Based Cognitive Therapy in Women With Myocardial Infarction",
+      "url": "https://www.semanticscholar.org/paper/75e059ae2391d42d357cd2bdf49a5a9c189e8ac9",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-12-01T00:00:00",
-      "date_fetched": "2026-02-22T12:24:58.575504",
-      "doi": "10.1016/j.neubiorev.2025.106539",
+      "date_published": "2025-01-16T00:00:00",
+      "date_fetched": "2026-02-23T12:37:41.864453",
+      "doi": "10.1016/j.jacadv.2024.101530",
       "authors": [
         {
-          "name": "Hagar Tal",
-          "author_id": "2401950219",
+          "name": "T. Spruill",
+          "author_id": "4187502",
           "affiliation": null
         },
         {
-          "name": "Malcolm Wright",
-          "author_id": "2401955193",
+          "name": "Chorong Park",
+          "author_id": "2275286965",
           "affiliation": null
         },
         {
-          "name": "Shawn Prest",
-          "author_id": "2401950419",
+          "name": "J. Kalinowski",
+          "author_id": "37012152",
           "affiliation": null
         },
         {
-          "name": "Lars Sandved-Smith",
-          "author_id": "2269374655",
+          "name": "Milla E. Arabadjian",
+          "author_id": "13923661",
           "affiliation": null
         },
         {
-          "name": "M. Sacchet",
-          "author_id": "2324309146",
+          "name": "Yuhe Xia",
+          "author_id": "2111275215",
+          "affiliation": null
+        },
+        {
+          "name": "Amanda J Shallcross",
+          "author_id": "2325826873",
+          "affiliation": null
+        },
+        {
+          "name": "Pallavi D. Visvanathan",
+          "author_id": "2639963",
+          "affiliation": null
+        },
+        {
+          "name": "N. Smilowitz",
+          "author_id": "4480757",
+          "affiliation": null
+        },
+        {
+          "name": "A. Hausvater",
+          "author_id": "5092118",
+          "affiliation": null
+        },
+        {
+          "name": "S. Bangalore",
+          "author_id": "1697130",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Zhong",
+          "author_id": "50089530",
+          "affiliation": null
+        },
+        {
+          "name": "Ki Park",
+          "author_id": "2239780719",
+          "affiliation": null
+        },
+        {
+          "name": "P. Mehta",
+          "author_id": "4240356",
+          "affiliation": null
+        },
+        {
+          "name": "Dwithiya K. Thomas",
+          "author_id": "145091156",
+          "affiliation": null
+        },
+        {
+          "name": "Jeffrey Trost",
+          "author_id": "2259029300",
+          "affiliation": null
+        },
+        {
+          "name": "K. Bainey",
+          "author_id": "5025188",
+          "affiliation": null
+        },
+        {
+          "name": "Bobak Heydari",
+          "author_id": "2316197243",
+          "affiliation": null
+        },
+        {
+          "name": "Janet Wei",
+          "author_id": "2238532332",
+          "affiliation": null
+        },
+        {
+          "name": "V. V. Dickson",
+          "author_id": "2326525536",
+          "affiliation": null
+        },
+        {
+          "name": "G. Ogedegbe",
+          "author_id": "2067736466",
+          "affiliation": null
+        },
+        {
+          "name": "J. S. Berger",
+          "author_id": "2267213363",
+          "affiliation": null
+        },
+        {
+          "name": "Judith S. Hochman",
+          "author_id": "2243066815",
+          "affiliation": null
+        },
+        {
+          "name": "H. Reynolds",
+          "author_id": "5051572",
           "affiliation": null
         }
       ],
-      "abstract": "Computational phenomenology has emerged as a powerful framework for investigating advanced meditation states and stages, and meditative development and endpoints. Various models have been proposed to mechanistically explain the diverse experiences associated with these practices, including enhanced well-being, shifts in attentional control, the loosening or 'defabrication' of perceptual constructions, as well as minimal phenomenal experiences and transformative meditative endpoints such as cessations. However, these models have developed in disparate directions, and an integrative understanding of the underlying mechanisms remains elusive. This review examines how computational models attempt to account for the phenomenology of advanced meditation, with a particular focus on Active Inference as a modeling framework. We identify precision weighting, the confidence attributed to different model parameters, as a common mechanism across models, shaping experiential shifts. Furthermore, we observe a marked difference between early models, which emphasize top-down attentional modulation toward interoception or specific focus objects, and later models which center on layer-specific precision re-weighting within the meditator's hierarchical generative model and target more specific phenomenology. These differences arise from variations in the models' aims, scope, and definitions of contemplative practice. Despite increased interest in minimal phenomenal experience, related states and formal endpoints such as nonduality and cessations remain largely unaddressed. Few models tackle reported increases in cognitive flexibility and learning from meditation, while fundamental mechanisms behind informal practice and affective processes, and processes underlying compassion traditions, remain underexplored. Addressing these gaps is crucial for refining computational models of advanced meditation and informing our understanding of its cognitive, affective, and experiential effects.",
-      "journal": "Neuroscience and Biobehavioral Reviews",
+      "abstract": "Background Elevated perceived stress is associated with adverse outcomes following myocardial infarction (MI) and may account for poorer recovery among women vs men. Objectives This randomized controlled trial tested effects of a mindfulness-based intervention on stress levels among women with MI. Methods Women with elevated stress (Perceived Stress Scale [PSS-4]\u22656) at least 2 months after MI were enrolled from 12 hospitals in the United States and Canada and via community advertising. Participants were randomized to a remotely delivered mindfulness intervention (MBCT-Brief) or heart disease education, both 8 weeks long. Follow-up was 6 months. Changes in stress (PSS-10; primary outcome) and secondary outcomes (depressive symptoms, anxiety, quality of life, disease-specific health status, actigraphy-assessed sleep) were compared between groups. Results The sample included 130 women with MI (mean age 59.8 \u00b1 12.8 years, 34% racial/ethnic minorities). In intention-to-treat analysis, PSS-10 scores declined in the MBCT-Brief arm (\u22120.52 [95% CI: \u22120.77 to \u22120.28]) but not the heart disease education arm (\u22120.19 [95% CI: \u22120.45 to 0.06]; group\u00d7time interaction P = 0.070). The effect was stronger in per-protocol analysis of participants who completed \u22654 intervention sessions (P = 0.049). There were no significant differences in secondary outcomes in intention-to-treat or per-protocol analyses. Within the MBCT-Brief arm, more frequent mindfulness practice was associated with greater reductions in stress (P = 0.007), depressive symptoms (P = 0.017), and anxiety (P = 0.036). Conclusions MBCT-Brief was associated with greater 6-month reductions in stress than an active control among adherent participants. More frequent mindfulness practice was associated with greater improvements in psychological outcomes. Strategies to engage women with MI in mindfulness training and support regular home practice may enhance these effects.",
+      "journal": "JACC: Advances",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "MBCT"
       ]
+    },
+    {
+      "title": "Learning to attenuate myself: a predictive processing account of body-scan meditation and the dissolution of bodily boundaries",
+      "url": "https://www.semanticscholar.org/paper/5750e03daa2932823ea13cc77d9d0c1d48d14464",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-02-23T12:37:49.282341",
+      "doi": "10.1093/nc/niag001",
+      "authors": [
+        {
+          "name": "V. Becattini",
+          "author_id": "2388289859",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Lifshitz",
+          "author_id": "2334546490",
+          "affiliation": null
+        },
+        {
+          "name": "Mark Miller",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n Meditation practices often involve sustaining attention on the body. Typically, attention is understood to enhance both neural resource allocation and the subjective salience of the attended target. However, in deep meditative states, practitioners sometimes report a dissolution of bodily boundaries, a phenomenon known in Pali as bha${\\dot{\\textrm{n}}}$ga. This presents a paradox: why does focused attention, which typically heightens sensory perception, instead lead to its dissolution? This article addresses this apparent contradiction by integrating computational, phenomenological, and empirical perspectives on attention, interoception, and meditation. We focus on the body-scan technique, as practiced in Theravada Buddhist traditions, and its powerful capacity to produce experiences of the dissolution of bodily boundaries. Working within the predictive processing framework, we propose that this \u201cdissolution\u201d of bodily boundaries results from the body-scan\u2019s impact on attentional processes. We argue that by optimizing low-level predictions over somatosensory signals, the body-scan effectively attenuates these signals, thereby diminishing perception of the body\u2019s boundaries. In support of this claim, we first describe the body-scan technique and its phenomenological outcomes. We then introduce key concepts from the predictive processing framework and provide a detailed analysis of attentional processes during the body-scan. We conclude that the attenuation of somatosensory signals during the body-scan not only contributes to the experience of bha${\\dot{\\textrm{n}}}$ga but also suggests a broader potential of this practice for enhancing well-being. With appropriate therapeutic integration, this attentional modulation offers promising applications in addressing conditions characterized by disrupted self-regulation, such as addiction and emotional dysregulation.",
+      "journal": "Neuroscience of Consciousness",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Mindful Chair Yoga in Parkinson's Disease: A Pilot Study Exploring Motor, Cognitive, and Affective Outcomes",
+      "url": "https://www.semanticscholar.org/paper/d0ef75e3548262308d36c5dba0c0f49b42c5cdea",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-01T00:00:00",
+      "date_fetched": "2026-02-23T12:37:49.282413",
+      "doi": "10.1002/mdc3.70378",
+      "authors": [
+        {
+          "name": "H. Onder",
+          "author_id": "5091956",
+          "affiliation": null
+        },
+        {
+          "name": "Ahmet Ozsimsek",
+          "author_id": "66226544",
+          "affiliation": null
+        },
+        {
+          "name": "Aycan Cemil Ulker",
+          "author_id": "2307595296",
+          "affiliation": null
+        },
+        {
+          "name": "Merve Yurekli",
+          "author_id": "2383133408",
+          "affiliation": null
+        },
+        {
+          "name": "Ceyda Bildik",
+          "author_id": "2383136615",
+          "affiliation": null
+        },
+        {
+          "name": "Helin Tunc",
+          "author_id": "2383136599",
+          "affiliation": null
+        },
+        {
+          "name": "Zehra Yavuz",
+          "author_id": "2377072569",
+          "affiliation": null
+        },
+        {
+          "name": "S. Comoglu",
+          "author_id": "34726298",
+          "affiliation": null
+        },
+        {
+          "name": "Ismet Melek",
+          "author_id": "5227100",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindful Chair Yoga (MCY) is a mind \u2013 body intervention designed for individuals with Parkinson \u2019 s disease (PD). 1 This pilot study evaluated an 8-week, telehealth-delivered MCY program \u2014 consisting of twice-weekly online sessions (60 min each) integrating seated joint-release exercises, breathing techniques, and body-scan meditation \u2014 on motor, cognitive, and affective outcomes in patients with mild-to-moderate PD. Sixteen patients completed the program. Outcomes were assessed pre-and post-intervention by a movement disorders neurologist blinded to the intervention status, using validated clinical scales (Supplement 1). Improvements were observed across multiple domains.",
+      "journal": "Movement Disorders Clinical Practice",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Mindfulness-based interventions to promote improved sleep quality in older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41725101/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-01T00:00:00",
+      "date_fetched": "2026-02-23T12:38:12.646599",
+      "doi": "10.1097/NSG.0000000000000338",
+      "authors": [
+        {
+          "name": "Pham Quang Trung Tong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kirsten Munk",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Sleep quality is a crucial indicator of overall health of older adults, who are vulnerable to sleep-related complications such as increased risk for anxiety, dementia, and falls. Sleep disturbances are common in this population and can be exacerbated by comorbidities, including chronic pain and depression. This article explores the research around mindfulness-based interventions (MBIs), which have gained attention as a nonpharmacologic approach to improving sleep quality. MBIs, including mindfulness-based stress reduction, mindfulness-based therapy for insomnia, and mindfulness-based exercises such as yoga and tai chi have shown many benefits for older adults, including improved sleep duration and quality, decreased symptoms of anxiety and depression, and reduced pain. Findings suggest that mindfulness is an effective, low-risk, low-cost way to enhance sleep in older adults, particularly when delivered within structured programs. Early findings also suggest that these interventions may be effectively delivered via digital platforms (such as mindfulness apps), providing increased accessibility and convenience for the older adult population. Nurses should assess patients' sleep quality, address any health issues that might interfere with sleep, and educate older adult patients about the benefits of MBIs as a nonpharmacologic intervention for sleep disturbances.",
+      "journal": "Nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Low levels of mindfulness in the Epilepsy Monitoring Unit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41724125/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-21T00:00:00",
+      "date_fetched": "2026-02-23T12:38:23.517095",
+      "doi": "10.1016/j.yebeh.2026.110956",
+      "authors": [
+        {
+          "name": "Sreya Rahman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kush Maheshwari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana Rivera",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Victoria Chang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mirza Usman Baig",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bruno Moscoso",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana Chavez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Erik D Anderson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Atul Maheshwari",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: Recent studies have shown that mindfulness therapy and attention tasks may benefit patients with seizure disorders. However, there is limited research on levels of mindfulness and electroencephalogram (EEG) power during a mindfulness task in these patients. This study evaluated levels of mindfulness in patients admitted to the Epilepsy Monitoring Unit (EMU) and its relationship with EEG power during a mindfulness task. METHODS: 71 Epilepsy Monitoring Unit (EMU) patients completed a validated mindfulness questionnaire (the Five-Facet Mindfulness Questionnaire) and consented to participate in a standard 10-minute mindfulness task while scalp EEG was being recorded. Participants were then asked 6 questions about their experience with mindfulness and any prior or current diagnoses of Attention Deficit Hyperactivity Disorder (ADHD). Mindfulness scores were analyzed based on EMU diagnosis and also compared to historical healthy controls. RESULTS: Overall mindfulness scores of EMU patients were lower than those reported in historical healthy control samples. Patients with epilepsy and patients with functional seizures both exhibited lower scores in the \"Acting with Awareness\" and \"Describing\" facets of mindfulness relative to these controls. Within the EMU cohort, no significant differences were found in the total and sub-domain mindfulness scores between patients with epilepsy and patients with functional seizures. Relative alpha power (8-9\u00a0Hz) was significantly greater in the right frontocentral region (F4) in the high-mindfulness group compared with the low-mindfulness group. CONCLUSIONS: Overall mindfulness levels of EMU patients were lower than described in historical healthy controls, and higher mindfulness levels were associated with greater alpha power within the frontoparietal attention network during a mindfulness task.",
+      "journal": "Epilepsy & behavior : E&B",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Trauma Adapted Yoga as an Adjunct to Psychiatric Treatment on an Adolescent Inpatient Unit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41725599/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-23T00:00:00",
+      "date_fetched": "2026-02-23T12:38:23.517370",
+      "doi": "10.1177/13591045261424539",
+      "authors": [
+        {
+          "name": "Theresa Chung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jacquelynn Duquette",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yanli Zhang-James",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kathryn Hagen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joseph J Biedrzycki",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "John Cote",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mihika Nepal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stephanie Carbone",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nayla M Khoury",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PurposeTrauma-adapted yoga (TAY) is a yoga adaptation developed for trauma-exposed populations that emphasizes autonomy and targets nervous system regulation. This study evaluates TAY's impact on distress and psychiatric symptoms over the course of a psychiatric hospitalization, building on the results of a prior feasibility study that suggested TAY reduced participants' anxiety and emotional pain immediately following group sessions.MethodsThis is a retrospective study. Adolescents voluntarily joined either a yoga or non-yoga (control) group. TAY was offered twice weekly alongside standard care. The Youth Outcome Questionnaire 2.0 was administered at admission and discharge to measure patient distress and assess change over the course of hospitalization. Participants also completed ratings of anxiety, emotional pain, and physical pain pre-and-post-yoga sessions.ResultsOver 27\u00a0weeks, 129 adolescents participated with 112 opting into the yoga group. Participants were predominantly female, white, and non-Hispanic. Major Depressive Disorder was the most common discharge diagnosis; 71% of participants reported trauma histories. Yoga participation significantly reduced Y-OQ scores whereas controls had no significant reductions over the course of hospitalization.ConclusionFindings show TAY practice during psychiatric hospitalization may reduce overall distress and imply a need for future inpatient standard programming and research.",
+      "journal": "Clinical child psychology and psychiatry",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
     }
   ],
   "articles": []
