@@ -1,243 +1,458 @@
 {
-  "generated_at": "2026-02-27T12:33:57.906357",
+  "generated_at": "2026-02-28T12:24:07.284532",
   "papers": [
     {
-      "title": "SALN: Switch-Aware Locally-Normalized Transformer for Non-Intrusive Load Monitoring",
-      "url": "https://www.semanticscholar.org/paper/06dccd8c92e68d77d0a9566705deac993e37a33d",
+      "title": "BreathCrunch and BellyBreath: Exploring EMS-based Breath Guidance and Enforcement for Meditation and Running",
+      "url": "https://www.semanticscholar.org/paper/57239c8827adc86ef2a81aca13420efbfe998abe",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-14T00:00:00",
-      "date_fetched": "2026-02-27T12:33:08.595239",
-      "doi": "10.1109/RICAI68060.2025.11385050",
+      "date_published": "2025-04-25T00:00:00",
+      "date_fetched": "2026-02-28T12:23:12.821425",
+      "doi": "10.1145/3706599.3721197",
       "authors": [
         {
-          "name": "Lianji Liang",
-          "author_id": "2314404264",
+          "name": "Vincent van Rheden",
+          "author_id": "2211735133",
           "affiliation": null
         },
         {
-          "name": "Sile Ma",
-          "author_id": "2292294304",
+          "name": "Siyi Liu",
+          "author_id": "2281443582",
           "affiliation": null
         },
         {
-          "name": "Chuan Feng",
-          "author_id": null,
+          "name": "Hong Luo",
+          "author_id": "2357857407",
           "affiliation": null
         },
         {
-          "name": "Shuwen Leng",
-          "author_id": "2212875375",
+          "name": "Don Samitha Elvitigala",
+          "author_id": "2137925960",
           "affiliation": null
         },
         {
-          "name": "Qing Ma",
-          "author_id": "2117130449",
-          "affiliation": null
-        },
-        {
-          "name": "Hao Wu",
-          "author_id": null,
+          "name": "F. Mueller",
+          "author_id": "2253698339",
           "affiliation": null
         }
       ],
-      "abstract": "Non-Intrusive Load Monitoring (NILM) tries to estimate the power usage of each appliance from only the total household power. Deep learning has pushed this task forward, but many models still mix up the errors from on/off state detection and power regression, so they do not learn appliance switching well. To address this, this paper proposes a Switch-Aware Locally-Normalized Transformer (SALN). It combines three ideas: switch awareness, local normalization, and statistical context re-injection. The model uses a dual-headed Transformer with gated re-injection at the output, so it can make better use of switching information and reduce the performance drop caused by window-based inputs. We evaluate SALN on the public UK-DALE and REFIT datasets to compare it with existing methods. The results show that SALN is better at recognizing switching events and achieves higher accuracy and robustness in power prediction than current state-of-the-art models.",
-      "journal": "International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+      "abstract": "Breath has a fundamentally influence on our psychophysiological system. Deep exhalation is beneficial for both meditation and running. Many systems support breathing through visual or auditory guidance. In contrast, our work uses electrical muscle stimulation (EMS) to stimulate the abdominal muscles during the exhalation phase of the breath. We explored both a guided approach, in which the EMS functions as a passive guidance, and a force approach, in which EMS is used to force an exhalation. We present both implementations and reflect on using EMS for breathing as a form of human-computer integration.",
+      "journal": "CHI Extended Abstracts",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "non-dual awareness"
+        "meditation"
       ]
     },
     {
-      "title": "Mindfulness Training Improves Attention in Veterans with MCI and Mild Dementia: A Pilot Study",
-      "url": "https://www.semanticscholar.org/paper/0ca521d6a8838ec7b9dbd82cccb96a22f1d3b89b",
+      "title": "Mindfulness Interfused with Humor: Insights From a Randomized Controlled Trial of a Humor-Enriched Mindfulness-Based Program",
+      "url": "https://www.semanticscholar.org/paper/37c7376d14c18f01235d64bdc209dd750996af5c",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-12-01T00:00:00",
-      "date_fetched": "2026-02-27T12:33:20.858895",
-      "doi": "10.1093/geroni/igaf122.3624",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-02-28T12:23:13.793284",
+      "doi": "10.1007/s12671-024-02491-7",
       "authors": [
         {
-          "name": "Grace Desmond",
-          "author_id": "2402685498",
-          "affiliation": null
-        },
-        {
-          "name": "Heera Kamaraj",
-          "author_id": "2354762872",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Yilmaz",
-          "author_id": "2061636544",
-          "affiliation": null
-        },
-        {
-          "name": "Brenna Hagan",
-          "author_id": "2276215345",
-          "affiliation": null
-        },
-        {
-          "name": "Kathy Xie",
-          "author_id": "2386414225",
-          "affiliation": null
-        },
-        {
-          "name": "Katherine W Turk",
-          "author_id": "2402686044",
+          "name": "Christian T. Kastner",
+          "author_id": "2283223500",
           "affiliation": null
         }
       ],
-      "abstract": "Abstract Mild cognitive impairment (MCI) due to Alzheimer\u2019s disease (AD) is often marked by early and progressive deficits in attention. Mindfulness\u2014defined as focused, nonjudgmental awareness of the present moment\u2014has been shown to improve attention and induce neuroplastic changes in healthy older adults. This pilot study examined whether a 10-week mindfulness intervention could improve attention in individuals with MCI. Participants were recruited from the VA Boston Memory Disorders Clinic and pseudo-randomly assigned to a virtual mindfulness-based stress reduction (MBSR) class (n\u2009=\u20099, mean age = 78.4 \u00b1 2.06) or a waitlist control group (n\u2009=\u200911, mean age = 78.4 \u00b1 4.76). The MBSR group received weekly group instruction, engaged in focused attention and open monitoring practices, and completed daily meditation via the Happier app. Attention was assessed at baseline and post-intervention using the Digit Span and Symbol Coding subtests from the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), and the AX-Continuous Performance Task (AX-CPT). Compared to the control group, MBSR participants showed significantly greater improvement in Digit Span (F(1,18) = 10.71, p\u2009=\u20090.004, \u03b7\u00b2 = 0.37) and AX-CPT D\u2019 scores (F(1,18) = 6.73, p\u2009=\u20090.018, \u03b7\u00b2 = 0.27), suggesting enhanced attention processes. While group differences in Symbol Coding and CPT reaction time and accuracy were not statistically significant, this study provides preliminary evidence that mindfulness may improve attentional functioning in Veterans with MCI. Ongoing work includes examining event-related potential (ERP) components (e.g., N200, P300) to clarify underlying mechanisms of attention change.",
-      "journal": "Innovation in aging",
+      "abstract": "Both mindfulness and humor are inherently connected to well-being. Recent research found evidence for their combined effect in a joint training, the Humor-Enriched Mindfulness-Based Program (HEMBP). This study extends these findings by exploring (1) effects of Mindfulness-Based Stress Reduction (MBSR) on different forms of humor, (2) differential effects of the HEMBP on outcomes compared to MBSR, and (3) whether the HEMBP and MBSR may alter worldviews. Ninety participants were randomly allocated to three conditions: the HEMBP, MBSR, and a wait-list control group. Participants\u2019 mindfulness, psychological well-being, life satisfaction, perceived stress, comic styles, and primal world beliefs (primals) were assessed before and after the trainings, and at 1-, 3-, and 6-month follow-ups. Changes in outcome variables over time were modeled by applying linear mixed-effects models. The HEMBP enhanced participants\u2019 mindfulness, benevolent humor, psychological well-being, and life satisfaction compared to the wait-list control. Similarly, MBSR increased participants\u2019 mindfulness and life satisfaction while reducing perceived stress and primal good, but no effects on humor were observed. Comparison between the two trainings revealed trends toward a greater increase in benevolent humor in the HEMBP group and a greater decrease in good in the MBSR group. The results largely replicate previous research on the efficacy of the HEMBP. Both programs demonstrated similar effects on outcomes, with only the HEMBP increasing benevolent humor and psychological well-being, while MBSR reduced stress. Further research is needed to investigate qualitative aspects of the integration of humor in MBPs and the long-term impact of MBPs on individuals\u2019 worldviews. This study is not preregistered.",
+      "journal": "Mindfulness",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "mindfulness"
       ]
     },
     {
-      "title": "Brief online mindfulness meditation training modulates heart rate variability during post-stress meditation",
-      "url": "https://www.semanticscholar.org/paper/ea2d920c41e0e65e41c75bb7068f4c81c12f20ef",
+      "title": "Barriers and Facilitators of Mindfulness-Based Interventions for Muslims in the UK",
+      "url": "https://www.semanticscholar.org/paper/ecee2f2e948c1e66c12b91a56fbd635e09e6bb11",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-16T00:00:00",
-      "date_fetched": "2026-02-27T12:33:20.858905",
-      "doi": "10.64898/2026.02.11.705451",
+      "date_published": "2025-04-17T00:00:00",
+      "date_fetched": "2026-02-28T12:23:13.793341",
+      "doi": "10.1007/s12671-025-02572-1",
       "authors": [
         {
-          "name": "Yukiko Tsuji",
-          "author_id": "2053290834",
+          "name": "Eman AlBedah",
+          "author_id": "2218203335",
           "affiliation": null
         },
         {
-          "name": "Itsuki Kondo",
-          "author_id": "2412107589",
+          "name": "Vuokko Wallace",
+          "author_id": "2265566284",
           "affiliation": null
         },
         {
-          "name": "Sotaro Shimada",
-          "author_id": "2317235360",
+          "name": "Paul Chadwick",
+          "author_id": "2343076620",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "bioRxiv",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Monitoring Slope Stability: A Comprehensive Review of UAV Applications in Open-Pit Mining",
+      "url": "https://www.semanticscholar.org/paper/97e9298c9a9f82a627e98f2f846671c2a1e7752f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-03T00:00:00",
+      "date_fetched": "2026-02-28T12:23:29.989211",
+      "doi": "10.3390/land14061193",
+      "authors": [
+        {
+          "name": "Stephanos Tsachouridis",
+          "author_id": "2365239206",
+          "affiliation": null
+        },
+        {
+          "name": "Francis Pavloudakis",
+          "author_id": "2273441981",
+          "affiliation": null
+        },
+        {
+          "name": "Constantinos C Sachpazis",
+          "author_id": "2365236441",
+          "affiliation": null
+        },
+        {
+          "name": "V. Tsioukas",
+          "author_id": "5209084",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Unmanned aerial vehicles (UAVs) have increasingly proven to be flexible tools for mapping mine terrain, offering expedient and precise data compared to alternatives. Photogrammetric outputs are particularly beneficial in open pit operations and waste dump areas, since they enable cost-effective and reproducible digital terrain models. Meanwhile, UAV-based LiDAR has proven invaluable in situations where uniform ground surfaces, dense vegetation, or steep slopes challenge purely photogrammetric solutions. Recent advances in machine learning and deep learning have further enhanced the capacity to distinguish critical features, such as vegetation and fractured rock surfaces, thereby reducing the likelihood of accidents and ecological damage. Nevertheless, scientific gaps remain to be researched. Standardization around flight practices, sensor selection, and data verification persists as elusive, and most mining sites still rely on limited, multi-temporal surveys that may not capture sudden changes in slope conditions. Complexity lies in devising strategies for rehabilitated dumps, where post-mining restoration efforts involve vegetation regrowth, erosion mitigation, and altered land use. Through expanded sensor integration and refined automated analysis, approaches could shift from information gathering to ongoing hazard assessment and environmental surveillance. This evolution would improve both safety and environmental stewardship, reflecting the emerging role of UAVs in advancing a more sustainable future for mining.",
+      "journal": "Land",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "The Philosophical Structure of Buddhist Character Education Based on the Threefold Training \u015a\u012bla\u2013Sam\u0101dhi\u2013Praj\u00f1\u0101 in the Bodhicary\u0101vat\u0101ra",
+      "url": "https://www.semanticscholar.org/paper/6c0891d1020f988f1bd3e0ced019edd19b92b890",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-31T00:00:00",
+      "date_fetched": "2026-02-28T12:23:35.923290",
+      "doi": "10.18850/jees.2026.79.10",
+      "authors": [
+        {
+          "name": "H. Oh",
+          "author_id": "19361696",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of Ethics Education Studies",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "samadhi"
       ]
     },
     {
-      "title": "Online Mindfulness-Based Interventions Korean Military Students\u2019 Experiential Perspectives",
-      "url": "https://www.semanticscholar.org/paper/c7778b827b5075348cda7f2927d38dd04d4cab5d",
+      "title": "Comprehensive Review of Jalandhara Bandha",
+      "url": "https://www.semanticscholar.org/paper/cced8ef370fc8842df554c2e31fd58dde713cd7e",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-01-09T00:00:00",
-      "date_fetched": "2026-02-27T12:33:23.072578",
-      "doi": "10.69977/ipme/2025.008",
+      "date_published": null,
+      "date_fetched": "2026-02-28T12:23:37.135283",
+      "doi": "10.55552/ayuscript.2025.4320",
       "authors": [
         {
-          "name": "Eunmi Kim",
-          "author_id": "2110012675",
+          "name": "Gosavi S",
+          "author_id": "2410604444",
           "affiliation": null
         },
         {
-          "name": "L. A. Perry",
-          "author_id": "28939874",
-          "affiliation": null
-        },
-        {
-          "name": "Lisa Kerr",
-          "author_id": "2280811113",
-          "affiliation": null
-        },
-        {
-          "name": "Kyusoon Pak",
-          "author_id": "2160433506",
-          "affiliation": null
-        },
-        {
-          "name": "Sang Seong Kim",
-          "author_id": "2419763384",
-          "affiliation": null
-        },
-        {
-          "name": "Hyeonjung Kim",
-          "author_id": "2243597122",
-          "affiliation": null
-        },
-        {
-          "name": "Kiwoong Park",
-          "author_id": "1697768",
+          "name": "Sharma G",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness-based interventions (MBIs) have been applied across various fields, notably in education. The COVID-19 pandemic accelerated the transition of their application to online formats. While this type of delivery may be especially valuable in military settings given their unique constraints, research in Korea has been limited. The current study describes the first online MBI offered as a semester-credit course for undergraduate students at a civilian public university who are taking online classes while serving in the Korean military and explores participant experiences with and outcomes of the MBI. During a 16 week period, 16 students viewed weekly videos and, during the final 10 weeks, completed meditation journals three times per week. The curriculum included body scan, relaxation, breath awareness, selective attention, self-compassion, and mindful daily living, delivered through guided meditations, recorded sessions, creative activities, and instructor feedback. Nine students gave consent to be participants in the study. A data-driven, thematic analysis of the nine students\u2019 journals examined immediate post-meditation experiences, bodily sensations, breath awareness, and integration through journaling. Two primary themes emerged: personal process and outcomes experienced. The first theme highlights a common personal process through which students developed a meaningful relationship with their introduction to mindfulness practices, including subthemes of comfort level, normalization, and intent to continue. The second theme identified outcome subthemes related to physiological benefits, physical self-awareness, and mental self-awareness. Findings suggest online MBIs can support psychological and physical well-being in high-stress military environments. The study highlights the potential of such programs to promote resilience and health in these unique environments and the need for further research in military populations.",
-      "journal": "International Perspectives on Military Education",
-      "year": 2026,
+      "abstract": "Jalandhar Bandha, traditionally described as the \u201cthroat lock,\u201d is a key practice in Ha\u1e6dha Yoga that integrates musculoskeletal, respiratory, and subtle energetic mechanisms. Classical yogic texts such as the Ha\u1e6dha Yoga Pradipika, Ghera\u1e47\u1e0da Samhita, and Shiva Samhita emphasize its role in regulating Pra\u1e47ic flow, safeguarding the practitioner during Pranayama, and facilitating meditative absorption. Anatomically, the practice involves flexion of the cervical spine and compression at the throat region, which may influence blood circulation, vagal stimulation, and endocrine function, particularly at the thyroid and parathyroid glands. Contemporary research suggests potential benefits of Jalandhara Bandha in autonomic regulation, stress reduction, respiratory efficiency, and management of thyroid and cardiovascular conditions. However, contraindications include cervical spondylosis, uncontrolled hypertension, glaucoma, and other conditions requiring cautious application. This review integrates scriptural descriptions, anatomical and physiological interpretations, therapeutic potentials, and available research evidence to provide a comprehensive understanding of Jalandhara Bandha. It highlights both the enduring relevance of this yogic technique in modern health care and the need for further clinical validation.",
+      "journal": "Ayuscript",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "body scan meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "Randomized controlled trial: Synergistic effect of three-ball mindfulness breathing rehabilitation training following pulmonary lobectomy for lung cancer.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41739224/",
+      "title": "Anionic high-entropy doping engineering for electromagnetic wave absorption",
+      "url": "https://www.semanticscholar.org/paper/08771b7c757c3c60ee0583da6abc17812a518f04",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:46.260309",
-      "doi": "10.1007/s00520-026-10360-3",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-02T00:00:00",
+      "date_fetched": "2026-02-28T12:23:37.135384",
+      "doi": "10.1038/s41467-025-58448-4",
       "authors": [
         {
-          "name": "Yaxian Hong",
+          "name": "Jiaqi Tao",
+          "author_id": "1947726903",
+          "affiliation": null
+        },
+        {
+          "name": "Yi Yan",
+          "author_id": "2295766130",
+          "affiliation": null
+        },
+        {
+          "name": "Jintang Zhou",
+          "author_id": "2327753648",
+          "affiliation": null
+        },
+        {
+          "name": "Jin Wang",
+          "author_id": "2272076063",
+          "affiliation": null
+        },
+        {
+          "name": "Ping Chen",
+          "author_id": "2278777006",
+          "affiliation": null
+        },
+        {
+          "name": "Ruiyang Tan",
+          "author_id": "2633451",
+          "affiliation": null
+        },
+        {
+          "name": "Linling Xu",
+          "author_id": "2152895618",
+          "affiliation": null
+        },
+        {
+          "name": "Hongbao Zhu",
+          "author_id": "2307474828",
+          "affiliation": null
+        },
+        {
+          "name": "Wenhui Zhu",
+          "author_id": "2307651262",
+          "affiliation": null
+        },
+        {
+          "name": "He-xia Huang",
+          "author_id": "2255816434",
+          "affiliation": null
+        },
+        {
+          "name": "Xuewei Tao",
+          "author_id": "2278313408",
+          "affiliation": null
+        },
+        {
+          "name": "Zhengjun Yao",
+          "author_id": "2238328190",
+          "affiliation": null
+        }
+      ],
+      "abstract": "High-entropy doping (HED) engineering surpasses conventional methods for optimizing atomic configurations and electronic structures, opening new paths for developing advanced electromagnetic wave absorbing (EWA) materials. However, the application of anionic HED engineering to tailor EWA mechanisms remains unexplored. Herein, we employ in situ pyrolysis combined with a three-stage solvent thermal doping procedure to systematically induce anion multibody interactions, thereby facilitating the inheritance and accumulation of beneficial EWA properties. The research shows that anions with various electronegativities precisely balance free charges and create a significant localized charge imbalance, triggering the \u2018directional cocktail effect\u2019. This effect induces an optimal dielectric loss mechanism and enhances the EWA performance. With only 7.5\u2009wt% filling, the effective absorption bandwidth and minimum reflection loss are 7.05\u2009GHz and \u221260 dB, respectively. Overall, we report an anionic HED engineering within thin a graphite framework, which may be conceptually extendable for electromagnetic modulation of other two-dimensional van der Waals EWA materials. This study presents an anionic high-entropy doping strategy, elucidating the intricate charges state regulation to drive dipole polarization-dominated dielectric loss and efficient electromagnetic wave absorption in thin graphite framework.",
+      "journal": "Nature Communications",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Attention and meditative development: A review and synthesis of long-term meditators and outlook for the study of advanced meditation",
+      "url": "https://www.semanticscholar.org/paper/dc5304e610254eb1af1544f8a650d7026230a6eb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-01T00:00:00",
+      "date_fetched": "2026-02-28T12:23:37.135504",
+      "doi": "10.1016/j.neuroimage.2025.121602",
+      "authors": [
+        {
+          "name": "S. Ehmann",
+          "author_id": "2315464718",
+          "affiliation": null
+        },
+        {
+          "name": "Idil Sezer",
+          "author_id": "1866766801",
+          "affiliation": null
+        },
+        {
+          "name": "Arielle S. Keller",
+          "author_id": "2393563420",
+          "affiliation": null
+        },
+        {
+          "name": "Isaac N. Treves",
+          "author_id": "2393755127",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Attention regulation is a core mechanism of mindfulness meditation and has been proposed to underlie many of its health-related benefits. Here, we review and synthesize behavioral findings on attentional outcomes in long-term meditators, integrating neurocognitive evidence within a meditative development framework. Key findings indicate trait-level improvements across attentional functions-executive attention, sustained attention, hierarchical and general orienting-and attentional phenomena, such as the attentional blink. Preliminary evidence also identifies trait enhancements in response inhibition, alertness, and reduced mind-wandering. Interaction effects were found for response inhibition, sustained attention, reduced mind-wandering, and alertness, with alertness benefiting most strongly from long-term and intensive acute practice. As expected, attention-based outperformed non-attention-based techniques, while observe-and-release techniques facilitated attentional orienting and detection of closely spaced or unexpected stimuli during sustained attention tasks. These findings suggest that long-term meditation may enhance attention regulation in accordance with training specificity principles; the cognitive functions most directly targeted are the most likely to improve. Nevertheless, broader findings indicate that meditative development may depend on the balanced cultivation of multiple faculties over time, highlighting the non-linear and multidimensional nature of long-term meditative change. Consistent with traditional goals of cultivating mental faculties, the present findings may reflect attentional adaptations that support the development of advanced meditative states. Despite considerable consistency in empirical results, methodological limitations-including heterogeneous study designs and insufficient differentiation between states and traits-complicate interpretations. Future research should prioritize operationalizing and measuring contemplative constructs within integrative frameworks and using rigorous factorial designs to clarify state-trait interactions and meditation predictors.",
+      "journal": "NeuroImage",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Structural characterization of a pectic polysaccharide from Rubus chingii Hu. unripe fruits and its efficacy in inhibiting intestinal lipid absorption in vivo.",
+      "url": "https://www.semanticscholar.org/paper/33063b5d803774a39c8ef91b4fe5a7af2b8e12be",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-02-28T12:23:37.135558",
+      "doi": "10.1016/j.carbpol.2025.123728",
+      "authors": [
+        {
+          "name": "Xingxing Wang",
+          "author_id": "2330102827",
+          "affiliation": null
+        },
+        {
+          "name": "Yupeng Liu",
+          "author_id": "2331133844",
+          "affiliation": null
+        },
+        {
+          "name": "Yongbin Xu",
+          "author_id": "2271633109",
+          "affiliation": null
+        },
+        {
+          "name": "Siqi Gao",
+          "author_id": "2329515372",
+          "affiliation": null
+        },
+        {
+          "name": "Qiuying Xu",
+          "author_id": "2348089661",
+          "affiliation": null
+        },
+        {
+          "name": "Huan Gong",
+          "author_id": "2199600527",
+          "affiliation": null
+        },
+        {
+          "name": "Lumeng Yao",
+          "author_id": "2163342489",
+          "affiliation": null
+        },
+        {
+          "name": "S. Shi",
+          "author_id": "3140428",
+          "affiliation": null
+        },
+        {
+          "name": "Shunchun Wang",
+          "author_id": "6567107",
+          "affiliation": null
+        },
+        {
+          "name": "Huijun Wang",
+          "author_id": "48017196",
+          "affiliation": null
+        },
+        {
+          "name": "Luping Qin",
+          "author_id": "2279181938",
+          "affiliation": null
+        },
+        {
+          "name": "Jianjun Wu",
+          "author_id": "2109220775",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Excessive lipid intake is a major contributor to obesity, and inhibiting intestinal lipid absorption is considered an effective strategy to mitigate this condition. In this study, a pectic polysaccharide designated as RCP-2-3 was obtained from Rubus chingii Hu. unripe fruits and its potential inhibitory effect on intestinal lipid absorption in vivo was investigated. Structural studies revealed that RCP-2-3 (8.54\u00a0kDa) is a homogeneous pectic polysaccharide composed of homogalacturonan (HG) and rhamnogalacturonan II (RG-II) domains in a 4.4:4.1 mass ratio. Treatment with RCP-2-3 for 7\u00a0days effectively reduced postprandial serum triglyceride (TG) accumulation and lipid absorption in BODIPY-labeled soybean oil-fed mice, accompanied by increased lipid excretion. Specifically, RCP-2-3 increased the excretion of long-chain fatty acids in dietary lipids, such as linoleic acid, oleic acid, palmitic acid, and stearic acid. A 28-day administration of RCP-2-3 reduced weight gain and improved dyslipidemia, and promoted lipid excretion in mice subjected to a high-fat diet and high-fat emulsion. In conclusion, RCP-2-3, a natural pectic polysaccharide consisting of HG and RG-II domains, effectively inhibited intestinal lipid absorption and reduced obesity-related parameters. These findings highlight the potential of RCP-2-3 for application in both the food and pharmaceutical industries.",
+      "journal": "Carbohydrate Polymers",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "The effect of MEditerranean DIet and MINdfulness eating on Depression severity in people with major depressive disorder and obesity (MEDIMIND): a study protocol of a randomised controlled clinical trial with multifactorial design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41403078/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-28T00:00:00",
+      "date_fetched": "2026-02-28T12:23:56.056149",
+      "doi": "10.1017/S0007114525105849",
+      "authors": [
+        {
+          "name": "Alina Moosburner",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Qing Lin",
+          "name": "Mirela-Ioana Bilc",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shuqian Wang",
+          "name": "Dennis Anheyer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jie Luo",
+          "name": "Alina Schleinzer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sumin Shao",
+          "name": "Samaneh Rahmdel",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xiangmei Zhang",
+          "name": "Frank Vitinius",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ming Zhong",
+          "name": "Holger Cramer",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: To investigate the synergistic effect of three-ball mindfulness breathing rehabilitation training in the context of postoperative rehabilitation for patients undergoing pulmonary lobectomy for lung cancer. METHODS: A total of 124 patients with lung cancer who underwent pulmonary lobectomy at the First Affiliated Hospital of Xiamen University from March 2024 to January 2025 were selected and randomly divided into two groups (n\u2009=\u200962 each) using a random number table. The control group received conventional pulmonary rehabilitation training, while the observation group received three-ball mindfulness breathing rehabilitation training on top of the conventional regimen. The intervention for both groups continued until one week after discharge, during which patients performed exercises independently. Recovery indicators (primary outcomes), postoperative complications, and scores for dyspnea (mMRC), exercise tolerance (6MWT), emotional status (DASS), and fatigue (Piper Fatigue Scale, PFS)\u00a0(secondary outcomes)\u00a0were compared between the two groups at admission, 1\u00a0day before surgery, 3\u00a0days after surgery, and 1\u00a0week after discharge. RESULTS: The observation group showed shorter durations of pulmonary rales, sputum retention, and hospital stay compared to the control group (P\u2009<\u20090.05). At postoperative day 3 and 1\u00a0week after discharge, the mMRC scores were lower and 6MWT was higher in the observation group than in the control group (P\u2009<\u20090.05). At 1\u00a0day before surgery, 3\u00a0days after surgery, and 1\u00a0week after discharge, the DASS and PFS scores in the observation group were lower than those in the control group (P\u2009<\u20090.05). The incidence of complications did not differ significantly between the two groups (9.68% vs 17.74%, P\u2009>\u20090.05). CONCLUSION: Three-ball mindfulness breathing rehabilitation training can alleviate fatigue and dyspnea in patients after pulmonary lobectomy for lung cancer, regulate psychological status, and enhance exercise tolerance. It has a synergistic effect when combined with conventional pulmonary rehabilitation training.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "abstract": "Obesity and depression are highly prevalent diseases that are strongly correlated. At the same time, there is a growing gap in care, and treatment options should be improved and extended. Positive effects of a Mediterranean diet on mental health have already been shown in various studies. In addition to the physiological effects of nutrients, the way food is eaten, such as mindful eating, seems to play a role. The present study investigates the effect of a Mediterranean diet and mindful eating on depression severity in people with clinically diagnosed major depressive disorder and obesity. Participants will be randomised to one of the four intervention groups (Mediterranean diet, mindful eating, their combination and a befriending control group). The factorial design allows investigating individual effects as well as potential synergistic effects of the interventions. The study consists of a 12-week intervention period, where five individual appointments will take place, followed by a 12-week follow-up. The primary outcome is depression severity. Secondary outcomes are remission of depression, assessor-rated depression severity, quality of life, self-efficacy, BMI, waist:hip ratio and body composition; adherence to the Mediterranean diet and mindful eating will also be assessed. Alongside mediator and moderator analysis, a microbiome analysis, a qualitative evaluation and an economic analysis will be conducted. The study investigates an important health issue in a vulnerable target group. It allows to draw valuable conclusions regarding the effectiveness of different interventions and therefore contributes to improving available care options for people suffering from depression and obesity.",
+      "journal": "The British journal of nutrition",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -245,193 +460,87 @@
       "matched_keywords": []
     },
     {
-      "title": "PURSUIT Protocol: Development of a Novel Approach to Managing Youth Physical and Mental Health in Schools.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41749654/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-21T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.716986",
-      "doi": "10.3390/children13020297",
-      "authors": [
-        {
-          "name": "Thea Senger-Carpenter",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jocelyn Zuckerman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Audrey Searles",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cara Poland",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Crystal L Cederna",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sarah Nelson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mallet R Reid",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kelly Theaker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Steven J Pierce",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Angela Chia-Chen Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Natoshia R Cunningham",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND/OBJECTIVES: Physical and mental health symptoms commonly affecting children are often under-addressed given the limited availability of pediatric behavioral healthcare. Training school providers (e.g., nurses, mental health professionals) to address these concerns is a promising strategy to explore, considering the unique level of accessibility afforded by school settings. While our earlier work augmented school providers' pain management skills, providers desired more comprehensive training and youth support tools. Our team of interdisciplinary academic researchers and community partners will bridge this gap by developing the PURSUIT (Preventing Use of Substances for the Underserved with Innovative Technology) provider training program and companion online self-management platform for youth and caregivers. This protocol paper describes our planned approach to developing, implementing, and evaluating the PURSUIT program. METHODS: We will draw from evidence-based cognitive-behavioral, trauma-focused, and mindfulness protocols to develop a comprehensive provider training program and interactive online self-management platform for youth and caregivers. Content areas will include core cognitive-behavioral strategies and specific skills for pediatric pain management, trauma-focused care, and substance use prevention. Innovative technological approaches, such as live and animated videos, will be used to promote user engagement. Academic and community partners will have roles in material co-development. Outcomes of this project will include the PURSUIT training program and self-management platform feasibility and acceptability (e.g., completion/engagement rates, quantitative/qualitative reports), as well as the impact of the training program on provider knowledge and the impact of the self-management platform on youth/caregiver outcomes. CONCLUSIONS: Interdisciplinary collaboration and community engagement will be critical to developing and evaluating a provider training program and youth/caregiver self-management platform.",
-      "journal": "Children (Basel, Switzerland)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Training Pediatricians for Courage: The Case for Brave Spaces in Medical Education.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41740673/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-23T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717040",
-      "doi": "10.1016/j.acap.2026.103275",
-      "authors": [
-        {
-          "name": "Catherine D Shubkin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Raymond Cattaneo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jamee Walters",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeremiah Cleveland",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brian Lurie",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "As our political climate becomes increasingly polarized, conversations about topics that directly impact child health including anti-racism, reproductive justice, and gender-affirming care, are becoming more challenging to navigate in medical education. Medical educators face a critical dilemma: restrictive legislation may prevent clinicians from providing holistic care, yet we have an ethical obligation to train future pediatricians to practice with integrity and mitigate health disparities affecting children from marginalized communities. The traditional \"safe space\" model designed to allow students and trainees a space to discuss \"difficult\" topics free from potential harm, while well-intentioned, can inadvertently limit necessary dialogue and avoid discussions of power, privilege, and structural inequities that perpetuate health disparities. The \"Brave Spaces\" framework, adapted from higher education, applies to pediatric medical education. This approach, grounded in scholarship on courage, psychological safety, and humble inquiry, acknowledges that ethical discomfort signals opportunities for growth. The framework provides six pillars-vulnerability, perspective, leaning into fear, critical thinking, examining intentions, and mindfulness-that equip learners to engage in difficult conversations with skill and courage. By training pediatricians to navigate complexity rather than avoid it, we prepare them to advocate effectively for all children, especially those most marginalized by current social and political forces.",
-      "journal": "Academic pediatrics",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Dynamic causal modeling of low-density resting-state EEG in long-term meditation practitioners.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41748814/",
+      "title": "Targeting low-grade inflammation in multiple sclerosis through the Wim Hof method or lifestyle intervention: a pilot comparative study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41741807/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717148",
-      "doi": "10.1038/s41598-026-41310-y",
+      "date_fetched": "2026-02-28T12:24:06.389801",
+      "doi": "10.1007/s10072-026-08895-8",
       "authors": [
         {
-          "name": "Gianluca Rho",
+          "name": "Darina Slez\u00e1kov\u00e1",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Francesco Bossi",
+          "name": "Louise M\u00e1ria Sabolov\u00e1",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ngawang Norbu",
+          "name": "Peter Mar\u010dek",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jampa Kechok",
+          "name": "Pavol Kadlic",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ngawang Sherab",
+          "name": "Ivan Hric",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jampa Soepa",
+          "name": "Libu\u0161a Nechalov\u00e1",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jampa Thakchoe",
+          "name": "Viktor Bielik",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alberto Greco",
+          "name": "Michal P\u00e1len\u00edk",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Enzo Pasquale Scilingo",
+          "name": "Michal Pastorek",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nicola Vanello",
+          "name": "Peter Olej",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Bruno Neri",
+          "name": "Norbert \u017dilka",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alejandro Luis Callara",
+          "name": "Jozef Hanes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Franti\u0161ek Jur\u010daga",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michal Min\u00e1r",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Meditation is a complex cognitive practice associated with significant neurophysiological changes, particularly in long-term practitioners. These individuals represent an ideal human model for investigating neural changes associated to their consistent, frequent, and sustained cognitive engagement. However, in Western societies, long-term practitioners are relatively rare compared to Eastern monastic communities. In this study, we leverage a collaboration with a unique monastic population, the Monks and Geshes of the Tibetan University of Sera Jey in India, to examine the long-term effects of meditation on resting-state effective brain connectivity. Specifically, we hypothesize that different levels of meditation experience modulate intrinsic connections in two resting-state brain networks: the default mode network (DMN) and the salience network (SN). To test this, we apply dynamic causal modeling for EEG to analyze effective connectivity and validate our hypothesis. Our results reveal that long-term meditation practice can alter connectivity within the DMN and SN, with distinct patterns of modulation based on meditator experience. Experienced meditators appear to exhibit enhanced self-referential processing in the DMN and reduced reactivity in the SN, supporting the notion that meditation refines attentional control and internal awareness. These findings provide new insights into the neurophysiological mechanisms underlying long-term meditation and highlight the role of monastic practitioners as an invaluable model for studying experience-related modifications in the human brain.",
-      "journal": "Scientific reports",
+      "abstract": "BACKGROUND: Disease-modifying therapies (DMTs) in multiple sclerosis (MS) effectively reduce relapse activity but have limited impact on chronic progression and neurodegeneration. Non-pharmacological interventions such as structured exercise or the Wim Hof Method (WHM- which includes breathing exercises, cold exposure, and meditation), may offer complementary immunomodulatory and neuroprotective benefits. OBJECTIVES: To compare the effects of WHM and a lifestyle intervention (LIFE; structured physical activity and nutritional counseling) on systemic inflammation and neurodegeneration biomarkers in patients with MS. METHODS: In this randomized, prospective pilot trial, 60 MS patients (2017 McDonald criteria, EDSS 1.0-5.5) were allocated to WHM, LIFE, or control (CTRL) for 12 weeks. Serum cytokines (IFN-\u03b3, IL-1\u03b2, IL-6, IL-8, IL-10, IL-12p70, IL-17A, IL-18), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP) were assessed at baseline and after 12 weeks. Mixed repeated-measures ANOVA with Bonferroni correction was applied. RESULTS: Complete datasets were obtained and analyzed for 43 participants (12 WHM, 17 LIFE, 14 CTRL; power= 0.81). Both interventions significantly reduced IL-17A and IL-18 (p<0.001), indicating attenuation of Th17-related inflammation. WHM further decreased IFN-\u03b3, while LIFE lowered IL-8. No significant changes were observed for IL-1\u03b2, IL-6, IL-12p70, NfL, or GFAP. Both interventions were well tolerated, with no treatment-related adverse events. CONCLUSIONS: Both WHM and lifestyle modification demonstrated comparable short-term anti-inflammatory effects in MS, supporting their safety and feasibility as adjunctive strategies to DMT. Although neurodegeneration biomarkers remained unchanged, the consistent reduction of IL-17A and IL-18 highlights their potential to modulate smoldering inflammation. Larger, longer-term trials are warranted to determine their sustained effects on disease progression.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -439,570 +548,31 @@
       "matched_keywords": []
     },
     {
-      "title": "The network structure of motivation: Interplay with perfectionism, mindfulness and emotion regulation styles.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41747536/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717197",
-      "doi": "10.1016/j.actpsy.2026.106535",
-      "authors": [
-        {
-          "name": "Maryam Sadighpour",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fahimeh Ahmadian Vargahan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sanaz Zarezadeh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hojjatollah Farahani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hoda Doosalivand",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Motivation, a fundamental driver of human behavior, is intricately linked with perfectionism, mindfulness, and emotion regulation styles. Although these constructs have been studied separately, their complex interactions remain unclear. METHODS: This study employed network analysis to explore how these dimensions collectively interact in a sample of 350\u00a0s-year high school students from Tabriz, Iran, selected via multi-stage cluster sampling. Data were collected using standardized self-report questionnaires. A Graphical Gaussian Model with polychoric correlations was estimated and visualized using qgraph and bootnet in R. Bridge centrality metrics and bootstrap resampling assessed network structure and stability. RESULTS: Results revealed strong positive partial correlations between intrinsic and extrinsic motivation, self-oriented and socially prescribed perfectionism, and mindfulness with integrated emotion regulation, alongside negative associations between mindfulness and emotion dysregulation. Intrinsic motivation, mindfulness, and self-oriented perfectionism emerged as the most central and influential nodes, supported by stable centrality indices. CONCLUSIONS: These findings highlight intrinsic motivation and mindfulness as key targets for interventions aimed at enhancing psychological functioning. Overall, the study advances understanding of the dynamic interplay among these constructs, offering promising directions for tailored mental health interventions.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The need for materiovigilance in leprosy-treating hospitals in India: a critical perspective on patient safety.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41738341/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717286",
-      "doi": "10.1080/17434440.2026.2638364",
-      "authors": [
-        {
-          "name": "Thangaraju Pugazhenthan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sanjeev Khanth Pe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arokiaraj U",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Naveen V",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Leprosy remains a major public health challenge in countries like India, Brazil, and Indonesia. The Materiovigilance Programme was established to monitor the safety of medical devices and helps to protect healthcare workers and patients from device-related injuries. Leprosy patients suffer from sensory loss and are at high risk of developing injuries with medical devices. Therefore, integrating Materiovigilance programme with the national leprosy care programme is essential to improve the safety and wellbeing of leprosy patients. AREAS COVERED: This critical perspective covers the role of Materiovigilance in India, the classification of medical devices based on their risk status, devices used in leprosy management, the Indian and International target goals for leprosy elimination, and emphasis on the integration of Materiovigilance programmes with leprosy programmes in leprosy treating hospitals. EXPERT OPINION: There is a significant gap existing in the leprosy elimination policies regarding the safety concerns with the use of medical devices. Successful integration of Materiovigilance framework with leprosy elimination policies will influence the treatment outcomes in a positive manner. The key challenges to overcome are lack of awareness, training and funding. Implementing the integration strategy in a stage wise manner will help to identify the lacunae, operational issues and further strengthen the programme.",
-      "journal": "Expert review of medical devices",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Questionable prospective associations between mindfulness and mental health problems: A simulated multiverse reanalysis and comment on.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41747830/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-24T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717326",
-      "doi": "10.1016/j.jad.2026.121508",
-      "authors": [
-        {
-          "name": "Kimmo Sorjonen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bo Melin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marika Melin",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Based on findings in cross-lagged panel network (CLPN) models, Ma et al. concluded prospective effects between indicators of mindfulness and mental health problems. Here, we used multiverse methodology and found discrepant increasing, decreasing, and null effects depending on the used model, and meta-analytic aggregations of these discrepant effects did not differ significantly from zero. Hence, the conclusions by Ma et al. can be challenged. It is important for researchers to bear in mind that correlations, including cross-lagged effects in CLPN models, do not prove causality in order not to overinterpret findings, something that may have happened to Ma et al. For increased analytic rigor, we recommend researchers to fit, as we did here, alternative models to data and to juxtapose findings.",
-      "journal": "Journal of affective disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Relationship between empathy and burnout among preschool teachers: an analysis based on a multiverse-style and response surface.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41755651/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-27T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717407",
-      "doi": "10.1080/13548506.2026.2633397",
-      "authors": [
-        {
-          "name": "Yuanqing He",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chenghao Shuai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaowen Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xin Wang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "To explore the relationship and its mechanisms between empathy and burnout among preschool teachers, data from 1577 preschool teachers were analyzed using a multiverse-style analysis approach to test the robustness of the relationship between empathy and burnout. Based on the Job Demands-Resources (JD-R) theory and the Conservation of Resources (COR) theory, this study employs Response Surface Analysis (RSA) to examine the relationship between empathy and occupational burnout, while exploring the mediating roles of three emotional labor strategies (surface acting, deep acting and natural acting) and the moderating effect of mindfulness. The translation strictly adheres to the original Chinese meaning, conforms to academic writing norms, and follows English idiomatic expressions in a single coherent paragraph. The results of the multiverse-style analysis indicate that the relationship between empathy and burnout is robust. RSA analysis shows that this relationship is curvilinear, where empathy positively affects burnout in the initial stages but negatively in the later stages. Surface acting and natural acting have mediating effects, whereas deep acting does not. Mindfulness moderates the relationship between empathy and both deep acting and natural acting, but not surface acting.",
-      "journal": "Psychology, health & medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Psychedelic-Related Psychosis: From Model Psychosis to Psychotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41749024/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717490",
-      "doi": "10.1007/7854_2026_613",
-      "authors": [
-        {
-          "name": "Anna-Lena Br\u00f6cker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tomislav Maji\u0107",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christiane Montag",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Psychotic symptoms are uncommon and non-specific adverse effects of classic (serotonergic) psychedelics such as lysergic acid diethylamide (LSD), psilocybin, and mescaline. They can emerge during the acute phase of psychedelic drug effects, persist into the subacute (\"afterglow\") period, or, in rare cases, develop into long-term psychotic illness. Across all three scenarios, the symptoms can be deeply distressing due to their rapid changes, unpredictability, and significant adverse behavioral consequences.Psychedelics have a long history of use as research models for schizophrenia because of the phenomenological overlaps between their acute effects and the core symptoms of psychosis. This \"model psychosis\" paradigm, however, has been widely criticized: although certain acute symptoms may appear similar, the etiology and psychodynamic background of primary psychosis only partially apply to psychedelic-related psychosis. Moreover, it remains unclear whether psychotic symptoms following the use of classic psychedelics differ meaningfully from those associated with other substances, such as dopaminergic stimulants or cannabis.A transient porosity of ego boundaries is a core feature of acute psychedelic states, ranging from heightened feelings of connectedness with oneself and others to complete ego dissolution. These experiences are often perceived as positive and may be followed by a subacute phase characterized by sustained increases in openness to new experiences. In some cases, however, ego dissolution may become fear-inducing and progress from challenging but manageable experiences to paranoid psychotic reactions that require therapeutic guidance and intervention.In this chapter, we examine phenomenological similarities and differences between psychedelic-induced psychosis and primary psychosis. Consistent with current international diagnostic classification systems, we conclude that, with increasing temporal distance from the initial psychedelic \"index\" experience that predated the symptoms, persisting psychedelic-induced psychotic symptoms become indistinguishable from primary psychosis. Finally, we present a psychodynamic therapeutic approach for schizophrenia-spectrum psychosis that may, to some extent, be adapted to psychotic symptoms observed across all three phases of psychedelic drug effects.",
-      "journal": "Current topics in behavioral neurosciences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Meditation awareness training (MAT) for people living with cancer: A thematic analysis of weekly diary reflections.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41739767/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717531",
-      "doi": "10.1080/07347332.2026.2632682",
-      "authors": [
-        {
-          "name": "Chloe Wells",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "William Van Gordon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Paul Barrows",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: A cancer diagnosis presents significant psychological challenges, often resulting in lasting distress and dis-ruption to daily life. Mindfulness-based interventions (MBIs) are increasingly recognized as vital components of supportive oncology care. Second-generation MBIs (SG-MBIs), such as Meditation Awareness Training (MAT), integrate Buddhist wisdom principles such as impermanence, compassion, emptiness, and non-self, offering potential for transformative therapeutic outcomes. OBJECTIVES: This study explored the core subjective experiences, challenges, and benefits of cancer patients participating in an eight-week MAT programme, examining how integrated Buddhist wisdom teachings are engaged with and interpreted in real-world settings. METHODS: An inductive, realist thematic analysis was conducted on 102 anonymous online diary entries submitted by 20 participants undergoing the MAT intervention. The analysis followed Braun and Clarke's six-phase approach, with researcher reflexivity and consensus guiding theme development. RESULTS: Findings indicated a dynamic process of engagement. Individuals described a journey from uncertainty and ambivalence toward greater acceptance and emotional resilience, drawing on impermanence and other Buddhist principles to manage distress and reclaim identity beyond their illness. Participants shifted from relying solely on formal meditation practices to integrating mindfulness and wisdom flexibly into their daily lives, demonstrating a growing ability to adapt and embody the wisdom teachings introduced. Self-compassion and empathy developed, enhancing interpersonal relationships and connection both within the meditation group and with the natural world. The group setting provided vital validation and support, normalizing experiences and fostering community. CONCLUSIONS: MAT's integration of Buddhist wisdom principles proved therapeutically meaningful, facilitating resilience, self-compassion, values-driven identity reconstruction. The diary analysis illuminated the temporal progression of change, informing SG-MBI refinement and underscoring the importance of context-sensitive, flexible delivery in oncology care.",
-      "journal": "Journal of psychosocial oncology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Co-designing an adjunct yoga intervention for eating disorder recovery (YEDRi): integrating evidence from reviews, qualitative research, and community engagement.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41744037/",
+      "title": "Effects of a Semantically Irrelevant Virtual Reality Experience on Memory and Emotion After Watching a Traumatic Event: Randomized Controlled Experimental Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747253/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717584",
-      "doi": "10.1080/10640266.2026.2619596",
+      "date_fetched": "2026-02-28T12:24:06.390173",
+      "doi": "10.2196/75848",
       "authors": [
         {
-          "name": "Jennifer O'Brien",
+          "name": "Changwon Son",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jill Harris",
+          "name": "Killian Parker",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Subhadra Evans",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shane McIver",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dianne Neumark-Sztainer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adam De Chellis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eleanor Trethewey",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth Hoon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marta King",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hollie Laver",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Catherine Mazza",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Molly O'Neill",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Somer Prowd",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David Skvarc",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anna Sowden",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jasmin Watson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Melissa O'Shea",
+          "name": "Mohammad Jamshidzadeh",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Yoga is commonly used as an adjunct to psychological therapy to support ED recovery as it can improve body responsiveness and awareness, interoception, and embodiment, mindfulness, self-compassion, self-efficacy, body satisfaction, body appreciation and body image. Research suggests that using yoga as an adjunct intervention may augment and reinforce psychology therapy, enhancing recovery outcomes. This research aimed to describe and appraise a systematic, sequential approach to integrating scientific evidence, expert knowledge and experience, and community engagement in co-designing and developing a therapeutic yoga group intervention for young people engaged in ED treatment. A four-phase approach to developing this intervention included planning, conducting, evaluating, and reporting phases. This paper reports on the development of the initial YEDRi prototype and co-design workshop conducted with carers (",
-      "journal": "Eating disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Neurobehavioural Group Differences in an Indian Holistic Education Context: Mindfulness, Empathy, Values and Personality Across Gender and Academic Pathways.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41756193/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-23T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717631",
-      "doi": "10.1177/09727531261421196",
-      "authors": [
-        {
-          "name": "Mannu Brahmi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Abira Sharma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Harshita Jain",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jyoti Kumar",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Holistic education frameworks such as those conceptualising self-awareness, self-regulation, and self-transcendence (S-ART) and the LIBRE/EMC PURPOSE: The study examines how gender and academic pathways relate to neurobehavioural differences in empathy, values, personality, and mindfulness in Indian university students-a context where these psychosocial, holistic educational factors might be particularly salient. METHODS: This cross-sectional study involved a behavioural cohort (Sample 1,  RESULTS: Findings indicated that gender contributed significantly to variance in psychosocial holistic educational traits: females demonstrated higher scores in empathy, agreeableness, and self-transcendence-oriented values, while males showed greater emotional stability and a preference for power-dominance values. The university stream (STEM/non-STEM) and early subject choice (science/math in Grade 12th) demonstrated limited explanatory power, exhibiting small effects for certain trait value dimensions. Notably, there were no differences in EEG oscillatory dynamics measured towards state mindfulness across different academic pathways. CONCLUSION: This study suggested a distinct separation: gender significantly predicted trait-level psychosocial variation, except for trait mindfulness, while state mindfulness exhibited universal neurocognitive accessibility across academic pathways. In the Indian educational context, this supports embedding mindfulness practices throughout educational systems as a plausible, equitable strategy for holistic development and integrating social-emotional learning to promote gender-balanced development.",
-      "journal": "Annals of neurosciences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "From adversity to strength: Examining pathways to resilience and well-being in Kosovo.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41746686/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717712",
-      "doi": "10.1037/tra0002138",
-      "authors": [
-        {
-          "name": "Kaltrina Kelmendi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sherry Hamby",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Victoria Banyard",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: Although much research focuses on the negative effects of trauma, it is vital to explore why some individuals thrive despite adversity, especially in low- and middle-income countries. Kosovo, a postconflict society in southeastern Europe, has received relatively little attention in trauma and resilience research. In this study, we examined potential benefits of 13 strengths: regulatory (coping, positive emotion regulation, humor), interpersonal (social support and social leisure), meaning-making (purpose, hope, collective hope, and moral meaning-making), and environmental (eco-connections and built environment). Five of these are newly developed scales, and two more are being used in Kosovo for the first time, including both measures for the new domain of environmental strengths. This is also the first quantitative study of institutional betrayal in Kosovo. METHOD: Our study surveyed 500 young adults (75% women). In addition to the data on strengths, participants reported on experiences of victimization and institutional betrayal, subjective well-being, posttraumatic growth, and trauma symptoms. RESULTS: Most (86.6%) participants experienced some form of adversity, including institutional betrayal. Blockwise logistic regressions demonstrated that higher levels of personal hope, moral meaning-making, positive emotion regulation, mindfulness, social leisure, social support received, eco-connections, and poly-strengths significantly predicted at least one outcome of posttraumatic growth, subjective well-being, and trauma symptoms. Some measures were also significant in the unexpected direction, indicating that not all strengths help people overcome trauma. CONCLUSIONS: These findings add global support for multidimensional approaches to resilience and suggest new measures for assessment of strengths. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "journal": "Psychological trauma : theory, research, practice and policy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Does mindfulness help employees express ethical voice? a moderated mediation model of mindfulness and ethical voice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41749383/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717750",
-      "doi": "10.1186/s40359-026-04206-0",
-      "authors": [
-        {
-          "name": "Kaixin Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zilong Cui",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Following a series of major ethical scandals in various organizations, researchers have increasingly sought to understand the role of ethical voice in the workplace. Existing ethical voice research centres on leadership-focused models and overlooks the individual psychological mechanisms connecting traits to ethical voice, creating a key gap in understanding the micro-foundations of such behaviour. The results of a longitudinal field study featuring 453 participants from one Chinese firm were used to investigate the model hypothesized in this research. The results reveal that employee mindfulness has a positive effect on ethical voice via moral self-efficacy and moral courage. Moreover, a caring ethical climate strengthens the relationship between mindfulness and ethical voice via moral self-efficacy and moral courage. The findings of this study contribute to the literature on both mindfulness and ethical voice. The findings of this research also have important practical implications for organizations, which can enable them to develop more appropriate human resource management strategies that can promote ethical voice in the workplace; these findings also offer guidance regarding how to manage this entire process effectively.",
-      "journal": "BMC psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Distress tolerance and decreased cognitive fusion tendencies explain the connection between mindfulness, posttraumatic growth and health-related quality of life among HIV patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41742237/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717828",
-      "doi": "10.1186/s40359-026-04231-z",
-      "authors": [
-        {
-          "name": "Chinenye Joseph Aliche",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erhabor Sunday Idemudia",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "BMC psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Participant Perceptions of a University Continuing Education Intervention Addressing Job Burnout and Self-Care Strategies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41752345/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-20T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717867",
-      "doi": "10.3390/ijerph23020263",
-      "authors": [
-        {
-          "name": "Brandon Workman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Laura Nabors",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Samuel Adabla",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "International journal of environmental research and public health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A systematic review of higher education-based interventions to support the mental health and wellbeing of neurodivergent students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41741588/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717904",
-      "doi": "10.1038/s44184-026-00196-4",
-      "authors": [
-        {
-          "name": "Faith Ross",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eleanor J Dommett",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicola Byrom",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Increasing numbers of neurodivergent students are engaging in higher education; however, support approaches vary within different institutions. Sometimes there are long waiting lists for specialised support, and most focus on academic adjustments, such as providing extra time in an assessment, rather than mental health and wellbeing. A systematic review, pre-registered on Prospero (CRD42024597980), was conducted to provide an overview of interventions supporting mental health and wellbeing of neurodivergent students in higher education. Ovid, Web of Science, and ERIC databases were searched in May 2025. Studies were included where the intervention aimed to improve mental health and/or wellbeing or improve the student experience, and the focus was on whether any strength-based approaches were used. Thirty-seven studies are included, conducted in seven countries. The Mixed Methods Appraisal Tool (MMAT) was used to assess the quality of included papers. Interventions varied widely and included: coaching, cognitive behavioural therapy, self-help, peer support, psychotherapy, counselling, mentoring, mindfulness, and neuro/bio feedback. The narrative synthesis demonstrates little evidence of strength-based approaches and found that neurodivergent students were rarely involved in designing the interventions. Most commonly, studies focused on attention deficit hyperactivity disorder (ADHD) (17 studies) or Autism (14 studies), with few interventions considering co-occurrence or other neurotypes.",
-      "journal": "Npj mental health research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Web-Based Acceptance and Commitment Therapy Tobacco Cessation Program for Veterans With Mental Health Disorders: Adaptation and Usability Testing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41747248/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.717967",
-      "doi": "10.2196/75394",
-      "authors": [
-        {
-          "name": "Megan M Kelly",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Abigail Dempsey",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Victoria Ameral",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Beth Ann Petrakis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erin D Reilly",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karen Quigley",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jonathan B Bricker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jaimee L Heffner",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: US veterans with mental health disorders have high rates of smoking and low rates of smoking cessation. OBJECTIVE: This study aims to focus on an adaptation of a web-based acceptance and commitment therapy (ACT) tobacco cessation intervention (Vet WebQuit) for veterans with mental health disorders who use tobacco and used a qualitative approach to test its usability (n=16). METHODS: Participants were asked to walk through the site during laboratory-based usability testing and \"think aloud\" about the features of the intervention. A trained facilitator used semistructured interview questions to assess participants' experiences with Vet WebQuit and obtain feedback on their impressions of the site. Qualitative analyses identified themes regarding participants' experiences with the intervention, usability concerns, and recommendations for improving Vet WebQuit. RESULTS: Overall, veterans found that the Vet WebQuit layout was simple and easy to navigate and use. Veterans reported that several features of the program were useful, including the quit plan, identification of triggers, content that targets mental health concerns (eg, dealing with anger), information on the health effects of smoking, tools for managing triggers (eg, urge surfing), and involving others in their quit plan. Veterans reported that particular features of the ACT approach for tobacco cessation were appealing to them, including the distinction between internal and external smoking triggers, the inclusion of the serenity prayer, and mindfulness exercises, which they could use as a tool reduce the intensity of cravings. Veterans reported wanting more information on the health aspects of smoking (ie, effects on breathing and lung capacity) as a way to motivate them to quit smoking. In addition, they suggested targeting specific mental health concerns that serve as triggers for smoking, including nightmares, boredom, and social isolation. CONCLUSIONS: Overall, results from this project identified important elements of ACT digital tobacco cessation interventions for veterans with mental health disorders.",
+      "abstract": "BACKGROUND: First responders, such as firefighters, experience significant mental health issues due to the high-stress nature of their work. Existing mental health interventions, such as meditation and debriefing, despite their benefits, do not target cognitive processing of traumatic events such as memory and emotion. OBJECTIVE: This work aims to examine effects of semantically irrelevant virtual reality (VR) content to intervene in the retrieval of an adverse event memory and its associated emotions. Cognitive models of posttraumatic stress disorder posit that exposure to stimuli that are similar to a previous trauma acts as a trigger for retrieval of the associated memory and bodily reaction (eg, elevated heart rate). This work uses semantically irrelevant VR as an intervention to interrupt the retrieval of the traumatic memory by placing a participant in a VR environment that has a distant semantic connection to the trauma. METHODS: A total of 107 participants recruited from a large public university in Texas were randomly assigned to 1 of 3 groups: control (n=33), comparison (n=37), and intervention (n=37). In stage 1, participants in all groups watched a short video of an actual severe house fire to create a traumatic event memory. In stage 2, the control group stayed seated without doing anything, the comparison group read a paragraph about the Red Sea as semantically irrelevant follow-up information, and the intervention group watched a 360\u00b0 VR video of the Red Sea that featured opposite attributes to the fire (eg, blue water vs red fire, cool water vs hot fire). The Positive and Negative Affect Schedule, which has 10 items for positive emotions (eg, attentive and excited) and 10 items for negative emotions (eg, scared and distressed), was administered after each of the two stages. In stage 3, the memory accuracy of the house fire video was assessed using a forced recognition test of 15 pairs of a true image and a fake image generated by artificial intelligence software. RESULTS: A 1-way ANOVA revealed no difference in memory accuracy between the three groups (P=.48). Mean memory accuracy was 0.714 (SD 0.125) for the control group, 0.732 (SD 0.117) for the comparison group, and 0.694 (SD 0.155) for the intervention group. However, a repeated-measures ANOVA found that the semantically irrelevant VR experience significantly boosted positive emotions among the intervention group participants (P=.04) and reduced negative feelings among participants in all groups (P<.001). CONCLUSIONS: Our findings suggest that semantically irrelevant VR was effective in changing the emotional states of participants. This implies that a semantically irrelevant VR experience can serve as a quick and affordable way to address psychological reactions after watching a traumatic event. Future research is required to design semantically irrelevant VR content to produce the memory suppression effect. TRIAL REGISTRATION: ClinicalTrials.gov NCT07393776; https://clinicaltrials.gov/study/NCT07393776.",
       "journal": "JMIR formative research",
       "year": 2026,
       "source_name": null,
@@ -1011,32 +581,37 @@
       "matched_keywords": []
     },
     {
-      "title": "Mechanism of the effectiveness of mindfulness on intrinsic capacity in elderly patients with cardiovascular diseases: a dual-pathway emotion regulation framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41749122/",
+      "title": "Smart Lighting and Mindfulness Interventions: Pathways to Better Health and Learning in High School Education.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41761836/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.718004",
-      "doi": "10.1186/s12877-026-07226-y",
+      "date_published": "2026-02-28T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.390216",
+      "doi": "10.1111/jsr.70307",
       "authors": [
         {
-          "name": "Yanyin Cui",
+          "name": "Ya-Ting Carolyn Yang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shanyan Lei",
+          "name": "Jeen-Shing Wang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fang Yang",
+          "name": "Maira Karan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jamie M Zeitzer",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "BMC geriatrics",
+      "abstract": "Adolescents worldwide suffer from severe sleep deprivation and negative emotional states, leading to diminished learning performance. It may be possible to increase students' sleep as well as improve associated emotional states (e.g., stress, depression) and learning performance (e.g., concentration, academic achievement) through non-pharmacological methods. Five classrooms of tenth grade female students in Taiwan were exposed to five different interventions meant to increase sleep duration over the course of a 19-week semester: control (conventional health course, typical indoor lighting), Group 1 (30\u2009min of morning outdoor exercise), Group 2 (mindfulness-based sleep course), Group 3 (4\u2009h of morning simulated sunlight exposure from a smart lighting system), Group 4 (both mindfulness-based sleep course and smart lighting). Sleep, cognitive, emotional, and educational outcomes were tracked. As compared to the control condition, morning outdoor exercise did not improve health or learning performance. The smart indoor lighting and mindfulness-based sleep course independently improved students' sleep duration, emotional states, and concentration. The combination of the mindfulness-based sleep course and the smart lighting system elicited the greatest changes in students' physical and mental health, including improving academic achievement. This study suggests that in the future, existing conventional health courses in schools could be replaced or supplemented with a mindfulness-based sleep course and classroom lighting could be replaced with smart lighting systems to provide better health and learning benefits for adolescent students.",
+      "journal": "Journal of sleep research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -1044,41 +619,281 @@
       "matched_keywords": []
     },
     {
-      "title": "Toward Holistic COPD Management: The Case for Mental Health Integration.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41756728/",
+      "title": "Pilot test of a brief single-session body functionality appreciation audio meditation: Efficacy of focused and multitasking formats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740328/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.718111",
-      "doi": "10.1002/hsr2.71896",
+      "date_published": "2026-02-24T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.390342",
+      "doi": "10.1016/j.bodyim.2026.102052",
       "authors": [
         {
-          "name": "Barbara Gon\u00e7alves",
+          "name": "Linda Lin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Joanne Lusher",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Audrey Cund",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Caroline Sime",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eileen Harkess-Murphy",
+          "name": "Zali Yager",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND AND AIMS: Chronic obstructive pulmonary disease (COPD) is a growing global public health concern, not only due to its physical effects but also because of the significant psychological distress it causes, including anxiety and depression. This perspective stresses the importance of addressing mental health issues in the management of COPD, discussing current treatment options, which include non-pharmacological interventions. METHODS: This perspective synthesizes current literature on psychological distress in COPD and reviews evidence for non-pharmacological approaches, including pulmonary rehabilitation, cognitive behavioral therapy, self-management programs, telerehabilitation, education, and peer support. It draws on recent literature and guidelines to identify gaps and opportunities for integrated care. RESULTS: Individuals with COPD experience substantially higher rates of anxiety and depression compared to the general population, and this can negatively impact quality of life, disease progression, and healthcare outcomes. Despite this, mental health symptoms often remain undiagnosed and untreated due to limited awareness, training, and resources. Psychological and non-pharmacological interventions reveal encouraging results in reducing distress and improving overall well-being. Pulmonary rehabilitation, combined with psychological support, demonstrates particular benefits but is underutilized due to patient and systemic barriers. Alternative approaches such as telerehabilitation and remote therapies offer potential for increased access. Moreover, education and peer support play a crucial role in empowering patients, improving coping skills, and fostering social connectedness, which contribute positively to psychological well-being. This perspective advocates for integrated COPD management, which prioritizes mental health literacy, collaborative care models, and patient engagement. CONCLUSION: Addressing both the physical and psychological aspects of COPD is essential for holistic care and enhancing the quality of life of individuals with COPD. Further research and healthcare policy efforts are needed to close existing gaps and deliver comprehensive support for people living with COPD.",
+      "abstract": "The goal of this investigation was to conduct a pilot study to examine whether a brief audio meditation designed to improve appreciation of body functionality could improve body image and mood, and whether multitasking would alter its effectiveness. College-aged women were randomly assigned to one of three conditions: focused audio meditation, multitasking audio meditation, or a control group. Measures of body satisfaction, body appearance appreciation, body functionality appreciation, appearance schemas, and positive and negative affect were collected pre-intervention and post-intervention. Results indicated that, compared to the control group, both the focused and multitasking groups showed improvements in body satisfaction and functionality appreciation. In addition, the focused group showed improvements in appearance appreciation and positive affect compared to the control group. These results suggest that brief audio recordings or meditations focused on body functionality may enhance body image and mood among women, and that the effects may be stronger when listening without multitasking.",
+      "journal": "Body image",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effects of MBSR and escitalopram on self-compassion in anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41759355/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-23T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.390653",
+      "doi": "10.1016/j.jpsychires.2026.02.010",
+      "authors": [
+        {
+          "name": "Amanda W Baker",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Samantha R Philip",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Caroline H Armstrong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kristin L Szuhany",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mihriye Mete",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mary Ann Dutton",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Naomi M Simon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric Bui",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth A Hoge",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Self-compassion is recognized as important for psychological well-being and has been linked to reduced anxiety levels. Mindfulness-based interventions, such as the 8-week Mindfulness-Based Stress Reduction program (MBSR), have shown promise in treating anxiety disorders, but no studies to date have compared the effects of MBSR to the gold-standard medication treatment (escitalopram) on self-compassion or its subscales. The primary aim of this study was to examine the effects of MBSR versus escitalopram on self-compassion (total score and subscales) in adults with anxiety disorders. METHODS: We conducted a comparative effectiveness trial, delivering escitalopram versus MBSR virtually over 8 weeks for anxiety disorders in 198 adults. We assessed the impact of each treatment on self-compassion and its subscales using the Self-Compassion Scale. Baseline group differences were tested using chi-square tests for categorical variables and t-tests for continuous variables. We used longitudinal mixed-effects models to test whether MBSR produced greater improvements in self-compassion than escitalopram at each assessment point. RESULTS: Contrary to our hypothesis, MBSR did not demonstrate greater improvement in self-compassion compared to escitalopram at each assessment point. All domains of self-compassion improved over time when across treatment groups. Additionally, both treatment groups showed improvements in most subscales. Two of the subscales showed differences in response by treatment group. In the mixed model predicting the Common Humanity subscale, participants in the MBSR group evidenced an improvement in Common Humanity over time whereas the escitalopram group remained relatively unchanged in Common Humanity over time (Estimate\u00a0=\u00a0-0.34, t\u00a0=\u00a0-2.44, 95% CI\u00a0=\u00a0[-0.61, -0.06], p\u00a0=\u00a00.016). In the mixed effects model predicting Mindfulness, the MBSR group evidenced greater improvement in Mindfulness between baseline and post-treatment than the escitalopram group (Estimate\u00a0=\u00a0-0.26, t\u00a0=\u00a0-2.05, 95% CI\u00a0=\u00a0[-0.51, -0.01], p\u00a0=\u00a00.042). DISCUSSION: Although meditation was not generally superior to medication for improving self-compassion among individuals with anxiety disorders, several significant improvements were found across both interventions, and meditation may be more effective for promoting two self-compassion subscales-mindfulness and common humanity. MBSR's facet-specific benefits support its use where enhancing self-relational capacities is a treatment priority.",
+      "journal": "Journal of psychiatric research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effects of an Immersive Virtual Reality-Based Exercise-Rest on Mobilization in Knee Surgery Patients: A Single-Blind, Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41760490/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-26T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.390873",
+      "doi": "10.1016/j.pmn.2026.01.014",
+      "authors": [
+        {
+          "name": "Aydanur Aydin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ahmet K\u0131van\u00e7 Menek\u015feo\u011flu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "\u0130rem Dilaver",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S\u00fcleyman Kas\u0131m Ta\u015f",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: This study aimed to evaluate the impact of immersive virtual reality (IVR) interventions on enhancing mobilization in patients undergoing total knee arthroplasty. DESIGN: A randomized, single-blinded, two-arm, parallel-group controlled trial. METHODS: A randomized controlled trial was conducted on 30 patients who underwent total knee arthroplasty for the first time. Participants were divided into two groups: the intervention and control groups. The primary outcome, mobilization distance, was measured at the first postoperative mobilization using validated scales. Before mobilization, patients in the intervention group experienced a simulated walk through a tranquil forest accompanied by birdsong and meditation music via IVR goggles. RESULTS: All surgeries were performed by the same surgeon, and postoperative medical care was standardized across both groups. The intervention group demonstrated significantly greater mobilization distances and shorter initial walking times than the control group. Moreover, patients in the intervention group reported reduced postmobilization pain and expressed high satisfaction with the IVR experience. CONCLUSIONS: The findings indicate that patients who experienced IVR intervention exhibited reduced postmobilization pain, increased mobilization distance, and higher satisfaction. This innovative technique has the potential to serve as a practical solution to enhance clinical improvement in various healthcare settings. CLINICAL IMPLICATIONS: This study demonstrated the effectiveness of IVR-assisted mobilization in enhancing walking distance among patients undergoing knee surgery. The use of IVR presents an innovative and engaging approach to support postoperative mobilization in this patient population. Further research in this area may contribute to the development of more comprehensive and effective IVR interventions.",
+      "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Associations of cannabis use, other substances, and lifestyle choices on anxiety in medical cannabis patients across 45 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41748646/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-26T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.391004",
+      "doi": "10.1038/s41598-026-39086-2",
+      "authors": [
+        {
+          "name": "R Nathan Pipitone",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Benjamin Banai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica Walters",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tyler Dautrich",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kelly Schuller",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Martha Rosenthal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kevin Provost",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Branden Hall",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Keenan Keeling",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Previous research has shown medical cannabis (MC) to help reduce anxiety for some individuals, although most studies show trends using cross-sectional designs or conduct secondary analyses of preexisting data. The present study systematically tracked 416 registered MC patients in Florida across 45 days to assess daily shifts in anxiety levels. Using daily recording software, collected data included the frequency of MC use, other substances (e.g., alcohol, anxiolytic medication), other activities (e.g., exercise, meditation), length of previous MC use, and history of anxiety, among other demographic variables. Using linear mixed-effects modeling, results showed that MC use led to the largest anxiety relief across the 45-day period. When participants only used other substances or engaged in activities on certain days, they also saw anxiety reductions, but the major factor in any measurable change in anxiety when comparing different groups to one another was MC use. Age, sex, history of MC use, length of anxiety, and route of MC administration did not significantly contribute to the findings. Sensitivity analyses revealed that novice and experienced MC patients had similar anxiety reductions, although novice patients had slightly better relief outcomes than experienced patients across the 45 days. The anxiolytic effects of MC documented in this study comport with other published work conducting secondary analyses of preexisting data. Although MC can have anxiogenic effects in some individuals, others find it to be an effective way to reduce daily anxiety.",
+      "journal": "Scientific reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effectiveness of Mindfulness-Based Stress Reduction Program on Job Satisfaction and Psychological Distress of Care Workers for Older Adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41757805/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-27T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.391043",
+      "doi": "10.1177/21650799261421549",
+      "authors": [
+        {
+          "name": "Nurg\u00fcl Karakurt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meltem Oral",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM: Job satisfaction and psychological well-being are critical factors for productivity in nursing homes. This research investigated the effectiveness of the Mindfulness-Based Stress Reduction Program (MBSR) on the job satisfaction and psychological distress levels of Turkish care workers for older adults in a nursing home. METHODS: A pretest-posttest randomized experimental design was carried out with 62 care workers from a nursing home in Turkey. Participants were randomly assigned to receive either the 8-week MBSR or to the control group. The Job Satisfaction Scale and Brief Symptom Inventory were administered to the participants by the researchers before and after the intervention. RESULTS: The findings indicated that the care workers' job satisfaction and psychological well-being were below average. The MBSR program effectively increased job satisfaction and reduced participants' psychological distress in the intervention group. A decrease in job satisfaction and an increase in psychological distress were observed in the control group at posttest. CONCLUSION: MBSR can help increase the job satisfaction of the care workers, alleviate the psychological adverse effects of working in a stressful environment, and increase the quality of care given in nursing homes.",
+      "journal": "Workplace health & safety",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Baseline Measurement of Grip Strength in a Sample of Nepali Nursing Staff and Students: A Cross-Sectional Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41737431/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-01T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.391446",
+      "doi": "10.1002/hsr2.71862",
+      "authors": [
+        {
+          "name": "Tara Jung Gurung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lisa R Roberts",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Safiye Sahin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dibyaswori Lakhe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rubi Pradhan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Neha Shrestha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Uma Thapa Magar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sangita Shrestha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Radha Pandey Acharya",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND AND AIMS: Musculoskeletal (MSK) problems are common among nurses and nursing students. Grip strength is a key indicator of physical health, yet there is a gap in examining grip strength and its correlates in the Nepalese nursing population. This study aimed to investigate the relationship between grip strength and sample characteristics, such as MSK problems, perceived stress, exercise habits, and anthropometric measures, among Nepalese staff nurses and nursing students. Additionally, the study compared the sample's grip strength with Nepali and Indian normative values. METHODS: A cross-sectional study was conducted with a sample of Nepalese staff nurses and nursing students. Data on grip strength, MSK complaints, perceived stress levels, exercise habits, and anthropometric measures (weight, height, and BMI) were collected. Grip strength results were compared with Nepali and Indian normative values. Correlations between grip strength and sample characteristics were analyzed. RESULTS: The results revealed that MSK problems were prevalent, and perceived stress scores were low to moderate in the sample. Comparisons with normative values indicated that only 4.6% of participants met Nepali norms, while 37.6% met Indian norms. Grip strength showed a positive correlation with body weight, BMI, and height, but no significant correlations with age, exercise hours, MSK complaints, meditation days, and perceived stress. CONCLUSION: This study underscores the significant burden of MSK problems among nurses and the importance of understanding grip strength as an indicator of physical health. Moreover, the discrepancy between Nepali and Indian grip strength norms suggests that further investigation is needed to determine which values are most appropriate for the Nepalese population. Therefore, future research should include larger samples to explore the differences in Indian and Nepalese hand grip strength normative values and reassess the Nepalese normative values.",
       "journal": "Health science reports",
       "year": 2026,
       "source_name": null,
@@ -1087,123 +902,120 @@
       "matched_keywords": []
     },
     {
-      "title": "Effect of Breast Cancer Awareness Training on Screening Beliefs and Behaviour Among Women Living in Rural Areas of T\u00fcrkiye: A Quasi-Experimental Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41754044/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-20T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.718158",
-      "doi": "10.3390/healthcare14040531",
-      "authors": [
-        {
-          "name": "G\u00f6khan \u0130\u015f\u00e7i",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zeliha Yelda \u00d6zer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Burak Mete",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "\u00c7a\u011fla Okyar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hakan Demirhindi",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND/OBJECTIVES: This study aimed to evaluate the effect of breast cancer awareness training on screening beliefs and behaviour. METHODS: This single-group pre-test/post-test quasi-experimental study included 286 women living in rural areas. The effectiveness of the educational intervention was evaluated via the Breast Cancer Screening Beliefs Scale (BCSBS). Screening behaviours were assessed using self-reported data collected via a structured questionnaire administered before the intervention. RESULTS: The mean age of the participants was 58.3 \u00b1 8.3 years (range 43-69). Post-test results showed a significant increase in the total BCSBS score and all sub-dimensions, including attitudes towards health screenings, breast cancer knowledge and perceptions, and barriers to mammography screening ( CONCLUSIONS: The Turkish Ministry of Health's education model for breast cancer awareness appears to positively influence beliefs about breast cancer screening. Updating and diversifying educational content to target specific age groups and rural women may enhance its effectiveness.",
-      "journal": "Healthcare (Basel, Switzerland)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Baseline Mood and \"Relational Triad\" Predict Acute Qualities of Psychedelic Experience.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41750119/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-23T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.718245",
-      "doi": "10.3390/bs16020310",
-      "authors": [
-        {
-          "name": "Joshua Lipson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hannes Kettner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robin Carhart-Harris",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lisa Miller",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: The quality and valence of psychedelic experiences are influenced by a range of psychological and contextual factors. This study examines baseline mood and the \"relational triad\"-comprising social connectedness, mindfulness, and spirituality-as potential predictors of the quality of naturalistic psychedelic experiences. METHODS: Data were drawn from the Predicting Responses to Psychedelics dataset, a longitudinal study tracking 654 individuals planning to take a psychedelic substance. Participants completed self-report measures at five time points, before and after ingestion. Baseline mood (depression, anxiety, and wellbeing) and relational triad factors were assessed at Timepoint 1, while acute psychedelic experience quality was measured at Timepoint 3 using validated scales (MEQ-30, CEQ, and ASC). RESULTS: Mystical and challenging experiences were weakly but positively correlated. Baseline depression and anxiety were predictive of more challenging experiences but not of mystical-type experiences, while baseline wellbeing predicted more mystical and less challenging experiences. Mindfulness and spirituality were positively associated with mystical experiences, while social connectedness and mindfulness were inversely associated with challenging experiences. CONCLUSIONS: These findings extend previous research by demonstrating that baseline psychological and relational factors shape the nature of psychedelic experiences.",
-      "journal": "Behavioral sciences (Basel, Switzerland)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effectiveness of burnout interventions in nursing: A systematic review of systematic reviews with meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41747424/",
+      "title": "Mwah: Klimt's The Kiss, other kisses, and the 'kiss' in clinical dermatology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41759834/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-02-27T12:33:56.718380",
-      "doi": "10.1016/j.outlook.2026.102715",
+      "date_fetched": "2026-02-28T12:24:06.391537",
+      "doi": "10.1016/j.clindermatol.2026.02.015",
       "authors": [
         {
-          "name": "Concepci\u00f3n Salcedo Sampedro",
+          "name": "Bladimir Rodr\u00edguez-Lechtig",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rosario Fern\u00e1ndez-Pe\u00f1a",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Noelia Ruiz Pell\u00f3n",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Roberto Mart\u00edn Mel\u00f3n",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carmen Ortego-Mat\u00e9",
+          "name": "Adriana Motta",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Burnout among nurses adversely affects health, retention, and quality of care. Although numerous interventions have been evaluated, heterogeneity in quality and outcomes limits translation into practice. PURPOSE: To evaluate the effectiveness of interventions to reduce burnout in nurses through a systematic review of systematic reviews with meta-analysis. METHODS: PubMed, CINAHL, Cochrane, Scopus, Cuiden Plus, Dialnet, and Web of Science were searched up to December 2023. Eligible studies were systematic reviews with meta-analysis (2013-2023) reporting Maslach Burnout Inventory outcomes and rated medium or high quality using AMSTAR 2. Random-effects meta-analyses were conducted. DISCUSSION: Seven reviews (132 studies; 7,432 participants) were included. Person-directed interventions, particularly mindfulness, coping skills training, and relaxation, reduced emotional exhaustion and depersonalization. No consistent effects were observed for personal accomplishment, and heterogeneity was substantial. CONCLUSION: Person-directed interventions reduce core burnout dimensions in nurses, but evidence on long-term effects and organizational interventions remains limited.",
-      "journal": "Nursing outlook",
+      "abstract": "Gustav Klimt's The Kiss (1907-1908) is one of the most iconic visual representations of intimacy in Western art. Beyond its aesthetic and symbolic impact, the painting offers a profound meditation on the skin as a sensory, emotional, and symbolic interface. Recent contributions in the field of medical humanities have demonstrated that Klimt's work can be meaningfully explored from biomedical and clinical perspectives, reinforcing the value of interdisciplinary dialogue between art and medicine. This article examines The Kiss through a dermatological humanities lens, focusing on exposed skin, tactile contact, and the metaphorical role of gold as both a protective and separating surface. The visual tension between figurative skin and ornamental covering is interpreted in relation to contemporary concepts of the skin barrier, affective touch, and psychodermatology. In parallel, scientific evidence describing the changes associated with romantic intimacy and skin-to-skin contact is reviewed. By integrating iconographic analysis with current biological knowledge, this article highlights how Klimt's painting provides a powerful framework for reflecting on the skin not only as a biological organ but also as a central space for intimacy, identity, and human connection.",
+      "journal": "Clinics in dermatology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Intensive Care Unit Nurses' Perceptions of Work Environments: A Cross-Sectional Study From Five European Counties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41761430/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-27T00:00:00",
+      "date_fetched": "2026-02-28T12:24:06.391635",
+      "doi": "10.1111/jan.70559",
+      "authors": [
+        {
+          "name": "\u0395vanthia Georgiou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meropi Mpouzika",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mireia Llaurado-Serra",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adriano Friganovi\u0107",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adrian Sabou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aleksandra Gutysz-Wojnicka",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anca Constantinescu-Dobra",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cristina Alfonso-Arias",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Estel Curado-Santos",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jelena Slijepcevic",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M\u0103d\u0103lina-Alexandra Co\u021biu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Beata Penar-Zadarko",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sla\u0111ana Re\u017ei\u0107",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Beata Dobrowolska",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria Kyranou",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM: To explore intensive care nurses' perceptions of their work environments at the unit and organisational levels according to the American Association of Critical Care Nurses standards, their impact on care quality, national differences, and demographic associations. DESIGN: Cross-sectional study using a survey design. METHODS: Study conducted between January 2021 and April 2022, using a convenience sample of intensive care unit nurses across Cyprus, Spain, Croatia, and Poland, Romania. The Critical Elements of a Healthy Work Environment Scale (CEHWES) developed by the American Association of Critical Care Nurses and cross-culturally adapted by the authors was used, which included four sections, including sociodemographic data and a total of 50 questions. The core section of the tool comprised 16 questions using Likert-type response (1-strongly disagree-4 strongly agree). Perception of fulfilment of healthy work environment standards was calculated using the aforementioned Likert-type scale. RESULTS: A total of 1183 nurses participated reporting moderate perception of fulfilment of the standards, with mean scores ranging from 2.6 to 2.8. Skilled communication and effective decision making were the highest rated. 56% (n\u2009=\u2009662) reported awareness of some standards and while 25.8% (n\u2009=\u2009305) reported full or significant implementation in their unit. Significant differences related to the perception of all standards were observed across countries. Implementation of the standards was significantly associated with higher quality of care having better perception when standards were fully implemented. CONCLUSIONS: This study shows moderate perception of healthy work environment standards among intensive care nurses. Country differences highlight the need for more awareness, training, and further implementation of the standards, which is linked to better care quality. IMPLICATIONS FOR THE PROFESSION: Work environment still need to improve and needs to be prioritised by organisations, considering local and national particularities. Having a measuring tool available in multiple languages facilitates comparisons and getting a global picture. IMPACT: The questionnaire used is validated in different languages, allowing results to be compared with other countries. Novel data from countries that were poorly investigated is now available. More evidence points out the need to prioritise work environment for maintaining quality in patient care. REPORTING METHOD: The study has been reported following the STROBE checklist. PATIENT OR PUBLIC CONTRIBUTION: This study did not include patient or public involvement in its design, conduct, or reporting.",
+      "journal": "Journal of advanced nursing",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
