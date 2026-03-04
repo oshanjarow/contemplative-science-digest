@@ -1,243 +1,583 @@
 {
-  "generated_at": "2026-03-03T12:33:48.233376",
+  "generated_at": "2026-03-04T12:32:58.858385",
   "papers": [
     {
-      "title": "TBAid: A domain-restricted diagnostic assistant for tuberculosis awareness and patient support using OpenRouter API Integration.",
-      "url": "https://www.semanticscholar.org/paper/a2254cb99353f97038ea83e74ad051fd55873ffc",
+      "title": "Effectiveness of mindfulness-based cognitive therapy for treating generalized anxiety disorder and the moderating influence of abuse during childhood: A randomized controlled trial.",
+      "url": "https://www.semanticscholar.org/paper/860372238d5364034c80aae3f9ddb1785a4b8821",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-03-03T12:32:57.220111",
-      "doi": "10.1016/j.mex.2026.103819",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-03-04T12:32:09.121063",
+      "doi": "10.1016/j.jad.2025.02.103",
       "authors": [
         {
-          "name": "R. Teja",
-          "author_id": "2091134466",
+          "name": "Guangzheng Tang",
+          "author_id": "8504278",
           "affiliation": null
         },
         {
-          "name": "Dalwinder Singh",
-          "author_id": "2348583734",
+          "name": "Bijun Chen",
+          "author_id": "2325083493",
           "affiliation": null
         },
         {
-          "name": "Arun Singh",
-          "author_id": "2342358447",
+          "name": "Manhua Wu",
+          "author_id": "145015732",
           "affiliation": null
         },
         {
-          "name": "Saiprasad Potharaju",
-          "author_id": "2322780420",
+          "name": "Lijun Sun",
+          "author_id": "2303074347",
           "affiliation": null
         },
         {
-          "name": "M. P. Kantipudi",
-          "author_id": "2359313361",
+          "name": "Ruijuan Fan",
+          "author_id": "2348297478",
           "affiliation": null
         },
         {
-          "name": "Swathi Gowroju",
-          "author_id": "2041286761",
+          "name": "Ruisheng Hou",
+          "author_id": "103424598",
+          "affiliation": null
+        },
+        {
+          "name": "Wenshuang Liu",
+          "author_id": "2157138547",
+          "affiliation": null
+        },
+        {
+          "name": "Junjun Kang",
+          "author_id": "2348309276",
+          "affiliation": null
+        },
+        {
+          "name": "Yaoyao Li",
+          "author_id": "2284448009",
+          "affiliation": null
+        },
+        {
+          "name": "Mingxing Wang",
+          "author_id": "2348282172",
+          "affiliation": null
+        },
+        {
+          "name": "Ying Zhang",
+          "author_id": "2262443686",
+          "affiliation": null
+        },
+        {
+          "name": "Ningyan Lu",
+          "author_id": "2348345742",
+          "affiliation": null
+        },
+        {
+          "name": "Wanjun Guo",
+          "author_id": "2325119584",
+          "affiliation": null
+        },
+        {
+          "name": "Yamin Zhang",
+          "author_id": "2348584346",
+          "affiliation": null
+        },
+        {
+          "name": "Xiao-jing Li",
+          "author_id": "50079405",
+          "affiliation": null
+        },
+        {
+          "name": "Wei Wei",
+          "author_id": "1390707806",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Yu",
+          "author_id": "2118681770",
+          "affiliation": null
+        },
+        {
+          "name": "Tao Li",
+          "author_id": "2318899204",
           "affiliation": null
         }
       ],
-      "abstract": "This research introduces a study of a domain-specific intelligent assistant, TBAid, that is a conversational chatbot to assist with tuberculosis (TB) awareness and health advice. A structured rule-based system integrated with the Hugging Face Inference API using the Qwen/Qwen2.5-72B-Instruct large language model provides TB-focused responses to structured user queries. TBAid is designed to increase public awareness in low-resource and rural areas. It specifically targets communities with poor access to specialist consultations and medical report interpretation. A key novelty of the assistant is its dual-explanation capability, which can frame responses for a non-expert user (e.g., a patient) or provide a medically precise version for healthcare workers. This ensures answers are both accessible and clinically safe by remaining strictly domain-relevant. While the chatbot does not currently analyze images directly, its architecture is designed for future integration. It can accept predictive outputs from a separate, pre-existing CT-based TB classification model. It has a user interface written in HTML, CSS, and JavaScript, and can be deployed on GitHub as a static web app or a local Flask server. This framework enables real-time access and secure decision-making. It is modular, scalable, and can be integrated with AI-based medical diagnostics in the future.\u2022Combines rule-based logic and conversational AI for domain-specific TB support.\u2022Enhances accessibility through lightweight, local, and online deployments.\u2022Supports modular expansion for integration with CT-based diagnostic outputs.",
-      "journal": "MethodsX",
-      "year": 2026,
+      "abstract": "BACKGROUND\nMindfulness-based cognitive therapy (MBCT) has emerged as a promising intervention for generalized anxiety disorder (GAD). This study evaluated MBCT's effectiveness for GAD and examined whether childhood maltreatment moderates its impact.\n\n\nMETHODS\nIndividuals with GAD were randomized to receive one of two 8-week interventions, either MBCT in-person or psychoeducation on-line (n\u202f=\u202f27 per group). At baseline and after 4 and 8\u202fweeks of intervention, both groups were assessed using the Beck Anxiety Inventory and Penn State Worry Questionnaire as well as several secondary questionnaires. Changes in the severity of anxiety and worry over time, as determined using linear mixed modeling, were compared between the two groups as a whole and among subgroups stratified according to type of maltreatment in childhood.\n\n\nRESULTS\nAmong all participants, severity of worry decreased significantly more in the MBCT group than in the psychoeducation group, whereas severity of anxiety decreased to a similar extent in the two groups. Among individuals who had experienced emotional abuse in childhood, MBCT reduced the severity of anxiety significantly more than psychoeducation. In fact, MBCT was significantly more effective against anxiety in individuals who had experienced emotional abuse than in those who had not.\n\n\nCONCLUSIONS\nMBCT might be effective in alleviating worry symptoms in GAD, while its effectiveness against anxiety symptoms appears to be influenced by the history of maltreatment, particularly emotional abuse.\n\n\nTRIAL REGISTRATION\nChiCTR2400087188 (Chictr.org).",
+      "journal": "Journal of Affective Disorders",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "non-dual awareness"
+        "MBCT"
       ]
     },
     {
-      "title": "\u0641\u0627\u0639\u0644\u064a\u0629 \u0628\u0631\u0646\u0627\u0645\u062c \u0625\u0631\u0634\u0627\u062f\u064a \u0645\u0639\u0631\u0641\u064a \u0642\u0627\u0626\u0645 \u0639\u0644\u0649 \u0627\u0644\u064a\u0642\u0638\u0629 \u0627\u0644\u0630\u0647\u0646\u064a\u0629 (MBCT) \u0641\u064a \u062a\u062d\u0633\u064a\u0646 \u0643\u0644 \u0645\u0646 \u0645\u062a\u0639\u0629 \u0641\u0648\u0627\u062a \u0627\u0644\u0623\u0634\u064a\u0627\u0621 (JOMO) \u0648\u0627\u0644\u0635\u0645\u0648\u062f \u0627\u0644\u0631\u0642\u0645\u064a \u0644\u062f\u0649 \u0639\u064a\u0646\u0629 \u0645\u0646 \u0637\u0644\u0627\u0628 \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a.",
-      "url": "https://www.semanticscholar.org/paper/bd189ba6e1da420d638dbad1dea532c8e2ad01df",
+      "title": "Remodeling the Epigenome Through Meditation: Effects on Brain, Body, and Well-being.",
+      "url": "https://www.semanticscholar.org/paper/38cf5c8a014e9f0e500a58ee8ae77da62c6d558f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-03-03T12:32:58.781638",
-      "doi": "10.21608/jfeps.2025.486774",
+      "date_published": null,
+      "date_fetched": "2026-03-04T12:32:19.466745",
+      "doi": "10.1007/978-3-031-75980-2_7",
       "authors": [
         {
-          "name": "\u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632 \u0635\u0627\u0628\u0631 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632",
-          "author_id": "2137189095",
+          "name": "Sabrina Venditti",
+          "author_id": "2261709753",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "\u0645\u062c\u0644\u0629 \u06a9\u0644\u06cc\u0629 \u0627\u0644\u062a\u0631\u0628\u06cc\u0629 \u0641\u0649 \u0627\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0646\u0641\u0633\u06cc\u0629",
+      "journal": "Sub-cellular biochemistry",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "MBCT"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Mindfulness-based cognitive therapy versus treatment as usual after non-remission with NHS Talking Therapies high-intensity psychological therapy for depression: a UK-based clinical effectiveness and cost-effectiveness randomised, controlled, superiority trial",
-      "url": "https://www.semanticscholar.org/paper/c4042fbffed17b955f4d53dce6f58e5150c233b1",
+      "title": "Embodied Unity of Body and Mind: A Study of Dynamic Meditation Practices in Tibetan Buddhism with a Focus on \"Running Meditation\" (Lung-gom-pa)",
+      "url": "https://www.semanticscholar.org/paper/7da2dd9d1645e3376b0f350a0526dadff55ac0c0",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-06-01T00:00:00",
-      "date_fetched": "2026-03-03T12:32:58.781753",
-      "doi": "10.1016/S2215-0366(25)00105-1",
+      "date_published": "2025-09-30T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466769",
+      "doi": "10.32629/jher.v6i4.4292",
       "authors": [
         {
-          "name": "Thorsten Barnhofer",
-          "author_id": "2316825152",
-          "affiliation": null
-        },
-        {
-          "name": "Barnaby D. Dunn",
-          "author_id": "2349846610",
-          "affiliation": null
-        },
-        {
-          "name": "Clara Strauss",
-          "author_id": "2361550856",
-          "affiliation": null
-        },
-        {
-          "name": "F. Ruths",
-          "author_id": "4462752",
-          "affiliation": null
-        },
-        {
-          "name": "B. Barrett",
-          "author_id": "2287360248",
-          "affiliation": null
-        },
-        {
-          "name": "Mary Ryan",
-          "author_id": "2202111877",
-          "affiliation": null
-        },
-        {
-          "name": "Asha Ladwa",
-          "author_id": "2149910877",
-          "affiliation": null
-        },
-        {
-          "name": "Frances Stafford",
-          "author_id": "2202111062",
-          "affiliation": null
-        },
-        {
-          "name": "Roberta Fichera",
-          "author_id": "2202113705",
-          "affiliation": null
-        },
-        {
-          "name": "Hannah Baber",
-          "author_id": "1405049964",
-          "affiliation": null
-        },
-        {
-          "name": "Ailis McGuinness",
-          "author_id": "2202117009",
-          "affiliation": null
-        },
-        {
-          "name": "Isabella Metcalfe",
-          "author_id": "2202113701",
-          "affiliation": null
-        },
-        {
-          "name": "Daniel K Y Kan",
-          "author_id": "2380290461",
-          "affiliation": null
-        },
-        {
-          "name": "Joanna Pooley",
-          "author_id": "2350937201",
-          "affiliation": null
-        },
-        {
-          "name": "Delilah Harding",
-          "author_id": "2202113980",
-          "affiliation": null
-        },
-        {
-          "name": "Emma Tassie",
-          "author_id": "3661848",
-          "affiliation": null
-        },
-        {
-          "name": "James Carson",
-          "author_id": "2290577019",
-          "affiliation": null
-        },
-        {
-          "name": "Shelley Rhodes",
-          "author_id": "2305499503",
-          "affiliation": null
-        },
-        {
-          "name": "Allan H. Young",
-          "author_id": "2361883049",
-          "affiliation": null
-        },
-        {
-          "name": "J. Connors",
-          "author_id": "2361566111",
-          "affiliation": null
-        },
-        {
-          "name": "Fiona Warren",
-          "author_id": "2361558240",
+          "name": "Ruitai Ni",
+          "author_id": "2386708157",
           "affiliation": null
         }
       ],
-      "abstract": "Summary Background Non-remission after psychological therapy for major depressive disorder is common, yet there are no established further-line treatments. In the UK National Health Service (NHS) Talking Therapies programme, about 50% of patients with depression who come to the end of the stepped care pathway do not show remission of symptoms. We aimed to investigate whether mindfulness-based cognitive therapy (MBCT) can improve clinical outcomes and whether the additional financial cost is worthwhile. Methods We conducted a parallel, randomised, controlled, superiority trial in three sites in the UK (Devon, London, and Sussex). Patients with current major depressive disorder whose symptoms had not reached remission (assessed as Patient Health Questionnaire-9 [PHQ-9] score \u226510) after an adequate dose of NHS Talking Therapies high-intensity therapy (\u226512 sessions) were recruited from 20 NHS Talking Therapies services. Participants were allocated through remote random assignment (1:1) to MBCT plus treatment as usual or treatment as usual alone at the UK Clinical Research Collaboration-registered Exeter Clinical Trials Unit with minimisation on depression severity (PHQ-9 score <19 vs \u226519), antidepressant use at baseline (yes vs no), and recruitment site (Devon vs London vs Sussex). MBCT was delivered via videoconference and comprised an individual orientation session and eight weekly group sessions. The primary clinical outcome was reduction in depression symptomatology at 34 weeks after randomisation, using the PHQ-9. Cost-effectiveness was evaluated in terms of costs to primary, secondary, and tertiary health and social care services collected using the Adult Service Use Schedule and quality-adjusted life-years (QALYs) via health utilities derived from the EQ-5D. Primary outcome analyses were masked in the intention-to-treat population using observed data only. Lived experience experts were integral to all stages of this research. The trial was prospectively registered with ISRCTN, ISRCTN17755571. Findings Between April 20, 2021, and Jan 24, 2023, we enrolled 234 eligible participants, 166 (71%) of whom identified as women, 65 (28%) as men, one (<1%) as other, and two (1%) preferred not to say. The mean age was 42\u00b75 years (SD 13\u00b79). 201 (86%) of 234 participants were White. 118 participants were assigned to MBCT plus treatment as usual and 116 to treatment as usual alone, 101 and 102 of whom completed the final follow-up, respectively. At 34 weeks after randomisation, the MBCT plus treatment as usual group had significantly lower levels of depression symptomatology than the treatment as usual alone group (adjusted between-group difference \u20132\u00b749, 95% CI \u20133\u00b789 to \u20131\u00b709; p=0\u00b70006; Cohen's d \u20130\u00b741, 95% CI \u20130\u00b767 to \u20130\u00b715). Utility scores were higher and costs were lower in the MBCT group (adjusted mean cost difference \u2013\u00a3245\u00b723, 95% CI \u2013581\u00b792 to 91\u00b746; p=0\u00b715) over the course of the study. The MBCT plus treatment as usual group had an estimated 99% chance of being cost-effective at the \u00a320\u2008000 per QALY threshold. Bootstrapped mean differences in costs and QALYs indicated a 91% probability of MBCT plus treatment as usual being less costly and more effective than treatment as usual alone for all values a decision maker might be willing to pay for an improvement in QALYs. We observed no trial or treatment-related serious adverse events and no other evidence of harms. Interpretation Our findings show that mindfulness-based treatment can be beneficial after non-remission from major depressive disorder following psychological, stepped care treatments. Together with evidence from previous studies of non-remission after pharmacological treatment, our findings establish MBCT, an easily scalable group-based intervention, as a further-line treatment. Implementation of MBCT for patients who continue to have major depressive disorder in routine care settings (NHS Talking Therapies and beyond) is warranted. Funding UK National Institute for Health and Care Research Research for Patient Benefit programme.",
-      "journal": "Lancet psychiatry",
+      "abstract": "This essay examines the unique dynamic meditation practice of running meditation (Lung-gom-pa) in Tibetan Buddhism. Drawing on historical records and contemporary interpretations, this essay analyzes the essence of this meditative practice and how Lung-gom-pa enables people to achieve a unity of body and mind while running at high speeds without fatigue, allowing them to continuously progress toward their spiritual goals. This study emphasizes the unity of body and mind achieved by Lung-gom-pa practitioners during their running, and also provides new insights and inspiration for contemporary meditation practices.",
+      "journal": "Journal of Higher Education Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "MBCT"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Clinical leadership development: Current practices and future directions for Southern African primary healthcare.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41773400/",
+      "title": "Meditation and Mind-Body Practices: Effects on Brain-derived Neurotrophic Factor and Brain Health: A Narrative Review",
+      "url": "https://www.semanticscholar.org/paper/163a9d9c728c97f91fd158ae27ead4cfd9e8fdbb",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-27T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.374654",
-      "doi": "10.4102/safp.v68i2.6294",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-31T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466779",
+      "doi": "10.48165/irjay.2025.80312",
       "authors": [
         {
-          "name": "Richard Cooke",
+          "name": "S. Giridharan",
+          "author_id": "2273744732",
+          "affiliation": null
+        },
+        {
+          "name": "Bhuvana Pandiyan",
+          "author_id": "2287637773",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: Brain-derived neurotrophic factor (BDNF) plays a crucial role in neuroplasticity and cognition.\u00a0 Meditation and mind-body exercises such as yoga may increase BDNF levels, offering a non-pharmacological\u00a0 strategy to enhance brain health.\u00a0Methods: This narrative review synthesizes evidence from published studies, primarily randomized controlled trials,\u00a0 sourced from PubMed, Scopus, Cochrane Library, and Web of Science, between 2020 and 2025, in accordance\u00a0 with the PRISMA guidelines. Studies have focused on meditation and mind-body interventions and their effects on\u00a0 peripheral BDNF levels.\u00a0Results: Eight studies demonstrated that mindfulness-based interventions, including yoga and meditation,\u00a0 consistently elevated BDNF levels across diverse populations, including healthy adults and individuals with\u00a0 depression. These increases are linked to reduced stress and inflammation, suggesting the underlying mechanisms.\u00a0 Mental health benefits, such as reduced depression and anxiety, have been widely observed, although cognitive and\u00a0 functional outcomes vary, particularly in older adults, where some studies have noted BDNF attenuation.\u00a0Conclusion: Meditation and mind-body practices have the potential to enhance BDNF levels and improve mental\u00a0 health, with possible cognitive benefits. However, inconsistencies in older adults and chronic pain populations\u00a0 underscore the need for fur",
+      "journal": "International Research Journal of Ayurveda &amp; Yoga",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Validation of the Spanish Version of the Body Awareness Questionnaire (BAQ) and an Exploration of Its Relationship to Meditation and Embodiment Variables",
+      "url": "https://www.semanticscholar.org/paper/67720c12eecd8fad7616636611b7796c84959ee1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466790",
+      "doi": "10.3390/healthcare13060628",
+      "authors": [
+        {
+          "name": "L. C. S\u00e1nchez-S\u00e1nchez",
+          "author_id": "1422079903",
+          "affiliation": null
+        },
+        {
+          "name": "Amanda Klysing",
+          "author_id": "66500765",
+          "affiliation": null
+        },
+        {
+          "name": "Ingela Steij St\u00e5lbrand",
+          "author_id": "2350280475",
+          "affiliation": null
+        },
+        {
+          "name": "Tove Lundberg",
+          "author_id": "8263269",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Purposes: The Body Awareness Questionnaire (BAQ) has been considered the best available measure of body awareness, but it is not currently available in Spanish. Methods: To address this shortcoming, a sample of 281 Spanish participants completed a survey with a Spanish version of the BAQ, as well as the Body Appreciation Scale (BAS-2), the Self-Compassion Scale-Short (SCS-S) and the New Sexual Satisfaction Scale-Short (NSSS-S). Results: Analysis of the Spanish BAQ showed good reliability: \u03b1 = 0.82. Positive correlations with the BAS-2 and the SCS-S, and no significant correlation with the NSSS-S, support the convergent and discriminant validity of the Spanish BAQ. In conceptual validity, the Spanish BAQ further successfully discriminated between meditators and non-meditators, showing additional support for the conceptual validity of the measure. Confirmatory Factor Analysis (CFA) supported a two-factor structure, rather than a one-factor or four-factor version, as proposed for the original English version. Conclusions: The Spanish version of the BAQ has shown adequate reliability and validity and would be a good scale to continue exploring in clinical Spanish population samples, e.g., in patients with chronic pain, and non-clinical ones, e.g., after interventions in sexuality or sport. It could be an interesting questionnaire to assess outcomes of mindfulness-based interventions.",
+      "journal": "Healthcare",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Meditation: re-discovered tool for the health of mind and body",
+      "url": "https://www.semanticscholar.org/paper/d34f8dcb6102adb4dc6fecbb0ac2ed248a542018",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-29T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466799",
+      "doi": "10.4038/jccpsl.v30i4.8813",
+      "authors": [
+        {
+          "name": "Wasantha Gunathunga",
+          "author_id": "81953180",
+          "affiliation": null
+        }
+      ],
+      "abstract": "No abstract available",
+      "journal": "Journal of the College of Community Physicians of Sri Lanka",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Accuracy and Precision of Digital Impression with Reverse Scan Body Prototypes and All-on-4 Protocol: An In Vitro Research",
+      "url": "https://www.semanticscholar.org/paper/9c34e22c21ed62fc75c74a0165b70cebb9960c0d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-31T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466815",
+      "doi": "10.3390/prosthesis7020036",
+      "authors": [
+        {
+          "name": "M. Tallarico",
+          "author_id": "12013178",
+          "affiliation": null
+        },
+        {
+          "name": "Mohammad Qaddomi",
+          "author_id": "2327077207",
+          "affiliation": null
+        },
+        {
+          "name": "Elena De Rosa",
+          "author_id": "2353122814",
+          "affiliation": null
+        },
+        {
+          "name": "Carlotta Cacci\u00f2",
+          "author_id": "2352184837",
+          "affiliation": null
+        },
+        {
+          "name": "Yeo Jin Jung",
+          "author_id": "90418371",
+          "affiliation": null
+        },
+        {
+          "name": "S. Meloni",
+          "author_id": "5317395",
+          "affiliation": null
+        },
+        {
+          "name": "F.M. Ceruso",
+          "author_id": "2259028703",
+          "affiliation": null
+        },
+        {
+          "name": "A. Lumbau",
+          "author_id": "3581871",
+          "affiliation": null
+        },
+        {
+          "name": "M. Pisano",
+          "author_id": "39793373",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background/Objectives: Digital workflows for implant-supported full-arch restorations remain challenging. This study evaluated the accuracy and precision of digital impressions using reverse scan body (RSB) prototypes and intraoral scanners (IOSs) for rehabilitating fully edentulous patients following the All-on-4 protocol. Secondary objectives included comparing accuracy between expert clinicians and beginners, as well as desktop scanners and various RSB designs. Methods: An in vitro study was conducted using a fully edentulous mandible model with four Osstem TSIII implants. A final-year dental student and an expert clinician captured digital impressions using IOSs and desktop scanners. Four groups were analyzed: (A) original scan bodies with the IOS, (B) short RSBs with the IOS, (C) RSBs with desktop scanners (short sandblasted, long sandblasted, long coated), and (D) a control group using original scan bodies with a desktop scanner. Root mean square (RMS) values measured dimensional differences, with statistical analysis performed using the Wilcoxon signed-rank test and one-way ANOVA (\u03b1 = 0.05). Results: A total of 42 scans were analyzed. No significant difference was found between expert and student for original scan bodies using the IOS (p = 0.220), while RSB prototypes showed significant differences (p = 0.008). No significant accuracy differences were noted between original scan bodies and RSBs with the IOS, but IOSs outperformed desktop scanners. Among RSBs scanned with desktop scanners, no significant differences were observed between designs. Conclusions: RSB prototypes are a viable alternative to original scan bodies for fully digital workflows in All-on-4 rehabilitations, with IOSs offering superior accuracy. However, proper training is crucial for optimizing RSB accuracy. Variations in height and coating did not impact overall accuracy.",
+      "journal": "Prosthesis",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Impact of scan body splinting on the accuracy of complete-arch digital implant impressions",
+      "url": "https://www.semanticscholar.org/paper/2c1c2065842836e233f2ed834ab51dcdae8efc6e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466827",
+      "doi": "10.1016/j.jds.2025.07.002",
+      "authors": [
+        {
+          "name": "Hale Arikan Kalayci",
+          "author_id": "2373230494",
+          "affiliation": null
+        },
+        {
+          "name": "Sema Merve Uzel",
+          "author_id": "2202825572",
+          "affiliation": null
+        },
+        {
+          "name": "I. Turkyilmaz",
+          "author_id": "6733043",
+          "affiliation": null
+        },
+        {
+          "name": "Mackenzie Hunt",
+          "author_id": "1491591668",
+          "affiliation": null
+        },
+        {
+          "name": "M. Guncu",
+          "author_id": "6803332",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background/purpose The accuracy of intraoral scanners in capturing complete-arch implant impressions remains a subject of ongoing investigation. This study aimed to evaluate the influence of different scanning strategies and the effect of splinting scan bodies on the accuracy of complete digital scans of the mandible. Materials and methods A master model of an edentulous mandible with four dental implants was used. The implants were positioned bilaterally in the regions of the mandibular lateral incisors and second premolars. A laboratory scanner was utilized to digitize the reference model. Three experimental groups were used to evaluate the effects of different scanning strategies and auxiliary reference methods on scan accuracy: Group A (single-stage scan), Group B (two-stage scan without additional references), and Group C (two-stage scan with additional reference points). Results A total of 45 digital scans were analyzed. To evaluate scan accuracy, linear deviations were measured at the four implant sites and compared against the digital reference model. Group A consistently demonstrated the highest accuracy, with the lowest overall mean linear deviation of 39.57 \u00b1 8.69 \u03bcm across all implant positions. Group B recorded a marginally higher mean deviation of 42.80 \u00b1 24.24 \u03bcm. Group C showed the greatest linear deviation (70.60 \u00b1 17.69 \u03bcm), and the differences were statistically significant when compared with both Groups A and B (P < 0.05). Conclusion The findings of this study indicate that single-stage scanning yields superior accuracy, whereas the incorporation of poorly designed or improperly positioned reference markers may inadvertently compromise scan precision.",
+      "journal": "Journal of Dental Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Impact of age and body mass index on dual-energy X-ray absorptiometry scan results in postmenopausal women.",
+      "url": "https://www.semanticscholar.org/paper/4d9d6a886de22cce17d5122594784a7bc0d71966",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466840",
+      "doi": "10.17392/1870-22-01",
+      "authors": [
+        {
+          "name": "Halil \u0106orovi\u0107",
+          "author_id": "2191341202",
+          "affiliation": null
+        },
+        {
+          "name": "Nusret Salkica",
+          "author_id": "2191340025",
+          "affiliation": null
+        },
+        {
+          "name": "Naida Omerovi\u0107 \u0106orovi\u0107",
+          "author_id": "2351853371",
+          "affiliation": null
+        },
+        {
+          "name": "\u0160ejla Ceri\u0107",
+          "author_id": "2191341269",
+          "affiliation": null
+        },
+        {
+          "name": "selma Agi\u0107-Bilalagi\u0107",
+          "author_id": "1413440510",
+          "affiliation": null
+        },
+        {
+          "name": "A. Skopljak-Beganovi\u0107",
+          "author_id": "1401415945",
+          "affiliation": null
+        },
+        {
+          "name": "Enis Tinjak",
+          "author_id": "2036841882",
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM\nTo analyse the impact of age and body mass index (BMI) on dual-energy X-ray absorptiometry (DXA) scan results in postmenopausal women.\n\n\nMETHODS\nThe study included 100 postmenopausal women who underwent the DXA procedure, out of which 50 had a normal BMI and 50 were overweight/obese. Data that were examined included age, BMI, T-score of the lumbar region and the femoral neck, as well as bone mineral density (BMD). Correlation results were presented as Pearson's correlation coefficient (r).\n\n\nRESULTS\nThe T2-score and BMD2 were significantly lower in older patients compared to younger ones (p=0.008 and p=0.007, respectively). Post hoc test results showed that the T2-score and BMD2 were significantly lower in patients \u226571 years of age compared to patients \u226459 years of age (p=0.006 and p=0.005, respectively). Also, T1- and T2-scores, as well as BMD1 and BMD2, were significantly higher in overweight/obese patients (p< 0.001 and p=0.003; p< 0.001 and p=0.002, respectively). The correlation between BMI and the T1-score was moderate (r=0.429), between BMI and the T2-score weak (r=0.348), between BMI and BMD1 moderate (r=0.431), and between BMI and BMD2 weak (r=0.344).\n\n\nCONCLUSION\nOur study showed that both age and BMI are important factors affecting DXA procedures and should be taken into account with each postmenopausal woman individually in everyday practice.",
+      "journal": "Medicinski glasnik",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Reverse scan body: A retrospective clinical study with 30 edentulous jaws.",
+      "url": "https://www.semanticscholar.org/paper/3e6ae56c7874c061581e0ea3158930044254bd64",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-09T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466852",
+      "doi": "10.1111/jopr.70055",
+      "authors": [
+        {
+          "name": "P. Papaspyridakos",
+          "author_id": "3617919",
+          "affiliation": null
+        },
+        {
+          "name": "E. A. Bedrossian",
+          "author_id": "2243196571",
+          "affiliation": null
+        },
+        {
+          "name": "Sindhu Kanikicharla",
+          "author_id": "2133175427",
+          "affiliation": null
+        },
+        {
+          "name": "Panagiotis Ntovas",
+          "author_id": "2267188649",
+          "affiliation": null
+        },
+        {
+          "name": "A. Barmak",
+          "author_id": "1413820837",
+          "affiliation": null
+        },
+        {
+          "name": "Konstantinos M. Chochlidakis",
+          "author_id": "12631892",
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE\nTo evaluate the accuracy of fit of full-arch zirconia prostheses fabricated using a fully digital workflow with extraoral scanning with the reverse scan body protocol.\n\n\nMATERIALS AND METHODS\nThis retrospective study included 30 patients treated with zirconia full-arch implant-supported fixed complete dental prostheses (IFCDPs). Out of these 30 patients, 15 patients received IFCDPs supported by four implants, and the other 15 received IFCDPs supported by six implants. Each patient underwent full-arch implant rehabilitation with digital workflow using the reverse scan body protocol. Digitally designed verification jigs and prototypes were milled and used to confirm the accuracy of the scan, esthetics, and phonetics for each patient. Following the verification jig, monolithic zirconia IFCDPs were milled, assessed for fit, and delivered. Fit accuracy was evaluated through screw resistance test, visual examination, and radiographs.\n\n\nRESULTS\nAll 30 milled prostheses (100%) achieved an accurate fit under clinical and radiographic assessment.\n\n\nCONCLUSION\nFull-arch zirconia prostheses with an accurate fit can be fabricated using extraoral scanning with the reverse scan body protocol.",
+      "journal": "Journal of Prosthodontics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Complex Body Wall Closure Defects in Seven Dog Fetuses: An Anatomic and CT Scan Study",
+      "url": "https://www.semanticscholar.org/paper/56ad3be4c1399f0420bf614ffe4ccd3698fc0006",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-03-04T12:32:19.466879",
+      "doi": "10.3390/ani15142030",
+      "authors": [
+        {
+          "name": "N. Mart\u00edn-Alguacil",
+          "author_id": "1398592356",
+          "affiliation": null
+        },
+        {
+          "name": "Jos\u00e9 M Cozar",
+          "author_id": "2344364197",
+          "affiliation": null
+        },
+        {
+          "name": "L. Avedillo",
+          "author_id": "11616713",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Simple Summary Body stalk anomaly (BSA) is a rare and severe birth defect that causes significant developmental issues affecting the body wall, spine, limbs, and internal organs. This study describes the first known cases of BSA in seven dogs. The affected puppies exhibited comparable patterns of abnormalities, including large openings in the abdominal wall, spinal deformities, absent or shortened limbs, urinary and reproductive system issues, and facial clefts. These findings suggest that BSA is caused by a combination of genetic, environmental, and developmental factors affecting the embryo in the early stages of pregnancy. Studying these cases in animals could help scientists to better understand how these complex birth defects occur and how they relate to similar conditions in humans.",
+      "journal": "Animals",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Bodies and Borders in Geetanjali Shree?s The Tomb of Sand",
+      "url": "https://www.semanticscholar.org/paper/a8ac557dbe38af0532a8b65a8d484bbe1521ce1c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-27T00:00:00",
+      "date_fetched": "2026-03-04T12:32:25.065248",
+      "doi": "10.21275/sr25113110313",
+      "authors": [
+        {
+          "name": "Megha Patil",
+          "author_id": "2341346283",
+          "affiliation": null
+        },
+        {
+          "name": "Stella Steven",
+          "author_id": "2341419742",
+          "affiliation": null
+        }
+      ],
+      "abstract": ": It is an undeniable fact that over years more and more borders, barriers, divisions, groups have emerged between countries, within countries, states, religions, societies, generations, genders, homes and more. These borders have always been legitimized or governed by either state repressive apparatuses or ideological repressive apparatuses which always go unquestioned. Geetanjali Shree writes, \u201cAnything worth doing transcends boundaries\u201d. Shree\u2019s novel Ret Samadhi (Hindi) translated into English as The Tomb of Sand by Daisy Rockwell has created history by being the first South Asian novel to win the International Booker Prize. It focuses on an octogenarian, Ma, who is seen to have lost the will to live in the beginning of the novel after her husband\u2019s death, sheds away from the conventional roles she has been playing that of a wife, mother, aunt and takes on a path of self-discovery leaving behind all the layers one by one that has ever defined her, stands on the threshold, traversing borders. Ma\u2019s embarkment of journey to Pakistan without a visa confronts her with several questions from the Pakistani officials at the border. Ma\u2019s answers to the questions reveal a new gaze of what a border should be further questioning the curtailment of individual\u2019s freedom because of increased polarization and of borders and boundaries being legitimized by institutional violence. The present paper tries to look at how bodies (especially that of a woman) transgress crossing boundaries that are laid down to them not only by the patriarchal system within but also boundaries between nations. It also looks at how from times immemorial a country\u2019s border has never been defined though a woman\u2019s gaze. The paper also attempts to look at how language, body, border and memory all become \u2018doors\u2019 through which a country as a whole and characters transcend anew in the novel.",
+      "journal": "International Journal of Science and Research (IJSR)",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "A pilot randomized controlled trial of an online mindfulness-based intervention to reduce patient anxiety before a first-time screening colonoscopy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41774215/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-03T00:00:00",
+      "date_fetched": "2026-03-04T12:32:57.965985",
+      "doi": "10.1007/s10552-026-02129-0",
+      "authors": [
+        {
+          "name": "Brent Emerson",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Angela De S\u00e1",
+          "name": "Paul L Reiter",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Louis S P Jenkins",
+          "name": "Abigail B Shoben",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ramprakash Kaswa",
+          "name": "Maryanna Klatt",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Klaus B Von Pressentin",
+          "name": "Subhankar Chakraborty",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mira L Katz",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Family physicians are uniquely positioned to lead efforts to tackle Southern Africa's persistent primary healthcare challenges, yet such leadership is often perceived as a top-down process rather than a tangible presence. Drawing on insights from the 2025 South African Academy of Family Physicians (SAAFP) conference workshop, we synthesised leadership behaviours, innovative curricula, and workplace learning approaches, aligning with Entrustable Professional Activities and national unit standards. We outline a 5-year roadmap for clinical trainers, programme leaders, and the SAAFP, including: creating psychologically safe learning environments; embedding 360\u00b0 feedback; normalising mindfulness and reflective practice; and leveraging mentorship for early-career family physicians.Contribution:\u00a0This Open Forum contributes to the\u00a0South African Family Practice\u00a0journal's 45-year special collection by reflecting on significant milestones and proposing future directions for clinical leadership and governance. Practical strategies are offered to embed leadership presence, mentorship, and a culture of feedback into training programmes and health system strengthening activities.",
-      "journal": "South African family practice : official journal of the South African Academy of Family Practice/Primary Care",
+      "abstract": "PURPOSE: Anxiety before a first-time screening colonoscopy is a commonly reported patient-level barrier to completing colorectal cancer (CRC) screening. This pilot study evaluated the feasibility, acceptability, and preliminary efficacy of \"For peace of mind. Get Screened,\" a brief online mindfulness-based intervention (MBI) to reduce anxiety before a first-time screening colonoscopy. METHODS: Participants (n\u2009=\u2009100) were randomized (October 2023-July 2024) to usual care or the MBI (daily CRC screening infographics guided by the Protection Motivation Theory, mindfulness infographics, and brief mindfulness meditations based on Monitor and Acceptance Theory) starting five days before their scheduled colonoscopy. Anxiety was assessed using the State-Trait Anxiety Inventory-State Subscale (STAI-S) in the endoscopy suite's waiting room. RESULTS: Participant retention was 83% due to patient and health system issues. Participant satisfaction with the MBI was high (mean: 6.40 out of 7). The MBI group had an average STAI-S score 2.54 points lower than the usual care group, though this difference was not statistically significant (32.24 vs. 34.78; p\u2009=\u20090.21). However, among participants not lost to follow up (n\u2009=\u200983), the MBI group had significantly lower waiting room STAI-S scores compared to the usual care group (31.52 vs. 35.21; p\u2009=\u20090.02). Clinical outcomes did not differ between groups. CONCLUSION: Feasibility of the MBI was partially limited due to logistical issues. Findings support MBI acceptability and suggest that a brief MBI has the potential to decrease anxiety prior to a first-time colonoscopy. A larger randomized controlled trial is needed to further examine the efficacy of this intervention. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov NCT06233253.",
+      "journal": "Cancer causes & control : CCC",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -245,42 +585,168 @@
       "matched_keywords": []
     },
     {
-      "title": "Open your eyes for others' worldviews: How mindfulness meditation at home shapes next-day perspective taking and employees' functioning.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41770140/",
+      "title": "Childhood Sexual Abuse, Adolescent-Adult Sexual Assault, and Revictimization: Do Emotion Regulation and Mindfulness Buffer Associations with Post-Traumatic Stress Symptoms?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41776958/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-03T00:00:00",
+      "date_fetched": "2026-03-04T12:32:57.966721",
+      "doi": "10.1080/10538712.2026.2634242",
+      "authors": [
+        {
+          "name": "Sharon S Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica A Blayney",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anna E Jaffe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cynthia A Stappenbeck",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "William H George",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kelly C Davis",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Women with a history of childhood sexual abuse (CSA) and/or adolescent-adult sexual assault (ASA) can have different trauma-related symptom presentations in early adulthood, but the role of coping resources in mitigating victimization-related distress is understudied. Thus, the present study examined women with sexual victimization histories by developmental period (CSA-only, ASA-only, or CSA\u2009+\u2009ASA) and the role that mindfulness and emotion regulation play as coping resources that may buffer against post-traumatic stress. Participants were 247 cisgender community women aged 21-30 recruited for a larger study on high-risk drinking and sexual behaviors. Negative binomial regression models revealed significant differences in PTSS severity by victimization pattern: CSA\u2009+\u2009ASA was associated with the greatest PTSS severity, followed by ASA-only, and CSA-only reporting the lowest severity. Though no buffering effects were found, emotion regulation and mindfulness were directly associated with lower PTSS severity across all victimization patterns. Results indicate the need for targeted interventions for those who have experienced both CSA and ASA. Findings also suggest that improving mindfulness and emotion regulation may be beneficial, though not sufficient, for recovery following sexual victimization regardless of victimization pattern. Future interventions could prioritize increasing coping resources to reduce distress for victim-survivors of sexual victimization.",
+      "journal": "Journal of child sexual abuse",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Tai Chi and wellness for Gulf War Illness: Combined analysis of in-person and remote randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41774973/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-02-25T00:00:00",
+      "date_fetched": "2026-03-04T12:32:57.966953",
+      "doi": "10.1016/j.jpsychires.2026.02.045",
+      "authors": [
+        {
+          "name": "Craig P Polizzi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Thomas M Crow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria Ting",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cameron Busser",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anica Pless Kaiser",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chenchen Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "DeAnna L Mori",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barbara L Niles",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Veterans with Gulf War Illness (GWI) experience a wide range of physical, neurological, cognitive, and mood complications that can lead to distressing psychological symptoms. Despite its debilitating impact on physical and psychological functioning, effective treatment options for GWI remain limited. Tai Chi, an ancient Chinese mind-body practice, may be efficacious in reducing GWI symptoms and associated mental health challenges. The present study combined data from two randomized controlled trials (RCTs) examining a Tai Chi group intervention relative to a Wellness comparison group intervention. Primary outcomes were GWI symptoms (health symptoms, pain interference, fatigue, and depressed mood), with secondary outcomes including anxiety, stress, sleep disturbances, mindfulness, health-related quality of life, and PTSD symptoms. We also evaluated whether treatment delivery modality (in-person versus remote) influenced outcomes. METHODS: Participants were 114 veterans with GWI and chronic pain. They completed self-report measures at baseline, posttreatment, 3-month follow-up, and 9-month follow-up. RESULTS: Preliminary multilevel modeling indicated that treatment modality (in-person versus remote) did not significantly influence outcomes. Both Tai Chi and Wellness interventions were associated with improvements in health symptoms, pain interference, depression, anxiety, mindfulness, mental and physical health-related quality of life, and PTSD symptoms. CONCLUSIONS: Tai Chi and Wellness group interventions may demonstrate similar efficacy in improving GWI symptoms and mental health outcomes among veterans with GWI and chronic pain. These interventions can be delivered in-person and remotely with comparable therapeutic benefits, offering flexible and accessible treatment options for this underserved population.",
+      "journal": "Journal of psychiatric research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Correction: Breath-Focused Mindfulness and Compassion Training in Parent-Child Dyads: Pilot Intervention Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41773663/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.374964",
-      "doi": "10.1037/ocp0000426",
+      "date_fetched": "2026-03-04T12:32:57.967478",
+      "doi": "10.2196/89650",
       "authors": [
         {
-          "name": "Charlotte Hohnemann",
+          "name": "Satish Jaiswal",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Vera M Schweitzer",
+          "name": "Jason Nan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fabienne Aust",
+          "name": "Seth Dizon",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Corinna Peifer",
+          "name": "Jessica O Young",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Stefan Diestel",
+          "name": "Suzanna R Purpura",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "James K Manchanda",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dhakshin Ramanathan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dennis J Kuo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jyoti Mishra",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Can a brief meditation in the evening reshape our understanding of others at work during the next day, thereby enhancing the actor's performance and motivation? To address this question, we examine spillover effects of a brief meditation in the evening on next-day extra-role performance, in-role performance, and work engagement, considering perspective taking as explaining mechanism. Sixty-four participants from different sectors in Germany took part in our within-person field experiment over 10 days, receiving a 7-min mindfulness intervention on 5 days and an active control intervention on the other days. Our results supported a positive effect of the mindfulness intervention on next-day perspective taking, while the control intervention showed no effect. In turn, perspective taking predicted day-specific extra-role performance, in-role performance, and work engagement. The mindfulness intervention exerted significant indirect effects on all outcomes via perspective taking. These results help to clarify how an evening meditation enhances our understanding of others at work, improving performance and motivation. They further support employees in making an informed decision about whether they want to engage in evening meditation. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "journal": "Journal of occupational health psychology",
+      "abstract": null,
+      "journal": "JMIR formative research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -288,810 +754,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Enhancing Compassion to Self and Others Through the Use of a Compassion Training Program in End-of-Life Research Professionals.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41766328/",
+      "title": "Network meta-analysis of non-pharmacological interventions for psychiatric symptoms among individuals with substance use disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41777097/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-01T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.375326",
-      "doi": "10.1177/10966218251414277",
+      "date_published": "2026-03-03T00:00:00",
+      "date_fetched": "2026-03-04T12:32:57.967694",
+      "doi": "10.1080/10550887.2026.2626423",
       "authors": [
         {
-          "name": "Niamh Higgins",
+          "name": "Hongjie Li",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ali Ahmed",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Whitney Tran",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rachel Lau",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Joyce Ching-Jung Lai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sara Schairer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sara Gianella",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karine Dub\u00e9",
+          "name": "Xu Gao",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: End-of-life HIV research places emotional demands on staff, yet evidence for brief compassion training to enhance resilience is limited. OBJECTIVES: To assess the feasibility and impact of a four-week compassion training program on self-compassion and professional well-being. DESIGN: Prospective, single-group, repeated-measures pilot with surveys at baseline (T1), post-program (T2), and 12-week follow-up (T3). SETTING/PARTICIPANTS: Twenty-four professionals from the UC San Diego Last Gift program (83% women, 63% aged 25-44 years). MEASUREMENTS: Validated scales assessed self-compassion, compassion for others, professional quality of life, and work climate; changes were analyzed with Friedman and Bonferroni-adjusted Wilcoxon tests. RESULTS: Over-identification ( CONCLUSIONS: A brief compassion program was feasible and improved over-identification and work-climate measures, supporting further evaluation of compassion support training in palliative and end-of-life research settings.",
-      "journal": "Journal of palliative medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Self-Compassion as a Buffer of Stress and Predictor of Emotion Regulation Among Indian Postgraduate Medical Trainees: A Cross-Sectional Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41773369/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.375370",
-      "doi": "10.7417/CT.2026.2008",
-      "authors": [
-        {
-          "name": "Alluri Swetha Reddy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "H Arjun",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C Pradeep",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "B Lakshmi Dorai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "P Periasamy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Choudhary Arbind Kumar",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Postgraduate medical training is characterized by high stress and emotional demands, often leading to burnout and difficulties in regulating emotions. Identifying protective psychological factors that can mitigate these effects is critical for trainee well-being. This cross-sectional study examined the role of self-compassion in relation to stress and emotion regulation among 80 postgraduate medical trainees at a teaching hospital in Tamil Nadu, India. Participants completed a sociodemographic proforma, the Self-Compassion Scale (SCS), the Difficulties in Emotion Regulation Scale (DERS), and the Perceived Stress Questionnaire (PSQ). Reliability analysis showed excellent internal consistency for both SCS (\u03b1=0.89) and DERS (\u03b1=0.91). Correlation analysis revealed that self-kindness and mindfulness were significantly negatively associated with emotion dysregulation, while self-judgement and over-identification showed positive associations. In multivariable regression, self-kindness (\u03b2=-0.24, p=0.012) and mindfulness (\u03b2=-0.22, p=0.019) independently predicted lower dysregulation, whereas self-judgement (\u03b2=+0.27, p=0.006) predicted higher dysregulation, after adjusting for age, gender, marital status, and substance use. Mediation analysis using bootstrapping demonstrated that self-compassion partially mediated the association between stress and dysregulation, accounting for approximately 32% of the total effect. These findings highlight self-compassion as a robust psychological resource that not only predicts emotion regulation but also buffers the impact of stress in medical trainees. Incorporating compassion-based training into postgraduate curricula may therefore represent a feasible strategy to promote resilience, reduce burnout, and support sustainable professional development.",
-      "journal": "La Clinica terapeutica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effect of Mindfulness-Based Stress Reduction Activities on Family Caregiver Burden in Patients With Dementia-A Pilot Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41766096/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": null,
-      "date_fetched": "2026-03-03T12:33:47.375762",
-      "doi": "10.1097/NHH.0000000000001426",
-      "authors": [
-        {
-          "name": "Jala Sireesha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jayasree Manukinda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sudhindra Vooturi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sai Sirisha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shanmukhi Somayajula",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sita Jayalakshmi",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Progressive functional decline and behavioral disturbances in people with dementia place sustained emotional and practical demands on family caregivers, often resulting in chronic stress, anxiety, depression, and a high perceived caregiving burden. This pilot study examined the effects of an 8-week online Mindfulness-Based Stress Reduction (MBSR) program on psychological burden and well-being among family caregivers of people with dementia. Data from 39 caregivers (78.0%) who completed the intervention were analyzed. Participants had a mean age of 53.18 \u00b1 13.33 years, with 30.8% being men; 61.5% were adult children and 38.5% were spouses or siblings of the person with dementia. At baseline, more than half of the caregivers (53.8%) reported moderate to severe psychological distress. Following the intervention, caregivers demonstrated significant improvements, including reduced perceived burden, lower levels of depression, anxiety, and stress, and improved functional engagement. These findings indicate that online MBSR is a feasible and accessible intervention that may meaningfully reduce psychological burden among family caregivers of people with dementia. Given its virtual delivery and low resource requirements, MBSR has the potential to be integrated into routine caregiver support services, particularly for those with limited access to in-person interventions. Further research involving larger and more diverse caregiver populations is needed to confirm the durability of these benefits and to guide broader implementation.",
-      "journal": "Home healthcare now",
-      "year": null,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Correction: Investigating the effectiveness of structured mindfulness sessions in mitigating burnout among final-year dental students: A mixed-methods analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41770714/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.375801",
-      "doi": "10.1371/journal.pone.0344206",
-      "authors": [
-        {
-          "name": "Aliya Islam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Javeria Rehman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sumbul Mujeeb",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rubab Jawed",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Unaiza Hashmi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tazeen Saeed Ali",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "[This corrects the article DOI: 10.1371/journal.pone.0342017.].",
-      "journal": "PloS one",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness-based interventions for pain, anxiety, depression, and quality of life in patients receiving palliative care: a meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41767197/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-26T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.376021",
-      "doi": "10.1177/17449871261419719",
-      "authors": [
-        {
-          "name": "Ice Septriani Saragih",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dame Elysabeth Tuty Arna Uly Tarihoran",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Huey-Ming Tzeng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ita Daryanti Saragih",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Palliative care addresses not only physical symptoms but also emotional and spiritual suffering in patients with advanced disease. Mindfulness-based interventions (MBIs) may help alleviate symptoms and enhance quality of life. Previous reviews have explored MBIs' efficacy, but evidence remains inconclusive. OBJECTIVE: To systematically evaluate the effects of MBIs on pain, anxiety, depression, and quality of life in patients receiving palliative care. METHODS: Six databases and grey literature were searched from databases inception to 22 May 2025. Outcomes included pain, anxiety, depression, and quality of life. Meta-analyses with forest plots estimated pooled standardised mean differences (SMDs). Egger's test assessed publication bias, and leave-one-out sensitivity analysis evaluated result stability. RESULTS: Thirteen trials were included. MBIs significantly reduced anxiety (SMD\u2009=\u2009-0.68, 95% CI\u2009=\u2009-1.15 to -0.21,  CONCLUSIONS: MBIs appear to alleviate anxiety and depression in palliative care patients, highlighting their potential as supportive interventions. Further research is warranted to clarify effects on pain and quality of life.",
-      "journal": "Journal of research in nursing : JRN",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "From Preservation to Creation: The Expanding Frontier of Fertility Preservation - Proceedings of the 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41766597/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.376382",
-      "doi": "10.52054/FVVO.2026.260126",
-      "authors": [
-        {
-          "name": "Alexandre Vall\u00e9e",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ertan Saridogan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Michel D Mueller",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carlos Calhaz-Gorges",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christine Wyns",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marie-Madeleine Dolmans",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Grigoris Grimbizis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Claudia Spits",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christiani A Amorim",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Verena Nordhoff",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Claus Yding Andersen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mats Br\u00e4nnstr\u00f6m",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gaby Moawad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jean-Marc Ayoubi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anis Feki",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Fertility preservation (FP) has become an essential dimension of modern medicine, reflecting the paradigm shift from survival alone to survivorship. Once confined to oncology, FP now spans a broad spectrum of medical, social, and technological contexts. Surgical innovations, including fertility-sparing surgery and ovarian transposition, allow reproductive potential to be safeguarded without compromising oncological safety. Cryobiology has been transformed by the transition from slow-freezing to vitrification, establishing oocyte and embryo cryopreservation as gold-standard approaches with outcomes comparable to fresh cycles. Alongside onco-fertility, \"social freezing\" has emerged as a tool of reproductive autonomy, though it raises counselling and ethical challenges related to age, expectations, and equity of access. Resilience in FP also requires psychosocial support: while emotional distress is common, evidence shows that interventions such as mindfulness and structured counselling improve mental health even if conception outcomes remain unchanged. In parallel, ovarian tissue cryopreservation for patients unable to undergo stimulation and immature testicular tissue banking extend possibilities, with early clinical successes highlighting future translational pathways. Uterus transplantation has emerged as the first-line treatment of congenital absence of a uterus and can restore fertility after a hysterectomy performed for cervical cancer. Looking ahead, regenerative approaches, including stem-cell-based strategies, 3D bio-printing of genital tissues, tissue engineering, and artificial uterus systems, signal the next frontier, while underscoring the need for further research as well as robust ethical, legal, and safety frameworks. FP thus represents a multidisciplinary and rapidly evolving field that integrates oncology, reproductive medicine, gynaecology, transplantation surgery, psychology, and laboratory disciplines. Its trajectory is defined by both technological innovation and the imperative to align medical progress with patient autonomy, equity, and long-term quality of life.",
-      "journal": "Facts, views & vision in ObGyn",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The effect of mindfulness meditation nursing on the outcomes of in vitro fertilization-embryo transfer.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41773318/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.376596",
-      "doi": "10.29063/ajrh2026/v30i4.7",
-      "authors": [
-        {
-          "name": "Xiuyun Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lei Ding",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigated the impact of mindfulness meditation (MM) nursing on outcomes of in vitro fertilization-embryo transfer (IVF-ET). A total of 100 infertile patients undergoing IVF-ET were randomly assigned to either a conventional care group or an MM group, with 50 patients in each. While both groups received routine nursing, the MM group received additional MM-based nursing interventions. Compared to the conventional group, the MM group showed significantly lower postoperative pain scores (VAS) and better psychological outcomes, as evidenced by improvements in anxiety (SAS), depression (SDS), sleep quality (PSQI), and overall quality of life (WHO-QOL-BREF) (all P<0.001). Moreover, the MM group had higher numbers of punctured follicles and retrieved oocytes (P<0.001), more embryos transferred on day 3 post-retrieval (P=0.047), and a higher pregnancy rate (P=0.045). These findings suggest that incorporating MM into nursing care during IVF-ET can effectively reduce psychological stress, enhance well-being, and improve clinical outcomes.",
-      "journal": "African journal of reproductive health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Employee daily workload and daily procrastination: Examining a curvilinear relationship moderated by trait mindfulness and its effects on performance and well-being.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41770139/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.376635",
-      "doi": "10.1037/ocp0000427",
-      "authors": [
-        {
-          "name": "Wenfei Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiao-Min Xu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xizhi Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bettina S Wiese",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Previous research on the relationship between workload and procrastination has produced conflicting theoretical explanations and inconsistent findings, and the role of individual differences in shaping this relationship remains largely unexplored. The present study addresses these limitations by investigating a curvilinear effect in the daily experience of workload and daily procrastination and including trait mindfulness as a person-related boundary condition. Using a daily diary design, we collected data from 159 full-time employees via two surveys per day over two consecutive working weeks and obtained 2,626 daily observations (i.e., 1,352 work-time surveys and 1,274 after-work surveys). Results of the multilevel analysis indicated a significant interaction between daily workload and trait mindfulness on daily procrastination. Specifically, employees with high trait mindfulness show a significant U-shaped curve, whereas those with lower trait mindfulness levels show a significant inverted U-shaped relationship. Furthermore, these effects indirectly influence both performance and daily well-being through their impact on daily procrastination. Theoretical and practical implications are discussed. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "journal": "Journal of occupational health psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Codesigning a mindfulness-based intervention with community violence intervention workers and youth: The power of participatory research.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41770164/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.376716",
-      "doi": "10.1037/ort0000916",
-      "authors": [
-        {
-          "name": "Caitlin Elsaesser",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeffrey Proulx",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maritza Vasquez Reyes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jolaade Kalinowski",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jacquelyn Santiago",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vivien Roman-Hampton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C L Dominique Courts",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kim M Gans",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Youth living in marginalized neighborhoods and the adults who support them experience a burden of high stress, including exposure to firearm violence, as a result of targeted structural violence. Multigenerational interventions that foster well-being are vital given the potential for caring adults to mitigate the effects of violence on youth. Guided by a trauma-informed, community-based participatory research approach, and the \"adapt and evaluate\" framework, the present study details the process by which teens impacted by gun violence, community violence intervention (CVI) workers, and university researchers collaborated to cocreate a multigenerational, culture-centered mindfulness-based intervention (MBI). Researchers collaborated with youth coresearchers to conduct focus groups with adolescents (",
-      "journal": "The American journal of orthopsychiatry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Repeated virtual reality sessions in fibromyalgia: a prospective observational study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41766477/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.376947",
-      "doi": "10.1080/17581869.2026.2635978",
-      "authors": [
-        {
-          "name": "Jean-Marie Amodeo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Frederic Berthier",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cindy Biehlmann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brigitte Piazza",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "AIMS: Fibromyalgia (FM) is a chronic pain syndrome with limited effective treatments. This study evaluated virtual reality (VR) as an adjunct therapy. METHODS: Participants used the HealthyMind program delivered via a Pico G2 4K Enterprise headset in eight supervised, seated 20-minute sessions over four weeks, featuring nature relaxation, guided imagery, and meditation. Primary outcome was Pain Numerical Rating Scale (NRS) at one month (M1); secondary outcomes included PCS, PSEQ, and HADS. RESULTS: Fifty participants completed baseline and M1 assessments. Pain significantly decreased from 6.8\u2009\u00b1\u20091.5 to 5.8\u2009\u00b1\u20091.9 (-14.8%,  CONCLUSION: Repeated HealthyMind VR use was associated with reduced pain and improved psychological outcomes in FM patients. CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is (NCT05567861).",
-      "journal": "Pain management",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Burnout in healthcare professionals.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41773402/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377035",
-      "doi": "10.4102/safp.v68i1.6235",
-      "authors": [
-        {
-          "name": "Mmaphefo M Maluleka",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Felicity N Bulo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arun Nair",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Klaus B Von Pressentin",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Burnout is a work-related syndrome recognised by the World Health Organization and included in the International Classification of Diseases 11th revision (ICD-11) as resulting from chronic workplace stress that has not been successfully managed. Characterised by emotional exhaustion, depersonalisation, and a reduced sense of professional accomplishment, it predominantly affects healthcare professionals exposed to sustained emotional and organisational demands at the workplace. Global evidence indicates that nearly half of practising clinicians experience burnout, with higher prevalence in emergency medicine, anaesthesiology, surgical subspecialities, radiology, internal medicine, family medicine and primary healthcare, as well as among registrars and students. Burnout is a syndrome that is closely associated with other mental health conditions, such as depression, anxiety, substance use, and increased suicide risk, while compromising patient safety through elevated rates of diagnostic and medication errors. Contributing factors include excessive workloads, administrative burden, limited autonomy, poor work-life balance, and misalignment of personal and institutional values. Effective management requires a dual focus: individual strategies such as mindfulness, exercise, and stress-management programmes, and organisational reforms including workload optimisation, streamlining electronic documentation, leadership development, and value alignment. When recognised early and addressed comprehensively, burnout is reversible with improved clinician well-being and enhanced patient outcomes. A coordinated response from healthcare institutions, professional councils, and policymakers is essential to safeguard the workforce and sustain high-quality health services. This article aims to provide readers with evidence-based strategies to help themselves or to support a colleague who may be experiencing burnout.",
-      "journal": "South African family practice : official journal of the South African Academy of Family Practice/Primary Care",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effects of static and dynamic canine-assisted intervention in young adults: sex differences in hormonal, EEG, HRV, and emotional responses.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41771926/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377077",
-      "doi": "10.1038/s41598-026-37142-5",
-      "authors": [
-        {
-          "name": "Yujin Song",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Youngwook Jung",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kayoung Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kyongwon Yoo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Youngtae Heo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Minjung Yoon",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "As mental health disorders like depression and anxiety rise, animal-assisted intervention (AAI) has emerged as a promising complementary approach, recognized for its psychological benefits. However, the underlying physiological mechanisms remain largely unexplored. The present study aims to investigate the impact of animal-assisted intervention on physiological, psychological changes and self-reported measurements. Thirteen young adults participated in three activities: meditation, static interaction with a dog, and dynamic interaction with a dog. Salivary hormone levels were measured by ELISA. Brain activity was recorded using electroencephalography (EEG).\u00a0Cardiac activity was recorded using electrocardiography (ECG) for heart rate variability (HRV) analysis. Participants' emotional states were assessed using the semantic differential method (SDM). Results revealed sex-specific physiological and neurophysiological responses to AAI.\u200b In females, evidence for changes in oxytocin and cortisol was not consistent after multiplicity adjustment, and the point estimate for cortisol following dynamic activity suggested a decrease, although uncertainty remained. The EEG analyses indicated activity-related differences primarily in relative alpha power across multiple electrodes with some sex effects, whereas low-beta and high-beta effects were minimal after correction. Furthermore, SDM scores demonstrated emotional improvement following static and dynamic activities. These findings suggest that physiological and psychological responses after AAI are dependent on both sex and activity type.",
-      "journal": "Scientific reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "What is the Evidence on Lifestyle Interventions for the Symptom Management of Pelvic Pain in Women With Endometriosis or Adenomyosis? A Scoping Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41767335/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-02-24T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377116",
-      "doi": "10.1177/15598276261419770",
-      "authors": [
-        {
-          "name": "Bethany Hough",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Natalie Drever",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sam Manger",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Endometriosis and adenomyosis are chronic, debilitating, inflammatory conditions affecting women of reproductive age. Current management primarily focuses on pharmacologic therapies and surgical interventions; however, many individuals adopt self-directed lifestyle modifications despite limited evidence-based guidance to support these approaches. This scoping review aimed to collate and evaluate the available evidence for lifestyle interventions in the management of pelvic pain among women with endometriosis and/or adenomyosis, with consideration of key lifestyle medicine domains including nutrition, physical activity, mind-body practices, social connection, sleep, substance cessation, and self-management. The review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR). Electronic databases (MEDLINE [OVID], CINAHL, and Scopus) were systematically searched to identify relevant interventional studies. Following abstract and full-text screening, 21 studies met inclusion criteria. Included studies demonstrated substantial heterogeneity in methodology, sample size, intervention type, and duration of follow-up. Only one study specifically included participants with adenomyosis. Findings suggested potential benefits of dietary modification, physical activity, mindfulness-based interventions, yoga, digital health programs, and transcutaneous electrical nerve stimulation (TENS) for pelvic pain management. However, small sample sizes and methodological variability limit the strength of conclusions. Overall, the current evidence base remains limited and underscores the need for rigorously designed interventional studies. Future research should incorporate broader outcome domains, including quality of life, fertility, and mental health, and should more comprehensively address lifestyle domains such as sleep and substance use. Greater inclusion of individuals with adenomyosis is also essential to inform evidence-based lifestyle recommendations in this population.",
-      "journal": "American journal of lifestyle medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Empowering Mothers: The Effects of Audio-Guided Meditation on Resilience and Spiritual Well-Being of Mothers of Children Diagnosed with Cancer in T\u00fcrkiye-A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41772279/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377397",
-      "doi": "10.1007/s10943-026-02601-w",
-      "authors": [
-        {
-          "name": "Birg\u00fcl Erdo\u011fan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eda \u015eim\u015fek \u015eahin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tu\u011fba \u00d6z",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "The diagnosis of childhood cancer profoundly affects family life, and mothers who typically assume the primary caregiving role are particularly vulnerable to reduced resilience and diminished spiritual well-being. This randomized controlled trial aimed to evaluate the effect of audio-guided meditation on resilience and spiritual well-being among mothers of children aged 6-18\u00a0years with oncology diagnoses. The study was conducted between April and August 2024 with 60 mothers in a pediatric hematology-oncology clinic in Western T\u00fcrkiye. Data were collected using the Descriptive Information Form, the Connor-Davidson Resilience Scale-Short Form (CD-RISC), and the Spiritual Well-Being Scale (SWBS). The audio-guided meditation group participated in four weeks of daily audio-guided meditation, while the control group received no intervention. Most participants were aged 26-35\u00a0years (33.0%), half were high school graduates (50%), and 47.5% had another child. Leukemia was the most common diagnosis (30.0%), and 51.7% of children had been hospitalized for more than six months. The audio-guided meditation group showed significant increases in mean CD-RISC and SWBS scores at posttest compared with baseline (p\u2009<\u20090.05), whereas no significant changes were observed in the control group (p\u2009>\u20090.05). Significant improvements were also noted in the SWBS subscales of Transcendence, Harmony with Nature, and Anomie, with posttest Anomie scores differing significantly between groups (p\u2009=\u20090.010). These findings suggest that audio-guided meditation may be a feasible, low-cost nursing intervention to enhance resilience and spiritual well-being among mothers of children with oncology diagnoses in pediatric hematology-oncology settings. Integrating brief, structured audio-guided meditation into routine psychosocial care may help nurses support mothers' coping resources and holistic well-being. Further research is needed to confirm its effectiveness across different clinical settings and caregiving contexts. Several limitations should be acknowledged regarding this trial. Trial registration: The clinical trial was registered (ClinicalTrials.gov: NCT06484283). Registered on 7th June 2024.",
-      "journal": "Journal of religion and health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Mediating Effects of Anxiety and Depression on the Relationship Between Mindfulness Levels and Sleep Quality in Acute Leukemia Patients: A Cross-Sectional Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41771724/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-01T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377738",
-      "doi": "10.1016/j.soncn.2026.152145",
-      "authors": [
-        {
-          "name": "Yuqin Luo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qian You",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuan Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fengjiao Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mei Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yingli Wang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: The purpose of this study was to explore the relationships between mindfulness, sleep quality, anxiety, and depression in adult leukemia patients, and to test whether anxiety and depression play a mediating role between mindfulness level and sleep quality. METHODS: This study was a cross-sectional study, conducted in China from June 2023 to December 2024. A total of 200 patients diagnosed with acute leukemia (AL) were surveyed. Data collection utilized the Mindful Attention Awareness Scale, Pittsburgh Sleep Quality Index (PSQI), and Hospital Anxiety and Depression Scale. Statistical analyses employed SPSS 27.0 for descriptive and inferential statistics, and AMOS 24 for mediation analysis. RESULTS: The mean scores for mindfulness levels, sleep quality, anxiety, and depression were (63.90 \u00b1 14.40), (7.88 \u00b1 3.94), (5.77 \u00b1 3.89), and (5.55 \u00b1 3.99), respectively. Notably, the mindfulness level exhibited a significant negative correlation with the PSQI score, as well as with the levels of anxiety and depression (r = -0.436, -0.348, -0.179, respectively; all P < .01). Moreover, the PSQI scores were positively correlated with both anxiety and depression (r = 0.471, 0.395, respectively; P < .01), and anxiety and depression were positively correlated with each other (r = 0.671, P < .01). Regarding the impact on sleep quality, the direct effect value of mindfulness was -0.179, while the indirect effect values of anxiety and depression were -0.174 and -0.082, respectively. These indirect effects accounted for 40.00% and 18.85% of the total effect, respectively. CONCLUSIONS: The results of this study suggest that the mindfulness levels, sleep quality, and the states of anxiety and depression among AL patients all require improvement. Mindfulness was shown to directly affect patients' sleep quality and can also exert an indirect influence through the pathways of anxiety and depression. IMPLICATIONS FOR NURSING PRACTICE: In clinical practice, in addition to taking measures to alleviate the emotional distress experienced by these patients, enhancing their level of mindfulness emerges as a viable and promising approach to significantly improve their sleep quality. Nurses should integrate mindfulness-based interventions into the daily care routine of AL patients, providing structured programs to help patients cultivate mindfulness skills. Additionally, establishing a regular assessment mechanism for patients' mindfulness levels, anxiety, depression, and sleep quality can enable nurses to adjust care plans in a timely manner, ensuring that interventions are personalized and effective in promoting patients' psychological well-being and sleep quality.",
-      "journal": "Seminars in oncology nursing",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Simultaneous enhancement of stimulus-induced and stimulus-free gamma in open-eye meditators.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41768527/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377821",
-      "doi": "10.1162/IMAG.a.1145",
-      "authors": [
-        {
-          "name": "Ankan Biswas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Srishty Aggarwal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kanishka Sharma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Supratim Ray",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Visual stimuli-induced \"narrowband\" gamma oscillations (30-70 Hz) are generated due to excitation-inhibition interactions and are linked to attention/binding. These oscillations attenuate with aging and neurodegeneration, potentially indicating declining inhibitory function. In contrast, meditation enhances endogenous stimulus-free gamma (power in a broad frequency range above 25 Hz). However, it remains unknown how meditation affects stimulus-induced gamma or its interaction with endogenous broadband gamma, which could reveal whether meditation mitigates age-related decline in inhibitory function. We recorded electroencephalography (EEG) from long-term meditators and their healthy matched controls, performing open-eye meditation while gamma-inducing stimuli were presented before, during, and after meditation. We found that stimulus-induced gamma, like stimulus-free gamma, was stronger in meditators. Interestingly, both gamma signatures co-existed during meditation but were unrelated and prominent in occipital and fronto-temporal regions, respectively. This indicates that these two gamma signatures have different mechanisms and may be modulated differently. Reconstructed cortical sources showed meditation-induced broadband gamma localized in fronto-temporo-parietal regions, which was stronger in the parietal areas of meditators. Stimulus-induced gamma was localized to occipital areas and was stronger in meditators. Further, the power spectral density (PSD) slope, which becomes shallower with aging, was steeper for meditators. We also recorded personality traits and mystic experience using self-reported questionnaires and found that meditators were more mindful, less stressed, and had more mystical experience than the controls, but none of these scores were correlated with gamma power. Meditation could boost inhibitory mechanisms, leading to stronger gamma and steeper PSDs, potentially mitigating age-related neural changes.",
-      "journal": "Imaging neuroscience (Cambridge, Mass.)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Adding Self-Care Complementary and Integrative Health (CIH) Therapies to Care for Chronic Pain-The Assessing Pain, Patient Reported Outcomes and Complementary Health (APPROACH) Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41771006/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-03T12:33:47.377913",
-      "doi": "10.1097/MLR.0000000000002295",
-      "authors": [
-        {
-          "name": "Steven B Zeliadt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Scott S Coggeshall",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Barbara Bokhour",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "A Rani Elwy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Benjamin Kligler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Claudia Der-Martirosian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ethan W Rosser",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marlena Shin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Joy Toyama",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Michelle L Upham",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaoyi Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stephanie L Taylor",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Health care systems and insurers are expanding coverage for practitioner-delivered and self-care complementary and integrative health (CIH) therapies for chronic pain. OBJECTIVES: To determine if combining practitioner-delivered and self-care CIH therapies (PD/SC-CIH) improves pain outcomes more than practitioner-delivered CIH (PD-CIH) therapies alone. RESEARCH DESIGN: Pragmatic nonrandomized trial. Structural nudges and the availability of CIH therapies were used as a surrogate to randomization. SUBJECTS: Of 3306 veterans with chronic musculoskeletal pain at 18 medical centers in the Veterans Health Administration between March 2021 and March 2023. MEASURES: PD-CIH therapies included acupuncture, chiropractic care, or massage therapy. Participants in the PD/SC-CIH arm also received yoga, mindfulness/meditation, and/or Tai Chi/Qigong. The primary outcome was the change in pain-related functional interference at 6 months. RESULTS: Pain interference improved in both arms (-0.62 and -0.70), with 39.5% and 41.1%, respectively, achieving clinically meaningful improvement with no difference between arms in improvement in pain interference: -0.12 (-0.28 to 0.05). At 6 months, more participants in the PD/SC-CIH arm reported their use of CIH therapies specifically led to perceived improvements across 4 global patient-centered measures: pain (11%; 5%-18%); fatigue (28%; 17%-40%); mental health (24%; 14%-35%); and overall well-being (27%; 18%-35%). CONCLUSIONS: Both approaches to offering CIH therapies were equally associated with improvements in pain interference among this large cohort with real-world CIH therapy engagement. More patients in the PD/SC-CIH arm perceived that their use of CIH therapies improved multiple health dimensions. Patients with chronic musculoskeletal pain should be encouraged to add self-care CIH therapies and health care systems should expand their availability. STUDY REGISTRATION: ClinicalTrials.gov Identifier: NCT05097521.",
-      "journal": "Medical care",
+      "abstract": "BACKGROUND: Comorbid depression and anxiety are prevalent among individuals with substance use disorders (SUDs), complicating treatment outcomes and increasing relapse risk. Poor efficacy and safety concerns often limit pharmacological options for these psychiatric symptoms. Non-pharmacological interventions (NPIs) have gained traction, yet their relative effectiveness remains uncertain. OBJECTIVE: This study aimed to evaluate the comparative efficacy of NPIs-including cognitive-behavioral therapy (CBT), mindfulness-based approaches, exercise therapy, and neuromodulation-in reducing depression, anxiety, and substance craving among individuals with SUDs. METHODS: A systematic search of PubMed, Embase, and Cochrane Library (up to February 2025) identified 24 RCTs (1,437 participants, 901 males) with DSM/ICD-diagnosed SUDs, following PRISMA-NMA guidelines (PROSPERO: CRD420250654383). Outcomes encompassed depressive/anxiety symptoms (primary) and craving (secondary). Data were analyzed  RESULTS: Exercise therapy ranked highest for alleviating depression (SUCRA: 90.77%; SMD -0.79, 95% CrI:-1.04 to -0.54  CONCLUSION: This NMA highlights varied efficacy among PS therapy, mindfulness-based, and exercise interventions in alleviating depression, anxiety, and craving in SUD patients. Results advocate integrating neuromodulatory and behavioral therapies into comprehensive addiction care. Future research should prioritize longitudinal mechanistic studies and personalized protocols to enhance treatment durability and recovery outcomes.",
+      "journal": "Journal of addictive diseases",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -1099,31 +782,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Doing Science and Philosophy On Drugs",
-      "url": "https://nautil.us/doing-science-and-philosophy-on-drugs-1271005/",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-03-02T13:00:00",
-      "date_fetched": "2026-03-03T12:33:47.670276",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Nick Hilden",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Nautilus",
-      "excerpt": "Justin Smith-Ruiu takes a philosophical and first-person look at psychedelics The post Doing Science and Philosophy On Drugs appeared first on Nautilus.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "psychedelics"
-      ]
-    }
-  ]
+  "articles": []
 }
