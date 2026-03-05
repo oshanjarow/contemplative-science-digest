@@ -1,583 +1,403 @@
 {
-  "generated_at": "2026-03-04T12:32:58.858385",
+  "generated_at": "2026-03-05T12:36:08.349723",
   "papers": [
     {
-      "title": "Effectiveness of mindfulness-based cognitive therapy for treating generalized anxiety disorder and the moderating influence of abuse during childhood: A randomized controlled trial.",
-      "url": "https://www.semanticscholar.org/paper/860372238d5364034c80aae3f9ddb1785a4b8821",
+      "title": "Longitudinal effects of interoceptive awareness training as an adjunct to medication treatment for opioid use disorder: A randomized clinical trial of Mindful Awareness in Body-oriented Therapy.",
+      "url": "https://www.semanticscholar.org/paper/67e61f87aa3f3f86d7aee6f5ebddb42f4bad9abf",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-03-04T12:32:09.121063",
-      "doi": "10.1016/j.jad.2025.02.103",
+      "date_published": "2025-08-01T00:00:00",
+      "date_fetched": "2026-03-05T12:35:19.898893",
+      "doi": "10.1016/j.drugalcdep.2025.112813",
       "authors": [
         {
-          "name": "Guangzheng Tang",
-          "author_id": "8504278",
+          "name": "Cynthia J. Price",
+          "author_id": "2278802339",
           "affiliation": null
         },
         {
-          "name": "Bijun Chen",
-          "author_id": "2325083493",
+          "name": "Kenneth C Pike",
+          "author_id": "2278803387",
           "affiliation": null
         },
         {
-          "name": "Manhua Wu",
-          "author_id": "145015732",
-          "affiliation": null
-        },
-        {
-          "name": "Lijun Sun",
-          "author_id": "2303074347",
-          "affiliation": null
-        },
-        {
-          "name": "Ruijuan Fan",
-          "author_id": "2348297478",
-          "affiliation": null
-        },
-        {
-          "name": "Ruisheng Hou",
-          "author_id": "103424598",
-          "affiliation": null
-        },
-        {
-          "name": "Wenshuang Liu",
-          "author_id": "2157138547",
-          "affiliation": null
-        },
-        {
-          "name": "Junjun Kang",
-          "author_id": "2348309276",
-          "affiliation": null
-        },
-        {
-          "name": "Yaoyao Li",
-          "author_id": "2284448009",
-          "affiliation": null
-        },
-        {
-          "name": "Mingxing Wang",
-          "author_id": "2348282172",
-          "affiliation": null
-        },
-        {
-          "name": "Ying Zhang",
-          "author_id": "2262443686",
-          "affiliation": null
-        },
-        {
-          "name": "Ningyan Lu",
-          "author_id": "2348345742",
-          "affiliation": null
-        },
-        {
-          "name": "Wanjun Guo",
-          "author_id": "2325119584",
-          "affiliation": null
-        },
-        {
-          "name": "Yamin Zhang",
-          "author_id": "2348584346",
-          "affiliation": null
-        },
-        {
-          "name": "Xiao-jing Li",
-          "author_id": "50079405",
-          "affiliation": null
-        },
-        {
-          "name": "Wei Wei",
-          "author_id": "1390707806",
-          "affiliation": null
-        },
-        {
-          "name": "Hua Yu",
-          "author_id": "2118681770",
-          "affiliation": null
-        },
-        {
-          "name": "Tao Li",
-          "author_id": "2318899204",
+          "name": "Joseph O Merrill",
+          "author_id": "2278803957",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND\nMindfulness-based cognitive therapy (MBCT) has emerged as a promising intervention for generalized anxiety disorder (GAD). This study evaluated MBCT's effectiveness for GAD and examined whether childhood maltreatment moderates its impact.\n\n\nMETHODS\nIndividuals with GAD were randomized to receive one of two 8-week interventions, either MBCT in-person or psychoeducation on-line (n\u202f=\u202f27 per group). At baseline and after 4 and 8\u202fweeks of intervention, both groups were assessed using the Beck Anxiety Inventory and Penn State Worry Questionnaire as well as several secondary questionnaires. Changes in the severity of anxiety and worry over time, as determined using linear mixed modeling, were compared between the two groups as a whole and among subgroups stratified according to type of maltreatment in childhood.\n\n\nRESULTS\nAmong all participants, severity of worry decreased significantly more in the MBCT group than in the psychoeducation group, whereas severity of anxiety decreased to a similar extent in the two groups. Among individuals who had experienced emotional abuse in childhood, MBCT reduced the severity of anxiety significantly more than psychoeducation. In fact, MBCT was significantly more effective against anxiety in individuals who had experienced emotional abuse than in those who had not.\n\n\nCONCLUSIONS\nMBCT might be effective in alleviating worry symptoms in GAD, while its effectiveness against anxiety symptoms appears to be influenced by the history of maltreatment, particularly emotional abuse.\n\n\nTRIAL REGISTRATION\nChiCTR2400087188 (Chictr.org).",
-      "journal": "Journal of Affective Disorders",
+      "abstract": "BACKGROUND AND OBJECTIVE\nMedication for opioid use disorder (MOUD) treatment outcomes can be limited by co-occurring mental and physical conditions, and new adjunctive interventions are needed to improve treatment. Mindful Awareness in Body-oriented Therapy (MABT) teaches interoceptive awareness skills to promote well-being. This study evaluated the longitudinal effects of MABT as an adjunct to MOUD treatment.\n\n\nMETHODS\nPatients stable on MOUD recruited from six community clinics were randomly assigned to MABT+MOUD or MOUD. Five assessments delivered over one year (N\u2009=\u2009303) examined abstinence from non-prescribed opioid and overall substance use (primary outcomes), and secondary outcomes of mental and physical health distress, interoceptive and mindfulness skills, and opioid craving. An intent-to-treat approach to examine change across time involved generalized estimating equations and linear mixed multilevel models.\n\n\nRESULTS\nThis sample demonstrated high percent days abstinence from non-prescribed opioids and other substances, resulting in no statistical between-group differences over time. Significant overall longitudinal effects for MABT+MOUD vs. MOUD were evident on secondary outcomes of physical symptom frequency, and interoceptive awareness. In addition, significant baseline to 12 month between-group improvements were evident on PTSD symptoms, emotion regulation difficulties, and mindfulness skills.\n\n\nCONCLUSIONS\nWhile stable on MOUD, this sample had high levels of chronic pain and mental health distress. The results highlight improved longitudinal health outcomes in response to MABT critical to support recovery on MOUD. The MABT completion rate and maintained use of MABT skills over 12 months demonstrates MABT implementation feasibility and positive intervention response as an adjunct to MOUD treatment. PREREGISTRATION CLINICALTRIALS.GOV: NCT04082637.",
+      "journal": "Drug and Alcohol Dependence",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "MBCT"
+        "awareness training"
       ]
     },
     {
-      "title": "Remodeling the Epigenome Through Meditation: Effects on Brain, Body, and Well-being.",
-      "url": "https://www.semanticscholar.org/paper/38cf5c8a014e9f0e500a58ee8ae77da62c6d558f",
+      "title": "The Role of Awareness Training in Recognising Child Neglect and Abuse Among Health\u2010Care Professionals",
+      "url": "https://www.semanticscholar.org/paper/c773bc1142d60172d4e9d0d7286963235bee10b9",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-03-04T12:32:19.466745",
-      "doi": "10.1007/978-3-031-75980-2_7",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-03-05T12:35:19.898926",
+      "doi": "10.1002/car.70105",
       "authors": [
         {
-          "name": "Sabrina Venditti",
-          "author_id": "2261709753",
+          "name": "Elif\u00a0Ezgi\u00a0Arslan \u015eahbaz",
+          "author_id": "2409421557",
+          "affiliation": null
+        },
+        {
+          "name": "Veli Duyan",
+          "author_id": "7728130",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Sub-cellular biochemistry",
-      "year": 2025,
+      "abstract": "\n \n \n \n Structured awareness training significantly improves health\u2010care professionals' ability to recognise and respond to child neglect and abuse.\n \n \n Continuous, multidisciplinary and interactive training supports early identification, mandatory reporting and effective child protection.\n \n \n Evaluation results showed measurable improvements in all awareness areas, underlining the importance of regular, practice\u2010based training in safeguarding children.\n \n \n",
+      "journal": "Child Abuse Review",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "body scan meditation"
+        "awareness training"
       ]
     },
     {
-      "title": "Embodied Unity of Body and Mind: A Study of Dynamic Meditation Practices in Tibetan Buddhism with a Focus on \"Running Meditation\" (Lung-gom-pa)",
-      "url": "https://www.semanticscholar.org/paper/7da2dd9d1645e3376b0f350a0526dadff55ac0c0",
+      "title": "Empowering Digital Defense: The Role of Cyber-Vaccination and Awareness Training in Strengthening Cybersecurity in the Modern Era Awareness Training for Cybersecurity",
+      "url": "https://www.semanticscholar.org/paper/51785f66d0b480515909b5fb78afb6fff36ed4ae",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-09-30T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466769",
-      "doi": "10.32629/jher.v6i4.4292",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-03-05T12:35:19.898937",
+      "doi": "10.2478/ejels-2026-0003",
       "authors": [
         {
-          "name": "Ruitai Ni",
-          "author_id": "2386708157",
+          "name": "A. Sharko",
+          "author_id": "70037404",
+          "affiliation": null
+        },
+        {
+          "name": "Folitjona Puravelli",
+          "author_id": "2405569181",
+          "affiliation": null
+        },
+        {
+          "name": "Genci Sharko",
+          "author_id": "69926450",
           "affiliation": null
         }
       ],
-      "abstract": "This essay examines the unique dynamic meditation practice of running meditation (Lung-gom-pa) in Tibetan Buddhism. Drawing on historical records and contemporary interpretations, this essay analyzes the essence of this meditative practice and how Lung-gom-pa enables people to achieve a unity of body and mind while running at high speeds without fatigue, allowing them to continuously progress toward their spiritual goals. This study emphasizes the unity of body and mind achieved by Lung-gom-pa practitioners during their running, and also provides new insights and inspiration for contemporary meditation practices.",
-      "journal": "Journal of Higher Education Research",
-      "year": 2025,
+      "abstract": "Abstract Today\u2019s rapidly evolving digital world has experienced a steady increase in the threat of hacking. As cyberattacks become more frequent and sophisticated, cyber-vaccination technology is being developed as a security method to counter the potential dangers posed by botnets. Cyber-vaccination involves exposing individuals to simulated cyberattacks, allowing them to become familiar with common threats and learn how to respond appropriately. Through internet safety awareness training, participants develop essential skills that are critical for maintaining online security. On a global scale, the growth of cybercrime mirrors the rapid spread of an infectious virus. Based on reported financial losses, cybercriminals appear to be accumulating increasing amounts of stolen funds each year. Although a wide range of advanced technologies exists to identify and prevent known cyber threats, these measures are often insufficient when attackers exploit human behavior as their primary method of intrusion. Many reputable organizations invest significant resources in training their employees to recognize and avoid phishing emails and other forms of cyberattacks. These organizations allocate funding and establish specialized teams to provide effective cybersecurity education. However, a substantial portion of the general population lacks access to such routine training, which presents a significant challenge. Providing accessible cybersecurity education is therefore essential. This study aims to examine the various free training options currently available, as well as the common risks and challenges associated with these educational opportunities. Additionally, the study will compare alternative solutions to determine their effectiveness in improving cybersecurity awareness.",
+      "journal": "European Journal of Economics, Law and Social Sciences",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "body scan meditation"
+        "awareness training"
       ]
     },
     {
-      "title": "Meditation and Mind-Body Practices: Effects on Brain-derived Neurotrophic Factor and Brain Health: A Narrative Review",
-      "url": "https://www.semanticscholar.org/paper/163a9d9c728c97f91fd158ae27ead4cfd9e8fdbb",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-31T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466779",
-      "doi": "10.48165/irjay.2025.80312",
-      "authors": [
-        {
-          "name": "S. Giridharan",
-          "author_id": "2273744732",
-          "affiliation": null
-        },
-        {
-          "name": "Bhuvana Pandiyan",
-          "author_id": "2287637773",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background: Brain-derived neurotrophic factor (BDNF) plays a crucial role in neuroplasticity and cognition.\u00a0 Meditation and mind-body exercises such as yoga may increase BDNF levels, offering a non-pharmacological\u00a0 strategy to enhance brain health.\u00a0Methods: This narrative review synthesizes evidence from published studies, primarily randomized controlled trials,\u00a0 sourced from PubMed, Scopus, Cochrane Library, and Web of Science, between 2020 and 2025, in accordance\u00a0 with the PRISMA guidelines. Studies have focused on meditation and mind-body interventions and their effects on\u00a0 peripheral BDNF levels.\u00a0Results: Eight studies demonstrated that mindfulness-based interventions, including yoga and meditation,\u00a0 consistently elevated BDNF levels across diverse populations, including healthy adults and individuals with\u00a0 depression. These increases are linked to reduced stress and inflammation, suggesting the underlying mechanisms.\u00a0 Mental health benefits, such as reduced depression and anxiety, have been widely observed, although cognitive and\u00a0 functional outcomes vary, particularly in older adults, where some studies have noted BDNF attenuation.\u00a0Conclusion: Meditation and mind-body practices have the potential to enhance BDNF levels and improve mental\u00a0 health, with possible cognitive benefits. However, inconsistencies in older adults and chronic pain populations\u00a0 underscore the need for fur",
-      "journal": "International Research Journal of Ayurveda &amp; Yoga",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Validation of the Spanish Version of the Body Awareness Questionnaire (BAQ) and an Exploration of Its Relationship to Meditation and Embodiment Variables",
-      "url": "https://www.semanticscholar.org/paper/67720c12eecd8fad7616636611b7796c84959ee1",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466790",
-      "doi": "10.3390/healthcare13060628",
-      "authors": [
-        {
-          "name": "L. C. S\u00e1nchez-S\u00e1nchez",
-          "author_id": "1422079903",
-          "affiliation": null
-        },
-        {
-          "name": "Amanda Klysing",
-          "author_id": "66500765",
-          "affiliation": null
-        },
-        {
-          "name": "Ingela Steij St\u00e5lbrand",
-          "author_id": "2350280475",
-          "affiliation": null
-        },
-        {
-          "name": "Tove Lundberg",
-          "author_id": "8263269",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Purposes: The Body Awareness Questionnaire (BAQ) has been considered the best available measure of body awareness, but it is not currently available in Spanish. Methods: To address this shortcoming, a sample of 281 Spanish participants completed a survey with a Spanish version of the BAQ, as well as the Body Appreciation Scale (BAS-2), the Self-Compassion Scale-Short (SCS-S) and the New Sexual Satisfaction Scale-Short (NSSS-S). Results: Analysis of the Spanish BAQ showed good reliability: \u03b1 = 0.82. Positive correlations with the BAS-2 and the SCS-S, and no significant correlation with the NSSS-S, support the convergent and discriminant validity of the Spanish BAQ. In conceptual validity, the Spanish BAQ further successfully discriminated between meditators and non-meditators, showing additional support for the conceptual validity of the measure. Confirmatory Factor Analysis (CFA) supported a two-factor structure, rather than a one-factor or four-factor version, as proposed for the original English version. Conclusions: The Spanish version of the BAQ has shown adequate reliability and validity and would be a good scale to continue exploring in clinical Spanish population samples, e.g., in patients with chronic pain, and non-clinical ones, e.g., after interventions in sexuality or sport. It could be an interesting questionnaire to assess outcomes of mindfulness-based interventions.",
-      "journal": "Healthcare",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Meditation: re-discovered tool for the health of mind and body",
-      "url": "https://www.semanticscholar.org/paper/d34f8dcb6102adb4dc6fecbb0ac2ed248a542018",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-29T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466799",
-      "doi": "10.4038/jccpsl.v30i4.8813",
-      "authors": [
-        {
-          "name": "Wasantha Gunathunga",
-          "author_id": "81953180",
-          "affiliation": null
-        }
-      ],
-      "abstract": "No abstract available",
-      "journal": "Journal of the College of Community Physicians of Sri Lanka",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Accuracy and Precision of Digital Impression with Reverse Scan Body Prototypes and All-on-4 Protocol: An In Vitro Research",
-      "url": "https://www.semanticscholar.org/paper/9c34e22c21ed62fc75c74a0165b70cebb9960c0d",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-31T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466815",
-      "doi": "10.3390/prosthesis7020036",
-      "authors": [
-        {
-          "name": "M. Tallarico",
-          "author_id": "12013178",
-          "affiliation": null
-        },
-        {
-          "name": "Mohammad Qaddomi",
-          "author_id": "2327077207",
-          "affiliation": null
-        },
-        {
-          "name": "Elena De Rosa",
-          "author_id": "2353122814",
-          "affiliation": null
-        },
-        {
-          "name": "Carlotta Cacci\u00f2",
-          "author_id": "2352184837",
-          "affiliation": null
-        },
-        {
-          "name": "Yeo Jin Jung",
-          "author_id": "90418371",
-          "affiliation": null
-        },
-        {
-          "name": "S. Meloni",
-          "author_id": "5317395",
-          "affiliation": null
-        },
-        {
-          "name": "F.M. Ceruso",
-          "author_id": "2259028703",
-          "affiliation": null
-        },
-        {
-          "name": "A. Lumbau",
-          "author_id": "3581871",
-          "affiliation": null
-        },
-        {
-          "name": "M. Pisano",
-          "author_id": "39793373",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background/Objectives: Digital workflows for implant-supported full-arch restorations remain challenging. This study evaluated the accuracy and precision of digital impressions using reverse scan body (RSB) prototypes and intraoral scanners (IOSs) for rehabilitating fully edentulous patients following the All-on-4 protocol. Secondary objectives included comparing accuracy between expert clinicians and beginners, as well as desktop scanners and various RSB designs. Methods: An in vitro study was conducted using a fully edentulous mandible model with four Osstem TSIII implants. A final-year dental student and an expert clinician captured digital impressions using IOSs and desktop scanners. Four groups were analyzed: (A) original scan bodies with the IOS, (B) short RSBs with the IOS, (C) RSBs with desktop scanners (short sandblasted, long sandblasted, long coated), and (D) a control group using original scan bodies with a desktop scanner. Root mean square (RMS) values measured dimensional differences, with statistical analysis performed using the Wilcoxon signed-rank test and one-way ANOVA (\u03b1 = 0.05). Results: A total of 42 scans were analyzed. No significant difference was found between expert and student for original scan bodies using the IOS (p = 0.220), while RSB prototypes showed significant differences (p = 0.008). No significant accuracy differences were noted between original scan bodies and RSBs with the IOS, but IOSs outperformed desktop scanners. Among RSBs scanned with desktop scanners, no significant differences were observed between designs. Conclusions: RSB prototypes are a viable alternative to original scan bodies for fully digital workflows in All-on-4 rehabilitations, with IOSs offering superior accuracy. However, proper training is crucial for optimizing RSB accuracy. Variations in height and coating did not impact overall accuracy.",
-      "journal": "Prosthesis",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Impact of scan body splinting on the accuracy of complete-arch digital implant impressions",
-      "url": "https://www.semanticscholar.org/paper/2c1c2065842836e233f2ed834ab51dcdae8efc6e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-01T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466827",
-      "doi": "10.1016/j.jds.2025.07.002",
-      "authors": [
-        {
-          "name": "Hale Arikan Kalayci",
-          "author_id": "2373230494",
-          "affiliation": null
-        },
-        {
-          "name": "Sema Merve Uzel",
-          "author_id": "2202825572",
-          "affiliation": null
-        },
-        {
-          "name": "I. Turkyilmaz",
-          "author_id": "6733043",
-          "affiliation": null
-        },
-        {
-          "name": "Mackenzie Hunt",
-          "author_id": "1491591668",
-          "affiliation": null
-        },
-        {
-          "name": "M. Guncu",
-          "author_id": "6803332",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background/purpose The accuracy of intraoral scanners in capturing complete-arch implant impressions remains a subject of ongoing investigation. This study aimed to evaluate the influence of different scanning strategies and the effect of splinting scan bodies on the accuracy of complete digital scans of the mandible. Materials and methods A master model of an edentulous mandible with four dental implants was used. The implants were positioned bilaterally in the regions of the mandibular lateral incisors and second premolars. A laboratory scanner was utilized to digitize the reference model. Three experimental groups were used to evaluate the effects of different scanning strategies and auxiliary reference methods on scan accuracy: Group A (single-stage scan), Group B (two-stage scan without additional references), and Group C (two-stage scan with additional reference points). Results A total of 45 digital scans were analyzed. To evaluate scan accuracy, linear deviations were measured at the four implant sites and compared against the digital reference model. Group A consistently demonstrated the highest accuracy, with the lowest overall mean linear deviation of 39.57 \u00b1 8.69 \u03bcm across all implant positions. Group B recorded a marginally higher mean deviation of 42.80 \u00b1 24.24 \u03bcm. Group C showed the greatest linear deviation (70.60 \u00b1 17.69 \u03bcm), and the differences were statistically significant when compared with both Groups A and B (P < 0.05). Conclusion The findings of this study indicate that single-stage scanning yields superior accuracy, whereas the incorporation of poorly designed or improperly positioned reference markers may inadvertently compromise scan precision.",
-      "journal": "Journal of Dental Sciences",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Impact of age and body mass index on dual-energy X-ray absorptiometry scan results in postmenopausal women.",
-      "url": "https://www.semanticscholar.org/paper/4d9d6a886de22cce17d5122594784a7bc0d71966",
+      "title": "Unlocking Cybersecurity: A Game\u2010Changing Framework for Training and Awareness\u2014A Systematic Review",
+      "url": "https://www.semanticscholar.org/paper/8db2de93e64730fdd30fd631950ee0018e9ed914",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466840",
-      "doi": "10.17392/1870-22-01",
+      "date_fetched": "2026-03-05T12:35:19.898951",
+      "doi": "10.1155/hbe2/9982666",
       "authors": [
         {
-          "name": "Halil \u0106orovi\u0107",
-          "author_id": "2191341202",
+          "name": "Kiran Amjad",
+          "author_id": "2349916695",
           "affiliation": null
         },
         {
-          "name": "Nusret Salkica",
-          "author_id": "2191340025",
+          "name": "Kashif Ishaq",
+          "author_id": "89094064",
           "affiliation": null
         },
         {
-          "name": "Naida Omerovi\u0107 \u0106orovi\u0107",
-          "author_id": "2351853371",
+          "name": "Naeem A. Nawaz",
+          "author_id": "35933213",
           "affiliation": null
         },
         {
-          "name": "\u0160ejla Ceri\u0107",
-          "author_id": "2191341269",
+          "name": "Fadhilah Rosdi",
+          "author_id": "49030931",
           "affiliation": null
         },
         {
-          "name": "selma Agi\u0107-Bilalagi\u0107",
-          "author_id": "1413440510",
+          "name": "Abdul Basit Dogar",
+          "author_id": "2343754919",
           "affiliation": null
         },
         {
-          "name": "A. Skopljak-Beganovi\u0107",
-          "author_id": "1401415945",
-          "affiliation": null
-        },
-        {
-          "name": "Enis Tinjak",
-          "author_id": "2036841882",
+          "name": "Fawad Ali Khan",
+          "author_id": "2333333776",
           "affiliation": null
         }
       ],
-      "abstract": "AIM\nTo analyse the impact of age and body mass index (BMI) on dual-energy X-ray absorptiometry (DXA) scan results in postmenopausal women.\n\n\nMETHODS\nThe study included 100 postmenopausal women who underwent the DXA procedure, out of which 50 had a normal BMI and 50 were overweight/obese. Data that were examined included age, BMI, T-score of the lumbar region and the femoral neck, as well as bone mineral density (BMD). Correlation results were presented as Pearson's correlation coefficient (r).\n\n\nRESULTS\nThe T2-score and BMD2 were significantly lower in older patients compared to younger ones (p=0.008 and p=0.007, respectively). Post hoc test results showed that the T2-score and BMD2 were significantly lower in patients \u226571 years of age compared to patients \u226459 years of age (p=0.006 and p=0.005, respectively). Also, T1- and T2-scores, as well as BMD1 and BMD2, were significantly higher in overweight/obese patients (p< 0.001 and p=0.003; p< 0.001 and p=0.002, respectively). The correlation between BMI and the T1-score was moderate (r=0.429), between BMI and the T2-score weak (r=0.348), between BMI and BMD1 moderate (r=0.431), and between BMI and BMD2 weak (r=0.344).\n\n\nCONCLUSION\nOur study showed that both age and BMI are important factors affecting DXA procedures and should be taken into account with each postmenopausal woman individually in everyday practice.",
-      "journal": "Medicinski glasnik",
+      "abstract": "Recent advancements in computer science have led to the automation of many business processes. However, this increased automation has also escalated cyber threats and attacks alarmingly, as most data breaches are attributed to human errors, which are critical in these incidents. The primary cause is a lack of cybersecurity awareness and insufficient hands\u2010on experience in real\u2010world scenarios. Serious game frameworks offer a promising solution by surpassing traditional learning methods and addressing cybersecurity education\u2019s complex and evolving nature. This research employs the Preferred Reporting Items for Systematic reviews and Meta\u2010Analyses (PRISMA) technique to systematically analyze various studies, using a snowballing method to select relevant resources. The study conducted a systematic literature review of 68 selected studies within the domains of serious games and cybersecurity training, aiming at evaluating the contributions of other researchers. The review examined different frameworks, tools, technologies, methodologies, and serious games developed for cybersecurity training over the past 5 years. The key findings demonstrate that serious games can effectively engage learners, facilitating knowledge sharing within realistic cybersecurity environments. Additionally, the review assessed the methodologies used to evaluate these serious games across different educational settings. Finally, the study underscores the need for a structured classification of research in the cybersecurity domain, leveraging serious game frameworks along with its taxonomy. This classification would provide a clear direction for future research, building on the evaluation of techniques from previous studies.",
+      "journal": "Human Behavior and Emerging Technologies",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "body scan meditation"
+        "awareness training"
       ]
     },
     {
-      "title": "Reverse scan body: A retrospective clinical study with 30 edentulous jaws.",
-      "url": "https://www.semanticscholar.org/paper/3e6ae56c7874c061581e0ea3158930044254bd64",
+      "title": "Dhyana yoga, the path of meditative being: Psychotherapeutic insights from the east.",
+      "url": "https://www.semanticscholar.org/paper/e29d9eeae889ca8814d62c13bbe6cc03a14b9531",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-09T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466852",
-      "doi": "10.1111/jopr.70055",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-03-05T12:35:35.203041",
+      "doi": "10.1016/j.ajp.2025.104483",
       "authors": [
         {
-          "name": "P. Papaspyridakos",
-          "author_id": "3617919",
+          "name": "M. Keshavan",
+          "author_id": "145345793",
           "affiliation": null
         },
         {
-          "name": "E. A. Bedrossian",
-          "author_id": "2243196571",
-          "affiliation": null
-        },
-        {
-          "name": "Sindhu Kanikicharla",
-          "author_id": "2133175427",
-          "affiliation": null
-        },
-        {
-          "name": "Panagiotis Ntovas",
-          "author_id": "2267188649",
-          "affiliation": null
-        },
-        {
-          "name": "A. Barmak",
-          "author_id": "1413820837",
-          "affiliation": null
-        },
-        {
-          "name": "Konstantinos M. Chochlidakis",
-          "author_id": "12631892",
+          "name": "Hemant Bhargav",
+          "author_id": "144742179",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE\nTo evaluate the accuracy of fit of full-arch zirconia prostheses fabricated using a fully digital workflow with extraoral scanning with the reverse scan body protocol.\n\n\nMATERIALS AND METHODS\nThis retrospective study included 30 patients treated with zirconia full-arch implant-supported fixed complete dental prostheses (IFCDPs). Out of these 30 patients, 15 patients received IFCDPs supported by four implants, and the other 15 received IFCDPs supported by six implants. Each patient underwent full-arch implant rehabilitation with digital workflow using the reverse scan body protocol. Digitally designed verification jigs and prototypes were milled and used to confirm the accuracy of the scan, esthetics, and phonetics for each patient. Following the verification jig, monolithic zirconia IFCDPs were milled, assessed for fit, and delivered. Fit accuracy was evaluated through screw resistance test, visual examination, and radiographs.\n\n\nRESULTS\nAll 30 milled prostheses (100%) achieved an accurate fit under clinical and radiographic assessment.\n\n\nCONCLUSION\nFull-arch zirconia prostheses with an accurate fit can be fabricated using extraoral scanning with the reverse scan body protocol.",
-      "journal": "Journal of Prosthodontics",
+      "abstract": "Eastern spiritual traditions offer insights into the mind-body approaches to enhance health and well-being. These insights focus on self-awareness (the path of knowledge), intrinsically motivated and selfless action (karma yoga) and on faith and compassion (Bhakti yoga). Yogic meditative practices (Dhyana yoga), developed by ancient Hindu and other eastern traditions, are effective tools to implement these pathways to well-being. They involve ethical behavior (yama and niyama), bodily postures, breath-related, and/or other meditative approaches for mastery over the physiological and psychological processes within an individual. Meditative practices require practice (abhyasa) as well as detachment (vairagya), so that the 'ego' of being a 'doer' does not become a hindrance in achieving inner transformations. In this paper, we review the eastern concepts on the nature of these techniques of inner well-being, and then place them in the context of emerging insights in psychology on these behavioral practices. Meditative practices include focused attention (FA), open-monitoring (OM) and transcendental meditation (TM) approaches. We outline current emerging neuroscience findings that suggest somewhat distinctive correlates of these mental states with neural oscillations and brain circuits. These approaches may also be differentially effective across medical and psychiatric disorders. We review gaps in knowledge and offer a framework for further research in developing these interventions, especially as applied in the areas of positive psychology and psychiatry.",
+      "journal": "Asian Journal of Psychiatry",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "body scan meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "Complex Body Wall Closure Defects in Seven Dog Fetuses: An Anatomic and CT Scan Study",
-      "url": "https://www.semanticscholar.org/paper/56ad3be4c1399f0420bf614ffe4ccd3698fc0006",
+      "title": "Asymmetric Structural Design for Absorption\u2010Dominated Electromagnetic Interference Shielding Composites",
+      "url": "https://www.semanticscholar.org/paper/32f0e709f7a20973cae04dff0270fa63b64ddbbb",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-07-01T00:00:00",
-      "date_fetched": "2026-03-04T12:32:19.466879",
-      "doi": "10.3390/ani15142030",
+      "date_published": "2025-01-28T00:00:00",
+      "date_fetched": "2026-03-05T12:35:35.203090",
+      "doi": "10.1002/adfm.202423884",
       "authors": [
         {
-          "name": "N. Mart\u00edn-Alguacil",
-          "author_id": "1398592356",
+          "name": "Meng Zhou",
+          "author_id": "2331273548",
           "affiliation": null
         },
         {
-          "name": "Jos\u00e9 M Cozar",
-          "author_id": "2344364197",
+          "name": "Zan Yu",
+          "author_id": "2335796368",
           "affiliation": null
         },
         {
-          "name": "L. Avedillo",
-          "author_id": "11616713",
+          "name": "Qiming Yan",
+          "author_id": "2000542240",
+          "affiliation": null
+        },
+        {
+          "name": "Xinya Zhang",
+          "author_id": "2321466112",
           "affiliation": null
         }
       ],
-      "abstract": "Simple Summary Body stalk anomaly (BSA) is a rare and severe birth defect that causes significant developmental issues affecting the body wall, spine, limbs, and internal organs. This study describes the first known cases of BSA in seven dogs. The affected puppies exhibited comparable patterns of abnormalities, including large openings in the abdominal wall, spinal deformities, absent or shortened limbs, urinary and reproductive system issues, and facial clefts. These findings suggest that BSA is caused by a combination of genetic, environmental, and developmental factors affecting the embryo in the early stages of pregnancy. Studying these cases in animals could help scientists to better understand how these complex birth defects occur and how they relate to similar conditions in humans.",
-      "journal": "Animals",
+      "abstract": "Excessive electromagnetic pollution caused by electromagnetic waves can interfere with the normal use of electronic devices or cause unnecessary damage to human health. Although conductive polymer composites (CPCs) are used to replace traditional metals as an effective strategy for managing undesirable electromagnetic waves, CPCs have a non\u2010negligible trade\u2010off in the enhancement of electromagnetic interference (EMI) shielding effectiveness and absorption coefficient because of their reflection\u2010dominated EMI shielding mechanism. Therefore, to alleviate secondary electromagnetic pollution, absorption\u2010dominated EMI shielding composites with asymmetric structures are urgently needed. Recently, asymmetric structural designs for absorption\u2010dominated EMI shielding composites have advanced significantly, but have seldom been summarized and discussed in detail. Consequently, this review first systematically summarizes the current progress of absorption\u2010dominated EMI shielding composites with asymmetric structures after a brief clarification about the necessity and configuration of asymmetric structure design. Afterward, various absorption\u2010dominated EMI shielding composites with asymmetric fiber, layered, porous, composite structures are systematically described. Besides, the versatility of absorption\u2010dominated EMI shielding composites with asymmetric structures is briefly introduced. Finally, the current challenges and prospects are proposed to guide future advancement in the EMI shielding field.",
+      "journal": "Advanced Functional Materials",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "body scan meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "Bodies and Borders in Geetanjali Shree?s The Tomb of Sand",
-      "url": "https://www.semanticscholar.org/paper/a8ac557dbe38af0532a8b65a8d484bbe1521ce1c",
+      "title": "Tailored intervention for smoking cessation among migrant smokers in health centers for precarious people in Paris: A co-design approach",
+      "url": "https://www.semanticscholar.org/paper/e9330c8e1a30f8f792264cfba11381b937873557",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-27T00:00:00",
-      "date_fetched": "2026-03-04T12:32:25.065248",
-      "doi": "10.21275/sr25113110313",
+      "date_published": "2025-09-18T00:00:00",
+      "date_fetched": "2026-03-05T12:35:36.191910",
+      "doi": "10.1016/j.pmedr.2025.103245",
       "authors": [
         {
-          "name": "Megha Patil",
-          "author_id": "2341346283",
+          "name": "Clair-Antoine Veyrier",
+          "author_id": "2081479409",
           "affiliation": null
         },
         {
-          "name": "Stella Steven",
-          "author_id": "2341419742",
+          "name": "Lisa Yombo Kokule",
+          "author_id": "2382246257",
+          "affiliation": null
+        },
+        {
+          "name": "S. Ducarroz",
+          "author_id": "13517278",
+          "affiliation": null
+        },
+        {
+          "name": "C. Aparicio",
+          "author_id": "2072101663",
+          "affiliation": null
+        },
+        {
+          "name": "E. Villalonga-Olives",
+          "author_id": "1404928025",
+          "affiliation": null
+        },
+        {
+          "name": "Martin Duracinsky",
+          "author_id": "2382612770",
+          "affiliation": null
+        },
+        {
+          "name": "Lorraine Cousin Cabrolier",
+          "author_id": "2209222970",
+          "affiliation": null
+        },
+        {
+          "name": "I. Yaya",
+          "author_id": "2237528499",
           "affiliation": null
         }
       ],
-      "abstract": ": It is an undeniable fact that over years more and more borders, barriers, divisions, groups have emerged between countries, within countries, states, religions, societies, generations, genders, homes and more. These borders have always been legitimized or governed by either state repressive apparatuses or ideological repressive apparatuses which always go unquestioned. Geetanjali Shree writes, \u201cAnything worth doing transcends boundaries\u201d. Shree\u2019s novel Ret Samadhi (Hindi) translated into English as The Tomb of Sand by Daisy Rockwell has created history by being the first South Asian novel to win the International Booker Prize. It focuses on an octogenarian, Ma, who is seen to have lost the will to live in the beginning of the novel after her husband\u2019s death, sheds away from the conventional roles she has been playing that of a wife, mother, aunt and takes on a path of self-discovery leaving behind all the layers one by one that has ever defined her, stands on the threshold, traversing borders. Ma\u2019s embarkment of journey to Pakistan without a visa confronts her with several questions from the Pakistani officials at the border. Ma\u2019s answers to the questions reveal a new gaze of what a border should be further questioning the curtailment of individual\u2019s freedom because of increased polarization and of borders and boundaries being legitimized by institutional violence. The present paper tries to look at how bodies (especially that of a woman) transgress crossing boundaries that are laid down to them not only by the patriarchal system within but also boundaries between nations. It also looks at how from times immemorial a country\u2019s border has never been defined though a woman\u2019s gaze. The paper also attempts to look at how language, body, border and memory all become \u2018doors\u2019 through which a country as a whole and characters transcend anew in the novel.",
-      "journal": "International Journal of Science and Research (IJSR)",
+      "abstract": "Objective Certain groups of migrants in Europe exhibit higher smoking prevalence compared to non-migrants, with social inequalities significantly impacting their health outcomes. Culturally adapted smoking cessation interventions are more effective for migrants. Co-design a smoking cessation intervention tailored to migrant smokers attending in health centers for precarious people in Paris. Methods Following an adapted experience-based co-design iterative process to gradually refine our crafted intervention, the study brought together migrants, health professionals, representatives from associations, and a research team between January and July 2024. Pre-workshop enabled to adapt ideation working tools to better suit the public. In the initial phase, migrants helped shape intervention design based on their tobacco use habits and preferences. Subsequent workshops benefitted medical and tobacco-expertise from healthcare workers in co-design workshops, refining our prototypes and ensuring they adhere to evidence-based practices. Data collection included questionnaires, audio-recordings, and field notes analyzed through thematic analysis. Results Fourteen migrants (mostly undocumented, from African countries, and current smokers) and fourteen healthcare workers (mostly medical practitioners or nurses) were involved in the co-design sessions. The co-designed intervention consisted in a monthly face-to-face participant-led group discussion supervised by health professionals with flexible attendance combined with WhatsApp group support with facilitated access to nicotine replacement therapy or existing interventions, and adapted health literacy materials. Conclusion Co-designing intervention with migrants enabled the development of an intervention addressing their barriers to smoking cessation. Combining peer-support, digital engagement, and facilitated access to existing resources may improve uptake and effectiveness of cessation programs among this vulnerable population.",
+      "journal": "Preventive medicine reports",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "samadhi"
+        "cessation experience"
       ]
     },
     {
-      "title": "A pilot randomized controlled trial of an online mindfulness-based intervention to reduce patient anxiety before a first-time screening colonoscopy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41774215/",
+      "title": "Sex differences in the relationship between quit attempt and smoking cessation self-efficacy in adults with depressive symptoms.",
+      "url": "https://www.semanticscholar.org/paper/4b9e3fa11801b46ffda3a5492696efd63dc3bd54",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-03-05T12:35:36.191955",
+      "doi": "10.1016/j.addbeh.2025.108328",
+      "authors": [
+        {
+          "name": "Zainab Shah",
+          "author_id": "2257336761",
+          "affiliation": null
+        },
+        {
+          "name": "Sarah E. Dreyer-Oren",
+          "author_id": "1422945325",
+          "affiliation": null
+        },
+        {
+          "name": "Sarah Barter",
+          "author_id": "2257336587",
+          "affiliation": null
+        },
+        {
+          "name": "Julie A. Desaulniers",
+          "author_id": "2350142221",
+          "affiliation": null
+        },
+        {
+          "name": "L. Uebelacker",
+          "author_id": "4790504",
+          "affiliation": null
+        },
+        {
+          "name": "Ana M. Abrantes",
+          "author_id": "2325381372",
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE\nSmoking self-efficacy is a key predictor of being able to maintain smoking cessation. Smokers with depression have lower confidence that they can abstain from smoking (i.e., lower smoking self-efficacy) than those without depression. Additionally, individuals assigned female at birth (AFAB) have greater difficulty quitting smoking and lower self-efficacy than those assigned male at birth (AMAB). However, limited attention has been given to the experience of making a quit attempt on changes in smoking self-efficacy among smokers with depressive symptoms and how this may differ by abstinence outcomes and sex. The purpose of the current study was to examine whether abstinence or a reduction in cigarettes smoked during a standard smoking cessation treatment predicted post-treatment changes in smoking self-efficacy, and whether assigned sex moderated this relationship.\n\n\nMETHODS\nParticipants (n\u00a0=\u00a0146; 72.6\u00a0% AFAB; mean age\u00a0=\u00a046.6\u00a0years) received 12-week standard smoking cessation treatment as part of a randomized controlled trial testing two adjunctive health- and fitness-based interventions. Pre- and post-treatment, participants reported smoking self-efficacy (i.e., confidence abstaining in negative/affective-, positive/social-, and habit/addiction-related situations).\n\n\nRESULTS\nMultiple regression analyses showed that abstinence was associated with higher increases in smoking self-efficacy in all facets, and decreasing cigarette use from baseline to post-treatment was significantly associated with increases in total smoking self-efficacy. AMAB smokers had higher levels of positive/social related smoking self-efficacy than did AFAB smokers, and for AFAB smokers, a reduction in cigarettes smoked was associated with greater positive/social smoking self-efficacy.\n\n\nCONCLUSIONS\nFindings related to the role of self-efficacy in smoking cessation outcomes of smokers with depressive symptoms and how assigned sex impacts the role of self-efficacy provide insight for smoking cessation outcomes. Future research is needed to understand mechanisms underlying smoking self-efficacy and to improve smoking cessation interventions.",
+      "journal": "Addictive Behaviours",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "cessation experience"
+      ]
+    },
+    {
+      "title": "Pathways to inner peace: A meta-analysis of case studies on methods in chaplaincy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41781354/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-03T00:00:00",
-      "date_fetched": "2026-03-04T12:32:57.965985",
-      "doi": "10.1007/s10552-026-02129-0",
+      "date_published": "2026-03-04T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.457913",
+      "doi": "10.1080/08854726.2026.2633974",
       "authors": [
         {
-          "name": "Brent Emerson",
+          "name": "Niels den Toom",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Paul L Reiter",
+          "name": "Marjo van Zundert",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Abigail B Shoben",
+          "name": "Anja Visser",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Maryanna Klatt",
+          "name": "Annelieke Damen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Subhankar Chakraborty",
+          "name": "Sujin Rosie",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mira L Katz",
+          "name": "Carmen Schuhmann",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hanneke Muthert",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gaby Jacobs",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Erik Olsman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jacques K\u00f6rver",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Martin Walton",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Anxiety before a first-time screening colonoscopy is a commonly reported patient-level barrier to completing colorectal cancer (CRC) screening. This pilot study evaluated the feasibility, acceptability, and preliminary efficacy of \"For peace of mind. Get Screened,\" a brief online mindfulness-based intervention (MBI) to reduce anxiety before a first-time screening colonoscopy. METHODS: Participants (n\u2009=\u2009100) were randomized (October 2023-July 2024) to usual care or the MBI (daily CRC screening infographics guided by the Protection Motivation Theory, mindfulness infographics, and brief mindfulness meditations based on Monitor and Acceptance Theory) starting five days before their scheduled colonoscopy. Anxiety was assessed using the State-Trait Anxiety Inventory-State Subscale (STAI-S) in the endoscopy suite's waiting room. RESULTS: Participant retention was 83% due to patient and health system issues. Participant satisfaction with the MBI was high (mean: 6.40 out of 7). The MBI group had an average STAI-S score 2.54 points lower than the usual care group, though this difference was not statistically significant (32.24 vs. 34.78; p\u2009=\u20090.21). However, among participants not lost to follow up (n\u2009=\u200983), the MBI group had significantly lower waiting room STAI-S scores compared to the usual care group (31.52 vs. 35.21; p\u2009=\u20090.02). Clinical outcomes did not differ between groups. CONCLUSION: Feasibility of the MBI was partially limited due to logistical issues. Findings support MBI acceptability and suggest that a brief MBI has the potential to decrease anxiety prior to a first-time colonoscopy. A larger randomized controlled trial is needed to further examine the efficacy of this intervention. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov NCT06233253.",
-      "journal": "Cancer causes & control : CCC",
+      "abstract": "This study explores the extent to which chaplains employ structured methods in their practice in view of home-based chaplaincy in the Netherlands by conducting a secondary analysis of 40 case studies from the Dutch Case Studies Project (2016-21). Findings indicate that chaplains employ a broad range of interventions, among which two structured methods were identified: The Diamond Model and mindfulness. Both methods support clients in coping with vulnerability and making life decisions using different theoretical and spiritual approaches. It was found that both methods were applied flexibly, reflecting a balance between professional discretion and methodological integrity. Overall, the findings suggest that chaplains aim to integrate interventions, maintaining a balance between structured methods and relational presence, ultimately striving to foster inner peace through varied theoretical and spiritual approaches.",
+      "journal": "Journal of health care chaplaincy",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -585,47 +405,37 @@
       "matched_keywords": []
     },
     {
-      "title": "Childhood Sexual Abuse, Adolescent-Adult Sexual Assault, and Revictimization: Do Emotion Regulation and Mindfulness Buffer Associations with Post-Traumatic Stress Symptoms?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41776958/",
+      "title": "The role of self-compassion in the relationship between resilience and negative affect.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41781461/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-03T00:00:00",
-      "date_fetched": "2026-03-04T12:32:57.966721",
-      "doi": "10.1080/10538712.2026.2634242",
+      "date_published": "2026-03-04T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.458187",
+      "doi": "10.1038/s41598-026-42585-x",
       "authors": [
         {
-          "name": "Sharon S Wang",
+          "name": "Timo J Lajunen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jessica A Blayney",
+          "name": "Marios Adonis",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anna E Jaffe",
+          "name": "Maria Giagkou",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Cynthia A Stappenbeck",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "William H George",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kelly C Davis",
+          "name": "Mark J M Sullman",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Women with a history of childhood sexual abuse (CSA) and/or adolescent-adult sexual assault (ASA) can have different trauma-related symptom presentations in early adulthood, but the role of coping resources in mitigating victimization-related distress is understudied. Thus, the present study examined women with sexual victimization histories by developmental period (CSA-only, ASA-only, or CSA\u2009+\u2009ASA) and the role that mindfulness and emotion regulation play as coping resources that may buffer against post-traumatic stress. Participants were 247 cisgender community women aged 21-30 recruited for a larger study on high-risk drinking and sexual behaviors. Negative binomial regression models revealed significant differences in PTSS severity by victimization pattern: CSA\u2009+\u2009ASA was associated with the greatest PTSS severity, followed by ASA-only, and CSA-only reporting the lowest severity. Though no buffering effects were found, emotion regulation and mindfulness were directly associated with lower PTSS severity across all victimization patterns. Results indicate the need for targeted interventions for those who have experienced both CSA and ASA. Findings also suggest that improving mindfulness and emotion regulation may be beneficial, though not sufficient, for recovery following sexual victimization regardless of victimization pattern. Future interventions could prioritize increasing coping resources to reduce distress for victim-survivors of sexual victimization.",
-      "journal": "Journal of child sexual abuse",
+      "abstract": "Third-wave psychotherapeutic approaches, which emphasise acceptance and mindfulness, have shown effectiveness in alleviating negative affect. This study examined the role of self-compassion in the relationship between resilience and negative affect, including symptoms of stress, anxiety, and depression. A cross-sectional design was employed with 494 adults from the general population. Participants completed the Depression Anxiety Stress Scale-21 (DASS-21), the Self-Compassion Scale (SCS), and the Brief Resilience Scale (BRS). Regression analyses indicated that higher resilience was associated with lower levels of negative affect and self-compassion was significantly correlated with both resilience and negative affect. Mediation analyses revealed a significant indirect effect, suggesting that self-compassion is associated with a portion of the variance in the relationship between resilience and negative affect. These findings highlight a notable association between self-compassion, resilience, and emotional distress, suggesting that self-compassion may be a relevant construct for interventions aimed at enhancing psychological wellbeing.",
+      "journal": "Scientific reports",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -633,119 +443,36 @@
       "matched_keywords": []
     },
     {
-      "title": "Tai Chi and wellness for Gulf War Illness: Combined analysis of in-person and remote randomized controlled trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41774973/",
+      "title": "Enhancing Workplace Outcomes Through Digital Behavioral Health Programs: Retrospective Real-World Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41780927/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-02-25T00:00:00",
-      "date_fetched": "2026-03-04T12:32:57.966953",
-      "doi": "10.1016/j.jpsychires.2026.02.045",
+      "date_published": "2026-03-04T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.458402",
+      "doi": "10.2196/88335",
       "authors": [
         {
-          "name": "Craig P Polizzi",
+          "name": "Inbar Breuer Asher",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Thomas M Crow",
+          "name": "David L Horwitz",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Maria Ting",
+          "name": "Omar Manejwala",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Cameron Busser",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anica Pless Kaiser",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chenchen Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "DeAnna L Mori",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Barbara L Niles",
+          "name": "Yifat Fundoiano-Hershcovitz",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Veterans with Gulf War Illness (GWI) experience a wide range of physical, neurological, cognitive, and mood complications that can lead to distressing psychological symptoms. Despite its debilitating impact on physical and psychological functioning, effective treatment options for GWI remain limited. Tai Chi, an ancient Chinese mind-body practice, may be efficacious in reducing GWI symptoms and associated mental health challenges. The present study combined data from two randomized controlled trials (RCTs) examining a Tai Chi group intervention relative to a Wellness comparison group intervention. Primary outcomes were GWI symptoms (health symptoms, pain interference, fatigue, and depressed mood), with secondary outcomes including anxiety, stress, sleep disturbances, mindfulness, health-related quality of life, and PTSD symptoms. We also evaluated whether treatment delivery modality (in-person versus remote) influenced outcomes. METHODS: Participants were 114 veterans with GWI and chronic pain. They completed self-report measures at baseline, posttreatment, 3-month follow-up, and 9-month follow-up. RESULTS: Preliminary multilevel modeling indicated that treatment modality (in-person versus remote) did not significantly influence outcomes. Both Tai Chi and Wellness interventions were associated with improvements in health symptoms, pain interference, depression, anxiety, mindfulness, mental and physical health-related quality of life, and PTSD symptoms. CONCLUSIONS: Tai Chi and Wellness group interventions may demonstrate similar efficacy in improving GWI symptoms and mental health outcomes among veterans with GWI and chronic pain. These interventions can be delivered in-person and remotely with comparable therapeutic benefits, offering flexible and accessible treatment options for this underserved population.",
-      "journal": "Journal of psychiatric research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Correction: Breath-Focused Mindfulness and Compassion Training in Parent-Child Dyads: Pilot Intervention Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41773663/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-02T00:00:00",
-      "date_fetched": "2026-03-04T12:32:57.967478",
-      "doi": "10.2196/89650",
-      "authors": [
-        {
-          "name": "Satish Jaiswal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jason Nan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Seth Dizon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jessica O Young",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Suzanna R Purpura",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "James K Manchanda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dhakshin Ramanathan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dennis J Kuo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jyoti Mishra",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
+      "abstract": "BACKGROUND: Modern workplaces create increasing demands on employees, often leading to stress, burnout, and reduced functional capacity. These challenges contribute to significant functionality losses, with absenteeism and presenteeism posing economic burdens. Mindfulness-based workplace interventions have been shown to improve mental health, yet their effects on specific work-related performance outcomes such as concentration difficulties, mistakes, and procrastination over time are less explored. OBJECTIVE: This study aimed to evaluate self-reported workplace function changes for a 10-week period among users of a digital behavioral health program. METHODS: This retrospective analysis used real-world data from users of the Dario Health behavioral health app. Participants were required to complete at least 2 workplace functionality assessments, including one at week 1 as a baseline. The assessment comprised 3 items measuring concentration difficulties, mistakes at work, and procrastination, each rated on a 0 (\"not at all\") to 3 (\"a lot\") scale. Users who initially scored 2 (\"often\") or 3 (\"a lot\") on each respective measure formed the cohorts for analysis. Longitudinal changes were examined using piecewise linear mixed-effects models. Cut points were selected empirically through sensitivity analyses comparing alternative cut points (weeks 2-7) using Akaike and Bayesian information criteria to identify the best-fitting model for each outcome. RESULTS: Sensitivity analyses identified optimal cut points at week 6 for concentration difficulties and procrastination and at week 5 for mistakes at work. Among users reporting baseline concentration difficulties (n=1254), significant reductions were observed during weeks 1 to 6 (B=-0.02; P<.001), with larger reductions during weeks 6 to 10 (B=-0.08; P<.001). For mistakes at work (n=167), a significant decrease occurred during weeks 1 to 5 (B=-0.05; P=.02), followed by a more pronounced reduction during weeks 5 to 10 (B=-0.22; P<.001). Among users reporting baseline procrastination (n=1004), significant improvements were observed during weeks 1 to 6 (B=-0.02; P<.001), with greater reductions during weeks 6 to 10 (B=-0.08; P<.001). CONCLUSIONS: Use of the digital behavioral health platform was associated with improvements in workplace function, particularly among users with sustained use beyond 4 weeks. The observed outcomes suggest that continued participation in such digital behavioral health programs may be linked to favorable changes in mental health and cognitive functioning over time and may support employee well-being. Long-term engagement appears essential to maximize benefits, warranting further research into sustained impacts and optimization strategies for workplace productivity.",
       "journal": "JMIR formative research",
       "year": 2026,
       "source_name": null,
@@ -754,27 +481,245 @@
       "matched_keywords": []
     },
     {
-      "title": "Network meta-analysis of non-pharmacological interventions for psychiatric symptoms among individuals with substance use disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41777097/",
+      "title": "Immersive Virtual Reality to Promote Mental Health in Older Adults: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41778450/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-03T00:00:00",
-      "date_fetched": "2026-03-04T12:32:57.967694",
-      "doi": "10.1080/10550887.2026.2626423",
+      "date_published": "2026-03-04T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.458535",
+      "doi": "10.1080/07317115.2026.2639141",
       "authors": [
         {
-          "name": "Hongjie Li",
+          "name": "Sunkanmi Folorunsho",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xu Gao",
+          "name": "Olabisi Lawal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Comfort Olamide",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Etinosa Osawe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Oluwatobi Adedoyin",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Comorbid depression and anxiety are prevalent among individuals with substance use disorders (SUDs), complicating treatment outcomes and increasing relapse risk. Poor efficacy and safety concerns often limit pharmacological options for these psychiatric symptoms. Non-pharmacological interventions (NPIs) have gained traction, yet their relative effectiveness remains uncertain. OBJECTIVE: This study aimed to evaluate the comparative efficacy of NPIs-including cognitive-behavioral therapy (CBT), mindfulness-based approaches, exercise therapy, and neuromodulation-in reducing depression, anxiety, and substance craving among individuals with SUDs. METHODS: A systematic search of PubMed, Embase, and Cochrane Library (up to February 2025) identified 24 RCTs (1,437 participants, 901 males) with DSM/ICD-diagnosed SUDs, following PRISMA-NMA guidelines (PROSPERO: CRD420250654383). Outcomes encompassed depressive/anxiety symptoms (primary) and craving (secondary). Data were analyzed  RESULTS: Exercise therapy ranked highest for alleviating depression (SUCRA: 90.77%; SMD -0.79, 95% CrI:-1.04 to -0.54  CONCLUSION: This NMA highlights varied efficacy among PS therapy, mindfulness-based, and exercise interventions in alleviating depression, anxiety, and craving in SUD patients. Results advocate integrating neuromodulatory and behavioral therapies into comprehensive addiction care. Future research should prioritize longitudinal mechanistic studies and personalized protocols to enhance treatment durability and recovery outcomes.",
-      "journal": "Journal of addictive diseases",
+      "abstract": "OBJECTIVES: This systematic review examined the use of immersive virtual reality (IVR) to support multidimensional mental health among older adults. METHODS: Seven databases were searched for peer-reviewed studies published between January 2020 and March 2025, with forward and backward citation tracking completed in April 2025 (PROSPERO ID: CRD42025644394). Eligible studies involved adults aged 60\u2009years and older, used fully immersive IVR via head-mounted displays, and assessed mental health outcomes. Ten studies met inclusion criteria, spanning randomized, quasi-experimental, pre - post, and mixed-methods designs across North America, Europe, and Asia. RESULTS: Eight of the 10 studies reported improvements in mental health. Virtual nature and guided meditation were most strongly associated with reductions in depression and anxiety, while reminiscence-based IVR improved positive affect and life satisfaction. Controlled studies showed stronger correlation than uncontrolled designs. Barriers such as discomfort, cybersickness, and low digital literacy were commonly addressed through facilitator support and age-friendly design, with feasibility demonstrated across community and long-term care settings. CONCLUSIONS: Immersive virtual reality is a promising non-pharmacological approach to supporting mental health and reducing social isolation in older adults. CLINICAL IMPLICATIONS: When appropriately adapted, brief, facilitator-supported IVR sessions may improve mental health outcomes among older adults in community and institutional settings.",
+      "journal": "Clinical gerontologist",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Timing of the Baseline Assessment Confounds Efficacy Claims for a Post-surgical Telehealth Mindfulness Intervention After Lumbar Surgery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41783796/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.458718",
+      "doi": "10.1177/27536130261431233",
+      "authors": [
+        {
+          "name": "Audai H Abudayeh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Iakiv V Fishchenko",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lyudmila D Kravchuk",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Global advances in integrative medicine and health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Sound-based Meditation Alters Brain Activity: EEG Evidence for Power Reduction and Enhanced Conscious Alertness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41783263/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-01T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.458911",
+      "doi": "10.1177/09727531261417798",
+      "authors": [
+        {
+          "name": "Km Megha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ankita Mishra",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Raksha Sharma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pallabi Pal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vijay Shanker Yadav",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arjun Ram Roja",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arun Sasidharan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gulshan Kumar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sanjib Patra",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Meditation is known to modulate neural activity and enhance cognitive and emotional well-being. While previous studies have largely reported increases in alpha and theta activity, the neurophysiological effects of structured sound-based meditation practices remain underexplored. PURPOSE: This study investigated the neurophysiological and subjective effects of rhythmic sound meditation (RSM) compared to a resting state (RS) condition. We aimed to identify EEG spectral patterns and changes in subjective alertness during this meditation protocol. METHODS: Fifteen healthy adults (mean age = 24.8 \u00b1 3.6 years) participated in two 26-minute sessions (RSM and RS) in a randomised, counterbalanced design. EEG data were recorded using a 64-channel actiCHamp system, and power spectral density was analysed across delta, theta, alpha, beta, and gamma bands. Subjective alertness was assessed before and after the sessions using the Stanford Sleepiness Scale (SSS). Statistical analyses were conducted using Yuen's paired  RESULTS: RSM reduced EEG power across all frequency bands, particularly in prefrontal and frontocentral regions, compared to RS ( CONCLUSION: RSM induced distinct neurophysiological changes, characterised by widespread EEG power suppression in frontal regions and heightened subjective alertness. These findings support its potential for promoting altered states of consciousness, contributing to the neuroscientific understanding of sound-based meditation.",
+      "journal": "Annals of neurosciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Evaluation of a socio-cognitive mindfulness program using a mobile application to promote nursing students' mindfulness, emotion regulation, and empathy: a quasi-experimental study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41781938/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-04T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.459454",
+      "doi": "10.1186/s12912-026-04473-7",
+      "authors": [
+        {
+          "name": "Mikyoung Lee",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Socio-cognitive mindfulness is highly applicable in educational contexts and has demonstrated benefits for mindfulness, emotion regulation, and empathy; however, nursing research in this area remains limited, with most digital interventions focusing on meditation-based mindfulness. This study aimed to evaluate a mobile application-based socio-cognitive mindfulness program with regard to nursing students' mindfulness, emotion regulation, and empathy. METHODS: A quasi-experimental pretest-posttest design with a nonequivalent control group was employed. The participants were 70 third-year nursing students from a single university located in South Korea (35 experimental, 35 control). The experimental group participated in a six-week, 12-session socio-cognitive mindfulness program delivered through a mobile application, while no intervention was received by the control group. Validated scales for socio-cognitive mindfulness, emotion regulation (reappraisal and suppression), and empathy were used for data collection. Independent t-tests were used to compare between-group differences in pre-post change scores. RESULTS: The experimental group showed an improvement in socio-cognitive mindfulness in comparison with the control group (p = .020, Cohen's d\u2009=\u20090.415). Similarly, reappraisal increased in the experimental group in relation to the control group (p = .031, Cohen's d\u2009=\u20090.377). However, suppression and empathy showed no significant change between groups. CONCLUSIONS: The mobile socio-cognitive mindfulness program was associated with pre-post improvements in mindfulness and adaptive reappraisal, while changes in suppression and empathy were not detected. Integrating such programs into nursing curricula may support psychological flexibility, and more interactive and extended methods may be needed to foster empathy. CLINICAL TRIAL NUMBER: Not applicable.",
+      "journal": "BMC nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cultivating Clarity: Integrating Zen-Informed Principles Into Contemporary Radiology Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41781264/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-03T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.459868",
+      "doi": "10.1016/j.acra.2026.02.028",
+      "authors": [
+        {
+          "name": "Matthew N DeSalvo",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Modern radiology requires sustained attention, rapid decision-making, and emotional resilience amid increasing imaging volumes, diagnostic complexity, and fragmented workflows. Task switching and high throughput can contribute to cognitive overload, rigidity in reasoning, and clinician burnout. While technological innovations such as artificial intelligence and workflow optimization address external factors, comparatively little attention has focused on radiologists' internal cognitive state. Zen-informed principles-including mindful attention, beginner's mind, non-attachment to outcome, intentional pausing, and compassion/interconnectedness-offer a secular, evidence-aligned framework to support perceptual clarity, cognitive flexibility, and emotional steadiness. These principles align with findings from cognitive psychology, human factors engineering, and mindfulness research, and provide conceptual guidance for mitigating bias, structuring attention, and enhancing collaborative practice. Integrating micropractices-brief pauses between cases, deliberate reorientation of focus, and awareness of downstream impact-may help radiologists navigate uncertainty with equanimity, maintain systematic search patterns, and foster effective communication and learning. This Perspective situates Zen-informed approaches within a contemporary framework, highlighting their relevance to diagnostic performance and the cultivation of resilient, attentive, and mindful radiologic practice.",
+      "journal": "Academic radiology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effect of Yoga Intervention for Health Care Workers During the COVID-19 Pandemic: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41782516/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-05T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.460949",
+      "doi": "10.1177/27683605261419365",
+      "authors": [
+        {
+          "name": "I-Jung Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuan-Sheng Tzeng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shu-Yu Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fong-Ching Chang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Health care workers (HCWs) faced unprecedented stress, anxiety, and burnout during the COVID-19 pandemic. Yoga, a mind-body practice combining physical postures, breathing, and meditation, has demonstrated benefits for mental and physical resilience. This systematic review evaluated the effectiveness of yoga interventions in addressing mental health challenges and promoting overall well-being among HCWs during the pandemic. METHODS: This review adhered to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Comprehensive searches of PubMed, EMBASE, and Cochrane CENTRAL were conducted up to November 2024 using terms including \"yoga,\" \"COVID-19,\" and \"health care workers.\" Eligible studies involved HCWs receiving yoga interventions compared with nonyoga controls. Outcomes included stress, anxiety, depression, sleep quality, and physiological parameters. Randomized controlled trials, cohort studies, and observational studies were included. Quality assessment was performed using the Cochrane Risk of Bias Tool (RoB 1.0). Certainty of evidence assessment was conducted with Grading of Recommendations Assessment, Development and Evaluation. RESULTS: Of 134 studies identified, 11 met the inclusion criteria. Participants included HCWs from India, Turkey, and the United States, with intervention durations ranging from 2 to 12 weeks. Yoga consistently reduced stress, anxiety, and depression, with improvements in sleep quality and quality of life. Physiological benefits included enhanced autonomic function and reduced levels of inflammatory markers. App-based and tailored yoga protocols showed potential for scalability and accessibility. The overall quality of the included studies was moderate. CONCLUSION: Yoga interventions demonstrated significant benefits in mitigating mental health challenges and enhancing overall well-being in HCWs during the COVID-19 pandemic. These findings underscore the value of yoga as a holistic support for HCWs in high-stress environments.",
+      "journal": "Journal of integrative and complementary medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The unbearable hardness of inferring being: Comment on \"preliminaries to artificial consciousness\" by Evers et al.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41360043/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-01T00:00:00",
+      "date_fetched": "2026-03-05T12:36:07.461107",
+      "doi": "10.1016/j.plrev.2025.12.004",
+      "authors": [
+        {
+          "name": "Robert Chis-Ciure",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This commentary commends Evers et al.'s multidimensional heuristic for structuring artificial consciousness research while arguing it cannot, as stated, adjudicate the nomological possibility of phenomenal consciousness, which is at stake in current debates. Behavioral-cognitive \"profiles\" lack a justified principle linking function to experience, and the awareness case study illustrates how externally specified goals can just as well underwrite as-if (pseudo-intentional) control rather than original intentionality. Moreover, the proposed heuristic overlooks that substrate similarity is currently indispensable for justifiably inferring the presence of consciousness beyond the validated case of the adult human brain. Given all this, the framework seems to provide a blueprint for building a more sophisticated philosophical zombie; it does not-and cannot-tell us whether anyone is there.",
+      "journal": "Physics of life reviews",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
