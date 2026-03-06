@@ -1,725 +1,398 @@
 {
-  "generated_at": "2026-03-05T12:36:08.349723",
+  "generated_at": "2026-03-06T12:31:47.283867",
   "papers": [
     {
-      "title": "Longitudinal effects of interoceptive awareness training as an adjunct to medication treatment for opioid use disorder: A randomized clinical trial of Mindful Awareness in Body-oriented Therapy.",
-      "url": "https://www.semanticscholar.org/paper/67e61f87aa3f3f86d7aee6f5ebddb42f4bad9abf",
+      "title": "NON-ENGLISH MAJORS\u2019 PERCEPTIONS OF ETHICAL USE AND PLAGIARISM RISKS OF AI TOOLS IN ENGLISH ACADEMIC WRITING: A STUDY AT THU DAU MOT UNIVERSITY",
+      "url": "https://www.semanticscholar.org/paper/08823f875cf5859b7e86e3e7c74f26d9f050182f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-15T00:00:00",
+      "date_fetched": "2026-03-06T12:31:03.071779",
+      "doi": "10.37550/tdmu.ejs/2025.04.677",
+      "authors": [
+        {
+          "name": "Trung Hau Ho",
+          "author_id": "2421732081",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study explores non-English major students\u2019 perceptions of the\n ethical use and plagiarism risks associated with Artificial Intelligence\n (AI) tools in academic writing at Thu Dau Mot University. As AI\n technologies become increasingly integrated into higher education,\n concerns about academic integrity, authorship, and originality have\n intensified. Using a convergent mixed-methods design, data were\n collected from 108 students through questionnaires and from six\n participants via semi-structured interviews. Quantitative findings\n revealed that a majority of students acknowledged the importance of\n ethical AI use and expressed support for clearer institutional\n guidelines and teacher training on responsible AI integration.\n However, uncertainty persisted regarding the ethical boundaries\n between legitimate assistance and academic misconduct. Qualitative\n data reinforced these findings, highlighting students\u2019 awareness of\n AI\u2019s dual role in enhancing writing skills and posing plagiarism risks,\n particularly through diminished creativity and loss of personal voice.\n The study underscores the need for localized policies, updated\n plagiarism regulations, and pedagogical strategies to guide\n responsible AI use in EFL writing contexts.",
+      "journal": "Thu Dau Mot University Journal of Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "non-dual awareness"
+      ]
+    },
+    {
+      "title": "Physics-informed neural network for hydraulic prediction in open-channel water transfer projects with sparse monitoring data.",
+      "url": "https://www.semanticscholar.org/paper/2e60c24131857b246baa00f61a2261bf01cfbfb6",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-08-01T00:00:00",
-      "date_fetched": "2026-03-05T12:35:19.898893",
-      "doi": "10.1016/j.drugalcdep.2025.112813",
+      "date_fetched": "2026-03-06T12:31:11.527326",
+      "doi": "10.1016/j.watres.2025.124507",
       "authors": [
         {
-          "name": "Cynthia J. Price",
-          "author_id": "2278802339",
+          "name": "Zhongbin Li",
+          "author_id": "2145403092",
           "affiliation": null
         },
         {
-          "name": "Kenneth C Pike",
-          "author_id": "2278803387",
+          "name": "T. Mu",
+          "author_id": "6773713",
           "affiliation": null
         },
         {
-          "name": "Joseph O Merrill",
-          "author_id": "2278803957",
+          "name": "Xin Li",
+          "author_id": "2214718535",
+          "affiliation": null
+        },
+        {
+          "name": "Pengcheng Li",
+          "author_id": "2293147364",
+          "affiliation": null
+        },
+        {
+          "name": "Jiangang Feng",
+          "author_id": "2272868771",
+          "affiliation": null
+        },
+        {
+          "name": "Hui Xu",
+          "author_id": "2307497620",
+          "affiliation": null
+        },
+        {
+          "name": "Chunsheng Liu",
+          "author_id": "2186959028",
+          "affiliation": null
+        },
+        {
+          "name": "Shangtuo Qian",
+          "author_id": "95562555",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND AND OBJECTIVE\nMedication for opioid use disorder (MOUD) treatment outcomes can be limited by co-occurring mental and physical conditions, and new adjunctive interventions are needed to improve treatment. Mindful Awareness in Body-oriented Therapy (MABT) teaches interoceptive awareness skills to promote well-being. This study evaluated the longitudinal effects of MABT as an adjunct to MOUD treatment.\n\n\nMETHODS\nPatients stable on MOUD recruited from six community clinics were randomly assigned to MABT+MOUD or MOUD. Five assessments delivered over one year (N\u2009=\u2009303) examined abstinence from non-prescribed opioid and overall substance use (primary outcomes), and secondary outcomes of mental and physical health distress, interoceptive and mindfulness skills, and opioid craving. An intent-to-treat approach to examine change across time involved generalized estimating equations and linear mixed multilevel models.\n\n\nRESULTS\nThis sample demonstrated high percent days abstinence from non-prescribed opioids and other substances, resulting in no statistical between-group differences over time. Significant overall longitudinal effects for MABT+MOUD vs. MOUD were evident on secondary outcomes of physical symptom frequency, and interoceptive awareness. In addition, significant baseline to 12 month between-group improvements were evident on PTSD symptoms, emotion regulation difficulties, and mindfulness skills.\n\n\nCONCLUSIONS\nWhile stable on MOUD, this sample had high levels of chronic pain and mental health distress. The results highlight improved longitudinal health outcomes in response to MABT critical to support recovery on MOUD. The MABT completion rate and maintained use of MABT skills over 12 months demonstrates MABT implementation feasibility and positive intervention response as an adjunct to MOUD treatment. PREREGISTRATION CLINICALTRIALS.GOV: NCT04082637.",
-      "journal": "Drug and Alcohol Dependence",
+      "abstract": "Open-channel water transfer projects play a crucial role in addressing regional water supply-demand imbalances, and real-time, comprehensive, and accurate acquisition of their hydrodynamic spatiotemporal evolution is essential for ensuring safety and efficiency of water conveyance and optimizing scheduling strategies. While hydraulic monitoring systems and numerical simulations are potential solutions, the former struggles to balance the number of monitoring points with cost constraints to achieve comprehensive and economically feasible measurements, and the latter requires clear boundary conditions and key parameters that often pose challenges in practical scenarios. This paper presents a Physics-Informed Neural Network (PINN)-based method applied to predicting hydraulic transients in open channels, incorporating sparse monitoring data and physical laws. Results from numerical simulations and field tests demonstrate that the PINN model can accurately predict open-channel hydrodynamics and Manning's coefficient in various operational scenarios, and is robust to sensor noise. A series of sensitivity analyses were conducted to investigate the effects of neural network structural parameters, as well as the number and location of monitoring points, thereby determining the optimal neural network structure and monitoring point configuration. The findings provide a foundation for real-time, comprehensive and accurate hydrodynamic predictions in open-channel transfer projects from sparse monitoring data.",
+      "journal": "Water Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "awareness training"
+        "open monitoring"
       ]
     },
     {
-      "title": "The Role of Awareness Training in Recognising Child Neglect and Abuse Among Health\u2010Care Professionals",
-      "url": "https://www.semanticscholar.org/paper/c773bc1142d60172d4e9d0d7286963235bee10b9",
+      "title": "Glycaemic control and pregnancy outcomes with real-time continuous glucose monitoring in gestational diabetes (GRACE): an open-label, multicentre, multinational, randomised controlled trial.",
+      "url": "https://www.semanticscholar.org/paper/817b34585d6d6ff1c6097fc1da9988312965652f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-05T12:35:19.898926",
-      "doi": "10.1002/car.70105",
+      "date_published": "2025-11-01T00:00:00",
+      "date_fetched": "2026-03-06T12:31:11.527515",
+      "doi": "10.1016/S2213-8587(25)00288-8",
       "authors": [
         {
-          "name": "Elif\u00a0Ezgi\u00a0Arslan \u015eahbaz",
-          "author_id": "2409421557",
+          "name": "Tina Linder",
+          "author_id": "2030020081",
           "affiliation": null
         },
         {
-          "name": "Veli Duyan",
-          "author_id": "7728130",
+          "name": "Iris Dressler-Steinbach",
+          "author_id": "2241399143",
+          "affiliation": null
+        },
+        {
+          "name": "Silke Wegener",
+          "author_id": "2276042188",
+          "affiliation": null
+        },
+        {
+          "name": "K. Schellong",
+          "author_id": "4961861",
+          "affiliation": null
+        },
+        {
+          "name": "Saskia Schmidt",
+          "author_id": "2283472595",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel Eppel",
+          "author_id": "1390175935",
+          "affiliation": null
+        },
+        {
+          "name": "C\u00e9cile Monod",
+          "author_id": "2280220611",
+          "affiliation": null
+        },
+        {
+          "name": "Florian Heinzl",
+          "author_id": "37676199",
+          "affiliation": null
+        },
+        {
+          "name": "K. Redling",
+          "author_id": "11570955",
+          "affiliation": null
+        },
+        {
+          "name": "Bettina Winzeler",
+          "author_id": "2262054626",
+          "affiliation": null
+        },
+        {
+          "name": "Beatrice Mosimann",
+          "author_id": "2276049126",
+          "affiliation": null
+        },
+        {
+          "name": "Friederike Weschenfelder",
+          "author_id": "2309466165",
+          "affiliation": null
+        },
+        {
+          "name": "Tanja Groten",
+          "author_id": "2384952588",
+          "affiliation": null
+        },
+        {
+          "name": "Martina Mittlb\u00f6ck",
+          "author_id": "2357264541",
+          "affiliation": null
+        },
+        {
+          "name": "J. Jendle",
+          "author_id": "46942991",
+          "affiliation": null
+        },
+        {
+          "name": "Wolfgang Henrich",
+          "author_id": "2310878334",
+          "affiliation": null
+        },
+        {
+          "name": "M. Morettini",
+          "author_id": "1904709",
+          "affiliation": null
+        },
+        {
+          "name": "L. Bozkurt",
+          "author_id": "4626886",
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Tura",
+          "author_id": "2261978975",
+          "affiliation": null
+        },
+        {
+          "name": "Christian S. G\u00f6bl",
+          "author_id": "2251904747",
           "affiliation": null
         }
       ],
-      "abstract": "\n \n \n \n Structured awareness training significantly improves health\u2010care professionals' ability to recognise and respond to child neglect and abuse.\n \n \n Continuous, multidisciplinary and interactive training supports early identification, mandatory reporting and effective child protection.\n \n \n Evaluation results showed measurable improvements in all awareness areas, underlining the importance of regular, practice\u2010based training in safeguarding children.\n \n \n",
-      "journal": "Child Abuse Review",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Empowering Digital Defense: The Role of Cyber-Vaccination and Awareness Training in Strengthening Cybersecurity in the Modern Era Awareness Training for Cybersecurity",
-      "url": "https://www.semanticscholar.org/paper/51785f66d0b480515909b5fb78afb6fff36ed4ae",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-05T12:35:19.898937",
-      "doi": "10.2478/ejels-2026-0003",
-      "authors": [
-        {
-          "name": "A. Sharko",
-          "author_id": "70037404",
-          "affiliation": null
-        },
-        {
-          "name": "Folitjona Puravelli",
-          "author_id": "2405569181",
-          "affiliation": null
-        },
-        {
-          "name": "Genci Sharko",
-          "author_id": "69926450",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Abstract Today\u2019s rapidly evolving digital world has experienced a steady increase in the threat of hacking. As cyberattacks become more frequent and sophisticated, cyber-vaccination technology is being developed as a security method to counter the potential dangers posed by botnets. Cyber-vaccination involves exposing individuals to simulated cyberattacks, allowing them to become familiar with common threats and learn how to respond appropriately. Through internet safety awareness training, participants develop essential skills that are critical for maintaining online security. On a global scale, the growth of cybercrime mirrors the rapid spread of an infectious virus. Based on reported financial losses, cybercriminals appear to be accumulating increasing amounts of stolen funds each year. Although a wide range of advanced technologies exists to identify and prevent known cyber threats, these measures are often insufficient when attackers exploit human behavior as their primary method of intrusion. Many reputable organizations invest significant resources in training their employees to recognize and avoid phishing emails and other forms of cyberattacks. These organizations allocate funding and establish specialized teams to provide effective cybersecurity education. However, a substantial portion of the general population lacks access to such routine training, which presents a significant challenge. Providing accessible cybersecurity education is therefore essential. This study aims to examine the various free training options currently available, as well as the common risks and challenges associated with these educational opportunities. Additionally, the study will compare alternative solutions to determine their effectiveness in improving cybersecurity awareness.",
-      "journal": "European Journal of Economics, Law and Social Sciences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Unlocking Cybersecurity: A Game\u2010Changing Framework for Training and Awareness\u2014A Systematic Review",
-      "url": "https://www.semanticscholar.org/paper/8db2de93e64730fdd30fd631950ee0018e9ed914",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-03-05T12:35:19.898951",
-      "doi": "10.1155/hbe2/9982666",
-      "authors": [
-        {
-          "name": "Kiran Amjad",
-          "author_id": "2349916695",
-          "affiliation": null
-        },
-        {
-          "name": "Kashif Ishaq",
-          "author_id": "89094064",
-          "affiliation": null
-        },
-        {
-          "name": "Naeem A. Nawaz",
-          "author_id": "35933213",
-          "affiliation": null
-        },
-        {
-          "name": "Fadhilah Rosdi",
-          "author_id": "49030931",
-          "affiliation": null
-        },
-        {
-          "name": "Abdul Basit Dogar",
-          "author_id": "2343754919",
-          "affiliation": null
-        },
-        {
-          "name": "Fawad Ali Khan",
-          "author_id": "2333333776",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Recent advancements in computer science have led to the automation of many business processes. However, this increased automation has also escalated cyber threats and attacks alarmingly, as most data breaches are attributed to human errors, which are critical in these incidents. The primary cause is a lack of cybersecurity awareness and insufficient hands\u2010on experience in real\u2010world scenarios. Serious game frameworks offer a promising solution by surpassing traditional learning methods and addressing cybersecurity education\u2019s complex and evolving nature. This research employs the Preferred Reporting Items for Systematic reviews and Meta\u2010Analyses (PRISMA) technique to systematically analyze various studies, using a snowballing method to select relevant resources. The study conducted a systematic literature review of 68 selected studies within the domains of serious games and cybersecurity training, aiming at evaluating the contributions of other researchers. The review examined different frameworks, tools, technologies, methodologies, and serious games developed for cybersecurity training over the past 5 years. The key findings demonstrate that serious games can effectively engage learners, facilitating knowledge sharing within realistic cybersecurity environments. Additionally, the review assessed the methodologies used to evaluate these serious games across different educational settings. Finally, the study underscores the need for a structured classification of research in the cybersecurity domain, leveraging serious game frameworks along with its taxonomy. This classification would provide a clear direction for future research, building on the evaluation of techniques from previous studies.",
-      "journal": "Human Behavior and Emerging Technologies",
+      "abstract": "BACKGROUND\nData regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG).\n\n\nMETHODS\nFor this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18-55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36-38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute's GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose-lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328).\n\n\nFINDINGS\nBetween Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25\u00b72\u2009weeks [SD 2\u00b73] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28\u00b76 weeks (SD 1\u00b79) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0\u00b732, 95% CI 0\u00b710-0\u00b787, p=0\u00b7014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1\u00b759, 0\u00b786-2\u00b799, p=0\u00b711). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0\u00b777, 0\u00b742-1\u00b740, p=0\u00b739).\n\n\nINTERPRETATION\nrt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research.\n\n\nFUNDING\nDexcom.\n\n\nTRANSLATION\nFor the German translation of the abstract see Supplementary Materials section.",
+      "journal": "The Lancet Diabetes and Endocrinology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "awareness training"
+        "open monitoring"
       ]
     },
     {
-      "title": "Dhyana yoga, the path of meditative being: Psychotherapeutic insights from the east.",
-      "url": "https://www.semanticscholar.org/paper/e29d9eeae889ca8814d62c13bbe6cc03a14b9531",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-01T00:00:00",
-      "date_fetched": "2026-03-05T12:35:35.203041",
-      "doi": "10.1016/j.ajp.2025.104483",
-      "authors": [
-        {
-          "name": "M. Keshavan",
-          "author_id": "145345793",
-          "affiliation": null
-        },
-        {
-          "name": "Hemant Bhargav",
-          "author_id": "144742179",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Eastern spiritual traditions offer insights into the mind-body approaches to enhance health and well-being. These insights focus on self-awareness (the path of knowledge), intrinsically motivated and selfless action (karma yoga) and on faith and compassion (Bhakti yoga). Yogic meditative practices (Dhyana yoga), developed by ancient Hindu and other eastern traditions, are effective tools to implement these pathways to well-being. They involve ethical behavior (yama and niyama), bodily postures, breath-related, and/or other meditative approaches for mastery over the physiological and psychological processes within an individual. Meditative practices require practice (abhyasa) as well as detachment (vairagya), so that the 'ego' of being a 'doer' does not become a hindrance in achieving inner transformations. In this paper, we review the eastern concepts on the nature of these techniques of inner well-being, and then place them in the context of emerging insights in psychology on these behavioral practices. Meditative practices include focused attention (FA), open-monitoring (OM) and transcendental meditation (TM) approaches. We outline current emerging neuroscience findings that suggest somewhat distinctive correlates of these mental states with neural oscillations and brain circuits. These approaches may also be differentially effective across medical and psychiatric disorders. We review gaps in knowledge and offer a framework for further research in developing these interventions, especially as applied in the areas of positive psychology and psychiatry.",
-      "journal": "Asian Journal of Psychiatry",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Asymmetric Structural Design for Absorption\u2010Dominated Electromagnetic Interference Shielding Composites",
-      "url": "https://www.semanticscholar.org/paper/32f0e709f7a20973cae04dff0270fa63b64ddbbb",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-28T00:00:00",
-      "date_fetched": "2026-03-05T12:35:35.203090",
-      "doi": "10.1002/adfm.202423884",
-      "authors": [
-        {
-          "name": "Meng Zhou",
-          "author_id": "2331273548",
-          "affiliation": null
-        },
-        {
-          "name": "Zan Yu",
-          "author_id": "2335796368",
-          "affiliation": null
-        },
-        {
-          "name": "Qiming Yan",
-          "author_id": "2000542240",
-          "affiliation": null
-        },
-        {
-          "name": "Xinya Zhang",
-          "author_id": "2321466112",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Excessive electromagnetic pollution caused by electromagnetic waves can interfere with the normal use of electronic devices or cause unnecessary damage to human health. Although conductive polymer composites (CPCs) are used to replace traditional metals as an effective strategy for managing undesirable electromagnetic waves, CPCs have a non\u2010negligible trade\u2010off in the enhancement of electromagnetic interference (EMI) shielding effectiveness and absorption coefficient because of their reflection\u2010dominated EMI shielding mechanism. Therefore, to alleviate secondary electromagnetic pollution, absorption\u2010dominated EMI shielding composites with asymmetric structures are urgently needed. Recently, asymmetric structural designs for absorption\u2010dominated EMI shielding composites have advanced significantly, but have seldom been summarized and discussed in detail. Consequently, this review first systematically summarizes the current progress of absorption\u2010dominated EMI shielding composites with asymmetric structures after a brief clarification about the necessity and configuration of asymmetric structure design. Afterward, various absorption\u2010dominated EMI shielding composites with asymmetric fiber, layered, porous, composite structures are systematically described. Besides, the versatility of absorption\u2010dominated EMI shielding composites with asymmetric structures is briefly introduced. Finally, the current challenges and prospects are proposed to guide future advancement in the EMI shielding field.",
-      "journal": "Advanced Functional Materials",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Tailored intervention for smoking cessation among migrant smokers in health centers for precarious people in Paris: A co-design approach",
-      "url": "https://www.semanticscholar.org/paper/e9330c8e1a30f8f792264cfba11381b937873557",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-18T00:00:00",
-      "date_fetched": "2026-03-05T12:35:36.191910",
-      "doi": "10.1016/j.pmedr.2025.103245",
-      "authors": [
-        {
-          "name": "Clair-Antoine Veyrier",
-          "author_id": "2081479409",
-          "affiliation": null
-        },
-        {
-          "name": "Lisa Yombo Kokule",
-          "author_id": "2382246257",
-          "affiliation": null
-        },
-        {
-          "name": "S. Ducarroz",
-          "author_id": "13517278",
-          "affiliation": null
-        },
-        {
-          "name": "C. Aparicio",
-          "author_id": "2072101663",
-          "affiliation": null
-        },
-        {
-          "name": "E. Villalonga-Olives",
-          "author_id": "1404928025",
-          "affiliation": null
-        },
-        {
-          "name": "Martin Duracinsky",
-          "author_id": "2382612770",
-          "affiliation": null
-        },
-        {
-          "name": "Lorraine Cousin Cabrolier",
-          "author_id": "2209222970",
-          "affiliation": null
-        },
-        {
-          "name": "I. Yaya",
-          "author_id": "2237528499",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Objective Certain groups of migrants in Europe exhibit higher smoking prevalence compared to non-migrants, with social inequalities significantly impacting their health outcomes. Culturally adapted smoking cessation interventions are more effective for migrants. Co-design a smoking cessation intervention tailored to migrant smokers attending in health centers for precarious people in Paris. Methods Following an adapted experience-based co-design iterative process to gradually refine our crafted intervention, the study brought together migrants, health professionals, representatives from associations, and a research team between January and July 2024. Pre-workshop enabled to adapt ideation working tools to better suit the public. In the initial phase, migrants helped shape intervention design based on their tobacco use habits and preferences. Subsequent workshops benefitted medical and tobacco-expertise from healthcare workers in co-design workshops, refining our prototypes and ensuring they adhere to evidence-based practices. Data collection included questionnaires, audio-recordings, and field notes analyzed through thematic analysis. Results Fourteen migrants (mostly undocumented, from African countries, and current smokers) and fourteen healthcare workers (mostly medical practitioners or nurses) were involved in the co-design sessions. The co-designed intervention consisted in a monthly face-to-face participant-led group discussion supervised by health professionals with flexible attendance combined with WhatsApp group support with facilitated access to nicotine replacement therapy or existing interventions, and adapted health literacy materials. Conclusion Co-designing intervention with migrants enabled the development of an intervention addressing their barriers to smoking cessation. Combining peer-support, digital engagement, and facilitated access to existing resources may improve uptake and effectiveness of cessation programs among this vulnerable population.",
-      "journal": "Preventive medicine reports",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "cessation experience"
-      ]
-    },
-    {
-      "title": "Sex differences in the relationship between quit attempt and smoking cessation self-efficacy in adults with depressive symptoms.",
-      "url": "https://www.semanticscholar.org/paper/4b9e3fa11801b46ffda3a5492696efd63dc3bd54",
+      "title": "Interoception in Parkinson's disease: A narrative review and framework for translational research.",
+      "url": "https://www.semanticscholar.org/paper/fc298a90f588942484d0c58a4ee1c9314f627785",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-03-05T12:35:36.191955",
-      "doi": "10.1016/j.addbeh.2025.108328",
+      "date_fetched": "2026-03-06T12:31:23.319693",
+      "doi": "10.1016/j.autneu.2025.103258",
       "authors": [
         {
-          "name": "Zainab Shah",
-          "author_id": "2257336761",
+          "name": "Katherine Longardner",
+          "author_id": "46233121",
           "affiliation": null
         },
         {
-          "name": "Sarah E. Dreyer-Oren",
-          "author_id": "1422945325",
+          "name": "Senegal Alfred Mabry",
+          "author_id": "2284354549",
           "affiliation": null
         },
         {
-          "name": "Sarah Barter",
-          "author_id": "2257336587",
+          "name": "Gloria Chen",
+          "author_id": "2349204461",
           "affiliation": null
         },
         {
-          "name": "Julie A. Desaulniers",
-          "author_id": "2350142221",
+          "name": "R. Freeman",
+          "author_id": "2399546889",
           "affiliation": null
         },
         {
-          "name": "L. Uebelacker",
-          "author_id": "4790504",
+          "name": "S. Khalsa",
+          "author_id": "4326555",
           "affiliation": null
         },
         {
-          "name": "Ana M. Abrantes",
-          "author_id": "2325381372",
+          "name": "Paul A. Beach",
+          "author_id": "2272564841",
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE\nSmoking self-efficacy is a key predictor of being able to maintain smoking cessation. Smokers with depression have lower confidence that they can abstain from smoking (i.e., lower smoking self-efficacy) than those without depression. Additionally, individuals assigned female at birth (AFAB) have greater difficulty quitting smoking and lower self-efficacy than those assigned male at birth (AMAB). However, limited attention has been given to the experience of making a quit attempt on changes in smoking self-efficacy among smokers with depressive symptoms and how this may differ by abstinence outcomes and sex. The purpose of the current study was to examine whether abstinence or a reduction in cigarettes smoked during a standard smoking cessation treatment predicted post-treatment changes in smoking self-efficacy, and whether assigned sex moderated this relationship.\n\n\nMETHODS\nParticipants (n\u00a0=\u00a0146; 72.6\u00a0% AFAB; mean age\u00a0=\u00a046.6\u00a0years) received 12-week standard smoking cessation treatment as part of a randomized controlled trial testing two adjunctive health- and fitness-based interventions. Pre- and post-treatment, participants reported smoking self-efficacy (i.e., confidence abstaining in negative/affective-, positive/social-, and habit/addiction-related situations).\n\n\nRESULTS\nMultiple regression analyses showed that abstinence was associated with higher increases in smoking self-efficacy in all facets, and decreasing cigarette use from baseline to post-treatment was significantly associated with increases in total smoking self-efficacy. AMAB smokers had higher levels of positive/social related smoking self-efficacy than did AFAB smokers, and for AFAB smokers, a reduction in cigarettes smoked was associated with greater positive/social smoking self-efficacy.\n\n\nCONCLUSIONS\nFindings related to the role of self-efficacy in smoking cessation outcomes of smokers with depressive symptoms and how assigned sex impacts the role of self-efficacy provide insight for smoking cessation outcomes. Future research is needed to understand mechanisms underlying smoking self-efficacy and to improve smoking cessation interventions.",
-      "journal": "Addictive Behaviours",
+      "abstract": "Parkinson's disease (PD) is the second most common, and the fastest growing, neurodegenerative disease worldwide. Non-motor manifestations, particularly autonomic nervous system dysfunction, are common throughout the disease course, in some cases preceding motor symptom onset by years, and are often more disabling and harder to treat than motor symptoms and contribute significantly to disability. An understudied consequence of autonomic and visceral dysfunction in PD is interoception, the neural processing of internal organ system signals. Interoceptive processes form a foundational body-brain interface, mediating basic homeostatic reflexes and complex physiologic and behavioral adaptive responses to internal perturbations. Emerging evidence exists that interoception is impaired in some individuals with PD, potentially explaining why those who have objective evidence of autonomic dysfunction do not always report typical symptoms. Failure to recognize these impairments may lead to missed opportunities for early intervention, particularly in addressing 'silent' autonomic disturbances (e.g., orthostatic hypotension leading to sudden falls, dysphagia leading to aspiration pneumonia). In this narrative review, we synthesize current findings on the neuroanatomical networks underlying interoception, examine clinical manifestations of interoceptive dysfunction across multiple organ systems in PD, and identify key gaps in knowledge. We propose a translational research framework to enhance early detection, symptom management, and intervention strategies for PD. This framework integrates cognitive, mood, and autonomic dysfunctions with clinical factors (disease stage, duration, motor subtype, levodopa status) to understand interoceptive dysfunction within a translational model. This approach highlights novel opportunities for personalized care and improved therapeutic interventions in PD.",
+      "journal": "Autonomic Neuroscience: Basic & Clinical",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "cessation experience"
+        "interoception contemplative"
       ]
     },
     {
-      "title": "Pathways to inner peace: A meta-analysis of case studies on methods in chaplaincy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41781354/",
+      "title": "Measuring interoception from infancy to childhood: A scoping review.",
+      "url": "https://www.semanticscholar.org/paper/442536745fedff806a54d7761d8b45f13098fa25",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-04T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.457913",
-      "doi": "10.1080/08854726.2026.2633974",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-15T00:00:00",
+      "date_fetched": "2026-03-06T12:31:23.319737",
+      "doi": "10.1016/j.neubiorev.2025.106161",
       "authors": [
         {
-          "name": "Niels den Toom",
-          "author_id": null,
+          "name": "M. Addabbo",
+          "author_id": "4512686",
           "affiliation": null
         },
         {
-          "name": "Marjo van Zundert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anja Visser",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annelieke Damen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sujin Rosie",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carmen Schuhmann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hanneke Muthert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gaby Jacobs",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erik Olsman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jacques K\u00f6rver",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Martin Walton",
-          "author_id": null,
+          "name": "Luca Milani",
+          "author_id": "2355298559",
           "affiliation": null
         }
       ],
-      "abstract": "This study explores the extent to which chaplains employ structured methods in their practice in view of home-based chaplaincy in the Netherlands by conducting a secondary analysis of 40 case studies from the Dutch Case Studies Project (2016-21). Findings indicate that chaplains employ a broad range of interventions, among which two structured methods were identified: The Diamond Model and mindfulness. Both methods support clients in coping with vulnerability and making life decisions using different theoretical and spiritual approaches. It was found that both methods were applied flexibly, reflecting a balance between professional discretion and methodological integrity. Overall, the findings suggest that chaplains aim to integrate interventions, maintaining a balance between structured methods and relational presence, ultimately striving to foster inner peace through varied theoretical and spiritual approaches.",
-      "journal": "Journal of health care chaplaincy",
-      "year": 2026,
+      "abstract": "BACKGROUND\nInteroception is the ability to perceive, understand, and respond to internal bodily signals. Despite its importance, our knowledge of interoceptive abilities in the early stages of development remains limited. Delays or atypical patterns in interoceptive development may serve as early indicators of potential developmental psychopathology. Thus, assessing interoception in infancy and early childhood is essential for advancing our understanding of both typical and atypical developmental pathways.\n\n\nOBJECTIVE\nThis scoping review summarises existing evidence regarding interoception from infancy to childhood and identifies the most common methods for assessing interoception in neurotypical pediatric populations.\n\n\nDESIGN\nA literature review was performed through a robust search of three scientific databases.\n\n\nRESULTS\nAmong 663 studies, 24 articles met the inclusion criteria. The most commonly used methods in infancy were looking-time paradigms and brain-based implicit measures, such as Heart-Evoked Potentials (HEP). Researchers predominantly used child-adapted versions of Heart Tracking Tasks (HTT) for preschool-aged children. The primary methods for investigating interoceptive abilities among school-aged children included HTTs and self-report measures. Only one study used fMRI to examine mind-body connections in childhood, while two relied on parent reports.\n\n\nCONCLUSIONS\nThis review offers a comprehensive overview of past and current methods for measuring interoception in the literature. It highlights the strengths and limitations of existing methodologies and presents recommendations to enhance our understanding of interoception in early human development.",
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
     },
     {
-      "title": "The role of self-compassion in the relationship between resilience and negative affect.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41781461/",
+      "title": "The potential role of the anterior insular cortex and interoception on dyspnea in chronic obstructive pulmonary disease.",
+      "url": "https://www.semanticscholar.org/paper/ee3dc68b1729ca6c2dd43ecabf1c6d5bcdb61934",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-04T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.458187",
-      "doi": "10.1038/s41598-026-42585-x",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-03-06T12:31:23.319840",
+      "doi": "10.1016/j.resp.2025.104441",
       "authors": [
         {
-          "name": "Timo J Lajunen",
-          "author_id": null,
+          "name": "Anna L. Hudson",
+          "author_id": "2359467446",
           "affiliation": null
         },
         {
-          "name": "Marios Adonis",
-          "author_id": null,
+          "name": "M. Day",
+          "author_id": "2383889310",
           "affiliation": null
         },
         {
-          "name": "Maria Giagkou",
-          "author_id": null,
+          "name": "Marie T. Williams",
+          "author_id": "2256726313",
           "affiliation": null
         },
         {
-          "name": "Mark J M Sullman",
-          "author_id": null,
+          "name": "Olivia K. Harrison",
+          "author_id": "2306863435",
           "affiliation": null
         }
       ],
-      "abstract": "Third-wave psychotherapeutic approaches, which emphasise acceptance and mindfulness, have shown effectiveness in alleviating negative affect. This study examined the role of self-compassion in the relationship between resilience and negative affect, including symptoms of stress, anxiety, and depression. A cross-sectional design was employed with 494 adults from the general population. Participants completed the Depression Anxiety Stress Scale-21 (DASS-21), the Self-Compassion Scale (SCS), and the Brief Resilience Scale (BRS). Regression analyses indicated that higher resilience was associated with lower levels of negative affect and self-compassion was significantly correlated with both resilience and negative affect. Mediation analyses revealed a significant indirect effect, suggesting that self-compassion is associated with a portion of the variance in the relationship between resilience and negative affect. These findings highlight a notable association between self-compassion, resilience, and emotional distress, suggesting that self-compassion may be a relevant construct for interventions aimed at enhancing psychological wellbeing.",
-      "journal": "Scientific reports",
-      "year": 2026,
+      "abstract": "Dyspnea (the perception of breathing discomfort) can be an immensely debilitating symptom for people with chronic obstructive pulmonary disease (COPD) and is not fully reflective of physiological measures of disease severity. We propose that the anterior insular cortex (AIC) and its key role in interoception (the perception of signals from within the body) are important mediators of dyspnea symptomology. Interoception encompasses respiratory motor drive, corollary discharge, sensory afferents, central neural integration, error signal generation, gating, decision processing and behavioral adaptation. Neuroimaging evidence supports this notion as decreased AIC activity in people with COPD is associated with heightened dyspnea, and respiratory interoceptive attention tasks have been shown to increase activation in this area of the brain. Therefore, activity in the AIC within the interoceptive processing pathway may explain some of the variability in symptom burden in people living with COPD. We explore these theories in the context of the current knowledge on the physiology and neuroscience of dyspnea, drawing on the implementation of interoceptive measures in other respiratory and mental health conditions. Given the evidence that the AIC has a key role in interoception and is a likely mediator within dyspnea symptomology, advances in our understanding of the role of interoceptive processing on symptom burden in people living with COPD, as well as appropriate methods to measure and treat it, should be research priorities.",
+      "journal": "Respiratory Physiology & Neurobiology",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
     },
     {
-      "title": "Enhancing Workplace Outcomes Through Digital Behavioral Health Programs: Retrospective Real-World Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41780927/",
+      "title": "A model to understand risk behavior: Interoception awareness and motivational systems in the binge watching.",
+      "url": "https://www.semanticscholar.org/paper/793403a4e7e0cd9252265ed566d2c3bbc19b7315",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-04T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.458402",
-      "doi": "10.2196/88335",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-03-06T12:31:23.319912",
+      "doi": "10.1016/j.heliyon.2025.e42253",
       "authors": [
         {
-          "name": "Inbar Breuer Asher",
-          "author_id": null,
+          "name": "G. Forte",
+          "author_id": "47944551",
           "affiliation": null
         },
         {
-          "name": "David L Horwitz",
-          "author_id": null,
+          "name": "F. Favieri",
+          "author_id": "67123587",
           "affiliation": null
         },
         {
-          "name": "Omar Manejwala",
-          "author_id": null,
+          "name": "Francesca Agostini",
+          "author_id": "2202461181",
           "affiliation": null
         },
         {
-          "name": "Yifat Fundoiano-Hershcovitz",
-          "author_id": null,
+          "name": "Maria Casagrande",
+          "author_id": "2066358958",
+          "affiliation": null
+        },
+        {
+          "name": "Renata Tambelli",
+          "author_id": "2331991245",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Modern workplaces create increasing demands on employees, often leading to stress, burnout, and reduced functional capacity. These challenges contribute to significant functionality losses, with absenteeism and presenteeism posing economic burdens. Mindfulness-based workplace interventions have been shown to improve mental health, yet their effects on specific work-related performance outcomes such as concentration difficulties, mistakes, and procrastination over time are less explored. OBJECTIVE: This study aimed to evaluate self-reported workplace function changes for a 10-week period among users of a digital behavioral health program. METHODS: This retrospective analysis used real-world data from users of the Dario Health behavioral health app. Participants were required to complete at least 2 workplace functionality assessments, including one at week 1 as a baseline. The assessment comprised 3 items measuring concentration difficulties, mistakes at work, and procrastination, each rated on a 0 (\"not at all\") to 3 (\"a lot\") scale. Users who initially scored 2 (\"often\") or 3 (\"a lot\") on each respective measure formed the cohorts for analysis. Longitudinal changes were examined using piecewise linear mixed-effects models. Cut points were selected empirically through sensitivity analyses comparing alternative cut points (weeks 2-7) using Akaike and Bayesian information criteria to identify the best-fitting model for each outcome. RESULTS: Sensitivity analyses identified optimal cut points at week 6 for concentration difficulties and procrastination and at week 5 for mistakes at work. Among users reporting baseline concentration difficulties (n=1254), significant reductions were observed during weeks 1 to 6 (B=-0.02; P<.001), with larger reductions during weeks 6 to 10 (B=-0.08; P<.001). For mistakes at work (n=167), a significant decrease occurred during weeks 1 to 5 (B=-0.05; P=.02), followed by a more pronounced reduction during weeks 5 to 10 (B=-0.22; P<.001). Among users reporting baseline procrastination (n=1004), significant improvements were observed during weeks 1 to 6 (B=-0.02; P<.001), with greater reductions during weeks 6 to 10 (B=-0.08; P<.001). CONCLUSIONS: Use of the digital behavioral health platform was associated with improvements in workplace function, particularly among users with sustained use beyond 4 weeks. The observed outcomes suggest that continued participation in such digital behavioral health programs may be linked to favorable changes in mental health and cognitive functioning over time and may support employee well-being. Long-term engagement appears essential to maximize benefits, warranting further research into sustained impacts and optimization strategies for workplace productivity.",
-      "journal": "JMIR formative research",
-      "year": 2026,
+      "abstract": "This study aims to test the interoceptive-motivational hypothesis as a possible marker for the risk of developing binge-watching (BW) as a behavioral addiction. Like other risky behaviors, BW can be included in a model that includes the interaction of personological and physiological factors as predictors of the behavioral outcome. On a sample of 741 young adults, a structural equation model considered the association between the interoceptive indices (MAIA questionnaire), inhibition/activation systems (BIS/BAS questionnaire) of the motivational theory, and BW pattern (BWAQ questionnaire). The results suggested a different interaction between the variables when BW was considered as a leisure activity and as an at-risk behavior. While in the first case, interoception and BIS/BAS systems interact, and BIS and interoception positively affect the increase of BW as a leisure activity, in BW as at-risk behavior, the interoceptive-motivational link is lost, and a different pattern of association with the behavior emerges. BIS and BW are still positively associated with the problematic expression of the behavior. The result would suggest that persons exhibiting better interoceptive sensitivity display lower risk of addictive BW. Finally, the interoceptive-motivational model, if confirmed in other at-risk behaviors, would provide a new perspective in the field of behavioral addictions.",
+      "journal": "Heliyon",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
     },
     {
-      "title": "Immersive Virtual Reality to Promote Mental Health in Older Adults: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41778450/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-04T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.458535",
-      "doi": "10.1080/07317115.2026.2639141",
-      "authors": [
-        {
-          "name": "Sunkanmi Folorunsho",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Olabisi Lawal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Comfort Olamide",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Etinosa Osawe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Oluwatobi Adedoyin",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: This systematic review examined the use of immersive virtual reality (IVR) to support multidimensional mental health among older adults. METHODS: Seven databases were searched for peer-reviewed studies published between January 2020 and March 2025, with forward and backward citation tracking completed in April 2025 (PROSPERO ID: CRD42025644394). Eligible studies involved adults aged 60\u2009years and older, used fully immersive IVR via head-mounted displays, and assessed mental health outcomes. Ten studies met inclusion criteria, spanning randomized, quasi-experimental, pre - post, and mixed-methods designs across North America, Europe, and Asia. RESULTS: Eight of the 10 studies reported improvements in mental health. Virtual nature and guided meditation were most strongly associated with reductions in depression and anxiety, while reminiscence-based IVR improved positive affect and life satisfaction. Controlled studies showed stronger correlation than uncontrolled designs. Barriers such as discomfort, cybersickness, and low digital literacy were commonly addressed through facilitator support and age-friendly design, with feasibility demonstrated across community and long-term care settings. CONCLUSIONS: Immersive virtual reality is a promising non-pharmacological approach to supporting mental health and reducing social isolation in older adults. CLINICAL IMPLICATIONS: When appropriately adapted, brief, facilitator-supported IVR sessions may improve mental health outcomes among older adults in community and institutional settings.",
-      "journal": "Clinical gerontologist",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Timing of the Baseline Assessment Confounds Efficacy Claims for a Post-surgical Telehealth Mindfulness Intervention After Lumbar Surgery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41783796/",
+      "title": "Predictive Value of Mindfulness and Coping With Stress Styles on Depression, Anxiety and Stress Levels of Adults Who Stutter.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41784626/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.458718",
-      "doi": "10.1177/27536130261431233",
+      "date_fetched": "2026-03-06T12:31:46.489687",
+      "doi": "10.1111/1460-6984.70220",
       "authors": [
         {
-          "name": "Audai H Abudayeh",
+          "name": "\u0130lkem U\u00e7al",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Iakiv V Fishchenko",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lyudmila D Kravchuk",
+          "name": "Ay\u015fe \u0130layda Mutlu",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Global advances in integrative medicine and health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Sound-based Meditation Alters Brain Activity: EEG Evidence for Power Reduction and Enhanced Conscious Alertness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41783263/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-01T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.458911",
-      "doi": "10.1177/09727531261417798",
-      "authors": [
-        {
-          "name": "Km Megha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ankita Mishra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Raksha Sharma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pallabi Pal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vijay Shanker Yadav",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arjun Ram Roja",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arun Sasidharan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gulshan Kumar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sanjib Patra",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Meditation is known to modulate neural activity and enhance cognitive and emotional well-being. While previous studies have largely reported increases in alpha and theta activity, the neurophysiological effects of structured sound-based meditation practices remain underexplored. PURPOSE: This study investigated the neurophysiological and subjective effects of rhythmic sound meditation (RSM) compared to a resting state (RS) condition. We aimed to identify EEG spectral patterns and changes in subjective alertness during this meditation protocol. METHODS: Fifteen healthy adults (mean age = 24.8 \u00b1 3.6 years) participated in two 26-minute sessions (RSM and RS) in a randomised, counterbalanced design. EEG data were recorded using a 64-channel actiCHamp system, and power spectral density was analysed across delta, theta, alpha, beta, and gamma bands. Subjective alertness was assessed before and after the sessions using the Stanford Sleepiness Scale (SSS). Statistical analyses were conducted using Yuen's paired  RESULTS: RSM reduced EEG power across all frequency bands, particularly in prefrontal and frontocentral regions, compared to RS ( CONCLUSION: RSM induced distinct neurophysiological changes, characterised by widespread EEG power suppression in frontal regions and heightened subjective alertness. These findings support its potential for promoting altered states of consciousness, contributing to the neuroscientific understanding of sound-based meditation.",
-      "journal": "Annals of neurosciences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Evaluation of a socio-cognitive mindfulness program using a mobile application to promote nursing students' mindfulness, emotion regulation, and empathy: a quasi-experimental study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41781938/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-04T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.459454",
-      "doi": "10.1186/s12912-026-04473-7",
-      "authors": [
-        {
-          "name": "Mikyoung Lee",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Socio-cognitive mindfulness is highly applicable in educational contexts and has demonstrated benefits for mindfulness, emotion regulation, and empathy; however, nursing research in this area remains limited, with most digital interventions focusing on meditation-based mindfulness. This study aimed to evaluate a mobile application-based socio-cognitive mindfulness program with regard to nursing students' mindfulness, emotion regulation, and empathy. METHODS: A quasi-experimental pretest-posttest design with a nonequivalent control group was employed. The participants were 70 third-year nursing students from a single university located in South Korea (35 experimental, 35 control). The experimental group participated in a six-week, 12-session socio-cognitive mindfulness program delivered through a mobile application, while no intervention was received by the control group. Validated scales for socio-cognitive mindfulness, emotion regulation (reappraisal and suppression), and empathy were used for data collection. Independent t-tests were used to compare between-group differences in pre-post change scores. RESULTS: The experimental group showed an improvement in socio-cognitive mindfulness in comparison with the control group (p = .020, Cohen's d\u2009=\u20090.415). Similarly, reappraisal increased in the experimental group in relation to the control group (p = .031, Cohen's d\u2009=\u20090.377). However, suppression and empathy showed no significant change between groups. CONCLUSIONS: The mobile socio-cognitive mindfulness program was associated with pre-post improvements in mindfulness and adaptive reappraisal, while changes in suppression and empathy were not detected. Integrating such programs into nursing curricula may support psychological flexibility, and more interactive and extended methods may be needed to foster empathy. CLINICAL TRIAL NUMBER: Not applicable.",
-      "journal": "BMC nursing",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Cultivating Clarity: Integrating Zen-Informed Principles Into Contemporary Radiology Practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41781264/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-03T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.459868",
-      "doi": "10.1016/j.acra.2026.02.028",
-      "authors": [
-        {
-          "name": "Matthew N DeSalvo",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Modern radiology requires sustained attention, rapid decision-making, and emotional resilience amid increasing imaging volumes, diagnostic complexity, and fragmented workflows. Task switching and high throughput can contribute to cognitive overload, rigidity in reasoning, and clinician burnout. While technological innovations such as artificial intelligence and workflow optimization address external factors, comparatively little attention has focused on radiologists' internal cognitive state. Zen-informed principles-including mindful attention, beginner's mind, non-attachment to outcome, intentional pausing, and compassion/interconnectedness-offer a secular, evidence-aligned framework to support perceptual clarity, cognitive flexibility, and emotional steadiness. These principles align with findings from cognitive psychology, human factors engineering, and mindfulness research, and provide conceptual guidance for mitigating bias, structuring attention, and enhancing collaborative practice. Integrating micropractices-brief pauses between cases, deliberate reorientation of focus, and awareness of downstream impact-may help radiologists navigate uncertainty with equanimity, maintain systematic search patterns, and foster effective communication and learning. This Perspective situates Zen-informed approaches within a contemporary framework, highlighting their relevance to diagnostic performance and the cultivation of resilient, attentive, and mindful radiologic practice.",
-      "journal": "Academic radiology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effect of Yoga Intervention for Health Care Workers During the COVID-19 Pandemic: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41782516/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-05T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.460949",
-      "doi": "10.1177/27683605261419365",
-      "authors": [
-        {
-          "name": "I-Jung Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuan-Sheng Tzeng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shu-Yu Wu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fong-Ching Chang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Health care workers (HCWs) faced unprecedented stress, anxiety, and burnout during the COVID-19 pandemic. Yoga, a mind-body practice combining physical postures, breathing, and meditation, has demonstrated benefits for mental and physical resilience. This systematic review evaluated the effectiveness of yoga interventions in addressing mental health challenges and promoting overall well-being among HCWs during the pandemic. METHODS: This review adhered to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Comprehensive searches of PubMed, EMBASE, and Cochrane CENTRAL were conducted up to November 2024 using terms including \"yoga,\" \"COVID-19,\" and \"health care workers.\" Eligible studies involved HCWs receiving yoga interventions compared with nonyoga controls. Outcomes included stress, anxiety, depression, sleep quality, and physiological parameters. Randomized controlled trials, cohort studies, and observational studies were included. Quality assessment was performed using the Cochrane Risk of Bias Tool (RoB 1.0). Certainty of evidence assessment was conducted with Grading of Recommendations Assessment, Development and Evaluation. RESULTS: Of 134 studies identified, 11 met the inclusion criteria. Participants included HCWs from India, Turkey, and the United States, with intervention durations ranging from 2 to 12 weeks. Yoga consistently reduced stress, anxiety, and depression, with improvements in sleep quality and quality of life. Physiological benefits included enhanced autonomic function and reduced levels of inflammatory markers. App-based and tailored yoga protocols showed potential for scalability and accessibility. The overall quality of the included studies was moderate. CONCLUSION: Yoga interventions demonstrated significant benefits in mitigating mental health challenges and enhancing overall well-being in HCWs during the COVID-19 pandemic. These findings underscore the value of yoga as a holistic support for HCWs in high-stress environments.",
-      "journal": "Journal of integrative and complementary medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The unbearable hardness of inferring being: Comment on \"preliminaries to artificial consciousness\" by Evers et al.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41360043/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-01T00:00:00",
-      "date_fetched": "2026-03-05T12:36:07.461107",
-      "doi": "10.1016/j.plrev.2025.12.004",
-      "authors": [
-        {
-          "name": "Robert Chis-Ciure",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This commentary commends Evers et al.'s multidimensional heuristic for structuring artificial consciousness research while arguing it cannot, as stated, adjudicate the nomological possibility of phenomenal consciousness, which is at stake in current debates. Behavioral-cognitive \"profiles\" lack a justified principle linking function to experience, and the awareness case study illustrates how externally specified goals can just as well underwrite as-if (pseudo-intentional) control rather than original intentionality. Moreover, the proposed heuristic overlooks that substrate similarity is currently indispensable for justifiably inferring the presence of consciousness beyond the validated case of the adult human brain. Given all this, the framework seems to provide a blueprint for building a more sophisticated philosophical zombie; it does not-and cannot-tell us whether anyone is there.",
-      "journal": "Physics of life reviews",
+      "abstract": "PURPOSE: Increased depression, anxiety and stress symptoms are associated with reduced mindfulness levels and coping skills. This study primarily aimed to investigate (1) the relationships between mindfulness, coping styles, depression, anxiety and stress and (2) mindfulness and coping styles as predictors of depression, anxiety and stress in adults who stutter. A secondary aim was to compare mindfulness, coping styles, depression, anxiety and stress levels in adults who stutter according to stuttering severity. METHOD: This exploratory study included 47 adults who stutter who completed a full online survey in Turkish to gather demographic information, mindfulness, coping styles, depression, anxiety and stress scores. Participants were interviewed remotely to assess their stuttering severity. The correlation and hierarchical regression analysis were applied. RESULTS: Significant positive relationships between depression and anxiety, depression and stress, and anxiety and stress scores were found. Mindfulness significantly explained 24.9% of the stress levels in adults who stutter, and helpless and submissive coping styles significantly explained 43.8% of the depression and 31.4% of the anxiety levels. CONCLUSION: This study showed a correlation between elevated stress, anxiety and depression levels. Frequent use of passive coping mechanisms and lower mindfulness scores were found to be predictors of depression, anxiety and stress in adults who stutter. WHAT THIS PAPER ADDS: What is already known on this subject Stress, anxiety and depression are interrelated, with research revealing mixed findings regarding the relationship between stuttering and depression. However, stuttering is consistently associated with heightened anxiety levels, particularly state anxiety. Increased mindfulness has been linked to reduced stress, anxiety and depression, with studies indicating that individuals who stutter exhibit lower negative impacts of stuttering when mindfulness levels are higher. Additionally, coping strategies-whether active or passive-are associated with stress levels, with active coping correlating with more favorable outcomes. Research suggests that individuals who stutter and employ active coping mechanisms, such as seeking social support, manage stress more effectively. What this paper adds to the existing knowledge This study contributes to the literature by confirming the significant relationships between depression, anxiety and stress in adults who stutter and highlighting mindfulness and passive coping styles as predictors of these variables. Specifically, lower mindfulness levels and more frequent use of passive coping strategies were associated with higher depression, anxiety and stress levels. What are the potential or actual clinical implications of this work? These findings suggest that individuals who stutter may benefit from interventions targeting mindfulness and active coping strategies to better manage stress, anxiety and depression, with implications for clinical practice.",
+      "journal": "International journal of language & communication disorders",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
