@@ -1,31 +1,755 @@
 {
-  "generated_at": "2026-03-09T12:36:21.234259",
-  "papers": [],
-  "articles": [
+  "generated_at": "2026-03-10T12:35:49.018865",
+  "papers": [
     {
-      "title": "Frankie Focus, Attention-Grabber",
-      "url": "https://www.newyorker.com/magazine/2026/03/16/frankie-focus-attention-grabber",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-03-09T10:00:00",
-      "date_fetched": "2026-03-09T12:36:20.758432",
-      "doi": null,
+      "title": "Awareness, acceptance, and adoption of Gen-AI by K-12 mathematics teachers: an empirical study integrating TAM and TPB",
+      "url": "https://www.semanticscholar.org/paper/9bb0ed7eab8adef336f591fe821e4e8ce9795a44",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-06T00:00:00",
+      "date_fetched": "2026-03-10T12:35:04.707045",
+      "doi": "10.1186/s40359-025-02781-2",
       "authors": [
         {
-          "name": "Jael Goldfine",
+          "name": "Yi Wang",
+          "author_id": "2369998515",
+          "affiliation": null
+        },
+        {
+          "name": "Ziting Wei",
+          "author_id": "2359597768",
+          "affiliation": null
+        },
+        {
+          "name": "Tommy Tanu Wijaya",
+          "author_id": "2377788519",
+          "affiliation": null
+        },
+        {
+          "name": "Yiming Cao",
+          "author_id": "2309505680",
+          "affiliation": null
+        },
+        {
+          "name": "Yimin Ning",
+          "author_id": "2142369338",
+          "affiliation": null
+        }
+      ],
+      "abstract": "In the 21st century, the variety of instructional media for mathematics has significantly diversified. Generative AI (Gen-AI) is one technology that K-12 teachers can utilize for teaching mathematics. However, as a new instructional medium, Gen-AI presents its own set of usage challenges. Research into the factors influencing mathematics teachers\u2019 usage behavior of Gen-AI is crucial. This study integrates the Technology Acceptance Model (TAM) and the Theory of Planned Behavior (TPB), incorporating a factor of AI awareness to explore the determinants of teachers\u2019 usage behavior in employing Gen-AI for mathematics instruction. Data from 230 mathematics teachers who agreed to participate were analyzed using the partial least squares structural equation modeling (PLS-SEM) approach. The results indicate that teachers\u2019 attitudes toward Gen-AI, subjective norms, and perceived behavioral control (PBC) have a direct effect on mathematics teachers\u2019 usage behavior. AI awareness was found to directly affect perceived usefulness (PU), perceived ease of use (PEOU), and attitudes, and it also has an indirect effect on mathematics teachers\u2019 usage behavior. This research provides new insights into enhancing the adoption of Gen-AI as an instructional medium by improving mathematics teachers\u2019 attitudes toward Gen-AI, with AI awareness playing a pivotal role in this enhancement.",
+      "journal": "BMC Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "How does AI awareness affect employees\u2019 voice behavior in the service industry? A transactional theory of stress perspective",
+      "url": "https://www.semanticscholar.org/paper/73a8bf58cd25010870a7f823949bf97d2463a99f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-16T00:00:00",
+      "date_fetched": "2026-03-10T12:35:04.707121",
+      "doi": "10.1108/ijchm-04-2024-0618",
+      "authors": [
+        {
+          "name": "Changqing He",
+          "author_id": "48129067",
+          "affiliation": null
+        },
+        {
+          "name": "Huyun Xiong",
+          "author_id": "2340269559",
+          "affiliation": null
+        },
+        {
+          "name": "Wenjun Cai",
+          "author_id": "2302330475",
+          "affiliation": null
+        },
+        {
+          "name": "Jun Song",
+          "author_id": "2340389770",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Purpose\nThis study aims to explore the impacts of service industry employees\u2019 AI awareness on their voice behavior while also considering the dual mediating roles of voice efficacy and job insecurity, as well as the moderating role of trait competitiveness.\n\nDesign/methodology/approach\nThe sample comprises data from a two-wave longitudinal survey of 203 employees in the service sector. This study examined all the hypotheses using Mplus 8.0.\n\nFindings\nThis study confirms that service sector employees\u2019 AI awareness has significant negative effects on both promotive and prohibitive voice behaviors. Voice efficacy can mediate the negative impact of AI awareness on promotive voice. Both voice efficacy and job insecurity can mediate the negative impact of AI awareness on prohibitive voice. Furthermore, employees\u2019 trait competitiveness can weaken the negative impact of employees\u2019 AI awareness on their voice efficacy.\n\nPractical implications\nManagers should first investigate employees\u2019 AI awareness and then adopt targeted managerial strategies to promote their voice behavior.\n\nOriginality/value\nThis study contributes to the literature related to the consequences of AI awareness by linking AI awareness to employee voice behavior. Furthermore, this study deepens our understanding of how AI awareness affects employee voice behavior by proposing voice efficacy (i.e. the efficacy pathway) and job insecurity (i.e. the safety pathway) as key mediating mechanisms. Moreover, this study advances our understanding of when AI awareness influences employee voice behavior by identifying the moderating role of trait competitiveness.\n",
+      "journal": "International Journal of Contemporary Hospitality Management",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "The relationship between environmental literacy, ecological footprint awareness, and environmental behavior in adults",
+      "url": "https://www.semanticscholar.org/paper/e7f16bf0c4b2b905c8a9fdadc9e6559e274f1f20",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-10T00:00:00",
+      "date_fetched": "2026-03-10T12:35:04.707149",
+      "doi": "10.1186/s12889-025-21340-3",
+      "authors": [
+        {
+          "name": "M. Y\u0131ld\u0131r\u0131m",
+          "author_id": "2054293311",
+          "affiliation": null
+        },
+        {
+          "name": "Ay\u015fe Elkoca",
+          "author_id": "114139708",
+          "affiliation": null
+        },
+        {
+          "name": "G\u00f6n\u00fcl G\u00f6k\u00e7ay",
+          "author_id": "2022488450",
+          "affiliation": null
+        },
+        {
+          "name": "D. A. Y\u0131lmaz",
+          "author_id": "2176902103",
+          "affiliation": null
+        },
+        {
+          "name": "M. Y\u0131ld\u0131z",
+          "author_id": "2239443737",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Environmental literacy and ecological footprint awareness encouraging them to consume less energy, reduce waste and use natural resources more sustainably. In this study, the aim was to determine and compare the relationship between environmental literacy, ecological footprint awareness, and environmental behaviors of adults. The research was conducted in a descriptive and cross-sectional type. The universe of the research was individuals aged 18 and over in a province located in the west of Turkey (n: 398) between April 2022 and January 2023. Data were analyzed using SPSS 22.0, G*Power 3.1, and R programming language 4.1.3 programs. This study revealed that environmental literacy and ecological footprint awareness significantly affected environmental behaviors (p\u2009<\u20090.05). In the study, the ecological footprint awareness variable has a partial mediating effect on the environmental behaviors variable (LLCI\u2009=\u20090.1226, ULCI\u2009=\u20090.2559). Increased environmental literacy and ecological footprint awareness positively affect environmental behaviors. Future studies should explore these relationships in diverse populations. Longitudinal studies on attitudes towards environmental behaviors are recommended.",
+      "journal": "BMC Public Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+      "url": "https://www.semanticscholar.org/paper/2dfe534065f768b8b93fd40b6fac7677a9f70a05",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-04T00:00:00",
+      "date_fetched": "2026-03-10T12:35:04.707175",
+      "doi": "10.48550/arXiv.2502.01926",
+      "authors": [
+        {
+          "name": "Angelina Wang",
+          "author_id": "2349388428",
+          "affiliation": null
+        },
+        {
+          "name": "Michelle Phan",
+          "author_id": "1490738453",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel E. Ho",
+          "author_id": "2343742385",
+          "affiliation": null
+        },
+        {
+          "name": "Oluwasanmi Koyejo",
+          "author_id": "143812875",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Algorithmic fairness has conventionally adopted the mathematically convenient perspective of racial color-blindness (i.e., difference unaware treatment). However, we contend that in a range of important settings, group difference awareness matters. For example, differentiating between groups may be necessary in legal contexts (e.g., the U.S. compulsory draft applies to men but not women) and harm assessments (e.g., referring to girls as ``terrorists''may be less harmful than referring to Muslim people as such). Thus, in contrast to most fairness work, we study fairness through the perspective of treating people differently -- when it is contextually appropriate to. We first introduce an important distinction between descriptive (fact-based), normative (value-based), and correlation (association-based) benchmarks. This distinction is significant because each category requires separate interpretation and mitigation tailored to its specific characteristics. Then, we present a benchmark suite composed of eight different scenarios for a total of 16k questions that enables us to assess difference awareness. Finally, we show results across ten models that demonstrate difference awareness is a distinct dimension to fairness where existing bias mitigation strategies may backfire.",
+      "journal": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Moderated mediation model of\u00a0relationship between artificial intelligence awareness and counterproductive work behavior, turnover intention",
+      "url": "https://www.semanticscholar.org/paper/12f6f6b04fbc0f8fb17b64d00d2f7fd6c975f991",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-04T00:00:00",
+      "date_fetched": "2026-03-10T12:35:04.707187",
+      "doi": "10.1108/jocm-07-2024-0398",
+      "authors": [
+        {
+          "name": "X. Doan",
+          "author_id": "134879761",
+          "affiliation": null
+        },
+        {
+          "name": "Thi Phuong Linh Nguyen",
+          "author_id": "2310630773",
+          "affiliation": null
+        }
+      ],
+      "abstract": "PurposeThis study aimed to develop a moderated mediation model to explain the relationship between artificial intelligence (AI) awareness and counterproductive work behavior, turnover intention. In this model, the authors assumed that interpersonal conflict mediates and that perceived organizational support and competitive psychological climate moderates the relationship between AI awareness and counterproductive work behavior, turnover intention.Design/methodology/approachAn empirical study based on a sample of 1,129 Vietnamese employees at some enterprises of 6 fields with the highest level of AI application. Structural equation modelling analysis was used for hypothesis testing.FindingsAnalysis of the data demonstrates that AI awareness has a relationship with counterproductive behavior, interpersonal conflict and turnover intention. At the same time, the research results also confirm that interpersonal conflict affects counterproductive behavior and turnover intention. Moreover, interpersonal conflict mediates the effect of AI awareness on counterproductive behavior and turnover intention, and the moderating roles of perceived organizational support and competitive psychological climate has been confirmed.Research limitations/implicationsSample data was only collected at a few Vietnamese enterprises in 6 fields with the highest level of application which are e-commerce, transportation and logistics, education, real estate, finance and agriculture, which may be limiting generalizability of research results. Future studies could include data from enterprises in different sectors or focus on a specific sector.Practical implicationsThe authors offer several significant implications to reduce counterproductive work behavior and turnover intention in enterprises, such as by paying attention that the penetration and spread of AI or other smart technologies is inevitable in the future, ensuring make sure support from organization is available for the employees and creating a working environment of integrity and honesty in all situations based on trust, respect and fairness.Originality/valueThe study developed and verified a moderated mediated model on the relationship between AI awareness and counterproductive work behavior, turnover intention. The authors confirmed the mediating role of interpersonal conflict and the moderating role of perceived organizational support and competitive psychological climate in the relationship among AI awareness and counterproductive work behavior, turnover intention.",
+      "journal": "Journal of Organizational Change Management",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Confronting mortality: A meta-analysis and systematic review of psychedelic experiences and death anxiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41797724/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381002",
+      "doi": "10.1177/02698811261424199",
+      "authors": [
+        {
+          "name": "Alicia Cohorst",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Petri J Kajonius",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This meta-analysis and systematic review examined the effects of psychedelic substances on death anxiety, specifically evaluating whether psychedelic experiences are associated with statistically significant reductions in death anxiety. A systematic search identified 8 studies suitable for meta-analysis and 10 additional studies for systematic review. Using a random-effects model, the meta-analysis revealed a significant overall effect (Cohen's ",
+      "journal": "Journal of psychopharmacology (Oxford, England)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Evaluating a brief MBCT programme for non-suicidal self-injury in individuals with BPD: a within-subject pre-post pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41803929/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381057",
+      "doi": "10.1186/s40479-026-00337-3",
+      "authors": [
+        {
+          "name": "Szilvia Kresznerits",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "\u00c1gnes Zinner-G\u00e9recz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M\u00f3nika Mikl\u00f3si",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tam\u00e1s Szekeres",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "D\u00f3ra Perczel-Forintos",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "Governor Kathy Hochul\u2019s recent policy cracks down on phones in schools. Her enforcer? A freaky neon-green creature.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
+      "journal": "Borderline personality disorder and emotion dysregulation",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effectiveness of the Components of a Digital Multiple Health Behavior Intervention Among University Students (Buddy): Factorial Randomized Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41802225/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381181",
+      "doi": "10.2196/88884",
+      "authors": [
+        {
+          "name": "Katarina \u00c5sberg",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Oskar Lundgren",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hanna Henriksson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pontus Henriksson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ann Catrine Eldh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Preben Bendtsen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marie L\u00f6f",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcus Bendtsen",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Digital interventions have shown promise in supporting healthy behaviors among university students; however, few interventions support simultaneous change across multiple health behaviors. Moreover, behavioral interventions are typically evaluated as a whole, making it challenging to disentangle the contribution of individual components to the overall effects. OBJECTIVE: This study estimated the effects of the components of a digital behavior intervention on alcohol, diet, physical activity, and smoking outcomes among university students in Sweden. METHODS: A double-blind randomized factorial trial with 6 two-level factors was conducted. University students in Sweden were proactively recruited through student health care centers and social media. Participants were eligible if they were aged 18 years or older and had at least one health behavior classified as unhealthy. The effects of 6 components were estimated: screening and feedback; goal-setting and planning; motivation; skills and know-how; mindfulness; and self-authored SMS text messages. Primary outcomes were weekly alcohol consumption and frequency of heavy episodic drinking, average daily fruit and vegetable consumption, weekly sugary drink consumption, weekly moderate-to-vigorous physical activity (MVPA), and 4-week point prevalence of smoking. RESULTS: A total of 1704 students were randomized. The effectiveness of individual and pairwise components was estimated using available data from 1118 (65.61%) participants at 2 months and 874 (51.29%) at 4 months, with sensitivity analyses conducted using imputed missing data. Most consistently, the evidence indicated that screening and feedback affected fruit and vegetable consumption (2-month mean difference 0.11, compatibility interval [CoI] -0.02 to 0.24; probability of effect [POE] 94.7% and 4-month mean difference 0.12, CoI -0.03 to 0.26; POE 94.4%), as did skills and know-how (2-month mean difference 0.19, CoI 0.06-0.33; POE 99.8% and 4-month mean difference 0.14, CoI 0.01-0.28; POE 96.9%). The combination of these 2 components was even more effective (2-month mean difference 0.30, CoI 0.11-0.48; POE 99.9% and 4-month mean difference 0.26, CoI 0.05-0.46; POE 99.4%). The motivation and mindfulness components, both individually and in combination, increased MVPA at 2 months (combined mean difference 78.0, CoI 28.3-128.2; POE 99.9%); however, this effect was not observed at 4 months. Combining screening and feedback with skills and know-how increased MVPA at 4 months (mean difference 60.1, CoI 3.6-116.5; POE 98.2%). Heavy episodic drinking was reduced at 2 months by screening and feedback (incidence rate ratio 0.87, CoI 0.74-1.02; POE 95.2%), and the effect was greater when combined with goal-setting and mindfulness. There was some evidence that the motivation component was harmful with respect to heavy episodic drinking and that self-authored SMS text messages were harmful with respect to sugary drink consumption. CONCLUSIONS: We dismantled a complex digital multiple behavior intervention and examined it using a factorial design to provide novel insights into the effectiveness of the intervention's different components. Both marginal and synergistic effects were observed across multiple behaviors, providing evidence regarding which components are most promising in complex interventions. These findings should be considered in light of the risk of bias introduced by attrition to follow-up, which was high in this effectiveness trial with low barriers to participation. TRIAL REGISTRATION: International Standard Randomised Controlled Trial Number (ISRCTN) ISRCTN23310640; https://www.isrctn.com/ISRCTN23310640. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): RR2-10.1136/bmjopen-2021-051044.",
+      "journal": "Journal of medical Internet research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Understanding the Link Between Spirituality and Neurorehabilitation: A Narrative Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41804524/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-10T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381224",
+      "doi": "10.1177/10538135261423944",
+      "authors": [
+        {
+          "name": "Paul Olowoyo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adefolarin Malomo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kehinde Adigun",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anna Ranta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mayowa Owolabi",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BackgroundSpirituality is an essentially universal human experience and is incorporated into concepts of health and well-being in many cultures. The spiritual domain of quality of life, spared in the disability paradox, may be harnessed for recovery through internal adaptation and coping skills. This can help the individual attain his/her full potential while optimizing health-related quality of life. This narrative review explored the role of spirituality in neurorehabilitation.MethodsWe conducted a narrative review of relevant articles published between 2000 and 2024 using the following search terms: \"spirituality\", \"spiritual care\", \"neurorehabilitation\", \"stroke rehabilitation\", \"brain injury rehabilitation\", \"spinal cord injury\", \"Parkinson's disease\", \"recovery\", \"neuroplasticity\", \"music therapy\". Similar articles were harmonized to avoid redundancy.ResultsWe retrieved 9,200 articles. After the removal of non-relevant duplicates, 50 articles were reviewed. We observed that many cultures have recognized the experience of spirituality and its impact on health for centuries. Recent advances in neuroradiology have enabled us to map such experiences to specific brain pathways. Their activation is associated with increased neuronal activities that potentially lead to the strengthening of existing synapses, the formation of new synapses, and spatial re-orientation of neuronal networks, suggesting that spiritual activation may favorably contribute to neuroplasticity. There is emerging evidence that supports the benefits of spiritually-based interventions such as meditation, prayer, singing, dancing, yoga, and others for improvement in patients.ConclusionWhile observational data are strong, more randomized controlled trials (RCTs) are needed to establish the role of spiritual interventions and inclusion in neurorehabilitation guidelines towards achieving holistic restoration.",
+      "journal": "NeuroRehabilitation",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exploring impacts of a college biology course with integrated mindfulness practice on student well-being: Qualitative insights from student written reflections.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41802319/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381313",
+      "doi": "10.1080/07448481.2026.2636837",
+      "authors": [
+        {
+          "name": "Zhuoya Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sai S Chilakapati",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ph\u00e1p L\u01b0u",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Caroline Borowy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Diane Gilbert-Diamond",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: This study aimed to qualitatively explore the perceived impacts of an undergraduate biology course that integrated mindfulness on student well-being. PARTICIPANTS: A total of 36 undergraduate students enrolled in the Mindful Physiology course in Spring 2023. METHODS: Thematic analysis was conducted on students' weekly written reflections on course content and mindfulness practice. RESULTS: Students reported improved well-being, including increased positive emotions, compassion, social connectedness, and competency in using mindfulness to manage everyday stressors. Recognizing the body as a dynamic, interdependent system fostered appreciation of interbeing and enhanced connection to themselves, others, and the environment. Additionally, learning about physiological systems increased students' appreciation for their bodies and motivation to adopt health-promoting practices, including consistent mindfulness practice. CONCLUSIONS: Findings support integrating mindfulness practice into human physiology teaching as an innovative approach to enhance college student well-being.",
+      "journal": "Journal of American college health : J of ACH",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The relationships between self-management behavior with psychological distress, health literacy and interoceptive sensibility in stroke survivors: a structural equation model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41795310/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-05T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381358",
+      "doi": "10.1016/j.gerinurse.2026.103962",
+      "authors": [
+        {
+          "name": "Yunmei Guo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yu Shan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shouwen Peng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xin Yan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: This study aimed to investigate the direct and indirect relationships between self-management behavior, psychological distress, health literacy, and interoceptive sensibility in stroke survivors using a structural equation model (SEM). METHODS: A cross-sectional study was conducted with 417 stroke survivors. Validated scales measured self-management behavior (Stroke Self-Management Questionnaire), psychological distress (SCL-90), health literacy (Health Literacy Questionnaire), and interoceptive sensibility (Multidimensional Assessment of Interoceptive Awareness). SEM was used to analyze hypothesized pathways and mediation effects. RESULTS: The final SEM model demonstrated acceptable fit (CFI = 0.88, RMSEA = 0.08). The indirect effects of interoceptive sensibility and health literacy on self-management behavior were -0.075(p < 0.01) and 0.182(p < 0.01), respectively, while the total effect of interoceptive sensibility on self-management behavior was 0.136(p < 0.01). Interoceptive sensibility was significantly related to self-management behavior (\u03b2 = 0.19, p < 0.01), psychological distress (\u03b2 = 0.62, p < 0.01), and health literacy (\u03b2 = 0.67, p < 0.01). Demographic characteristics were inversely related to self-management behavior (\u03b2 = -0.04, p = 0.007). Psychological distress had a significant negative association on self-management behavior (\u03b2= -0.22, p < 0.01), while health literacy had a significant positive association on self-management behavior (\u03b2= 0.42, p < 0.01). CONCLUSION: Interoceptive sensibility is a critical association of self-management behavior in stroke survivors, with psychological distress and health literacy acting as mediators. Interventions should prioritize reducing psychological distress, improving health literacy, and integrating interoceptive awareness training.",
+      "journal": "Geriatric nursing (New York, N.Y.)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Ritual Resilience through Full-Moon Meditation: Reclaiming the Sacred Value of Sojiwan Temple in a Commodified Heritage Landscape.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41793620/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-07T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381527",
+      "doi": "10.1007/s12124-026-09979-y",
+      "authors": [
+        {
+          "name": "Supriyanto",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tri Yatno",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Integrative psychological & behavioral science",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Early palliative care for patients with oral cancer in Sri Lanka: A non-randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41801962/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381781",
+      "doi": "10.1371/journal.pgph.0005985",
+      "authors": [
+        {
+          "name": "Nadisha Ratnasekera",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Irosha Perera",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sumeth Perera",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jenny Lau",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Camilla Zimmermann",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pushpakumara Kandapola Arachchige",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Oral cancer is prevalent among Sri Lankan men and substantially compromises quality of life (QOL). Limited evidence exists on early palliative care in low- and middle-income countries. We assessed the effectiveness of an early palliative care intervention in improving psychological distress and QOL among patients with oral cancer in Sri Lanka. We conducted a non-randomized controlled trial with group allocation based on patients' residence. The study is registered as NCT06726317. We recruited from four tertiary care units providing oral cancer treatment in Sri Lanka: the oral and maxillofacial wards at the National Dental Hospital, Colombo (Teaching); Colombo South Teaching Hospital, Karapitiya; and the onco-surgery wards at the National Cancer Institute, Maharagama (Apeksha Hospital). The eligible participants were patients with oral cancer who had received their definitive diagnosis, reported psychological distress (score \u22654 on the Sinhala version of the Distress Thermometer), were awaiting surgery as the first treatment modality, and were married with at least one family caregiver able to communicate in Sinhalese. Exclusion criteria included recurrent oral cancer, a formal psychiatric diagnosis, or prior receipt of early palliative care. Participants were assigned to the intervention (n\u2009=\u200955) or control group (n\u2009=\u200955) based on the availability of an accessible Public Health Nursing Officer. The intervention group received an early palliative care package consisting of three structured sessions. The first session was delivered by the principal investigator (a trained dental surgeon and public health professional) during the hospital stay before surgery. The second and third sessions were provided by trained Public Health Nursing Officers at participants' homes, one and three weeks after discharge. Each session lasted about two hours and included information provision, management of acute and functional issues, nutritional care, psychological support, mindfulness therapy, and coordination of financial assistance. The control group received standard care within the health system, which included ad hoc symptom management on request without a structured palliative care component. The effectiveness was assessed using the Sinhala version of the Distress Thermometer for psychological distress and the EORTC QLQ-C30 with the H&N35 module for QOL at baseline (T0), post-intervention (T1), one month (T2), and three months (T3). All 110 eligible participants completed the intervention and follow-up (response rate 100%). At baseline, there were no significant differences between groups in distress (p\u2009=\u20090.7) or QOL. Over time, the intervention group showed greater reductions in distress (mean difference\u2009=\u2009-2.26; 95% CI: -3.35 to -1.07; p\u2009=\u20090.0001). After adjusting for baseline scores and potential confounders, the intervention group reported higher Global Health Status (17.1; 95% CI: 6.9-27.3; p\u2009=\u20090.001) and Functional Status (23.6; 95% CI: 5.7-41.5; p\u2009=\u20090.01), as well as lower Symptom Status (23.2; 95% CI: 5.6-40.8; p\u2009=\u20090.01) and H&N35 symptom burden (16.8; 95% CI: 6.8-26.8; p\u2009=\u20090.001) compared with controls. We conclude that the early palliative care intervention showed promising effectiveness in reducing psychological distress and improving quality of life among patients with oral cancer in Sri Lanka. Public Health Nursing Officers may play a key role in linking tertiary and community care to enhance patient well-being. Larger studies across diverse populations are needed to confirm these findings.",
+      "journal": "PLOS global public health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Domain-specific responsiveness to mindfulness and cognitive rehabilitation in chronic ischemic stroke survivors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41797257/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-08T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381824",
+      "doi": "10.1080/10749357.2026.2634289",
+      "authors": [
+        {
+          "name": "Lili Zhao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Forough Ahrari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ehsan Rastbood",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mohammad Bin Hasan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fereshteh Osmani",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Chronic ischemic stroke survivors experience cognitive, emotional, and participation-related limitations that affect reintegration into the community and life satisfaction. Mindfulness-Based Stress Reduction (MBSR) and Cognitive Rehabilitation Therapy (CRT) may aid in the recovery process of stroke survivors. These rehabilitation programs may act through different mechanisms. However, little is known about the domain-specific responsiveness of stroke survivors to these rehabilitation programs. OBJECTIVES: The objectives of this study were to investigate the domain-specific functional responsiveness of stroke survivors with chronic ischemic stroke to both mindfulness-based and cognitive rehabilitation programs, especially in terms of participation, communication, and cognitive outcomes. METHODS: This controlled longitudinal study consisted of 36 stroke survivors with chronic ischemic stroke who were randomly assigned to one of the three groups: MBSR, cognitive rehabilitation based on Powell's protocol, or a control group. Participants underwent the Stroke Impact Scale (SIS) assessment. Changes in SIS domain scores from baseline to post-intervention and two-month follow-up were evaluated using repeated measures analysis of variance. RESULTS: The results revealed that the patterns of domain-specific responsiveness varied between the interventions. It was noted that the mindfulness-based intervention showed better recovery in cognitive-affective domains, especially memory, thinking, and participation/role function. Conversely, cognitive rehabilitation showed better recovery in communication-related outcomes. No significant recovery was noted in the control group for any of the domains. CONCLUSIONS: The study suggests that both mindfulness-based and cognitive rehabilitation interventions facilitate recovery through unique pathways in chronic ischemic stroke survivors. Domain-specific responsiveness may be a valuable tool for providing clinically relevant information for tailoring rehabilitation approaches according to individual patient characteristics.",
+      "journal": "Topics in stroke rehabilitation",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effectiveness of interventions designed to enhance and maintain medical student wellbeing: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41803803/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-07T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381920",
+      "doi": "10.1186/s12909-025-08460-5",
+      "authors": [
+        {
+          "name": "Anita J Horvath",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Farhana Ahmed Shegufta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad Reza Chairilsyah",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kevin Wikanta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nilakshi T Waidyatillake",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Katharine Reid",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Psychological well-being is crucial for medical students, who face high levels of stress throughout their training. This systematic review examines interventions designed to enhance the well-being of medical students, addressing gaps in previous research that often focused on specific interventions or included broader health professional populations. METHODS: This systematic review was undertaken according to PRISMA guidelines and registered with PROSPERO (CRD42018097172). The review analysed 33 studies identified from a search of Medline and PsycINFO, identifying a variety of interventions and outcome measures of wellbeing. Results were narratively synthesised and primary studies assessed using the Cochrane Risk of Bias 2 (RoB-2) tool for interventional studies and the Newcastle-Ottawa Scale (NOS) tool for observational studies. RESULTS: The most effective interventions were mindfulness-based programs, particularly when combined with cognitive behavioral therapy (CBT). These approaches helped students manage stress, anxiety, and depression, which occur frequently among medical students. Notably, online mindfulness programs were as effective as in-person sessions, offering flexibility for students with demanding schedules. Voluntary participation in these interventions also led to better outcomes, highlighting the importance of student engagement. Other effective interventions included positive psychology programs, which foster resilience, coping ability and gratitude, and physical exercise which reduced stress and improved overall well-being. In contrast, voluntary mentoring programs and health education initiatives showed limited effectiveness in reducing psychological distress, possibly due to inconsistent implementation or a lack of emotional support. Interestingly, the review found that the frequency and duration of effective interventions did not significantly affect their efficacy. This suggests that simply including and delivering wellbeing interventions in curricular may be more important than their length or frequency. Participants who engaged in mindfulness and other well-being interventions also maintained improvements in mental health during follow-up assessments, indicating long-term benefits. CONCLUSION: Voluntary mindfulness interventions combined with CBT, along with positive psychology and exercise programs, were identified as the most effective strategies for enhancing the well-being of medical students. Future research should explore integrating these interventions into medical curricula to ensure lasting mental health support throughout students' training.",
+      "journal": "BMC medical education",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Commentary: Mindfulness-based interventions for patients receiving palliative care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41798399/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-05T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.381953",
+      "doi": "10.1177/17449871261421883",
+      "authors": [
+        {
+          "name": "Stefan Nilsson",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of research in nursing : JRN",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effects of intensive mindfulness interventions on athletes' psychological states and cognitive performance: an fNIRS study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41803998/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.382077",
+      "doi": "10.1186/s40359-026-04323-w",
+      "authors": [
+        {
+          "name": "Yunting Song",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiaxiu Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shukurjon Gaziev",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jasur Zarifbayev",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rashid Matkarimov",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pin Zhong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuanze Cheng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mingqiang Xiang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "BMC psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Assessing the Quality of Hive Products, Levels of Adulteration, and Major Adulterants along Each of the Value Chain Stages in Eastern Amhara Region.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41794393/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-05T00:00:00",
+      "date_fetched": "2026-03-10T12:35:48.382298",
+      "doi": "10.1016/j.jfp.2026.100745",
+      "authors": [
+        {
+          "name": "Alemu Tsegaye",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Abebe Jenberie",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yesuf Ebrahim",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meressa Lemma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ayalew Girmay",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Addisu Bihonegn",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Adulteration of hive products, especially honey, has become a pressing issue in Eastern Amhara due to declining production and high market prices. This illegal practice threatens the quality and credibility of bee products, impacting producers, consumers, and the apiculture value chain. A regional survey involving 175 respondents and laboratory analysis of honey samples revealed widespread concern over adulteration, yet 59.43% had never received training on quality control. Awareness levels were low, 68.57% for honey and 81.71% for beeswax adulteration. Retailers (24.57%) and collectors (15.43%) were identified as key actors in adulteration, though 35.43% of respondents were unsure. Sugar and Alum, a locally known substance, \"Sheb,\" were the most cited adulterants (68.57%). Notably, this study is the first to investigate \"Sheb\" or Alum as a mixing agent, revealing its role in facilitating high-ratio adulteration, typically at 1:4 honey-to-sugar when mixed directly, and up to 1:10 when or Alum is used. Adulteration peaks during harvest seasons when honey is more abundant and easier to mix in its liquid form. Lab tests confirmed \"Sheb\" or Alum contains toxic elements harmful to test animals. Adulterated honey showed elevated sucrose (3.06% to 8.76%) and HMF levels (33.83 mg/kg to 156.45 mg/kg), indicating significant quality degradation. Urgent action is necessary to protect the integrity of hive products. Promoting awareness, training, and risk mitigation strategies can help ensure a sustainable and trustworthy honey market in Eastern Amhara.",
+      "journal": "Journal of food protection",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
     }
-  ]
+  ],
+  "articles": []
 }
