@@ -1,154 +1,218 @@
 {
-  "generated_at": "2026-03-12T12:34:44.928422",
+  "generated_at": "2026-03-13T12:34:04.724113",
   "papers": [
     {
-      "title": "Effectiveness of ",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41810578/",
+      "title": "A moderated-mediated model of work alienation and mindfulness at work",
+      "url": "https://www.semanticscholar.org/paper/7536ba4a1547d85ac648bb81ae5d06810e2fec9f",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-11T00:00:00",
-      "date_fetched": "2026-03-12T12:34:32.694541",
-      "doi": "10.1017/S0033291726103390",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-27T00:00:00",
+      "date_fetched": "2026-03-13T12:33:16.381521",
+      "doi": "10.1080/02642069.2025.2456926",
       "authors": [
         {
-          "name": "Roberto D'Amelio",
-          "author_id": null,
+          "name": "Georgiana Karada\u015f",
+          "author_id": "114031975",
           "affiliation": null
         },
         {
-          "name": "Linda T Betz",
-          "author_id": null,
+          "name": "Souad Hassanie",
+          "author_id": "2135204632",
           "affiliation": null
         },
         {
-          "name": "Sarah M Jow",
-          "author_id": null,
+          "name": "\u00d6zlem Altun",
+          "author_id": "2309369185",
           "affiliation": null
         },
         {
-          "name": "Wolfgang Retz",
-          "author_id": null,
+          "name": "Farzad Safaeimanesh",
+          "author_id": "1396703242",
           "affiliation": null
         },
         {
-          "name": "Alexandra Philipsen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jan Philipp Klein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eva Fassbinder",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gitta A Jacob",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Petra Retz-Junginger",
-          "author_id": null,
+          "name": "Nafiya Guden",
+          "author_id": "101241174",
           "affiliation": null
         }
       ],
-      "abstract": "Access to evidence-based psychosocial interventions for adults with attention-deficit/hyperactivity disorder (ADHD) remains limited, despite strong patient demand for nonpharmacological options such as cognitive behavioral therapy (CBT). Digital interventions may offer a scalable, low-threshold solution to meet this need and complement existing care. This pragmatic randomized controlled trial evaluated the effectiveness of ",
-      "journal": "Psychological medicine",
-      "year": 2026,
+      "abstract": "ABSTRACT This study aims to examine a moderated mediation model of work alienation and mindfulness among employees in line with the conservation of resources theory. Specifically, the impact of emotional intelligence on knowledge hiding mediated by work alienation is assessed. Moreover, the paper assumes that mindfulness moderates the indirect effect of emotional intelligence on knowledge hiding via work alienation. Data were gathered from workers working in five-star hotels in Northern Cyprus and analyzed by AMOS. The findings highlighted the mediating role of work alienation between emotional intelligence and knowledge hiding. Furthermore, the results revealed that mindfulness moderates the indirect impact of emotional intelligence on knowledge hiding via work alienation in the sense that the higher the level of mindfulness is, the stronger the effect of emotional intelligence on reducing work alienation. The paper discusses the implications for theory and practice and provides future research suggestions.",
+      "journal": "Service Industries Journal",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "mindfulness"
+      ]
     },
     {
-      "title": "Mediating Effects of Mindfulness Compassion-based Peer Counseling Program for Breast Cancer Survivors: From Mindfulness, Compassion to Others to Depression Reduction.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41815388/",
+      "title": "The effects of the Mindfulness-Based Childbirth and Parenting Program (MBCP) on prenatal attachment, depression, stress, and anxiety in pregnant women: A randomized controlled trial.",
+      "url": "https://www.semanticscholar.org/paper/7502f7607ce06a5bf232074f637de7db32680a46",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-12T12:34:43.824514",
-      "doi": "10.5093/pi2026a6",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-03-13T12:33:16.381558",
+      "doi": "10.1016/j.jad.2025.02.030",
       "authors": [
         {
-          "name": "Fei-Hsiu Hsiao",
-          "author_id": null,
+          "name": "Ezgi Findik",
+          "author_id": "2345723539",
           "affiliation": null
         },
         {
-          "name": "Chiao Lo",
-          "author_id": null,
+          "name": "Neslihan Y\u0131lmaz Sezer",
+          "author_id": "1394200304",
           "affiliation": null
         },
         {
-          "name": "Chiun-Sheng Huang",
-          "author_id": null,
+          "name": "M. N. Aker",
+          "author_id": "71482240",
           "affiliation": null
         },
         {
-          "name": "Wen-Hung Kuo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Feng-Ying Huang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yu-Ting Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chia-Chen Hsieh",
-          "author_id": null,
+          "name": "Duygu Badur",
+          "author_id": "2345723579",
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: The study aimed to test a mindfulness compassion-based intervention for breast cancer survivors serving as peer counselors, exploring whether mindfulness influenced depressive symptoms via a serial pathway of self-compassion, compassion to others, anxiety reduction, and improved quality of life. METHOD: This 8-month study adopted the randomized controlled trial (RCT) design. Survivors who are diagnosed with breast and complete treatments for at least one year were recruited from outpatient department of the General Hospital Breast Center and non-profit organization. They were randomly assigned into MC-BMS experimental group (the 8 weekly mindfulness compassion-based integrated with body-mind-spirit group therapy), and BMS control group (8 weekly body-mind-spirit group therapy). RESULTS: There was a similarity in increasing general QOL functioning between the BMS and MC-BMS groups. The better improvements in QOL symptoms distress were more favored in MC-BMS than BMS groups. For within-group analyses, significant improvements in the MC-BMS group were depressive symptoms, search for meaning, mindfulness, while the BMS group showed significant improvements in global health, and breast cancer-related functioning. The three serial mediation pathways indicated that increases in mindfulness predicted greater self-compassion, which was associated with increased compassion to others. This, in turn, led to reduced anxiety, enhanced quality of life and breast cancer-related functioning, and ultimately, reduced depression. CONCLUSIONS: Enhancing mindfulness and compassionate processes in peer-counselor training serve a central role in improving anxiety and functional quality of life, thereby alleviating depressive symptoms in breast cancer survivors.",
-      "journal": "Psychosocial intervention",
-      "year": 2026,
+      "abstract": "BACKGROUND\nInterventions to cope with emotional states (depression, stress, and anxiety) and strengthen attachment are important. This research aims to determine the effect of the Mindfulness-Based Childbirth and Parenting Program (MBCP) on pregnant women's prenatal attachment and their levels of depression, stress, and anxiety.\n\n\nMETHODS\nThis randomized controlled trial included 36 participants who were randomly assigned into two groups: the Mindfulness-Based Childbirth and Parenting Program (MBCP) group (18 participants), and the control group (18 participants). The Depression Anxiety Stress Scales-21 (DASS-21) and the Prenatal Attachment Inventory (PAI) were administered at the beginning of the study and again 8\u202fweeks later.\n\n\nRESULTS\nIn the follow-up, the MBCP group exhibited significantly higher mean scores on the PAI compared to the control group (p\u202f<\u202f0.05). The interaction between group and time was significant for PAI scores (F\u202f=\u202f15.979, p\u202f<\u202f0.001). When comparing the scores of the DASS-21 between the MBCP and control groups at the follow-up, the MBCP group showed significantly lower median stress scores compared to the control group (p\u202f<\u202f0.05). There was no statistical difference between the baseline and follow-up median scores for depression, anxiety, and stress in the control group in terms of within-group comparison (p\u202f>\u202f0.05). However, there was a statistical difference between the baseline and follow-up scores for depression, anxiety, and stress in the MBCP group in terms of within-group comparison (p\u202f<\u202f0.05).\n\n\nCONCLUSION\nThis study has demonstrated that the MBCP program has positive effects on prenatal attachment, anxiety, depression, and stress. Therefore, it is considered that MBCP could be a tool for nurses, midwifes, child development specialists, and other healthcare professionals.\n\n\nCLINICAL TRIAL REGISTRATION NUMBER\nNCT05866549.",
+      "journal": "Journal of Affective Disorders",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "mindfulness"
+      ]
     },
     {
-      "title": "Calm in the Chaos: A Mixed-Methods Pilot Study Using a Mobile Mindfulness App to Manage Stress and Burnout Among Emergency Department Nurses.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41810753/",
+      "title": "Learning english vocabulary via Instagram or YouTube: Surveying the impacts on motivation, growth mindfulness, willingness to communicate, and enjoyment from the lens of self-determination theory",
+      "url": "https://www.semanticscholar.org/paper/a1ff433e2d852e886cf950be061326940e731af5",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-11T00:00:00",
-      "date_fetched": "2026-03-12T12:34:43.824726",
-      "doi": "10.1177/08980101261424557",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-03-13T12:33:16.381592",
+      "doi": "10.1016/j.lmot.2024.102089",
       "authors": [
         {
-          "name": "Michelle Kober",
-          "author_id": null,
+          "name": "Shaohua Jiang",
+          "author_id": "2356602826",
           "affiliation": null
         },
         {
-          "name": "Jennifer A Livingston",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christopher Barrick",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yu-Ping Chang",
-          "author_id": null,
+          "name": "Hongyan Zhao",
+          "author_id": "2146228810",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+      "journal": "Learning and Motivation",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Emotion regulation: The role of hypnotizability and interoception.",
+      "url": "https://www.semanticscholar.org/paper/da6f3fd0a7ddb0d92f1573133d27ff05e35b178e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-14T00:00:00",
+      "date_fetched": "2026-03-13T12:33:41.362816",
+      "doi": "10.1016/j.concog.2025.103856",
+      "authors": [
+        {
+          "name": "\u017dan Zeli\u010d",
+          "author_id": "2159750444",
+          "affiliation": null
+        },
+        {
+          "name": "Gioia Giusti",
+          "author_id": "2282925501",
+          "affiliation": null
+        },
+        {
+          "name": "E. Santarcangelo",
+          "author_id": "5076410",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Hypnotizability-related differences in interoception may be relevant to emotion regulation. The present study examined the relationships between hypnotizability, interoceptive sensibility (IS) and interoceptive accuracy (IA), and the use of cognitive reappraisal and expressive suppression. One hundred and two healthy volunteers, assessed for hypnotizability, completed questionnaires assessing absorption, state anxiety, IS and emotion regulation. A portion of them (N = 62) participated in the heartbeat counting task, measuring IA. IS was positively associated with hypnotizability and cognitive reappraisal and negatively associated with expressive suppression. IA was negatively associated with hypnotizability and cognitive reappraisal and showed no relationship with expressive suppression. Mediation analysis revealed that hypnotizability indirectly positively predicted cognitive reappraisal through both IS and IA. Participants with high and low hypnotizability were more likely to use expressive suppression than participants with medium hypnotizability. Results support the role of interoception and hypnotizability in emotion regulation and may guide new clinical approaches.",
+      "journal": "Consciousness and Cognition",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
+    },
+    {
+      "title": "Digital Intervention for Psychedelic Preparation (DIPP): protocol for a randomised controlled feasibility trial comparing meditation- and music-based programmes in healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819589/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-12T00:00:00",
+      "date_fetched": "2026-03-13T12:33:53.475435",
+      "doi": "10.1136/bmjopen-2025-107512",
+      "authors": [
+        {
+          "name": "Rosalind McAlpine",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Magdalena Jaglinska",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Krisztina Jedlovszky",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joanna Kuc",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ariel Castro",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alexandre Piot",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Timmermann",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jeremy I Skipper",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Matthew D Sacchet",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sunjeev K Kamboj",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Psychedelic-assisted therapy shows promise for treating various mental health conditions; however, its reliance on intensive psychological preparation limits its broader application. Digital health interventions have the potential to address this limitation by providing structured, accessible and scalable preparation solutions. This randomised controlled feasibility trial aims to evaluate the feasibility and preliminary efficacy of the Digital Intervention for Psychedelic Preparation (DIPP), a 21-day mobile-accessible programme designed to prepare individuals for psychedelic experiences. METHODS AND ANALYSIS: The study will recruit 40 non-treatment-seeking adults without a clinical diagnosis, randomly assigning them to one of two conditions: (1) DIPP-MEDITATE, which combines daily guided meditation with background music or (2) DIPP-MUSIC, which provides the same background music without guided meditation. Both groups will complete the 21-day digital intervention remotely. Following the intervention, participants will attend an in-person supervised psilocybin session, receiving a standardised 25\u2009mg dose. Primary outcomes focus on feasibility metrics including recruitment efficiency, participant retention and adherence to the intervention protocol. Secondary outcomes assess subjective feasibility, acceptability and preliminary efficacy, specifically evaluating psychedelic preparedness, the quality of the psychedelic experience and changes in wellbeing, with follow-up assessments at 2 weeks, and at 3, 6 and 9\u2009months post-session. Exploratory measures include neuroimaging, physiological, cognitive and psychological assessments, as well as voice note experience sampling through a chatbot (referred to as 'DIPP-bot') to monitor inner speech, thought and emotional states during the intervention and follow-up periods. ETHICS AND DISSEMINATION: Approved by UCL Research Ethics Committee (ID: 19113/003), this study follows the Declaration of Helsinki. Results will be published in peer-reviewed journals and presented at conferences. Confidentiality will be maintained throughout. TRIAL REGISTRATION NUMBER: NCT06815653.",
+      "journal": "BMJ open",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -156,37 +220,297 @@
       "matched_keywords": []
     },
     {
-      "title": "Empathy in Jean Watson's Theory of Human Caring: Philosophical Reflections on the Caritas\u00ae Processes and Mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41810755/",
+      "title": "A Rapid Realist Review of Interventions for Parents of Adults with Intellectual/Developmental Disabilities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41818693/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-11T00:00:00",
-      "date_fetched": "2026-03-12T12:34:43.825808",
-      "doi": "10.1177/08980101261427830",
+      "date_published": "2026-03-12T00:00:00",
+      "date_fetched": "2026-03-13T12:34:03.847828",
+      "doi": "10.1093/geront/gnag022",
       "authors": [
         {
-          "name": "Tiago Jos\u00e9 Silveira Te\u00f3filo",
+          "name": "Sandra Marquis",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ana Cl\u00e1udia Gomes Viana",
+          "name": "Ren\u00e9e O'Leary",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jacira Dos Santos Oliveira",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wilson Jorge Correia Pinto de Abreu",
+          "name": "Jennifer Baumbusch",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Jean Watson's Theory of Human Caring offers a relevant and contemporary framework for holistic nursing care. By redefining traditional paradigms, Watson's model positions transpersonal care as both a theoretical and practical pathway for holistic nursing practice. Empathy, as a foundational human experience present in all care encounters, is central to the holistic development of transpersonal care. This essay explores, from classical and contemporary philosophical perspectives, the concept of empathy within Watson's framework, relating its core concepts to nurse-patient encounters in holistic care. Empathy is examined as an existential mode of being-with-the-other, articulated with concepts such as intercorporeality, comprehensive understanding of the other's experience, and becoming-other. Two of Watson's Caritas",
-      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+      "abstract": "BACKGROUND AND OBJECTIVES: The lifespan of adults with an intellectual/development disability has increased. Caregiving for these adults is often provided by their parents. Few programs address the needs of these older parents, and even fewer have been reviewed for their effectiveness. Our purpose was to answer the question, what are the conditions and features of support programs or interventions that are effective in improving the psychological and social aspects of the lives of parents of adults who have an intellectual/developmental disability? RESEARCH DESIGN AND METHODS: The authors conducted a rapid realist review of interventions for parents of adults with an intellectual/developmental disability. We applied midrange theories of family systems, life course perspective, and caregiving to focus on the participant contexts, program mechanisms, and intervention outcomes that were effective. RESULTS: The interventions in the review were psychoeducation, financial grants, mindfulness, acceptance and commitment therapy, peer support, expressive arts therapy, and institutional placement. All of the interventions reported some success in improving parent wellbeing. DISCUSSION: We developed five program theories: \"Do not add to my burden\", \"I am in need of self-care\", \"My needs change as I age\" \"My life is complex\" and \"Peer knowledge and support are valuable to me.\" We also recommended that programs accommodate parents' time constraints, include other family members and caregivers and address the eventual transition of caregiving from parents to others. IMPLICATIONS: Program theories and our observations are offered to support the development of new interventions and to improve the effectiveness of existing programs.",
+      "journal": "The Gerontologist",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Telehealth-Delivered Mindfulness-Based Intervention: Protocol for a Randomized Clinical Trial for Individuals with Alcohol Use Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41818691/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-03-13T12:34:03.847964",
+      "doi": "10.2196/92198",
+      "authors": [
+        {
+          "name": "Megan Kirouac",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Daniel S Otero",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David I K Moniz-Lewis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sarah Bowen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Corey R Roos",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christine Vinci",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Angel R Vasquez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Matison McCool",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Frank J Schwebel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Roberta Chavez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amber Martinez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rena Quintana",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rachel Olson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Katie Witkiewitz",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Globally, approximately 8.6% of people will meet criteria for alcohol use disorder (AUD) in their lifetimes, with 2.2% meeting criteria for AUD in the past 12-months. In the United States, AUD prevalence is even greater with 13.9% meeting criteria in the past 12-months. Effective treatments for AUD exist, although most people receive help through mutual support groups (i.e., Alcoholics Anonymous (AA)). However, AA and other mutual support programs may not be desirable for all individuals, particularly those who do not seek abstinence-based approaches. Treatments that support reductions in drinking have been shown to be as effective as abstinence-based treatments in reducing alcohol-related harms and may be more appealing to a broader range of people. Mindfulness-based interventions may be particularly effective in supporting long-term recovery and whole person health and functioning for those with abstinent and non-abstinent recovery goals. OBJECTIVE: This study is designed to test a novel rolling group-based mindfulness-based relapse prevention (MBRP) delivered via video conferencing, focused on drinking reduction goals and whole-person functioning. METHODS: This study is a hybrid Type 1 effectiveness-implementation design to prospectively test the effectiveness of MBRP, and to identify barriers and facilitators of group participation to inform future implementation of MBRP as continuing care. Individuals with AUD (n=470) interested in stopping or reducing their drinking, meet criteria for AUD based on a symptom checklist, report heavy drinking at least once in the past 6 months, consent and understand study procedures in English, and provide a valid United States mailing address are recruited nationwide via online sources in the United States. Participants are randomized to either MBRP groups via Zoom or referral to online mutual support (e.g., AA). All participants receive an individual orientation session delivered via Zoom that includes brief motivational interviewing and an overview of their assigned condition and next steps (MBRP condition: overview of the MBRP groups and instructions on participating in MBRP via zoom; Referral condition: referral to online mutual support groups). Participants provide blood samples for phosphatidylethanol testing at baseline and 3-year follow-up and complete self-report measures of psychosocial functioning, alcohol and other drug use, addiction cycle domains, and previously established predictors of recovery every 6 months for 3 years. RESULTS: Recruitment began on September 13, 2023 and the last recruited participant was randomized on March 20, 2025. Follow-up data collection is ongoing with all 6-month follow-ups completed (86.0% retention). CONCLUSIONS: This study evaluates the effectiveness and mechanisms of MBRP delivered via video conferencing, compared with referral to online mutual support groups, in supporting recovery among individuals with AUD. It also examines the reach, effectiveness, adoption, implementation, and maintenance of MBRP as an accessible, freely available continuing care option to support long-term recovery from AUD. CLINICALTRIAL: This trial is registered on ClinicalTrials.gov under study record NCT06074341 with initial registration date of October 06, 2023.",
+      "journal": "JMIR research protocols",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effects of acceptance and commitment therapy for family caregivers of persons with dementia: a systematic review and meta-analysis protocol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819573/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-12T00:00:00",
+      "date_fetched": "2026-03-13T12:34:03.848008",
+      "doi": "10.1136/bmjopen-2025-111183",
+      "authors": [
+        {
+          "name": "Xiaohong Hao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Weiwei Gao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yang Lu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: With the rapid ageing of the global population, the number of persons with dementia (PwDs) is increasing, placing substantial psychological and physical burdens on family caregivers. Acceptance and commitment therapy (ACT), a mindfulness and values-based psychological intervention, has shown potential in improving mental health outcomes across various populations. However, its effectiveness, specifically for dementia family caregivers, remains to be systematically evaluated. This review aims to evaluate the effects of ACT on psychological outcomes (eg, depression, anxiety, psychological flexibility), caregiver burden and health-related quality of life (HRQoL) among family caregivers of PwDs. METHODS AND ANALYSIS: A comprehensive search of English and Chinese databases, including PubMed, Embase, Web of Science, Cochrane Library, CINAHL, PsycInfo, CNKI, CBM and Wanfang Data, will be conducted from inception to July 2025. Randomised controlled trials involving family caregivers (aged \u226518) of PwDs will be included in which ACT is delivered either alone or as a core component. Outcomes include psychological outcomes (eg, depression, anxiety, psychological flexibility), caregiver burden and HRQoL. Two reviewers will independently screen studies, extract data and assess risk of bias using the Cochrane RoB 1.0 tool. Meta-analysis will be performed using RevMan V.5.4, with mean difference or standardised mean difference calculated for continuous outcomes. Random or fixed-effects models will be applied depending on heterogeneity. Subgroup analysis and evaluation of publication bias will also be conducted where applicable. ETHICS AND DISSEMINATION: Ethical approval is not required because only published data will be used. Results will be disseminated through peer-reviewed publications and conference presentations. PROSPERO REGISTRATION NUMBER: CRD420251127238.",
+      "journal": "BMJ open",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Mediating Role of Mindfulness and Self-Compassion in the Link Between Tinnitus Distress and Anxiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41818391/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-12T00:00:00",
+      "date_fetched": "2026-03-13T12:34:03.848269",
+      "doi": "10.1159/000550912",
+      "authors": [
+        {
+          "name": "Weronika Caban",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pawe\u0142 Holas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Miko\u0142aj Kuncewicz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kazimierz Niemczyk",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Tinnitus is the perception of sound in the absence of external stimuli, often experienced as ringing or buzzing. While many individuals habituate to tinnitus, others develop chronic tinnitus (CT), which can severely affect emotional well-being. Psychological mechanisms such as anxiety and maladaptive coping are known contributors to tinnitus distress, yet the protective role of mindfulness and self-compassion remains underexplored. This study examined the associations between tinnitus distress, anxiety, depression, mindfulness, and self-compassion in a clinical sample. It further investigated whether mindfulness and self-compassion mediate the relationship between tinnitus distress and anxiety. METHODS: Ninety-two adults (Mean age = 42.6 years; 64.1% female) with tinnitus lasting at least two months completed an online survey. Measures included the Tinnitus Functional Index, Hospital Anxiety and Depression Scale, Cognitive and Affective Mindfulness Scale-Revised, and Self-Compassion Scale-Short Form. Correlational and mediation analyses were conducted using PROCESS. RESULTS: Tinnitus distress was strongly correlated with anxiety (r = 0.484, p < 0.001) and moderately with depression (r = 0.304, p < 0.01). Both mindfulness and self-compassion were negatively associated with tinnitus distress and anxiety. Mediation analyses showed that self-compassion (\u03b2 = 0.145, 95% CI [0.053, 0.252]) and mindfulness (\u03b2 = 0.167, 95% CI [0.071, 0.272]) partially mediated the relationship between tinnitus distress and anxiety. DISCUSSION: These findings support the role of mindfulness and self-compassion as protective factors in tinnitus-related anxiety. Interventions targeting these traits may help reduce emotional suffering in individuals with chronic tinnitus, but require further evaluation. Longitudinal studies are recommended to confirm causal pathways.",
+      "journal": "Audiology & neuro-otology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Social mindfulness is associated with reduced self-bias: A computational approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41819742/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-03-11T00:00:00",
+      "date_fetched": "2026-03-13T12:34:03.848703",
+      "doi": "10.1016/j.concog.2026.104037",
+      "authors": [
+        {
+          "name": "Marius Golubickis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Siobhan Caughey",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Esther S Selvaraj",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Parnian Jalalian",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yadvi Sharma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica Highflield",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rinki Kanakraj",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "C Neil Macrae",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "An established literature has demonstrated the benefits that personal possession exerts on decision-making. Compared to items owned by others, objects belonging to the self are identified more rapidly and accurately, a phenomenon termed self-prioritization. What is not yet understood, however, is the extent to which individual differences are linked to the emergence of these facilitatory effects. Addressing this issue, here we considered whether social mindfulness - a psychological construct that captures how attuned people are to others - influences self-prioritization. Using an object-classification task, participants reported the ownership of previously assigned items (i.e., owned-by-self vs. owned-by-friend). As predicted, increased social mindfulness was accompanied by a reduction in self-bias. An additional modeling (i.e., Drift Diffusion Model) analysis identified the cognitive pathway through which this effect arose. Heightened social mindfulness was associated with weakened egocentrism (i.e., default-to-self response), the decisional strategy that underpins self-prioritization during object-classification tasks. Collectively, these findings further underscore the malleability of self-prioritization and provide a computational account of how social mindfulness impacts decision-making.",
+      "journal": "Consciousness and cognition",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Development of a PERMA-Based Intervention Program to Address Fear of Disease Progression in Systemic Lupus Erythematosus: A Delphi Consensus Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41822242/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-03-13T12:34:03.849055",
+      "doi": "10.2147/JMDH.S584552",
+      "authors": [
+        {
+          "name": "Wenyan Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zhixin Qu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiuli Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaojuan Xie",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaomei Qiu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jing Yang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: To construct an intervention program based on the PERMA model to address fear of disease progression (FoP) among patients with systemic lupus erythematosus (SLE), aiming to develop a structured, consensus-based intervention protocol for future clinical testing and implementation. METHODS: This study established a multidisciplinary research team comprising twelve members. Drawing upon the PERMA model within positive psychology and incorporating a comprehensive literature review, the team formulated a preliminary intervention programme. Subsequently, through purposive sampling, sixteen external experts from relevant fields-including rheumatology, nursing, psychology, and healthcare management-were invited to participate in a Delphi consensus consultation. Following statistical analysis of their feedback, the intervention programme underwent optimisation and refinement before being finalised. RESULTS: The expert consultation achieved a high consensus (Kendall's W = 0.56). The finalized intervention is an 8-week, multi-modal program structured around the five PERMA pillars. It comprises eight core themes, including psychoeducation on positive emotions, strengths identification, mindfulness-based engagement exercises, communication skills training for relationship enhancement, and meaning-making through narrative and film. Key weekly activities involve group discussions, the \"Three Good Things\" journaling, and role-playing. The program will be delivered via a combination of face-to-face sessions and WeChat-based support. CONCLUSION: Through a structured Delphi consensus process, this study developed a PERMA-based intervention program designed to address fear of disease progression in patients with systemic lupus erythematosus. The program demonstrates strong expert endorsement, theoretical coherence, and practical relevance. It provides a systematically developed, consensus\u2011informed framework to guide future feasibility testing and clinical implementation. The actual effectiveness and feasibility of the intervention in reducing fear of progression await empirical evaluation in subsequent pilot and controlled studies.",
+      "journal": "Journal of multidisciplinary healthcare",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -194,5 +518,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Why Do Mind-Altering Drugs Make People Feel Better?",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/why-do-mind-altering-drugs-make-people-feel-better",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-03-13T10:00:00",
+      "date_fetched": "2026-03-13T12:34:04.175267",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Clayton Dalton",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "Scientists want to redesign psychedelics so that they don\u2019t induce a trip\u2014but they still improve mental health.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "psychedelics"
+      ]
+    }
+  ]
 }
