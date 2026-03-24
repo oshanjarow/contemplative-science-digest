@@ -1,153 +1,63 @@
 {
-  "generated_at": "2026-03-23T12:40:53.492663",
+  "generated_at": "2026-03-24T12:44:36.958413",
   "papers": [
     {
-      "title": "Neural dynamics of mindfulness training: A longitudinal EEG network analysis of focused attention and open monitoring meditation",
-      "url": "https://www.semanticscholar.org/paper/7fe6c39657d021a85a30fd4a6d405d5c7b83edbb",
+      "title": "The Paradox of Omniscience (Sarvaj\u00f1\u0101na): From Divine Omniscience to the Mystical Self-Awareness in Indian Philosophy",
+      "url": "https://www.semanticscholar.org/paper/27e995aeefe094c83824803eb901078deb5be03b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-03-11T00:00:00",
-      "date_fetched": "2026-03-23T12:40:15.768616",
-      "doi": "10.1162/netn.a.555",
+      "date_published": "2026-03-20T00:00:00",
+      "date_fetched": "2026-03-24T12:43:53.325164",
+      "doi": "10.3390/rel17030398",
       "authors": [
         {
-          "name": "Yanli Lin",
-          "author_id": "2284229956",
-          "affiliation": null
-        },
-        {
-          "name": "Marne L. White",
-          "author_id": "2284181878",
-          "affiliation": null
-        },
-        {
-          "name": "Jihong Zhang",
-          "author_id": "2375950930",
-          "affiliation": null
-        },
-        {
-          "name": "Todd S. Braver",
-          "author_id": "2271947082",
+          "name": "Youngsun Yang",
+          "author_id": "2402417868",
           "affiliation": null
         }
       ],
-      "abstract": "\n Neural oscillatory activity within the alpha and theta bands have long been considered putative markers of state mindfulness, yet understanding of their functional role has been limited by the challenges of linking objective brain indices with subjective experience. To address this gap, the current study applied longitudinal network analysis to a unique dataset from sixteen novices who completed up to 24 laboratory training sessions of both focused attention (FA) and open monitoring (OM) meditation, during which both EEG and self-report measures of state mindfulness quality were collected. This approach enabled the parsimonious characterization of both cross-lagged temporal (across-session) and contemporaneous (within-session) influences of regional spectral power on state mindfulness. The analysis revealed distinguishable neurophenomenological network structures for each practice, providing data-driven support for their theoretical differentiation. These distinctions emerged alongside shared commonalities to both practices, including strong autoregressive effects for state mindfulness, consistent with training-related skill acquisition, and opposing regional influences of frontal vs. posterior alpha power. Taken together, these findings challenge monolithic interpretations of meditation related EEG activity, advancing a more nuanced neurophenomenological approach wherein the functional significance of neural activity is dynamically situated within the specific type and time course of training.",
-      "journal": "Network Neuroscience",
+      "abstract": "While Western theology typically locates omniscience in a personal Creator-God, Indian philosophy presents a notable spectrum. This article traces the dialectical arc of omniscience (sarvaj\u00f1\u0101na) across major Indian philosophical traditions, arguing that what appears as an epistemological question\u2014\u201cwho knows everything?\u201d\u2014is ultimately an ontological puzzle about the nature of consciousness itself. Moving from the Vedic oscillation between cosmic personhood (Puru\u1e63a S\u016bkta) and primordial uncertainty (N\u0101sad\u012bya S\u016bkta), through the Upani\u1e63adic internalization of omniscience as Self-knowledge (\u0101tmaj\u00f1at\u0101), the article examines how Ny\u0101ya-Yoga affirms divine omniscience as a logical and soteriological necessity, how M\u012bm\u0101\u1e43s\u0101 displaces it onto an impersonal authorless text, and how Jainism and Buddhism reappropriate it as a perfected human achievement. The final section demonstrates that both S\u0101\u1e43khya\u2019s isolation (kaivalya) and Advaita Ved\u0101nta\u2019s non-dual realization ultimately transcend encyclopedic omniscience, revealing that authentic liberation requires not the possession of maximal information but a transformation from representational object-knowledge to non-objectifying awareness. Together, these trajectories constitute Indian philosophy\u2019s most enduring contribution to the global philosophy of religion: the recognition that the \u201cAll\u201d cannot be an object of knowledge, because it is the very condition for any knowledge whatever.",
+      "journal": "Religions",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "non-dual awareness"
       ]
     },
     {
-      "title": "Distinguishing the Attentional Mechanisms of Distinct Mindfulness States: A Computational Modeling Comparison of Focused Attention and Open Monitoring",
-      "url": "https://www.semanticscholar.org/paper/7ee8ac0fdc67bdeabae152f2335468165c05896e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-09T00:00:00",
-      "date_fetched": "2026-03-23T12:40:15.768687",
-      "doi": "10.1007/s12671-026-02781-2",
-      "authors": [
-        {
-          "name": "Yanli Lin",
-          "author_id": "2284229956",
-          "affiliation": null
-        },
-        {
-          "name": "Grant S Shields",
-          "author_id": "2309926449",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Understanding Mind\u2013Body Experience from the Perspective of Interoceptive Awareness: A 21-Day Embodied Practice Intervention",
-      "url": "https://www.semanticscholar.org/paper/27b777ea4981fba17ae2dfa0be3dff2f01b31e93",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-11T00:00:00",
-      "date_fetched": "2026-03-23T12:40:18.711360",
-      "doi": "10.3390/bs16030411",
-      "authors": [
-        {
-          "name": "Zixi Liu",
-          "author_id": "2365476462",
-          "affiliation": null
-        },
-        {
-          "name": "Zhen Wu",
-          "author_id": "2332876617",
-          "affiliation": null
-        },
-        {
-          "name": "Jingchao Zeng",
-          "author_id": "2254991605",
-          "affiliation": null
-        },
-        {
-          "name": "Haosheng Ye",
-          "author_id": "2338675204",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This qualitative study examined how a 21-day integrated program fosters interoceptive awareness and mind\u2013body integration among urban adults in mainland China (n = 11). The intervention combined daily nasal breathing regulation, spontaneous mandala making, and descriptive journaling, complemented by weekly group sharing. Using a cultural\u2013psychological lens, we investigated how an inward\u2013turning tradition in Chinese culture shapes embodied experience and meaning\u2013making. Applying Interpretative Phenomenological Analysis to diaries, drawings, and focus-group data, we identified three interrelated processes: (1) the refinement of bodily attention; (2) a shift from deliberate control to natural immersion; and (3) the symbolization of feeling through artistic expression and social resonance. Findings indicate that systematic engagement in the \u201cbreath\u2013mandala\u201d intervention heightened sensitivity to chest-centered embodied sensations and promoted the integration of bodily experience into personal narratives; a non-goal-directed, relaxed practice style facilitated the transition from control to absorption, activating self-regulatory mechanisms; and non-evaluative awareness deepened flow while supporting cognitive reorganization and reflective capacity. The study delineates a core pathway by which breath-triggered interoceptive work operates within mind\u2013body interventions, offering a theoretical basis and practical direction for tailored regulation programs across diverse populations.",
-      "journal": "Behavioral Science",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "breath awareness"
-      ]
-    },
-    {
-      "title": "Comparative efficacy of non- pharmacological interventions on sleep quality in patients with multiple sclerosis: a systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41868799/",
+      "title": "Training Apart, Together: Team Dynamics in Individual Sports and Surgical Residency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41871451/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-03-23T12:40:52.623886",
-      "doi": "10.7717/peerj.20900",
+      "date_published": "2026-03-23T00:00:00",
+      "date_fetched": "2026-03-24T12:44:35.862072",
+      "doi": "10.1093/acamed/wvag079",
       "authors": [
         {
-          "name": "Yanping Liu",
+          "name": "W Jack Palmer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xiaoli Zhao",
+          "name": "Dylan Bertoni",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Congying Luo",
+          "name": "Elizabeth E Cottrill",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ai Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaopeng Zeng",
+          "name": "Colin T Huntley",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: This study aimed to evaluate the effectiveness of non-pharmacological interventions for improving sleep quality in patients with multiple sclerosis (MS) using a systematic review and network meta-analysis. METHOD: Randomized controlled trials examining the effects of non-pharmacological interventions on sleep quality in patients with MS were retrieved from PubMed, EMBASE, Cochrane Library, Web of Science, CINAHL, CNKI, Wanfang Database, and VIP Database. The search period spanned from database inception to October 31, 2025. We performed a network meta-analysis using RevMan and Stata software. RESULTS: We included 35 studies involving 2,804 participants and 20 distinct intervention types. The most frequently investigated interventions were exercise-based therapies and cognitive-behavioral approaches. Based on cumulative ranking probabilities, assessed using the surface under the cumulative ranking curve (SUCRA), occupational therapy-based sleep interventions were the most effective for improving subjective sleep quality (SUCRA = 94.2%), followed by mindfulness intervention (SUCRA = 85.9%) and sleep hygiene education (SUCRA = 78.6%). For reducing insomnia severity, effleurage massage ranked highest (SUCRA = 91.9%), followed by cognitive behavioral therapy (SUCRA = 80.1%) and reflexology (SUCRA = 77.0%). CONCLUSIONS: Occupational therapy-based sleep interventions and effleurage massage appear to be the most effective non-pharmacological strategies for improving sleep quality in patients with MS. However, further high-quality randomized controlled trials are needed to confirm these findings and strengthen the evidence base.",
-      "journal": "PeerJ",
+      "abstract": "Surgeons in training share notable parallels with competitive athletes, including rigorous training, skill specialization, and functioning under pressure. Surgical educators have leveraged this comparison, incorporating techniques from sports psychology, such as mental imagery and mindfulness, to improve trainees' individual performance and well-being. Surgical trainees and athletes also both rely on effective teamwork for optimal outcomes, suggesting that residency leaders can glean valuable team-level insights from sports psychology. This article examines how the structure of surgical residency influences team dynamics, using concepts from sports psychology to identify evidence-based strategies for improving program cohesion and resident well-being. The surgical literature typically conceptualizes surgery as an interdependent (or, colloquially, team) sport, such as soccer, in which participants collaborate toward a shared goal. Although valid for the operating room, the broader structure of surgical residency often functions more like an individual sport (eg, track or swimming), with residents training and working independently. This structure exposes residency programs to the unique dynamics observed in individual sports teams, including excessive individualism, exclusionary subgroup formation, and detrimental social hierarchy. These phenomena can undermine team building, weaken individual performance, and accelerate burnout. Evidence from the sports psychology literature suggests that program leaders can combat these trends by fostering a sense of interdependence, promoting socialization and development of a collective identity, cultivating a flexible and egalitarian culture, and developing faculty coaching skills to reframe individualism, facilitate inclusion, and model context-dependent hierarchy. Recognizing that the structure of surgical residency often mirrors that of an individual sport provides a valuable framework for understanding threats to team building and appropriate interventions in this setting. This Scholarly Perspective may allow program leaders to build more cohesive resident teams, ultimately improving trainee education, well-being, and performance.",
+      "journal": "Academic medicine : journal of the Association of American Medical Colleges",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -155,32 +65,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Characterizing the Profile of Individuals Who Undergo Flotation-REST: A Cross-Sectional Survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41868829/",
+      "title": "Evidence-Based Nutritional Management of Menopausal Symptoms: A Pathophysiological Reasoning Approach to Personalized Nutrition Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41871229/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-16T00:00:00",
-      "date_fetched": "2026-03-23T12:40:52.624103",
-      "doi": "10.1177/15598276261430291",
+      "date_published": "2026-03-23T00:00:00",
+      "date_fetched": "2026-03-24T12:44:35.862278",
+      "doi": "10.1080/27697061.2026.2632580",
       "authors": [
         {
-          "name": "Taaha Adamji",
+          "name": "Eleanor Reid",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Eric vanSonnenberg",
+          "name": "Michelle Barrow",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kory Johnson",
+          "name": "Bea Cutler",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Flotation, a form of restricted environmental stimulation therapy (REST), entails lying in a warm saltwater tank. Evidence links it to lower stress and improved mood, but user characteristics outside trials remain unclear. We profiled flotation users and compared health and lifestyle measures with a population benchmark. Adults were recruited from an online community forum and a flotation center in the southwestern United States. The survey included the Five Facet Mindfulness Questionnaire (FFMQ-15) and standardized items from the National Health and Nutrition Examination Survey (NHANES). Users were grouped by duration and frequency, and selected outcomes were compared with NHANES. Sixty-one users participated. Over half were long-term and monthly users. Mindfulness scores were moderately above average. Compared with NHANES, users more often reported depression, daily anxiety, and sleep disturbance, and reported more moderate-intensity exercise and muscle soreness. Rates of alcohol abstinence did not differ. In this real-world sample, flotation users were physically active and frequently reported anxiety, depression, and sleep disturbance, while showing moderately above average mindfulness. Because this was a cross-sectional survey without pre-floating baselines, differences from NHANES reflect current status rather than changes due to flotation. We plan prospective pre-/post-studies with larger, more diverse samples.",
-      "journal": "American journal of lifestyle medicine",
+      "abstract": "INTRODUCTION: This case report presents the methodology and the outcomes of a Personalized Nutrition intervention with a menopausal female over seven weeks and two online consultations. The report details the pathophysiological reasoning approach to the patient assessment and the recommendation of interventions with the supporting clinical evidence and learnings. CASE: A 47\u2009year old working mother (Patient A) with maternal family history (FH) of osteoporosis (OP), a body mass index (BMI) of 24.2\u2009kg/m CONCLUSIONS: This case provides observational evidence of the potential efficacy of personalized nutrition utilizing pathophysiological reasoning to assess health status, an evidence-based approach to support intervention decisions and coaching skills to embed dietary change.",
+      "journal": "Journal of the American Nutrition Association",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -188,42 +98,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Integrating yoga into anatomy and clinical medicine education: A holistic approach to learning.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41858016/",
+      "title": "A Deep Learning Approach for Analyzing Brainwave Signals During Audio Meditation in Expectant Mothers: Variational Mode Decomposition with a CNN-BiLSTM Model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41871464/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-19T00:00:00",
-      "date_fetched": "2026-03-23T12:40:52.624189",
-      "doi": "10.1002/ase.70225",
+      "date_published": "2026-03-23T00:00:00",
+      "date_fetched": "2026-03-24T12:44:35.862644",
+      "doi": "10.1088/2057-1976/ae55a8",
       "authors": [
         {
-          "name": "Dana Rohde",
+          "name": "Daisy Das",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Madeleine E Norris",
+          "name": "Nabamita Deb",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jennifer R Kinder",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Barbie Klein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Derek Harmon",
+          "name": "Saswati Sanyal Sanyal Choudhury",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Anatomical knowledge is fundamental for success in clinical settings. Unfortunately, anatomy education within professional health programs has experienced a continual decrease in contact hours and curricular content over the previous two decades, leading to deficits and potential gaps in anatomical science knowledge. Additionally, there is a common misconception among students that anatomy education is simply a collection of facts that require memorization. Thus, there is a need for innovative teaching methods to help reinforce such knowledge and support students' wellness. This report outlines a series of novel yoga-based workshops in anatomy education with clinical medicine applications, embodied learning, and a holistic pedagogical approach which engages the mind, body, and spirit. Three yoga workshops focused on (i) musculoskeletal anatomy, (ii) spinal and peripheral nerves, and (iii) neuroanatomy and the neurological exam were developed. Each workshop included a warmup, sun salutations (a series of yoga poses performed in a continuous sequence), asanas (individual poses), a vinyasa (flow of poses), a cooldown, savasana (resting pose), and a closing meditation. The workshops also examined the etymology of Sanskrit and Latin that underpin anatomical and medical terminology. The workshops have been taught to medical students, physical therapy students, and medical residents. A pretest was administered before each session, while a posttest and wellness survey were distributed following the yoga workshops. These workshops offer a template for educators to provide an alternative approach to learners by offering a yoga session that reinforces anatomical knowledge, highlights relevant clinical correlates, and improves overall well-being.",
-      "journal": "Anatomical sciences education",
+      "abstract": "Meditation has increasingly been recognized as a helpful non-pharmacological intervention to treat psychological stress, anxiety, and depression during pregnancy-a period that plays a significant role in maternal and fetal health. Although very popular, there is very little scientific evidence on how brief audio meditation affects brain activity in pregnant women. This work reports an EEGbased method to objectively investigate the neural effect of short-term audio meditation in pregnant women with the aid of sophisticated signal decomposition and deep learning methods. Electroencephalogram (EEG) signals were acquired from pregnant women in various mental states: resting, meditation, and post-meditation. For improved feature representation, Variational Mode Decomposition (VMD) was used to decompose each EEG channel into five intrinsic mode functions, representing multi-resolution signal components. The IMFs were subsequently processed through a hybrid deep learning model integrating Convolutional Neural Networks (CNNs) for spatial feature extraction and Bidirectional Long Short-Term Memory (BiLSTM) networks for temporal dynamics modeling. The test accuracy of the recommended VMD-CNN-BiLSTM architecture was 94.43%, and test loss was 0.2975, proving its high reliability in classifying EEG states during meditation. The model's performance verifies its ability to extract frequency-specific and temporal features characteristic of short-term cognitive modulation. This study offers a new, objective framework to evaluate the 1 effect of meditation during prenatal care and opens avenues toward personalized, brain-based mindfulness training in maternal care.",
+      "journal": "Biomedical physics & engineering express",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -231,95 +131,42 @@
       "matched_keywords": []
     },
     {
-      "title": "The Effect of Different Psychological Interventions on Athletes' Competitive Anxiety: A Systematic Review and Bayesian Network Meta-Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41866642/",
+      "title": "Ketamine-induced changes in accumbal glutamate and their association with altered states of consciousness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41871813/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-03-22T00:00:00",
-      "date_fetched": "2026-03-23T12:40:52.624395",
-      "doi": "10.1186/s40798-026-01007-y",
+      "date_published": "2026-03-21T00:00:00",
+      "date_fetched": "2026-03-24T12:44:35.863376",
+      "doi": "10.1016/j.brainresbull.2026.111842",
       "authors": [
         {
-          "name": "Longhui Li",
+          "name": "Ladina Philomena Gubser",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jingyi Wang",
+          "name": "Anna Stefania Trippel",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Qiner Li",
+          "name": "Niklaus Zoelch",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Quan Fu",
+          "name": "Etna Jennifer Elektra Engeli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcus Herdener",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Competitive anxiety is a common psychological challenge among athletes and can negatively affect sports performance. Although several psychological interventions have been shown to reduce competitive anxiety, their relative effectiveness has not been well established. This study aimed to compare the effectiveness of different psychological interventions in reducing competitive anxiety in athletes. METHODS: We searched the Cochrane Library, Embase, PubMed, Scopus, and Web of Science from inception to March 2025, with additional screening of Google Scholar and reference lists. Randomized controlled trials published in English were eligible. Risk of bias was evaluated using the revised Cochrane Risk of Bias Tool. A Bayesian random-effects network meta-analysis was conducted using the 'multinma' package. Subgroup analyses examined anxiety dimensions and competitive level. Effects were expressed as standardized mean differences (SMDs) with 95% credible intervals (CrIs). RESULTS: A total of 46 trials involving 2,049 participants were included. Mindfulness-Acceptance-Commitment (MAC) showed the largest overall point estimate for reducing competitive anxiety (SMD\u2009=\u2009-\u20091.33; 95% CrI: -2.31 to -\u20090.43). Across anxiety dimensions, relaxation was associated with the largest point estimate for reductions in cognitive anxiety (SMD\u2009=\u2009-\u20091.54, 95% CrI: -3.31 to 0.21), while MAC showed the largest estimated effect on somatic anxiety (SMD\u2009=\u2009-\u20091.24, 95% CrI: -1.57 to -\u20090.90). Intervention effects appeared to vary by competitive level: imagery showed the largest point estimate among elite athletes (SMD\u2009=\u2009-\u20090.88, 95% CrI: -1.84 to 0.14), MAC among semi-elite athletes (SMD\u2009=\u2009-\u20091.37, 95% CrI: -3.11 to -\u20090.17), and biofeedback among junior athletes (SMD\u2009=\u2009-\u20091.07, 95% CrI: -2.26 to 0). Exploratory study-level mediation analyses suggested that reductions in competitive anxiety were associated with improvements in sports performance. CONCLUSIONS: MAC showed the highest estimated effects overall; however, uncertainty remains substantial given the wide credible intervals and limited data for several intervention nodes. Psychological interventions were associated with improved sport performance, and changes in competitive anxiety may be one contributing factor. These findings support the potential value of tailored psychological training approaches for athletes, while underscoring the need for more robust comparative evidence.",
-      "journal": "Sports medicine - open",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The neurophysiological\u00a0effects of yogic meditation observed in electroencephalography patterns and neurotransmitter levels: A narrative review of scientific evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41850046/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-03-17T00:00:00",
-      "date_fetched": "2026-03-23T12:40:52.624577",
-      "doi": "10.1016/j.jaim.2025.101312",
-      "authors": [
-        {
-          "name": "Sunil Singh Yadav",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Simran Mittal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sangeeth Somanadhapai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rita Thapa",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sanjay Yadav",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Massimiliano Buoli",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Toran Singh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alka",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Yogic meditation, involving focused awareness, is gaining scientific attention for its impact on brain function and neurochemical balance. It enhances autonomic control and influences neurotransmitters related to emotional and cognitive health. This narrative review explored scientific studies on the effects of yogic meditation on EEG patterns and neurotransmitter levels. 21 peer-reviewed articles were selected through a structured search of PubMed, PubMed Central, and Google Scholar. The findings indicate that yogic meditation promotes coherent brainwave activity and modulates neurotransmitters, such as gamma-aminobutyric acid, thereby reducing anxiety, improving emotional regulation, and providing pain relief and autonomic stability. The studies literature suggest that yogic meditation may enhance brain function and emotional well-being, but these findings remain preliminary and require more well-designed confirmation.",
-      "journal": "Journal of Ayurveda and integrative medicine",
+      "abstract": "Ketamine has been shown to modulate glutamate signaling in animals and may therefore have the potential to restore glutamate imbalances in the brain. Impaired glutamate homeostasis has been implicated in mental health disorders such as substance use disorders (SUDs). Thus, we investigated ketamine's potential to increase glutamate levels in the nucleus accumbens (NAc), a key region for the development and maintenance of SUD. We further examined whether glutamate changes are associated with ketamine's potential to induce altered states of consciousness. A single intravenous dose of R,S-ketamine (0.71mg/kg bodyweight) was administered to 10 healthy volunteers over 40minutes. Glutamate levels were measured by using a tailored proton magnetic resonance spectroscopy (",
+      "journal": "Brain research bulletin",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
