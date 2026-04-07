@@ -1,183 +1,38 @@
 {
-  "generated_at": "2026-04-06T12:45:07.557274",
+  "generated_at": "2026-04-07T12:55:43.127536",
   "papers": [
     {
-      "title": "A multidimensional examination of the effects of MBCT intervention on healthy university students",
-      "url": "https://www.semanticscholar.org/paper/fefefe785140a456f2bc25f28927030584b8a792",
+      "title": "Pure awareness, entropy, and the foundation of perception",
+      "url": "https://www.semanticscholar.org/paper/c3213361922cc9e551f01880e906f247ee92c113",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-04-06T12:44:23.968286",
-      "doi": "10.4992/pacjpa.89.0_630",
-      "authors": [
-        {
-          "name": "M. Takahashi",
-          "author_id": "50750848",
-          "affiliation": null
-        },
-        {
-          "name": "Remi Inayoshi",
-          "author_id": "2023656200",
-          "affiliation": null
-        },
-        {
-          "name": "Akiko Eura",
-          "author_id": "51356924",
-          "affiliation": null
-        },
-        {
-          "name": "Nakatani Hironori",
-          "author_id": "2094649443",
-          "affiliation": null
-        },
-        {
-          "name": "Yuan ning",
-          "author_id": "2422878782",
-          "affiliation": null
-        },
-        {
-          "name": "P. Li",
-          "author_id": "2209967224",
-          "affiliation": null
-        },
-        {
-          "name": "Tohru Yagi",
-          "author_id": "2052545265",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "The Proceedings of the Annual Convention of the Japanese Psychological Association",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Synchronous Online Group MBCT vs. Guided Asynchronous Online MBCT for Mild to Moderate Depression: A Randomized Clinical Trial",
-      "url": "https://www.semanticscholar.org/paper/e3137e480834039c81c5f408b2d5eb4d486b7eb1",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-26T00:00:00",
-      "date_fetched": "2026-04-06T12:44:23.968369",
-      "doi": "10.1007/s12671-026-02778-x",
-      "authors": [
-        {
-          "name": "Jan Ward\u0119szkiewicz",
-          "author_id": "2293330096",
-          "affiliation": null
-        },
-        {
-          "name": "P. Holas",
-          "author_id": "2238853002",
-          "affiliation": null
-        },
-        {
-          "name": "Gerhard Andersson",
-          "author_id": "2270042788",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "XInsight: Integrative Stage-Consistent Psychological Counseling Support Agents for Digital Well-Being",
-      "url": "https://www.semanticscholar.org/paper/3425ab5c755cf5182207e05b33c1a97af6a645a8",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-01-21T00:00:00",
-      "date_fetched": "2026-04-06T12:44:23.968449",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Fei Wang",
-          "author_id": "2344402064",
-          "affiliation": null
-        },
-        {
-          "name": "Jiangnan Yang",
-          "author_id": "2408736586",
-          "affiliation": null
-        },
-        {
-          "name": "Junjie Chen",
-          "author_id": "2238123047",
-          "affiliation": null
-        },
-        {
-          "name": "Yuxin Liu",
-          "author_id": "2382923226",
-          "affiliation": null
-        },
-        {
-          "name": "Kun Li",
-          "author_id": "2115467392",
-          "affiliation": null
-        },
-        {
-          "name": "Yanyan Wei",
-          "author_id": "2302311769",
-          "affiliation": null
-        },
-        {
-          "name": "Dan Guo",
-          "author_id": "2283086749",
-          "affiliation": null
-        },
-        {
-          "name": "Meng Wang",
-          "author_id": "2386633612",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Web-based platforms are becoming a primary channel for psychological support, yet most LLM-driven chatbots remain opaque, single-stage, and weakly grounded in established therapeutic practice, limiting their usefulness for web applications that promote digital well-being. To address this gap, we present \\textbf{XInsight}, a counseling-inspired multi-agent framework that models psychological support as a stage-consistent workflow aligned with the classical \\textit{Exploration-Insight-Action} paradigm. Building on structured client representations, XInsight orchestrates specialized agents under a unified \\textit{Reason-Intervene-Reflect} cycle: an Exploration agent organizes background and concerns into a structured Case Conceptualization Form, a Routing agent performs Adaptive Therapeutic Routing (ATR) across SFBT, CBT, and MBCT, a unified Therapeutic agent executes school-consistent submodules, and a Consolidation agent guides review, skill integration, and relapse-prevention planning. A Recording agent continuously transforms open-ended web dialogues into standardized psychological artifacts, including case formulations, therapeutic records, and relapse-prevention plans, enhancing interpretability, continuity, and accountability. To support rigorous and transparent assessment, we introduce \\textbf{XInsight-Bench} with a Scale-Guided LLM Evaluation (SGLE) protocol that combines therapy-specific clinical scales with general counseling criteria. Experiments show improved paradigm alignment, multi-therapy integration, interaction depth, and interpretability over existing multi-agent counseling systems, indicating that XInsight provides a practical blueprint for integrating counseling-inspired support agents into web applications for digital well-being.",
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "mHealth To Promote Monitoring and Self-Regulation Among Caregivers of People With Dementia: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41937339/",
-      "item_type": "paper",
-      "source_type": "pubmed",
       "date_published": "2026-04-01T00:00:00",
-      "date_fetched": "2026-04-06T12:45:06.540476",
-      "doi": "10.1002/pchj.70092",
+      "date_fetched": "2026-04-07T12:54:46.910040",
+      "doi": "10.1016/j.neucom.2026.133443",
       "authors": [
         {
-          "name": "Felipe Soto-P\u00e9rez",
-          "author_id": null,
+          "name": "Jonas Mago",
+          "author_id": "2197573141",
           "affiliation": null
         },
         {
-          "name": "Camila Ruy Castilla",
-          "author_id": null,
+          "name": "S. Chandaria",
+          "author_id": "118775812",
           "affiliation": null
         },
         {
-          "name": "Madalin M Deliu",
-          "author_id": null,
+          "name": "Mark Miller",
+          "author_id": "2334570883",
+          "affiliation": null
+        },
+        {
+          "name": "Ruben Laukkonen",
+          "author_id": "2356552235",
           "affiliation": null
         }
       ],
-      "abstract": "Dementia caregiving imposes substantial emotional, physical, and financial burdens, underscoring the urgent need for scalable and accessible support interventions. This systematic review evaluates the role of mobile health (mHealth) applications in enhancing caregivers' self-regulation, with a particular focus on the monitoring component, and their impact on caregivers' burden and wellbeing. Twenty-four studies published between 2019 and 2025 were reviewed, analyzing intervention models, the presence and implementation of monitoring strategies, and overall app efficacy. The findings reveal a variety of mHealth approaches, including psychoeducational tools, social and peer support features, and mindfulness-based therapies. Monitoring mechanisms-such as behavior tracking, emotional self-assessments, reflective prompts, and chatbot-based feedback-emerged as pivotal elements for activating the self-regulation process. These tools supported caregivers in recognizing stressors, evaluating caregiving strategies, and making adaptive changes, thereby enhancing emotional resilience and caregiving efficacy. However, persistent challenges such as declining user engagement and variability in digital literacy highlight the need for more adaptive, user-centered designs. This review emphasizes the transformative potential of mHealth monitoring in dementia caregiving and calls for future research to standardize evaluation metrics, personalize interventions, and promote long-term engagement and accessibility for diverse caregiver populations.",
-      "journal": "PsyCh journal",
+      "abstract": null,
+      "journal": "Neurocomputing",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -185,62 +40,196 @@
       "matched_keywords": []
     },
     {
-      "title": "Interventions to Improve HIV Care and Treatment Outcomes Among People with HIV Who Have Substance Use Disorder or At-Risk Substance Use: A Narrative Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41937735/",
+      "title": "Building courage, strength, and knowledge: Mindfulness training reduces psychological threat and increases engagement in college physics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941630/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-06T00:00:00",
-      "date_fetched": "2026-04-06T12:45:06.545132",
-      "doi": "10.1177/10872914261435808",
+      "date_published": "2026-04-14T00:00:00",
+      "date_fetched": "2026-04-07T12:55:31.816369",
+      "doi": "10.1073/pnas.2521857123",
       "authors": [
         {
-          "name": "Hilary Goldhammer",
+          "name": "Tessa M Benson-Greenwald",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Milo Dorfman",
+          "name": "Avital Pelakh",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "David R A Coelho",
+          "name": "Michael J Tumminia",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ellis Jaewon Yeo",
+          "name": "Sara Jahanian",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Demetrios Psihopaidas",
+          "name": "Michael S Diamond",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Joseph Stango",
+          "name": "Eric Kuo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Carol Dawson-Rose",
+          "name": "Melanie Good",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kenneth H Mayer",
+          "name": "Timothy J Nokes-Malach",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alex S Keuroghlian",
+          "name": "Brian M Galla",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Substance use adversely affects engagement in HIV care, adherence to medication, and HIV viral suppression. This review assessed the scope of US interventions designed to promote positive outcomes along the HIV care continuum for people with HIV who have substance use disorder (SUD) or at-risk substance use. A literature search identified 27 interventions published in peer-reviewed articles found on PubMed and PsycINFO databases between January 1, 2019, and December 31, 2023. Common strategies to improve HIV care continuum outcomes included support for HIV medication adherence, motivational interviewing, medications to treat SUD, contingency management, cognitive-behavioral skills building, patient navigation, mindfulness practice, and low-barrier entry to care. Contingency management (offering financial or material incentives for attaining desired outcomes) alone or combined with other strategies was most consistently associated with positive HIV outcomes, but more research is needed to understand how these outcomes can be sustained. Few intervention studies addressed or measured linkage to care (12%) or retention in care (15%), despite a clear need to better engage this population. Further innovation is needed to improve HIV engagement and retention among people with SUD or at-risk substance use.",
-      "journal": "AIDS patient care and STDs",
+      "abstract": "Many college students experience introductory physics as psychologically threatening. In a preregistered RCT, we applied the biopsychosocial model of challenge-threat to describe patterns of threat in introductory physics and test whether a 5-d mindfulness training could reduce threat and increase engagement among undergraduates. Course-wide surveys (N = 954) screened students for the RCT and revealed roughly half of students experience psychological threat. Students identified with systemically excluded groups were more likely to experience psychological threat while systemically advantaged students were more likely to experience psychological challenge in their introductory physics course. In the RCT (N = 149), mindfulness training reduced psychological threat and fostered greater engagement in introductory physics, and, consistent with our theory of change, mindfulness training was associated with greater physics engagement through reductions in threat. The results demonstrate that mindfulness can help students manage stress more effectively by reducing psychological threat and fostering engagement in contexts like introductory physics.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Multisite Open Pilot Trial of a Resilience Intervention for Caregivers of Patients with Severe Acute Brain Injury: The Coma Family Program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40999289/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-01T00:00:00",
+      "date_fetched": "2026-04-07T12:55:31.816421",
+      "doi": "10.1007/s12028-025-02387-x",
+      "authors": [
+        {
+          "name": "Alexander M Presciutti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth Rochon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nicol\u00e1s Alvarez-Frank",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica Daily",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Emma Silverman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Melissa Motta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana-Maria Vranceanu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David Y Hwang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Family caregivers of patients with severe acute brain injury (SABI) often experience chronic emotional distress and lack evidence-based psychosocial treatments. To address this problem, we followed the National Institutes of Health (NIH) Stage Model to develop and pilot the Coma Family Program (COMA-F), a resilience intervention for caregivers of patients with SABI. METHODS: We conducted a single-arm open pilot clinical trial of COMA-F between February 2024 and February 2025 at three geographically diverse hospitals to test preliminary feasibility and acceptability and to refine the intervention prior to a larger randomized controlled trial (RCT) (NIH stage 1a). Caregivers endorsed elevated distress on the Hospital Anxiety and Depression Scale (HADS), and patients suffered coma for\u2009\u2265\u200924\u00a0hours and were committed to tracheostomy and/or gastrostomy. COMA-F involved six sessions focused on building mindfulness and coping skills for managing distress. Primary outcomes were: feasibility of recruitment, feasibility of assessments, adherence, therapist fidelity, satisfaction, credibility, and expectancy. Caregivers completed pretest and posttest measures of distress (HADS) and treatment mechanisms (dispositional mindfulness [Cognitive and Affective Mindfulness Scale-Revised], applied mindfulness [Applied Mindfulness Process Scale], coping [Measure of Current Status A]) and exit interviews to provide feedback. We calculated frequencies and proportions of feasibility and acceptability metrics, examined pretest and posttest changes on quantitative measures, and performed explanatory-sequential mixed methods to integrate the quantitative and qualitative data. RESULTS: We screened 36 caregivers and enrolled 20. COMA-F exceeded feasibility and acceptability benchmarks (\u2265\u200970% on all) and showed improvements in emotional distress, dispositional mindfulness, and coping, with large effect sizes (Cohen's d\u2009=\u20090.8-1.95, p\u2009<\u20090.01). Mixed methods confirmed feasibility, acceptability, and utility of program skills in improving distress. CONCLUSIONS: Results support preliminary feasibility and acceptability of COMA-F and further testing in a larger RCT (NIH stage 2). TRIAL REGISTRATION INFORMATION: ClinicalTrials.gov #NCT05761925; first submitted February 27, 2023; first caregiver enrolled April 16, 2024.",
+      "journal": "Neurocritical care",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Gender differences in the influence of app-based mindfulness meditation on emotion regulation: a randomised controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41942567/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-06T00:00:00",
+      "date_fetched": "2026-04-07T12:55:42.246774",
+      "doi": "10.1038/s41598-026-46317-z",
+      "authors": [
+        {
+          "name": "Koichiro Adachi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Takumu Kurosawa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ryu Takizawa",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Scientific reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effectiveness of group-based psychological interventions for emotional distress in non-clinical adult populations: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941703/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-06T00:00:00",
+      "date_fetched": "2026-04-07T12:55:42.247049",
+      "doi": "10.1080/09638237.2026.2646319",
+      "authors": [
+        {
+          "name": "Jes\u00fas Mart\u00ed Esquitino",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana Belen Fernandez-Serrano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alejandro Fernandez Zome\u00f1o",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Reyes Lopez Lopez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jose Martinez Serrano",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: The demand for healthcare due to emotional distress from daily challenges has grown rapidly. Many individuals do not meet criteria for a mental disorder, yet psychotropic medication is often the first-line response. Group-based psychological interventions have emerged as alternatives for reducing emotional distress, but their effectiveness in non-clinical populations remains unclear. OBJECTIVES: This systematic review examines the effectiveness of group-based interventions in reducing emotional distress among non-clinical adults. METHODS: A comprehensive search was conducted across major databases from January 2013 to March 2025. Eligible studies included interventions targeting adults with non-clinical distress. Studies were excluded if participants had a diagnosed mental disorder or if the absence of diagnosis was unclear. RESULTS: A total of 4,942 records were identified (3,980 through database searching and 962 through backward citation tracking), including 20 studies. Most interventions produced significant improvements. Mindfulness-based approaches were most frequent, either alone or integrated with cognitive-behavioral therapy (CBT) or acceptance and commitment therapy (ACT). Relaxation techniques also showed independent benefits. DISCUSSION: Most interventions were psychoeducational, with mindfulness most widely applied. No significant differences were observed between intervention types. Findings highlight the potential of diverse psychological strategies to improve well-being in non-clinical adults, while stressing the need for further evaluation.",
+      "journal": "Journal of mental health (Abingdon, England)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -248,31 +237,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Is AI already conscious?",
-      "url": "https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next?utm_source=rss-feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-04-06T10:01:00",
-      "date_fetched": "2026-04-06T12:45:06.763739",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Aeon Video",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Aeon",
-      "excerpt": "Why it\u2019s difficult and perhaps even morally perilous to rule out the possibility of AI consciousness- by Aeon VideoWatch on Aeon",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "consciousness"
-      ]
-    }
-  ]
+  "articles": []
 }
