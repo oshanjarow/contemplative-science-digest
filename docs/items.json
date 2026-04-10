@@ -1,43 +1,53 @@
 {
-  "generated_at": "2026-04-09T12:58:00.542324",
+  "generated_at": "2026-04-10T12:44:17.773556",
   "papers": [
     {
-      "title": "How does self-compassion affect posttraumatic adaptation among lymphoma patients? A perspective based on network analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41949341/",
+      "title": "A Systematic Review of Residual Risk in Cybersecurity Awareness Training",
+      "url": "https://www.semanticscholar.org/paper/79fad2561160d1e2d12c04400f6e8fdfaa471afe",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-12-01T00:00:00",
-      "date_fetched": "2026-04-09T12:57:59.766439",
-      "doi": "10.1080/20008066.2026.2650093",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-21T00:00:00",
+      "date_fetched": "2026-04-10T12:43:31.023211",
+      "doi": "10.53735/cisse.v13i1.218",
       "authors": [
         {
-          "name": "Wei Li",
+          "name": "Venkat Laxmi Sateesh Nutulapati",
+          "author_id": "2372941548",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Cybersecurity awareness training improves knowledge, yet human error continues to drive breaches. AI-enabled attacks such as deepfakes, voice-cloned vishing, and automated spear phishing magnify these risks. This review of 26 studies (2008\u20132025) introduces a residual-risk framework that measures outcomes beyond average effectiveness. Residual Insecure Behavior (RIB) captures risky practices that persist after training, while Residual Knowledge Gap (RKG) reflects remaining deficits. Across studies, residual risks were substantial\u2014phishing susceptibility often above 10% and knowledge gaps over 30%. By applying RIB and RKG, future cybersecurity researchers can shift focus from statistical gains to reducing real-world exposure in an AI-driven landscape.",
+      "journal": "Journal of The Colloquium for Information Systems Security Education",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Goal Setting and Anchoring Effects on Meditation Using a Digital Platform: Large-Scale Digital Field Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955529/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-09T00:00:00",
+      "date_fetched": "2026-04-10T12:44:05.125487",
+      "doi": "10.2196/85801",
+      "authors": [
+        {
+          "name": "Michael Bowen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Dongdong Xue",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaoqin Niu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qian Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaozhuang Wang",
+          "name": "Michael Beam",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "European journal of psychotraumatology",
+      "abstract": "BACKGROUND: Meditation has grown in popularity in recent years, but many people who try meditation often fail to establish a habit. Goal setting has been demonstrated to be an effective technique in behavior change in other health-related contexts but is understudied in the meditation context. OBJECTIVE: This study had 2 objectives: (1) to assess the association between goal setting and the number of days people meditated and (2) to evaluate whether anchoring bias in the goal-setting question (via response option order) influences goal selection and subsequent meditation behavior. METHODS: This large-scale quasi-experimental field study included 18,559 Spotify mobile users aged 18 years or older residing in Australia, Canada, New Zealand, the United Kingdom, or the United States who had listened to at least 5 minutes of meditation content from a specified teacher. The in-app experiment consisted of 2 goal-setting test conditions and an active control. In the test conditions, participants selected the number of days they intended to listen to content from the meditation teacher in the next 7 days. The conditions differed only in the order of goal response options (higher goals listed first vs last). The active control rated how much they liked the teacher but did not set a goal. Because responding was optional, selection bias is possible, and the design is quasi-experimental. RESULTS: The act of setting any goal had a modest positive association with the number of days people meditated in both treatment condition 1 (\u03b2=.08, 95% CI 0.01-0.16) and treatment condition 2 (\u03b2=.08, 95% CI 0.002-0.15). People who committed to higher goals were also more likely to meditate more than those who committed to lower goals. Additionally, the distribution of goals between the treatment conditions varied (\u03c722=84.24; P<.001), and the differences in these distributions subsequently yielded differences in the number of days each group meditated, on average (t2744.1=-2.34; P=.02; Cohen d=-0.09). Ultimately, placing the highest goal as the first answer choice yielded higher average active days among those who chose a goal, but many more people opted out of answering the question itself. CONCLUSIONS: Simply offering an optional in-app goal-setting prompt, the intention-to-treat estimate from the experiment, did not change meditation engagement at the population level. However, among users who chose to respond and set a goal, goal selection was associated with a modest increase in active days. Response option order (anchoring) shifted both goal selection and opt-out rates. These findings highlight an uptake-engagement trade-off that is relevant for digital behavior change design.",
+      "journal": "Journal of medical Internet research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -45,62 +55,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Understanding Primary Care Providers' Decisions to Recommend Complementary and Integrative Health Therapies: A Qualitative Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41951566/",
+      "title": "The Impact of Competency-based Medical Education-mandated Yoga Training on First-Year Medical Students: A Quasi-experimental Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41957942/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-08T00:00:00",
-      "date_fetched": "2026-04-09T12:57:59.766630",
-      "doi": "10.1177/27683605261441040",
+      "date_published": "2026-04-09T00:00:00",
+      "date_fetched": "2026-04-10T12:44:17.101711",
+      "doi": "10.4103/aam.aam_869_25",
       "authors": [
         {
-          "name": "Marlena H Shin",
+          "name": "Khushboo Singhal",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michael G McGowan",
+          "name": "Shivam Verma",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Danna R Kasom",
+          "name": "Neelesh Kapoor",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jessica K Friedman",
+          "name": "Shweta Gupta",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lee J S Cross",
+          "name": "Ruchi Tyagi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Diana J Burgess",
+          "name": "Kiran Singh",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Juli Olson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alison M Whitehead",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stephanie L Taylor",
+          "name": "Narsingh Verma",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Evidence-based complementary and integrative health (CIH) therapies are now in clinical practice guidelines for common pain and pain-related conditions. Primary care providers (PCPs) are often the first point of contact for discussing CIH therapies as non-pharmacological health management. Yet, little is known about their decisions to recommend CIH therapies. OBJECTIVE: To understand: (1) which CIH therapies PCPs recommend and for what health conditions, (2) reasons for their recommendations or lack thereof, and (3) possible solutions to improve appropriateness of recommendations. METHODS: Semi-structured qualitative interviews were conducted with 40 PCPs from eight Veterans Health Administration (VA) hospitals offering eight evidence-based CIH therapies (acupuncture, medical massage therapy, yoga, Tai Chi, meditation/mindfulness, biofeedback, clinical hypnosis, guided imagery). A rapid qualitative analysis was performed using a matrix approach. RESULTS: PCPs recommended patients use acupuncture, medical massage therapy, yoga, Tai Chi, and meditation/mindfulness the most and biofeedback, clinical hypnosis, and guided imagery the least. Pain was the main condition for referrals to all CIH therapies except clinical hypnosis and guided imagery, which were most recommended for smoking cessation and mental health, respectively. Decisions to recommend were largely driven by PCP's knowledge of CIH therapies' effectiveness for particular health conditions. Other factors were PCP's own beliefs about CIH therapies, their perceptions about patients' beliefs, patients' positive experiences, and organizational factors (e.g., understanding what therapies are covered for which conditions and the local referral process). PCPs wanted brief educational information containing many types of content, ranging from therapy descriptions to clinical practice guidelines and information on institutional policies on CIH therapy provision. CONCLUSIONS: Although some PCPs are appropriately recommending evidence-based CIH therapies, lack of knowledge is a critical barrier for many others. This could be addressed with the educational information tailored to the content and format that PCPs specifically requested.",
-      "journal": "Journal of integrative and complementary medicine",
+      "abstract": "CONTEXT: The competency-based medical education curriculum by the National Medical Commission promotes holistic development, including yoga training, to support mental health and resilience in medical students. While yoga is known to reduce stress and enhance mindfulness, its impact on academic performance and stress management in medical students is not well-established. AIM: This study aims to evaluate the effects of 28-day yoga on academic performance, mindfulness, perceived stress, and quality of life among the medical students of 1st year and compare these outcomes with students who did not practice yoga. MATERIALS AND METHODS: This study is a quasi-experimental study, conducted in a tertiary care centre of north India. This study involved 100 1st-year medical students divided into 2 groups: 50 practicing yoga for 28 days and 50 not practicing yoga. Baseline and postintervention assessments of academic performance, perceived stress, mindfulness, and quality of life were conducted. Data analysis included t-tests and repeated measures analysis of variance. RESULTS: After 28 days of yoga, students showed significant reductions in stress (perceived stress scale), increased mindfulness (mindful attention awareness scale), improved quality of life (World Health Organization quality of life [WHOQOL] in all domains), and better academic performance (P < 0.001 for all, except WHOQOL social and environment domains with P = 0.009 and 0.001, respectively). No statistically significant differences were present at baseline between the control groups and yoga group, while postintervention comparisons favored the yoga group across all parameters. CONCLUSIONS: A short-term yoga intervention significantly improved stress levels, mindfulness, quality of life, and academic scores in medical students, supporting its integration into medical education for holistic well-being.",
+      "journal": "Annals of African medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -108,31 +108,122 @@
       "matched_keywords": []
     },
     {
-      "title": "Digital and AI-enhanced psychosocial interventions in breast cancer patients: a systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41949762/",
+      "title": "Postpartum self-injurious thoughts vary by socioeconomic status: The moderating effects of mindfulness and emotion dysregulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41956217/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-08T00:00:00",
-      "date_fetched": "2026-04-09T12:57:59.766754",
-      "doi": "10.1007/s00520-026-10602-4",
+      "date_published": "2026-04-07T00:00:00",
+      "date_fetched": "2026-04-10T12:44:17.101760",
+      "doi": "10.1016/j.jad.2026.121756",
       "authors": [
         {
-          "name": "Brilly Anto",
+          "name": "Nicolette C Molina",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Keziah Mariyam Simon",
+          "name": "Madeleine Bruce",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ayesha Parveen Haroon",
+          "name": "Parisa R Kaliush",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric Matsunaga",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elisabeth Conradt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sheila E Crowell",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Digital and AI-supported psychosocial interventions are increasingly implemented to address psychological distress among women with breast cancer. However, their effectiveness and sustainability remain uncertain. This review aimed to systematically evaluate randomised controlled trials (RCTs) assessing the impact of digital and AI-enhanced psychosocial interventions on stress, anxiety, depression, and health-related quality of life (HRQoL). METHODS: Following PROSPERO registration and PRISMA 2020 guidelines, comprehensive searches of multiple databases were conducted up to June 2025. Eligible studies included RCTs involving breast cancer populations and reporting validated psychosocial outcomes. Risk of bias was assessed using the Cochrane RoB 2.0 tool, and certainty of evidence was evaluated with GRADE. Random-effects meta-analyses using standardised mean differences (Hedges' g) were conducted to pool outcomes measured with different instruments. RESULTS: Thirty-five RCTs (n \u2248 7551 participants) met inclusion criteria. Pooled analyses indicated modest but consistent reductions in stress, anxiety, and depressive symptoms, alongside improvements in HRQoL. Interventions grounded in cognitive behavioural therapy, mindfulness, or psychoeducation produced the most reliable outcomes. AI-assisted and blended formats tended to show stronger effects compared with static or minimally interactive platforms. However, heterogeneity in intervention design, short follow-up periods, reliance on self-reported outcomes, and small single-centre samples limited certainty. Cultural adaptation and representation from low- and middle-income countries were minimal. CONCLUSION: Digital and AI-supported psychosocial interventions show promise in reducing distress and improving HRQoL among women with breast cancer. Evidence certainty remains moderate, constrained by methodological limitations. Larger, multicentre trials with longer follow-up and diverse populations are needed to establish sustainability, generalisability, and clinical integration. RELEVANCE: These findings suggest that digital and AI-enhanced psychosocial interventions may serve as adjuncts to conventional care, with potential to improve access to supportive oncology services. Further high-quality, long-term studies are needed before informing guidelines, policy, or widespread implementation. TRIAL REGISTRATION: PROSPERO (CRD420251074813; registered 16 June 2025).",
+      "abstract": "BACKGROUND: Lower socioeconomic status (SES) is associated with increased risk for self-injurious thoughts (SITs), yet this association remains understudied in the postpartum period, when vulnerability to mood disorders and financial strain increases. OBJECTIVE: This study examined whether distinct socioeconomic contexts during pregnancy were associated with postpartum SITs and whether mindfulness and emotion dysregulation moderated these associations. METHODS: Using data from a longitudinal cohort assessed during pregnancy and postpartum, we constructed person-centered SES subgroups using multiple objective and subjective indicators of socioeconomic context. Generalized linear models tested associations between SES subgroup membership and postpartum SITs, as well as moderation by mindfulness and emotion dysregulation. RESULTS: Three SES subgroups emerged, reflecting distinct socioeconomic contexts: a consistently advantaged group (high SES), a group characterized by material stability alongside financial stress (middle SES), and a group experiencing broad objective and subjective disadvantage (low SES). Participants in the low- and middle-SES subgroups had higher odds of postpartum SITs compared to the high-SES group. Emotion dysregulation was associated with higher odds of SITs across all SES subgroups. Mindfulness was associated with lower odds of SITs in the low-SES subgroup but, unexpectedly, higher odds in the high-SES subgroup. LIMITATIONS: Limitations include reliance on a single cohort and a person-centered SES classification approach that may be sample dependent, potentially limiting generalizability. CONCLUSIONS: Findings underscore the importance of socioeconomic context in shaping risk and protective factors for postpartum self-injurious thoughts. Person-centered approaches that account for structural inequities may improve the contextual relevance of suicide risk assessment and intervention during the postpartum period.",
+      "journal": "Journal of affective disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Barriers to Women's Leadership in Nursing: A Rapid Evidence Assessment and Proposal for an Integrated Theoretical Framework.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41958246/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-10T00:00:00",
+      "date_fetched": "2026-04-10T12:44:17.101830",
+      "doi": "10.1111/jan.70570",
+      "authors": [
+        {
+          "name": "Chiara Palazzo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vincenza Giordano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Chirico",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Teresa Rea",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Assunta Guillari",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM(S): This review analyses and synthesises the available evidence on the barriers limiting women's career advancement in nursing. It aims to identify effective interventions to promote gender equity in healthcare leadership through an integrated framework informed by Social Role Theory, Ambivalent Sexism Theory and Theory of Planned Behaviour. DESIGN: Rapid Evidence Assessment. DATA SOURCES: The search was conducted on the databases: PubMed, CINAHL Complete, MEDLINE, ApaPsycArticles, ApaPsycInfo between March and May 2025. METHODS: The Population-Exposure-Outcome framework guided the formulation of the research question. Two reviewers independently conducted screening, quality appraisal and data extraction. RESULTS: Eight studies with heterogeneous research designs were included: four literature reviews, three quantitative studies and one qualitative study. The analysis identified four themes: (1) gender pay gap; (2) gender stereotypes and cultural expectations; (3) systemic barriers: organisational structures and institutional culture; (4) organisational strategies for gender equity and female leadership. CONCLUSION: Career advancement for female nurses is limited by systemic and internalised constraints that reinforce vertical segregation. Multilevel interventions are needed to dismantle structural inequalities and reshape gender norms within nursing leadership. IMPLICATIONS FOR THE PROFESSION AND/OR PATIENT CARE: Targeted reforms, including transparent promotion criteria, structured mentoring, bias awareness training and inclusive organisational policies, are essential to promote leadership equity, improve workplace justice and foster a sustainable health system. IMPACT: This study addresses the persistent gender gap in nursing leadership, identifying systemic, cultural and individual barriers to women's career progression. Through a Rapid Evidence Assessment, it proposes a new multilevel theoretical framework. The results support policies and interventions to promote gender equity in nursing leadership. REPORTING METHODS: This review adheres to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines for reporting. PATIENT OR PUBLIC CONTRIBUTION: None.",
+      "journal": "Journal of advanced nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Beyond tumor biology: nursing interventions for psychological and immune health in cancer patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41954620/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-09T00:00:00",
+      "date_fetched": "2026-04-10T12:44:17.101872",
+      "doi": "10.1007/s00520-026-10574-5",
+      "authors": [
+        {
+          "name": "Ying Rong Gou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hao Gu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Li Wang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Cancer care requires an integrative approach that addresses psychological distress, immune dysfunction, and health disparities across global populations. Psychoneuroimmunology research reveals bidirectional links between psychological well-being, neural signaling, immune activity, and clinical outcomes, underscoring the need for nursing\u2011led holistic interventions. This review synthesizes evidence on the prevalence and impact of anxiety, depression, fear of recurrence, and stress-mediated neuroendocrine pathways that suppress immune surveillance. It examines tumor-associated immune dysregulation, therapy-induced immune imbalance, and inflammation as a mechanistic bridge between emotional and physical health. Nursing-driven strategies including cognitive-behavioral therapy, mindfulness, narrative care, social support, lifestyle counseling, nutrition, microbiome support, physical rehabilitation, and integrative practices demonstrate measurable benefits for resilience, immune stability, and treatment adherence. Emerging technologies such as AI-enabled telehealth expand the reach and personalization of oncology nursing pathways. Persistent barriers workload, training gaps, cultural differences, and limited resources require policy reform, multidisciplinary integration, and capacity-building. Future directions highlight precision nursing models utilizing biomarkers, digital analytics, and survivorship planning to deliver equitable, patient-centered psychological-immune oncology care.",
       "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
       "year": 2026,
       "source_name": null,
@@ -141,100 +232,32 @@
       "matched_keywords": []
     },
     {
-      "title": "[Impact of physical activity and meditation on the clinical improvement of military personnel suffering from post-traumatic stress disorder: Focus on the role of attachment style and professional reintegration].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41951515/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-07T00:00:00",
-      "date_fetched": "2026-04-09T12:57:59.766915",
-      "doi": "10.1016/j.encep.2026.01.002",
-      "authors": [
-        {
-          "name": "D\u00e9borah Eymond",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alyson Miquel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anais Duffaud",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marion Trousselard",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Military personnel are frequently exposed to traumatic situations that can lead to chronic post-traumatic stress disorder (PTSD). PTSD complicates their reintegration due to the high risk of retraumatization. To support the reintegration of injured servicemen and women, the army has developed the Omega program which includes courses at the Centre des Bless\u00e9s de l'Arm\u00e9e de Terre (CReBAT). These courses combine physical activity and reintegration workshops to which mindfulness meditation exercises have been integrated, notably through diving. The voluntary involvement of participants in this program relies on good adherence to the various workshops for post-course follow-up, which implies attachment abilities. OBJECTIVE: The aim of this study was to compare the effects of mindfulness diving (MD) with those of a multisport program (MS), mainly carried out in groups, on the clinical improvement of PTSD symptoms in military personnel with PTSD. The primary objective was to measure the impact of these two physical activities on specific PTSD symptoms. The secondary objective was to explore the role of attachment style on clinical impact and professional reintegration at one year after the course. METHOD: A controlled clinical trial was conducted with 60 military personnel suffering from PTSD, divided into two groups: CReBAT-MD and CReBAT-MS. Participants were included as they enrolled in the Omega program. Symptom severity (PCL5) was assessed at the beginning, at the end and at one to two months after the courses. Reintegration at one year was examined. Attachment style was also assessed at the start of the course to characterize all participants in two categories according to their Internal Operating Model (IOM): positive self-IOM or negative self-IOM. RESULTS: The results showed a slight improvement in PTSD symptoms in both groups (CReBAT-MD and CReBAT-MS) with no significant difference between them. Regarding reintegration at one year, no significant differences were found between the groups. However, positive effects were observed at one-two months after the course for the MS group, notably a reduction in intrusions (P<0.05) and avoidance symptoms (P<0.05). No difference was observed between subjects with positive and negative self-IOM in terms of overall clinical course, except for a trend towards improvement in negative cognitions and effects (P=0.08) for the negative self-IOM group. Nor was there any difference in terms of reintegration. CONCLUSION: The lack of marked clinical improvement may be explained by the chronic nature of PTSD in military personnel and certain methodological limitations of the study. However, in addition to physical activity, social support and group interactions could play a role in the improvement process. Individuals with a negative IOM of self appeared to benefit more from MS internships, suggesting that group physical activity could enhance self-image and social skills. Further research is needed to better understand the role of physical activity in the management of PTSD, particularly regarding its impact on social cognition and long-term reintegration.",
-      "journal": "L'Encephale",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Quantitative EEG Evidences Reveal an Effective Approach for Regulating Negative Emotions via Listening Mindfulness-Based Music.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41949260/",
+      "title": "Successful Management of Chest Pain Through Cardiac Autonomic Rehabilitation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41954540/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-04-08T00:00:00",
-      "date_fetched": "2026-04-09T12:57:59.767193",
-      "doi": "10.1142/S0129065726500280",
+      "date_fetched": "2026-04-10T12:44:17.101915",
+      "doi": "10.1016/j.jaccas.2026.107637",
       "authors": [
         {
-          "name": "Xinyi Xu",
+          "name": "Jun Yang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Hui Gao",
+          "name": "Riwang Wang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xiaoyu Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zhao Feng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kuijun Wu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Linze Qian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fo Hu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hongtao Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yu Sun",
+          "name": "Rongjing Ding",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "The detrimental effects of negative emotional states have prompted extensive research into developing effective emotion regulation strategies. Here, we introduced a standardized protocol via merging mindfulness prompts with soothing music for regulating negative emotions (i.e. sadness and fear) and investigated the underlying neural mechanisms during emotion regulation. Specifically, EEG data were obtained from 43 healthy participants (m/f = 18/25, age = 22.7 \u00b1 2.2 yrs) throughout baseline (eyes-closed resting), emotion inducing (via watching sadness/fear film clips selected from SEED-IV dataset), and regulation (via listening customized mindfulness-based music) phases. Post-intervention questionnaire showed successful reduction of emotion-related negative valence and arousal. Following analyses revealed broad oscillatory dynamics across various frequency bands as well as network reorganizations, suggesting neural resource reallocation during regulation toward baseline. More importantly, the right-hemispheric lateralization of theta- and gamma-band power and theta-band global efficiency distinctions between sadness and fear highlighted emotion-specific regulatory pathways. In sum, these findings validate the effectiveness of the proposed synthesized mindfulness-music in emotion regulation and elucidate the corresponding spectro-topological reorganizations, paving the way for further exploratory investigations of personalized interventions targeting distinct negative emotions.",
-      "journal": "International journal of neural systems",
+      "abstract": "BACKGROUND: Some patients experience persistent chest pain after complete coronary revascularization without evidence of ischemia. Dysautonomia may be the underlying cause. CASE SUMMARY: A 43-year-old man with recurrent chest pain after multivessel revascularization showed poor response to standard cardiac rehabilitation. Evaluation revealed significant autonomic dysfunction (sympathetic overactivation), not ischemia. After implementing an integrated autonomic-regulation protocol (low-intensity aerobic exercise combined with abdominal breathing, standing meditation, and mindful walking), his symptoms and functional capacity improved markedly. DISCUSSION: Autonomic imbalance is a key pathophysiology. Success required a paradigm shift from the standardized cardiac rehabilitation exercise outlined in current international guidelines to a neural regulation-centered approach. TAKE-HOME MESSAGES: When developing cardiac rehabilitation plans, full account should be taken of the impact of the cardiac autonomic nervous system on symptoms, including palpitations, chest tightness, and chest pain. The targeted integration of neural regulation training leads to concurrent improvement in both clinical symptoms and functional status.",
+      "journal": "JACC. Case reports",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -242,47 +265,70 @@
       "matched_keywords": []
     },
     {
-      "title": "Counteracting Choking Under Pressure in Sport: A Meta-analysis of Interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41951087/",
+      "title": "Distinct Patterns of Directed Brain Connectivity in Focused Attention, Open Monitoring, and Loving Kindness Meditation: An Electroencephalographic Granger Causality Study with Long-term Meditators.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955348/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-06T00:00:00",
-      "date_fetched": "2026-04-09T12:57:59.767238",
-      "doi": "10.1016/j.psychsport.2026.103130",
+      "date_published": "2026-04-05T00:00:00",
+      "date_fetched": "2026-04-10T12:44:17.102231",
+      "doi": "10.1162/JOCN.a.2593",
       "authors": [
         {
-          "name": "Zhoujie Zeng",
+          "name": "Vasil Kolev",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Weiyan Yan",
+          "name": "Kosio Beshkov",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alireza Mohammadi",
+          "name": "Peter Malinowski",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zakaria Toumi",
+          "name": "Antonino Raffone",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "He Sun",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kim Geok Soh",
+          "name": "Juliana Yordanova",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "The current review synthesized the effects of counteractive interventions on sport-specific performance under pressure. Based on the PRISMA guidance, 21 studies were included and pooled effect estimates were generated by random-effects models (Hedges' g). The interventions primarily involved quiet eye training, pre-performance routines, mindfulness, left-hand contraction, self-talk, and rational emotive behavior therapy. Effects were tested on performance domains (motor accuracy, executional success, target deviation), as well as on task types (sport-specific open- and closed-skill contexts). Motor accuracy (g = 0.660), executional success (g = 0.444) and target deviation (g = 0.301) showed marked improvements. For closed-skill sports, the effects were larger and more consistent (g = 0.455) whilst in open-skill tasks the effects tended to be smaller and less robust after adjustment for publication bias indicating that efficacy may vary by type of task requirement. Counteractive interventions are generally effective in reducing the decline in sport-specific performance under pressure, particularly in closed-skill contexts. More empirical research with ecologically valid designs is required to provide a better understanding of how these interventions operate in ever changing competitive environments.",
-      "journal": "Psychology of sport and exercise",
+      "abstract": "The present study applied spectral Granger causality (GC) analysis to electroencephalographic (EEG) recordings obtained during focused attention meditation (FAM), open monitoring meditation (OMM), and loving kindness meditation (LKM) in highly experienced meditators. The aim of the investigation was to characterize distinct connectivity signatures associated with each meditation style by examining the strength, frequency, and direction of interregional interactions. These differences were expected to specify the neural connectivity profiles of the cognitive and affective state of each meditative practice. Multivariate GC was computed from high-resolution EEG signals recorded from long-term meditators (n = 22) in four conditions: rest, FAM, OMM, and LKM. GC was analyzed in the frequency domain for key electrode clusters (anterior and posterior) in the two hemispheres to compare frequency-specific directed connectivity between rest and each meditation type. Main results demonstrated that each meditation state produced highly specific alterations in directed influences relative to rest. In FAM, there was significant reduction in posterior-to-anterior GC in the alpha and beta bands as well as decreased multispectral interhemispheric frontal GC implying attenuated bottom-up sensory and associative inputs. In OMM, multispectral GC was significantly increased from the left hemisphere to the right posterior cluster implying expanded awareness in the right posterior regions through enhanced top-down modulation by the left hemisphere. The distinctive features of LKM profile were the interhemispheric symmetry, the posterior-anterior bidirectionality, and the specific beta-band engagement, implying a coactivation of systems that support an emotionally balanced stance, equanimity, and prosocial attitude. These novel findings demonstrate that the direction and frequency specificity of information flows provide complementary insights into neural processes underlying distinct meditative states.",
+      "journal": "Journal of cognitive neuroscience",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Digital Mental Health Care for Veterans: An Overview of the Veterans Affairs (VA) Apps, Their Evidence Base, and Adoption Trends.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955301/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-07T00:00:00",
+      "date_fetched": "2026-04-10T12:44:17.102667",
+      "doi": "10.1093/milmed/usag151",
+      "authors": [
+        {
+          "name": "Rondy Yu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aaron Haddock",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Digital mental health interventions are increasingly used within the U.S. Department of Veterans Affairs (VA) to support veterans with post-traumatic stress disorder (PTSD), depression, and stress-related concerns. With multiple VA-developed mental health applications now available, understanding their evidence base is essential for informing clinical use and implementation. MATERIALS AND METHODS: A structured review of the empirical literature was conducted to examine VA mental health applications. Both authors searched and reviewed the literature, applied inclusion criteria, and identified studies reporting app efficacy, effectiveness, usability, or engagement. Five apps met criteria for inclusion: AIMS for Anger Management, COVID Coach, Mindfulness Coach, PTSD Coach, and PE Coach. RESULTS: Across studies, VA mental health apps were associated with reductions in symptoms of PTSD, depression, and anxiety, as well as improvements in coping skills and stress management. PTSD Coach and Mindfulness Coach had the strongest evidence bases. Usability and acceptability were generally high, although engagement varied, with several studies reporting brief or declining use over time. Only 5 of the 9 VA-developed apps were represented in the empirical literature, indicating that evidence strength is uneven across the VA's digital portfolio. CONCLUSIONS: VA mental health applications represent a promising and accessible extension of traditional mental health services for veterans. The evidence suggests that these tools can support symptom reduction and self-management, particularly when used alongside provider guidance. However, variability in study design, declining engagement, and limited evaluation of several apps highlight areas for further research. Continued development and rigorous evaluation of digital interventions will be essential to optimizing their contribution to veteran mental health care.",
+      "journal": "Military medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
