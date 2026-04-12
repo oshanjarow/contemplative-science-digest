@@ -1,214 +1,33 @@
 {
-  "generated_at": "2026-04-11T12:33:44.504551",
+  "generated_at": "2026-04-12T12:36:58.673932",
   "papers": [
     {
-      "title": "Gender Differences in Coping Strategies and Life Satisfaction Following Cognitive-Behavioral and Mindfulness-Based Intervention for Crohn\u2019s Disease: A Randomized Controlled Trial",
-      "url": "https://www.semanticscholar.org/paper/b7c6eb831df2281e12f5c053c9fe167d99ea9fdf",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-26T00:00:00",
-      "date_fetched": "2026-04-11T12:32:54.470551",
-      "doi": "10.3390/jcm14051569",
-      "authors": [
-        {
-          "name": "G. Goren",
-          "author_id": "1742312488",
-          "affiliation": null
-        },
-        {
-          "name": "D. Schwartz",
-          "author_id": "152591137",
-          "affiliation": null
-        },
-        {
-          "name": "Michael Friger",
-          "author_id": "2249648440",
-          "affiliation": null
-        },
-        {
-          "name": "R. Sergienko",
-          "author_id": "2284669148",
-          "affiliation": null
-        },
-        {
-          "name": "A. Monsonego",
-          "author_id": "2588268",
-          "affiliation": null
-        },
-        {
-          "name": "V. Slonim-Nevo",
-          "author_id": "1405700996",
-          "affiliation": null
-        },
-        {
-          "name": "Dan Greenberg",
-          "author_id": "2249653147",
-          "affiliation": null
-        },
-        {
-          "name": "S. Odes",
-          "author_id": "152773491",
-          "affiliation": null
-        },
-        {
-          "name": "O. Sarid",
-          "author_id": "6483913",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background and Objective: Crohn\u2019s Disease (CD) is a chronic inflammatory condition with significant physical and psychological impacts, often requiring comprehensive self-management. This study examines the effects of COBMINDEX (Cognitive\u2013Behavioral and Mindfulness Intervention with Daily Exercise) on coping strategies and life satisfaction in CD patients, focusing on gender-specific responses. Study objectives were to assess the impact of COBMINDEX on adaptive and maladaptive coping strategies and life satisfaction in CD patients, and to examine gender differences in these outcomes. Materials and Methods: A pre-planned secondary analysis of a randomized controlled trial, conducted from 2018 to 2021, at two public tertiary hospitals in Israel. A total of 120 CD patients (45 men and 75 women) were randomly assigned to either theCOBMINDEX group or a wait-list control group. Participants were assessed at baseline and post-intervention for coping strategies, mindfulness, psychological symptoms, and life satisfaction using validated scales. Quantile regression explored the gender-specific predictors of life satisfaction. This study was registered at ClinicalTrials.gov (NCT05085925) and Israel Ministry of Health (MOH_2020- 02- 24_008721. asp). Results: Both genders showed significant improvements in mindfulness, emotion-focused coping, and active coping (p < 0.05). Women exhibited reduced dysfunctional coping and greater emotional support use. For men, emotion-focused coping and mindfulness positively predicted life satisfaction, while for women, reductions in psychological symptoms and dysfunctional coping were significant predictors (p < 0.01). Conclusions: COBMINDEX enhances coping strategies and life satisfaction in CD patients, with notable gender differences. These findings highlight the importance of gender-tailored psychological interventions to improve overall patient well-being.",
-      "journal": "Journal of Clinical Medicine",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "mindfulness"
-      ]
-    },
-    {
-      "title": "Multimodal EEG, ECG, and video dataset of yoga practitioners during concentration and mind-wandering tasks.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41963380/",
+      "title": "Mindfulness-based intervention alters nonlinear heart rate variability in a pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41965433/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-10T00:00:00",
-      "date_fetched": "2026-04-11T12:33:43.887036",
-      "doi": "10.1038/s41597-026-07209-z",
+      "date_published": "2026-04-11T00:00:00",
+      "date_fetched": "2026-04-12T12:36:57.642785",
+      "doi": "10.1007/s44192-026-00444-1",
       "authors": [
         {
-          "name": "Alexey Kashevnik",
+          "name": "Yu Gao",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Eduard Glekler",
+          "name": "Liat Zitron",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Elena Artemenko",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ivan Brak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Irina Shoshina",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vladimir Romaniuk",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "We present a multimodal dataset containing electroencephalography (EEG), electrocardiography (ECG), and video recordings from 49 participants. Each participant completed a single session lasting approximately 45 minutes. During each session they performed five tasks: resting state, inward concentration (focusing on the center of the forehead), outward concentration (visual search), and mind-wandering. EEG data were recorded from 64 channels at 2048 Hz; ECG and frontal video were collected simultaneously. The dataset includes 49 validated recordings: 25 from experienced yoga practitioners and 24 from individuals without prior experience in yoga or other self-regulation practices. The recordings are synchronized and structured for convenient use in cross-modal analyses. This dataset may support research in attention, concentration, meditation, affective computing, and multimodal signal integration. All data are anonymized and organized for easy access and reuse.",
-      "journal": "Scientific data",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Development of a personalized, modular intervention to promote dignity, meaning and mindfulness in palliative patients in a swiss acute-care hospital.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41963902/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-10T00:00:00",
-      "date_fetched": "2026-04-11T12:33:43.887446",
-      "doi": "10.1186/s12904-026-02088-y",
-      "authors": [
-        {
-          "name": "Katharina Klatte",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annina Seiler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Reka Schweighoffer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gunther Meinlschmidt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Silke Walter",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sandra Stephanie Mai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Josef Jenewein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Harvey M Chochinov",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gary Rodin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rainer Schaefert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sandra Eckstein",
+          "name": "Serena Guo",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "BMC palliative care",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Interoceptive-Based Interventions for Eating Disorders: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41962847/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-08T00:00:00",
-      "date_fetched": "2026-04-11T12:33:43.887524",
-      "doi": "10.1016/j.appet.2026.108559",
-      "authors": [
-        {
-          "name": "Salvatore M Diana",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Laura Barca",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Disruptions in interoception, the awareness of internal bodily signals, are strongly linked to various psychological and physiological conditions, including eating disorders (EDs) such as anorexia nervosa, bulimia nervosa, and binge-eating disorder. Despite growing evidence that altered interoceptive processing is central to EDs, the use of interoceptive-based interventions (IBIs) in this population remains under-explored. This systematic review aims to evaluate the application and efficacy of IBIs in the treatment of eating disorders. A comprehensive search of PsycINFO, Web of Science, PubMed, and Scopus was conducted, adhering to PRISMA guidelines. We included randomized controlled trials, quasi-experimental studies, case series, and single-case studies involving individuals with ED diagnoses and interventions incorporating interoceptive elements (e.g., mindfulness, biofeedback, interoceptive exposure). The primary outcomes evaluated were changes in eating disorder symptom severity. Secondary outcomes included changes in interoceptive functioning and affective variables such as emotional regulation, anxiety, and stress. Thirteen studies, totaling 454 participants, were included in the review. Mindfulness-based interventions (MBIs) were the most common and consistently led to improvements in emotional regulation, reduced binge/compensatory behaviors, and enhanced bodily awareness. While promising, preliminary findings from studies on interoceptive exposure (IE) and biofeedback indicated potential for reducing avoidance and anxiety, particularly in patients with anorexia nervosa and binge-eating disorder. A key limitation across most studies was a high risk of bias and a lack of standardized measures for assessing interoceptive outcomes. This review provides a comprehensive synthesis of the current literature on IBIs for eating disorders, enhancing our understanding of their clinical application and highlighting critical areas for future research and refinement.",
-      "journal": "Appetite",
+      "journal": "Discover mental health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -216,31 +35,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Steven Soderbergh\u2019s Strange, Surprising Heist Movie",
-      "url": "https://www.theatlantic.com/culture/2026/04/the-christophers-steven-soderbergh-movie-review/686761/?utm_source=feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-04-10T21:13:17",
-      "date_fetched": "2026-04-11T12:33:44.403265",
-      "doi": null,
-      "authors": [
-        {
-          "name": "David Sims",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "The Christophers starts as the tale of a forgery, but ends as an intimate meditation on art.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "meditation"
-      ]
-    }
-  ]
+  "articles": []
 }
