@@ -1,57 +1,287 @@
 {
-  "generated_at": "2026-04-15T12:58:45.522295",
+  "generated_at": "2026-04-16T13:03:37.258315",
   "papers": [
     {
-      "title": "Strategi Guru Pendidikan Agama Buddha dalam Membina Karakter dan Perilaku Siswa Tingkat Menengah Atas di SMAN 1 Ampel dan SMK Pembangunan Ampel",
-      "url": "https://www.semanticscholar.org/paper/34e5e376f38c05404085a9ceaa7f47e3e7910c40",
+      "title": "Effects of Preoperative Mindfulness Training Combined With Active Breathing and Circulation Exercises on Pulmonary Function Recovery in Lung Cancer Patients After Lobectomy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41987624/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-06T00:00:00",
-      "date_fetched": "2026-04-15T12:58:13.380866",
-      "doi": "10.69607/411efh85",
+      "source_type": "pubmed",
+      "date_published": "2026-04-10T00:00:00",
+      "date_fetched": "2026-04-16T13:03:25.794998",
+      "doi": "10.62713/aic.4474",
       "authors": [
         {
-          "name": "Canda Devi",
-          "author_id": "2428413173",
+          "name": "Luping Yang",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mujiyanto Mujiyanto",
-          "author_id": "117105541",
+          "name": "Aixia Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lan Li",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Penelitian ini bertujuan untuk mendeskripsikan strategi yang digunakan oleh guru Pendidikan Agama Buddha dalam menumbuhkan karakter dan perilaku siswa di SMAN 1 Ampel dan SMK Pembangunan Ampel, Boyolali, di tengah tantangan era digital. Studi kasus kualitatif ini melibatkan tiga guru Pendidikan Agama Buddha sebagai peserta utama melalui wawancara mendalam, observasi partisipatif, dan analisis dokumen. Temuan menunjukkan bahwa pembentukan karakter dilakukan melalui lima strategi utama: keteladanan guru, integrasi nilai-nilai Buddha ke dalam kurikulum, pembiasaan melalui kegiatan ekstrakurikuler, penilaian dan pemantauan perilaku secara berkelanjutan, serta kolaborasi dengan orang tua dan institusi sekolah. Guru bertindak sebagai pembimbing moral yang menanamkan nilai-nilai s\u012bla (moralitas), sam\u0101dhi (konsentrasi), dan pa\u00f1\u00f1\u0101 (kebijaksanaan) dalam proses pembelajaran di sekolah negeri. Selain itu, pendekatan reflektif dan kolaboratif yang melibatkan siswa, keluarga, dan masyarakat efektif dalam mempromosikan kedisiplinan, kesadaran, dan tanggung jawab sosial. Penelitian ini menyimpulkan bahwa strategi guru Pendidikan Buddhis bersifat kontekstual dan adaptif terhadap perkembangan teknologi, memberikan model holistik untuk pendidikan karakter di sekolah negeri.",
-      "journal": "Jurnal Maitreyawira",
+      "abstract": "AIM: Diminished pulmonary function and psychological distress, which are common following lobectomy in lung cancer patients, represent a hindrance to the overall recovery. This study aimed to retrospectively explore the effects of preoperative mindfulness training combined with active breathing and circulation exercises on postoperative pulmonary function recovery in lung cancer patients undergoing lobectomy. METHODS: A retrospective study was conducted on 160 patients who underwent lobectomy at Shaoxing People's Hospital. The samples were divided into two groups based on the type of nursing care received: the control group received standard care, whilst the experimental group received preoperative mindfulness training combined with active breathing and circulation exercises. Evaluation indicators included anxiety and depression levels, physiological parameters (peripheral capillary oxygen saturation [SpO RESULTS: The depression score (2.00 [1.00, 3.00]) and anxiety score (2.00 [1.00, 4.00]) in the experimental group were significantly lower than those in the control group ( CONCLUSIONS: Preoperative mindfulness training combined with active breathing and circulation exercises significantly improves the postoperative psychological well-being of patients undergoing lobectomy, enhances medication adherence and lung function recovery, and ultimately improves overall health-related quality of life.",
+      "journal": "Annali italiani di chirurgia",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Who engages? Machine learning insights into digital mindfulness-based intervention for generalized anxiety disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41422949/",
+      "title": "Effects of Psychosocial Interventions on Measures of Stress Among Breast Cancer Survivors: A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41984493/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-15T00:00:00",
-      "date_fetched": "2026-04-15T12:58:34.295104",
-      "doi": "10.1016/j.jad.2025.120963",
+      "date_published": "2026-04-13T00:00:00",
+      "date_fetched": "2026-04-16T13:03:36.254963",
+      "doi": "10.1097/NCC.0000000000001550",
       "authors": [
         {
-          "name": "Nur Hani Zainal",
+          "name": "Lakeshia Cousin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michelle G Newman",
+          "name": "Sabrina Guillen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Linda S Behar-Horenstein",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Debra E Lyon",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Although mindfulness ecological momentary interventions (MEMI) appear effective in alleviating worry symptoms, treatment engagement remains suboptimal. Determining baseline variables of MEMI over self-monitoring placebo (SM) can inform tailored interventions for individuals with generalized anxiety disorder (GAD). METHOD: Machine meta-learning methods (ML) were applied to predict two-week engagement (log-transformed number of prompts completed) among individuals randomized to MEMI or SM (N\u00a0=\u00a0110). Sixteen baseline variables comprised the predictor set: clinical, demographic, process, and executive functioning (EF) factors. Random forest using a five-fold nested cross-validation approach mitigated overfitting. X-learner meta-algorithms estimated conditional average treatment engagement (CATE). Shapley additive explanations evaluated relative importance. RESULTS: The 16-predictor model displayed strong predictive performance (R-squared [R LIMITATIONS: The small sample size, single engagement metric, and brief duration might constrain generalizability. DISCUSSION: Integrating robust ML approaches could optimally identify prescriptive predictors of engagement to brief digital mental health interventions to inform targeted treatments. TRIAL REGISTRATION: ClinicalTrials.gov ID (NCT04846777).",
+      "abstract": "BACKGROUND: With 4 million breast cancer survivors (BCSs) in the United States, researchers are interested in mitigating the effects of stress after cancer diagnosis. This stress can affect immune and endocrine systems, elevating cancer risk and affecting survival rates. OBJECTIVE: This scoping review investigated the impact of psychosocial intervention measures on stress in BCS. The findings will pave the way for further replication studies and help establish the most effective interventions for mitigating stress in BCS. INTERVENTIONS/METHODS: We conducted a systematic search in PubMed, PsycINFO, CINAHL, and the Web of Science databases from their inception to December 2023. Twenty-six randomized controlled trials encompassing 2771 patients with breast cancer were selected for a comprehensive review and analysis. RESULTS: The main findings showed a significant impact of cognitive-behavioral stress management, Iyengar yoga, mindfulness-based stress reduction, and relaxation/guided imagery on inflammatory biomarkers, such as salivary cortisol (n = 10), TNF\u03b1 levels (n = 3), and CD3+ T cells (n = 2). Regarding perceived stress, yoga showed a significant decrease in perceived stress, depression, and anxiety in the BCS group (n = 3). Mindfulness-based stress reduction (n = 2) and cognitive-behavioral stress management (n = 3) also showed a significant reduction in stress symptoms in the experimental group compared with the control group. CONCLUSION: This review consolidates the existing knowledge and highlights the potential of psychosocial interventions to improve the lives of BCSs. IMPLICATIONS FOR ONCOLOGY NURSING PRACTICE: By addressing the identified research gaps, future studies can further optimize these interventions to ensure more effective and personalized care for BCS.",
+      "journal": "Cancer nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Meditation and workplace health: a systematic review and meta-analysis of mental and cardiometabolic outcomes among employees.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41987765/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-16T00:00:00",
+      "date_fetched": "2026-04-16T13:03:36.255054",
+      "doi": "10.1080/17437199.2026.2652892",
+      "authors": [
+        {
+          "name": "Mahesh Kumar Khanal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Peter Saunders",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kathy Nguyen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Moza Al Hatmi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hind Mohammed A Asiri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wejdan Shahin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rebecca Millar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Leila Karimi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barbora de Courten",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Employees are severely affected by psychological distress, poor cardiometabolic health, and reduced productivity. Meditation has emerged as a potential strategy to enhance overall health. This systematic review synthesised the effectiveness of meditation for improving employees' mental health and cardiometabolic risk (CMR) markers across 132 randomised controlled trials (145 intervention groups and 23,080 participants). Most interventions were Mindfulness and Transcendental Meditation, conducted in the USA, and targeting healthcare professionals and educators. Results showed that meditation significantly improved perceived stress (",
+      "journal": "Health psychology review",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Building a data-driven evaluation framework of physician wellness initiatives: a rapid review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985967/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-15T00:00:00",
+      "date_fetched": "2026-04-16T13:03:36.255102",
+      "doi": "10.1136/bmjopen-2025-106432",
+      "authors": [
+        {
+          "name": "Izzah Khairi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sridevi Kundurthi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brian Lo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tania Tajirian",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Terri Rodak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sanjeev Sockalingam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Treena Wilkie",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: While there exist many individual and organisation-level initiatives aimed at reducing physician burnout and promoting wellness, there are no comprehensive frameworks or guidelines for evaluating initiatives targeted at physicians. To address this gap, we conducted a rapid review to understand the current state of initiative evaluation in this field and develop an evaluation framework for initiatives aimed at physician burnout and wellness. DESIGN: A rapid review based on the Cochrane rapid review methods guidance. DATA SOURCES: MEDLINE, Embase and PsycInfo were searched from database inception to 2 May 2024 for concepts related to physicians, wellness initiatives and burnout, and organisational efforts. ELIGIBILITY CRITERIA: We included studies with initiatives aimed at physician burnout, wellness or experience; targeted physicians, residents, fellows and/or physician faculty; were evaluated in some format; and took place within healthcare settings. DATA EXTRACTION AND SYNTHESIS: Two independent reviewers extracted data according to a standard template. For each study, we noted information related to the type of wellness initiative, evaluation approach, components measured in evaluations ('evaluation indicators') and gaps in evaluation. The same reviewers analysed the data quantitatively and thematically. Findings were reported according to the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews. RESULTS: The database search yielded a total of 3786 references, of which 105 were included based on predefined inclusion and exclusion criteria. Various types of wellness initiatives (eg, mindfulness, peer support programmes, communities of practice) were delivered multimodally, or via curriculums and workshops, among other formats. Common evaluation approaches included surveys (95%, n=100/105) and interviews or focus groups (17%, n=18/105). Evaluation indicators spanned five categories: impacts (94.3%, n=99/105), participants' reactions (65.7%, n=69/105), perspective and behaviour changes (46.7%, n=49/105), implementation (45.7%, n=48/105) and continuous improvement (6.7%, n=7/105). Evaluation gaps included limited responses from participants, failure to capture certain indicators (eg, physician turnover) and limited longitudinal measures. CONCLUSIONS: Based on the findings and existing models, we developed a physician-focused evaluation framework, constituting two domains: implementation and impacts. This framework can enable organisations to better understand, assess and improve initiatives aimed at physician well-being, which can have positive impacts on patient care and the healthcare system.",
+      "journal": "BMJ open",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Rehabilitation of cognition and psychosocial well-being in epilepsy: Results of a randomized waiting list-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41984512/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-15T00:00:00",
+      "date_fetched": "2026-04-16T13:03:36.255484",
+      "doi": "10.1002/epi.70248",
+      "authors": [
+        {
+          "name": "Kristijonas Puteikis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gintar\u0117 Auksel\u0117",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Asta Jakonien\u0117",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arminas Jasionis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Peter Wolf",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "R\u016bta Mameni\u0161kien\u0117",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Limited evidence supports the use of cognitive and psychosocial rehabilitation programs for people with epilepsy (PWE). We assessed the effects of a newly designed cognitive and psychological counseling intervention on patient-reported and neuropsychological outcomes in a mixed sample of PWE. METHODS: Seventy adult PWE (57.1% female, mean age\u2009=\u200935.9\u2009\u00b1\u200911.7\u2009years, 57.1% with focal epilepsy) were randomized (1:1) to either an early intervention group (EIG) or a waiting list for a late intervention group (LIG). The intervention consisted of six individual and two group counseling sessions incorporating psychoeducation, cognitive training, coping strategies, and mindfulness. Both groups were assessed at baseline and 4 and 16\u2009weeks. Primary endpoints were quality of life (Patient-Weighted Quality of Life in Epilepsy 31-item inventory [QOLIE-31-P]) and delayed verbal and visual recall at 4\u2009weeks; secondary endpoints included symptoms of anxiety (Generalized Anxiety Disorder seven-item scale), depression (Neurological Disorders Depression Inventory in Epilepsy), and stigma. Linear mixed models with maximum likelihood estimation were used for repeated measures analysis. RESULTS: Follow-up data were available for 66 participants (94.3%) at 4\u2009weeks and 61 (87.1%) at 16\u2009weeks. The EIG showed significant improvements on the QOLIE compared with the LIG (group by time interaction p\u2009=\u2009.006), which were maintained at both follow-ups. Anxiety symptoms were also significantly reduced in the EIG (group by time interaction p\u2009=\u2009.006). These effects were observed in both focal and generalized epilepsy. No significant group differences were found for delayed verbal or visual recall over time. However, greater long-term forgetting on the word list task was observed in the LIG at 4\u2009weeks. No significant changes were detected for symptoms of depression or perceived stigma. SIGNIFICANCE: An 8-week cognitive and psychosocial rehabilitation program improved quality of life and reduced anxiety in PWE, with effects sustained for up to 16\u2009weeks. Cognitive benefits were limited, with a possible transient effect on long-term verbal recall. These findings support the use of rehabilitation interventions to enhance patient-reported outcomes across epilepsy subtypes.",
+      "journal": "Epilepsia",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Meaning in life as a central pathway in depression: A network and causal discovery study of psychological resources among university students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985757/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-13T00:00:00",
+      "date_fetched": "2026-04-16T13:03:36.255856",
+      "doi": "10.1016/j.jad.2026.121797",
+      "authors": [
+        {
+          "name": "Fares Barakat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yue Zeng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hongqun Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad Suliman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meiling Qi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shiyu Shen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ping Li",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Depressive symptoms are prevalent and influenced by various protective factors among university students. While meaning in life (MIL), particularly the presence of MIL, has emerged as a core psychological construct associated with depression, its precise position within the network of interconnected psychological resources remains unclear. This study aimed to understand how psychological resources of mental health interact and to explore statistically compatible directional pathways associated with depressive symptoms. METHOD: A cross-sectional study was conducted among 2216 Chinese university students. Outcome measures included depression, MIL, mindfulness, self-control, social support, and resilience. Psychological network analysis was employed to estimate associations among variables, with additional directed acyclic graphs (DAGs) used to explore directional structures compatible with the observed data. RESULTS: The network showed the presence of MIL as the central, highest-bridging node, strongly connecting a cluster of protective factors negatively to depression. DAG-based modeling suggested that family support, mindfulness, and self-discipline were directionally associated with the presence of MIL, which, in turn, was linked to lower depression both directly and indirectly via resilience, with a potential mediating role. CONCLUSION: The findings highlight the presence of MIL as a central and modifiable factor within the psychological resources network against depression among university students. The results generate testable hypotheses suggesting that MIL interventions, integrated with mindfulness, social support, and self-control, may be promising directions for alleviating depression, with a need for testing in future longitudinal and experimental research.",
       "journal": "Journal of affective disorders",
       "year": 2026,
       "source_name": null,
@@ -60,297 +290,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Tuned In!: 12-month longitudinal outcomes of an affirmative mindfulness intervention for sexual and gender diverse youth and young adults.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41421611/",
+      "title": "Mindfulness-Based Cognitive Therapy Self-Directed Education in Depressive Symptom Remission: A Quality Improvement Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985907/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-04-15T00:00:00",
-      "date_fetched": "2026-04-15T12:58:34.295149",
-      "doi": "10.1016/j.jad.2025.120895",
+      "date_fetched": "2026-04-16T13:03:36.256240",
+      "doi": "10.1891/JDNP-2025-0029",
       "authors": [
         {
-          "name": "Gio Iacono",
+          "name": "Bethanie Simmons-Becil",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Leah Holle",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Craig Mortley",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hsiu-Ju Lin",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE: Sexual and gender diverse youth and young adults (SGDY) face mental health disparities due to anti-LGBTQIA+ discrimination and minority stressors. Despite increasing research on youth mental health interventions, culturally responsive approaches for SGDY are scarce. This study addresses this gap by assessing the mental health impact of an SGDY-specific trauma-informed affirmative mindfulness-based intervention (MBI), Tuned In!, which was co-developed with SGDY through community-based participatory methods, and designed to support their mental health needs. METHODS: Fifty-two SGDY (aged 16-29) participated in the intervention; 44 completed all assessments across four time points (baseline, post-intervention, 6-month, and 12-month follow-up). Two-level hierarchical linear modeling (HLM) analyses were conducted to assess intervention effects, treating the intercept and slope as random effects. RESULTS: Significant improvements were observed for all mental health outcomes, except for the BSI-Somatization subscale and the BSI-Hostility subscale. Depression (Beck Depression Inventory) and anxiety (State-Trait Anxiety Inventory) significantly decreased, along with overall psychological distress (Brief Symptom Inventory) and several subscales, including obsession-compulsion, interpersonal sensitivity, paranoid ideation, and psychoticism. Mindfulness, self-compassion, and sexual self-efficacy also showed significant improvements among participants. Findings remained statistically significant after adjusting for demographic variables. CONCLUSIONS: Tuned In! intervention outcomes were consistent over a 12-month period, highlighting its potential to be scaled up as an effective intervention for promoting mental health among SGDY, particularly during this hostile anti-LGBTQIA+ political climate. A clinical trial is recommended to compare the intervention with treatment-as-usual or other youth mental health interventions.",
-      "journal": "Journal of affective disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "From body to mind: how body-mind axial awareness training enhances body awareness, mindfulness, positive embodiment and mental health in healthcare students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41983227/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-04-15T12:58:44.663935",
-      "doi": "10.1080/21642850.2026.2656029",
-      "authors": [
-        {
-          "name": "Yi-Min Tien",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chia-Yao Lin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yunn-Wen Lien",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Li-Chuan Hsu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Healthcare students face intense emotional and academic stress, leading to anxiety and poor mental health. Body-Mind Axial Awareness (BMAA)-a movement-based, body-centered practice-integrates bodily awareness and interoceptive attention to promote mind-body regulation and mental health. METHODS: A pretest-posttest controlled design was used with 38 students in the BMAA group and 27 in the control group. Group differences arising from non-random enrollment were statistically adjusted using analysis of covariance (ANCOVA), and within-group changes were examined using paired t-tests and repeated-measures multivariate analysis of variance (MANOVA). Participants completed eight weeks of BMAA training involving weekly two-hour sessions and daily home practice. Assessments before and after intervention included four domains of psychological functioning, measured using validated instruments: body awareness (Body Awareness Ability Inventory; Multidimensional Assessment of Interoceptive Awareness), mindfulness (Mindful Attention Awareness Scale), positive embodiment (Experience of Embodiment Scale), and mental health (Adult Mental Health Scale; Toronto Alexithymia Scale-20; State-Trait Anxiety Inventory-Trait; Satisfaction with Life Scale). RESULTS: After controlling for baseline differences, the BMAA group showed greater gains than the control group in body awareness, mindfulness, positive embodiment, and mental health. Within-group analyses further indicated that BMAA participants demonstrated significant pre-post improvements across most body awareness and mindfulness subscales (except Not-Distracting and Not-Worrying), as well as across embodiment dimensions (except Resisting Objectification), along with enhanced emotional awareness and expression, reduced anxiety, and higher life satisfaction ( CONCLUSION: The findings demonstrate that BMAA training enhances multiple facets of body-mind functioning, including bodily awareness, mindfulness, positive embodiment, and mental health. As healthcare students encounter cognitive and emotional demands, BMAA may offer a feasible embodied approach for strengthening psychological resilience and adaptive stress management during professional training.",
-      "journal": "Health psychology and behavioral medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Third-wave therapy with virtual reality exposure: Transdiagnostic proof of concept for the treatment of social anxiety.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41419064/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-15T00:00:00",
-      "date_fetched": "2026-04-15T12:58:44.664034",
-      "doi": "10.1016/j.jad.2025.120898",
-      "authors": [
-        {
-          "name": "M Archibaldo Bravo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marie-Ange Binette",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Martin Lepage",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amal Abdel-Baki",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marie Villeneuve",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tania Lecomte",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Third-wave therapies and Virtual Reality (VR) exposure are two promising interventions for Social Anxiety (SA) disorder. These interventions are not new, but what is innovative is the combination of them. The main objective of this study was to evaluate the preliminary efficacy of a treatment for SA that combines the best of third-wave therapies with the advantages of immersive VR exposure. Three experimental groups with SA disorder were recruited: SA only, SA with comorbidity, and SA with psychosis (n\u00a0=\u00a050; 64\u00a0% female; mean age 22.98). A control group was also recruited: SA with and without comorbidities (n\u00a0=\u00a025; 84\u00a0% female; mean age 24.88). Experimental participants received eight weekly treatment sessions of about 60\u00a0min each. At the end of the study, the control group was provided with a list of telephone helplines and clinics for the treatment of SA. The results suggest that the intervention was effective in reducing SA symptoms with large effect sizes, irrespective of the presence or absence of comorbid disorders. The impact of the intervention was also observed on other clinical variables: general anxiety, depression, intolerance of uncertainty, cognitive distortions, mindfulness skills, and non-adaptative emotional regulation. Significant predictors of treatment change were linked to improvements in intolerance of uncertainty, experiential avoidance, and the frequency of exposure exercises. The results support the combined use of VR exposure and third-wave therapy for the treatment of SA. Further studies are needed to confirm the efficacy and investigate the implementation considerations of combining these interventions for SA disorder.",
-      "journal": "Journal of affective disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A three-week mindfulness intervention on mental skills, internal-load regulation, and performance in youth swimmers: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41981191/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-14T00:00:00",
-      "date_fetched": "2026-04-15T12:58:44.664481",
-      "doi": "10.1038/s41598-026-48457-8",
-      "authors": [
-        {
-          "name": "Mohamed Ali Sifi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hamza Marzouki",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Okba Selmi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bilel Sdira",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bilel Cherni",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John Elvis Hagan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dan Iulian Alexe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alexandru Ioan B\u0103ltean",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vlad Adrian Geant\u0103",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wafa Douzi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anissa Bouassida",
+          "name": "Kirsten Pancione",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Scientific reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Caregiver-Targeted Online Multicomponent Intervention and Quality of Life in Alzheimer's Disease: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41979453/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-14T00:00:00",
-      "date_fetched": "2026-04-15T12:58:44.664581",
-      "doi": "10.1080/07317115.2026.2659355",
-      "authors": [
-        {
-          "name": "Jordina Mu\u00f1oz-Padros",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maite Garolera",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Emma Puigoriol-Juvanteny",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anna Bart\u00e9s-Plans",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Teresa Romero Mas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pere Roura-Poch",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Quint\u00ed Foguet-Boreu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: To examine whether a brief, fully online caregiver-targeted multicomponent psychological intervention improves self-reported quality of life (QoL) in people with Alzheimer's disease (AD). METHODS: In this randomized controlled trial, 56 people with AD and their informal caregivers were assigned to an intervention ( RESULTS: Compared with controls, people with AD in the intervention group showed greater improvement in QoL-AD ( CONCLUSIONS: A brief caregiver-targeted online intervention was associated with improved QoL and stabilization of neuropsychiatric symptoms in people with AD. CLINICAL IMPLICATIONS: Trial registration: ClinicalTrials.gov, NCT04280861 (registered 17 February 2020).",
-      "journal": "Clinical gerontologist",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A meta-analysis of parental burnout interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41443317/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-15T00:00:00",
-      "date_fetched": "2026-04-15T12:58:44.665237",
-      "doi": "10.1016/j.jad.2025.121022",
-      "authors": [
-        {
-          "name": "Agata M Urbanowicz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicolas B Verger",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rebecca Shankland",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jaynie Rance",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Paul Bennett",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Aur\u00e9lie Gauchet",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE: This meta-analysis aimed to evaluate the effectiveness of psychological and educational interventions for parental burnout, assess the durability of intervention effects, examine potential moderators, and identify shared intervention components. METHODS: Fifteen studies comprising 18 intervention arms (total N\u00a0=\u00a01380), including 12 randomised controlled trial arms (n\u00a0=\u00a0804), were synthesised using Hedges' g under random-effects models. Heterogeneity, publication bias, and potential moderators (intervention type, population, and programme duration) were examined using meta-regression analyses. MAIN RESULTS: Randomised controlled trials produced moderate-to-large reductions in parental burnout compared with control conditions, with effects maintained for up to three months following intervention. Effects were consistent across populations (general samples and parents of children with chronic conditions) and intervention approaches (cognitive-behavioural, mindfulness- and acceptance-based, educational, and resources-balance). Moderate heterogeneity was observed. Meta-regression analyses indicated no significant moderation by intervention type or population. Programme duration, defined as total intervention length in weeks, emerged as a tentative moderator, with six-week programmes associated with larger reductions in parental burnout, whereas other durations were not significantly associated with outcomes. This finding remains exploratory. Analyses of small-study effects and publication bias did not alter conclusions. Five components were consistently identified across interventions: psychoeducation; self-regulation and stress management; values and identity work; experiential practice; and relational awareness. IMPLICATIONS: Psychological and educational interventions effectively reduce parental burnout, with benefits sustained over time. Focusing on shared core components rather than specific modalities may support intervention development, while future trials should clarify optimal intervention duration and remaining sources of heterogeneity. PROSPERO REGISTRATION ID: CRD42021231247 OPEN SCIENCE FRAMEWORK: https://osf.io/3g67n/?view_only=8db62532d857478baef1a27ed916e0e6.",
-      "journal": "Journal of affective disorders",
+      "journal": "Journal of doctoral nursing practice",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -358,5 +318,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "What Brought Down Eric Swalwell",
+      "url": "https://www.newyorker.com/news/the-lede/what-brought-down-eric-swalwell",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-04-15T19:52:26",
+      "date_fetched": "2026-04-16T13:03:36.722190",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jon Allsop",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "How the attention economy produced a moment of congressional reckoning.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
