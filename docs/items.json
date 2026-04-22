@@ -1,188 +1,476 @@
 {
-  "generated_at": "2026-04-21T12:58:47.682265",
+  "generated_at": "2026-04-22T12:59:26.108761",
   "papers": [
     {
-      "title": "Reflective mindfulness and emotional regulation training to enhance nursing students\u2019 self-awareness, understanding, and regulation: a mixed method randomized controlled trial",
-      "url": "https://www.semanticscholar.org/paper/e45790ccac21927f392ce7720eb23ec99a4d0692",
+      "title": "Ai-Driven Cybersecurity Awareness Training (CSAT) Framework",
+      "url": "https://www.semanticscholar.org/paper/fbfae75fa1d851ea5679a7c9011331013f778744",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-30T00:00:00",
-      "date_fetched": "2026-04-21T12:57:58.302738",
-      "doi": "10.1186/s12912-025-03086-w",
+      "date_published": "2025-12-17T00:00:00",
+      "date_fetched": "2026-04-22T12:58:40.208734",
+      "doi": "10.1109/IntelliSecAI66368.2025.11472813",
       "authors": [
         {
-          "name": "G. Salem",
-          "author_id": "2314624194",
+          "name": "Ahmed Mohamed Ahmed",
+          "author_id": "144976993",
           "affiliation": null
         },
         {
-          "name": "Wilf Hashimi",
-          "author_id": "2272684821",
-          "affiliation": null
-        },
-        {
-          "name": "A. El-Ashry",
-          "author_id": "2183488392",
+          "name": "Mohamed Mejri",
+          "author_id": "2274009475",
           "affiliation": null
         }
       ],
-      "abstract": "Nursing students encounter significant academic and psychological challenges that can impede their transition from theoretical knowledge to practical application, affecting their well-being and professional development. This study aimed to evaluate the effectiveness of Reflective Mindfulness and Emotional Regulation Training (RMERT) in improving nursing students\u2019 self-awareness, understanding, and emotional regulation. This study employed a convergent parallel mixed-method randomized controlled trial design. Forty fourth-year undergraduate nursing students were randomly assigned using simple randomization (computer-generated random numbers) into either an intervention group (n\u2009=\u200920) or a control group (n\u2009=\u200920). The intervention group participated in a six-week RMERT program designed to enhance self-awareness, understanding, and emotional regulation. The control group continued with standard course activities. Quantitative data were collected pre- and post-intervention using the Emotion Regulation Questionnaire (ERQ) and the Mindful Attention Awareness Scale (MAAS), and analyzed using SPSS. Qualitative data, gathered exclusively from the intervention group through recorded reflective group sessions, were analyzed using thematic analysis. The intervention group exhibited significantly improved self-awareness, understanding, and emotional regulation compared to the control group. Additionally, students displayed an increased capacity for mindfulness, a decreased tendency to suppress emotions, and greater comfort in reflecting on positive and negative emotions. Integrating RMERT into nursing curricula may enhance nursing students\u2019 well-being and professional growth, mainly when counseling resources are limited. The program can improve self-awareness, understanding, and regulation skills necessary for effective nursing practice. Integrating RMERT into nursing curricula enhances self-awareness, emotional regulation, and reflective practice. This approach equips students with essential skills for managing clinical stress and building therapeutic relationships. As future nurses, they develop resilience, clinical reasoning, and empathetic patient care, ultimately elevating care quality and professional growth in diverse healthcare settings. The study was registered retrospectively on https://register.clinicaltrials.gov/ on 23 of December 2024 under the reference number: NCT06760962.",
-      "journal": "BMC Nursing",
+      "abstract": "Human error continues to be a prevailing cause of cybersecurity attacks, and it necessitates immediate responsive and personal training solutions. Conventional Cybersecurity Awareness Training (CSAT) schemes are generally contextually irrelevant, lack scalability, and are missing ongoing risk assessment. The paper will mitigate such shortcomings by suggesting a multi-phase CSAT model whereby Generative Artificial Intelligence (GAI), online machine learning algorithms, and MITRE ATT&CK- based threat models are incorporated to provide rolespecific and threat-sensitive delivery of cybersecurity education. The framework includes realtime user profiling, vulnerability analysis and a machine learning pipeline that includes Random Forest with Recursive Feature Elimination, Isolation Forest, K-Means clustering and Decision Trees to find out risks based on behavior. The dynamically generated training content is based on weaknesses that are unique to the users and the changing risk profiles between the users. Simulated organizational profiles with experimental evaluation indicate that there were significant changes of Risk Scores and Vulnerability Scores among partici-ants. This confirms the model as effective in increasing the awareness of the users, alleviating behavioral weaknesses, and facilitating ongoing learning. The suggested framework provides flexible and smart approach to reinforcing organizational cybersecurity postures and providing quantifiable and specific outcomes.",
+      "journal": "2025 International Conference on Computational Intelligence, Security, and Artificial Intelligence (IntelliSecAI)",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "mindfulness"
+        "awareness training"
       ]
     },
     {
-      "title": "The Third Wave of Meditation and Mindfulness Research and Implications for Challenging Experiences: Negative Effects, Transformative Psychological Growth, and Forms of Happiness",
-      "url": "https://www.semanticscholar.org/paper/a64999e1828b071b883601ae5fa995f20cc7b6d6",
+      "title": "ConGISATA: A Framework for Continuous Gamified Information Security Awareness Training and Assessment",
+      "url": "https://www.semanticscholar.org/paper/d393258f0ccbd74976b8ec715d87ed39452ea4ab",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-06-11T00:00:00",
-      "date_fetched": "2026-04-21T12:57:58.302878",
-      "doi": "10.1007/s12671-025-02607-7",
+      "date_published": "2026-04-16T00:00:00",
+      "date_fetched": "2026-04-22T12:58:40.208882",
+      "doi": "10.1007/978-3-031-51479-1_22",
       "authors": [
         {
-          "name": "Terje Sparby",
-          "author_id": "51294643",
+          "name": "Ofir Cohen",
+          "author_id": "2279837760",
           "affiliation": null
         },
         {
-          "name": "M. Sacchet",
-          "author_id": "2324309146",
+          "name": "Ron Bitton",
+          "author_id": "50616846",
+          "affiliation": null
+        },
+        {
+          "name": "A. Shabtai",
+          "author_id": "1720589",
+          "affiliation": null
+        },
+        {
+          "name": "Rami Puzis",
+          "author_id": "2268127457",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2025,
+      "abstract": "The incidence of cybersecurity attacks utilizing social engineering techniques has increased. Such attacks exploit the fact that in every secure system, there is at least one individual with the means to access sensitive information. Since it is easier to deceive a person than it is to bypass the defense mechanisms in place, these types of attacks have gained popularity. This situation is exacerbated by the fact that people are more likely to take risks in their passive form, i.e., risks that arise due to the failure to perform an action. Passive risk has been identified as a significant threat to cybersecurity. To address these threats, there is a need to strengthen individuals'information security awareness (ISA). Therefore, we developed ConGISATA - a continuous gamified ISA training and assessment framework based on embedded mobile sensors; a taxonomy for evaluating mobile users'security awareness served as the basis for the sensors'design. ConGISATA's continuous and gradual training process enables users to learn from their real-life mistakes and adapt their behavior accordingly. ConGISATA aims to transform passive risk situations (as perceived by an individual) into active risk situations, as people tend to underestimate the potential impact of passive risks. Our evaluation of the proposed framework demonstrates its ability to improve individuals'ISA, as assessed by the sensors and in simulations of common attack vectors.",
+      "journal": "European Symposium on Research in Computer Security",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "mindfulness"
+        "awareness training"
       ]
     },
     {
-      "title": "A systematic review of mindfulness-based stress reduction in the management of anxiety disorders among adolescents and young adults aged 13-26.",
-      "url": "https://www.semanticscholar.org/paper/7a86abbf3b318997b43b74ddfc6591e25a4ca49f",
+      "title": "Pilot study on the effect of a Meditation-Mindfulness-Positive Psychology Training program on perceived stress and mental well-being in Korean nursing students: A mixed methods analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42013068/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-01T00:00:00",
-      "date_fetched": "2026-04-21T12:57:58.302972",
-      "doi": "10.1016/j.ajp.2025.104497",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-04-22T12:59:14.423905",
+      "doi": "10.1371/journal.pone.0345139",
       "authors": [
         {
-          "name": "V. Hue",
-          "author_id": "2357270137",
+          "name": "Young Im Cho",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Y. Siaw",
-          "author_id": "115358132",
+          "name": "Hyo Jin Kim",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "A. Mohamad Nor",
-          "author_id": "2058785022",
+          "name": "Dong Hee Kim",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness-Based Stress Reduction (MBSR) has shown potential in reducing anxiety-related symptoms. This systematic review examines the effectiveness of MBSR in treating anxiety disorders in individuals aged 13-26. The review addresses three key themes: \"The Prevalence and Impact of Anxiety Disorders in Everyday Life,\" \"The Efficacy and Effectiveness of MBSR in the Management of Anxiety Disorders,\" and \"The Techniques and Interventions of MBSR in Anxiety Treatment.\" A total of nine studies were included in the meta-analysis, focusing on individuals aged 13-26 participating in MBSR interventions. The findings consistently indicate significant reductions in level of anxiety, along with improvements in emotional regulation and coping skills. These results suggest that MBSR is an effective therapeutic tool for managing anxiety disorders in this demographic, demonstrating notable efficacy across diverse settings. Meta-analytic evidence, following PRISMA guidelines, indicates MBSR as a powerful intervention for reducing anxiety and enhancing overall mental health within this age group. The review emphasizes the necessity for practitioners to incorporate MBSR into clinical practice as it offers benefits for long-term anxiety management.",
-      "journal": "Asian Journal of Psychiatry",
-      "year": 2025,
+      "abstract": "Nursing students experience stress that negatively affects their mental well-being and academic performance. Conventional mindfulness-based interventions are too long to fit the students' demanding schedules. This study aimed to examine the feasibility and preliminary effectiveness of an adapted Meditation-Mindfulness-Positive Psychology Training (MMPT) program tailored to nursing students' needs. The program was designed as to be shorter, to be conducted online, and to be tailored to the needs of nursing students. A mixed-methods pilot study was conducted among junior and senior nursing students in Korea. The experimental group participated in a six-session online MMPT program into which meditation, mindfulness, gratitude journaling, and self-compassion practice were incorporated. Quantitative outcomes were assessed before and after intervention. Qualitative data were collected through in-depth interviews and analyzed through inductive content analysis. The quantitative results showed significant improvements in gratitude disposition, self-compassion, and perceived stress, but not in mindfulness or overall mental health. Qualitative findings complemented these results by revealing perceived improvements across all target domains, with participants reporting enhanced calmness, greater self-kindness, increased positivity, and stronger coping strategies. Students highlighted the value of gratitude journaling, compassion-based exercises, and supportive peer interactions, which reinforced their engagement and sense of belonging. The MMPT program adapted for this study demonstrated feasibility and preliminary effectiveness in reducing stress and enhancing positive psychological resources among nursing students. By integrating mindfulness and positive psychology into a brief and accessible format, this study underscores the theoretical and practical value of needs-based interventions for supporting nursing students' well-being. Further large-scale and longitudinal studies are warranted to validate and extend these findings.",
+      "journal": "PloS one",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "mindfulness"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "The correlation between mindfulness and problematic smartphone use: A meta-analysis.",
-      "url": "https://www.semanticscholar.org/paper/948e1cc508079cf01508e890e44c846678e13096",
+      "title": "\"It's Just a Matter of Doing It\": Women Veterans' Experiences with Changing Behavior for Cardiovascular Risk Reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42010099/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-01T00:00:00",
-      "date_fetched": "2026-04-21T12:57:58.303048",
-      "doi": "10.1016/j.addbeh.2025.108272",
+      "source_type": "pubmed",
+      "date_published": "2026-04-20T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.190934",
+      "doi": "10.1007/s11606-026-10306-9",
       "authors": [
         {
-          "name": "Yangshu Ru",
-          "author_id": "2343664197",
+          "name": "Kimberly Clair",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Hassan C. Norlizah",
-          "author_id": "2343660885",
+          "name": "Erica H Fletcher",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nur Aimi Nasuha Burhanuddin",
-          "author_id": "2343665909",
+          "name": "Anneka Oishi",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Huange Liu",
-          "author_id": "2223807454",
+          "name": "C Amanda Schweizer",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jingyi Dong",
-          "author_id": "2276498810",
+          "name": "LaShawnta Jackson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Catherine Chanfreau",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Erin P Finley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alison Hamilton",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tannaz Moin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Melissa M Farmer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bevanne Bean-Mayberry",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVES\nIn the modern era of constant digital technological advancements, problematic smartphone use has become a key issue in educational psychology. This phenomenon affects individual psychological well-being and academic or other performance and encompasses interpersonal relationships and societal aspects, divulging the intricate correlation between technology usage and human behavior. This study aims to explore mindfulness as an intervention measure to lessen problematic smartphone use.\n\n\nMETHODS\nBased on the PRISMA method, this study used a meta-analytic approach to explore the relationship between mindfulness and problematic smartphone use systematically. Systematic literature searches for papers published before February 2024 yielded 29 studies, including 17,534 individuals and 30 effect sizes. The sample comprised participants from Eastern cultures (n\u00a0=\u00a022 studies) and Western cultures (n\u00a0=\u00a08 studies).\n\n\nRESULTS\nThe meta-analysis revealed a significant negative correlation between mindfulness and problematic smartphone use (r\u00a0=\u00a0-0.399, 95\u00a0% CI [-0.457, -0.338], p\u00a0<\u00a00.001). Moderator analyses revealed the strongest relationship when using the Child and Adolescent Mindfulness Measure (CAMM) (r\u00a0=\u00a0-0.498), while the Five Facet Mindfulness Questionnaire (FFMQ) showed the weakest (r\u00a0=\u00a0-0.245). Cultural background analyses indicated stronger effects in Eastern cultures (r\u00a0=\u00a0-0.428) compared to Western cultures (r\u00a0=\u00a0-0.316). Gender analyses revealed stronger effects among female participants (\u03b2\u00a0=\u00a0-0.510, p\u00a0<\u00a00.05).\n\n\nCONCLUSION\nThese findings demonstrate that mindfulness serves as an effective approach to addressing problematic smartphone use. The significant moderating effects identified have important implications for the implementation of mindfulness-based interventions in educational settings.",
-      "journal": "Addictive Behaviours",
-      "year": 2025,
+      "abstract": "BACKGROUND: Cardiovascular disease (CVD) is the leading cause of death among women in the U.S., and prevalence rates are even higher among women Veterans. While behavioral interventions, such as improving diet and increasing exercise, are widely recommended to reduce CVD risk, implementing and sustaining such lifestyle changes can be challenging. OBJECTIVE: We characterized women Veterans' experiences making lifestyle changes to reduce their CVD risk, including self-reported barriers and strategies that facilitated success. DESIGN: A quality improvement initiative to increase women Veterans' engagement and retention in evidence-based health care for CVD risk reduction (the CV Toolkit) was implemented across five VA primary care sites June 2017-March 2020. We conducted semi-structured interviews with a sub-sample of women Veterans and used directed content analysis to identify themes. PARTICIPANTS: Women Veterans with at least one primary care visit and exposure to at least one component of the CV Toolkit (N\u2009=\u20091609) were invited to complete a mailed survey; among survey completers (n\u2009=\u2009253), 48 participated in a 30-min interview about their experiences. MAIN MEASURES: We assessed lifestyle change type, barriers, and experiences implementing these changes. KEY RESULTS: Women Veterans reported making changes to diet, exercise, smoking, sleep, mental health, and medication adherence. Barriers included physical health, mental health, transportation, work schedule, care-giving responsibilities, limited access to resources/information, the COVID-19 pandemic, and personal attributes. Strategies that helped women Veterans be successful included the following: taking an incremental approach; setting small, achievable goals; and implementing targeted provider recommendations. Women also reported achieving success through self-education, finding a compelling motivation, and practicing mindfulness techniques. CONCLUSIONS: Women Veterans expressed considerable self-awareness regarding strategies that helped them successfully implement lifestyle changes to reduce CVD risk. Providers can leverage women Veterans' self-awareness to develop personalized, realistic lifestyle change strategies that promote adherence and long-term improvements to cardiovascular health.",
+      "journal": "Journal of general internal medicine",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "mindfulness"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "The Enduring Impact of a Health Promotion Educational Program for Medical Professionals.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42005952/",
+      "title": "Enhancing Interoceptive Awareness Through a Digital Mindfulness Intervention: Evidence from a Real-World Population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42015715/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-22T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.191097",
+      "doi": "10.1080/08964289.2026.2658522",
+      "authors": [
+        {
+          "name": "Naomi Deokule",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alexandra Roy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Margaret H Bublitz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Judson Brewer",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Disordered, emotional, and craving-related eating are major contributors to obesity. Mindfulness-based interventions (MBIs) show promise in reducing these behaviors by enhancing awareness of internal bodily cues. The ",
+      "journal": "Behavioral medicine (Washington, D.C.)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effect of concurrent exercise training (Resistance and Interval Running) and mindful self-compassion therapy on heart rate Variability in type 1 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42011383/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.191149",
+      "doi": "10.1177/20420188261433153",
+      "authors": [
+        {
+          "name": "Hossein Saki",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Farzad Nazem",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hossein Matin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Farnaz Fariba",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Omid Khaiyat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hojjatollah Siavoshy",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: Diabetes in adolescents is usually associated with cardiovascular Autonomic Nervous System (ANS) disorders. The aim of this study was to investigate the effect of exercise and Mindful Self-Compassion Therapy (MSCT) on heart rate variability (HRV), aerobic capacity (VO2peak), and glycemic index of adolescent boys with type 1 diabetes (T1D). METHODS: A total of 60 adolescent boys (Age: 12-18\u2009years, Body Mass Index: 19.75\u2009\u00b1\u20092.26\u2009kg/m RESULTS: The ED and EMD groups showed increases in High Frequency (HF), Root Mean Square of Successive RR Interval Differences (RMSSD), Standard Deviation of NN Intervals (SDNN), Very-Low-Frequency (VLF), Low-Frequency (LF), and VO2peak. There was a decrease in resting Heart Rate (HR), LF/HF, and HbA1c levels. The MD group had a substantial increase in HF and RMSSD and a significant decrease in HR and LF/HF ( CONCLUSION: The results support the application of combined interval/resistance exercise training and stress control method (MSCT) as an effective non-invasive intervention for enhancing the psychophysiological parameters of HRV in adolescent boys with T1D compared to exercise or MSCT alone.",
+      "journal": "Therapeutic advances in endocrinology and metabolism",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Treating suicidality remotely (TREASURE): study protocol for a remote randomized controlled trial comparing personalized cognitive behavioral therapy for suicide prevention with a guided self-help course in adolescents and adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42015291/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-22T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.191240",
+      "doi": "10.1186/s13063-026-09725-0",
+      "authors": [
+        {
+          "name": "Wilco Janssen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Saskia M\u00e9relle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Renske Gilissen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claudi Bockting",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Practical and psychological barriers make it difficult for people with Suicidal Thoughts and Behaviors (STBs) to obtain professional help. Remote interventions have the potential to overcome many of these barriers, but the remote interventions to date have produced small or short-lived effects and only reduced suicidal thoughts, not behaviors. AIMS: This study therefore aims to evaluate the effectiveness of remotely delivered brief cognitive behavioral therapy for suicide prevention (BCBT) in preventing suicide attempts in a fully remote randomized controlled trial, in which it will be compared to an online self-help course that has previously been found to be effective in reducing suicidal thoughts. METHODS: A randomized controlled trial will be conducted in which 364 participants aged 16\u00a0years and older will be recruited through the website of the Dutch suicide prevention helpline and randomized at a ratio of 1:1 to one of two interventions, both delivered via chat or phone. Participants in the experimental condition will receive BCBT. This intervention consists of approximately 12 sessions in which a narrative assessment of a recent suicidal crisis is used to create a personalized treatment plan out of several modules, such as cognitive restructuring, mindfulness and means restriction. Participants in the control group will receive a semiguided self-help course, which includes 6 lessons and 6 feedback sessions with a therapist, focusing predominantly on psychoeducation and cognitive restructuring. The primary outcome of the study is the number of suicide attempts, measured with the Columbia Suicide Severity Rating Scale (C-SSRS). Secondary outcomes are the self-reported severity of suicidal ideation, treatment satisfaction, adverse effects, and quality of life. All outcomes will be assessed at baseline, immediately after treatment and at 18-month follow-up. DISCUSSION: If remote BCBT proves effective, the findings of this study will add to the evidence base of BCBT as one of few replicated psychological interventions that can reduce suicide attempts and pave the way for the wider dissemination of this remote intervention. TRIAL REGISTRATION: Clinicaltrials.gov NCT06370104. Registered on April 8, 2024.",
+      "journal": "Trials",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effectiveness of Nonpharmacologic Treatments for Chronic Low Back Pain : A Sequential, Multiple-Assignment, Randomized Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42008809/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-21T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.191345",
+      "doi": "10.7326/ANNALS-25-04645",
+      "authors": [
+        {
+          "name": "Julie M Fritz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Richard L Skolasky",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gerard Brennan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kate Minick",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stephen T Wegener",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth Lane",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric L Garland",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rachel V Aaron",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tyler Bardsley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nora Fino",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yidan Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jincheng Shen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Molly B Conroy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stephen Hunter",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adam Hanley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anne Thackeray",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fenan S Rassu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kevin McLaughlin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Danielle Cook",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tom Greene",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Many treatments are recommended for chronic low back pain (cLBP), but comparative effectiveness and adaptive interventions have not been adequately studied. OBJECTIVE: To compare the effectiveness of physical therapy (PT) and cognitive behavioral therapy (CBT) as first-stage treatment and switching treatments versus mindfulness as second-stage treatment. DESIGN: Multisite sequential, multiple-assignment, randomized trial with 52-week follow-up. (ClinicalTrials.gov: NCT03859713). SETTING: Three health care systems. PARTICIPANTS: Adults with cLBP. INTERVENTION: Eight weeks of PT or CBT in stage I. Nonresponders were randomly assigned again to 8 weeks of stage II treatment. MEASUREMENTS: Co-primary outcomes were function measured with the Oswestry Disability Index (ODI; range, 0 to 100) and pain intensity (range, 0 to 10) at 10 (stage I), 26, and 52 (stage II) weeks. RESULTS: The sample comprised 749 participants. After 10 weeks, there was greater improvement in function in the PT group (adjusted mean ODI difference, 2.8 [96% CI, 0.38 to 5.1]) and no difference in pain intensity (adjusted mean difference, 0.32 [99% CI, -0.07 to 0.71]). The mean difference in ODI was below the minimum important difference of 6. After 52 weeks, there were no differences in stage II treatments for nonresponders for either function (adjusted mean ODI difference, 0.43 [96% CI, -0.29 to 2.4]) or pain intensity (adjusted mean difference, -0.05 [96% CI, -0.58 to 0.48]). LIMITATIONS: Treatment initiation was lower than expected, particularly for CBT and for nonresponders. Participants were not blinded. Sample size was reduced due to the COVID-19 pandemic. CONCLUSION: Patients with cLBP may benefit from PT as first-line treatment. Among nonresponders, there were no differences in second-stage treatment with mindfulness or switching. PRIMARY FUNDING SOURCE: Patient-Centered Outcomes Research Institute (PCORI).",
+      "journal": "Annals of internal medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The association between self-compassion, affective temperament, and parental bonding styles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42008902/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-04-16T00:00:00",
-      "date_fetched": "2026-04-21T12:58:46.812526",
-      "doi": "10.1177/15598276261443930",
+      "date_fetched": "2026-04-22T12:59:25.191440",
+      "doi": "10.1016/j.jpsychires.2026.04.015",
       "authors": [
         {
-          "name": "Magdalena Pasarica",
+          "name": "Moriaki Satoh",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Katherine D Daly",
+          "name": "Hirofumi Hirakawa",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Asli C Yalim",
+          "name": "Masaki Eto",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Laurie C Neely",
+          "name": "Nobuko Kawano",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ardhys DeLeon",
+          "name": "Akari Sakai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mari Akase",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kentaro Kohno",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Takeshi Terao",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Burnout has emerged as a growing epidemic within healthcare systems. This study evaluated whether an innovative Health Promotion educational Program (HPEP), tailored to practicing healthcare workers, could promote positive behaviors and improvements in wellness. The virtual, self-guided HPEP was developed by an interprofessional team and incorporated ten evidence-based interventions aligned with the six pillars of lifestyle medicine: dietary intake of foods rich in omega-3 fatty acids (nutrition pillar); physical activity, yoga, and active rest (physical activity pillar); emotional freedom skills, mindfulness/cognitive behavioral skills and emotional detachment (stress management pillar); healthy sleep behaviors (restorative sleep pillar); emotional intelligence (connectedness pillar); and acceptance and commitment skills (risky substance avoidance pillar). A total of 351 healthcare workers voluntarily enrolled in the program. Outcomes were assessed using deidentified surveys and analyzed with a mixed-methods approach, with statistical significance set at ",
-      "journal": "American journal of lifestyle medicine",
+      "abstract": "INTRODUCTION: Self-compassion involves providing oneself with support during times of suffering or distress. It plays a significant role in an individual's life and mental well-being. This study aims to examine how affective temperament and parental bonding styles impact self-compassion in healthy participants. METHODS: This study investigated the effects of affective temperament and parental bonding style on self-compassion using data from 107 healthy participants. Multiple regression analyses were conducted using the stepwise method, with the total Self-Compassion Scale (SCS) scores as the dependent variable and relevant potential factors, including affective temperament and parental bonding styles, as independent variables. Additionally, subclass analyses were conducted, wherein similar multiple regression analyses were performed with the positive subscales of SCS (self-kindness, common humanity, mindfulness) and the negative subscales of SCS (self-judgment, isolation, over-identification) individually allocated to dependent factors in each model using the relevant potential factors. RESULTS: Total SCS scores were significantly and positively associated with hyperthymic temperament and significantly and negatively associated with anxious temperament and maternal overprotection. Subclass analyses revealed that the positive SCS subscales were significantly associated with affective temperaments but not parental bonding styles, with relatively small adjusted R2 values. Conversely, negative SCS subscales were significantly associated with affective temperaments and maternal overprotection, showing relatively large adjusted R2 values. CONCLUSIONS: These findings suggest that self-compassion may be positively associated with hyperthymic temperament and negatively associated with anxious temperament and maternal overprotection in healthy participants.",
+      "journal": "Journal of psychiatric research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -190,181 +478,199 @@
       "matched_keywords": []
     },
     {
-      "title": "Illness Perceptions and Emotional Health in Adolescent Cancer Survivors: Exploratory Associations With Mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42003761/",
+      "title": "Self-compassion as a well-being strategy against burnout among dentists: a controlled intervention study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42010743/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-20T00:00:00",
-      "date_fetched": "2026-04-21T12:58:46.813648",
-      "doi": "10.1002/1545-5017.70351",
+      "date_published": "2026-04-21T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.191741",
+      "doi": "10.1186/s40359-026-04571-w",
       "authors": [
         {
-          "name": "Brian M Ram",
+          "name": "Onur Ucak Turer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nele Loecher",
+          "name": "Mustafa Ozcan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Emily K Browne",
+          "name": "Bahar Alkaya",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sandra Jones",
+          "name": "Furkan Demirbilek",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Elizabeth Barnwell",
+          "name": "H Gokhan Kayhan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anna M Jones",
+          "name": "Gulcin Daglioglu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tara M Brinkman",
+          "name": "Nazli Totik",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kathy Russell",
+          "name": "Gulsah Seydaoglu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sylwia Feibelman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rachel T Webster",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Adolescent cancer survivors report greater levels of anxiety, depression, and poorer quality of life compared to healthy controls. Survivors' illness perceptions and cognitive coping strategies may be modifiable risk factors to mitigate poor emotional health in this population. This study examined the roles of illness perceptions and mindfulness in emotional health among survivors transitioning off active cancer therapy. METHODS: Adolescent survivors (n = 48; mean age = 14.42; standard deviation [SD] = 1.89; 75% White; 94% non-Hispanic; 35% hematologic tumor; 33% central nervous system [CNS] tumor; 31% solid tumor) completed measures of illness perceptions, mindfulness, anxiety, depression, and quality of life. Multivariable models examined associations between illness perceptions and anxiety, depression, and quality of life in survivors, adjusting for relevant covariates. Exploratory indirect effects between illness perceptions and emotional health outcomes via mindfulness were also examined. RESULTS: Negative illness perceptions were significantly associated with greater anxiety (b = 0.35, \u03b2 = 0.37, 95% confidence interval [CI] [0.08, 0.62], p = 0.01), greater depression (b = 0.53, \u03b2 = 0.54, 95% CI [0.27, 0.79], p < 0.01), and lower quality of life (b = -0.72, \u03b2 = -0.50, 95% CI [-1.09, -0.34], p < 0.01). Indirect effects through mindfulness completely explained the relationship between illness perceptions and anxiety (\u03b2 = 0.26, 95% CI [0.05, 0.45]) and partially explained the relationship between illness perceptions and depression (\u03b2 = 0.23, 95% CI [0.06, 0.40]), as well as the relationship between illness perceptions and quality of life (\u03b2 = -0.15, 95% CI [-0.33, -0.02]). CONCLUSIONS: Illness perceptions are a promising modifiable target for adolescent survivors struggling with poor emotional health at the end of treatment. Mindfulness emerged as a possible mechanism through which illness perceptions are associated with emotional health outcomes, and highlights the potential value of incorporating mindfulness-based strategies into survivorship care.",
-      "journal": "Pediatric blood & cancer",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Gender-specific responses to mindfulness-based interventions in primary care: A systematic review of mental health and pain management outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42003314/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-20T00:00:00",
-      "date_fetched": "2026-04-21T12:58:46.815667",
-      "doi": "10.1177/13591053261436233",
-      "authors": [
-        {
-          "name": "Alaka Chandak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nate Ewigman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Girija Mahale",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness-Based Interventions (MBIs) are widely used in primary care for pain and mental health, but gender-specific outcomes are under-researched. A systematic review was conducted using PRISMA 2020 guidelines. Studies from Scopus, Web of Science, and PubMed (1987-2023) with gender-disaggregated data were included. Elicit AI assisted in screening, data extraction, and thematic clustering. CASP and AMSTAR 2 were used to assess study quality. Eight studies (2019-2023) were synthesized. Women showed higher adherence (70%-85%) and short-term improvements in anxiety, depression (30%-50%), and emotional regulation. Men had lower initial participation (50%-65%) but better sustained improvements in pain (15%-30%) and cognitive resilience. Gender differences were noted in coping styles, engagement, and response timelines. MBIs benefit both genders through distinct mechanisms. Emotion-focused formats suit women; structured, goal-based methods suit men. Gender-adapted MBIs and further research on long-term, tailored approaches are recommended.",
-      "journal": "Journal of health psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Exploring the Impact of a Brief Mindfulness-Based Intervention on Autonomic Functioning: A Multisystem Approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42002183/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-17T00:00:00",
-      "date_fetched": "2026-04-21T12:58:46.815904",
-      "doi": "10.1016/j.physbeh.2026.115352",
-      "authors": [
-        {
-          "name": "Li Shen Chong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rachel C Bucher",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Edward Merritt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elana B Gordis",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Previous work on brief mindfulness-based interventions (bMBI) reveals that they consistently alleviate stress, but their impact on biological stress response systems, such as the autonomic nervous system (ANS), varies. Nevertheless, most of this work has focused on only a single physiological response system or a specific biomarker, limiting insight into how multiple systems work together. The present study tested whether bMBI alters ANS markers and coordination across ANS subsystems. Participants were young adults (bMBI: n\u202f=\u202f44, M age\u202f=\u202f18.64 years; control: n\u202f=\u202f47, M age\u202f=\u202f19.00 years) who completed two sessions of either a brief mindfulness intervention or an attention control condition (audiobook listening), followed by a psychosocial stress test at the second visit. Respiratory sinus arrhythmia (RSA), skin conductance level (SCL), and blood pressure were assessed during mindfulness engagement, control condition, and stress. Results indicated that bMBI elicited greater RSA augmentation and lower SCL and greater declines in blood pressure relative to the control condition. In response to the TSST, the bMBI group exhibited reciprocal coordination between RSA and SCL, reflected in an inverse association between the two systems. In contrast, the control group showed non-reciprocal coordination, reflected in a positive association between RSA and SCL. The bMBI group also displayed lower blood pressure immediately after the psychosocial stressor compared to controls. These results suggest that examining coordination across systems might explain variation across previous publications. They also highlight the promise of two sessions of bMBI in promoting optimal adaptive ANS coordination across multiple measures, potentially revealing quick, inexpensive ways to understand and decrease reactions to stressors.",
-      "journal": "Physiology & behavior",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Self-compassion in flux: a four-year longitudinal study of intraindividual variations in self-compassion and disordered eating.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42002810/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-19T00:00:00",
-      "date_fetched": "2026-04-21T12:58:46.816028",
-      "doi": "10.1186/s40337-026-01605-x",
-      "authors": [
-        {
-          "name": "Anders Ohnstad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "KariAnne Vrabel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yngvild S\u00f8reb\u00f8 Danielsen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Per-Einar Binder",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ingrid Dundas",
+          "name": "M Cenk Haytac",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of eating disorders",
+      "journal": "BMC psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Compassion fatigue and satisfaction in post-earthquake psychosocial support providers: the roles of self-compassion, resilience, and mindfulness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42010745/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-20T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.191878",
+      "doi": "10.1186/s40359-026-04601-7",
+      "authors": [
+        {
+          "name": "E\u015fref Nas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kenan Alparslan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yavuz Ko\u015fan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "BMC psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Effect of Walking Football on Physical Fitness and Psychosocial Health in Hong Kong Adults Aged 50+: A Mixed-Method Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42009303/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-20T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.192013",
+      "doi": "10.1123/japa.2024-0401",
+      "authors": [
+        {
+          "name": "Ming Yu Claudia Wong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kai-Ling Ou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ka Man Leung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shali Wang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: This study examined the effectiveness of a walking football program on physical fitness, football skills, and psychological outcomes among adults aged 50+ in Hong Kong. METHOD: A total of 521 older adults (40% female) participated in the walking football program. Participants were required to attend an 8-week beginner class upon enrollment, with the option to progress to an advanced class in a subsequent 8-week stage. Three groups were identified: (a)\u00a0participants who only engaged in the 8-week beginner class (Pre-8B-Post), (b)\u00a0participants who only engaged in the 8-week advanced class (Pre-8A-Post), and (c)\u00a0participants who engaged in both the beginner and advanced classes (Pre-8B-8A-Post). Physical fitness was assessed using the Senior Fitness Test, and football skills were measured using a short passing test. Psychological outcomes, including symptoms of depression, resilience, mindfulness, social networks, exercise self-efficacy, and general health, were evaluated using validated questionnaires. In addition, 11 focus groups (five to six participants each) were conducted using a semistructured interview guide based on the RE-AIM framework to explore participants' qualitative experiences and benefits. RESULTS: Participants in advanced or combined beginner and advanced classes demonstrated greater improvements in visceral fat, arm curl, and the 8-ft up-and-go test compared with participants in beginner-only classes. Combined-class participants also showed significant gains in mindfulness and social networks, whereas single-class participants reported greater improvements in resilience, exercise self-efficacy, and general health. CONCLUSION: Qualitative findings highlighted benefits in physical and mental health, social connections, and physical literacy. SIGNIFICANCE: This study demonstrates that walking football is an effective, inclusive, and sustainable program for promoting physical, psychological, and social well-being among older adults.",
+      "journal": "Journal of aging and physical activity",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Maternal Mindfulness and Breastfeeding Self-Efficacy: Exploring the Relationship.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42010945/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-20T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.192200",
+      "doi": "10.1177/08903344261431672",
+      "authors": [
+        {
+          "name": "Beyza Nur Atak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Seda \u00c7etin Avc\u0131",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Breastfeeding mindfulness-defined as a mother's present-moment awareness, emotional attunement, and focused attention during breastfeeding-is an emerging concept with significant implications for lactation outcomes. While mindfulness and breastfeeding self-efficacy are recognized determinants of breastfeeding success, evidence regarding their relationship remains limited, particularly within the Turkish context. This study examined the association between maternal mindfulness during breastfeeding and breastfeeding self-efficacy. METHODS: A descriptive and analytic cross-sectional study was conducted with 268 breastfeeding mothers who gave birth between July 2024 and February 2025 at a university hospital in Turkey. Data were collected via face-to-face interviews using a personal information form, the Mindfulness in Breastfeeding Scale, and the Breastfeeding Self-Efficacy Scale-Short Form. Statistical analyses were performed using SPSS Statistics 22.0. Due to nonnormal data distribution, nonparametric tests and correlation analyses were employed. RESULTS: The mean score for the Mindfulness in Breastfeeding Scale was 36.49 \u00b1 4.56, and the mean score for the Breastfeeding Self-Efficacy Scale was 53.19 \u00b1 8.68. A significant positive correlation was observed between mindfulness in breastfeeding and breastfeeding self-efficacy ( CONCLUSION: Higher maternal mindfulness during breastfeeding is associated with increased breastfeeding self-efficacy. These findings suggest that integrating mindfulness-based strategies into prenatal and postpartum nursing interventions can enhance maternal emotional well-being and promote more effective breastfeeding. Consequently, incorporating mindful breastfeeding concepts into childbirth preparation and counseling programs is essential to equip mothers with these skills and support positive breastfeeding outcomes.",
+      "journal": "Journal of human lactation : official journal of International Lactation Consultant Association",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Investigating the Effect of the 6-Week Mindful Self-Compassion Program for Emerging Adults (EYL) on Stress Response, Brain Activity, and Self-Compassion Among Chinese University Students: An Electroencephalogram (EEG) Quasi-experimental Study Using Portable EEG Headband.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42012599/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-21T00:00:00",
+      "date_fetched": "2026-04-22T12:59:25.192436",
+      "doi": "10.1007/s10484-026-09783-9",
+      "authors": [
+        {
+          "name": "Ming Yu Claudia Wong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Suvi Saarikallio",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andrew Danso",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Friederike Koehler",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindful Self-Compassion (MSC) programs have demonstrated benefits for psychological well-being, yet their neurophysiological mechanisms remain underexplored, particularly in naturalistic settings using portable electroencephalography (EEG). This study examined the effects of a six-week MSC program, Embracing Your Life (EYL), on stress response, brain activity, and self-compassion among Chinese university students. A quasi-experimental design was used with 62 participants (31 in the experimental group and 31 in the control group; mean age\u2009=\u200926.6\u00a0years). The experimental group participated in six weekly 1.5-h EYL sessions, while the control group received no intervention. EEG data were collected using a portable headband (channels AF7, AF8) during baseline and post-intervention, involving three meditation tasks: resting state, mindfulness breathing, and a self-compassion break. Power spectral density (PSD) was calculated, and self-reported measures included self-compassion (SCS-SF), perceived stress (PSS), resilience (CD-RISC), mindfulness attention (MAAS), and well-being (SWEMWBS). Generalized estimating equations were used to analyze the data, controlling for baseline differences. The experimental group showed significant improvements in self-compassion (MD\u2009=\u2009\u2009+\u20090.28, p\u2009=\u20090.003), mental well-being (+\u20091.75, p\u2009<\u20090.001), and perceived stress (-\u20093.48, p\u2009<\u20090.001), with a marginal increase in resilience (+\u20092.88, p\u2009=\u20090.045). EEG analyses revealed condition-specific reductions in alpha and beta power during mindfulness and self-compassion tasks, with significant Group\u2009\u00d7\u2009Time interactions (e.g., alpha: Wald \u03c7",
+      "journal": "Applied psychophysiology and biofeedback",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -372,5 +678,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "What a Parrot Means When It Says Your Name",
+      "url": "https://nautil.us/what-a-parrot-means-when-it-says-your-name-1280042/",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-04-21T16:00:00",
+      "date_fetched": "2026-04-22T12:59:25.521454",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jake Currie",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "Nautilus",
+      "excerpt": "Or does Polly just want attention? The post What a Parrot Means When It Says Your Name appeared first on Nautilus.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
