@@ -1,167 +1,763 @@
 {
-  "generated_at": "2026-04-23T12:58:55.118454",
+  "generated_at": "2026-04-24T12:57:37.506840",
   "papers": [
     {
-      "title": "Online self-compassion-based interventions on patient outcomes in patients with cancer: a systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42020858/",
+      "title": "Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation.",
+      "url": "https://www.semanticscholar.org/paper/99f03f48f831dc9d3c6785ee714d1588ce5692e9",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-23T00:00:00",
-      "date_fetched": "2026-04-23T12:58:43.922320",
-      "doi": "10.1007/s00520-026-10660-8",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399511",
+      "doi": "10.1093/cercor/bhaf079",
       "authors": [
         {
-          "name": "Emine \u00c7etiner",
-          "author_id": null,
+          "name": "Umay Demir",
+          "author_id": "2354992223",
           "affiliation": null
         },
         {
-          "name": "Selma Turan Kavrad\u0131m",
-          "author_id": null,
+          "name": "Winson F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: This systematic review investigates the effectiveness of online self-compassion-based interventions and their impact on the outcomes of cancer patients. METHODS: A comprehensive search was carried out in the Web of Science Core Collection, Cochrane Library, CINAHL, PubMed, ScienceDirect, Scopus, Ovid, and SpringerLink databases without any year limitation until January 01, 2026. Cochrane and PRISMA guidelines were used for systematic review and reporting. RoB2 and Joanna Briggs Institute guidelines were utilized to assess the risk of bias. RESULTS: Eight studies included in the systematic review were conducted between 2017 and 2025 in Australia, the USA, the Netherlands, China, and T\u00fcrkiye. The self-compassion interventions applied in the studies included mindful self-compassion, self-compassion-focused writing, compassion mind training, and kindness interventions. Online self-compassion-based interventions have been found to increase patients' levels of self-compassion, mindfulness, body image appreciation, well-being, self-acceptance, posttraumatic growth, and positive affect while reduce their levels of self-criticism, social isolation, anxiety, stress, and depression, body image distress. CONCLUSIONS: Studies have shown the positive effects of self-compassion-based interventions on patient outcomes. A sensitivity analysis that included only randomized controlled trials demonstrated robustness in all outcomes except anxiety; however, some research results were obtained from a single randomized controlled trial. Since some study results were derived solely from quasi-experimental studies, they were not included in the analysis. Therefore, more randomized controlled research is required to integrate these interventions into clinical patient care. Online self-compassion interventions can contribute to the planning of holistic nursing interventions for patient outcomes.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-      "year": 2026,
+      "abstract": "There is growing scientific interest in advanced meditation, and particularly the Theravada Buddhist advanced concentrative absorption meditation known as jhana (ACAM-J). ACAM-J includes a series of eight consecutive meditative states, which are radically altered states of consciousness. The neuroscience of ACAM-J, specifically brain reorganization, remains underspecified in part due to the difficulty of finding and studying expert ACAM-J meditators and challenges related to laboratory investigation of ACAM-J. Using a nonlinear dimensionality reduction technique applied to human functional neuroimaging in an intensive case study, we investigated brain reorganization during ACAM-J. We applied linear mixed models and correlations to explore relations among brain reorganization and ACAM-J phenomenology. Results demonstrated that ACAM-J induces disruption of the hierarchical organization of the brain by shifting the gradients toward a more globally integrated rather than segregated state between sensory-related and higher-order cognitive regions. Additionally, ACAM-J induces a separation between sensory-related and attention modulation-related regions, resulting in greater differentiation in functional organization of these regions, consistent with phenomenological reports. This study highlights the need for further research into brain reorganization and health-related implications of both short-term and long-term practice of ACAM-J. Key points/highlights The neuroscience of advanced concentrative absorption meditation (ACAM) has the potential to improve our knowledge of well-being and altered states of consciousness but remains underexplored due to methodological challenges. We investigated functional reorganization of the brain during ACAM-J using gradient analysis and demonstrated that ACAM-J disrupts the hierarchical organization of the brain during meditation. Additionally, we demonstrated that ACAM-J increases differentiation between primary sensory areas and areas related to attention modulation.",
+      "journal": "Cerebral Cortex",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "jhana"
+      ]
     },
     {
-      "title": "Association of sustainable practices according to types of collective food services.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41021347/",
+      "title": "The neuroscience of highly stable, positive, and refined states of consciousness during jhana-type advanced concentration absorption meditation (ACAM-J)",
+      "url": "https://www.semanticscholar.org/paper/2ae932b7cbd238d53e72489f48775b4f43f40e15",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-23T00:00:00",
-      "date_fetched": "2026-04-23T12:58:54.366463",
-      "doi": "10.20960/nh.05851",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-13T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399538",
+      "doi": "10.1101/2025.11.12.688050",
       "authors": [
         {
-          "name": "Camila Garrote-Carrizo",
-          "author_id": null,
+          "name": "Winson F. Z. Yang",
+          "author_id": "2300816450",
           "affiliation": null
         },
         {
-          "name": "Samuel Dur\u00e1n-Aguero",
-          "author_id": null,
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
           "affiliation": null
         },
         {
-          "name": "Paulo Alejandro Silva Ocampo",
-          "author_id": null,
+          "name": "Grace Mackin",
+          "author_id": "2387320843",
           "affiliation": null
         },
         {
-          "name": "Daniela Alejandra Marabol\u00ed-Ulloa",
-          "author_id": null,
+          "name": "Isidora Beslic",
+          "author_id": "2387311693",
           "affiliation": null
         },
         {
-          "name": "Mauricio Andr\u00e9s Vilches-Herrera",
-          "author_id": null,
+          "name": "Marta Bianciardi",
+          "author_id": "2253552101",
           "affiliation": null
         },
         {
-          "name": "Andr\u00e9s Voisier-Cerda",
-          "author_id": null,
+          "name": "Terje Sprby",
+          "author_id": "2394133683",
           "affiliation": null
         },
         {
-          "name": "Maripaz Rivera-Guti\u00e9rrez",
-          "author_id": null,
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "Introduction: collective food services (CFSs) play a key role in sustainability, but face challenges in measuring and managing waste, as well as some studies demonstrate unsatisfactory results considering sustainability indicators used in food services. Objective: to associate sustainable practices according to types of collective food services. Methodology: a cross-sectional analytical study conducted using an online survey of nutritionists in collective food services (CFS) with at least six months of experience. The survey, validated by experts, consists of 43 questions on general characteristics and sustainable practices. Associations were analyzed using Chi-square test and logistic regression. Results: factors associated with sustainable practices were the type of facility with energy optimization (p = 0.038) and use of disposable packaging (p = 0.002). CFSs complexity was associated with liquid waste management (p = 0.001) and use of disposable packaging (p = 0.008). CFSs administration type was associated with liquid waste management (p = 0.009). A multivariate analysis found that non-hospital services were more likely to implement sustainable practices (OR = 0.372; 95 % CI, 0.171-0.813). Finally, among the main barriers identified for the implementation of sustainable practices are the limited time to monitor compliance and the safety risk when making food donations. Conclusion: it highlights the importance of the type of service and how it can influence sustainable practices, defining consequently, sustainability promotion strategies that must be different and specific, according to the nature of the CFSs, and the importance of generating awareness, training and effective action plans to mitigate environmental impact and ensure the long-term sustainability of these facilities.",
-      "journal": "Nutricion hospitalaria",
-      "year": 2026,
+      "abstract": "Humans can experience a rich array of conscious experience, including highly stable, positive, and refined states of non-ordinary perception that can be elicited through advanced meditation. Here, we present the first group-level, ultra\u2013high-field (7T) fMRI study of jhana advanced concentration absorption meditation (ACAM-J). We combined local (regional homogeneity), mesoscale (connectivity gradients), and global (geometric eigenmodes) human brain mapping with diverse and detailed phenomenology, meditative traits, behaviorally assessed cognitive functions, and extensive publicly available psychobehavioral affinity maps. Across eight successive states of ACAM-J, we observed reproducible neural trajectories marked by anterior-to-posterior reorganization, flattening of cortical hierarchies, nonlinear reconfiguration of global harmonics, and tight coupling between brain metrics and equanimity, attentional stability, and behavior. Neurosynth decoding further associate ACAM-J with reduced suffering-related processes and more with attentional monitoring. These findings suggest ACAM-J is a distinct, structured mode of awareness that persists despite radically reduced narrative thought and sensory content. Our findings also inform boundary conditions for current models of consciousness. More broadly, this research indicates that advanced meditation is a powerful framework for understanding psychological transformation, and for potential new opportunities for supporting human well-being and flourishing.",
+      "journal": "bioRxiv",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "jhana"
+      ]
     },
     {
-      "title": "Interventions to Reduce Fear of Cancer Recurrence Among People With Cancer: Scoping Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42018993/",
+      "title": "Integrated Phenomenology and Brain Connectivity Demonstrate Changes in Nonlinear Processing in Jhana Advanced Meditation",
+      "url": "https://www.semanticscholar.org/paper/36a226dd5328df0eaa0688cade36f1e9a20ffbd9",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-22T00:00:00",
-      "date_fetched": "2026-04-23T12:58:54.366780",
-      "doi": "10.2196/81579",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-14T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399555",
+      "doi": "10.1162/jocn.a.50",
       "authors": [
         {
-          "name": "Niu Li",
-          "author_id": null,
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
           "affiliation": null
         },
         {
-          "name": "Cynthia Wensley",
-          "author_id": null,
+          "name": "Sean D. van Mil",
+          "author_id": "2400117190",
           "affiliation": null
         },
         {
-          "name": "Lisa Reynolds",
-          "author_id": null,
+          "name": "Mar Estarellas",
+          "author_id": "2265760662",
           "affiliation": null
         },
         {
-          "name": "Wal Baraza",
-          "author_id": null,
+          "name": "Andr\u00e9s Canales-Johnson",
+          "author_id": "1403122847",
           "affiliation": null
         },
         {
-          "name": "Tatiana Osorio Leyton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrew Jull",
-          "author_id": null,
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Fear of cancer recurrence (FCR) is prevalent among cancer survivors, affecting between 39% and 97% of patients. FCR is associated with impaired concentration, sleep disturbances, decreased quality of life, and increased psychological distress and health care use. To date, the literature lacks a review that summarizes the breadth of psychological interventions available for reducing fear of recurrence. OBJECTIVE: This review aims to identify and summarize the evidence on psychological interventions for addressing FCR across all cancers. METHODS: The Joanna Briggs Institute method for scoping reviews guided the processes, and we reported the review following the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) checklist. We searched 5 databases (CINAHL, PsycInfo, the Cochrane Central Register of Controlled Trials, Embase, and MEDLINE) and 2 gray literature sources (ProQuest Dissertations & Theses Global and the World Health Organization International Clinical Trials Registry). Eligible studies included adults (\u226518 years) diagnosed with cancer and evaluated psychological interventions aimed at reducing FCR. Data extraction captured study characteristics, intervention details, outcome effectiveness, and follow-up durations. We synthesized the findings using descriptive summaries and narrative analysis. RESULTS: Overall, 5131 articles were screened, and 122 were included in this review; 48 (39.3%) involved patients with breast cancer, 47 (38.5%) focused on patients with multiple cancer types; over half of the studies (n=64, 52.5%) were randomized controlled trials. Only 28 (23%) studies explicitly reported the definition of FCR. Eighteen different measurement tools were used. Blended interventions (different combinations of cognitive behavioral therapy, mindfulness, acceptance and commitment therapy, and other strategies) formed the largest intervention category (n=38, 31.1%), followed by cognitive behavioral therapy interventions (n=26, 21.3%) and mindfulness-based interventions (n=24, 19.7%). Of the included studies, 104 (85.2%) demonstrated significant reductions in FCR. Most interventions were delivered face-to-face by disciplinary specialists (n=75, 61.5%), while some were delivered remotely (n=34, 27.9%), with the majority of these delivered via the website (n=18, 52.9%). Follow-up duration ranged from postintervention to 3 years. CONCLUSIONS: FCR has been the focus of an increasing number of studies since 2009, with the majority being randomized controlled trials. Most interventions are delivered face-to-face and rely on trained specialists. Most have had statistically significant results. However, the included studies demonstrated heterogeneity in terms of delivery, duration, and dose, requiring cautious interpretation of intervention effects. Future research should develop consistent guidelines to standardize the definition of FCR, the measurement tools used, and the timing of follow-up assessments. Long-term follow-up data are needed to evaluate the sustained effects.",
-      "journal": "JMIR cancer",
-      "year": 2026,
+      "abstract": "We present a neurophenomenological case study investigating distinct neural connectivity regimes during an advanced concentrative absorption meditation called jhana (ACAM-J), characterized by highly stable attention and mental absorption. Using EEG recordings and phenomenological ratings (29 sessions) from a meditator with +20,000 hr of practice, we evaluated connectivity metrics tracking distinct large-scale neural interactions: nonlinear (weighted symbolic mutual information and directed information), capturing nonoscillatory dynamics, and linear (weighted phase lag index) connectivity metrics, capturing oscillatory synchrony. Results demonstrate ACAM-J are better distinguished by nonoscillatory compared with oscillatory dynamics across multiple frequency ranges. Furthermore, combining attention-related phenomenological ratings with weighted symbolic mutual information improves Bayesian decoding of ACAM-J compared with neural metrics alone. Crucially, deeper ACAM-J indicate an equalization of feedback and feedforward processes, suggesting a balance of internally and externally driven information processing. The results from this intensively sampled case study are a promising initial step in revealing the distinct neural dynamics during ACAM-J, offering insights into refined conscious states and highlighting the value of nonlinear neurophenomenological approaches to studying attentional states.",
+      "journal": "Journal of Cognitive Neuroscience",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "jhana"
+      ]
     },
     {
-      "title": "Latent profiles of emotion coping behaviors among college students with suicidal thinking.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42018963/",
+      "title": "Whole-Brain Models of Minimal Phenomenal Experience: Approaching Criticality through Jh\u0101na Meditation",
+      "url": "https://www.semanticscholar.org/paper/f4add7bbfd291164398fe32bc8ebc177d30fa759",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-22T00:00:00",
-      "date_fetched": "2026-04-23T12:58:54.367090",
-      "doi": "10.1080/07448481.2026.2655965",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-25T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399571",
+      "doi": "10.1101/2025.09.25.678574",
       "authors": [
         {
-          "name": "Qingqing Yin",
-          "author_id": null,
+          "name": "J. Vohryzek",
+          "author_id": "52033010",
           "affiliation": null
         },
         {
-          "name": "Annabelle M Mournet",
-          "author_id": null,
+          "name": "Edmundo Lopez-Sola",
+          "author_id": "2047957413",
           "affiliation": null
         },
         {
-          "name": "Shireen L Rizvi",
-          "author_id": null,
+          "name": "Winson F. Z. Yang",
+          "author_id": "2300816450",
           "affiliation": null
         },
         {
-          "name": "Evan M Kleiman",
-          "author_id": null,
+          "name": "Y. Sanz Perl",
+          "author_id": "1945182919",
+          "affiliation": null
+        },
+        {
+          "name": "Terje Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "G. Ruffini",
+          "author_id": "2274943456",
+          "affiliation": null
+        },
+        {
+          "name": "G. Deco",
+          "author_id": "2263750702",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
+      "journal": "bioRxiv",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Meditative absorption shifts brain dynamics toward criticality",
+      "url": "https://www.semanticscholar.org/paper/02fcf03c54a3cdf126ecf6e8ce50bb9c7c5f297c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-26T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399605",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jonas Mago",
+          "author_id": "2197573141",
+          "affiliation": null
+        },
+        {
+          "name": "Josh Brahinsky",
+          "author_id": "2334544889",
+          "affiliation": null
+        },
+        {
+          "name": "Mark Miller",
+          "author_id": "2334570883",
+          "affiliation": null
+        },
+        {
+          "name": "C. Maschke",
+          "author_id": "2008738115",
+          "affiliation": null
+        },
+        {
+          "name": "H. Slagter",
+          "author_id": "1743265",
+          "affiliation": null
+        },
+        {
+          "name": "Shaila Catherine",
+          "author_id": "2334545320",
+          "affiliation": null
+        },
+        {
+          "name": "Ruben E. Laukkonen",
+          "author_id": "8103511",
+          "affiliation": null
+        },
+        {
+          "name": "B. Cahn",
+          "author_id": "2351709950",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        },
+        {
+          "name": "Wangmo Dixey",
+          "author_id": "2394308728",
+          "affiliation": null
+        },
+        {
+          "name": "Richard Dixey",
+          "author_id": "2289119174",
+          "affiliation": null
+        },
+        {
+          "name": "S. Rej",
+          "author_id": "5304780",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Lifshitz",
+          "author_id": "2334546490",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Criticality describes a regime between order and chaos that supports flexible yet stable information processing. Here we examine whether neural dynamics can be volitionally shifted toward criticality through the self-regulation of attention. We examined ten experienced practitioners of meditation during a 10-day retreat, comparing refined states of meditative absorption, called the jhanas, to regular mindfulness of breathing. We collected electroencephalography (EEG) and physiological data during these practices and quantified the signal's dynamical properties using Lempel-Ziv complexity, signal entropy, chaoticity and long-range temporal correlations. In addition, we estimated perturbational sensitivity using a global auditory oddball mismatch negativity (MMN) during meditation. Relative to mindfulness, jhana was associated with pronounced self-reported sensory fading, slower respiration, higher neural signal diversity across multiple measures, reduced chaoticity, and enhanced MMN amplitude over frontocentral sites. Spectral analyses showed a flatter aperiodic one over f component and a frequency-specific reorganization of long-range temporal correlations. Together, increased diversity with reduced chaoticity and heightened deviance detection indicate a shift toward a metastable, near-critical regime during jhana. We propose an overlap of the phenomenology of jhana with minimal phenomenal experiences in terms of progressive attenuation of sensory content with preserved tonic alertness. Accordingly, our findings suggest that criticality is a candidate neurophysiological marker of the absorptive, minimal-content dimension of the minimal phenomenal experience.",
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Peace and the Unconditioned: Nibb\u0101na as the Supreme Pacification",
+      "url": "https://www.semanticscholar.org/paper/4caad192d5a0dbd3241bf4fba341316504145da0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-31T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399646",
+      "doi": "10.36948/ijfmr.2025.v07i05.59253",
+      "authors": [
+        {
+          "name": "Kelasa",
+          "author_id": "2391628639",
+          "affiliation": null
+        },
+        {
+          "name": "Dr. Vivek Kumar",
+          "author_id": "2363076295",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract\nThis article argues that early Buddhist discourse in the Sutta Pi\u1e6daka construes peace not as mere emotional calm or social quietism but as the pacification (upasama) that culminates in nibb\u0101na, the unconditioned. Reading key formulae \u201cnibb\u0101na\u1e41 parama\u1e41 sukha\u1e41,\u201d \u201cstilling of all formations\u201d (sabbasa\u1e45kh\u0101rasamatho), and epithets such as santi (peace) and khema (security) the study clarifies how \u201csupreme happiness\u201d denotes qualitative freedom from affliction rather than hedonic pleasure. It maps the semantic field of peace within the soteriological sequence nibbid\u0101 vir\u0101ga nirodha upasama/vimutti, and shows how the path functions as a technology of pacification: ethical discipline (s\u012bla) removes remorse and fear, concentration (sam\u0101dhi/jh\u0101na) stills the hindrances and unifies attention, and insight (vipassan\u0101) discloses anicca\u2013dukkha anatt\u0101, deconstructing craving and clinging. The article addresses common misreadings (nihilism, quietism) and proposes that the Nik\u0101yas present peace as the non-arising of stress grounded in dependent origination\u2019s cessation, with practical implications for contemplative training and communal concord.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Home-based urinary HPV self-sampling for the detection of cervical cancer precursor lesions: attitudes and preferences from Belgian females participating in the CASUS study",
+      "url": "https://www.semanticscholar.org/paper/bab7634d5b7c25e6b65ec39a0cfcd3a077ec758e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-12T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399663",
+      "doi": "10.1186/s13690-024-01490-3",
+      "authors": [
+        {
+          "name": "Jhana O. Hendrickx",
+          "author_id": "51426113",
+          "affiliation": null
+        },
+        {
+          "name": "S. Van Keer",
+          "author_id": "5520613",
+          "affiliation": null
+        },
+        {
+          "name": "Gilbert Donders",
+          "author_id": "2084140546",
+          "affiliation": null
+        },
+        {
+          "name": "Steven Weyers",
+          "author_id": "2248420711",
+          "affiliation": null
+        },
+        {
+          "name": "Jean Doyen",
+          "author_id": "2076191849",
+          "affiliation": null
+        },
+        {
+          "name": "Koen C L Beyers",
+          "author_id": "2269235378",
+          "affiliation": null
+        },
+        {
+          "name": "Alejandra Rios-Cortes",
+          "author_id": "1737785319",
+          "affiliation": null
+        },
+        {
+          "name": "Nette Meers",
+          "author_id": "1737798809",
+          "affiliation": null
+        },
+        {
+          "name": "Laura T\u00e9blick",
+          "author_id": "1396657183",
+          "affiliation": null
+        },
+        {
+          "name": "Vanessa V J Vankerckhoven",
+          "author_id": "2344982551",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Cervical cancer (CC) is the fourth most common cancer globally in females, caused by oncogenic infections with high-risk human papillomavirus (hrHPV) strains. Successful CC screening programs strongly depend on the participation rate of the target population. Nevertheless, it remains challenging to reach under screened populations. The CASUS study aimed to develop a complete CC screening solution based on first-void urine (FVU) self-sampling. Here we report on the usability perceptions and preferences from females that participated in the CASUS study by collecting FVU as a liquid biopsy. Females self-collected FVU samples at home the day before colposcopy using the Colli-Pee\u00ae UCM FV-5010, a FVU collection device prefilled with 3 mL of UCM preservative, collecting a total volume of 10mL. Afterwards, they completed a questionnaire expressing their usability perceptions and preferences regarding the device. A total of 332 females (26-70y) were enrolled in the CASUS study of which 210 completed the questionnaire. Overall, 66.6% of females preferred FVU self-sampling over a physician taken cervical sample (PTS) (32.9%) for their next CC screening. Out of 159 women who reported prior experience with a urine cup, 79.2% expressed a preference for using the Colli-Pee\u00ae UCM FV-5010, while 20.8% favored the traditional urine cup. Additionally, 96.6% of females found Colli-Pee\u00ae UCM FV-5010 easy to use and 97.1% would use the device again. A total of 208 valid System Usability Score (SUS) scores were received with an average of 86.17\u2009\u00b1\u20091.03 Standard Error of Mean (SEM). The results of this study show that the majority of females in this referral cohort would prefer to self-collect a FVU sample at-home over a PTS for their next CC screening. Moreover, Colli-Pee\u00ae UCM FV-5010 was considered an easy-to-use and well-accepted self-sampling device for CC screening in a Belgian colposcopy referral population. From a future perspective, these results highlight the possibility of home-based FVU self-sampling as a liquid biopsy in CC screening where under screened populations could be approached more easily. The CASUS study was registered in http://www.ClinicalTrials.gov (identifier: NCT04530201).",
+      "journal": "Archives of Public Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Uso de las TIC y las competencias investigativas en tiempo de pandemia COVID-19",
+      "url": "https://www.semanticscholar.org/paper/fb7a6a88ec858dd9c7dda55ff7d33d88c459553b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-21T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399673",
+      "doi": "10.33996/revistahorizontes.v9i36.898",
+      "authors": [
+        {
+          "name": "Jhanaly Lady Noelia Fern\u00e1ndez Morales",
+          "author_id": "2151394713",
+          "affiliation": null
+        },
+        {
+          "name": "Jacqueline Susana Say\u00e1n Brito",
+          "author_id": "2315373777",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Las tecnolog\u00edas de la informaci\u00f3n y la comunicaci\u00f3n (TIC) suelen asociarse al entretenimiento; sin embargo, tambi\u00e9n pueden emplearse para obtener, organizar y analizar informaci\u00f3n relevante en el desarrollo de investigaciones eficientes. Este estudio tuvo como objetivo determinar la relaci\u00f3n entre el uso de las TIC y las competencias investigativas en estudiantes universitarios de pregrado. Se realiz\u00f3 una investigaci\u00f3n cuantitativa, de dise\u00f1o no experimental, b\u00e1sica y de tipo correlacional transversal. La muestra estuvo compuesta por 62 estudiantes seleccionados mediante muestreo no probabil\u00edstico. Para la recolecci\u00f3n de datos, se aplicaron dos encuestas con alta confiabilidad (? = 0.957 para el uso de las TIC y ? = 1.00 para competencias investigativas). Los resultados mostraron que el 52 % de los participantes present\u00f3 un nivel destacado en el uso de las TIC, mientras que el 60 % alcanz\u00f3 un nivel totalmente adecuado en competencias investigativas. Se concluy\u00f3 que existe una correlaci\u00f3n moderada entre el uso de las TIC y las competencias investigativas, lo que evidencia la importancia de implementar estrategias que potencien el acceso a informaci\u00f3n adecuada y eficaz en la elaboraci\u00f3n de trabajos investigativos",
+      "journal": "Horizontes. Revista de Investigaci\u00f3n en Ciencias de la Educaci\u00f3n",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Drag as Political Praxis: Queer Reorientations in the Philippines",
+      "url": "https://www.semanticscholar.org/paper/42fd39a037cb02e0b1e9cf6fcbeeaa00c9e6e817",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-01T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399686",
+      "doi": "10.1002/sgp2.70034",
+      "authors": [
+        {
+          "name": "Yoana\u00a0Marie Arellano",
+          "author_id": "2393771506",
+          "affiliation": null
+        },
+        {
+          "name": "Jhana\u00a0Maryam Arbison",
+          "author_id": "2393763475",
+          "affiliation": null
+        },
+        {
+          "name": "Zyra\u00a0Mae Concepcion",
+          "author_id": "2393772305",
+          "affiliation": null
+        },
+        {
+          "name": "Jether Gaza",
+          "author_id": "2393769927",
+          "affiliation": null
+        },
+        {
+          "name": "Alyssia\u00a0Euphraine Sulla",
+          "author_id": "2393772328",
+          "affiliation": null
+        },
+        {
+          "name": "J. C. Velasco",
+          "author_id": "113797360",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n In contemporary Philippine society, drag performance has emerged as a vital site of political contestation and cultural resistance. This study explores how Filipino drag artists harness performance to challenge normative structures of gender and power through satire, affect, and aesthetic disruption. Grounded in Sara Ahmed's queer phenomenology, the article attends to how drag reorients bodies and publics through the redirection of attention toward marginalized experiences. This enables resistance within a Catholic and postcolonial context. Drawing on qualitative fieldwork with drag artists in Metro Manila, we examined how artists articulate political critique through performance and collective practices. The performances of drag artists in the Philippines serve as a space of struggle, which involves queering aesthetics while addressing issues involving structural exclusion. Drag, in this formulation, is a mode of affective world\u2010making that bridges personal histories with public discourse. It facilitates the formation of counterpublics that enable performers and audiences to imagine alternative political and social arrangements. Far from an escapist spectacle, we argue, Filipino drag emerges as an embodied pedagogy that mobilizes emotion, memory, and community for social and political engagement. This article contributes to debates on gender and politics by positioning drag as a form of sociocultural critique and transformation.",
+      "journal": "Sexuality, Gender &amp; Policy",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Determination of total flavonoid content and antibacterial activity of solvent fractions from \u2018Cacao\u2019 (Theobroma cacao L.) leaves",
+      "url": "https://www.semanticscholar.org/paper/30421df72dc1a27768b81761a32a1f14cc1446d6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-30T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399706",
+      "doi": "10.30574/gscbps.2025.31.2.0167",
+      "authors": [
+        {
+          "name": "Justin Dave",
+          "author_id": "2314174200",
+          "affiliation": null
+        },
+        {
+          "name": "Magracia Manantan",
+          "author_id": "2314174186",
+          "affiliation": null
+        },
+        {
+          "name": "Jhana Rhel",
+          "author_id": "2361770043",
+          "affiliation": null
+        },
+        {
+          "name": "Plantas Dulfo",
+          "author_id": "2361770136",
+          "affiliation": null
+        },
+        {
+          "name": "Meybelle Onyot Gamutan",
+          "author_id": "2361769489",
+          "affiliation": null
+        },
+        {
+          "name": "Jeffryll Rhome",
+          "author_id": "2361770092",
+          "affiliation": null
+        },
+        {
+          "name": "Cabusca Ibarra",
+          "author_id": "2361757882",
+          "affiliation": null
+        },
+        {
+          "name": "Ella Jean",
+          "author_id": "2361760115",
+          "affiliation": null
+        },
+        {
+          "name": "Ampong Magpayo",
+          "author_id": "2361757995",
+          "affiliation": null
+        },
+        {
+          "name": "Klaire Jane Akut",
+          "author_id": "2361770169",
+          "affiliation": null
+        },
+        {
+          "name": "Sabuga",
+          "author_id": "2361753454",
+          "affiliation": null
+        },
+        {
+          "name": "Shienna Margareth",
+          "author_id": "2361769901",
+          "affiliation": null
+        },
+        {
+          "name": "Benedicto Sabijon",
+          "author_id": "2361780116",
+          "affiliation": null
+        },
+        {
+          "name": "Justin Dave Magracia Manantan",
+          "author_id": "2361758032",
+          "affiliation": null
+        },
+        {
+          "name": "J. Karlo",
+          "author_id": "104539170",
+          "affiliation": null
+        },
+        {
+          "name": "Tiongson Ecalne",
+          "author_id": "2361753461",
+          "affiliation": null
+        },
+        {
+          "name": "M. Wilson",
+          "author_id": "2257128973",
+          "affiliation": null
+        },
+        {
+          "name": "Dy Lagamayo",
+          "author_id": "2361770087",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Cacao is renowned for its rich phytochemical composition, especially in its pods, which exhibit significant antibacterial properties. However, the leaves remain underexplored for such potential. This study seeks to examine the antibacterial properties of cacao leaves by fractionating its ethanolic extract, identifying bioactive compounds, and evaluating their activity against common pathogens, Escherichia coli and Staphylococcus aureus, in light of the growing challenge of antimicrobial resistance. Dried and pulverized cacao leaves were macerated in 80% ethanol to extract flavonoids. The crude extract was partitioned using water, hexane, and ethyl acetate. Each fraction was subjected to qualitative phytochemical screening and quantification of flavonoid content (TFC). The fraction with the highest TFC was further tested for antibacterial activity using the disk diffusion assay at concentrations of 50, 75, and 100 \u00b5g/mL. The positive control was cefoxitin (30 \u00b5g/disc), while the negative control was 1% DMSO. All three fractions tested positive for flavonoids, glycosides, tannins, and phenols. The ethyl acetate fraction (EAF) exhibited the highest TFC at 581.67 mg QE/g. Despite its high flavonoid content, the EAF exhibited minimal antibacterial activity, with maximum zones of inhibition of 6.83 \u00b1 0.00 mm for E. coli and 6.84 \u00b1 0.00 mm for S. aureus at 100 \u00b5g/mL. Cefoxitin showed significantly larger zones: 20.46 \u00b1 0.08 mm and 31.45 \u00b1 0.03 mm, respectively. The findings underscore the need for optimized extraction and compound characterization methods. Further research is recommended to explore synergistic effects with antibiotics and investigate additional biological activities of cacao leaf extracts.",
+      "journal": "GSC Biological and Pharmaceutical Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Investigating the complex cortical dynamics of an advanced concentrative absorption meditation called jhanas (ACAM-J): a geometric eigenmode analysis.",
+      "url": "https://www.semanticscholar.org/paper/4b032b240bb95f16d42d1b39e9f89b38ac518ff8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399730",
+      "doi": "10.1093/cercor/bhaf039",
+      "authors": [
+        {
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
+          "affiliation": null
+        },
+        {
+          "name": "Winson F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "Brian S Winston",
+          "author_id": "2384082077",
+          "affiliation": null
+        },
+        {
+          "name": "S. Atasoy",
+          "author_id": "35189762",
+          "affiliation": null
+        },
+        {
+          "name": "Morten L. Kringelbach",
+          "author_id": "2237996910",
+          "affiliation": null
+        },
+        {
+          "name": "Terje Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Advanced meditation has been associated with long- and short-term psychological changes such as bliss, profound insight, and transformation of well-being. However, most advanced meditation neuroimaging analyses have implemented primarily spatially-localized approaches, focusing on discrete regional changes in activity rather than distributed dynamics. The present study uses a geometric eigenmode decomposition of ultrahigh field-strength 7T functional magnetic resonance imaging (fMRI) data from an intensely sampled case study to investigate the complex, distributed cortical dynamics associated with advanced concentrative absorption meditation. Geometric eigenmode decomposition of advanced concentrative absorption meditation and non-meditative control task fMRI data revealed elevated global brain state power and energy patterns of specific advanced concentrative absorption meditation states compared to controls, with mid-frequency spectrum brain state power and energy following a non-random, cubic trajectory through the advanced concentrative absorption meditation sequence. Further, these brain state differences were meaningfully associated with subjective phenomenological reports of attention, intensity of advanced concentrative absorption meditation quality, and sensations. This study unites precise methodological design, a novel fMRI decomposition framework, and rigorous phenomenology to provide valuable insights into the distributed neural signatures of highly refined conscious states. These results underscore similarities and differences between advanced concentrative absorption meditation and other altered states of consciousness like those induced by psychedelics-offering insights into refined conscious states and their implications for health and well-being.",
+      "journal": "Cerebral Cortex",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "An Ethical Sam\u0101dhi: Brahma-vih\u0101ra Meditation and the Flexible Early Buddhist Path",
+      "url": "https://www.semanticscholar.org/paper/c27f3f2cc21dd661e093630b847ecfd36bf973f6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399741",
+      "doi": "10.1007/s12671-025-02597-6",
+      "authors": [
+        {
+          "name": "Eviatar Shulman",
+          "author_id": "100620453",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "The Pali Tradition on the Noble Person Who is a \u201cBody-witness\u201d (k\u0101ya-sakkhin), and the Nature of \u201cWitnessing\u201dand the \u201cBody\u201d in the Sam\u0101dhi States in Which They Excel",
+      "url": "https://www.semanticscholar.org/paper/ef6647f8aa2bd68a5c2d3e7501caca3ea5faa96f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-18T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399752",
+      "doi": "10.1558/bsrv.31527",
+      "authors": [
+        {
+          "name": "Peter Harvey",
+          "author_id": "2238036510",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article explores the \u201cbody-witness\u201d (k\u0101ya-sakkhin), one of the types of person\u00a0who are \u201cnoble ones\u201d (ariyas): people with different levels of enlightenment on the\u00a0noble path. It begins by examining the types of noble ones and how they differ, to\u00a0focus on what is particular to the body-witness. This is their emphasis on sam\u0101dhi,\u00a0meditative concentration, rather than on faith or wisdom. They are seen to excel in\u00a0the four meditative absorptions known as jh\u0101nas, the four formless states, and the\u00a0cessation of perception and feeling. They experience these in a deeper way than the\u00a0freed-by-wisdom type of arahat (who can also experience these states to a degree),\u00a0but in a similar way to the freed-both-ways arahat. Analysis of relevant canonical passages show that jh\u0101nas and formless states can be experienced in a range of\u00a0depths and with different degrees of accompanying wisdom. Then, after examining\u00a0the nature of \u201cwitnessing\u201d in the suttas, the range of meanings of k\u0101ya is analysed:\u00a0the physical body, the tactile sense, a route of action, the body of mental states\u00a0other than consciousness, the sentient body that encompasses these and the physical body, and also all aspects of a person, all five khandhas. A key aspect of the jh\u0101nas\u00a0is that joy and happiness, then just happiness, then an equanimous mindful mind,\u00a0completely pervade the experienced, sensed body. Hence jh\u0101na very much involves\u00a0the body, in a positive way. The formless states which build on the jh\u0101nas, though,\u00a0are purely mental states, beyond any sense-impressions or ideas related to material\u00a0form. Here the mental body comes to the fore, yet in cessation mental states may\u00a0completely cease, leaving just a living physical body. So \u201cbody-witnessing\u201d works\u00a0in a range of ways but, for a body-witness then freed-both-ways person, in a very\u00a0deep way in which there is a direct mindful \u201ctouching\u201d of the states of sam\u0101dhi, so\u00a0as to be in close \u201ccontact\u201d with them. This also provides a basis for a further range of \u201cwitnessing\u201d in the \u201chigher knowledges\u201d in which the body and sensing are seen\u00a0to go far beyond their usual range.",
+      "journal": "Buddhist Studies Review",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "The Soteriological Significance of Buddh\u0101nussati: Path to Liberation or Preliminary Practice",
+      "url": "https://www.semanticscholar.org/paper/4b99d1e24fbb4a065783c9c9540d94ef2a7bd1a9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-18T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399762",
+      "doi": "10.55041/ijsrem55318",
+      "authors": [
+        {
+          "name": "K. Kumara",
+          "author_id": "2131352442",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract\n\nThis research analyses the value of Buddh\u0101nussati (recollection of the Buddha) in Therav\u0101da Buddhism, particularly its implications for soteriology, determining whether this form of meditation paves the way for attaining liberation (Nibb\u0101na) or merely serves as a preliminary devotion. Although Buddh\u0101nussati holds a prominent position among the forty meditation objects (kamma\u1e6d\u1e6dh\u0101na) in classical Therav\u0101da works, the literature reveals significant divergence among scholars regarding its liberative potential. This study employs a hermeneutic and comparative method to analyze the P\u0101li canon, especially the A\u1e45guttara Nik\u0101ya and D\u012bgha Nik\u0101ya, as well as the commentaries, particularly Buddhaghosa\u2019s Visuddhimagga, to investigate the role of Buddh\u0101nussati in soteriology. It explores whether this practice can sufficiently generate the concentration (sam\u0101dhi) needed for jh\u0101nic absorption and the subsequent insight (vipassan\u0101), or if it merely reinforces faith (saddh\u0101) and ethical behaviour (s\u012bla), the means for more advanced practices. The research findings affirm Buddhism\u2019s soteriological teachings and the multiple functions of Buddh\u0101nussati, as it facilitates access to or \u2018stalking\u2019 concentration (upac\u0101ra sam\u0101dhi) and the \u2018growth\u2019 of wisdom through the contemplation of the Buddha\u2019s attributes. The findings affirm that Buddh\u0101nussati exhibits multiple soteriological functions beyond the oppositional claim based on practitioner ability, contextual use, and other composite practices. This research enriches modern Buddhist studies by resolving certain theoretical ambiguities and providing guidance for the teaching of meditation in contemporary Therav\u0101da Buddhist communities.\n\n.Keywords: Buddh\u0101nussati, Soteriological significance, Therav\u0101da Buddhism, Liberation (Nibb\u0101na), Samatha meditation, Vipassan\u0101 (insight), Kamma\u1e6d\u1e6dh\u0101na (meditation objects), Jh\u0101na (meditative absorption), Faith (Saddh\u0101), P\u0101li Canon, Visuddhimagga, Devotional practice, Buddhist soteriology, Recollection meditation, Path to enlightenment.",
+      "journal": "International Journal of Scientific Research in Engineering and Management",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Significance of Mental Detachment: A Study of Cittaviveka in Buddhism",
+      "url": "https://www.semanticscholar.org/paper/ab90a68a8757e8392a30d46f80e4eaacf4f3c41b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-05T00:00:00",
+      "date_fetched": "2026-04-24T12:57:04.399773",
+      "doi": "10.47772/ijriss.2025.91100193",
+      "authors": [
+        {
+          "name": "Prof. Rev. Medagampitiye Wijithadhamma Thero",
+          "author_id": "2397031615",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The Buddhist doctrine of cittaviveka is one of three forms of viveka \u2013 bodily solitude (k\u0101yaviveka), mental solitude (cittaviveka) and seclusion from the substrates of existence or attainment of nibb\u0101na (upadhiviveka) \u2013 and is found in Theravada texts, in particular, the notion of mental detachment (cittaviveka) is explicitly described in the Mah\u0101-niddesa. Among these, cittaviveka is an essential attribute of Buddhist spiritual path represented a stage of inner detachment, in which the mind becomes secluded from obstacles and defilements. Despite previous scholars offered the Buddhist concept of cittaviveka from Buddhist perspective, the Mah\u0101-niddesa and the Pa\u1e6disambhid\u0101magga viewpoints have received less attention on it. It still remains challenging to clarify about specific levels of mental detachment. For instance, the Atthas\u0101lin\u012b (the commentary of Dhammasa\u1e45ga\u1e47i) and the Visuddhimagga cannot provide the satisfied answer to what levels of mental detachment are achieved through it without help of the Mah\u0101-niddesa and the Pa\u1e6disambhid\u0101magga. The research problem should be based on the following questions: What does cittaviveka truly signify in early Buddhist teachings, and what levels of mental detachment are achieved through it? Therefore, the aim of this paper is to give the reader a clearer answer and more critical analysis of cittaviveka, looking at different levels of mental detachment with special reference to the Mah\u0101-niddesa and the Pa\u1e6disambhid\u0101magga. The analysis revealed three main spiritual transformative processes: solitude through displacement (tada\u1e45gaviveka), the temporary suppression of obstacles, the state of absorptions or jh\u0101nas (vikkhambhanaviveka) and permanent uprooting of defilements (samucchedaviveka). The method adopted is a textual analysis of Therav\u0101da P\u0101li sources, including commentarial literatures and related works done by scholars were also incorporated to grasp the actual meaning of the selected term as clearly as possible.",
+      "journal": "International journal of research and innovation in social science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Treating Chronic Pain by Modulating Phenomenological and Psychophysiological Indices of Self-Transcendence: Single-Blind Randomized Controlled Clinical Trial Protocol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42024549/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-23T00:00:00",
+      "date_fetched": "2026-04-24T12:57:26.299195",
+      "doi": "10.2196/82362",
+      "authors": [
+        {
+          "name": "Kennedi Childs",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Carter Minnick",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Geraldine Martorella",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adam W Hanley",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Chronic musculoskeletal pain (CMP) imposes a significant psychological, physical, and emotional burden on millions of adults in the United States. A challenge in treating CMP is its tendency to become enmeshed with a person's sense of self. Mindfulness-based interventions (MBIs) offer a promising approach to help patients disentangle pain from their sense of self. However, rigorous research is needed to determine which styles of mindfulness practice most effectively promote self-transcendence, a candidate mechanism for durable pain relief. OBJECTIVE: This study aims to evaluate whether adding direct pointing instruction to traditional mindful breathing enhances self-transcendence and pain relief. We will assess the effects of 2 mindfulness training protocols, mindful breathing (MB) and MB plus direct pointing (DP) instruction, on subjective and neurophysiological markers of self-transcendence and on pain-related outcomes. METHODS: In this study, we will conduct a 3-arm randomized controlled trial with 173 adults with CMP, assigned to one of the following groups: (1) 4, 30-minute sessions of traditional mindful breathing instruction, (2) 4, 30-minute sessions of MB+DP instruction, or (3) a waitlist control group. Self-transcendence will be assessed during the first and final intervention sessions using validated self-report measures and psychophysiological indices, including electroencephalography (EEG; theta activity) and functional near-infrared spectroscopy (fNIRS; default mode network [DMN] activity). Primary outcomes include changes in self-transcendence, theta activity, and DMN activity. Additional outcomes include acute pain intensity and pain-related functional interference, measured at baseline through 3-month follow-up. RESULTS: Data collection began in October 2024 and will conclude by May 2027. As this is a protocol paper, no results are yet available. We will report recruitment rates, baseline characteristics, and initial outcome trends in the full trial results paper. CONCLUSIONS: This will be the first randomized controlled trial to examine whether direct pointing instruction enhances analgesia by eliciting self-transcendence. Findings may advance understanding of the mechanisms underlying mindfulness-based pain relief and inform the development of more targeted MBIs for chronic pain. Results will be disseminated through peer-reviewed publications, conference presentations, and stakeholder engagement, with potential implications for clinical practices.",
+      "journal": "JMIR research protocols",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -169,32 +765,186 @@
       "matched_keywords": []
     },
     {
-      "title": "Integrating Zentangle Art into Interprofessional Education for New Nurses: A Mixed-Methods Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42018678/",
+      "title": "Can Yoga and Meditation Practice Motivate Teenagers to Adopt a Healthier Lifestyle: An Epidemiological Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42013361/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-20T00:00:00",
-      "date_fetched": "2026-04-23T12:58:54.367792",
-      "doi": "10.3928/00220124-20260216-04",
+      "date_published": "2026-04-21T00:00:00",
+      "date_fetched": "2026-04-24T12:57:36.860933",
+      "doi": "10.1177/13591045261446334",
       "authors": [
         {
-          "name": "Min-Fen Hsu",
+          "name": "Saumya Subramanian",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Pei-Ling Tang",
+          "name": "Anuradha Rajaram",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tzu-Cheng Pan",
+          "name": "Pravin Sangle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dipika Mahapatra",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Divya Kanchibhotla",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: New nurses often face stress and burnout due to transitioning to clinical practice, long hours, and role adaptation affecting their well-being. Art therapy has the potential to enhance mindfulness and spiritual well-being. Zentangle Art is a novel intervention method. This study explores whether Zentangle Art Workshops can enhance workplace spirituality, indirectly improve self-efficacy, and alleviate psychological distress. METHOD: The study involved 117 new nurses in Taiwan. A mixed-methods research design was used, collecting quantitative data through the Brief Symptom Rating Scale-5 and the General Self-Efficacy Scale. Qualitative data were collected through participant feedback. RESULTS: Quantitative analysis showed that the Zentangle Art Workshop significantly enhanced workplace spirituality, which in turn improved self-efficacy and reduced psychological distress among new nurses. Qualitative analysis of participant feedback identified six themes related to the workshop's impact. CONCLUSION: This intervention can be a valuable tool for supporting the professional and emotional well-being of new nurses.",
-      "journal": "Journal of continuing education in nursing",
+      "abstract": "BackgroundThe rapid technological growth and the ease of access to Internet to the current generation population (Generation Z, alpha) right from their early days of life, has its both advantages and disadvantages. The present epidemiological study evaluates the impact of yoga and meditation practices on the teenagers' mental health and lifestyle choices.MethodsThe total sample size is 425, of age group 13-19, 237 were practicing either yoga, meditation or both, while 188 practiced neither meditation nor yoga. Several different parameters were assessed via the PROMIS pediatric forms. Several lifestyle habits were also assessed using subjective questions.ResultsOur study has demonstrated that teens who practiced yoga and meditation had a significantly positive effect on the parameters such as positive affect (",
+      "journal": "Clinical child psychology and psychiatry",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Associations between Childhood Adversity and Pain in Breast Cancer Survivors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42013237/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-20T00:00:00",
+      "date_fetched": "2026-04-24T12:57:36.860972",
+      "doi": "10.1097/PSY.0000000000001487",
+      "authors": [
+        {
+          "name": "Enya M Daang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Patricia A Ganz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Julienne E Bower",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Pain is a prominent symptom in breast cancer survivors, but associated factors are still under investigation. Childhood adversity has been linked to pain in adulthood through emotional and biological pathways but has been relatively unexplored in the context of breast cancer. The current study examines the association between childhood adversity and pain in breast cancer survivors and meditation by ambivalence over emotional expression (hereinafter referred to as emotional ambivalence) and inflammation. We hypothesize a positive association between childhood adversity and pain, mediated by greater emotional ambivalence and higher levels of inflammation. METHODS: Women diagnosed with stage 0-IIIA breast cancer completed assessments one year after the completion of primary treatment, including questionnaires assessing childhood adversity (Risky Families), emotional ambivalence (Ambivalence Towards Emotional Expressivity), and pain (SF-36). Blood samples were collected to measure plasma markers of inflammation (IL-1ra, IL-6, CRP, and sTNF-RII). RESULTS: Childhood adversity was significantly associated with greater pain, B=0.36, P=.008, which was significantly mediated by emotional ambivalence, B=0.09, 95%CI [0.02, 0.18]. There were no significant indirect effects through any of the inflammatory markers. We also explored the associations between dimensions of childhood adversity and pain. Similar linear regression and mediation results were found for threat and neglect while there were no significant findings in models examining household chaos. CONCLUSIONS: Findings highlight the relevance of childhood adversity as a contributor to persistent pain in breast cancer survivors and identify emotional ambivalence as a key pathway and potential target for intervention.",
+      "journal": "Biopsychosocial science and medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Combining Mindfulness-Based Cognitive Therapy With Escitalopram for Cognitive and Emotional Recovery in Older Adults With Treatment-Resistant Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42023679/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-23T00:00:00",
+      "date_fetched": "2026-04-24T12:57:36.861197",
+      "doi": "10.1002/jclp.70137",
+      "authors": [
+        {
+          "name": "Zhaohui Wei",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shuxin Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jia Ma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yue Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yanhong Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aiping Wen",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: This study investigates the adjunctive effects of mindfulness-based cognitive therapy (MBCT) combined with escitalopram hydrobromide on cognitive function and emotional well-being in older adults with treatment-resistant depression (TRD). We hypothesized that this combined approach would lead to greater enhancements in cognitive abilities and overall well-being compared to escitalopram hydrobromide alone in this vulnerable population. METHODS: A total of 230 older adults with TRD and cognitive impairment were randomly assigned into two groups: an experimental group receiving MBCT plus escitalopram (n\u2009=\u2009115) and a control group receiving escitalopram alone (n\u2009=\u2009115). Cognitive function, depression severity, and quality of life were assessed at baseline, 6 weeks, and 12 weeks using the Montreal Cognitive Assessment (MoCA), Hamilton Depression Rating Scale (HAM-D), and General Quality of Life Index-74 (GQOLI-74). RESULTS: The experimental group demonstrated significant improvements in cognitive function (MoCA scores) and quality of life (GQOLI-74 scores) compared to the control group at both 6 and 12 weeks (p\u2009<\u20090.05). Additionally, depression severity (HAM-D scores) was significantly reduced in the experimental group (p\u2009<\u20090.05). The combined therapy also resulted in higher rates of significant and effective treatment outcomes, with fewer cases of average or ineffective responses (p\u2009<\u20090.05). CONCLUSIONS: The integration of MBCT with escitalopram hydrobromide significantly enhances cognitive function, reduces depressive symptoms, and improves quality of life in older adults with TRD. CLINICAL IMPLICATIONS: Clinicians should consider incorporating mindfulness-based interventions alongside pharmacological treatments for older adults with TRD. TRIAL REGISTRATION: The trial was retrospectively registered with ClinicalTrials. gov (Identifier: NCT07077291).",
+      "journal": "Journal of clinical psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Autonomic indicators of self-transcendence: insights from the numadelic VR paradigm.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42028122/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-04-24T12:57:36.861750",
+      "doi": "10.1093/nc/niag009",
+      "authors": [
+        {
+          "name": "Valerie Bonnelle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Giulia Parola",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Catherine Andreu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joseph L Hardy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Justin Wall",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Timmermann",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ausi\u00e0s Cebolla",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maja Wrzesien",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David R Glowacki",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Self-transcendent experiences (STEs) offer profound and beneficial shifts in perspective, yet remain largely inaccessible outside elite contemplative or pharmacological contexts. Although neural measures have advanced our understanding of these states, their cost and limited ecological validity restrict broader application. This study evaluates heart rate variability (HRV) amplitude, a measure reflecting dynamic sympathovagal engagement, as a cost-effective and sustainable physiological marker of STE during 'numadelic' virtual reality (VR) experiences designed to dissolve self-boundaries and foster embodied presence. Building on previous work showing (i) associations between non-ordinary states of consciousness (NOSC) and autonomic activity during psychedelic administration, and (ii) comparable STE intensity in non-drug numadelic VR, we tested whether HRV amplitude reflects STE depth and relates to affective and relational outcomes during numadelic VR. Ninety-six participants engaged in guided meditation either in numadelic VR or a non-VR audio-guided group format. Cardiac and respiratory data were recorded during the session, alongside pre- and post-meditation psychological assessments. Findings show that HRV amplitude measured during numadelic VR correlates with subjective STE ratings, as well as compassion traits, and emotional improvement following practice. Reanalysis of data from a prior psychedelic study further supports the relevance of this measure across different methods of inducing NOSCs. These results advance the psychophysiological mapping of STEs and identify HRV amplitude as a promising real-time biomarker that may help guide participants toward self-transcendent states within adaptive environments. By integrating contemplative science with immersive design, this work contributes to scalable tools that broaden access to and deepen understanding of STEs.",
+      "journal": "Neuroscience of consciousness",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -202,5 +952,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "The Problem with Psychedelic Research",
+      "url": "https://nautil.us/the-problem-with-psychedelic-research-1280196/",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-04-24T12:00:00",
+      "date_fetched": "2026-04-24T12:57:37.104791",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Kristen French",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "Nautilus",
+      "excerpt": "A conversation with a psychedelics researcher about a fundamental flaw in how we test these mind-bending drugs The post The Problem with Psychedelic Research appeared first on Nautilus.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "psychedelics"
+      ]
+    }
+  ]
 }
