@@ -1,58 +1,1938 @@
 {
-  "generated_at": "2026-04-28T13:26:33.258388",
+  "generated_at": "2026-04-29T13:20:58.448497",
   "papers": [
     {
-      "title": "Sustained mental health outcomes from the youth readiness intervention: A four-year effectiveness follow-up of a hybrid type II trial in Sierra Leone.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42046391/",
+      "title": "Defining Mindfulness: A Review of Existing Definitions and Suggested Refinements",
+      "url": "https://www.semanticscholar.org/paper/1dc7c37aeecc60fabca09ff8cd857c299b9f20ce",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-27T00:00:00",
-      "date_fetched": "2026-04-28T13:26:32.519595",
-      "doi": "10.1111/jcpp.70158",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307583",
+      "doi": "10.1007/s12671-024-02507-2",
       "authors": [
         {
-          "name": "Wijnand Van Den Boom",
+          "name": "Ryad Chems-Maarif",
+          "author_id": "2340776962",
+          "affiliation": null
+        },
+        {
+          "name": "Kate Cavanagh",
+          "author_id": "2240622431",
+          "affiliation": null
+        },
+        {
+          "name": "Ruth Baer",
+          "author_id": "2340776958",
+          "affiliation": null
+        },
+        {
+          "name": "Jenny Gu",
+          "author_id": "47748384",
+          "affiliation": null
+        },
+        {
+          "name": "C. Strauss",
+          "author_id": "40595847",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindfulness research is hampered by the multiplicity of definitions of mindfulness. This heterogeneity, as reflected in the variability of mindfulness scales, limits the ability to generalize findings and hinders attempts to synthesize available studies. This paper explores traditional and contemporary definitions of mindfulness, aiming to extract core components and provide a refined and clearly specified definition suitable for underpinning measurement in psychological science. This narrative review broadly analyzes and synthesizes the conceptual frameworks across various definitions of mindfulness to identify core components of mindfulness within Buddhist and psychological science literature. Traditional Buddhist definitions of mindfulness focus on (a) memory and remembrance, (b) present-centered awareness, and (c) ethicality, but lack conceptual commonality due to the diversity of Buddhist schools and to the intricate context in which mindfulness is embedded. Definitions in psychological science show greater conceptual agreement and emphasize (a) present-centered awareness and bare attention, and (b) attitudes of acceptance and non-judgment. Taken together, there is a lack of conceptual commonality and clarity on mindfulness definitions, to the extent that it may be challenging to propose a single definition that fully encapsulates both Buddhist and psychological science perspectives. For the purposes of psychological science, refinements are suggested by (a) including four scopes of mindfulness that clarify present-centeredness as awareness of and attention to body sensations, affective valence (i.e., pleasant, unpleasant, neutral), cognition and emotional states (including impulses and action tendencies), and the external environment (i.e., external sensory experience and interpersonal interactions); and (b) emphasizing the allowing and equanimous attitudes as the key qualities of mindfulness. Mindfulness is therefore defined as: \u201cpresent-centered awareness of and bare attention to body sensations, affective valence, cognitive and emotional phenomena, and the external environment with an allowing and equanimous attitude.\u201d The study is not preregistered.",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Mindfulness-Based Cognitive Therapy in Clinical Practice: A Systematic Review of Neurocognitive Outcomes and Applications for Mental Health and Well-Being",
+      "url": "https://www.semanticscholar.org/paper/94f75971f78e13c8908917dc07f283f47ddc8da3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307611",
+      "doi": "10.3390/jcm14051703",
+      "authors": [
+        {
+          "name": "E. Gkintoni",
+          "author_id": "8546742",
+          "affiliation": null
+        },
+        {
+          "name": "S. Vassilopoulos",
+          "author_id": "3309969",
+          "affiliation": null
+        },
+        {
+          "name": "Georgios Nikolaou",
+          "author_id": "2294296318",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background/Objectives: This systematic review outlines the neurocognitive outcomes and mechanisms of mindfulness-based cognitive therapy (MBCT) that influence subjective well-being. MBCT is a clinical intervention that integrates cognitive therapy with mindfulness practices to prevent depression relapses and improve mental health. Methods: The review focuses on the effects of MBCT on brain structure changes, cognitive processes, and emotional regulation, which are related to improvements in subjective well-being. A total of 87 studies were included in the review to assess the effectiveness of MBCT. Results: Evidence from the studies highlights the effectiveness of MBCT in reducing symptoms of depression, anxiety, and stress. MBCT was also shown to enhance cognitive functions and emotional regulation across diverse populations. These findings point to the potential for MBCT to induce neuroplastic changes in the brain and widen the applicability of the treatment for a variety of disorders, calling for further research into long-term benefits and underlying neurobiological mechanisms. Conclusions: The review emphasizes the potential of MBCT to bring about neuroplastic changes, calling for further research into its long-term benefits and the underlying neurobiological mechanisms. This study underlines the need to incorporate multidisciplinary measures by integrating psychology and neuroscience to comprehend comprehensively the effects of MBCT.",
+      "journal": "Journal of Clinical Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Mindfulness and Work Engagement: How Emotional Intelligence Bridges the Gap",
+      "url": "https://www.semanticscholar.org/paper/b2b2c3ab3dca8c70c57df11c17413c6619e4e1c9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-30T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307628",
+      "doi": "10.53935/jomw.v2024i4.928",
+      "authors": [
+        {
+          "name": "Mostafa Abaker",
+          "author_id": "2343439764",
+          "affiliation": null
+        },
+        {
+          "name": "Amr Noureldin",
+          "author_id": "2343362808",
+          "affiliation": null
+        },
+        {
+          "name": "Mohamed Aboueldahab",
+          "author_id": "2343367631",
+          "affiliation": null
+        },
+        {
+          "name": "Atef Fakhfakh",
+          "author_id": "2343363240",
+          "affiliation": null
+        },
+        {
+          "name": "Basma Al-Hariry",
+          "author_id": "2343367627",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study investigates the interplay between mindfulness, emotional intelligence (EI), and work engagement, focusing on the mediating role of EI. Utilizing Conservation of Resources (COR) Theory as a theoretical framework, the research explores how mindfulness enhances employee engagement by fostering emotional regulation, resilience, and attentional stability. Conducted within the Saudi Arabian context, the study employs a cross-sectional survey of 329 employees from diverse sectors, offering culturally specific insights into these relationships. The findings reveal that mindfulness positively influences both EI and work engagement, while EI significantly mediates this relationship, amplifying the positive effects of mindfulness on engagement. These results underscore the critical role of mindfulness and EI in fostering a resilient and motivated workforce. Practical implications suggest that organizations can enhance employee well-being and productivity by integrating mindfulness and EI training into workplace development programs. This study contributes to existing literature by extending the application of COR Theory and addressing the contextual nuances of Saudi Arabia, offering actionable insights for improving employee engagement in diverse organizational settings.\u00a0",
+      "journal": "Journal of Management World",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Relationships Between Social Media Addiction, Social Media Use Metacognitions, Depression, Anxiety, Fear of Missing Out, Loneliness, and Mindfulness",
+      "url": "https://www.semanticscholar.org/paper/cb77f431b8f77401ccecfe71cb09ffdec857352a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-23T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307651",
+      "doi": "10.1007/s11469-024-01440-8",
+      "authors": [
+        {
+          "name": "Jai Meynadier",
+          "author_id": "2165988364",
+          "affiliation": null
+        },
+        {
+          "name": "J. Malouff",
+          "author_id": "5877808",
+          "affiliation": null
+        },
+        {
+          "name": "N. Schutte",
+          "author_id": "5055848",
+          "affiliation": null
+        },
+        {
+          "name": "Natasha M. Loi",
+          "author_id": "3684527",
+          "affiliation": null
+        },
+        {
+          "name": "M. Griffiths",
+          "author_id": "2237200957",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n Recent research has suggested that metacognitions about social media use may play a role in social media addiction. The aim of the present study was to investigate (a) the contribution of positive and negative social media use metacognitions in explaining social media addiction after accounting for a range of risk factors related to negative affect and (b) the mediating roles of positive and negative social media use metacognitions in associating depression, anxiety, fear of missing out (FoMO), loneliness, and low trait mindfulness with social media addiction. A sample of 810 Australians (M\n age\u2009=\u200966.39\u00a0years; 63.6% female) completed an anonymous online survey. Both positive and negative social media use metacognitions accounted for a significant proportion of unique variance in social media addiction after controlling for age, sex, social media engagement, depression, anxiety, FoMO, loneliness, and mindfulness. Serial mediation models indicated that depression, anxiety, FoMO, loneliness, and mindfulness had a direct effect on social media addiction, as well as an indirect effect that was mediated by positive and negative metacognitions. The present study\u2019s findings show the mediating role of social media use metacognitions in the relationship between negative affect and social media addiction.",
+      "journal": "International Journal of Mental Health and Addiction",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Portfolio assessment in AI-enhanced learning environments: a pathway to emotion regulation, mindfulness, and language learning attitudes",
+      "url": "https://www.semanticscholar.org/paper/6323234f069d7b8d23cfaa3a7a5d29dd7122e94b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-21T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307662",
+      "doi": "10.1186/s40468-025-00345-0",
+      "authors": [
+        {
+          "name": "M. Khasawneh",
+          "author_id": "116297186",
+          "affiliation": null
+        },
+        {
+          "name": "Alaa Aladini",
+          "author_id": "2333385482",
+          "affiliation": null
+        },
+        {
+          "name": "S. Assi",
+          "author_id": "2401399038",
+          "affiliation": null
+        },
+        {
+          "name": "Bemnet Ajanil",
+          "author_id": "2173430378",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Language Testing in Asia",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Enhancing Pro-Environmental Behavior Through Green HRM: Mediating Roles of Green Mindfulness and Knowledge Sharing for Sustainable Outcomes",
+      "url": "https://www.semanticscholar.org/paper/ce10fe92a5bc32766a7ae4f62f703dd46929c64a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-10T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307673",
+      "doi": "10.3390/su17062411",
+      "authors": [
+        {
+          "name": "Yijing Li",
+          "author_id": "2236871923",
+          "affiliation": null
+        },
+        {
+          "name": "Yannan Li",
+          "author_id": "2298721995",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study investigates the impact of Green Human Resource Management (GHRM) practices on employees\u2019 pro-environmental behaviors (PEBs) across multiple sectors in China, including production and manufacturing, real estate, financial services, and IT industries. Data were collected from 492 participants through online and offline surveys conducted between June and August 2024, ensuring a comprehensive and representative sample. The findings reveal that GHRM significantly enhances employees\u2019 PEBs, with green mindfulness and knowledge sharing as critical mediating mechanisms. These mediators amplify the effectiveness of GHRM by fostering deeper environmental awareness and encouraging the exchange of eco-friendly practices among employees. By integrating GHRM with knowledge management processes, the study highlights how organizations can strategically leverage HR practices to strengthen their environmental performance and foster a culture of sustainability. By emphasizing the pivotal roles of green knowledge sharing and environmental awareness, this research underscores their significance in bridging the gap between organizational practices and sustainability outcomes. The insights derived contribute to advancing theoretical understanding and practical applications of green knowledge management and sustainability, offering a robust framework for businesses seeking to align their operations with global environmental goals.",
+      "journal": "Sustainability",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Effect of a mindfulness program on stress, anxiety, depression, sleep quality, social support, and life satisfaction: a quasi-experimental study in college students",
+      "url": "https://www.semanticscholar.org/paper/38144d4c56e2acee80df00b6819af6cfaf92edb7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-12T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307684",
+      "doi": "10.3389/fpsyg.2025.1508934",
+      "authors": [
+        {
+          "name": "Pa\u00fal Alan Arkin Alvarado-Garc\u00eda",
+          "author_id": "2101349321",
+          "affiliation": null
+        },
+        {
+          "name": "Maril\u00fa Roxana Soto-V\u00e1squez",
+          "author_id": "1410723488",
+          "affiliation": null
+        },
+        {
+          "name": "Francisco Mercedes Infantes Gomez",
+          "author_id": "2345226247",
+          "affiliation": null
+        },
+        {
+          "name": "Natalia Mavila Guzman Rodriguez",
+          "author_id": "2289719357",
+          "affiliation": null
+        },
+        {
+          "name": "William Gil Castro-Paniagua",
+          "author_id": "2345222609",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction The university experience often brings various personal and academic challenges that can negatively impact students\u2019 mental health. This research aimed to evaluate the effect of a mindfulness program on stress, anxiety, depression, sleep quality, social support, and life satisfaction among university students. Methods A quasi-experimental study was conducted with 128 participants, divided into experimental and waiting list control groups. The experimental group participated in a mindfulness meditation program consisting of 12 weekly sessions. Pre-test and post-test measurements were performed using the Perceived Stress Scale (PSS-10), the Zung Self-Rating Anxiety Scale (SAS), the Zung Self-Rating Depression Scale (SDS), the Pittsburgh Sleep Quality Index (PSQI), the Medical Outcomes Study Social Support Survey (MOS-SS), and the Satisfaction with Life Scale (SWLS) to assess the variables. Results The experimental group showed statistically significant differences between the study phases and the groups after the intervention for all the variables examined (p\u202f<\u202f0.05). The effect sizes calculated using the HC3 model were stress (\u03b72\u202f=\u202f0.376), anxiety (\u03b72\u202f=\u202f0.538), depression (\u03b72\u202f=\u202f0.091), sleep quality (\u03b72\u202f=\u202f0.306), social support (\u03b72\u202f=\u202f0.704), and life satisfaction (\u03b72\u202f=\u202f0.510). The mindfulness program was shown to be effective in reducing levels of stress, anxiety, and depression while also improving sleep quality, social support, and life satisfaction in college students. Conclusion These findings indicate that mindfulness meditation may be valuable for enhancing psychological well-being in educational settings.",
+      "journal": "Frontiers in Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "A brief virtual reality-based mindfulness intervention can improve olfactory perception while reducing depression and anxiety symptoms in university students",
+      "url": "https://www.semanticscholar.org/paper/92102f55a7d5956da255c939bcab30412d166b6d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307696",
+      "doi": "10.1057/s41599-025-04584-7",
+      "authors": [
+        {
+          "name": "Jingni Ma",
+          "author_id": "2349440749",
+          "affiliation": null
+        },
+        {
+          "name": "Haoke Li",
+          "author_id": "2317346166",
+          "affiliation": null
+        },
+        {
+          "name": "Chuoyan Liang",
+          "author_id": "2348509754",
+          "affiliation": null
+        },
+        {
+          "name": "Siqi Li",
+          "author_id": "2349255849",
+          "affiliation": null
+        },
+        {
+          "name": "Ziliang Liu",
+          "author_id": "2348653367",
+          "affiliation": null
+        },
+        {
+          "name": "Chen Qu",
+          "author_id": "2348432172",
+          "affiliation": null
+        }
+      ],
+      "abstract": "With universities increasingly offering mindfulness-based interventions to enhance students\u2019 mental health conditions and alleviate the strain on overwhelmed psychological services, this study aimed to investigate the potential effectiveness of a brief VR-based mindfulness intervention for university students with depression and anxiety symptoms. Employing a quasi-experimental design, the present study assessed whether the intervention could enhance students\u2019 mindfulness, olfactory perception, and chemosensory while reducing anxiety and depression symptoms. Forty-nine university students (M\u2009=\u200922.06, 10 males) participated in this quasi-experimental study and were tested at three time points: T1 (pre-intervention), T2 (post-intervention), and T3 (follow-up). The intervention immersed participants in virtual environments featuring natural elements and integrated mindfulness practices. The Eligible participants displayed anxiety symptoms while engaged in the study. We also conducted person-to-person interviews and performed a thematic analysis to understand the participants\u2019 insights and feedback regarding the intervention, aiming to inform and improve the design of subsequent interventions. The findings indicated that the intervention showed an immediate and significant impact on reducing anxiety and depression symptoms while improving mindfulness, olfactory perception, chemosensory, and sensory image. Notably, this reduction in depression and anxiety symptoms persisted for one week. Furthermore, the intervention showed the potential to enhance mindfulness and sensory imagery, with these substantial effects also enduring for one week. Qualitative results further supported the findings from the interviews. This study provides preliminary evidence for the effectiveness of brief VR-based mindfulness interventions in alleviating depression and anxiety symptoms among university students.",
+      "journal": "Humanities and Social Sciences Communications",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Self-directed writing development across computer/AI-based tasks: Unraveling the traces on L2 writing outcomes, growth mindfulness, and grammatical knowledge",
+      "url": "https://www.semanticscholar.org/paper/b5b6174363522a4f220a9be6a656a04e55a5b906",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307707",
+      "doi": "10.1016/j.chbr.2024.100566",
+      "authors": [
+        {
+          "name": "Alaa Aladini",
+          "author_id": "2333385482",
+          "affiliation": null
+        },
+        {
+          "name": "Sayed M. Ismail",
+          "author_id": "2276084472",
+          "affiliation": null
+        },
+        {
+          "name": "Mohamad Ahmad Saleem Khasawneh",
+          "author_id": "2183673363",
+          "affiliation": null
+        },
+        {
+          "name": "Goodarz Shakibaei",
+          "author_id": "114964064",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Computers in Human Behavior Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Cultural Adaptations of Mindfulness-Based Interventions for Psychosocial Well-Being in Ethno-Racial Minority Populations: A Systematic Narrative Review",
+      "url": "https://www.semanticscholar.org/paper/898ca9546c1711b30f345f4b96a26c030c320927",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307718",
+      "doi": "10.1007/s12671-024-02501-8",
+      "authors": [
+        {
+          "name": "L. Hytman",
+          "author_id": "2146196114",
+          "affiliation": null
+        },
+        {
+          "name": "Maya Amestoy",
+          "author_id": "1909450392",
+          "affiliation": null
+        },
+        {
+          "name": "Rhiannon Ueberholz",
+          "author_id": "2168654469",
+          "affiliation": null
+        },
+        {
+          "name": "A. Fiocco",
+          "author_id": "5627927",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "A Multi- Mediation Analysis on the Impact of Social Media and Internet Addiction on University and High School Students\u2019 Mental Health Through Social Capital and Mindfulness",
+      "url": "https://www.semanticscholar.org/paper/e3f1e8fdc09a6d2a5c155e574c3ffadb61b05d33",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307728",
+      "doi": "10.3390/ijerph22010057",
+      "authors": [
+        {
+          "name": "Girum Tareke Zewude",
+          "author_id": "117132164",
+          "affiliation": null
+        },
+        {
+          "name": "Tarikuwa Natnael",
+          "author_id": "1700655048",
+          "affiliation": null
+        },
+        {
+          "name": "Getachew Tassew Woreta",
+          "author_id": "2313399206",
+          "affiliation": null
+        },
+        {
+          "name": "Anmut Endalkachew Bezie",
+          "author_id": "2298123909",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction: Social media addiction (SMA) and internet addiction (IA) are increasingly prevalent, impacting mental health (MH) globally. This study investigates the mediating roles of mindfulness and social capital (SC) in the relationship between SMA, IA, and MH among Ethiopian high school and university students, contributing to the Sustainable Development Goal (SDG) 3 of good health and well-being. Methods: A cross-sectional study was conducted with 1160 university and 1473 high school students in Dessie, Ethiopia. Participants completed validated questionnaires assessing SMA, IA, mindfulness, SC, and MH. Structural Equation Modeling (SEM) with a multi- mediation Model (SMM) was used to examine the hypothesized relationships. Results: SEM revealed that both SMA and IA had a direct negative effect on mindfulness, SC, and MH in in both high school and university students. Notably, mindfulness and SC significantly and positively predicted MH, indicating their protective role against the negative effects of SMA and IA. Furthermore, both mindfulness or SC fully or partially mediated the relationship between SMA, IA, and MH, highlighting their crucial role in explaining the association. Conclusions: This study provides evidence for the crucial roles of mindfulness and SC in buffering the negative effects of SMA and IA on MH among Ethiopian students. The findings highlight the need for educational and health interventions that foster mindfulness and SC to enhance student mental health and promote a healthy digital environment. These results offer valuable insights for educators, health professionals, and policymakers in Ethiopia and other developing countries facing similar challenges.",
+      "journal": "International Journal of Environmental Research and Public Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Epigenetic modulation by life\u2013style: advances in diet, exercise, and mindfulness for disease prevention and health optimization",
+      "url": "https://www.semanticscholar.org/paper/36de57c6c9c5550e3baa46e9c518cc98afb9cade",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-21T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307741",
+      "doi": "10.3389/fnut.2025.1632999",
+      "authors": [
+        {
+          "name": "Jos\u00e9 Ostaiza-Cardenas",
+          "author_id": "2377218931",
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Tobar",
+          "author_id": "82995033",
+          "affiliation": null
+        },
+        {
+          "name": "S. C. Costa",
+          "author_id": "2238199621",
+          "affiliation": null
+        },
+        {
+          "name": "Diana Sofia Calero",
+          "author_id": "2377211836",
+          "affiliation": null
+        },
+        {
+          "name": "Alisson L\u00f3pez-Carrera",
+          "author_id": "2377215639",
+          "affiliation": null
+        },
+        {
+          "name": "F\u00e1tima German Berm\u00fadez",
+          "author_id": "2358383402",
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Orellana-Manzano",
+          "author_id": "2377103105",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Socio-economic and environmental factors significantly influence health by driving epigenetic changes that alter genetic expression and impact disease prevention. Lifestyle elements such as diet, exercise, mindfulness, and environmental exposure play crucial roles in modulating these mechanisms. A systematic review of studies from the past 13 years, conducted under PRISMA guidelines, examined interventions, epigenetic outcomes, and health impacts. Mindfulness practices, particularly meditation, were found to regulate DNA methylation, reducing stress and inflammation. Dietary interventions, such as the Mediterranean and DASH diets, enhanced health biomarkers and slowed epigenetic aging through favorable DNA methylation. Physical activities, such as high-intensity interval training and hybrid training, induced epigenetic modifications, improving metabolic function, mitochondrial biogenesis, and insulin sensitivity. These findings emphasize the importance of adopting modern lifestyle choices to promote health and prevent chronic diseases by influencing gene expression. Combining mindfulness, balanced diets, and regular physical activity offers substantial benefits for metabolic, cardiovascular, and mental health. However, more research is needed to understand the long-term effects of lifestyle factors on epigenetics and to develop personalized strategies that optimize disease prevention and overall wellbeing.",
+      "journal": "Frontiers in Nutrition",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Mindfulness Training vs Recovery Support for Opioid Use, Craving, and Anxiety During Buprenorphine Treatment",
+      "url": "https://www.semanticscholar.org/paper/f243170f90d169b3a9807ecdc9e28d721c88470e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307765",
+      "doi": "10.1001/jamanetworkopen.2024.54950",
+      "authors": [
+        {
+          "name": "Zev Schuman-Olivier",
+          "author_id": "1399070390",
+          "affiliation": null
+        },
+        {
+          "name": "Hannah Goodman",
+          "author_id": "2275704348",
+          "affiliation": null
+        },
+        {
+          "name": "Joseph Rosansky",
+          "author_id": "2341285612",
+          "affiliation": null
+        },
+        {
+          "name": "A. K. Fredericksen",
+          "author_id": "2100676915",
+          "affiliation": null
+        },
+        {
+          "name": "Javier Barria",
+          "author_id": "2341285606",
+          "affiliation": null
+        },
+        {
+          "name": "Gareth Parry",
+          "author_id": "2275703099",
+          "affiliation": null
+        },
+        {
+          "name": "Randi G Sokol",
+          "author_id": "48146570",
+          "affiliation": null
+        },
+        {
+          "name": "Paula Gardiner",
+          "author_id": "2248785678",
+          "affiliation": null
+        },
+        {
+          "name": "Benjamin L\u00ea Cook",
+          "author_id": "2333575545",
+          "affiliation": null
+        },
+        {
+          "name": "Roger D. Weiss",
+          "author_id": "2295401026",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Key Points Question During buprenorphine treatment, does group-based mindfulness training reduce opioid use, craving, and anxiety compared with group recovery support? Findings In this randomized clinical trial including 196 adults prescribed buprenorphine for opioid use disorder, mindfulness was not superior at reducing illicit opioid use compared with an active group intervention with an evidence-based curriculum. Both arms experienced significantly reduced anxiety, and the reduction in opioid craving during mindfulness groups was greater than during recovery support groups, a significant difference. Meaning The findings of this study suggest that mindfulness groups may have utility during opioid use disorder treatment, especially for patients with residual opioid craving while prescribed buprenorphine.",
+      "journal": "JAMA Network Open",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Virtual reality enhanced mindfulness and yoga intervention for postpartum depression and anxiety in the post COVID era",
+      "url": "https://www.semanticscholar.org/paper/9ee4fc20e46259ea8f6694f41070a84864709ef2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-06T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307775",
+      "doi": "10.1038/s41598-025-96165-6",
+      "authors": [
+        {
+          "name": "Nan Liu",
+          "author_id": "2143065830",
+          "affiliation": null
+        },
+        {
+          "name": "Junchen Deng",
+          "author_id": "2354098152",
+          "affiliation": null
+        },
+        {
+          "name": "Fang Lu",
+          "author_id": "2354235730",
+          "affiliation": null
+        },
+        {
+          "name": "Juan Xiao",
+          "author_id": "2369292893",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The postpartum period has witnessed increasing rates of depression and anxiety, particularly in the context of the COVID-19 pandemic, with these conditions often co-occurring and being exacerbated by the lingering effects of long COVID. Traditional interventions, such as mindfulness-based stress reduction (MBSR) and yoga, have demonstrated effectiveness in alleviating these symptoms. However, the limitations of in-person sessions, especially in the context of pandemic-related restrictions, highlight the need for accessible, innovative approaches. Integrating Virtual Reality (VR) technology with these traditional practices presents a novel solution, offering immersive, customizable environments that may enhance engagement and therapeutic outcomes. This study evaluates the effectiveness of a VR-enhanced mindfulness and yoga intervention in treating postpartum depression and anxiety in women affected by long COVID, with additional examination of underlying physiological stress markers and cognitive control mechanisms. In this randomized controlled trial, 111 postpartum women were randomly assigned to experimental (VR-enhanced intervention), control (traditional in-person sessions), or blank groups using computer-generated randomization. The 8-week intervention involved thrice-weekly 60-minute sessions. Outcomes were assessed at baseline, post-intervention, and 4-week follow-up using the Edinburgh Postnatal Depression Scale (EPDS), Generalized Anxiety Disorder-7 (GAD-7) scale, salivary cortisol measurements, and an emotional Stroop task. The VR-enhanced intervention group demonstrated significant improvements in both depression (EPDS: P\u2009<\u20090.001, \u03b7p2\u2009=\u20090.18) and anxiety symptoms (GAD-7: P\u2009<\u20090.001, \u03b7p2\u2009=\u20090.17), with these therapeutic effects significantly greater than those observed in the control and blank groups (P\u2009<\u20090.001 for both comparisons). These improvements were strongly correlated (r\u2009=\u20090.68, P\u2009<\u20090.001). Supporting these primary outcomes, salivary cortisol levels showed a significant decrease (P\u2009<\u20090.001, \u03b7p2\u2009=\u20090.13), and cognitive control improved as evidenced by reduced emotional Stroop task conflict effect (P\u2009<\u20090.001, \u03b7p2\u2009=\u20090.37). Correlation analysis revealed robust associations between improvements in depression and anxiety symptoms and changes in physiological markers in both short-term and long-term outcomes. This study demonstrates that integrating VR technology with traditional mindfulness and yoga practices effectively reduces both postpartum depression and anxiety symptoms in the post-COVID era. The parallel improvements in physiological stress markers and cognitive control provide insight into potential mechanisms underlying these therapeutic effects. These findings underscore the value of immersive technology in enhancing traditional therapeutic approaches for addressing postpartum depression and anxiety in the post-pandemic context.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "The moderating role of mindfulness in the relationship between threat appraisal and negative emotions in male elite footballers",
+      "url": "https://www.semanticscholar.org/paper/2439f7eec2fb03780a646467842329f29bc0bc0d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-04-29T13:20:09.307874",
+      "doi": "10.22514/jomh.2025.003",
+      "authors": [
+        {
+          "name": "S. Solmaz",
+          "author_id": "67023756",
+          "affiliation": null
+        },
+        {
+          "name": "Yunus Emre",
+          "author_id": "1957511",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background : The aim of this study is to examine the relationship between perceived threat appraisal before competition and negative emotions in elite football players, and to analyze the moderating role of mindfulness in this relationship. Methods : A cross-sectional study was conducted with 299 elite male football players from Turkish football leagues. Data were collected using the Mindfulness Inventory for Sport, Emotions Inventory for Sport, and Challenge and Threat Scale. The data were analyzed using Structural Equation Modeling (SEM). Results : The results revealed a positive correlation between threat appraisal and negative emotions, indicating that higher threat appraisal is associated with increased negative emotions. Mindfulness was found to have a negative relationship with both threat appraisal and negative emotions. Additionally, mindfulness was found to mitigate the relationship between threat appraisal and negative emotions, suggesting that mindfulness can help manage the emotional impact of threat appraisal. Conclusions : These findings imply that athletes\u2019 emotional states can be better regulated in high-pressure situations through mindfulness. The study provides practical implications for athletes and coaches, and emphasizes the need for further longitudinal and experimental research to explore the effects of threat appraisal and mindfulness in greater detail",
+      "journal": "Journal of Men's Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "The dual impact of physical exercise on university students\u2019 mental health: the chain mediating effects of mindfulness and psychological resilience",
+      "url": "https://www.semanticscholar.org/paper/becc0375daf165aeb9acaf34803751ede346242e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-14T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307884",
+      "doi": "10.3389/fpsyg.2025.1545370",
+      "authors": [
+        {
+          "name": "Jian Guo",
+          "author_id": "2355609408",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction Mental health issues among university students are increasingly prominent, and effective interventions are urgently needed. Physical exercise has shown potential in improving mental health, but the underlying mechanisms remain unclear. Based on the Conservation of Resources (COR) theory and the Dual - Factor Model of Mental Health, this study aims to explore the dual impact of physical exercise on university students\u2019 mental health and the chain - mediating effects of mindfulness and psychological resilience. Methods A cross-sectional survey was carried out on 720 students from Chinese universities. Validated instruments were used to measure physical exercise, mindfulness, resilience, and mental health outcomes. SPSS 27.0 and Mplus 8.3 were employed for data analysis, including descriptive statistics, correlation analysis, confirmatory factor analysis, and mediation effect testing. Results The findings show that physical exercise is a proactive resource investment behavior. It significantly enhances students\u2019 mindfulness and resilience. These psychological resources promote positive mental health indicators such as life satisfaction and positive affect, and at the same time, reduce negative factors like psychological distress. The chain mediation analysis indicates that mindfulness and resilience act as interconnected resources, which is in line with the \u201cgain spiral\u201d and \u201cresource caravan\u201d effects in the COR theory. Discussion This study provides novel insights by demonstrating how mindfulness and resilience sequentially amplify the psychological benefits of physical exercise. It offers a more detailed understanding of the mechanisms behind the improvement of university students\u2019 mental health. The results have significant theoretical and practical implications, advocating for the integration of exercise, mindfulness, and resilience-building strategies in mental health interventions for university populations.",
+      "journal": "Frontiers in Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "The Impact of Integrating Mindfulness in the Classroom on Well-Being and Academic Success Among College Students During COVID-19 and Beyond",
+      "url": "https://www.semanticscholar.org/paper/cee783affcb390b68233bc0aa4483274b648b8d0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-31T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307896",
+      "doi": "10.3390/socsci14040218",
+      "authors": [
+        {
+          "name": "Promethi Das Deep",
+          "author_id": "2323965081",
+          "affiliation": null
+        },
+        {
+          "name": "Yixin Chen",
+          "author_id": "2338168277",
+          "affiliation": null
+        },
+        {
+          "name": "Nitu Ghosh",
+          "author_id": "2323967366",
+          "affiliation": null
+        },
+        {
+          "name": "I. Basith",
+          "author_id": "2658556",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The rapid transition to online learning prompted by the COVID-19 pandemic created significant challenges for college students. One critical issue was its impact on mental health, as there were widespread reports of increased anxiety and stress among college students. This qualitative narrative review explores mindfulness practices as an effective intervention to support students\u2019 well-being and boost academic performance during such a crisis and beyond. This paper utilizes SANRA (Scale for the Assessment of Narrative Review Articles) guidelines to ensure a systematic and transparent synthesis of the literature. A total of 18 studies published in international peer-reviewed journals between 2020 and 2024 were included in the review. Mindfulness techniques have reduced stress, helped with emotional regulation, alleviated anxiety, and improved cognitive functions. Mindfulness programs have demonstrated success in helping students manage the uncertainties of online learning and the social isolation the pandemic lockdowns produced. Moreover, such techniques help students build resilience by boosting self-awareness and increasing student engagement with course material. This review highlights the effectiveness of these techniques in supporting students and educators during the COVID-19 pandemic and in the post-pandemic context. It offers valuable insights for educators and policymakers in navigating both crisis-driven challenges and future advancements in education.",
+      "journal": "The social science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Mindfulness for Menopausal Women: Enhancing Quality of Life and Psychological Well-Being Through a Randomized Controlled Intervention.",
+      "url": "https://www.semanticscholar.org/paper/4f07447a5b3684515338f9c97a4b72b6a5d7bb18",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-24T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307932",
+      "doi": "10.1111/jnu.70003",
+      "authors": [
+        {
+          "name": "Shaimaa Mohamed Amin",
+          "author_id": "2291927489",
+          "affiliation": null
+        },
+        {
+          "name": "H. El-Gazar",
+          "author_id": "1485263285",
+          "affiliation": null
+        },
+        {
+          "name": "M. Zoromba",
+          "author_id": "1401849135",
+          "affiliation": null
+        },
+        {
+          "name": "M. El-Sayed",
+          "author_id": "2142194677",
+          "affiliation": null
+        },
+        {
+          "name": "Amal Gamal Elsayed Awad",
+          "author_id": "2327192301",
+          "affiliation": null
+        },
+        {
+          "name": "M. H. Atta",
+          "author_id": "2275136320",
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND\nMenopause is associated with significant physical, psychosocial, and emotional changes that can negatively affect women's quality of life (QoL). In response to this, psychological interventions like mindfulness-based interventions have shown promise in alleviating menopausal symptoms and improving psychological well-being.\n\n\nMETHODS\nA comprehensive randomized controlled trial was conducted from May to August 2024 at Damanhour University, Egypt. One hundred and twenty menopausal women were randomly assigned to either the intervention group (n\u2009=\u200960), which participated in seven mindfulness sessions, or the control group (n\u2009=\u200960), which received general health education. Pre and postintervention data were collected using the Menopause-Specific QoL questionnaire, the Depression Anxiety Stress Scale-21, and the Mindful Attention Awareness Scale. Independent samples t-tests were performed to compare groups, while paired t-tests assessed within-group changes post-intervention. Effect sizes were calculated using Cohen's d, ensuring a robust and reliable data analysis.\n\n\nRESULTS\nThe intervention group showed significant improvements across all domains of menopause-specific QoL, including vasomotor (d\u2009=\u20090.788, p\u2009<\u20090.01), psychosocial (d\u2009=\u20091.042, p\u2009<\u20090.01), physical (d\u2009=\u20090.809, p\u2009<\u20090.01), and sexual (d\u2009=\u20090.794, p\u2009<\u20090.01). Additionally, significant reductions were observed in anxiety (d\u2009=\u20091.221, p\u2009<\u20090.01), stress (d\u2009=\u20091.030, p\u2009<\u20090.01), and depression (d\u2009=\u20090.880, p\u2009<\u20090.01), along with a significant increase in mindfulness (d\u2009=\u20091.335, p\u2009<\u20090.01) postintervention.\n\n\nCONCLUSION\nThe MBIS significantly improved menopause-specific QoL and reduced anxiety, stress, and depression while enhancing mindfulness in menopausal women. These findings suggest that mindfulness-based interventions could be game changers in managing menopausal symptoms and improving overall psychological well-being, offering hope for a better QoL for menopausal women.\n\n\nCLINICAL RELEVANCE\nThe research will primarily impact healthcare providers working with menopausal women, particularly those offering psychological support or nonpharmacological treatments. It also impacts menopausal women themselves by providing evidence-based intervention options that could alleviate menopausal symptoms. Furthermore, researchers and policymakers focusing on women's health and mental well-being may use these findings to inform future studies and healthcare strategies.\n\n\nPATIENT OR PUBLIC CONTRIBUTION\nWomen from Damanhur University.\n\n\nTRIAL REGISTRATION\nThis trial was registered with the ClinicalTrials.gov database under the registration number NCT06421909.",
+      "journal": "Journal of Nursing Scholarship",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Impact of cognitive-behavioral therapy and mindfulness-based stress reduction in mitigating test anxiety and enhancing academic achievement among vocational education students at Nigerian universities",
+      "url": "https://www.semanticscholar.org/paper/a2c70709d0dd05248eb1292cd7170eb62aa1f7aa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-19T00:00:00",
+      "date_fetched": "2026-04-29T13:20:09.307949",
+      "doi": "10.1186/s12909-025-07130-w",
+      "authors": [
+        {
+          "name": "C. Nwadi",
+          "author_id": "2129925818",
+          "affiliation": null
+        },
+        {
+          "name": "Nathaniel Ifeanyi Edeh",
+          "author_id": "114949877",
+          "affiliation": null
+        },
+        {
+          "name": "E. P. Ugwunwoti",
+          "author_id": "119636048",
+          "affiliation": null
+        },
+        {
+          "name": "F. O. Nwokike",
+          "author_id": "2217734237",
+          "affiliation": null
+        },
+        {
+          "name": "Onyinyechi Samuel Nneji",
+          "author_id": "2356391024",
+          "affiliation": null
+        },
+        {
+          "name": "R. Anamezie",
+          "author_id": "123166295",
+          "affiliation": null
+        },
+        {
+          "name": "Tracy Obehi Uguru",
+          "author_id": "2356391396",
+          "affiliation": null
+        },
+        {
+          "name": "Franklin Kelechi Onubueze",
+          "author_id": "2356391490",
+          "affiliation": null
+        },
+        {
+          "name": "P. Chukwu",
+          "author_id": "2262148736",
+          "affiliation": null
+        },
+        {
+          "name": "G. M. Eya",
+          "author_id": "101106164",
+          "affiliation": null
+        },
+        {
+          "name": "J. N. Ikpenwa",
+          "author_id": "2164943333",
+          "affiliation": null
+        },
+        {
+          "name": "Anthony Okorie Nsude",
+          "author_id": "2045059647",
+          "affiliation": null
+        },
+        {
+          "name": "Chibuike Gerald Ozoagu",
+          "author_id": "2336185011",
+          "affiliation": null
+        },
+        {
+          "name": "C. P. Aka",
+          "author_id": "2336185015",
+          "affiliation": null
+        },
+        {
+          "name": "Patience Nwobodo",
+          "author_id": "151172427",
+          "affiliation": null
+        },
+        {
+          "name": "Ijeoma Evelyn Animba",
+          "author_id": "2132832936",
+          "affiliation": null
+        },
+        {
+          "name": "Sussan N. Okoli",
+          "author_id": "2336184347",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The inclusion of behavioral therapy and stress reduction techniques among vocational students of the Nigerian universities is crucial for enhancing their practical skill acquisition and career prospects in challenging academic scenarios. This study explored the combined effects of cognitive-behavioral therapy and mindfulness-based stress reduction in reducing test anxiety among business education students in a measurement and evaluation course. Employing a randomized control trial with a pretest-posttest design, the research draws responses from 483 students from two universities in Southeast Nigeria. The participants were randomly assigned to either the treatment or waitlist control groups on the basis of set inclusion criteria. Data collection was conducted via four different instruments, and the treatment group participated in a Cognitive-Behavioral Therapy and Mindfulness-Based Stress Reduction (CBT-MBSR) program. Evaluations of both groups were conducted at three different stages: before the intervention, immediately after the intervention, and during the follow-up period. Analysis was carried out via repeated-measures ANOVA and multivariate analysis of covariance (MANCOVA). The results indicated that TVET students who underwent the CBT-MBSR intervention had significantly lower post-treatment test anxiety scores than those in the wait-list control group. The intervention also had a significant multivariate effect on reducing test anxiety, improved mindfulness, students\u2019 academic achievement, and their well-being (F value\u2009=\u20091168.52 (p\u2009=.001, \u03b7\u00b2 = 0.752). This study assessed the efficacy of CBT with MBSR in reducing test anxiety, improving academic performance, and increasing well-being among students in TVET settings. The study revealed how CBT helped reduce test anxiety, thereby improving students\u2019 academic performance through increasing their concentration. Thus, this study provides fresh knowledge on how to improve psychological well-being and educational performance by introducing a new method of combining MBSR and CBT, which enriches the literature with a dual-modality approach that helps students reduce their anxieties and fosters their personal growth. This study has practical implications for university administrators, educators, and researchers and offers several recommendations. Not applicable.",
+      "journal": "BMC Medical Education",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition",
+      "url": "https://www.semanticscholar.org/paper/c43cf6c6d2a3a9774d2f8a1b35a3fe851643f81f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-08T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566287",
+      "doi": "10.48550/arXiv.2509.06927",
+      "authors": [
+        {
+          "name": "H. T. Hofte",
+          "author_id": "66234364",
+          "affiliation": null
+        },
+        {
+          "name": "Nick van Ravenzwaaij",
+          "author_id": "2379663971",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We introduce NeedForHeat DataGear: an open hardware and open software data collection system designed to accelerate the residential heating transition. NeedForHeat DataGear collects time series monitoring data in homes that have not yet undergone a heating transition, enabling assessment of real-life thermal characteristics, heating system efficiency, and residents'comfort needs. This paper outlines its architecture and functionalities, emphasizing its modularity, adaptability, and cost-effectiveness for field data acquisition. Unlike conventional domestic monitoring solutions focused on home automation, direct feedback, or post-installation heat pump monitoring, it prioritizes time series data we deemed essential to evaluate the current situation in existing homes before the heating transition. Designed for seamless deployment across diverse households, NeedForHeat DataGear combines openness, security, and privacy with a low-cost, user-friendly approach, making it a valuable tool for researchers, energy professionals, and energy coaches.",
+      "journal": "arXiv.org",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Benchmarking of open access publication rates for the pharmaceutical industry and research-intensive academic institutions: development and demonstration of a live, open monitoring tool",
+      "url": "https://www.semanticscholar.org/paper/0ee240fa1530d974af659e842019cff6825bcb07",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-02T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566336",
+      "doi": "10.1101/2024.09.14.613042",
+      "authors": [
+        {
+          "name": "Tomas J Rees",
+          "author_id": "2284739840",
+          "affiliation": null
+        },
+        {
+          "name": "Val\u00e9rie Philippon",
+          "author_id": "2321531682",
+          "affiliation": null
+        },
+        {
+          "name": "Andrew Liew",
+          "author_id": "2306725548",
+          "affiliation": null
+        },
+        {
+          "name": "S. Bar\u00f3nikov\u00e1",
+          "author_id": "66937807",
+          "affiliation": null
+        },
+        {
+          "name": "William T. Gattrell",
+          "author_id": "4191655",
+          "affiliation": null
+        },
+        {
+          "name": "Jo Gordon",
+          "author_id": "2321803279",
+          "affiliation": null
+        },
+        {
+          "name": "Taija S Koskenkorva",
+          "author_id": "2321531722",
+          "affiliation": null
+        },
+        {
+          "name": "S. Mysore",
+          "author_id": "47800081",
+          "affiliation": null
+        },
+        {
+          "name": "Joana Os\u00f3rio",
+          "author_id": "2321532095",
+          "affiliation": null
+        },
+        {
+          "name": "T. Koder",
+          "author_id": "51095477",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background In biomedical and health sciences, many articles are published open access (OA). OA publication rates continue to grow, especially for pharmaceutical research. Previous analyses of pharmaceutical OA publication rates were labor-intensive and not easily automated. We aimed to create a free, live, online dashboard comparing OA publication rates between pharmaceutical companies and academic institutions. Methods Using the Lens \u2013 an online platform aggregating full-text content and metadata for over 280 million scholarly works \u2013 we built a dashboard showing OA publication rates for medical research articles by authors from the top 40 pharmaceutical companies (pharma) and 40 research-intensive academic institutions (academia). The dashboard details OA rates by model, license and therapy area across three time frames: 12\u201324 months; 0\u201312 months; 0\u201310 years. We downloaded data from the dashboard between 24 July and 4 August 2023 and performed further analysis. Results Of the articles published 12\u201324 months before data extraction, 76.6% by pharma and 69.5% by academia were OA. The most common OA models were gold (pharma, 37%; academia, 41%) and hybrid (pharma, 22%; academia, 11%). Oncology had lower rates of OA articles than other therapy areas. In the 10 years before data extraction, growth in the OA publication rate was generally more rapid for pharmaceutical companies than for academic institutions, regardless of field (change in overall % OA 2013\u20132023: pharma, 3.1; academia, 1.6). Conclusions This dashboard provides novel and regularly updated evidence on the comparative OA publication practices of pharmaceutical companies and academic institutions. In our snapshot analysis, the OA publication rate was higher for pharmaceutical companies than for academic institutions and continues to increase. Notable differences were observed in approaches, in terms of licenses and OA models, which may reflect different institutional practices and circumstances. We encourage others to use this open resource for new research and to report their results.",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Continuous glucose monitoring in the management of gestational diabetes in Switzerland (DipGluMo): an open-label, single-centre, randomised, controlled trial.",
+      "url": "https://www.semanticscholar.org/paper/dd5617d02619bff9cc85823099110b8bfb51d3a7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566348",
+      "doi": "10.1016/s2213-8587(25)00063-4",
+      "authors": [
+        {
+          "name": "Sofia Amylidi-Mohr",
+          "author_id": "1397314070",
+          "affiliation": null
+        },
+        {
+          "name": "G. Zennaro",
+          "author_id": "2363590966",
+          "affiliation": null
+        },
+        {
+          "name": "S. Schneider",
+          "author_id": "2067749358",
+          "affiliation": null
+        },
+        {
+          "name": "L. Raio",
+          "author_id": "2251791230",
+          "affiliation": null
+        },
+        {
+          "name": "B. Mosimann",
+          "author_id": "5366962",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel Surbek",
+          "author_id": "2242343954",
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND\nIn gestational diabetes, one of the key factors affecting perinatal outcomes is glycaemic control. We aimed to investigate the effect of real-time continuous glucose monitoring (rtCGM) on perinatal outcomes versus self-monitoring of blood glucose (SMBG).\n\n\nMETHODS\nIn this open-label, randomised, controlled trial, we recruited pregnant individuals aged 18-45 years with gestational diabetes, according to the International Association of Diabetes and Pregnancy Study Groups criteria, from a university hospital in Bern, Switzerland. Participants were randomly assigned (1:1) to the rtCGM intervention group or the SMBG control group. Randomisation was done centrally on the basis of pre-pregnancy BMI, previous gestational diabetes, family history of type 2 diabetes, and ethnicity. The primary endpoint was a composite of perinatal outcomes: large for gestational age, macrosomia, polyhydramnios, neonatal hypoglycaemia, and stillbirth. Key secondary outcomes were patient preference and maternal glycaemic control. Analyses were conducted on an intention-to-treat basis. This trial is registered with ClinicalTrials.gov, NCT05037526.\n\n\nFINDINGS\nBetween Sept 29, 2021, and June 11, 2024, 302 pregnant women with gestational diabetes were included in the study and randomly assigned to one of the groups. 156 participants were assigned to the rtCGM intervention group and 143 were assigned to the SMBG control group completed the study. Primary outcome data were available for 297 (99%) of 299 participants. The composite outcome did not differ significantly between the two groups (odds ratio 1\u00b702 [95% CI 0\u00b763-1\u00b766]). The only adverse events were skin changes, occurring in six (4%) participants in the rtCGM intervention group and in one (<1%) participant in the SMBG control group (blinded device).\n\n\nINTERPRETATION\nOur results show that the outcome in individuals with gestational diabetes is not improved by the use of rtCGM. However, individuals expressed a higher preference for the rtCGM device. This finding suggests that rtCGM could be offered to simplify the management of gestational diabetes. A cost-effectiveness study could address what method requires fewer resources. To our knowledge, this is the first randomised trial powered to evaluate the efficacy of rtCGM regarding pregnancy outcomes.\n\n\nFUNDING\nThe University of Bern and the Swiss Diabetes Foundation.\n\n\nTRANSLATION\nFor the German translation of the abstract see Supplementary Materials section.",
+      "journal": "The Lancet Diabetes and Endocrinology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Slope Stability Monitoring Methods and Technologies for Open-Pit Mining: A Systematic Review",
+      "url": "https://www.semanticscholar.org/paper/19049fc92eb2e250b3989e231d09664cf7ef59e2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-17T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566360",
+      "doi": "10.3390/mining5020032",
+      "authors": [
+        {
+          "name": "Rohan Le Roux",
+          "author_id": "2362499361",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sepehri",
+          "author_id": "2065931366",
+          "affiliation": null
+        },
+        {
+          "name": "Siavash Khaksar",
+          "author_id": "2133390396",
+          "affiliation": null
+        },
+        {
+          "name": "Iain Murray",
+          "author_id": "2275749162",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Slope failures in open-pit mining pose significant operational and safety issues, underscoring the importance of implementing effective stability monitoring frameworks for early hazard detection to allow for timely intervention and risk mitigation. This systematic review presents a comprehensive synthesis of existing and emerging methods and technologies used for slope stability monitoring in open-pit mining, including both remote sensing and in situ methods, as well as advanced technologies, such as Artificial Intelligence (AI), the Internet of Things (IoT), and Wireless Sensor Networks (WSNs). Using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) 2020 guidelines, a total of 49 studies were selected from a collection of four engineering databases, and a comparative analysis was conducted to determine the underlying differences between the various methods for open-pit slope stability monitoring in terms of their performance across key attributes, such as monitoring accuracy, spatial and temporal coverage, operational complexity, and economic viability. Their juxtaposition highlighted the notion that no universally optimal slope stability monitoring system exists, due to a series of compromises that arise as a result of inherent technological limitations and site-specific constraints. Notably, remote sensing methods offer large-scale, non-intrusive monitoring, but are often limited by environmental factors and data acquisition infrequency, whereas in situ methods provide high precision, but suffer from limited spatial coverage and scalability. This review further highlights the capacity of emerging methods and technologies to address these limitations, providing suggestions for future research directions involving the integration of multiple sensing technologies for the enhancement of monitoring capabilities. This study provides a consolidated knowledge base on open-pit slope stability monitoring methods, technologies, and techniques, to guide the development of integrated, cost-effective, and scalable slope monitoring solutions that enhance mine safety and efficiency.",
+      "journal": "Mining",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Monitoring of ecological environment changes in open-pit mines on the Loess Plateau from 1990 to 2023 based on RSEI",
+      "url": "https://www.semanticscholar.org/paper/9695d866d7dae20b2dc9704452d23ac3d7a341fe",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566372",
+      "doi": "10.1016/j.ecolind.2024.113064",
+      "authors": [
+        {
+          "name": "Xingbang Wang",
+          "author_id": "2339421945",
+          "affiliation": null
+        },
+        {
+          "name": "Yanyun Nian",
+          "author_id": "2244462431",
+          "affiliation": null
+        },
+        {
+          "name": "Haiyuan Wang",
+          "author_id": "2339489504",
+          "affiliation": null
+        },
+        {
+          "name": "Jie Chen",
+          "author_id": "2339420509",
+          "affiliation": null
+        },
+        {
+          "name": "Ke-xin Li",
+          "author_id": "2408722273",
+          "affiliation": null
+        },
+        {
+          "name": "Tianming Hu",
+          "author_id": "2339434060",
+          "affiliation": null
+        },
+        {
+          "name": "Zhiming Li",
+          "author_id": "2116785567",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Ecological Indicators",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "A Review of Open Remote Sensing Data with GIS, AI, and UAV Support for Shoreline Detection and Coastal Erosion Monitoring",
+      "url": "https://www.semanticscholar.org/paper/e055d3177a6cce0e2564478c39aa1c63a741989e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-25T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566385",
+      "doi": "10.3390/app15094771",
+      "authors": [
+        {
+          "name": "Demetris Christofi",
+          "author_id": "108274275",
+          "affiliation": null
+        },
+        {
+          "name": "C. Mettas",
+          "author_id": "51900676",
+          "affiliation": null
+        },
+        {
+          "name": "E. Evagorou",
+          "author_id": "51891980",
+          "affiliation": null
+        },
+        {
+          "name": "Neophytos Stylianou",
+          "author_id": "5714036",
+          "affiliation": null
+        },
+        {
+          "name": "Marinos Eliades",
+          "author_id": "2310974561",
+          "affiliation": null
+        },
+        {
+          "name": "C. Theocharidis",
+          "author_id": "2007295371",
+          "affiliation": null
+        },
+        {
+          "name": "Antonis E. Chatzipavlis",
+          "author_id": "117592827",
+          "affiliation": null
+        },
+        {
+          "name": "T. Hasiotis",
+          "author_id": "2481344",
+          "affiliation": null
+        },
+        {
+          "name": "D. Hadjimitsis",
+          "author_id": "2010726",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This review discusses the evolution and integration of open-access remote sensing technology in shoreline detection and coastal erosion monitoring through the use of Geographic Information Systems (GIS), Artificial Intelligence (AI), Unmanned Aerial Vehicles (UAVs), and Ground Truth Data (GTD). The Sentinel-2 and Landsat 8/9 missions are highlighted as the primary core datasets due to their open-access policy, worldwide coverage, and demonstrated applicability in long-term coastal monitoring. Landsat data have allowed the detection of multi-decadal trends in erosion since 1972, and Sentinel-2 has provided enhanced spatial and temporal resolutions since 2015. Through integration with GIS programs such as the Digital Shoreline Analysis System (DSAS), AI-based processes such as sophisticated models including WaterNet, U-Net, and Convolutional Neural Networks (CNNs) are highly accurate in shoreline segmentation. UAVs supply complementary high-resolution data for localized validation, and ground truthing based on GNSS increases the precision of the produced map results. The fusion of UAV imagery, satellite data, and machine learning aids a multi-resolution approach to real-time shoreline monitoring and early warnings. Despite the developments seen with these tools, issues relating to atmosphere such as cloud cover, data fusion, and model generalizability in different coastal environments continue to require resolutions to be addressed by future studies in terms of enhanced sensors and adaptive learning approaches with the rise of AI technology the recent years.",
+      "journal": "Applied Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "WildWing: An open\u2010source, autonomous and affordable UAS for animal behaviour video monitoring",
+      "url": "https://www.semanticscholar.org/paper/1eb734eaee6215b8343d585bcb03752f89d769b3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-10T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566397",
+      "doi": "10.1111/2041-210x.70018",
+      "authors": [
+        {
+          "name": "Jenna Kline",
+          "author_id": "2271703140",
+          "affiliation": null
+        },
+        {
+          "name": "Alison Zhong",
+          "author_id": "2349846875",
+          "affiliation": null
+        },
+        {
+          "name": "Kevyn Irizarry",
+          "author_id": "2191728763",
+          "affiliation": null
+        },
+        {
+          "name": "Charles V. Stewart",
+          "author_id": "2273953949",
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Stewart",
+          "author_id": "2333452044",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel I. Rubenstein",
+          "author_id": "2276551307",
+          "affiliation": null
+        },
+        {
+          "name": "Tanya Berger\u2010Wolf",
+          "author_id": "2150810005",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Drones have become invaluable tools for studying animal behaviour in the wild, enabling researchers to collect aerial video data of group\u2010living animals. However, manually piloting drones to track animal groups consistently is challenging due to complex factors such as terrain, vegetation, group spread and movement patterns. The variability in manual piloting can result in unusable data for downstream behavioural analysis, making it difficult to collect standardized datasets for studying collective animal behaviour. To address these challenges, we present WildWing, a complete hardware and software open\u2010source unmanned aerial system (UAS) for autonomously collecting behavioural video data of group\u2010living animals. The system's main goal is to automate and standardize the collection of high\u2010quality aerial footage suitable for computer vision\u2010based behaviour analysis. We provide a novel navigation policy to autonomously track animal groups while maintaining optimal camera angles and distances for behavioural analysis, reducing the inconsistencies inherent in manual piloting. The complete WildWing system costs only $650 and incorporates drone hardware with custom software that integrates ecological knowledge into autonomous navigation decisions. The system produces 4\u2009K resolution video at 30 fps while automatically maintaining appropriate distances and angles for behaviour analysis. We validate the system through field deployments tracking groups of Grevy's zebras, giraffes and Przewalski's horses at The Wilds conservation centre, demonstrating its ability to collect usable behavioural data consistently. By automating the data collection process, WildWing helps ensure consistent, high\u2010quality video data suitable for computer vision analysis of animal behaviour. This standardization is crucial for developing robust automated behaviour recognition systems to help researchers study and monitor wildlife populations at scale. The open\u2010source nature of WildWing makes autonomous behavioural data collection more accessible to researchers, enabling wider application of drone\u2010based behavioural monitoring in conservation and ecological research.",
+      "journal": "Methods in Ecology and Evolution",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open-Source Photosynthetically Active Radiation Sensor for Enhanced Agricultural and Agrivoltaics Monitoring",
+      "url": "https://www.semanticscholar.org/paper/6bf808560d6d06539a2d533f76f4b8520ce0a336",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-30T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566407",
+      "doi": "10.3390/electronics14112225",
+      "authors": [
+        {
+          "name": "Md Motakabbir Rahman",
+          "author_id": "2289622194",
+          "affiliation": null
+        },
+        {
+          "name": "U. Jamil",
+          "author_id": "2198023083",
+          "affiliation": null
+        },
+        {
+          "name": "J. Pearce",
+          "author_id": "2244407265",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Photosynthetically active radiation (PAR) is crucial for plant growth, influencing photosynthesis efficiency and crop yield. The increasing adoption of controlled-environment agriculture (CEA) necessitates precise PAR monitoring. The high cost of commercial PAR sensors, however, limits their accessibility and widespread use, creating a growing need for a low-cost alternative capable of reliable deployment in diverse agricultural environments. Building on recent advancements in PAR sensing using multi-channel spectral sensors such as the AS7341 and AS7265, this study develops the electronics for an AS7341-based, open-source, cost-effective (~USD 50) PAR sensor validated across a broad PPFD range and conditions, ensuring reliability and ease of replication. It uses a relatively simple multi-linear regression that offers real-time applications without energy intensive machine learning. The developed sensor is calibrated against the industry-standard Apogee SQ-500SS PAR sensor in four distinct farming environments: (i) horizontal grow lights, (ii) vertical agrotunnel lighting, (iii) agrivoltaics, and (iv) in greenhouses. A mean error ranging from 1 to 5% indicates its suitability for controlled environment farming and continuous data logging. The open-source hardware design and systematic installation guidelines enable users to replicate, calibrate, and integrate the sensor with minimal background in electronics and optics.",
+      "journal": "Electronics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Monitoring and evaluation of ecological restoration in open-pit coal mine using remote sensing data based on a OM-RSEI model",
+      "url": "https://www.semanticscholar.org/paper/cbec82d3cd0ad86983a6c19ef5d1d550dbb1c93b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-29T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566418",
+      "doi": "10.1080/17480930.2025.2458012",
+      "authors": [
+        {
+          "name": "Shiwei Wang",
+          "author_id": "123673903",
+          "affiliation": null
+        },
+        {
+          "name": "Chao Ma",
+          "author_id": "2267269998",
+          "affiliation": null
+        },
+        {
+          "name": "Yingying Ma",
+          "author_id": "2343296386",
+          "affiliation": null
+        },
+        {
+          "name": "Tingting Li",
+          "author_id": "2267285440",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Open-pit coal mining poses a severe threat to regional ecological security. Rapid and accurate monitoring of ecological quality changes is crucial for regional ecological restoration. In this study, taking the Wujiata open-pit coal mine as an example, the Red-Edge Normalized Difference Vegetation Index (RENDVI), Salinity Index (SI-T), WETness index (WET), Normalized Differential Built Soil Index (NDBSI), Land Surface Temperature (LST), and Desertification Index (DI) were used to construct the Open-pit Mine Remote Sensing Ecological Index (OM-RSEI) through Principal Component Analysis (PCA). The ecological quality and restoration conditions of typical mining areas in arid and semi-arid regions were monitored and evaluated. The results shown that: (1) The contribution rates and eigenvalues of OM-RSEI were higher than those of conventional RSEI, OM-RSEI was more applicable in open-pit mining areas. (2) From 2018 to 2023, the OM-RSEI of the Wujiata open-pit coal mine showed a \u2018V\u2019 shaped fluctuation that was damaged and then gradually recovered. (3) The degraded area of Wujiata open-pit coal mine and its 5\u2009km buffer zone accounted for 78.02%, and the improved area accounted for 19.16%. (4) The average Moran\u2019s I index of OM-RSEI in the study area was 0.8189, and the high\u2013high clustering corresponded to the \u2018good\u2019 and \u2018excellent\u2019 distributions, while the low\u2013low clustering corresponded to the \u2018poor\u2019 and \u2018less-poor\u2019 distributions. The OM-RSEI provided a new indicator for monitoring and evaluation of ecological restoration in open-pit coal mines, which can provide theoretical support for ecological restoration in open-pit coal mining areas.",
+      "journal": "International Journal of Mining, Reclamation and Environment",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Efficacy and safety of continuous glucose monitoring on glycaemic control in patients with chronic pancreatitis and insulin\u2010treated diabetes: A randomised, open\u2010label, crossover trial",
+      "url": "https://www.semanticscholar.org/paper/b8f76a4374691dad7465bfdab16035e03acf59fa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-18T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566453",
+      "doi": "10.1111/dom.16356",
+      "authors": [
+        {
+          "name": "Line Davidsen",
+          "author_id": "2237314043",
+          "affiliation": null
+        },
+        {
+          "name": "S. Cichosz",
+          "author_id": "2474614",
+          "affiliation": null
+        },
+        {
+          "name": "P. B. St\u00e6hr",
+          "author_id": "4877351",
+          "affiliation": null
+        },
+        {
+          "name": "P. Vestergaard",
+          "author_id": "2061546654",
+          "affiliation": null
+        },
+        {
+          "name": "A. Drewes",
+          "author_id": "2250848418",
+          "affiliation": null
+        },
+        {
+          "name": "Filip K Knop",
+          "author_id": "2297476105",
+          "affiliation": null
+        },
+        {
+          "name": "M. H. Jensen",
+          "author_id": "2257974244",
+          "affiliation": null
+        },
+        {
+          "name": "S. S. Olesen",
+          "author_id": "2289681140",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Continuous glucose monitoring (CGM) improves glycaemic control and reduces hypoglycaemia in type 1 and 2 diabetes, but its role in managing diabetes in chronic pancreatitis is unknown. We aimed to investigate the effect of CGM compared to self\u2010monitoring of blood glucose (SMBG) on hypoglycaemia and glycaemic control in patients with chronic pancreatitis and insulin\u2010treated diabetes.",
+      "journal": "Diabetes, obesity and metabolism",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Marine biodiversity and environmental data: an AI-ready, open dataset from the long term (1995\u20132023) Basque Country monitoring network",
+      "url": "https://www.semanticscholar.org/paper/989126c130c797ef7cb97dbdb78b086bbef39905",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566551",
+      "doi": "10.3389/focsu.2024.1528837",
+      "authors": [
+        {
+          "name": "\u00c1ngel Borja",
+          "author_id": "2257065285",
+          "affiliation": null
+        },
+        {
+          "name": "Idoia Adarraga",
+          "author_id": "2348397032",
+          "affiliation": null
+        },
+        {
+          "name": "J. Bald",
+          "author_id": "40107732",
+          "affiliation": null
+        },
+        {
+          "name": "M. J. Belzunce-Segarra",
+          "author_id": "1403016963",
+          "affiliation": null
+        },
+        {
+          "name": "Igor Cruz",
+          "author_id": "2178892417",
+          "affiliation": null
+        },
+        {
+          "name": "Javier Franco",
+          "author_id": "2302620880",
+          "affiliation": null
+        },
+        {
+          "name": "J. Garmendia",
+          "author_id": "39863223",
+          "affiliation": null
+        },
+        {
+          "name": "J. Larreta",
+          "author_id": "48989541",
+          "affiliation": null
+        },
+        {
+          "name": "Aitor Laza\u2010Martinez",
+          "author_id": "1399041230",
+          "affiliation": null
+        },
+        {
+          "name": "Alberto Manzanos",
+          "author_id": "87756182",
+          "affiliation": null
+        },
+        {
+          "name": "Mikel Aitor Marquiegui",
+          "author_id": "2348390380",
+          "affiliation": null
+        },
+        {
+          "name": "I. Martin",
+          "author_id": "2297209822",
+          "affiliation": null
+        },
+        {
+          "name": "Juli\u00e1n Mart\u00ednez",
+          "author_id": "2158334588",
+          "affiliation": null
+        },
+        {
+          "name": "I. Menchaca",
+          "author_id": "2236184",
+          "affiliation": null
+        },
+        {
+          "name": "Sarai Pouso",
+          "author_id": "35329023",
+          "affiliation": null
+        },
+        {
+          "name": "Marta Revilla",
+          "author_id": "2273278657",
+          "affiliation": null
+        },
+        {
+          "name": "J. G. Rodr\u00edguez",
+          "author_id": "2218776469",
+          "affiliation": null
+        },
+        {
+          "name": "Jos\u00e9 Mar\u00eda Ruiz Ruiz",
+          "author_id": "2109130023",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Sagarminaga",
+          "author_id": "10774635",
+          "affiliation": null
+        },
+        {
+          "name": "O. Solaun",
+          "author_id": "5291167",
+          "affiliation": null
+        },
+        {
+          "name": "A. Uriarte",
+          "author_id": "2145675",
+          "affiliation": null
+        },
+        {
+          "name": "I. Zorita",
+          "author_id": "11805930",
+          "affiliation": null
+        },
+        {
+          "name": "I. Muxika",
+          "author_id": "3613380",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This dataset provides 28 years of environmental monitoring data (1995\u20132023) from 51 stations in the estuaries and coastal areas of the Basque Country in the Bay of Biscay. Covering 130 variables across water, sediments, and biota, it includes detailed records of phytoplankton, macroalgae, macroinvertebrates, and fish. Compiled in collaboration with the Basque Water Agency (URA), the dataset supports analysis of environmental responses to human pressures and management interventions, identifying patterns of environmental quality improvement within a context of natural variability. Provided in a FAIR2 Data Package, the dataset is structured to ensure Findability, Accessibility, Interoperability, Reusability, and Artificial Intelligence-readiness, facilitated by structured metadata and Application Programming Interface access. This resource is intended for researchers and policymakers examining anthropogenic and natural influences on aquatic ecosystems, contributing to sustainable management, conservation practices, and alignment with European directives, including the Water Framework Directive.",
+      "journal": "Frontiers in Ocean Sustainability",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Contrastive and self-supervised learning for open-set damage classification in structural health monitoring with incomplete and imbalanced vibration data",
+      "url": "https://www.semanticscholar.org/paper/692af00e201d53bdcda903c347e7f887d6938e07",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-04-29T13:20:22.566570",
+      "doi": "10.1016/j.eswa.2025.128731",
+      "authors": [
+        {
+          "name": "Sheng Shi",
+          "author_id": "2113258991",
+          "affiliation": null
+        },
+        {
+          "name": "Dongsheng Du",
+          "author_id": "2368917227",
+          "affiliation": null
+        },
+        {
+          "name": "Oya Mercan",
+          "author_id": "2280636306",
+          "affiliation": null
+        },
+        {
+          "name": "Erol Kalkan",
+          "author_id": "2179049167",
+          "affiliation": null
+        },
+        {
+          "name": "J. Parol",
+          "author_id": "93857589",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Expert systems with applications",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "A soft sensor open-source methodology for inexpensive monitoring of water quality: A case study of NO3- concentrations",
+      "url": "https://www.semanticscholar.org/paper/319a9b47159ac198a98d2a6d523729485a5b56bf",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566582",
+      "doi": "10.1016/j.jocs.2024.102522",
+      "authors": [
+        {
+          "name": "Antonio Jes\u00fas Chaves",
+          "author_id": "2211821188",
+          "affiliation": null
+        },
+        {
+          "name": "Cristian Mart\u00edn",
+          "author_id": "2108627709",
+          "affiliation": null
+        },
+        {
+          "name": "Luis Llopis Torres",
+          "author_id": "2338847838",
+          "affiliation": null
+        },
+        {
+          "name": "Manuel D\u00edaz",
+          "author_id": "2114760325",
+          "affiliation": null
+        },
+        {
+          "name": "Jaime Fern\u00e1ndez-Ortega",
+          "author_id": "2047190452",
+          "affiliation": null
+        },
+        {
+          "name": "J. Barber\u00e1",
+          "author_id": "104710315",
+          "affiliation": null
+        },
+        {
+          "name": "B. Andreo",
+          "author_id": "47921412",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of Computer Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring",
+      "url": "https://www.semanticscholar.org/paper/2f68b787461eb35e691402cc9c2250ce5ff4ef1b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566607",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Yuyang Chen",
+          "author_id": "2333248555",
+          "affiliation": null
+        },
+        {
+          "name": "Nico Lang",
+          "author_id": "2324791329",
+          "affiliation": null
+        },
+        {
+          "name": "B. Schmidt",
+          "author_id": "2242409249",
+          "affiliation": null
+        },
+        {
+          "name": "Aditya Jain",
+          "author_id": "2307990814",
+          "affiliation": null
+        },
+        {
+          "name": "Yves Basset",
+          "author_id": "2295538642",
+          "affiliation": null
+        },
+        {
+          "name": "Sara Beery",
+          "author_id": "2134791809",
+          "affiliation": null
+        },
+        {
+          "name": "Maxim Larriv'ee",
+          "author_id": "2307079897",
+          "affiliation": null
+        },
+        {
+          "name": "David Rolnick",
+          "author_id": "2346588800",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Global biodiversity is declining at an unprecedented rate, yet little information is known about most species and how their populations are changing. Indeed, some 90% of Earth's species are estimated to be completely unknown. Machine learning has recently emerged as a promising tool to facilitate long-term, large-scale biodiversity monitoring, including algorithms for fine-grained classification of species from images. However, such algorithms typically are not designed to detect examples from categories unseen during training -- the problem of open-set recognition (OSR) -- limiting their applicability for highly diverse, poorly studied taxa such as insects. To address this gap, we introduce Open-Insect, a large-scale, fine-grained dataset to evaluate unknown species detection across different geographic regions with varying difficulty. We benchmark 38 OSR algorithms across three categories: post-hoc, training-time regularization, and training with auxiliary data, finding that simple post-hoc approaches remain a strong baseline. We also demonstrate how to leverage auxiliary data to improve species discovery in regions with limited data. Our results provide insights to guide the development of computer vision methods for biodiversity monitoring and species discovery.",
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+      "url": "https://www.semanticscholar.org/paper/16db56b5a57f2e675e5c4f60ca0fbd5764915a5e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-24T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566636",
+      "doi": "10.48550/arXiv.2503.18892",
+      "authors": [
+        {
+          "name": "Weihao Zeng",
+          "author_id": "2069640466",
+          "affiliation": null
+        },
+        {
+          "name": "Yuzhen Huang",
+          "author_id": "2296738020",
+          "affiliation": null
+        },
+        {
+          "name": "Qian Liu",
+          "author_id": "2348876943",
+          "affiliation": null
+        },
+        {
+          "name": "Wei Liu",
+          "author_id": "2157222998",
+          "affiliation": null
+        },
+        {
+          "name": "Keqing He",
+          "author_id": "2356799817",
+          "affiliation": null
+        },
+        {
+          "name": "Zejun Ma",
+          "author_id": "2356479376",
+          "affiliation": null
+        },
+        {
+          "name": "Junxian He",
+          "author_id": "2296750719",
+          "affiliation": null
+        }
+      ],
+      "abstract": "DeepSeek-R1 has shown that long chain-of-thought (CoT) reasoning can naturally emerge through a simple reinforcement learning (RL) framework with rule-based rewards, where the training may directly start from the base models-a paradigm referred to as zero RL training. Most recent efforts to reproduce zero RL training have primarily focused on the Qwen2.5 model series, which may not be representative as we find the base models already exhibit strong instruction-following and self-reflection abilities. In this work, we investigate zero RL training across 10 diverse base models, spanning different families and sizes including LLama3-8B, Mistral-7B/24B, DeepSeek-Math-7B, Qwen2.5-math-7B, and all Qwen2.5 models from 0.5B to 32B. Leveraging several key design strategies-such as adjusting format reward and controlling query difficulty-we achieve substantial improvements in both reasoning accuracy and response length across most settings. However, by carefully monitoring the training dynamics, we observe that different base models exhibit distinct patterns during training. For instance, the increased response length does not always correlate with the emergence of certain cognitive behaviors such as verification (i.e., the\"aha moment\"). Notably, we observe the\"aha moment\"for the first time in small models not from the Qwen family. We share the key designs that enable successful zero RL training, along with our findings and practices. To facilitate further research, we open-source the code, models, and analysis tools.",
+      "journal": "arXiv.org",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Remote Real-Time Monitoring and Control of Small Wind Turbines Using Open-Source Hardware and Software",
+      "url": "https://www.semanticscholar.org/paper/54c629f486f8d33de361ffc918958ee8bab6248f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-18T00:00:00",
+      "date_fetched": "2026-04-29T13:20:22.566646",
+      "doi": "10.3390/app15126887",
+      "authors": [
+        {
+          "name": "Jes\u00fas Clavijo-Camacho",
+          "author_id": "2190886863",
+          "affiliation": null
+        },
+        {
+          "name": "Gabriel G\u00f3mez-Ruiz",
+          "author_id": "2137261602",
+          "affiliation": null
+        },
+        {
+          "name": "Reyes S\u00e1nchez-Herrera",
+          "author_id": "1410235561",
+          "affiliation": null
+        },
+        {
+          "name": "N. Magro",
+          "author_id": "2221376850",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper presents a real-time remote-control platform for small wind turbines (SWTs) equipped with a permanent magnet synchronous generator (PMSG). The proposed system integrates a DC\u2013DC boost converter controlled by an Arduino\u00ae microcontroller, a Raspberry Pi\u00ae hosting a WebSocket server, and a desktop application developed using MATLAB\u00ae App Designer (version R2024b). The platform enables seamless remote monitoring and control by allowing upper layers to select the turbine\u2019s operating mode\u2014either Maximum Power Point Tracking (MPPT) or Power Curtailment\u2014based on real-time wind speed data transmitted via the WebSocket protocol. The communication architecture follows the IEC 61400-25 standard for wind power system communication, ensuring reliable and standardized data exchange. Experimental results demonstrate high accuracy in controlling the turbine\u2019s operating points. The platform offers a user-friendly interface for real-time decision-making while ensuring robust and efficient system performance. This study highlights the potential of combining open-source hardware and software technologies to optimize SWT operations and improve their integration into distributed renewable energy systems. The proposed solution addresses the growing demand for cost-effective, flexible, and remote-control technologies in small-scale renewable energy applications.",
+      "journal": "Applied Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Designing an Autonomous Robot for Monitoring Open-Mouth Behavior of Chickens in Commercial Chicken Farms",
+      "url": "https://www.semanticscholar.org/paper/3b8b56647103193fa07f8975a367cc51a575e320",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-04-29T13:20:22.566653",
+      "doi": "10.13031/ja.16056",
+      "authors": [
+        {
+          "name": "Y. Yeh",
+          "author_id": "2162768774",
+          "affiliation": null
+        },
+        {
+          "name": "Bo-Lin Chen",
+          "author_id": "2152693380",
+          "affiliation": null
+        },
+        {
+          "name": "Kae-Yang Hsieh",
+          "author_id": "2341975971",
+          "affiliation": null
+        },
+        {
+          "name": "Mao-Hsiang Huang",
+          "author_id": "1391890862",
+          "affiliation": null
+        },
+        {
+          "name": "Yan-Fu Kuo",
+          "author_id": "2379381003",
+          "affiliation": null
+        }
+      ],
+      "abstract": "HighlightsA mobile robot was designed to autonomously cruise in typical commercial chicken farms in Taiwan.The localization of the robot reached a mean absolute error of 0.17 m.The mobile robot automatically monitored the open-mouth behavior of chickens.A trained YOLO v7 model achieved an AP of 86.1% in the detection of chickens with open-mouth behavior.The analysis indicates that the open-mouth behavior ratio was correlated to ambient temperature.Abstract. In the conventional management of commercial floor-rearing chicken farms, farmers regularly patrol to observe chicken status and to check the environment. For countries with a subtropical climate (e.g., Taiwan), heat stress (HS) is a common environmental stressor for chickens due to high temperature and humidity. Open-mouth behavior (OMB) of chickens is an indicator of HS and is closely monitored in patrols. Manual patrols are laborious and time-consuming. Moreover, frequent patrols may increase the risk of pathogen spread while entering and exiting chicken farms. Therefore, this study developed a mobile robot to autonomously patrol in chicken farms and to automatically monitor OMB of chickens. Considering the commercial chicken farms in Taiwan usually have narrow aisles between feed buckets, a compact robot was designed. An ultra-wideband (UWB) module was utilized to localize the mobile robot. The mobile robot performed navigation and obstacle avoidance using a depth camera and the navigation stack of the Robot Operating System (ROS). For monitoring OMB of chickens, an image acquisition component was developed to acquire chicken images. A YOLO v7 model was trained to detect the chickens with OMB in the collected images. Subsequently, OMB ratios, defined as the ratios of chickens with OMB, were calculated to quantify this behavior. Experimental results showed that the mean absolute error of the UWB was 0.17 m in robot localization, complying with the requirements for navigating the robot in the narrow aisles of chicken farms. The trained YOLO v7 model achieved an average precision of 86.1%. Experimental results indicated that the mean OMB ratios between summer and winter were significantly different. In addition, the OMB ratio and temperature in summer were found to be moderately and positively correlated, indicating that OMB ratio was an effective indicator to represent chicken behaviors under different temperatures. The developed mobile robot provides a solution to automate the regular patrols performed by chicken farmers. Keywords: Deep learning, Depth image, Heat stress, Indoor positioning, Ultra-wideband (UWB), Unmanned vehicle.",
+      "journal": "Journal of the ASABE",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Surface Deformation Monitoring and Prediction of Longtantian Open-Pit Mine Based on SBAS-InSAR and CNN-BiLSTM Techniques",
+      "url": "https://www.semanticscholar.org/paper/e4b290a7b3343afff3637bd0a3134c3a73c969df",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-04-29T13:20:22.566660",
+      "doi": "10.1109/JSTARS.2025.3587241",
+      "authors": [
+        {
+          "name": "Xiaoxiao Zhang",
+          "author_id": "2351316125",
+          "affiliation": null
+        },
+        {
+          "name": "Qi Chen",
+          "author_id": "2291314393",
+          "affiliation": null
+        },
+        {
+          "name": "Mengshi Yang",
+          "author_id": "2305476960",
+          "affiliation": null
+        },
+        {
+          "name": "Zhifang Zhao",
+          "author_id": "2263678073",
+          "affiliation": null
+        },
+        {
+          "name": "Yu Zheng",
+          "author_id": "2331196986",
+          "affiliation": null
+        },
+        {
+          "name": "Qixue Dai",
+          "author_id": "2372185585",
+          "affiliation": null
+        },
+        {
+          "name": "Yang He",
+          "author_id": "2351826185",
+          "affiliation": null
+        },
+        {
+          "name": "Dayu Cai",
+          "author_id": "2351254742",
+          "affiliation": null
+        },
+        {
+          "name": "Ting Xu",
+          "author_id": "2365370242",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The Longtantian coal mine is a nationally significant large-scale coal mine in China and is listed as one of the Yunnan Province\u2019s coal mines for supply assurance and capacity increase, but extensive mining has caused significant surface deformation, posing safety hazards. High-precision monitoring and prediction of surface deformation are essential. This study used the small baseline subset interferometric synthetic aperture radar technique to extract surface deformation time-series data from Sentinel-1A images between 4 January 2020 and 19 January 2024. Considering the spatiotemporal heterogeneity, dynamic time warping based K-means clustering analysis was applied to divide the area into subspaces with similar deformation trends. A convolutional neural network optimized bidirectional long short-term memory (CNN-BiLSTM) prediction model was constructed using lithological properties (described by internal friction angle and cohesion), fault distance, rainfall, and deformation data. Results showed an annual deformation rate of \u201386.96\u201350.42 mm/year. The F2, F3, and F4 faults, the third section of the Longtan Formation (P2l3) and the Quaternary (Q) lithological units, rainfall and historical deformation have all had an impact on the surface deformation of the mining area. The experimental results show that the CNN-BiLSTM architecture has significantly improved prediction accuracy compared to the basic LSTM model. The prediction error distribution of the original LSTM model is in the range of [\u2013196.55, 106.91] mm, while the improved CNN-BiLSTM model reduces the error range to the range of [\u201358.22, 74.33] mm, with extreme error values reduced by 70.40% and 30.47%, respectively. Therefore, the research results can provide scientific data support for disaster prevention and reduction of Longtantian Coal mine, and provide reference for monitoring and forecasting of other mining areas.",
+      "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Symptom reduction in advanced cancer from multi-session mindful breathing: randomised controlled study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39965903/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-28T00:00:00",
+      "date_fetched": "2026-04-29T13:20:46.862569",
+      "doi": "10.1136/spcare-2024-005086",
+      "authors": [
+        {
+          "name": "Yu Zhen Tung",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kathryn Noon",
+          "name": "Diana Leh Ching Ng",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shuangshuang Yang",
+          "name": "Natalie Zi Lai",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Renee Menart",
+          "name": "Chui Munn Ang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fatoma Momoh",
+          "name": "Poh Khuen Lim",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Abdulai Jawo Bah",
+          "name": "Sheriza Izwa Zainuddin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Matias Placencio-Castro",
+          "name": "Chee Loong Lam",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Theresa S Betancourt",
+          "name": "Ee Chin Loh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chee Shee Chai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Seng Beng Tan",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Strategies to expand access to care and sustain evidence-based mental health interventions (EBIs) must be tested within novel delivery platforms to extend the reach of services in fragile and conflict-affected settings. Integration into broader development programs may help maintain long-term effects. This study presents a four-year follow-up of a previously conducted Hybrid Type II implementation-effectiveness cluster-randomized trial (CRT) of the Youth Readiness Intervention (YRI)-an EBI drawing on cognitive-behavioral, interpersonal, and mindfulness-based approaches-delivered within a youth entrepreneurship program in Sierra Leone (2018-2019). METHODS: Long-term mental health outcomes (emotion regulation, psychological distress, and interpersonal functioning) were examined among a randomly selected subgroup of 584 participants across three study arms: a control group, a group that only received entrepreneurship training ('ENTR'), and a group that received both YRI and ENTR ('YRI\u2009+\u2009ENTR'). Linear mixed-effect models accounted for the nested structure of the data. Impact of the COVID-19 pandemic was also assessed through economic and relationship stressors using structural equation modeling. RESULTS: Four years postintervention, YRI\u2009+\u2009ENTR-youth maintained improvements in depression (\u03b2\u2009=\u2009-.057; 95% CI -0.09 to -0.02; [effect size] d\u2009=\u2009-.111) and combined depression/anxiety symptoms (\u03b2\u2009=\u2009-.047; 95% CI -0.08 to -0.01; [effect size] d\u2009=\u2009-.096) though no sustained effects were observed for daily functioning or emotion regulation. No differences were found for ENTR-only participants versus controls and YRI\u2009+\u2009ENTR. COVID-19-related economic stressors mediated the relationship between study arm and mental health, revealing small but significant effects. CONCLUSIONS: In low-income settings like Sierra Leone, where formal mental health services are scarce, sustainable community-based interventions such as the combined YRI\u2009+\u2009ENTR intervention offer a critical approach to reducing psychological distress. Sustained long-term benefits suggest that participants developed coping strategies that supported resilience during challenges like the COVID-19 pandemic. These gains may also foster broader community resilience, enhancing both individual well-being and collective capacity to withstand future adversity.",
-      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "abstract": "OBJECTIVES: While single-session mindful breathing shows symptom reduction in palliative care, data on multi-session efficacy is lacking. This study aimed to determine the effectiveness of multi-session mindful breathing in reducing symptoms among patients with advanced cancer. METHODS: Adult patients with advanced cancer who scored \u22654 in at least two or more symptoms based on the Edmonton Symptom Assessment Scale (ESAS) were recruited from January to March 2020 at the University of Malaya Medical Centre, Malaysia. Participants were randomly assigned to receive either four daily sessions of 30\u2009min mindful breathing and standard care (intervention) or standard care alone (control). The outcome measured was the change in the ESAS score after each session. RESULTS: 80 patients were recruited and randomised equally into the intervention and control groups. The demographic and clinical characteristics between the two groups were not statistically different. For the intervention group, there were statistically significant reductions in the total ESAS scores following all four sessions of 30\u2009min mindful breathing (n CONCLUSIONS: Our result provides evidence that four daily sessions of 30\u2009min mindful breathing may be effective in reducing multiple symptoms rapidly in patients with advanced cancer. TRIAL REGISTRATION NUMBER: NCT05910541.",
+      "journal": "BMJ supportive & palliative care",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -60,57 +1940,286 @@
       "matched_keywords": []
     },
     {
-      "title": "Depression, anxiety, stress and mental well-being among Filipino sexual and gender minority university students: a cross-sectional study examining the mediating role of mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42040168/",
+      "title": "Impact of mindfulness-based interventions on stress, anxiety and depression among nursing students: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42048892/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-04-23T00:00:00",
-      "date_fetched": "2026-04-28T13:26:32.519687",
-      "doi": "10.1177/17449871261438320",
+      "date_published": "2026-04-24T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.399817",
+      "doi": "10.1016/j.nepr.2026.104841",
       "authors": [
         {
-          "name": "Daniel Joseph E Berdida",
+          "name": "Bin Shen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jhana Rai Dc Panday",
+          "name": "Jianjiang Liu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Annrhea Nicole S Domingo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ronavick Shayne A Garcia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Laurice Thea G Lopez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Danica Loren G Salinas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maaya Jana V Sta Romana",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sheryl H Ramirez",
+          "name": "Qiaoxia Lv",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: The mediating role of mindfulness among lesbian, gay, bisexual, transgender and queer (LGBTQ) university students from lower-middle-income countries like the Philippines remains unreported. AIMS: To examine the mediating role of mindfulness in the associations of depression, anxiety, stress and mental well-being among LGBTQ university students. METHODS: This cross-sectional correlational study included 223 LGBTQ university students from three higher education institutions. Data were collected from February to April 2025 using three self-report scales and analysed through structural equation modelling. RESULTS: Depression (\u03b2 CONCLUSION: Mindfulness mediated the associations between depression, anxiety, stress and mental well-being, such that higher levels of depression, anxiety and stress were indirectly associated with poorer mental well-being through lower mindfulness. These findings suggest relational pathways relevant to nursing assessment and mental health promotion, while remaining correlational.",
-      "journal": "Journal of research in nursing : JRN",
+      "abstract": "AIM: This updated systematic review and meta-analysis aimed to evaluate the effectiveness of mindfulness-based interventions (MBIs) in reducing stress, anxiety, depression and improving mindfulness among nursing students. BACKGROUND: Nursing students often experience significant psychological distress due to the demanding academic and clinical environments of nursing education. MBIs have been increasingly used to reduce distress and enhance well-being. However, the strength and certainty of the available evidence remain variable, warranting an updated synthesis. DESIGN: Systematic review and meta-analysis. METHODS: Following PRISMA 2020 guidelines, five databases were searched up to September 2025 for randomized controlled trials (RCTs) on MBIs in nursing students. Two reviewers independently extracted data and assessed risk of bias using RoB2. Pooled standardized mean differences (SMDs) with 95% confidence intervals (CIs) were calculated using Stata 17.0 software. Subgroup, sensitivity and meta-regression analyses explored heterogeneity. Evidence certainty was assessed using the GRADE approach. RESULTS: Eighteen RCTs were included. MBIs were associated with reductions in anxiety (SMD = -0.49), depression (SMD = -0.43), stress (SMD = -0.54) and with an improvement in mindfulness (SMD = 0.40). Subgroup analyses showed no significant differences between face-to-face and online delivery modes across outcomes. A significant stage-based difference was observed for stress, with larger pooled effects in clinical-phase students. CONCLUSIONS: This meta-analysis provides moderate certainty evidence suggesting that MBIs are associated with improvements in psychological well-being among nursing students. However, given methodological limitations, further well-designed RCTs with longer follow-up are needed to strengthen the evidence base.",
+      "journal": "Nurse education in practice",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Letter in response to \"Effects of mindfulness and sleep quality on self-efficacy of clinical decision making among resident physicians: an observational study\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40407273/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-23T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.399900",
+      "doi": "10.1093/postmj/qgaf075",
+      "authors": [
+        {
+          "name": "Rupak Chatterjee",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Atanu Chandra",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Postgraduate medical journal",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effects of a School-Based Mindfulness Program on school readiness in preschool children: a mixed-methods study of researcher-led and teacher-led implementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42050636/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-29T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.399937",
+      "doi": "10.1186/s40359-026-04567-6",
+      "authors": [
+        {
+          "name": "Mihriban \u00d6zcan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adalet Kand\u0131r",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "BMC psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Secular Mysticism: Entanglements of Science and Religion in Psychedelic Medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42050063/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-29T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.399974",
+      "doi": "10.1007/s11013-026-09988-x",
+      "authors": [
+        {
+          "name": "Aidan Seale-Feldman",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Psychedelic medicine is a rapidly growing, billion-dollar industry poised to transform mental health care by incorporating spiritual experiences into clinical psychiatry. However, while the blending of psychiatry and mystical experience has long made this field unique, the blurred boundaries between science and spiritual practice have sparked increasing public debate. What does the entanglement of science and religion in psychedelic medicine reveal about the concerns, anxieties, and yearnings of our contemporary social and political moment? This article draws on an analysis of public discourse alongside ethnographic and qualitative research within a psychedelic church, a psychedelic-assisted therapy training program, and psychedelic science conferences in the United States. Through stories of the intertwining of science and religion, psychotherapy and mysticism, and attempts to distinguish between drugs, medicine, and sacraments in both clinical and non-clinical spaces, I argue that the mainstreaming of psychedelic medicine is not only shifting paradigms of mental health care but also creating new forms of secular mysticism in an age of disenchantment.",
+      "journal": "Culture, medicine and psychiatry",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Nurse-Led, Digitally Supported Mindfulness-Based Stress Reduction for Early Postmenopausal Women: Protocol for a Randomized Waitlist-Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42047675/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-28T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.400017",
+      "doi": "10.1177/08980101261444517",
+      "authors": [
+        {
+          "name": "Shashirani Pangambam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bidita Khandelwal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barkha Devi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Seeta Devi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sonam Ongmu Lasopa",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Early postmenopause is characterized by persistent menopausal symptoms that may impair quality of life. Globally, early postmenopausal care is constrained by sociocultural barriers and limited availability of nurse-led, nonpharmacological services. Mindfulness-Based Stress Reduction (MBSR), aligned with holistic nursing philosophy, lacks evidence in culturally adapted, nurse-led, digitally supported formats for early postmenopausal women. PURPOSE: To evaluate the feasibility and acceptability of a nurse-led digitally supported MBSR program for early postmenopausal women on quality of life and holistic health indicators. METHODS: A total of 128 early postmenopausal women from both rural and urban areas will be recruited for this community-based randomized waitlist-controlled trial. After screening and informed consent, participants will be randomized to an eight-week nurse-led MBSR intervention or a waitlist control group receiving routine care. The digitally delivered intervention includes mindfulness meditation, mindful breathing, gentle yoga, attention-based practices, and supervised daily practice. Menopause-related quality of life measured by the Menopause-Specific Quality of Life Questionnaire is the primary outcome; secondary outcomes include mindfulness, sexual function, and program acceptability. Assessments will occur at baseline and post-intervention, with weekly MENQOL tracking. CONCLUSIONS: This study is expected to provide evidence supporting feasible, holistic, nurse-led, nonpharmacological care for early postmenopausal women in the community settings.",
+      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Attentional processes in brief mindfulness meditation and socio-affective responses to in-group and out-group suffering.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42048956/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-27T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.400198",
+      "doi": "10.1016/j.actpsy.2026.106763",
+      "authors": [
+        {
+          "name": "Gabriela G\u00f3rska",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pawe\u0142 Holas",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Empathy and compassion often arise in response to others' suffering but can be inhibited when the sufferers represent out-groups. Mindfulness meditation may help counter these blocks by reducing distress and fostering compassionate responses. In this study, we tested whether a brief, 10-min mindfulness intervention could enhance empathic and compassionate reactions to in-group and out-group suffering. Eighty-three participants completed the Socio-affective Video Task (SoVT), rating eight videos depicting suffering. We compared the mindfulness audio recording condition to the active control matched in duration and linguistic structure. The mindfulness audio focused on breathing body sensations. It did not explicitly refer to compassion toward the self or others. The intervention did not significantly increase empathic distress or compassion. However, participants reported significantly higher empathic distress and compassion toward out-group members. Notably, the ability to focus on breathing-measured through a mindfulness state item-mediated significant effects of the intervention on ratings of compassion, relief, and distress. These findings highlight the potential role of attentional processes as proximal mechanisms through which brief mindfulness practices may influence social and affective responses. These findings should be considered preliminary and require replication in larger samples. We discuss implications for the design of mindfulness interventions, the measurement of state mindfulness, and the use of video-based paradigms in studying intergroup empathy and compassion.",
+      "journal": "Acta psychologica",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Self-compassion in migraine: associations with depression, anxiety, and clinical characteristics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42049171/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-05-01T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.400283",
+      "doi": "10.1055/s-0046-1820105",
+      "authors": [
+        {
+          "name": "Ruken Simsekoglu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zarife Tugce Y\u0131ld\u0131z",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nilay Garipbas",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Self-compassion (SC), defined as a positive and accepting attitude towards oneself during times of suffering or failure, is receiving more attention in the context of chronic pain disorders. However, very little is known regarding the link between SC, psychological symptoms, and migraine features. OBJECTIVE: To compare the SC levels of migraine patients to those of healthy controls and investigate the relationships among SC, anxiety, depression, and migraine features. METHODS: This cross-sectional study comprised 90 healthy controls (age: 35\u2009\u00b1\u20099.8 years, 75 female patients) and 98 migraine sufferers (age: 36.7\u2009\u00b1\u200911.3 years, 84 female patients). The Beck depression inventory, Beck anxiety inventory, and self-compassion scale were completed by the participants. RESULTS: The SC levels were considerably lower in migraine patients. Patients with chronic migraine performed worse than those with episodic migraines on the self-kindness, common humanity, and mindfulness subscales. Patients with medication overuse also had reduced SC. Higher isolation scores were linked to aura presence. CONCLUSION: We found impaired SC in individuals with migraine, and a connection with greater emotional distress and migraine characteristics. These results demonstrate the possible value of emphasizing SC in migraine therapies, especially for those who suffer from chronic migraine, aura, or medication overuse.",
+      "journal": "Arquivos de neuro-psiquiatria",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "An Exploratory Study of Meditation With and Without Immersive Virtual Reality: Effects on Anxiety and Voice-Related Outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42049571/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-27T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.400370",
+      "doi": "10.1016/j.jvoice.2026.03.033",
+      "authors": [
+        {
+          "name": "Bradley Hoff",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brittany Palmer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "\u00dcmit Da\u015fd\u00f6\u011fen",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: Immersive virtual reality (IVR) has emerged as a promising adjunct in clinical interventions, enabling practice within realistic, immersive environments that closely simulate real-world experiences. However, its potential role in voice therapy and meditation-based approaches remains limited. In this exploratory study, the authors sought to evaluate the effects of meditation, with and without an IVR environment, on anxiety and potential voice-related outcomes in individuals with voice concerns, with the goal of refining a feasible protocol for future research. METHODS: Twenty-six patients with voice concerns were randomized to one of two groups: Meditation with IVR (MVR), and Meditation without IVR (M). Meditation was administered prior to voice therapy tasks in each session, and across four sessions, for both groups. Voice recordings were obtained using a standardized protocol and analyzed in Praat using the Phonanium plug-in. Data were analyzed using mixed-design ANCOVAs, with Bonferroni-corrected post hoc comparisons, and effect sizes reported. Psychological outcomes were assessed using the State-Trait Anxiety Inventory (STAI-Y1). Acoustic and aerodynamic outcomes included smoothed cepstral peak prominence (CPPS) and maximum phonation time (MPT), respectively. RESULTS: STAI-Y1 scores reached statistical significance, decreased from pre- to post-intervention in both groups, with a larger effect in the MVR group, compared with the M group. Of note, the magnitude of the pre\u2011post reduction did not differ reliably between groups (lessening showing improvement). After adjusting for baseline values, the improvement in MPT was not statistically significant. In contrast, CPPS increased with a significant change in the outcome from pre- to post session in the M group, however there was no significant change in the MVR group. Clinical significance was not established for any of the measures. CONCLUSION: The admittedly small data set in this exploratory study suggests IVR meditation may be particularly effective for reducing anxiety and improving respiratory-phonatory efficiency, whereas non-VR meditation may facilitate greater improvements in voice quality. The attrition rate for the MVR group was considerably less than that of the M group. These findings suggest that IVR meditation may serve as a valuable adjunct to voice therapy, though its effects differ by outcome type. Future research should investigate underlying mechanisms and long-term applications for the integration of IVR meditation into evidence-based voice therapy.",
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Functional Neuroimaging of Meditation: A Quantitative Whole-Brain Meta-Analysis and Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42049104/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-04-26T00:00:00",
+      "date_fetched": "2026-04-29T13:20:57.400552",
+      "doi": "10.1016/j.neubiorev.2026.106709",
+      "authors": [
+        {
+          "name": "M A Caitlin Baten",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arielle S Keller",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chris H Miller",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Matthew D Sacchet",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "The study of meditation has grown considerably in academic research, including robust findings demonstrating its positive impact on several domains of psychological well-being. Functional magnetic resonance imaging (fMRI) studies have provided evidence for neural correlates underlying these effects; however, there has not yet been a comprehensive whole-brain meta-analytic synthesis across meditation practices combined with a meta-analytic comparison to identify their unique neural correlates. Therefore, in accordance with the pre-registration protocol with the International Prospective Register of Systematic Reviews (PROSPERO) and Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we performed a series of systematic meta-analyses employing multilevel kernel density analysis to identify shared and distinct neural correlates of meditative states across varied practices. Analyses included 34 primary studies with data from 700 individuals, and including four widely-used meditation practices: focused attention, open monitoring, mantra, and loving-kindness. These results identify consistent activation across meditation practices in regions such as the rolandic operculum, insula, superior temporal gyrus, supplementary motor area, and hippocampus. Using functional decoding, we identified psychological features most associated with meditation engagement, including self-monitoring, reappraisal, motivation, experience, and awareness states. Additionally, meta-analytic comparisons of practice types revealed distinct neural patterns uniquely associated with each practice. The present findings provide the most robust scientific characterization of the neural mechanisms of meditative states to date. This work sets the stage for future research into advanced meditation, increasingly clear phenomenological characterization of meditation and identifies potential targets for facilitating meditative development.",
+      "journal": "Neuroscience and biobehavioral reviews",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
