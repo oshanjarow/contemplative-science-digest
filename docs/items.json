@@ -1,1721 +1,933 @@
 {
-  "generated_at": "2026-05-01T12:53:43.446819",
+  "generated_at": "2026-05-02T12:44:30.017357",
   "papers": [
     {
-      "title": "How static and kinetic meditation, with or without guidance, affect autonomic nervous system activity in novice meditators",
-      "url": "https://www.semanticscholar.org/paper/9084ed6013f47628a15b531caed8d74a41b3f02e",
+      "title": "AHP-Based Evaluation of Core Non-Technical Skills for Seafarers in Maritime Operations",
+      "url": "https://www.semanticscholar.org/paper/af9f22e0c7bf7a5ffab34dba83e43d365ee1d56a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-09T00:00:00",
+      "date_fetched": "2026-05-02T12:43:46.278804",
+      "doi": "10.52998/trjmms.1703538",
+      "authors": [
+        {
+          "name": "A. Kuzu",
+          "author_id": "2078986174",
+          "affiliation": null
+        },
+        {
+          "name": "Umut Ta\u00e7",
+          "author_id": "2377105599",
+          "affiliation": null
+        }
+      ],
+      "abstract": "As digital technologies and automation continue to reshape the maritime industry, the focus is gradually shifting from technical to non-technical skills among seafarers. With machines increasingly taking over routine operational tasks, competencies such as communication, decision-making, and situational awareness are becoming essential for safe and effective shipboard operations. This study investigates the role of non-technical skills in maritime transportation by drawing on insights from expert consultations and a systematic review of academic literature. Through this dual approach, five core competencies were identified as particularly relevant to safe and effective shipboard operations: teamwork, communication, situational awareness, decision-making, and leadership. To assess the relative importance of these competencies, the Analytic Hierarchy Process (AHP) was employed, enabling structured prioritization based on expert judgments. This method provided a clear understanding of which non-technical skills are most critical in contemporary maritime contexts. Results highlight situational awareness as the most critical non-technical skill, underlining its importance in dynamic and high-risk environments. The findings offer practical guidance for maritime training providers and organizations aiming to improve crew development, recruitment, and operational safety through a more targeted focus on non-technical skills. \n \nKeywords: AHP, Human factor, Multi criteria decision making, Non-technical skills",
+      "journal": "Turkish Journal of Maritime and Marine Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "non-dual awareness"
+      ]
+    },
+    {
+      "title": "Effect of Traditional Meditation (Spiritual Techniques) on Metacognitive Abilities and Mindfulness in University Students: A Three-armed Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/8e33038494748f89b9428838f0588de790280448",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-31T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.185153",
+      "doi": "10.24193/cbb.2026.30.05",
+      "authors": [
+        {
+          "name": "Narottam Kumar",
+          "author_id": "143844318",
+          "affiliation": null
+        },
+        {
+          "name": "Udham Singh",
+          "author_id": "81063178",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Disturbance in mindfulness state and disability related to self-regulated cognitive abilities (metacognition) generally occur among higher education students. Many types of yoga and meditation techniques have been developed which show improvement in one\u2019s mindfulness, cognition, as well as metacognition. We carried out a three-armed empirical study to capture the effect of two spiritual techniques-vipassana meditation (VM) and pranav meditation (PM) on metacognitive abilities and mindfulness in university youths. A total of 140 students (aged 19-26 years) were screened, out of which 102 students met predetermined eligibility criteria and were randomly assigned into three groups: VM, PM, and control (CT). Metacognition and mindfulness state were assessed at baseline and after five months using Gurukula Kangri Metacognition Awareness Scale (Narottam Kumar and Udham Singh) and Mindfulness Attention Awareness Scale (Kirk Warren Brown and Richad Ryan) respectively. The findings of within-subject effects showed significant improvements in metacognitive abilities and mindfulness from pretest to posttest in both VM and PM group compared to CT group. Between-subject effects showed there were significant differences for post-test score of metacognition and mindfulness across three groups. Post-hoc Bonferroni-corrected test showed significant differences in the post mean score of dependent variables were found to be statistically significant between VM & PM, between VM & CT, and PM & CT. These findings suggest that VM and PM techniques can be beneficial for improving metacognitive abilities and mindfulness in students of higher education institutions.",
+      "journal": "Cognition Brain Behavior An Interdisciplinary Journal",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Facilitating students' critical thinking, metacognition and problem-solving tendencies in geriatric nursing class: A mixed-method study.",
+      "url": "https://www.semanticscholar.org/paper/a53b31a8b47757912646ba69ff1e319ef93f448b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-15T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.185329",
+      "doi": "10.1016/j.nepr.2025.104266",
+      "authors": [
+        {
+          "name": "Gwo-Jen Hwang",
+          "author_id": "2315874960",
+          "affiliation": null
+        },
+        {
+          "name": "Pei-Yu Cheng",
+          "author_id": "2259987746",
+          "affiliation": null
+        },
+        {
+          "name": "Ching-Yi Chang",
+          "author_id": "2296439738",
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM\nThe aim of this study was to explore the use of generative artificial intelligence (GenAI) in geriatric nursing classes for the design of older adult activities to educate students on how to pose clear questions, provide and identify potentially suitable daily activities for older adults.\n\n\nBACKGROUND\nResearchers in various educational fields are increasingly employing GenAI tools such as ChatGPT for curriculum development and research. Question generation is an essential skill for all students to learn to acquire knowledge. However, there is limited experimental evidence on teaching students to correctly use GenAI for assisting with question generation ability and empirical data related to improving students' capacity for solving complex problems remains scarce.\n\n\nDESIGN\nA mixed-method study design with both quantitative and qualitative analysis.\n\n\nMETHODS\nThis study investigated the effectiveness of a GenAI-guided prompt-based learning approach implemented in a geriatric nursing class for first-year undergraduate students, involving a cohort of 56 participants.\n\n\nRESULTS\nExperimental results indicated that the GenAI-guided prompt-based learning approach significantly enhanced students' critical thinking, metacognition and problem-solving tendencies and their question generation via prompts performance. Moreover, participants who engaged in the GenAI-guided prompt-based learning approach found the tasks easier to complete and required less cognitive effort.\n\n\nCONCLUSIONS\nNursing students using the GenAI-guided prompt-based learning approach outperformed the control group in cognitive network analysis dimensions of clarity, relevance, complexity, precision and engagement. Thus, integrating GenAI prompts into course activities can effectively improve student learning outcomes, reduce metacognitive load and assist in solving learning problems.",
+      "journal": "Nurse Education in Practice",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Bridging the gap of brain and experience - Converging Neurophenomenology with Spatiotemporal Neuroscience.",
+      "url": "https://www.semanticscholar.org/paper/f272d71218c413eb258a67be8380576efa341f38",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804365",
+      "doi": "10.1016/j.neubiorev.2025.106139",
+      "authors": [
+        {
+          "name": "Georg Northoff",
+          "author_id": "2250017428",
+          "affiliation": null
+        },
+        {
+          "name": "Bianca Ventura",
+          "author_id": "2187623505",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Neuroscience faces the challenge of connecting brain and mind, with the mind manifesting in first-person experience while the brain's neural activity can only be investigated in third-person perspective. To connect neural and mental states, neurophenomenology provides a methodological tool kit for systematically linking first-person subjective experience with third-person objective observations of the brain's neural activity. However, beyond providing a systematic methodological strategy ('disciplined circularity'), it leaves open how neural activity and subjective experience are related among themselves, independent of our methodological strategy. The recently introduced Spatiotemporal Neuroscience suggests that neural activity and subjective experience share a commonly underlying feature as their \"common currency\", notably analogous spatiotemporal dynamics. Can Spatiotemporal Neuroscience inform neurophenomenology to allow for a deeper and more substantiative connection of first-person experience and third-person neural activity? The goal of our paper is to show how Spatiotemporal Neuroscience and Neurophenomenology can be converged and integrated with each other to gain better understanding of the brain-mind connection. We describe their convergence on theoretical grounds which, subsequently, is illustrated by empirical examples like self, meditation, and depression. In conclusion, we propose that the integration of Neurophenomenology and Spatiotemporal Neuroscience can provide complementary insights, enrich both fields, allows for deeper understanding of brain-mind connection, and opens the door for developing novel methodological approaches in their empirical investigation.",
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
+    },
+    {
+      "title": "Deep computational neurophenomenology: a methodological framework for investigating the how of experience",
+      "url": "https://www.semanticscholar.org/paper/75003d70a2d6a4a20a077125879ad5326b3e6976",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-08-05T00:00:00",
-      "date_fetched": "2026-05-01T12:53:07.119543",
-      "doi": "10.3389/fpsyg.2025.1572499",
+      "date_fetched": "2026-05-02T12:44:07.804391",
+      "doi": "10.1093/nc/niaf016",
       "authors": [
         {
-          "name": "Jinwoo Han",
-          "author_id": "2313306854",
+          "name": "L. Sandved-Smith",
+          "author_id": "2122078176",
           "affiliation": null
         },
         {
-          "name": "M. Lee",
-          "author_id": "2108892224",
+          "name": "Juan Diego Bogot\u00e1",
+          "author_id": "2211053777",
           "affiliation": null
         },
         {
-          "name": "Teri Kim",
-          "author_id": "2268380934",
+          "name": "Jakob Hohwy",
+          "author_id": "2356551701",
+          "affiliation": null
+        },
+        {
+          "name": "Julian Kiverstein",
+          "author_id": "2317070310",
+          "affiliation": null
+        },
+        {
+          "name": "A. Lutz",
+          "author_id": "2269027217",
           "affiliation": null
         }
       ],
-      "abstract": "Objective This study explored the autonomic nervous system responses and perceived experiences of novice meditators during kinetic and static meditation. Methods Thirty-five participants completed both meditation types in randomized order. Each 20-min session included 10 min of guided and 10 min of unguided meditation. Heart rate (HR) and Heart rate variability (HRV) was recorded using the Polar H10 and EliteHRV apps. A visual analog scale (VAS) assessed focused attention, peace and calm, and drowsiness. Results Focused attention was significantly higher in kinetic meditation than in static meditation and was also higher during guided sessions. Static meditation induced greater drowsiness than kinetic meditation, especially in the unguided condition. All meditation conditions increased HR compared to rest, with guided meditation showing a higher HR than unguided meditation. HRV indices reflected increased sympathetic activity during guided meditation sessions, likely due to cognitive effort in maintaining attention and processing instructions. Conclusion For meditation-na\u00efve individuals, movement-based meditation with clear guidance may serve as a more accessible entry point. Kinetic meditation appears to facilitate attentional engagement while mitigating drowsiness, and may remain manageable even when self-administered without guidance. These findings provide an empirical basis for optimizing meditation intervention design, particularly for novice practitioners who may initially perceive meditation as inaccessible or impractical.",
-      "journal": "Frontiers in Psychology",
+      "abstract": "Abstract The context for our paper comes from the neurophenomenology (NPh) research programme initiated by Francisco Varela at the end of the 1990s. Varela\u2019s working hypothesis was that, to be successful, a consciousness research programme must progress by relating first-person phenomenological accounts of the structure of experience and their third-person counterparts in neuroscience through \u201cmutual constraints\u201d. Leveraging Bayesian mechanics, in particular deep parametric active inference, we demonstrate the potential for epistemically advantageous mutual constraints between phenomenological, computational, behavioural, and physiological vocabularies. Specifically, the dual information geometry of Bayesian mechanics serves to establish, under certain conditions, generative passage between lived experience and its physiological instantiation. This paper argues for the epistemological necessity of such a passage and the inclusion of trained reflective awareness in neurophenomenological empirical approaches. In particular, it showcases incremental explanatory gains for the scientist that arise from incorporating the participants\u2019 epistemic insights, shifting the focus from the contents of experience (i.e. what a subject experiences in a given experimental set-up) to the how of experience (i.e. the activities of consciousness that allow for a meaningful world to appear to us as such in lived experience). The explanatory power of the resulting \u2018meta-Bayesian\u2019 framework, deep computational NPh, arises from the disciplined circulation between first and third-person perspectives enabled by the formalism of deep parametric active inference, where parametric depth refers to a property of generative models that can form beliefs about the parameters of their own modelling process. Hence, this computational formalism contributes to understanding consciousness by bridging phenomenological descriptions and physiological instantiations, whilst also highlighting the significance of trained first-person investigation in experimental protocols.",
+      "journal": "Neuroscience of Consciousness",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "neurophenomenology"
       ]
     },
     {
-      "title": "Developing Design Recommendations for Meditation Centres Through a Mixed-Method Study",
-      "url": "https://www.semanticscholar.org/paper/2afef01665d7edd6822dc86829b54fea99f3daed",
+      "title": "Now is the time: operationalizing generative neurophenomenology through interpersonal methods",
+      "url": "https://www.semanticscholar.org/paper/e40923ddc2ad8396ec9efcb8026105281186798f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-19T00:00:00",
-      "date_fetched": "2026-05-01T12:53:07.119558",
-      "doi": "10.3390/buildings15224182",
+      "date_published": "2025-12-27T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804408",
+      "doi": "10.1093/nc/niaf052",
       "authors": [
         {
-          "name": "Pearl Doshi",
-          "author_id": "2393751249",
+          "name": "Anne-Sophie Monnier",
+          "author_id": "116414263",
           "affiliation": null
         },
         {
-          "name": "F. Aletta",
-          "author_id": "3374987",
+          "name": "Lena Adel",
+          "author_id": "2184234141",
+          "affiliation": null
+        },
+        {
+          "name": "Guillaume Dumas",
+          "author_id": "2267208090",
           "affiliation": null
         }
       ],
-      "abstract": "Meditation is a practice used to cultivate focused attention, emotional stability, and self-awareness. Evidence of its psychological, physiological, and social benefits warrants greater accessibility and further research. This study evaluates meditation centre design by identifying recurring design practices, highlighting the importance of indoor environmental qualities (IEQs), and developing design recommendations for future use. A mixed-method, exploratory sequential design using a scoping case study review, expert interviews, and user surveys provides a holistic understanding of design practices, rationale behind decision-making, and user feedback. Quantitative and qualitative patterns were found across case studies, thematic analysis was conducted on interview transcripts, and user surveys were statistically analysed. The research concludes that effective meditation centre design integrates spatial, contextual, and community-driven practices while prioritising key IEQs to minimise sensory distractions and promote introspection. A hierarchy of IEQ importance was identified\u2014(1) acoustic environment, (2) indoor air quality and thermal environment, (3) biophilic elements, and (4) lighting environment\u2014alongside the influence of materials and colour. These findings were consolidated into comprehensive design recommendations addressing contextual, spatial, sensory, experiential, inclusive, and sustainable strategies. This study provides foundational recommendations and highlights future research opportunities, including direct engagement with meditation centres, longitudinal investigations, and psychophysiological studies.",
-      "journal": "Buildings",
+      "abstract": "Abstract Lived experience is shaped by intersubjective, social, cultural, and historical dimensions. For the past 30 years, neurophenomenology has adopted an embodied perspective of the mind by integrating first-person experiential and third-person neurobehavioural perspectives. Neurophenomenology reveals mutual constraints between both, as they co-constitute a person\u2019s lived experience. This article emphasizes the intersubjective and social facets of lived experience as core to generative neurophenomenology, envisioned in the 1990s by Francisco Varela, and argues that the scientific community is now ready to adopt this approach. For this endeavour, we clarify three meanings of \u2018generative\u2019 as it applies distinctly to generative phenomenology, generative passages, and generative models. Then, we propose to combine existing methods to update neurophenomenology program: first, by transitioning from individual to multiple people phenomenology methods that include intersubjectivity experience; second, by expanding traditional neuroscience to include measures of multimodal interpersonal synchrony; and third, by leveraging multiple computational tools to integrate different viewpoints, thereby enriching our understanding of lived experience. We also underscore the potential of diverse mathematical formalisms to capture aspects of human experience, all while underscoring that using computational approaches to model neurophenomenology does not entail endorsing computationalism as a grounding hypothesis of human experience. Finally, we illustrate the clinical relevance of this paradigm through two case studies in psychiatry\u2014(1) with interactive dyads in autism and (2) with multiple members in family therapy sessions\u2014demonstrating its translational potential.",
+      "journal": "Neuroscience of Consciousness",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "neurophenomenology"
       ]
     },
     {
-      "title": "Measurement properties of instruments assessing mindful eating in adults: A COSMIN systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41500264/",
+      "title": "The neurophenomenology of basic self-disturbance in early psychosis: Association with clinical outcome in an ultra-high risk sample",
+      "url": "https://www.semanticscholar.org/paper/bba910418f1b4d06cbc4a174716956f4ef08de89",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.160847",
-      "doi": "10.1016/j.appet.2026.108443",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-04T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804432",
+      "doi": "10.1177/10398562251346619",
       "authors": [
         {
-          "name": "Carolina Assis Silva",
-          "author_id": null,
+          "name": "V. A. Barata",
+          "author_id": "2233674763",
           "affiliation": null
         },
         {
-          "name": "Ta\u00edsa Alves Silva",
-          "author_id": null,
+          "name": "S. Lavoie",
+          "author_id": "39709903",
           "affiliation": null
         },
         {
-          "name": "Ana Fl\u00e1via de Sousa Silva",
-          "author_id": null,
+          "name": "\u0141ukasz Gaw\u0119da",
+          "author_id": "2248495630",
           "affiliation": null
         },
         {
-          "name": "Wanderson Roberto da Silva",
-          "author_id": null,
+          "name": "Emily Li",
+          "author_id": "2053810993",
           "affiliation": null
         },
         {
-          "name": "Jo\u00e3o Henrique Fabiano Motarelli",
-          "author_id": null,
+          "name": "Louis Sass",
+          "author_id": "2273485046",
           "affiliation": null
         },
         {
-          "name": "Fernanda Rodrigues de Oliveira Penaforte",
-          "author_id": null,
+          "name": "Danny Koren",
+          "author_id": "2276872539",
           "affiliation": null
         },
         {
-          "name": "Camila Cremonezi Japur",
-          "author_id": null,
+          "name": "P. McGorry",
+          "author_id": "2271803751",
+          "affiliation": null
+        },
+        {
+          "name": "B. N. Jack",
+          "author_id": "2318092061",
+          "affiliation": null
+        },
+        {
+          "name": "J. Parnas",
+          "author_id": "2070788165",
+          "affiliation": null
+        },
+        {
+          "name": "A. Polari",
+          "author_id": "48645275",
+          "affiliation": null
+        },
+        {
+          "name": "K. Allott",
+          "author_id": "6849943",
+          "affiliation": null
+        },
+        {
+          "name": "J. Hartmann",
+          "author_id": "2243397143",
+          "affiliation": null
+        },
+        {
+          "name": "Marija Krcmar",
+          "author_id": "2063159507",
+          "affiliation": null
+        },
+        {
+          "name": "A. R. Rasmussen",
+          "author_id": "10355347",
+          "affiliation": null
+        },
+        {
+          "name": "T. Whitford",
+          "author_id": "2241037533",
+          "affiliation": null
+        },
+        {
+          "name": "C. Wannan",
+          "author_id": "2290162511",
+          "affiliation": null
+        },
+        {
+          "name": "Barnaby Nelson",
+          "author_id": "2257903252",
           "affiliation": null
         }
       ],
-      "abstract": "Mindful eating is a promising approach to improving individuals' relationships with food, with evidence of behavioral and health benefits. However, there is no consensus on the most suitable instrument to assess it. This study aimed to identify self-report measures of mindful eating in adults, appraise their measurement properties, and provide recommendations for their use. This systematic review, registered in PROSPERO (CRD42022337733), adhered to the COSMIN methodology and PRISMA-COSMIN guidelines. Seven databases were searched up to October 2025 for studies on self-reported mindful eating instruments in adults. Measurement properties were assessed with the COSMIN risk of bias checklist and criteria for good measurement properties. The quality of evidence was classified using a modified GRADE approach. Twenty-five studies were included, describing seven original instruments and 19 cross-cultural versions. None met the criteria for recommendation. For sixteen, conclusions could not be drawn due to insufficient \"high\" quality evidence, and ten were contraindicated because of \"high\" quality evidence for \"insufficient\" results, particularly for structural validity or internal consistency. The Mindful Eating Inventory (MEI) showed the most promising evidence. Overall, the instrument demonstrated sufficient results for all measurement properties assessed, although the quality of evidence varied: very low (relevance and measurement invariance), low (comprehensibility and reliability), moderate (construct validity), and high (structural validity and internal consistency). There is a need for methodologically rigorous research that adheres to COSMIN standards to strengthen the psychometric evidence and ensure the validity, reliability, and responsiveness of mindful eating assessment tools.",
-      "journal": "Appetite",
-      "year": 2026,
+      "abstract": "Introduction We previously proposed a neurophenomenological model of schizophrenia, linking basic self-disturbance with neural deficits of source monitoring and aberrant salience. Baseline comparisons in ultra-high risk (UHR) and first-episode psychosis (FEP) samples indicated a relationship between basic self-disturbance and source monitoring deficits, but not aberrant salience. The current paper reports on the 12-month follow-up results in the UHR group (n = 43), focusing on the association between baseline variables and clinical outcomes. Methods One-way ANOVA compared UHR-remitters (n = 18), UHR-persistent/transitioned to psychosis cases (n = 25) and FEP (n = 38) groups on baseline clinical and neuro-measures. Logistic regression assessed the baseline variables\u2019 predictive power for UHR outcomes. Results Higher baseline self-disturbance scores (EASE total) were found in the UHR persistence/transition and FEP groups compared to the UHR-remission group, and predicted worse UHR clinical outcomes. Source monitoring deficits were higher in FEP individuals compared to those with UHR persistence/transition. Conclusion High levels of basic self-disturbance may be a useful predictor marker of poor prognosis in UHR patients.",
+      "journal": "Australasian Psychiatry",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Effects of mindful breathing meditation on stereotype expression in two randomized controlled double-blinded trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42060610/",
+      "title": "The Birkbeck EEG Neurofeedback and Neurophenomenology (BENN) Study",
+      "url": "https://www.semanticscholar.org/paper/dc9f078c1f49f258bef12827ecb0041f9e842f2e",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.160886",
-      "doi": "10.1371/journal.pone.0347871",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-05-02T12:44:07.804437",
+      "doi": "10.1007/978-3-031-93727-9_6",
       "authors": [
         {
-          "name": "Elena Vieth",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lisa von Stockhausen",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Models of stereotypes and discrimination propose the involvement of attentional control and executive functioning in successfully suppressing discriminatory behavior. A practice that has been shown to improve cognitive control, potentially even after short training durations, is mindfulness meditation, and beneficial effects on stereotype activation and the expression of discriminatory behavior have been reported. In two randomized controlled double-blinded trials, the effects of short mindful breathing meditation trainings (45 minutes in total in Experiment 1, 80 minutes in Experiment 2) on the expression of stereotype-biased behavior were contrasted with relaxation trainings of equal length (progressive muscle relaxation; active control) and listening to podcasts (passive control). Stereotype expression was assessed with the Shooter Task in Experiment 1 and with the Avoidance Task in Experiment 2. Joined analyses of response latencies and accuracy by drift diffusion modeling showed that breathing meditation increased the effect of stereotype bias on decision-making in both experiments by heightening response conflict in stereotype-incongruent trials. At the same time, relaxation reduced biased decision-making in stereotype-incongruent trials. Contrary to our hypothesis, the findings suggested that short trainings in mindful breathing meditation were not beneficial for reducing the effect of stereotype-bias on decision making and that mechanisms outside of cognitive control affected response behavior following the meditation as well as relaxation training. Implications for research in the field are discussed.",
-      "journal": "PloS one",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Piloting a Virtual Yoga and Mindfulness Program for Juvenile Court Involved Youth.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39254149/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161012",
-      "doi": "10.1177/15248399241278975",
-      "authors": [
-        {
-          "name": "Amanda Cruce",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ebonie Slade",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Felicia Savage Friedman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maya Savage",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth Miller",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicholas Szoko",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Juvenile court-involved youth (JCIY) face unique psychosocial challenges, with a higher prevalence of mental health concerns and substance use disorders. The COVID-19 pandemic intensified these challenges, prompting a need for interventions that address trauma and discrimination experienced by this vulnerable population that could be delivered virtually during the pandemic. This study describes implementation and evaluation of a Raja yoga and mindfulness program among JCIY, with particular attention to barriers and facilitators to participation to inform next steps in this work. The nine-session program aimed to promote mindfulness practices, build coping skills, and address elements of JCIY's emotional health and well-being. Despite challenges in participant retention, participants expressed intent to use skills they learned in the future. Challenges related to implementation included technological barriers, staff turnover, and competing responsibilities; abrupt closure of the county juvenile detention center further strained resources. Successes included providing real-time resources during the early pandemic stages and building relationships between program facilitators and juvenile court staff. Involving youth and court personnel in program design and evaluation, adopting implementation science approaches to refine program delivery, and developing tailored support systems for JCIY are among the key lessons learned. Given the many structural inequities that make JCIY more vulnerable to poor health outcomes, insights may inform broader efforts to improve receipt of relevant services and programs to enhance their well-being, including use of virtual modalities.",
-      "journal": "Health promotion practice",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Veterans' engagement in mindfulness practices following intervention.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40587321/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161057",
-      "doi": "10.1037/ser0000950",
-      "authors": [
-        {
-          "name": "Tracy Herrmann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amir Ramezani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ryan Lackner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "William R Marchand",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Danielle Perez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Allison O'Connor",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Joanna E Bettmann",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness-based interventions are complementary and integrative health interventions, widely used for mental health. However, while these interventions show significant benefits for veterans, veterans are more likely to drop out of mindfulness-based interventions than other treatments. This study aimed to evaluate veterans' motivations for and long-term engagement in mindfulness practices following mindfulness-based interventions. One hundred sixty-one veterans completed phone surveys 6-12 months after receiving mindfulness interventions through the Veteran Affairs Health Care System. Bivariate statistics were utilized to estimate relationships between demographic variables and theme scores, effect size for significant findings, and to estimate relationships between theme scores. Veterans reported that they sought treatment for trauma, health concerns, depression, and anxiety. They reported benefits from treatment in their depressive symptoms, anxiety, health concerns, and pain levels. More than half of participants reported maintaining a daily mindfulness practice following treatment. Findings suggest that different types of mindfulness interventions had comparable outcomes at follow-up, but demographic variables correlated with different veteran outcomes. Presenting certain mindfulness skills early in mindfulness-based intervention programming and building daily mindfulness practices throughout treatment may help veterans access the most efficacious components of mindfulness-based intervention and reduce the likelihood of dropout. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "journal": "Psychological services",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The relationship between mindfulness, competitive anxiety, and self-efficacy in Taekwondo athletes with/without injury: The moderated mediation model.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41570870/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161116",
-      "doi": "10.1016/j.psychsport.2026.103080",
-      "authors": [
-        {
-          "name": "Jeffrey Yu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jui-Ti Nien",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mu-Yen Chu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yi-Zhen Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yi-Chih Ko",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yun-Han Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nai-Chi Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yu-Kai Chang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: Combat sports athletes are exposed to higher rates of injury, often resulting in increased anxiety and decreased pre-event self-efficacy. Mindfulness may serve as a protective buffer against these psychological effects. This study aimed to examine the relationship between athletic mindfulness and pre-event self-efficacy through competitive anxiety, as well as the moderating role of injury status among Taekwondo athletes. METHODS: Collegiate Taekwondo athletes (N\u00a0=\u00a0105) completed measures of athletic mindfulness, competitive anxiety, pre-event self-efficacy, and injury status prior to a national competition. A moderated mediation model was tested using PROCESS Models 4 and 59. RESULTS: Athletic mindfulness significantly predicted pre-event self-efficacy through cognitive anxiety. Although injury status did not moderate the overall mediation pathway, it moderated the relationship between athletic mindfulness and cognitive anxiety. CONCLUSIONS: These findings suggest a pathway through which mindfulness enhances pre-event self-efficacy by reducing cognitive anxiety among combat sports athletes. Regardless of its moderation of the mediation effect, injury status revealed that mindfulness exerted a stronger influence on reducing cognitive anxiety among injured athletes.",
-      "journal": "Psychology of sport and exercise",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Positive Psychology Interventions and Cardiovascular Health: Frequency and Duration to Sustain Cardiovascular Benefits.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41903958/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161156",
-      "doi": "10.1016/j.ccl.2025.12.001",
-      "authors": [
-        {
-          "name": "Rosalba Hernandez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Soonhyung Kwon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alyssa M Vela",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Katharine S Edwards",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This narrative article examines the role of positive psychological interventions, including mindfulness-based approaches, in cardiovascular health, with a focus on clarifying optimal frequency and duration of delivery. Evidence from 18 randomized trials, supplemented by single arm and meta-analyses, is synthesized, showing consistent improvements in risk factors, health behaviors, and medication adherence, though long-term outcomes remain uncertain. Interventions reviewed include gratitude journaling, optimism training, and mindfulness programs delivered in person, hybrid, or digital formats over 6 to 12 weeks. However, there remains a need for research on standardized dosing, diverse populations, and scalable delivery models.",
-      "journal": "Cardiology clinics",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Yoga as a Tool for Reducing Anxiety and Enhancing Mindful Attention in Chess Olympiad Players: A Mixed-Method Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41118622/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161294",
-      "doi": null,
-      "authors": [
-        {
-          "name": "A Mooventhan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "R Arunthathi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "S Suryapraba",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "V Venugopal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "K K Kanimozhi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "L Nivethitha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "A Vijay",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "K Kahlilsubramanian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "N Manavalan",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: The Chess Olympiad is a grand international chess event, which possibly involves immense performance anxiety and stress. Yoga is widely used as a stress management tool across different specialties. However, there is a lack of studies evaluating the impact of yoga on chess players. The current study aims to assess the effect of yoga on the physical, mental, and social dimensions of health in international chess players during the Chess Olympiad. MATERIALS AND METHODS: In this mixed-method study, a total of 148 chess players participated. Qualitative (n=148) and quantitative data (n=113) were collected using a survey form and questionnaires [Spielberger State-Trait Anxiety Inventory (STAI) and the Mindful Attention Awareness Scale (MAAS)], respectively. RESULTS: Results showed a widespread awareness of yoga among players, with a majority lacking prior experience. Participants perceived yoga positively, noting benefits such as improved physical health, enhanced mental focus, and increased social adaptability. Statistical analysis demonstrated significant decreases in STAI score (z = 7.900; P < .001) and MAAS score (z = 8.300; P \u2264 .001) after a yoga session compared to before the session. CONCLUSION: This study suggests that yoga has the potential to improve the overall well-being and preparedness for performance among international chess players. Future research should explore the long-term effects and validate these findings using larger sample sizes and biochemical measures to elucidate the efficacy of yoga practice in optimizing mental and physical states, which is crucial for competitive sports. KEYWORDS: chess olympiad, mindfulness, spielberger state-trait anxiety inventory, survey, mindful attention awareness scale, yoga.",
-      "journal": "Advances in mind-body medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effectiveness of Activity Management Among Women With Fibromyalgia Syndrome: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41894618/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161338",
-      "doi": "10.5014/ajot.2026.051431",
-      "authors": [
-        {
-          "name": "Sena Albay",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sinem Salar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gamze Ekici",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "IMPORTANCE: Fibromyalgia syndrome (FMS) symptoms affect people's activity behaviors, limiting their daily participation. Integrating activity pacing strategies into occupational therapy may improve chronic pain management. OBJECTIVE: To evaluate the effectiveness of activity management (AM) in improving activity patterns, limitations related to FMS, occupational performance, occupational balance, and quality of life among women with FMS. DESIGN: Randomized controlled trial. SETTING: University hospital occupational therapy clinic. PARTICIPANTS: Thirty-one women with FMS (ages 18-65 yr; 15 intervention, 16 control). INTERVENTION: The intervention group received individual, online AM sessions twice weekly for 4 wk, including activity pacing, mindfulness and ergonomics training, posture and relaxation exercises, and joint energy conservation techniques. OUTCOMES AND MEASURES: Physical and sociodemographic characteristics were recorded for each participant, and the Patterns of Activity Measure-Pain, Revised Fibromyalgia Impact Questionnaire, Canadian Occupational Performance Measure, Occupational Balance Questionnaire, and Nottingham Health Profile were administered twice, at baseline and at the end of the study, and the results were compared. RESULTS: The intervention group showed decreased overdoing and avoidance and increased pacing (from 6.7% to 60%). Significant improvements were found in activity patterns (p = .012), symptoms (p = .004), occupational satisfaction (p = .001), and quality of life pain (p = .003). CONCLUSIONS AND RELEVANCE: AM is effective in reducing symptoms related to FMS among women and maladaptive activity patterns caused by chronic pain. AM can be considered an effective intervention method for FMS. Larger sample sizes and long-term studies are needed to confirm these findings. Plain-Language Summary: Fibromyalgia symptoms limit individuals' participation in activities and reduce their quality of life. This study evaluated the effectiveness of activity management in improving activity patterns, limitations related to fibromyalgia syndrome (FMS), occupational performance, occupational balance, and quality of life among women with FMS. The activity management intervention integrated traditional pain management approaches used by occupational therapists with activity pacing strategies, offering a person-centered, individualized, web-based intervention model. As a result of this study, improvements were observed in maladaptive activity patterns, symptoms, occupational satisfaction, and the pain dimension of quality of life of women with FMS. Our findings suggest that activity management can be considered an effective intervention for women with FMS.",
-      "journal": "The American journal of occupational therapy : official publication of the American Occupational Therapy Association",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "An 8-Month Follow Up of the Mindless to Mindful (M2M) Self-Regulation Intervention on Fat Mass Loss.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40934255/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161419",
-      "doi": "10.1177/08901171251378114",
-      "authors": [
-        {
-          "name": "David Kawahata",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Duke Biber",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PurposeTo assess the maintenance of fat mass loss and increases in exercise self-control and self-compassion at 8-months follow-up to the Mindless to Mindful (M2M) program.DesignThis was a single-group follow-up case study.SampleFor the analysis, 79 of the original 195 M2M participants (",
-      "journal": "American journal of health promotion : AJHP",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Do sleep interventions improve sleep in MS? A systematic review and meta-analysis of activity monitor assessed outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41861703/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161463",
-      "doi": "10.1016/j.msard.2026.107136",
-      "authors": [
-        {
-          "name": "Tadeg Jemere",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ingrid van der Mei",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cynthia Honan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bruce V Taylor",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julie A Campbell",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Monique Breslin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Laura L Laslett",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Poor sleep is common in people with multiple sclerosis (PwMS). Previous systematic reviews have evaluated intervention effectiveness to improve sleep in PwMS using questionnaires, but no review has comprehensively examined whether sleep interventions improve activity monitor measured sleep outcomes in PwMS. METHODS: Adhering to the PRISMA guidelines, we searched PubMed, EMBASE, and PsycINFO databases to identify randomized controlled trials, quasi-experimental and cohort studies published from inception to October 2025. A random-effects model was used to estimate the pooled intervention effects of sleep interventions on objective sleep outcomes. RESULTS: Ten studies were included in the review for narrative synthesis, with five eligible for quantitative meta-analysis. Six sleep parameters were assessed via activity monitors: total sleep time, sleep efficiency, total time in bed, sleep onset latency, wake after sleep onset, and frequency of awakenings. Sleep interventions utilised included physical activity, mindfulness, cognitive behavioral therapy (CBT), melatonin, eszopiclone and transcranial direct current stimulation (tDCS). Only sleep efficiency improved following mindfulness interventions. The median length of actigraph wear time was 7 days (range 4 nights to 16 weeks). Study quality appraisal scores ranged from moderate to high, suggesting a low risk of bias. CONCLUSION: Activity monitors have been used to assess sleep intervention effectiveness in PwMS in studies assessing physical activity, mindfulness and CBT. Objective improvements in sleep were reported following mindfulness and only using one measure (sleep efficiency). However, the small number of included studies limits definitive conclusions. Future trials should consider a wider range of outcome measures and longer time horizons.",
-      "journal": "Multiple sclerosis and related disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Role of Maternal Mindfulness in Longitudinal Mother-Infant Neuroendocrine Reciprocity in an Urban, Low-Income White Sample.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41982073/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161586",
-      "doi": "10.1002/dev.70153",
-      "authors": [
-        {
-          "name": "Kento Suzuki",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heidemarie Laurent",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mother-infant physiological reciprocity plays a crucial role in child well-being and development. While mindfulness in parenting has been linked to mother-infant stress responses, no research has examined its relationship with developmental trajectories of neuroendocrine reciprocity. This study addresses this gap by examining maternal mindfulness-both alone and in the context of parenting risk and protective factors-in relation to mother-infant cortisol reciprocity over time. Using data from 56 predominantly White, urban, low-income mother-infant dyads in the United States followed from 3 to 18 months postpartum, we tested maternal mindful parenting at 3 months as a predictor of both (1) within-session reciprocity of mother and infant cortisol responses to acute stress and (2) across-session reciprocity of developmental shifts in their cortisol levels from 6 to 18 months. Three-level hierarchical linear models revealed that higher maternal mindful parenting, greater history of positive parental bonding, and lower parenting stress were associated with more inverse mother-infant cortisol reciprocity across timepoints. In addition, parenting stress moderated the effect of mindful parenting: the inverse relation with reciprocity held for most dyads (60%), though reversed for those with the highest stress levels (top 9%). Findings delineate when and how positive versus inverse reciprocity may be adaptive and underscore the role of mindful parenting in mother-infant psychophysiological stress co-adaptation.",
-      "journal": "Developmental psychobiology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "How Does Perceived Social Support, Mindfulness, and Coping Strategies Influencing Death Anxiety Among Patients With Tuberculosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38539037/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161857",
-      "doi": "10.1177/00302228241243241",
-      "authors": [
-        {
-          "name": "Suhair Al-Ghabeesh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mohammad M Alnaeem",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rana Soub",
-          "author_id": null,
+          "name": "Eddy J. Davelaar",
+          "author_id": "2082746902",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Omega",
-      "year": 2026,
+      "journal": "Interacci\u00f3n",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "The Impact of Mindfulness Interventions on the Well-Being of Intensive Care, Emergency Department and Anaesthesia Staff: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41841440/",
+      "title": "A Comparative Neurophenomenology of the Psychedelic State and Autism: Predictive Processing as a Unifying Lens",
+      "url": "https://www.semanticscholar.org/paper/947caf91f61fca25096f6127c4ded95f6af5612f",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161901",
-      "doi": "10.1111/nicc.70427",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-14T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804451",
+      "doi": "10.3390/psychoactives4040041",
       "authors": [
         {
-          "name": "Amanda Zahumensky",
-          "author_id": null,
+          "name": "William Roseby",
+          "author_id": "2365903509",
           "affiliation": null
         },
         {
-          "name": "Varinporn Amporndanai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jane Orbell-Smith",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yogesh Apte",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dylan Flaws",
-          "author_id": null,
+          "name": "Catriona Osborn Moar",
+          "author_id": "2393069619",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Critical care staff face unique stressors, including high patient acuity and intense work environments, leading to high rates of burnout and emotional fatigue. While mindfulness-based interventions (MBIs) are increasingly recognised for reducing stress among healthcare workers, no prior review has specifically examined their impact within critical care settings. AIM: To evaluate the effectiveness of individual and workplace-delivered MBIs on improving well-being and reducing stress and burnout among critical care staff. STUDY DESIGN: This systematic review was conducted starting with a literature search using MeSH terms across EBSCOhost platforms. Studies involving doctors, nurses and allied health professionals working in ICUs, EDs, CCUs and perioperative units were assessed. Clinical and non-clinical trials were included if they reported outcome data on burnout, stress, job satisfaction or overall well-being. Studies were assessed for bias using validated tools (RoB2, ROBINS-I, JMI, MMAT). RESULTS: The thirty studies included in this review indicate meditation-based interventions, particularly those combining in-person and app-guided formats, showed the most consistent benefits across measured data. Yoga and aromatherapy demonstrated improvements, though feasibility was often limited by space and schedule. Studies employing multiple modalities often resulted in the strongest outcomes. Qualitative findings supported improved emotional regulation and workplace satisfaction but highlighted participation barriers such as work guilt and time constraints. CONCLUSION: This review highlights the potential of MBIs in enhancing resilience and well-being among critical care staff, offering a targeted synthesis not previously available. RELEVANCE TO CLINICAL PRACTICE: Implementing flexible, scalable MBIs in critical care environments may help mitigate burnout and support workforce sustainability. Future high-quality trials are needed to validate and optimise these interventions. REVIEW REGISTRATION: This review was prospectively registered on PROSPERO (CRD42022323286).",
-      "journal": "Nursing in critical care",
-      "year": 2026,
+      "abstract": "Serotonergic psychedelics, particularly psilocybin, lysergic acid diethylamide (LSD), and dimethyltryptamine (DMT), are increasingly recognised as powerful tools to advance the understanding of consciousness and its relation to brain activity. Psychedelic research has informed neuroscientific theories that attempt to map neural observations of network connectivity and signal diversity to phenomenological qualities like psychological flexibility. Thus far, however, there have been relatively limited efforts to bridge the gap between psychedelic-informed theory and the experiential differences observed in neurodevelopmental conditions such as autism. In this narrative review and conceptual synthesis, we compare the psychedelic state and autism in adults from a neurophenomenological perspective. Predictive processing is invoked as a unifying framework. This procedure highlights both phenomena as involving a shift towards sensory information relative to prior knowledge, but potentially implicating alterations at opposite ends of the cortical hierarchy. This contrastive approach also reveals opportunities for refining concepts\u2014including psychological flexibility\u2014as well as interpretations of results across fields. However, neurobiological findings, especially in autism, are heterogeneous and there are inherent restrictions in comparing transient state and lifelong trait phenomena. Conclusions of this comparison are primarily conceptual and offer testable hypotheses for the neurophenomenology of the psychedelic state, autism, and their interaction.",
+      "journal": "Psychoactives",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Effectiveness and Cost-Effectiveness of an App-Based Mindfulness Breast Care Program for Reducing Body Image Distress and Stigma Among Survivors of Breast Cancer: Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42061848/",
+      "title": "From neuronal to mental topography \u2013 Neurophenomenology of auditory hallucinations",
+      "url": "https://www.semanticscholar.org/paper/6fc34c148524c1fc6c73d87609afb3ac9fae51cc",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-24T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161954",
-      "doi": "10.2196/85913",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-21T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804464",
+      "doi": "10.1038/s41398-025-03664-1",
       "authors": [
         {
-          "name": "Huicong Lin",
-          "author_id": null,
+          "name": "A. Carluccio",
+          "author_id": "2393820095",
           "affiliation": null
         },
         {
-          "name": "Yujing Zhong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shuang Zheng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaoying Jiang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yun Xu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sally Chan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shengjie Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ka Ming Chow",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qingmo Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wenhe Huang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiemin Zhu",
-          "author_id": null,
+          "name": "Georg Northoff",
+          "author_id": "2251621241",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Breast cancer surgery and corresponding treatments have significant residual effects on survivors of breast cancer in China. Body image distress and stigma are persistent challenges that negatively affect their quality of life. Accessible, sustainable, and cost-effective support remains scarce. OBJECTIVE: This study aimed to evaluate the effectiveness and cost-effectiveness of an app-based mindfulness breast care (MBC) program in addressing body image distress and stigma for survivors of breast cancer. METHODS: We carried out a randomized controlled trial in 2 university-affiliated hospitals in China. Survivors of breast cancer who had completed primary treatments and had mobile phone internet access were recruited and randomly assigned at a 1:1 ratio to the intervention (3-month MBC program plus routine care) or the control group (routine care alone). Under the conceptualization of mindfulness-based cognitive therapy, the MBC program was developed, including three modules: (1) Library, (2) Mindfulness Yoga, and (3) Mindfulness Practices. The primary outcomes measured were body image distress and stigma, and secondary outcomes included sleep quality, social support, and quality of life (physical and mental well-being). Assessments were conducted at baseline, 3 months (T1), and 6 months (T2). Multiple imputation was used to handle missing data and generalized estimating equations were fitted to evaluate the effectiveness. The incremental cost per quality-adjusted life year (QALY) gained was used to measure cost-effectiveness. RESULTS: A total of 192 survivors of breast cancer participated in the baseline assessment, with 155 completing the 2 follow-up surveys. The median total usage duration was 199.60 (IQR 70.90-451.31; mean 360.59, SD 511.72) minutes, and total login frequency was 39.50 (IQR 19.00-86.50; mean 57.02, SD 50.26) times. The reduction in body image distress at T2 (adjusted mean difference -1.91; 95% CI -3.40 to -0.42; P=.01; d=-0.31), the reduction in stigma at T1 (adjusted mean difference -5.83; 95% CI -8.46 to -3.20; P<.001; d=-0.61) and T2 (adjusted mean difference -7.79; 95% CI -10.62 to -4.97; P<.001; d=-0.82), and the improvement in mental well-being at T1 (adjusted mean difference 4.44; 95% CI 1.70 to 7.18; P=.002; d=0.43) were statistically significantly greater in the intervention group compared with the control group. No statistically significant group differences were observed regarding sleep quality, social support, and physical well-being. The cost-effectiveness analysis showed that the intervention group gained more QALYs than the control group at T2 (adjusted mean difference 0.008; 95% CI 0.004 to 0.016; P=.01). The incremental cost per QALY gained at T2 was US $19,431.25, indicating a 57% probability that the MBC program is a cost-effective intervention at a threshold of US $37,530, three times the 2023 gross domestic product per capita of China. CONCLUSIONS: An app-based MBC program was effective and potentially cost-effective and had the promise to be scalable for clinical practice. TRIAL REGISTRATION: Chinese Clinical Trial Registry ChiCTR2200059952; https://www.chictr.org.cn/showproj.html?proj=167247.",
-      "journal": "Journal of medical Internet research",
-      "year": 2026,
+      "abstract": "Auditory verbal hallucinations [AVH] are one of the most common psychopathological symptoms in psychosis and schizophrenia [SZ]. While various studies demonstrate the neuronal features of AVH in specific regions and networks including changes in structural and functional connectivity, the relation of their neuronal topography to the organization or structure of the subjects\u2019 experience, i.e. the phenomenology of their \u2018mental topography\u2019, remains yet unclear. Addressing this gap in our knowledge, we review recent findings to formulate two neurophenomenological hypotheses of AVH (which extend our earlier Resting state hypothesis). First, we hypothesize that structural and functional dysconnectivity in AVH with desynchronization and temporal fragmentation between sensory auditory, interoceptive somatic and cognitive linguistic regions [e.g., auditory cortex, insula and Broca\u2019s area] relate to the experience of analogous temporal fragmentation on the mental level, that is, among the contents in perception and thought - this is manifest in \u2018hyperreflexivity\u2019, the attribution of abnormal salience and attention to single isolated objects or elements in perception. Secondly, we propose that the topographic distinction and gradient of unimodal and transmodal regions are reduced in individuals with AVH. We hypothesize that such \u2018inner-outer neuronal topographic dedifferentiation and compression\u2019 is manifest in the experience of overlaps and confusions between the subject\u2019s outer interpersonal social and inner intrapersonal spaces \u2013 analogous to the neuronal level, this reflects an \u2018inner-outer mental topographic dedifferentiation and compression\u2019. Together, we propose two testable neurophenomenological hypotheses of AVH showing shared structural-topographic changes in both brain and experience as their \u201ccommon currency\u201d. This directly connects changes in the brain\u2019s neuronal topographic organization with the structure of experience, that is, the mental topographic organization of the subjects\u2019 experience of AVH in SZ.",
+      "journal": "Translational Psychiatry",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "From Forest to Focus: The Interactive Effects of Nature Exposure and Nature Relatedness on Attention, Brain Activity, Heart Rate Variability, and Mood.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41324501/",
+      "title": "Neurophenomenology, psychoneuroendocrinoimmunology and epigenetics: towards an integrative framework for understanding the health benefits of art and aesthetic experiences.",
+      "url": "https://www.semanticscholar.org/paper/7afc9a9bfffd047f4095044b84c68da7353ce801",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.161995",
-      "doi": "10.1162/JOCN.a.2416",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-28T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804479",
+      "doi": "10.1098/rsif.2025.0482",
       "authors": [
         {
-          "name": "Cameron N Bell",
-          "author_id": null,
+          "name": "Marta Pizzolante",
+          "author_id": "2166152423",
           "affiliation": null
         },
         {
-          "name": "Rebecca St George",
-          "author_id": null,
+          "name": "Davide Biganzoli",
+          "author_id": "2389729298",
           "affiliation": null
         },
         {
-          "name": "Cynthia Honan",
-          "author_id": null,
+          "name": "Andrea Gaggioli",
+          "author_id": "2304981582",
           "affiliation": null
         },
         {
-          "name": "Allison Matthews",
-          "author_id": null,
+          "name": "Elia Biganzoli",
+          "author_id": "2312294712",
+          "affiliation": null
+        },
+        {
+          "name": "V. Bollati",
+          "author_id": "2282785684",
           "affiliation": null
         }
       ],
-      "abstract": "Attention restoration theory suggests that natural environments offer greater restorative benefits compared with urban settings. While previous research has used behavioral and questionnaire measures to demonstrate the effects of nature exposure on cognition, mood, and stress, fewer studies have explored physiological measures. This study used EEG and ECG to investigate the behavioral and psychophysiological markers of nature restoration, along with estimating the moderating influence of individual differences in nature relatedness on restorative effects. Forty participants were randomly assigned to view either natural or urban images in a short virtual exposure after completion of a cognitively fatiguing Stroop task. EEG and ECG were continuously recorded throughout a pre/post design measuring heart rate variability, ERPs, EEG frequency band power, cognitive performance (digit span test, flanker go/no-go task), mood (Positive and Negative Affect Schedule), and state mindfulness (Mindful Attention Awareness Scale). Scores on the Nature Relatedness Scale were utilized as a moderator variable. EEG results showed an increase in alpha power during both nature and urban exposures. A neural index of inhibitory control (N2 ERP amplitude) was decreased for the nature group only, possibly reflecting more efficient inhibitory attentional processing. Nature relatedness moderated environmental effects for alpha and beta power, overall RT, and positive affect, whereby effects were enhanced when exposures aligned with nature relatedness level. In conclusion, this study suggests that nature exposure can influence cortical inhibitory mechanisms involved in suppressing distractions. The influence of nature relatedness indicates that nature restoration is not necessarily universal but contingent on individuals' connection to a given environment.",
-      "journal": "Journal of cognitive neuroscience",
+      "abstract": "The fields of neurophenomenology, psychoneuroendocrinoimmunology (PNEI) and epigenetics provide innovative and complementary perspectives on understanding the positive effects of art and aesthetic experiences on human well-being and health. Neurophenomenology integrates subjective experiential reports with neuroscientific data, offering valuable insights into how aesthetic experiences elicit positive emotional responses, alleviate stress and enhance cognitive and emotional development. PNEI, by contrast, examines the bidirectional communication among the nervous, endocrine and immune systems, providing the basis for investigating how specific psychological experiences, including positive ones, influence physical health. Epigenetics, in turn, can serve as a bridge between these domains, as the biological translator that connects environmental and experiential factors to gene expression. This paper presents a conceptual perspective as it proposes an integrative framework linking neurophenomenology, PNEI and epigenetics, aimed at elucidating how art and aesthetic experiences can promote health and well-being. By examining the shared mechanisms and pathways across these fields, we aim to outline their collective implications for scientific research, health promotion/disease prevention and clinical applications.",
+      "journal": "Journal of the Royal Society Interface",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Effects of 12-week mindfulness-based intervention on executive functioning skills, brain oxygenation, and biomarkers of cognitive function in baseball players: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41577062/",
+      "title": "Building science and subjectivity from flesh. Towards a reconceptualization of neurophenomenology as a contribution to interdisciplinary health research",
+      "url": "https://www.semanticscholar.org/paper/b9e516b859cfd8cf3c89f7e0ed9058269c850f39",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:32.162043",
-      "doi": "10.1016/j.psychsport.2026.103061",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-06T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804492",
+      "doi": "10.1007/s11019-025-10319-x",
       "authors": [
         {
-          "name": "Wen Chen",
-          "author_id": null,
+          "name": "H. Wiltsche",
+          "author_id": "102904695",
           "affiliation": null
         },
         {
-          "name": "Yue Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shan He",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xinyu Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiru Du",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Min Hu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ting Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lu Leng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Junhao Huang",
-          "author_id": null,
+          "name": "Kristin Zeiler",
+          "author_id": "2306520687",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: While mindfulness has demonstrated efficacy in enhancing executive function in non-athletes through improved present-moment awareness and acceptance of current experiences, particularly regarding attention regulation and cognitive control, its neurocognitive mechanisms and the effects and underlying mechanisms of mindfulness-based intervention (MBI) on different executive functioning skills in athletic populations remain poorly understood. The purpose of this randomized controlled trial tackles a novel and important topic by investigating the beneficial effects of 12-week MBI on executive functioning skills in baseball players-a population that faces unique cognitive and physical demands, and the associated neurophysiological and biochemical regulation mechanisms. METHODS: Thirty-four baseball players were randomly divided into the MBI group (11M/6F) and the control group (11M/6F). Executive functioning skills (N-back task for working memory, Stroop task for inhibitory control, and Switching task for cognitive flexibility) were tested before and after the intervention. Functional near-infrared spectroscopy (fNIRS) was used to record quantified hemodynamic responses in the prefrontal cortex through oxygenated hemoglobin concentration (Oxy-Hb) monitoring during the performance of executive function tasks. Biomarkers of cognitive function, including BDNF, IL-6, TNF-\u03b1, and Cortisol, were measured using enzyme-linked immunosorbent assays (ELISA). RESULTS: MBI partially improved all three executive function skills, with increased Oxy-Hb level in L-FPA during the task of working memory, increased Oxy-Hb level in R-VLPFC during the task of inhibitory control, and decreased Oxy-Hb level in R-FPA, M-FPA, and L-DLPFC during the task of cognitive flexibility. Furthermore, MBI increased circulating BDNF level and decreased IL-6 and Cortisol levels. In addition, our correlation analyses showed that improvement in executive function (improved behavioral performances and changes in Oxy-Hb levels) were associated with changes in Cortisol and inflammatory cytokines (TNF-\u03b1 and IL-6). CONCLUSION: A 12-week MBI partially improved three components of executive function in baseball players. This enhancement may be attributed to the MBI-induced reductions in Cortisol and inflammatory cytokines (such as TNF-\u03b1 and IL-6), which altered blood oxygen contents in specific brain regions, thereby promoting executive function.",
-      "journal": "Psychology of sport and exercise",
+      "abstract": "Radical neurophenomenology offers new ways to re-thinking subjectivity and objectivity, and the relation between them. More specifically, radical neurophenomenology crucially relies on the notion of constitution to circumvent the pitfalls that were associated with older, dualistic frameworks. Building on existing work, our paper has two primary goals. First, we will argue that Merleau-Ponty\u2019s later work provides a suitable framework for elaborating a viable concept of (co-)constitution. As we will discuss, it is especially Merleau-Ponty\u2019s notion of the flesh which allows for a better way to understand the concept of constitution. However, our paper extends beyond purely theoretical analysis and interpretation. Our second goal is to illustrate the pragmatic gain of our clarificatory efforts by discussing how a viable concept of constitution should affect and inform the understanding of modern neuroimaging techniques and a qualitative phenomenological philosophy analysis of subjectivity and lived experience, and how this contributes to neurophenomenological inquiries.",
+      "journal": "Medicine, Health care and Philosophy",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Spirituality Among Older Adults With Depression: An Interpretative Phenomenological Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41930398/",
+      "title": "Training the embodied self in its impermanence: meditators evidence neurophysiological markers of death acceptance",
+      "url": "https://www.semanticscholar.org/paper/00c47d9555f66f70120d399433e5b7ab9b56af9e",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.651593",
-      "doi": "10.1111/jnu.70082",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-28T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804549",
+      "doi": "10.1093/nc/niaf002",
       "authors": [
         {
-          "name": "Wilawan Christraksa",
-          "author_id": null,
+          "name": "Yair Dor-Ziderman",
+          "author_id": "1399143192",
           "affiliation": null
         },
         {
-          "name": "Julia A Snethen",
-          "author_id": null,
+          "name": "Yoav Schweitzer",
+          "author_id": "1825247292",
           "affiliation": null
         },
         {
-          "name": "Julie L Ellis",
-          "author_id": null,
+          "name": "Ohad Nave",
+          "author_id": "1825252348",
           "affiliation": null
         },
         {
-          "name": "Vipavee Thongpriwan",
-          "author_id": null,
+          "name": "Fynn-Mathis Trautwein",
+          "author_id": "3480261",
           "affiliation": null
         },
         {
-          "name": "Colleen M Galambos",
-          "author_id": null,
+          "name": "Stephen Fulder",
+          "author_id": "2301783035",
+          "affiliation": null
+        },
+        {
+          "name": "A. Lutz",
+          "author_id": "2269027217",
+          "affiliation": null
+        },
+        {
+          "name": "A. Goldstein",
+          "author_id": "37673572",
+          "affiliation": null
+        },
+        {
+          "name": "Aviva Berkovich-Ohana",
+          "author_id": "1403270222",
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Spirituality is a crucial yet complex element of holistic nursing care, particularly when providing care for older adults with depression. In Thailand, depression poses a significant mental health challenge. Thai cultural values are deeply interwoven with individuals' beliefs, making spirituality a critical factor in addressing the care of older adults with depression. This study aimed to explore how older adults with depression experience spirituality and construct meaning from it in their daily lives. DESIGN: An interpretative phenomenological study. METHODS: In-depth interviews of 30 older Thai adults living with depression (aged 60-85\u2009years) from an outpatient psychiatric clinic in southern Thailand were conducted using semi-structured interview questionnaires. Interpretive phenomenological analysis was employed. Data were collected from June to August 2024. RESULTS: Five themes emerged from the phenomenological data analysis: (1) elusiveness of spiritual meaning, (2) holding oneself together through inner power, (3) finding acceptance through faith in a higher power, (4) family ties shaping peace and despair, and (5) being guided and cared for. CONCLUSION: This study highlights that older adults with depression perceive spirituality as essential for their well-being. Personal practices, such as meditation and chanting, played a key role in strengthening spirituality and reducing the risk of relapse in depressive symptoms, which are distinct for each older adult. Understanding spirituality's role in mental health guides nurses to develop strategies for providing more empathetic spiritual care. CLINICAL RELEVANCE: Nurses must address depression in older adults through individualized practices to effectively empower their inner strength and coping mechanisms. Understanding each individual's spiritual practices is essential to help them harness their inner strength when coping with depression.",
-      "journal": "Journal of nursing scholarship : an official publication of Sigma Theta Tau International Honor Society of Nursing",
-      "year": 2026,
+      "abstract": "Abstract Background Human predictive capacity underlies its adaptive strength but also the potential for existential terror. Grounded in the predictive processing framework of brain function, we recently showed using a magnetoencephalogram visual mismatch-response (vMMR) paradigm that prediction-based self-specific neural mechanisms shield the self from existential threat\u2014at the level of perception\u2014by attributing death to the \u2018other\u2019 (nonself). Here we test the preregistered hypothesis that insight meditation grounded on mindful awareness is associated with a reduction in the brain\u2019s defensiveness toward mortality. In addition, we examine whether these neurophysiological markers of death-denial are associated with the phenomenology of meditative self-dissolution (embodied training in impermanence). Methods Thirty-eight meditators pooled from a previous project investigating self-dissolution neurophenomenology underwent the vMMR task, as well as self-report measures of mental health, and afterlife beliefs. Results were associated with the previously-reported phenomenological dimensions of self-dissolution. Results Meditators\u2019 brains responded to the coupling of death and self-stimuli in a manner indicating acceptance rather than denial, corresponding to increased self-reported well-being. Additionally, degree of death acceptance predicted positively valenced meditation-induced self-dissolution experiences, thus shedding light on possible mechanisms underlying wholesome vs. pathological disruptions to self-consciousness. Conclusions The findings provide empirical support for the hypothesis that the neural mechanisms underlying the human tendency to avoid death are not hard-wired but are amenable to mental training, one which is linked with meditating on the experience of the embodied self\u2019s impermanence. The results also highlight the importance of assessing and addressing mortality concerns when implementing psychopharmacological or contemplative interventions with the potential of inducing radical disruptions to self-consciousness.",
+      "journal": "Neuroscience of Consciousness",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "The influence of Chinese calligraphic handwriting training on college students' emotional well-being: The role of state mindfulness and rumination.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42061072/",
+      "title": "Participant experiences of icaros (Amazonian curative songs) during a traditional medicine ceremony at the Takiwasi Center, Peru",
+      "url": "https://www.semanticscholar.org/paper/ee037fffe45e598abed955f423f00ee7585d55cb",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-29T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.651922",
-      "doi": "10.1016/j.actpsy.2026.106950",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-15T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804561",
+      "doi": "10.1556/2054.2024.00370",
       "authors": [
         {
-          "name": "Wen Chen",
-          "author_id": null,
+          "name": "Maya Sherwin",
+          "author_id": "2361823395",
           "affiliation": null
         },
         {
-          "name": "Ying Zhou",
-          "author_id": null,
+          "name": "Fabio Friso",
+          "author_id": "2136013682",
           "affiliation": null
         },
         {
-          "name": "Min Wang",
-          "author_id": null,
+          "name": "J\u00f6rg Fachner",
+          "author_id": "2299346968",
           "affiliation": null
         },
         {
-          "name": "Yixuan Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xu Xie",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qiong Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiaqian Shao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fang Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wenjing Wang",
-          "author_id": null,
+          "name": "Matteo Politi",
+          "author_id": "2297542071",
           "affiliation": null
         }
       ],
-      "abstract": "This study aimed to explore the impact of calligraphy training on the emotional well-being of college students\uff0cas well as the mediating roles of state mindfulness and rumination in this relationship, using a cross-sectional design (N\u00a0=\u00a0120) and longitudinal (N\u00a0=\u00a0157) design. The cross-sectional study compared the means of rumination, state mindfulness and the positive and negative emotions between long-term calligraphy experience group (\u22653\u00a0years of practice) and control group. With 24\u00a0-\u00a0week structured calligraphy intervention, the longitudinal study further tested the effect of calligraphy practice on emotional well-being and explore the mechanism. The results showed that: (1) In the cross-sectional study (Study 1), college students with long-term calligraphy experience had higher levels of positive emotions and state mindfulness, as well as lower levels of negative emotions and perceived stress compared to those without calligraphy experience. (2) In the 24 - week longitudinal intervention study (Study 2), students who received calligraphy training showed a significant increase in state mindfulness. Meanwhile, compared with the control group, their negative emotions and rumination did not increase. In addition, State mindfulness and rumination played mediating roles between calligraphy training and emotional well-being. This study indicates that calligraphy practice, as a traditional cultural activity, has great potential for promoting mental health.",
-      "journal": "Acta psychologica",
-      "year": 2026,
+      "abstract": "Musico-healing practices play a key role in indigenous and mestizo traditional medicine in the Amazon. The curative songs or icaros used by the curanderos (traditional healers) of the Peruvian Upper Amazon are administered alongside the psychoactive plant decoction ayahuasca in ritual settings. This Interpretive Phenomenological Analysis examines musical experiences of 6 participants attending an ayahuasca ritual for personal and spiritual development at the Takiwasi Center in Peru in 2018. Findings offer pointers towards a neurophenomenology of musico-healing experiences with ayahuasca, suggesting that the conjunction of icaros and ayahuasca may contribute to psycho-neurobiological mechanisms of healing such as self-referential processing, decentering, and facilitating access to beneficial introspective/meditative states. The study offers a medical ethnomusicological contribution to the phenomenological mapping of musico-healing experiences of Amazonian curative songs under the altered state of consciousness (ASC) produced by ayahuasca.",
+      "journal": "Journal of Psychedelic Studies",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Building Trauma Informed School Systems: Training and Practice Uptake as Part of a Systemwide Initiative in an Urban School District.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41452317/",
+      "title": "Scientific Method, Complexity and Phenomenology in Human Knowledge",
+      "url": "https://www.semanticscholar.org/paper/7f20ca593dbd5c33c8287325b594799b09e73b42",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.651971",
-      "doi": "10.1177/10775595251410558",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-04T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804591",
+      "doi": "10.1002/sres.70008",
       "authors": [
         {
-          "name": "Erum Nadeem",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Megan Blanton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anusha Sahay",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Olivia Kycia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christopher Dudek",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karina Heaton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jade Garcia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elsie Jimenez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sean Healy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Candace Coccaro",
-          "author_id": null,
+          "name": "F. Lebed",
+          "author_id": "81582470",
           "affiliation": null
         }
       ],
-      "abstract": "The current study used survey methods to examine initial feasibility and acceptability of a real-world, trauma-informed schools initiative across 15 urban schools and 617 school personnel and classroom teachers. Key indicators included uptake of online asynchronous trauma-informed skills training (TISE) and usage of specific trauma-informed practices by classroom teachers. Approximately 83% of all school personnel completed TISE. Examination of implementation factors revealed organizational health was positively associated with TISE completion, while burnout negatively predicted training completion. Among the subsample of teachers, 76% percent of teachers reported implementing community-building circles, 95% implemented warm and intentional greetings, and 87% implemented mindfulness. For teachers, perceived utility of the practice positively predicted teachers' implementation of all three skills. Access to practice-focused training at their school predicted community circles implementation, and TISE knowledge predicted intentional greeting implementation. Study results highlight the role of organizational culture, practical support, and usable practices in scaling trauma-informed schools initiatives.",
-      "journal": "Child maltreatment",
+      "abstract": "\n The classical scientific method, particularly its deterministic approach, encounters limitations when attempting to fully capture the complexities of human beings. Although many 20th\u2010century philosophers criticized this method, their arguments were primarily philosophical. I see a need for a critique of the scientific method grounded in empirical science itself. The complexity paradigm offers the most appropriate perspective for this purpose. This paradigm emphasizes the inherent proactivity (\u2018autopoiesis\u2019 or \u2018creation from within\u2019) that manifests through will, moral choices and intrinsic motivation\u2014aspects that are difficult to comprehend using the tools of the scientific method. I argue that integrating complexity\u2010based experimental studies with phenomenology provides an adequate framework for understanding human beings. To support and exemplify this argument, I draw upon Varela's neurophenomenology concept of \u2018third person\u2019 and develop it into a new epistemological model named \u2018a third person, studying a double first person\u2019.",
+      "journal": "Systems research and behavioral science",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Perceptions and Experiences of Uninsured Latinx Adult Participants in a Community Health Worker-Delivered Intervention to Address Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40331472/",
+      "title": "Between Objective and Subjective Architectural Experiences: Conceptualizing Refractive Neuroarchitecture Phenomenology",
+      "url": "https://www.semanticscholar.org/paper/7c5ec82604189edbb3b66fb6c850c49d6784fd69",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652009",
-      "doi": "10.1177/15248399251335582",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-14T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804601",
+      "doi": "10.17831/enqarcc.v21i2.1222",
       "authors": [
         {
-          "name": "Monica Guerrero Vazquez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marzena Maksym",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sarah Polk",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Suzanne M Dolwick Grieb",
-          "author_id": null,
+          "name": "Yongjun Shin",
+          "author_id": "2342669376",
           "affiliation": null
         }
       ],
-      "abstract": "Latinx immigrants have an increased risk of depression and other negative mental health problems. Community health workers (CHWs) have a history of bridging the divide between marginalized communities and health care systems. Since 2019, we have been implementing and evaluating a ten 1-hour-sessions intervention delivered by a CHW and adapted from cognitive behavioral therapy, mindfulness exercises, and behavioral activation to treat mild to severe depressive symptoms and anxiety. There has been little research on the subjective experiences of the participants receiving mental health services delivered by CHW. Our study's purpose was to explore the perceptions and experiences of participants in the intervention. To better understand the experiences of Latinx participants in the intervention, we conducted in-depth 1-hour interviews with participants who completed the 10 intervention sessions. Twenty-nine participants provided responses. Participant discussions about their experience with the intervention centered around three main themes: desperation as a motivator to accept the intervention, changed perceptions of self, and feelings of support. Results show that participants perceived the program as beneficial for their mental health and well-being by influencing their sense of self and self-worth and by feeling supported by the CHW. CHWs have the potential to address gaps in mental health service access experienced among Latinx immigrants. However, more research needs to continue investigating effective engagement strategies for treating depression and anxiety among Latinx immigrant patients.",
-      "journal": "Health promotion practice",
-      "year": 2026,
+      "abstract": "This analytical essay is aimed at developing a conceptual framework to assess how people experience the built environment both objectively and subjectively through a critical literature review of neuroarchitecture, architectural phenomenology, and neurophenomenology. Whereas both modes of human experience with the built environment are inseparable in real life, they have often been evaluated as seemingly antithetical and distinct approaches. Our experiences with the environment are mediated by our brains, for instance, our brain\u2019s neurophysiological responses to colors, shapes, or heights. Such experiences are universal. Also, our experiences are constantly refracted by our unconscious subjective and intersubjective sense-making filters in the brain. Based on the critical literature review and synthesis, this study conceptualizes a refractive neuroarchitecture phenomenology, which is defined as a study of humans\u2019 subjective and intersubjective architectural experiences through an epistemological and methodological convergence of the first- and second-person phenomenological and third-person neuroscientific methods. This conceptualization would provide intellectual significance as it attempts to integrate both objective and subjective epistemology and methodology into architectural research. For a practical implication, it is expected to demonstrate the importance of the phenomenological aspect of architectural efficacy and ways of applying neuroscientific research for place-making, including urban renewal and historic preservation.",
+      "journal": "Enquiry The ARCC Journal for Architectural Research",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Psychological impacts and self-management by responders to emergency and disaster events involving animals: findings from a cross-sectional international survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41033662/",
+      "title": "Un-binding the Umwelt: The Differential Contributions of the Five Classical Senses can be Understood Through Hindu Tantra",
+      "url": "https://www.semanticscholar.org/paper/6c3bae22a5d156883c01daeec2510c00f7f6cb7d",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652117",
-      "doi": "10.1080/00480169.2025.2561615",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-16T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804612",
+      "doi": "10.1007/s12304-024-09592-9",
       "authors": [
         {
-          "name": "S J De Grey",
-          "author_id": null,
+          "name": "Anand Venkatraman",
+          "author_id": "2340610433",
           "affiliation": null
         },
         {
-          "name": "C B Riley",
-          "author_id": null,
+          "name": "Anand Viswanathan",
+          "author_id": "2243353193",
           "affiliation": null
         },
         {
-          "name": "K R Thompson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "H E Squance",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "N Cogger",
-          "author_id": null,
+          "name": "Shyam Rao",
+          "author_id": "145215149",
           "affiliation": null
         }
       ],
-      "abstract": "AIMS: To examine the self-reported psychological impacts for professional and volunteer responders associated with attending animal-related emergencies and disasters, focusing on their experience and self-reported management. METHODS: An online survey of professional and volunteer responders to animal-related emergencies was shared via social media and international response organisations. Questions addressed demographic, training and event-related factors, perceptions of effects on well-being and post-event management recovery techniques. A particular event was recalled in free-text, and respondents indicated how they had been affected using free-text reflection and Likert scale assessment. The revised Impact of Event Scale (IES-R) was used to identify evidence of possible post-traumatic stress disorder (PTSD). Factors associated with the self-assessed binary outcome of compromised mental well-being (yes or no) were evaluated using single-predictor and multivariable logistic regression. RESULTS: Of 227 responses deemed sufficiently complete for analysis, participants' rescue experience ranged from 1-60 years; 67% identified as female. Most respondents (57%; 129/227) reported that the incident described affected their mental well-being. A multivariable model found female responders more likely than males to report compromised well-being (OR\u2009=\u20092.37, 95% CI\u2009=\u20091.25-4.57; p\u2009=\u20090.009). The presence of an animal injury (OR\u2009=\u20092.84, 95% CI\u2009=\u20091.44-5.75; p\u2009=\u20090.003), injuries to a member of the public (OR\u2009=\u20093.73, 95% CI\u2009=\u20091.68-8.99; p\u2009=\u20090.002), or a team member (OR\u2009=\u20098.65 95% CI 2.25-57.67; p\u2009=\u20090.006), increased the odds of self-reported adverse mental health outcomes. Six per cent (13/227) of respondents had an IES-R score for which partial PTSD may be a clinical concern, and 3% (7/227) had a score indicative of possible PTSD, including four with a score that has been associated with PTSD and long-term health consequences. Of those who tried well-being support techniques, 95% (187/197) ranked talking with friends, family or teammates as effective. Debriefing with the team or mentor was also effective (95%; 187/197). Socialising was effective for 88% (119/135), and mindfulness or meditation for 87% (91/105). CONCLUSION AND CLINICAL RELEVANCE: Responders to emergencies involving animals are at risk of psychological trauma associated with these events, potentially leading to the compromise of mental well-being. Psychosocial supports self-identified as helpful for recovery include talking with others, socialising, physical or recreational activity, debriefing, and mindfulness or meditation, but their effectiveness requires objective evaluation so that education on mitigation and recovery strategies is well-informed. ABBREVIATIONS: IES-R: Impact of Event Scale - Revised; PTSD: Post-traumatic stress disorder.",
-      "journal": "New Zealand veterinary journal",
-      "year": 2026,
+      "abstract": "Information from our senses, memories and thoughts is bound together into a unified whole that constitutes our experience of our world, our Umwelt. However, our ability to investigate our Umwelt through standard Western-derived neuroscience is limited, because of the third-person approach that undergirds the field. Achieving greater coherence in our understanding requires the addition of an approach which is fundamentally integrative. The most comprehensive first-person approach to the nervous system can be found in the introspective traditions of Tantric Hinduism. In this review, we explore the hierarchical ordering of the senses in Hinduism (from most gross to the most subtle, the latter being closer to consciousness), and how this may be linked to sensorimotor coupling in the parietal cortex. We demonstrate how this ordering parallels the developmental history of the sensory cortices over the course of vertebrate evolution. The synergy between biosemiotics and neurophenomenology is made clear, as the idea of a \u201cGreat Chain of Semiosis\u201d can be very helpful in understanding the reasons behind the emergence of this sensory hierarchy. The structures of the Subtle body described in Hindu Tantra should be seen as semiotic nodes used by the conscious agent in interacting with the world around it. We propose that metaphor ties together the various sensory mappings of the body at the cognitive level. Integrating insights from Hindu Tantra will help modern science better investigate questions of agency, meaning and semiosis in organisms.",
+      "journal": "Biosemiotics",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Perspectives and Requirements of Patients with Prostate Cancer on Mobile Health Interventions During Androgen Deprivation Therapy: A Descriptive Qualitative Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40059384/",
+      "title": "Kundalini and Microvita: Integrative Perspectives from Yogic Science, Neuroscience, and Quantum Philosophy",
+      "url": "https://www.semanticscholar.org/paper/96aaca3b561bc65a2f14d31bbd707baaeeba8b3f",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652331",
-      "doi": "10.1111/jocn.17718",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-15T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804622",
+      "doi": "10.69889/ijlapt.v2i11(nov).150",
       "authors": [
         {
-          "name": "Hongfan Yin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chen Pan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jia Gu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yan Yang",
-          "author_id": null,
+          "name": "Dr. Anita Sagar",
+          "author_id": "2393475248",
           "affiliation": null
         }
       ],
-      "abstract": "AIM: To explore the perceptions of patients with prostate cancer undergoing androgen deprivation therapy towards mobile health interventions. DESIGN: The study employed a qualitative descriptive design. METHODS: Seventeen participants were recruited from tertiary care hospitals from November 2022 to June 2023. The collected data were subsequently analysed using a content analysis approach. RESULTS: The main themes were facilitators, barriers, information needs, emotional and social needs, and self-management needs. Facilitators for using mobile health included support from healthcare professionals and family, competitive design features and user-friendly interfaces. Barriers included negative past experiences with technology and a satisfactory current state of health. Informational support included those patients who expressed a desire for timely, accurate information integrated with traditional Chinese medical principles. Regarding emotional support, patients emphasised their independence, preferring not to burden family and friends, showing disinterest in mindfulness and relaxation therapies, and generally disliking online interactions with fellow patients. For self-management, medication reminders and rehabilitation guidance were seen as vital tools to enhance supportive care. CONCLUSION: The study highlights the importance of customising mobile healthcare applications to meet unique needs among patients with prostate cancer and enhance their engagement and satisfaction. Understanding their specific preferences enables the development of more effective mobile healthcare applications. REPORTING METHOD: The COREQ checklist.",
-      "journal": "Journal of clinical nursing",
-      "year": 2026,
+      "abstract": "The present paper offers an interdisciplinary exploration of two profound concepts\u2014Kundalini, a classical yogic description of latent spiritual energy, and Microvita, a theoretical construct proposed by philosopher Prabhat Ranjan Sarkar that postulates the existence of subtle entities bridging the psychic and physical realms. Though emerging from distinct intellectual traditions\u2014ancient yogic science and modern metaphysical speculation\u2014both frameworks converge in their aim to describe the subtle interface between consciousness, energy, and matter. Drawing on insights from neuroscience, psychophysiology, quantum theory, and philosophy of mind, this paper proposes a conceptual model situating Kundalini and Microvita as complementary explanatory paradigms within consciousness studies. The discussion traces empirical evidence from meditation research, neurophenomenology, and biophysical studies of energy fields, while critically assessing methodological challenges in operationalising subtle phenomena. Furthermore, it argues that Microvita can be interpreted as informational or quasi-quantum mediators that correspond to the energetic and transformative dimensions of Kundalini activation. The proposed integrative framework highlights testable research directions\u2014such as synchrony-based neurophysiological signatures, non-local correlations, and psychophysical coherence\u2014that may bridge ancient introspective knowledge with modern scientific methods. By situating Kundalini and Microvita within a unified ontological continuum, this paper contributes to the growing discourse on how consciousness interacts with material systems, urging a balanced dialogue between traditional wisdom and empirical science.",
+      "journal": "International Journal of Linguistics Applied Psychology and Technology (IJLAPT)",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Psychological treatments for sexual concerns in perimenopausal and postmenopausal women: a systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41401244/",
+      "title": "Neurophenomenological Project for the Study of Religious Practices: History and Ideology",
+      "url": "https://www.semanticscholar.org/paper/6b393861fd7194a2f8a8472814ef598862b0bf40",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652460",
-      "doi": "10.1097/GME.0000000000002698",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-03T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804632",
+      "doi": "10.21146/0042-8744-2025-2-165-178",
       "authors": [
         {
-          "name": "Sheryl M Green",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Melissa Furtado",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julia Peak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zoryana Babiy",
-          "author_id": null,
+          "name": "T. Samarina",
+          "author_id": "2100629004",
           "affiliation": null
         }
       ],
-      "abstract": "IMPORTANCE: Sexual concerns are commonly reported by perimenopausal and postmenopausal women. Nonpharmacological treatments, including psychological-based treatments, may serve as an alternative and/or complementary option for those who cannot, or choose not, to take medication or who continue to experience symptoms despite their use. OBJECTIVE: This systematic review and meta-analysis examined psychological interventions that directly targeted and/or assessed sexual functioning in perimenopausal and postmenopausal women using standardized measures. EVIDENCE REVIEW: Web of Science, MEDLINE, and PubMed were searched for studies that evaluated the effects of psychological interventions for sexual concerns during perimenopause and postmenopause. Risk of bias assessments were done using the Cochrane Risk-of-Bias Tool and the Newcastle-Ottawa Scale. Data were pooled in a primary meta-analysis using the Female Sexual Function Index (FSFI), as well as subgroup analyses based on psychological intervention type, with effects reported separately for each subgroup. FINDINGS: Sixteen articles (n=1,445) met the eligibility criteria and were included in the systematic review and meta-analysis. Overall, nine randomized controlled trials (n=738) containing FSFI data were pooled in a meta-analysis showing psychological interventions were associated with significant improvements in sexual concerns (standardized mean difference [SMD]=1.37, 95% CI=1.17-1.58, P <0.00001; n=475). Subgroup analysis based on type of psychological intervention revealed that cognitive-behavioral therapy (SMD =-0.00, 95% CI=-0.26 to 0.25; n=233; I2 =0%) and mindfulness-based interventions (SMD =0.02, 95% CI=-0.40 to 0.45; n=86; I2 =0%) had no to small effect on the sexual function in perimenopausal and postmenopausal women, while education programs (SMD=2.53, 95% CI=-2.19 to 2.86; P <0.00001; n=268; I2 =94%) and counseling (SMD=2.43, 95% CI=1.92-2.94; P <0.00001; n=106; I2 =0%) had a large effect. Only one motivational interviewing study (effect size of 0.72) was included, but it revealed a large effect on sexual functioning. Overall risk of bias ranged from low to some concerns, with one study scoring high. CONCLUSIONS AND RELEVANCE: This systematic review and meta-analysis suggests that psychological interventions are an effective nonpharmacological treatment option for addressing sexual concerns in perimenopausal and postmenopausal women. Although cognitive-behavioral therapy and mindfulness-based approaches showed small to no effects on sexual concerns, these findings should be interpreted with caution, as the included studies did not directly target sexual concerns but instead assessed them as secondary outcomes. Psychological interventions should be considered when discussing treatment options for sexual concerns in perimenopausal and postmenopausal women.",
-      "journal": "Menopause (New York, N.Y.)",
-      "year": 2026,
+      "abstract": "The article reconstructs the neurophenomenological tradition of studying reli\u00adgious practices, examines the concept of neurophenomenology developed by Francisco Varela, whose ideas were analyzed in the context of the debate over the hard problem of consciousness which broke out in the 1990s, and were com\u00adpared with those of Daniel Dennett, John Searle and David Chalmers. It was es\u00adtablished that the concept formulated by Varela formed the methodological basis for research into meditation within the neurophenomenological tradition after the 1980s. A review of the history of neurophenomonological research is given. Psychological attempts at secularizing the achievements of religious practice in the writings of Herbert Benson and Daniel Goleman were considered. It is proved that a new era in the study of religious practices begins in the 1990s, when the first meta-study on experiments with meditation was published, along with John Kabat-Zinn\u2019s book \u201cFull Catastrophe Living\u201d, and the Mind and Life institute was opened. The activities of the latter are analyzed in detail, revealing its quasi-religious foundations. The specifics of the Mind and Life summer insti\u00adtute are analyzed and its influence on neurological research development in the United States is demonstrated. It is shown that the modern phase of neurophe\u00adnomenology is characterized by two significant achievements: the mindfulness revolution and the development of contemplative studies. In conclusion, the two programs for studying of religious practices are compared, neurotheology and neurophenomenology. Neurotheologists seek to separate religious practices from their religious content, while neurophenomenologists see their activities as a mis\u00adsion to change the world through the introduction of religious practices into daily life. However, considering that neurophenomenological discussions often focus on the problem of consciousness and Buddhist mindfulness, its level of philo\u00adsophical reflection is much higher.",
+      "journal": "Voprosy filosofii",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Mindfulness enhancement through logotherapy in patients with mastectomized breast cancer: a randomized controlled clinical trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42062323/",
+      "title": "The embodied mind in the trenches: A neurophenomenological exploration of sensory experience, trauma, and the battlefield in Tim O\u2019Brien\u2019s \u201cThe Things They Carried\u201d",
+      "url": "https://www.semanticscholar.org/paper/6692f0962cdfc852ef3d3382e203faacb463ca00",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-30T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652583",
-      "doi": "10.1038/s41598-026-42741-3",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-31T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804643",
+      "doi": "10.59400/lf2496",
       "authors": [
         {
-          "name": "Mahgol Nasr-Esfahani",
-          "author_id": null,
+          "name": "Hamed Jamalpour",
+          "author_id": "2211032476",
           "affiliation": null
         },
         {
-          "name": "Fatemeh Ghaedi-Heidari",
-          "author_id": null,
+          "name": "Zahra Jamalpour",
+          "author_id": "2381218745",
+          "affiliation": null
+        },
+        {
+          "name": "Manzar Feiz",
+          "author_id": "147463671",
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness, a psychological capacity, is often diminished in patients with breast cancer. This decline can negatively impact mental and physical health, behavioral regulation, and interpersonal relationships. Consequently, interventions to enhance mindfulness are crucial. This study aimed to evaluate the effect of logotherapy on mindfulness levels in patients with mastectomized breast cancer in Isfahan, Iran. This randomized controlled trial (IRCT20240310061242N1| 24/03/2024) investigated the effects of logotherapy on mindfulness in 64 patients with mastectomized breast cancer at Seyyed-al-Shohada Hospital, Isfahan, Iran. Participants were recruited via convenience sampling and randomly assigned to either the intervention (n\u2009=\u200930) or control (n\u2009=\u200934) group. The intervention group received eight logotherapy sessions (twice a week, 45-60\u00a0min each) over four weeks. Data were collected using a demographic questionnaire and the Five Facet Mindfulness Questionnaire (FFMQ-39). SPSS 22 was used for data analysis. Descriptive statistics and Chi-square test, t-test, ANOVA, Pearson correlation, and ANCOVA were used. The level of statistical siginificance was determined at \u03b1\u2009=\u20090.05. After the intervention, the control group's mean (SD) mindfulness score was 121.17 (13.78), and the intervention group's mean (SD) score was 129.76 (17.05). Data analysis using ANCOVA showed a significant difference in mindfulness between the control and intervention groups after the intervention (p\u2009=\u20090.003). Additionally, a significant relationship was found between occupation and mindfulness only in the intervention group (p\u2009=\u20090.01). Given the significant impact of logotherapy on enhancing mindfulness in patients with breast cancer, it is recommended that logotherapy be used as an effective method to improve patients' well-being.",
-      "journal": "Scientific reports",
-      "year": 2026,
+      "abstract": "Tim O\u2019Brien\u2019s \u201cThe Things They Carried\u201d transcends a mere war narrative. It delves into the profound assault on the human psyche and body experienced by soldiers grappling with combat horrors. This paper argues that a neurophenomenological framework offers a crucial lens for understanding these experiences, particularly their embodied responses to sensory overload and the enduring impact of trauma. Neurophenomenology posits that consciousness and the body are intertwined. Perceptions, emotions, and cognitions are rooted in bodily sensations. In Vietnam, soldiers endured a constant barrage of sensory stimuli: deafening artillery, the stench of death, and stifling humidity. These sensory experiences profoundly shaped their perceptions, emotions, and sense of self. \u201cThe Things They Carried\u201d vividly illustrates this embodied reality. O\u2019Brien details the soldiers\u2019 physical and psychological burdens: the weight of equipment, the constant fear, and the guilt of witnessing comrades perish. These manifest as physical weight, but also as profound dread, racing heartbeat, trembling hands, and the ever-present threat of nausea. The treacherous terrain\u2014the muddy swamps, the dense jungle\u2014contributes to a profound sense of disorientation and alienation. By examining the soldiers\u2019 experiences through a neurophenomenological framework, this paper aims to demonstrate how the sensory, bodily, and emotional dimensions of war are central to understanding the psychological and emotional impact of combat. \u201cThe Things They Carried\u201d serves as a powerful testament to the enduring power of embodied experience, highlighting the profound and lasting impact of war on the human psyche and body.",
+      "journal": "Literature Forum",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Evaluating the Meditation Practices and Barriers to Adopting Mindful Medicine Among Physicians.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40092531/",
+      "title": "Distilling the neurophenomenological signatures of pure awareness during Transcendental Meditation",
+      "url": "https://www.semanticscholar.org/paper/c25356b42508ffd1ed1387e4f32be0321557a070",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652677",
-      "doi": "10.1177/15598276251323850",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-04-02T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804693",
+      "doi": "10.1101/2025.09.25.678494",
       "authors": [
         {
-          "name": "Tiffany Champagne-Langabeer",
-          "author_id": null,
+          "name": "Alejandro Chandia-Jorquera",
+          "author_id": "2387315665",
           "affiliation": null
         },
         {
-          "name": "Chelsea G Ratcliff",
-          "author_id": null,
+          "name": "Sean D. van Mil",
+          "author_id": "2333430457",
           "affiliation": null
         },
         {
-          "name": "Christine Bakos-Block",
-          "author_id": null,
+          "name": "Mar Estarellas",
+          "author_id": "2265760662",
           "affiliation": null
         },
         {
-          "name": "Francine Vega",
-          "author_id": null,
+          "name": "Marina Dauphin",
+          "author_id": "2334748064",
           "affiliation": null
         },
         {
-          "name": "Marylou Cardenas-Turanzas",
-          "author_id": null,
+          "name": "C. Pascovich",
+          "author_id": "4840598",
           "affiliation": null
         },
         {
-          "name": "Aila Malik",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Radha Korupolu",
-          "author_id": null,
+          "name": "Andr\u00e9s Canales-Johnson",
+          "author_id": "1403122847",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "American journal of lifestyle medicine",
+      "journal": "bioRxiv",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "The impact of telemedicine and digital mental health in urban areas in Hong Kong.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41789710/",
+      "title": "Pathfinding: a neurodynamical account of intuition",
+      "url": "https://www.semanticscholar.org/paper/e26d6bb9a9475ccb9a307906ca9f5ceadb8814c1",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.652967",
-      "doi": "10.1097/YCO.0000000000001066",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-13T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804711",
+      "doi": "10.1038/s42003-025-08612-9",
       "authors": [
         {
-          "name": "Teris Cheung",
-          "author_id": null,
+          "name": "S. Kotler",
+          "author_id": "49572779",
           "affiliation": null
         },
         {
-          "name": "Kwan Hin Fong",
-          "author_id": null,
+          "name": "Michael Mannino",
+          "author_id": "2237618905",
           "affiliation": null
         },
         {
-          "name": "Yu-Tao Xiang",
-          "author_id": null,
+          "name": "K. Friston",
+          "author_id": "70438543",
+          "affiliation": null
+        },
+        {
+          "name": "Gy\u00f6rgy Buzs\u00e1ki",
+          "author_id": "2237618210",
+          "affiliation": null
+        },
+        {
+          "name": "J. A. S. Kelso",
+          "author_id": "2289704309",
+          "affiliation": null
+        },
+        {
+          "name": "Guillaume Dumas",
+          "author_id": "2267928794",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE OF REVIEW: This review examines the evolving role of telemedicine and digital mental health (DMH) in Hong Kong's urban healthcare landscape, focusing on accessibility, equity, and user engagement across diverse populations. RECENT FINDINGS: Telemedicine platforms such as HA Go have improved continuity of care and reduced stigma in mental health services. The pandemic accelerated the use of remote tools, revealing both strong public receptivity and persistent challenges related to regulation, usability, and clinical confidence. DMH interventions have expanded across age groups, including chatbot-based mindfulness programs for university students and digital games for primary school children. These studies highlight the importance of digital health literacy, cultural adaptation, and tailored approaches that address disparities in access and engagement shaped by socioeconomic status, age, and regional differences. SUMMARY: Hong Kong's digital health ecosystem is at a critical juncture. While infrastructure and public receptivity are strong, sustained progress requires inclusive design, clearer legal frameworks, and cross-sector collaboration. Telemedicine and DMH must evolve beyond crisis-driven adoption to deliver personalized, equitable, and trustworthy care across age, socioeconomic status, and regional divides.",
-      "journal": "Current opinion in psychiatry",
-      "year": 2026,
+      "abstract": "We examine the neurobiology of intuition, a term often inconsistently defined in scientific literature. While researchers generally agree that intuition represents \u201can experienced-based process resulting in a spontaneous tendency toward a hunch or hypothesis,\u201d we establish a firmer neurobiological foundation by framing intuition evolutionarily as a pathfinding mechanism emerging from the brain\u2019s optimization of its relationship with the environment. Our review synthesizes empirical findings on intuition\u2019s neurobiological basis, including relevant brain networks and their relationship to cognitive states like insight. We propose that unsolved problems dynamically alter attractor landscapes, guiding future intuitions. We investigate \u201copportunistic assimilation\u201d through nonlinear neurodynamics and identify hippocampal sharp wave ripples as potential neural correlates of intuition, citing their role in creativity, choice, action planning, and abstract thinking. Finally, we explore intuition through two complementary perspectives: the free energy principle, which models brains as minimizing uncertainty through predictive hierarchical coding, and metastable coordination dynamics, describing the brain\u2019s simultaneous tendencies toward regional cooperation and functional autonomy. Together, these principles provide a comprehensive neurodynamical account of intuition\u2019s neurophenomenology. This Perspective article proposes a neurodynamical model of intuition as a fast, embodied pathfinding mechanism shaped by evolution. Drawing on the free-energy principle and metastability, it explores how the brain predicts, feels, and acts through dynamic coordination.",
+      "journal": "Communications Biology",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "The Music for Subanesthetic Infusions of Ketamine randomised clinical trial: ketamine as a psychedelic treatment for highly refractory depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40528492/",
+      "title": "Psychedelics as Non-Specific Amplifiers",
+      "url": "https://www.semanticscholar.org/paper/d2965671d2da21606cee88c2157f40b456188ee3",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.653021",
-      "doi": "10.1192/bjp.2025.102",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-30T00:00:00",
+      "date_fetched": "2026-05-02T12:44:07.804733",
+      "doi": "10.31156/jaex.27866",
       "authors": [
         {
-          "name": "Kyle T Greenway",
-          "author_id": null,
+          "name": "A. Ruban",
+          "author_id": "2052589280",
           "affiliation": null
         },
         {
-          "name": "Nicolas Garel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "L\u00ea-Anh L Dinh-Williams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julien Thibault L\u00e9vesque",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mendel Kaelen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vincent Dagenais-Beaul\u00e9",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sara de la Salle",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David Erritzoe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karl Looper",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gustavo Turecki",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Soham Rej",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "S\u00e9phane Richard-Devantoy",
-          "author_id": null,
+          "name": "M. van Elk",
+          "author_id": "116427542",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Ketamine exerts potent but transient antidepressant effects in treatment-resistant depression (TRD). Combinations of ketamine and psychotherapy have attracted interest, but no trial has investigated a psychedelic model of ketamine-psychotherapy for TRD to our knowledge. AIMS: This secondary analysis of a randomised clinical trial (RCT) explores the therapeutic effects and experiential mechanisms of the Montreal Model of ketamine-psychotherapy for TRD, with or without music. METHOD: A two-centre, single-blinded, RCT conducted in Montreal, Canada, between January 2021 and August 2022 (NCT04701866). Participants received ketamine-psychotherapy for TRD - six subanaesthetic infusions over 4 weeks and psychological support - with either music or matched non-music support during ketamine doses, as per random group assignments. The primary therapeutic outcome was the Montgomery-\u00c5sberg Depression Rating Scale, assessed by blinded raters. Psychedelic-like experiences, evaluated by the Mystical Experience Questionnaire and Emotional Breakthrough Inventory, and their session-by-session relationships with depression were explored with multilevel, time-lagged covariate models with autoregressive residuals. RESULTS: Thirty-two participants with severe and highly comorbid TRD, including high rates of personality disorder and suicidality, received 181 ketamine infusions. Therapeutic outcomes and psychedelic experiences did not differ between music ( CONCLUSIONS: This trial found large and notably sustained benefits of ketamine-psychotherapy for severe TRD, with or without music,\u00a0and psychedelic experiences of comparable intensity to those observed with psilocybin. Mystical-like experiences may particularly contribute to ketamine's immediate and persistent psychiatric benefits.",
-      "journal": "The British journal of psychiatry : the journal of mental science",
-      "year": 2026,
+      "abstract": "Return to the Real describes how culturally prevalent narratives shape psychedelic experience. Building on Ten Berge\u2019s two-part analysis, our commentary argues that psychedelic effects are best understood within cultural feedback loops linking cultural set and setting, individual expectations, experience, and its articulation back into culture. On this view, psychedelics operate primarily as non-specific amplifiers and catalysts that magnify pre-existing beliefs, rather than revealing unmediated insights. We situate this thesis in relation to contemporary neuroscientific models of the psychedelic experience (CSTC, REBUS), humanistic and anthropological accounts, and evidence on socio-political belief change and clinical outcomes. We show how the apparent \u201cdisruptive\u201d effects of psychedelics can often be reinterpreted as context-dependent intensifications. We then identify methodological and ideological obstacles to studying culture in psychedelic science and propose a mixed-methods program, including reflexivity, discourse analytics, neurophenomenology, and naturalistic cohort comparisons, to operationalize cultural variables. Recognizing culture\u2019s constitutive role has ethical and epistemic consequences including caution with respect to metaphysical claims and\u00a0 attention to how psychedelics induce change in clinical settings.\u00a0 By bridging the humanities and cognitive neuroscience we can build a cumulative, culture-sensitive science of psychedelics.",
+      "journal": "Journal of Anomalous Experience and Cognition",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Psychosocial Health of Health Professions Students: A Concept Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41498643/",
+      "title": "ANTINOMIANISM IN THE INTERDISCIPLINARY DIALOGUE OF PHILOSOPHY AND PSYCHIATRY: FROM PHENOMENOLOGY TO NEUROSCIENCES",
+      "url": "https://www.semanticscholar.org/paper/ba145c7cf8325c0de41960a036944c0605c0f774",
       "item_type": "paper",
-      "source_type": "pubmed",
+      "source_type": "semantic_scholar",
       "date_published": null,
-      "date_fetched": "2026-05-01T12:53:42.653199",
-      "doi": "10.1097/NNE.0000000000002101",
+      "date_fetched": "2026-05-02T12:44:07.804737",
+      "doi": "10.17223/1998863x/83/1",
       "authors": [
         {
-          "name": "Roseanne Moody Fairchild",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jennifer Johnson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Terri B Cluver",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Salena Tully",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Leah Cordova",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shaina Whitecavage",
-          "author_id": null,
+          "name": "Olga A. Vlasova",
+          "author_id": "2265115394",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Enrollment as a student in a health professions program is reported to be stressful and to impact psychosocial health (PH). PURPOSE: A concept analysis of PH was conducted using Rodgers' method in the context of these programs. METHODS: Independent, blinded PRISMA review of 3719 works revealed 35 relevant studies. Narrative summary tables were derived based on evidence synthesis. Antecedents, attributes, consequences, a model case, and a conceptual model were identified. RESULTS: Pre-conditioned by students' developmental, social, and environmental characteristics, attributes of PH were: (1) mental health, stress, coping, locus of control; (2) resilience, emotional intelligence, mindfulness, hope; (3) self-esteem; (4) social support; (5) physical health, self-care; (6) academic work-life balance; and (7) academic pressure, workload, external influences. CONCLUSIONS: PH has tangible impacts on academic and clinical performance. Efforts by educators and practicing clinicians to enhance students' PH make a difference.",
-      "journal": "Nurse educator",
-      "year": null,
+      "abstract": "The article discusses the genesis of antinomianism in the philosophy of psychiatry, analyzes its origins in the philosophical interpretation of mental illness in the 20th century. Antinomianism is the interpretation of methods, concepts, and practices through contradictory but equal categories that set different perspectives for interpretation. The study of antinomianism has a critical orientation, i.e. (implementing Kant\u2019s critical method) is\naimed at characterizing the foundations and specifics of the philosophy of psychiatry, the nature of its problematization, its boundaries. The article reveals not only the positive achievements of the philosophy of psychiatry, but also its problem points, its modern situation. The author traces the transformation of antinomianism from the existentialphenomenological tradition in psychiatry to the philosophy of psychiatry. It is emphasized that the history of the field is based on the opposition between traditional psychiatry and a person-centered philosophical approach, within which the research perspective changes from external (objective) to internal (subjective). Based on philosophical problematization and bringing concepts rather than functives to the center of its field, philosophical psychiatry designates the main problem points of the theory with antinomic concepts that capture the non-objectifiable field of experience of a mentally ill person. Existential-phenomenological psychiatry replaces biological (anatomical) theory with phenomenological ontology, and anti-psychiatry develops a social theory (social ontology), on the basis of which it develops deinstitutional practice. The author analyses the antinomianism of the first studies of the philosophy of psychiatry as a problem field and scientific branch, the attempts to overcome it, coupled with the removal of antinomianism in neurophenomenology. The new model of consciousness develops a dialectical philosophical interpretation of mental illness, where the experience of consciousness is consistently explored simultaneously in the causal analysis of neuroscience and the structural analysis of phenomenology. This leads to the construction of a complex (philosophical and neurophysiological) theory of pathological experience. In the study of antinomianism as a platform for the philosophy of psychiatry, the article lays the basis for fundamental and applied studies of its problem field.",
+      "journal": "Vestnik Tomskogo gosudarstvennogo universiteta Filosofiya Sotsiologiya Politologiya",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Predictive Roles of Fear of Missing Out and Rumination in Depression Among ICU Nurses.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42037029/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.653386",
-      "doi": "10.1111/nicc.70422",
-      "authors": [
-        {
-          "name": "Mohadeseh Bizhanpour Sarabi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Naser Parizad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vahid Alinejad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fardin Ajoudani",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Nurses working in intensive care units (ICUs) experience occupational stress, which increases their vulnerability to psychological disorders such as depression. Depression among ICU nurses not only affects their mental well-being but may also impair the quality of patient care. Two psychological factors, fear of missing out (FoMO) and rumination, have been proposed as psychological contributors to depression. However, their predictive roles among ICU nurses remain insufficiently explored. AIM: To evaluate the predictive roles of FoMO and rumination in depression among ICU nurses. STUDY DESIGN: This descriptive, cross-sectional study was conducted among nurses working in ICUs in hospitals in Urmia, Iran, between 2024 and 2025. RESULTS: Of the 402 distributed questionnaires, 389 were fully completed, yielding a response rate of 96.8%. The findings indicated that FoMO (p\u2009<\u20090.001, r\u2009=\u20090.34) and rumination (p\u2009<\u20090.001, r\u2009=\u20090.79) were significantly positively correlated with depression among nurses. Regression analysis showed that rumination and FoMO predicted depression, explaining 63.1% of its variance, with rumination as the strongest predictor. In the hierarchical model, demographics explained 5.7%, and adding rumination and FoMO increased explained variance to 62.6%; rumination remained a significant predictor. CONCLUSIONS: Implementing evidence-based strategies to mitigate FoMO and rumination may contribute to preventing depression among ICU nurses. Interventions such as mindfulness-based practices, physical exercise and cognitive-behavioural techniques may reduce rumination. Strategies to manage FoMO, including limiting smartphone and social media use, promoting positive thinking, setting personal goals and encouraging professional mental health support, may be effective. RELEVANCE TO CLINICAL PRACTICE: The significant predictive roles of FoMO and rumination in depression among ICU nurses highlight the need for targeted mental health interventions. Mindfulness-based practices and cognitive-behavioural techniques can mitigate rumination, while strategies like limiting social media use and promoting self-compassion may reduce FoMO. These interventions can enhance nurses' psychological well-being, improve job satisfaction and support high-quality patient care in high-stress ICU environments.",
-      "journal": "Nursing in critical care",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Stay Informed and Updated.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41874577/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": null,
-      "date_fetched": "2026-05-01T12:53:42.653635",
-      "doi": "10.1097/NCM.0000000000000865",
-      "authors": [
-        {
-          "name": "Suzanne K Powell",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "In a world when my Editorials become out-of-date after I have hit \"submit\", it is more important than ever to stay informed and updated in the realm of case management. There are various ways to stay relevant.",
-      "journal": "Professional case management",
-      "year": null,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effect of a mindfulness-integrated positive psychology course on digital detox and smartphone addiction in nursing students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42061069/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-29T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.653725",
-      "doi": "10.1016/j.actpsy.2026.106943",
-      "authors": [
-        {
-          "name": "Aamer Aldbyani",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Positive psychology helps individuals enhance their attention, self-awareness, and positive thinking. Recent research has explored the impact of mindfulness-one of the core techniques in positive psychology-on behavioral addictions such as smartphone overuse. However, the effects of positive psychology courses that integrate mindfulness meditation, particularly in promoting digital detoxification and reducing smartphone addiction, have not been sufficiently studied. OBJECTIVE: This study aimed to examine the effectiveness of a positive psychology course incorporating drawing-breathing meditation in promoting digital detoxification and reducing smartphone addiction among nursing students at Shandong Xiehe University, China. METHODS: A quasi-experimental design was employed, consisting of a pre-test, post-test, and control group. Two classes were allocated as experimental and control groups without individual randomization to an experimental group (n\u00a0=\u00a033) and a control group (n\u00a0=\u00a033). Participants completed the Five Facets of Mindfulness Questionnaire (FFMQ), the Smartphone Addiction Scale (SAS), and the Digital Detoxification Scale (DDS) at three intervals: before, during, and after the intervention. RESULTS: The findings demonstrated that the integrated positive psychology course significantly enhanced mindfulness and digital detoxification while reducing smartphone addiction in the experimental group. No significant changes were observed in the control group across any of the measured variables. CONCLUSION: A positive psychology course integrated with drawing and breathing meditation was associated with improvements in digital mindfulness indicators and a reduction in smartphone addiction within the study sample. These findings can inform the design of future interventions that combine mindfulness and positive psychology to address technology-related behavioral issues among university students.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Psychological intervention for postpartum depression: A systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41539611/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.653818",
-      "doi": "10.1016/j.jad.2026.121189",
-      "authors": [
-        {
-          "name": "Keke Qin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dong Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yong Yu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Renming Deng",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Postpartum depression (PPD) is a common and serious psychiatric disorder occurring during the perinatal period, frequently accompanied by anxiety symptoms and associated with long-term adverse consequences for both maternal health and infant development. This study aimed to compare and rank the effectiveness of psychological interventions for PPD with respect to short-term anxiety, short-term depressive symptoms, and long-term depressive outcomes. METHODS: PubMed, Embase, Cochrane Library, as well as Web of Science were thoroughly searched until May 6, 2025, for randomized controlled trials (RCTs) evaluating psychological treatments for PPD. A Bayesian network meta-analysis (NMA) was performed to assess the relative efficacy of different interventions. The protocol was prospectively registered in PROSPERO (Registration No.: CRD420251046914). RESULTS: 35 RCTs were encompassed, including seven psychological interventions and two control conditions. Online cognitive behavioral therapy (OCBT) demonstrated the most consistent benefit in reducing short-term anxiety and ranked highest in the primary analysis (SUCRA: 91.98%). For short-term depressive symptoms, interpersonal psychotherapy (IPT) ranked highest in the primary analysis (SUCRA: 94.72%) and was associated with the most favorable effect compared with treatment as usual (TAU). Nevertheless, the treatment rankings for short-term depression were sensitive to the exclusion of studies at high risk of bias and therefore warrant cautious interpretation. Regarding long-term depressive outcomes, no intervention showed a statistically significant advantage over TAU, and the corresponding rankings remained uncertain. Cognitive behavioral group therapy (CBGT) and mindfulness-based cognitive therapy (MBCT) generally exhibited intermediate rankings for short-term outcomes, whereas individual cognitive behavioral therapy (ICBT) ranked lower for short-term depression in the primary analysis. CONCLUSION: OCBT may be a promising option for short-term anxiety management in women with PPD. IPT demonstrated favorable effects on short-term depressive symptoms in the primary analysis, but the relative ranking of interventions for short-term depression was less robust in sensitivity analyses. Evidence regarding long-term efficacy remains limited, highlighting the need for further high-quality randomized trials with longer follow-up.",
-      "journal": "Journal of affective disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Yoga for Eye Disorders-A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41217898/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.653858",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Ligi Abraham",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sony George",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Raghavendra Bhat",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Eye disorders significantly impair quality of life, productivity, and overall well-being. With the increasing interest in integrative medicine, yoga has been explored as a potential adjunct therapy for ocular conditions. OBJECTIVE: This systematic review aimed to examine the efficacy of yoga-based interventions in managing glaucoma, refractive errors, dry eye disease, and visual strain. METHODS: A comprehensive literature search of MEDLINE/PubMed (January 2000 to April 2025) identified experimental studies that evaluated the effects of yoga on eye disorders. Fourteen eligible studies were included. The risk of bias was assessed using Cochrane RoB 2 and ROBINS-I tools, and the PRISMA guideline was followed. RESULTS: The strong evidence supports meditation and pranayama as effective adjuncts in reducing intraocular pressure in glaucoma, potentially via stress modulation and autonomic regulation. Limited and inconclusive evidence has been found regarding the effects of yoga on myopia and dry eye disease. Methodological limitations, such as small sample sizes, short intervention durations, and subjective outcome measures, were commonly observed. CONCLUSION: Yoga is a promising adjunct therapy for glaucoma management. However, more rigorous, long-term, randomized trials with standardized protocols and objective outcomes are needed to validate its role across diverse ocular conditions. KEYWORDS: eye health, eye disorders, glaucoma, myopia, dry eye disease, yoga, meditation, pranayama, systematic review.",
-      "journal": "Advances in mind-body medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Patients' Perceptions of Homeopathic Consultations in an Integrative Care Day Hospital for Oncology Outpatients in Strasbourg, France: A Qualitative Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40897335/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.653936",
-      "doi": "10.1055/a-2594-1313",
-      "authors": [
-        {
-          "name": "Jean-Lionel Bagot",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mariya Lilova",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Homeopathic consultations complement conventional medicine by emphasizing individualized and specific patient symptoms. While numerous studies have examined the efficacy of homeopathic treatments, very few have explored patients' experiences during these consultations. OBJECTIVE: To analyze and understand how patients perceive this period of care, through a qualitative study conducted at the Integrative Care Day Hospital for oncology outpatients at Toussaint Hospital in Strasbourg, France. METHODS: Using interpretative phenomenological analysis, we conducted semi-structured interviews between February and April 2022 with patients living with advanced cancer. Participants were referred by oncologists or supportive care providers to the hospital, where they received various integrative therapies, including homeopathy, acupuncture, aromatherapy, dietetics, osteopathy, mindfulness, art therapy, socio-aesthetic care, and psychological support. Interviews focused on patients' lived experiences. Data collection continued until thematic saturation was reached, which occurred after 20 anonymized interviews. RESULTS: Seventeen of the 20 patients spontaneously commented on the homeopathic consultations, revealing seven key themes: attentive listening; sufficient time; trust and understanding; a holistic and person-centered approach; clear and detailed explanations; open-minded dialogue; comprehensive clinical and paraclinical assessment. Consultations were perceived as moments of calm, openness and humanity. The care was described as non-intrusive, providing clarity and meaningful explanations. CONCLUSION: Findings align with prior qualitative research: homeopathic consultations in integrative oncology were positively received, appreciated for their holistic and empathetic nature. These results highlight the meaningful contribution of homeopathy in integrative oncology.",
-      "journal": "Homeopathy : the journal of the Faculty of Homeopathy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A Scoping Review of Interventions for the Management of Nomophobia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42062628/",
+      "title": "The multifaceted neural architecture of pain modulation by emotion and cognition: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42067496/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-04-30T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.654168",
-      "doi": "10.1007/s44192-026-00466-9",
+      "date_fetched": "2026-05-02T12:44:29.253668",
+      "doi": "10.1016/j.bja.2026.03.015",
       "authors": [
         {
-          "name": "Vardhini Krishnamurthy",
+          "name": "Laura M Modernell",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Surekha Chukkali",
+          "name": "Isabelle Faillenot",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kasi Mayan Pavithrakshmi",
+          "name": "Luis Garcia-Larrea",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Camille Fauchon",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Nomophobia, or \"no-mobile-phone-phobia\", refers to the anxiety and apprehension arisingfrom the inability to have constant access to mobile phones due to various reasons. In a worldwhere digital modes of communication and socialisation are becoming the norm and people are finding it increasingly difficult to survive without their phones, nomophobia is emerging as one severe consequence. This scoping review seeks to understand the breadth of the existing literature surrounding the interventions for nomophobia, along with understanding its formats, components, scales used, theoretical framework and outcomes. The search included studies published in English from 2008 to 2025 that assessed nomophobia as an outcome using standardised measures. A total of 4,828 records were identified, of which 12 articles met the inclusion criteria. The authors adopted the JBI framework to structure the scoping review. The included studies primarily focused on the young adult population. The interventions were grouped into mindfulness-based, psychoeducation, app-based, and multi-component, combining various techniques. Most of the interventions were administered in groups and in-person formats. The Nomophobia Questionnaire (NMQ) was the most commonly used tool. Results revealed the need for designing primary and secondary preventive measures and long-term follow-ups. The review highlights the critical need for interventions focused on nomophobia since it is still nascent. The interventions are focused on limited populations and are limited in scope. Given the public mental implications of this increasingly pressing concern, this study shows the urgent need for culturally adaptable interventions to foster healthier digital habits and overall well-being.",
-      "journal": "Discover mental health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Anxiety in breast cancer research (1982-2024): a bibliometric analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41241668/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-01T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.654214",
-      "doi": "10.1007/s12094-025-04115-5",
-      "authors": [
-        {
-          "name": "Jie Hou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yaqin Meng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lei Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Haixia Fan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Minheng Zhang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Breast cancer remains a major global malignancy, with anxiety severely impacting patients' quality of life and treatment outcomes. Understanding evolving research trends is critical for developing effective interventions. This study examines 40-year trends, collaborations, and knowledge structures in breast cancer anxiety research. The goal is to inform future directions for psychosocial oncology research and policymaking. METHODS: Articles and reviews related to breast cancer and anxiety were retrieved from the Web of Science Core Collection (WoSCC). Medical Subject Headings (MeSH) and corresponding entry terms were employed to optimize the search strategy. CiteSpace (Version 6.4.R1), VOSviewer (Version 1.6.19), and the Bibliometrix R package were used to construct knowledge maps, visualize collaboration networks, monitor journal and author metrics over time, and calculate key indicators such as publication and citation counts. Regression analysis was applied to predict future development trends. RESULTS: Analysis of 4376 publications revealed a surge in research post-2006, peaking at 316 publications in 2021. The United States led in publications (1333 articles) and citations (56,008), followed by China, England, and Canada. The University of Sydney ranked first institutionally, and Christine Miaskowski was the most influential author. Psycho-Oncology and Supportive Care in Cancer were the leading journals. Co-citation and reference clustering identified key themes, including the psychological impact of COVID-19, psychological interventions, and long-term survivorship. Keyword analysis revealed a consistent focus on terms such as \"cancer survivor\" and \"mental health,\" with recent trends in \"telehealth,\" \"digital interventions,\" and \"mindfulness.\" CONCLUSION: Our analysis confirms a paradigm shift toward psychosocial and digital health interventions in breast cancer anxiety research. The findings advocate for integrated, patient-centered care models and highlight untapped potential in low-resource regions. Future research should prioritize scalable digital tools to address global disparities.",
-      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Changes of psychological and biological stress parameters in individuals with schizophrenia spectrum disorders participating in a mindfulness-based group therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42062279/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-04-30T00:00:00",
-      "date_fetched": "2026-05-01T12:53:42.654405",
-      "doi": "10.1038/s41537-026-00759-6",
-      "authors": [
-        {
-          "name": "Marco Zierhut",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sarah Koop",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Niklas Bergmann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Inge Hahne",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ingmar Conell",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julia Kraft",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alice Braun",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mareike Bayer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Thi Minh Tam Ta",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julian Hellmann-Regen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Neil Thomas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stephan Ripke",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Malek Bajbouj",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eric Hahn",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kerem B\u00f6ge",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigates changes in stress parameters in individuals with schizophrenia spectrum disorders participating in mindfulness-based group therapy (MBGT). N\u2009=\u200945 participants were randomised to MBGT or Treatment as Usual over four weeks. Before and after each session, psychological and biological stress markers by self-rating scales and cortisol saliva samples were assessed in the active group (n\u2009=\u200922). Oxytocin was assessed before and after the first and last sessions. Results indicated significant reductions in general stress, symptom-related distress and cortisol levels. Oxytocin showed increases during the first session and decreases during the last session. Exploratory analyses showed correlations between psychological and biological stress markers, and between stress reduction and changes in self-reported negative symptoms. MBGT may provide stress relief in patients with SSD with potential associations with negative symptoms. The study did not include a session-specific control group. Further studies with larger samples and corresponding control conditions are warranted to test causality.",
-      "journal": "Schizophrenia (Heidelberg, Germany)",
+      "abstract": "BACKGROUND: This study aimed to systematically review functional neuroimaging literature on the neural substrates underlying contextual modulation of pain in healthy individuals. METHODS: A search was conducted in PubMed-Medline, Cochrane, and Web-of-Science databases (PROSPERO-CRD42024586392). Studies on chronic pain were excluded, and the risk of bias was assessed with Cochrane RoB2. Spatial coordinates of brain regions undergoing activity changes were included in a meta-analysis using both Activation Likelihood Estimation and frequency estimation of activated or deactivated regions in individual studies (convergence analysis). RESULTS: From 224 full texts reviewed and n=100 articles retained (2735 individuals), three broad activity patterns were identified. One involved activation of prefrontal cortical areas, together with a modification of the sensory message in nociceptive cortical areas (deactivated during hypoalgesia and hyperactivated in hyperalgesia), consistent with top-down regulation via descending controls. A second configuration also involved prefrontal mobilisation, but without activity changes in nociceptive areas and was consistent with a 'perceptual decision bias'. A third configuration was associated with irregular ventromedial prefrontal involvement and significant deactivation in dorsolateral and ventrolateral prefrontal areas. While the first two patterns were observed in a range of attentional or expectation manipulations, including placebo/nocebo, the third pattern was essentially observed during tasks involving introspection and self-referential procedures such as meditation, religious prayer or nostalgia. CONCLUSIONS: Similar subjective pain changes can coexist with different brain activation patterns, reflecting diverse neural strategies. Whereas prefrontal cortex-driven descending modulation is one mechanism, introspective approaches can alter perception without involving prefrontal activity. This mechanistic diversity supports multiple avenues for behavioural or neuromodulation-based pain control.",
+      "journal": "British journal of anaesthesia",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
