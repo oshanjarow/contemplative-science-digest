@@ -1,148 +1,933 @@
 {
-  "generated_at": "2026-05-25T14:31:58.462578",
+  "generated_at": "2026-05-26T14:38:04.185388",
   "papers": [
     {
-      "title": "Seabed-to-Sky Mapping of Maritime Environments with a Dual Orthogonal SONAR and LiDAR Sensor Suite",
-      "url": "https://www.semanticscholar.org/paper/9c0a4fc14fa342dae39688b4ff40a9960ac415bc",
+      "title": "Loving\u2010Kindness Meditation: Systematic Review of Neuroimaging Correlates in Long\u2010Term Practitioners and Clinical Implications",
+      "url": "https://www.semanticscholar.org/paper/16b266fab5e9fc3b23529bc8fe5316c20ee7e971",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-12-04T00:00:00",
-      "date_fetched": "2026-05-25T14:31:15.121828",
-      "doi": "10.48550/arXiv.2512.05303",
+      "date_published": "2025-02-28T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.786912",
+      "doi": "10.1002/brb3.70372",
       "authors": [
         {
-          "name": "Christian Westerdahl",
-          "author_id": "2397182395",
+          "name": "Kiren Bashir",
+          "author_id": "2324298898",
           "affiliation": null
         },
         {
-          "name": "Jonas Poulsen",
-          "author_id": "2397182696",
+          "name": "Stephen B Edstrom",
+          "author_id": "2348080467",
           "affiliation": null
         },
         {
-          "name": "Daniel Holmelund",
-          "author_id": "2397182557",
+          "name": "Sarah Barlow",
+          "author_id": "2066054655",
           "affiliation": null
         },
         {
-          "name": "P. N. Hansen",
-          "author_id": "153628398",
+          "name": "Danielle M. Gainer",
+          "author_id": "2026085095",
           "affiliation": null
         },
         {
-          "name": "Fletcher Thompson",
-          "author_id": "2056595014",
-          "affiliation": null
-        },
-        {
-          "name": "Roberto Galeazzi",
-          "author_id": "2324286159",
+          "name": "J. Lewis",
+          "author_id": "13879488",
           "affiliation": null
         }
       ],
-      "abstract": "Critical maritime infrastructure increasingly demands situational awareness both above and below the surface, yet existing''seabed-to-sky''mapping pipelines either rely on GNSS (vulnerable to shadowing/spoofing) or expensive bathymetric sonars. We present a unified, GNSS-independent mapping system that fuses LiDAR-IMU with a dual, orthogonally mounted Forward Looking Sonars (FLS) to generate consistent seabed-to-sky maps from an Autonomous Surface Vehicle. On the acoustic side, we extend orthogonal wide-aperture fusion to handle arbitrary inter-sonar translations (enabling heterogeneous, non-co-located models) and extract a leading edge from each FLS to form line-scans. On the mapping side, we modify LIO-SAM to ingest both stereo-derived 3D sonar points and leading-edge line-scans at and between keyframes via motion-interpolated poses, allowing sparse acoustic updates to contribute continuously to a single factor-graph map. We validate the system on real-world data from Belvederekanalen (Copenhagen), demonstrating real-time operation with approx. 2.65 Hz map updates and approx. 2.85 Hz odometry while producing a unified 3D model that spans air-water domains.",
-      "journal": "arXiv.org",
+      "abstract": "Loving\u2010kindness meditation (LKM), a meditation type focused on nurturing love and compassion for oneself and others, has been shown to provide mental health benefits, and LKM interventions are being investigated for mental disorders. The benefits of long\u2010term practice, such as increased self\u2010compassion, greater cognitive and affective empathy, and prosocial behavior, are proposed to be due to neuroplastic changes that support well\u2010being. This systematic review aims to summarize the differences in brain structure and function in long\u2010term practitioners (LTPs) of LKM versus controls to identify possible underlying mechanisms that support mental health and drive treatment effect.",
+      "journal": "Brain and Behavior",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "non-dual awareness"
+        "loving-kindness meditation"
       ]
     },
     {
-      "title": "Microstate Dynamics of Focused Attention Meditation",
-      "url": "https://www.semanticscholar.org/paper/58cb4f1ff9b083605f58b2637bd13fe89cf394df",
+      "title": "The effects of short video app\u2013guided loving-kindness meditation on interpersonal mindfulness, empathy, collaboration, affect, and workplace well-being among working professionals",
+      "url": "https://www.semanticscholar.org/paper/d23aad23b20bac35dd999b37e0f4bd103256ea24",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-01-22T00:00:00",
-      "date_fetched": "2026-05-25T14:31:22.192212",
-      "doi": "10.64898/2026.01.19.700274",
+      "date_published": "2025-12-17T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.786939",
+      "doi": "10.3389/fpubh.2025.1716315",
       "authors": [
         {
-          "name": "C. Ngo",
-          "author_id": "2087835",
+          "name": "Chao Liu",
+          "author_id": "2218426632",
           "affiliation": null
         },
         {
-          "name": "Erkin Bek",
-          "author_id": "2331970567",
+          "name": "Ye-Hui Tu",
+          "author_id": "2378138852",
           "affiliation": null
         },
         {
-          "name": "Monika Stasytyte",
-          "author_id": "2406812831",
+          "name": "Li-Jen Lin",
+          "author_id": "2327263929",
           "affiliation": null
         },
         {
-          "name": "Lionel A Newman",
-          "author_id": "2290255305",
+          "name": "Hao Chen",
+          "author_id": "2149051233",
           "affiliation": null
         },
         {
-          "name": "R. Elizalde",
-          "author_id": "2059196944",
+          "name": "Thu-Hua Liu",
+          "author_id": "2143510842",
           "affiliation": null
         },
         {
-          "name": "Amit Kanthi",
-          "author_id": "2157415714",
+          "name": "Huang-Li Lin",
+          "author_id": "2279901531",
           "affiliation": null
         },
         {
-          "name": "N. Manjunath",
-          "author_id": "2378422799",
-          "affiliation": null
-        },
-        {
-          "name": "Christoph M. Michel",
-          "author_id": "2406813054",
+          "name": "Wen-Ko Chiou",
+          "author_id": "2244477915",
           "affiliation": null
         }
       ],
-      "abstract": "Focused-attention meditation provides a tractable model for examining how large-scale brain dynamics support attention and self-regulation. Using high-density EEG microstate analysis, we investigated how focused-attention meditation on the breath (\u0100n\u0101p\u0101nasati) modulates intrinsic brain activity in 22 experienced practitioners, compared with baseline rest and deliberate mental imagery. Five canonical microstate classes (A-E) were identified. Meditation produced a robust reduction of Microstate C across coverage, duration, and occurrence, accompanied by increased presence of Microstates D and E (all Microstate x Condition interactions p < 0.0001). Source localization revealed that Microstate C was generated primarily in medial and lateral temporal regions including the hippocampus and parahippocampal cortex, whereas Microstate D involved posterior midline regions including the posterior cingulate cortex and precuneus, and Microstate E engaged frontoparietal and orbitolimbic networks. Together, these results indicate that focused-attention meditation reorganizes the temporal architecture of large-scale brain dynamics by downregulating microstate patterns associated with self-referential and memory-based processing while enhancing neural states supporting attentional stability and internal monitoring.",
-      "journal": "bioRxiv",
+      "abstract": "Objective This study examined the effectiveness of a short video app\u2013guided Loving-Kindness Meditation (LKM) intervention in enhancing interpersonal mindfulness, empathy, interdisciplinary collaboration, affective states, and workplace well-being among working professionals. Methods A randomized controlled trial (RCT) was conducted with 100 full-time employees (aged 25\u201360), randomly assigned to an intervention group (n =\u202f50) or a control group (n =\u202f50). The intervention group completed daily 3-min LKM sessions for 4 weeks via a secure short video app, while the control group received no intervention. Validated psychological scales were administered at baseline and post-intervention, including the Interpersonal Mindfulness Scale (IMS), Empathy Scale (ES), Interdisciplinary Collaboration Scale (ICS), Positive and Negative Affect Schedule\u2013Short Form (PANAS-SF), and Workplace Well-being Scale (WWS). A 2\u202f\u00d7\u202f2 mixed ANOVA was used to assess group \u00d7 time interaction effects. Results Significant group \u00d7 time interaction effects emerged for all six outcomes. Compared with controls, the intervention group showed greater increases in interpersonal mindfulness (F\u202f=\u202f7.789, p\u202f=\u202f0.006, \u03b72\u202f=\u202f0.038), empathy (F\u202f=\u202f9.831, p\u202f=\u202f0.002, \u03b72\u202f=\u202f0.048), collaboration (F\u202f=\u202f4.832, p\u202f=\u202f0.038, \u03b72\u202f=\u202f0.022), and positive affect (F\u202f=\u202f8.580, p\u202f=\u202f0.004, \u03b72\u202f=\u202f0.042), along with reduced negative affect (F\u202f=\u202f10.169, p\u202f=\u202f0.002, \u03b72\u202f=\u202f0.049) and improved workplace well-being (F\u202f=\u202f5.660, p\u202f=\u202f0.018, \u03b72\u202f=\u202f0.028). Conclusion These findings demonstrate that short video\u2013based LKM is a feasible and effective digital intervention for cultivating prosocial qualities, emotional regulation, and psychological well-being in workplace settings. The study supports integrating compassion-based practices into organizational wellness initiatives to promote employee functioning and workplace harmony. Clinical trial registration https://www.chictr.org.cn/bin/project/edit?pid=285511, ChiCTR2500108223.",
+      "journal": "Frontiers in Public Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Impact of loving-kindness meditation intervention vs. music intervention during biopsy on adherence to recommended breast cancer screening",
+      "url": "https://www.semanticscholar.org/paper/efe243e855629230ef304785917917ad04616cdb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-16T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.786951",
+      "doi": "10.1007/s10549-025-07721-7",
+      "authors": [
+        {
+          "name": "Nicole A. Arrato",
+          "author_id": "12721606",
+          "affiliation": null
+        },
+        {
+          "name": "M. Soo",
+          "author_id": "2642546",
+          "affiliation": null
+        },
+        {
+          "name": "Anava A. Wren",
+          "author_id": "39699058",
+          "affiliation": null
+        },
+        {
+          "name": "J. Stalls",
+          "author_id": "83842295",
+          "affiliation": null
+        },
+        {
+          "name": "Dana H. Bovbjerg",
+          "author_id": "2280299267",
+          "affiliation": null
+        },
+        {
+          "name": "Francis J Keefe",
+          "author_id": "2239507863",
+          "affiliation": null
+        },
+        {
+          "name": "R. A. Shelby",
+          "author_id": "2268303749",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Breast Cancer Research and Treatment",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Regulation of Stress Physiology While Parenting: a Randomized Micro-trial of Loving-Kindness Meditation on Parenting and Salivary Alpha Amylase",
+      "url": "https://www.semanticscholar.org/paper/cee1b8661e88fcd02c7570f83efb78f1dac42f0c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-20T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.786959",
+      "doi": "10.1007/s11121-025-01795-x",
+      "authors": [
+        {
+          "name": "E. Reilly",
+          "author_id": "151386766",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Prevention Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Altered neural reward activation predicts clinical depression improvement after a novel loving-kindness meditation: a multimodal neuroimaging study.",
+      "url": "https://www.semanticscholar.org/paper/5672e4129f0750eb55dde3369f3a99ae7767f426",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-01T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.786970",
+      "doi": "10.1016/j.pscychresns.2025.112059",
+      "authors": [
+        {
+          "name": "Zhaohua Chen",
+          "author_id": "2111607650",
+          "affiliation": null
+        },
+        {
+          "name": "Chun Cui",
+          "author_id": "2310938091",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaoxiao Sun",
+          "author_id": "2112320577",
+          "affiliation": null
+        },
+        {
+          "name": "Wenjun Xiang",
+          "author_id": "2354319814",
+          "affiliation": null
+        },
+        {
+          "name": "Fei Liang",
+          "author_id": "2377352966",
+          "affiliation": null
+        },
+        {
+          "name": "Qin Dai",
+          "author_id": "1912027169",
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE\nMajor depressive disorder (MDD) has become the second largest risk factor affecting human health, with a progress in its treatment especially non-pharmacological therapies. The loving-kindness meditation (LKM) has been introduced to depression but is not popular due to requirement on awareness and concentration, and its utilization in clinical MDD is absent as well as exploration on neural mechanism. This study aims to develop a more feasible novel therapy-loving-kindness meditation integrating cognition and behavior (LKM-CB), examine its effect on clinical depression, and further explore its neural mechanism by multimodal neuroimaging.\n\n\nMETHOD\nIn study 1, the knowledge about love and the behavior of love were integrated into the LKM to form a LKM-CB, to better activate patients with cognitive and behavioral approach. It was further utilized to 30 MDD patients (31 controls). Study 2 further explored the neural mechanism behind the LKM-CB with 16 MDD patients, who underwent a structural MRI, resting-state fMRI, and reward card-guessing task fMRI before and after the LKM-CB.\n\n\nRESULTS\nStudy 1 developed a novel 8-week LKM-CB and found that compared with control group, LKM-CB significantly improved clinical depression in intervention group. Study 2 further showed that after LKM-CB intervention, patients showed lower activation in frontal-striatum especially middle orbito-frontal cortex (OFC) and anterior cingulate (AC) and insula for win and neutral outcome and anticipation following a loss feedback, while they showed higher activation in frontal-striatum including medial/middle-OFC and hippocampus for loss outcome and anticipation following a win feedback. Similar increased ALFF activation and grey matter in frontal cortex was also found. In contrast, patients showed higher activation in non-reward temporal-occipital cortex for loss and neutral outcome and anticipation following a loss feedback, while they showed decreased temporal-occipital ALFF activation and grey matter.\n\n\nCONCLUSIONS\nThis study develops a novel LKM-CB, which is effective in improving clinical depression. After the LKM-CB, there is dissociation in the neural reward activation pattern between reward anticipation (hyperactivation) and reward outcome (hypoactivation), and a hypoactivation in non-reward temporal-occipital cortex. This study provides a new feasible LKM-CB for non-pharmacological therapy of MDD, and to our knowledge, this is the first study to explore the neural mechanism behind the efficacy of LKM in depression therapy.",
+      "journal": "Psychiatry research. Neuroimaging",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Virtual reality-based compassion meditation for clinical contexts: A co-design study of a loving-kindness meditation prototype",
+      "url": "https://www.semanticscholar.org/paper/76f321f034415f1ae102fc6976d621ebd658060d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-05-26T14:37:24.786987",
+      "doi": "10.70401/ec.2025.0014",
+      "authors": [
+        {
+          "name": "M.A. Quiros Ramirez",
+          "author_id": "1403780822",
+          "affiliation": null
+        },
+        {
+          "name": "Sophia Haberland",
+          "author_id": "2404061875",
+          "affiliation": null
+        },
+        {
+          "name": "Tom Hempel",
+          "author_id": "2404062786",
+          "affiliation": null
+        },
+        {
+          "name": "R\u00fcdiger Arlt",
+          "author_id": "2229252179",
+          "affiliation": null
+        },
+        {
+          "name": "Philipp Keune",
+          "author_id": "2404077104",
+          "affiliation": null
+        },
+        {
+          "name": "Stephan Streuber",
+          "author_id": "2334410985",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Aims: This study introduces and evaluates a virtual reality (VR) prototype designed for the Loving-Kindness Meditation (LKM) to support mental health rehabilitation and relaxation in clinical contexts. The aims include the co-creation of a VR-based mindfulness experience with clinical experts and the evaluation of its usability, user experience, and short-term effects on relaxation, affect, and self-compassion.\n\nMethods: Following a design thinking and co-creation approach, the VR-based LKM experience was developed iteratively with input from clinicians and computer scientists. The final prototype was implemented for the Meta Quest 3 and included five immersive scenes representing phases of the LKM and transition scenes guided by a professionally narrated audio track. Eleven participants (M = 36.5 years, SD = 14.6) experienced the 12-minute session. Pre- and post-session measures included relaxation, positive and negative affect schedule, and self-compassion, complemented in the end by the Igroup Presence Questionnaire, usability measures and a semi-structured qualitative interview.\n\nResults: Participants reported significant decreases in negative affect (t(10) = -2.512, p = .0307, d = -1.037) and stress (t(10) = -3.318, p = .007, d = -1.328), as well as increases in relaxation (t(10) = 5.487, p < .0001, d = 2.471) and self-compassion (t(10) = 2.231, p = .0497, d = 0.283). Usability was rated as excellent (M = 92.5), and presence as good (M = 4.0, SD = 0.43). Qualitative feedback described the experience as calming, aesthetically pleasing, and easy to engage with, highlighting the falling leaves and pulsating orb as effective design elements.\n\nConclusion: The co-designed VR-LKM prototype was perceived as highly usable and beneficial for inducing relaxation and self-compassion, suggesting its potential as a supportive tool for clinical mindfulness interventions. The results indicate that immersive VR can effectively facilitate engagement and emotional regulation, providing a foundation for future clinical trials and broader implementation in therapeutic and wellness settings.",
+      "journal": "Empathic Computing",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Practicing Loving-Kindness Meditation to Promote Mental Wellness: A Qualitative Study of Doctoral Students' Experience",
+      "url": "https://www.semanticscholar.org/paper/d9bfb64d30e7dcc7ea159a460980b8097890df41",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-05-26T14:37:24.787002",
+      "doi": "10.28945/5597",
+      "authors": [
+        {
+          "name": "Steve Haberlin",
+          "author_id": "2276712404",
+          "affiliation": null
+        },
+        {
+          "name": "D. Boote",
+          "author_id": "46260290",
+          "affiliation": null
+        },
+        {
+          "name": "Terrie L Bradshaw",
+          "author_id": "2375421194",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Aim/Purpose: The mental health crisis of graduate students is often overlooked, though this population may experience higher rates of stress and anxiety than undergraduates. The purpose of this study was to describe perceptions and experiences of students practicing loving-kindness meditation (LKM) during synchronous online Doctor of Education classes at a large university.\n\nBackground: Doctoral students\u2019 mental health remains a prominent international concern. In recent years, more attention has been given to factors affecting graduate students\u2019 well-being and psychological distress. Mindfulness-based interventions have shown promising mental health outcomes in higher education.\n\nMethodology: Qualitative research was used to examine the experiences of 25 doctoral students, mainly working adults from education and other backgrounds. Weekly, written responses on meditation practice were collected using a confidential online survey, and focus groups were conducted to provide additional insight. MAXQDA software was used to conduct thematic data analysis. \n\nContribution: This study contributes to the growing body of knowledge on loving-kindness meditation as a mental health intervention with higher education students. It adds to the virtually non-existent literature on doctoral students\u2019 experiences with meditation. LKM has also been associated with reducing anxiety and stress in adolescents and with burnout prevention initiatives.\n\nFindings: Most participants perceived LKM as a difficult practice, struggled with mind-wandering during sessions, and did not engage if they felt rushed or overwhelmed. A smaller number of students reported experiencing stress relief and changes in perspective towards others.\n\nRecommendations for Practitioners: Advanced meditation methods like LKM should be scaffolded by having students initially study an introductory meditation method. Students also need time to adjust to class before engaging in meditation.\n\nRecommendation for Researchers: Researchers should continue to explore factors affecting the feasibility and efficacy of LKM to enhance well-being and reduce psychological distress, informing effective intervention designs and approaches.\n\nImpact on Society: The study underscores the importance of addressing the concerning mental health issues faced by doctoral students, an issue that receives less attention compared to undergraduate research on the topic. Additional research will help to normalize LKM as a valid, beneficial practice for mental health in academia and professional environments. \n\nFuture Research: Future research should include longer-term studies to ascertain whether students\u2019 experiences and perspectives change after greater doses of LKM, examine facilitation delivery, and conduct mixed-methods studies on LKM with doctoral students.\n\n",
+      "journal": "International Journal of Doctoral Studies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Research Progress on Loving-Kindness \nMeditation in Psychological Intervention",
+      "url": "https://www.semanticscholar.org/paper/91803460762b02c1ddaed946ba91601c4fb52872",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-05-26T14:37:24.787012",
+      "doi": "10.12677/ap.2025.157399",
+      "authors": [
+        {
+          "name": "\u6c38\u9e4f \u5b59",
+          "author_id": "2372321596",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Advances in Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Efektivitas Mindfulness Loving Kindness Meditation terhadap Penurunan Tingkat Stres, Kecemasan dan Depresi pada Pasien Kanker Paru",
+      "url": "https://www.semanticscholar.org/paper/570ea6ea465b22d1511c58295222f6c12a1d8fc2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-20T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787021",
+      "doi": "10.37287/jppp.v7i6.831",
+      "authors": [
+        {
+          "name": "Arza Rufli",
+          "author_id": "100547463",
+          "affiliation": null
+        },
+        {
+          "name": "Dewi Gayatri",
+          "author_id": "1393777724",
+          "affiliation": null
+        },
+        {
+          "name": "M. Rizki",
+          "author_id": "2384912965",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Kanker paru merupakan masalah kesehatan global yang serius yang ditandai dengan tingginya angka kejadian dan kematian. Teori gejala tidak menyenangkan berfokus pada penilaian, pemahaman faktor-faktor yang mempengaruhi, dan pengelolaan gejala tidak menyenangkan yang kompleks dan saling terkait termasuk gejala psikologis seperti stres, kecemasan, dan depresi dengan tujuan untuk meningkatkan kinerja dan kemampuan beraktivitas pasien kanker paru. Tujuan: Untuk memberikan gambaran pelaksanaan asuhan keperawatan pada pasien kanker paru yang mengalami distres psikologis dengan pendekatan teori TOUS. Metode: Desain studi kasus melalui pendekatan asuhan keperawatan dengan menerapkan Teori Gejala Tidak Menyenangkan. Asuhan keperawatan onkologi yang diberikan pada sepuluh kasus diberikan di ruang rawat inap dan ruang rawat jalan Pusat Kanker Nasional Rumah Sakit Kanker Dharmais yang dilakukan selama tujuh hari pada bulan April hingga awal Mei 2025. Terdapat sepuluh kasus kanker paru yang dikonfirmasi mengalami tekanan psikologis seperti stres, cemas dan depresi. Hasil: Proses keperawatan pemenuhan kebutuhan dasar pasien kanker paru yang mengalami distress psikologis dan gejala yang dialami mengalami penurunan. Dari intervensi tersebut, pasien mengalami peningkatan fokus, lebih mandiri dalam melakukan aktivitas dan penurunan stres, cemas dan depresi.",
+      "journal": "Jurnal Penelitian Perawat Profesional",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "A study to assess the effectiveness of loving kindness meditation on anger among cancer survivors",
+      "url": "https://www.semanticscholar.org/paper/d67e1d9029f194c073073bb3919a92e05cc5d63b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787029",
+      "doi": "10.33545/26649187.2025.v7.i2b.120",
+      "authors": [
+        {
+          "name": "R. G",
+          "author_id": "2391217105",
+          "affiliation": null
+        },
+        {
+          "name": "Sheeba Chellappan",
+          "author_id": "14866804",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "International Journal of Nursing and Health Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Using chills-inducing music to augment self-transcendence, emotional breakthrough, and psychological insight during mindfulness and loving kindness meditation.",
+      "url": "https://www.semanticscholar.org/paper/59cf32f7592b256d3f4a4217eae0364c90e0640b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-03T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787048",
+      "doi": "10.3389/fpsyg.2026.1589132",
+      "authors": [
+        {
+          "name": "Leonardo Christov-Moore",
+          "author_id": "1404564137",
+          "affiliation": null
+        },
+        {
+          "name": "F. Schoeller",
+          "author_id": "2276137093",
+          "affiliation": null
+        },
+        {
+          "name": "Mathilda von Guttenberg",
+          "author_id": "2334785817",
+          "affiliation": null
+        },
+        {
+          "name": "Tiffany Durinski",
+          "author_id": "2409314362",
+          "affiliation": null
+        },
+        {
+          "name": "M. Walder",
+          "author_id": "2042404004",
+          "affiliation": null
+        },
+        {
+          "name": "Felipe A. Jain",
+          "author_id": "2276338715",
+          "affiliation": null
+        },
+        {
+          "name": "Marco Iacoboni",
+          "author_id": "2329160380",
+          "affiliation": null
+        },
+        {
+          "name": "N. Reggente",
+          "author_id": "3435438",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction\nNon-pharmacologically induced altered states of consciousness that promote mental health and wellbeing are a growing focus of clinical and basic research. Previous work has revealed the mood-augmenting, belief-altering, and self-transcendent effects of aesthetic-chills-inducing audiovisual stimulation. The current study investigated how a guided loving kindness meditation (LKM) combined with uplifting, chills-inducing music (henceforth: chills-augmented) affected participants' mood, self-transcendence (ST), psychological insight, and emotional breakthrough.\n\n\nMethods\nWe conducted a randomized, controlled online study (n\u202f=\u202f398) using a 2 \u00d7 2 design comparing a validated loving kindness meditation (LKM) to mindfulness-based control (MC), each with chills augmentation (+) and without (-).\n\n\nResults\nAs hypothesized, LKM, compared to MC, increased connectedness to others, while chills augmentation to either stimulus (LKM+/MC+) enhanced ST, mood, emotional breakthrough, and psychological insight. Mediation analyses confirmed that the occurrence of aesthetic chills during meditation predicted these downstream effects. They also found trait measures that independently (of main effects) contributed to distinct outcomes: absorption predicted feelings of ego-dissolution, connectedness to the world and self, and moral elevation; interoceptive awareness predicted ego-dissolution and connectedness to self; and vividness of internal imagery predicted connectedness to the world and others.\n\n\nDiscussion\nChills augmentation appears a viable method for enhancing the immersiveness, salience, and downstream positive impact of guided contemplative interventions, without interfering with the intended outcome. This work can further our understanding of and access to non-ordinary experiences that beget salutogenic, prosocial outcomes.",
+      "journal": "Frontiers in Psychology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "loving-kindness meditation"
       ]
     },
     {
-      "title": "Perspectives of Oral Health Practitioners Working in Rural New South Wales: Culture, Wellbeing and Workforce Sustainability.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42177765/",
+      "title": "Investigating the neurological effects of loving kindness meditation using EEG-based feature extraction and machine learning",
+      "url": "https://www.semanticscholar.org/paper/a5bccb8de34a5d589ce1ca7a8f5c8d8b0ab2e2fb",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-24T00:00:00",
-      "date_fetched": "2026-05-25T14:31:57.677546",
-      "doi": "10.1111/adj.70054",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-01T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787074",
+      "doi": "10.1049/icp.2025.4715",
       "authors": [
         {
-          "name": "Lisa Hai My Do",
+          "name": "Lalita Moharkar",
+          "author_id": "40071415",
+          "affiliation": null
+        },
+        {
+          "name": "M. Bhagwat",
+          "author_id": "15700454",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "IET Conference Proceedings",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Mindfulness, Loving-Kindness, and Compassion-Based Meditation Interventions and Adult Attachment Orientations: A Systematic Map",
+      "url": "https://www.semanticscholar.org/paper/7a6ecf2bace68cb8a9e879c1b7adf44d4aee24aa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-24T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787082",
+      "doi": "10.3390/bs15020119",
+      "authors": [
+        {
+          "name": "T. Gazder",
+          "author_id": "113405122",
+          "affiliation": null
+        },
+        {
+          "name": "Erica Ruby Drummond",
+          "author_id": "2342181563",
+          "affiliation": null
+        },
+        {
+          "name": "Mine Gelegen",
+          "author_id": "2342179841",
+          "affiliation": null
+        },
+        {
+          "name": "Sarah C. E. Stanton",
+          "author_id": "51169288",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Meditation interventions have important benefits, including potentially helping those with higher attachment anxiety and avoidance enjoy better personal and relational growth. This preregistered and reproducible systematic map sought to identify the extent and scope of experimental evidence investigating the role of mindfulness, loving-kindness, and compassion-based multi-session meditation interventions in (a) moderating the effects of attachment orientations on outcomes over time and/or (b) changing attachment orientations over time. We conducted a systematic map, as the literature on meditation interventions and attachment is nascent. We searched 5 databases, screening 725 studies. We extracted data from four journal articles and one dissertation (five studies in total) which met our inclusion criteria. Four studies examined the effects of meditation interventions on buffering attachment insecurity and one examined attachment security enhancement. All five studies included a mindfulness meditation intervention, and one included a loving-kindness meditation intervention. All studies were conducted in Western cultures. Studies primarily found evidence for interventions benefitting those with higher attachment anxiety, although some evidence emerged for higher attachment avoidance. Our systematic map highlights a critical need for further application of meditation interventions in an attachment and personal growth context, given the promising nature of early work in this area.",
+      "journal": "Behavioral Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Evaluating an online four-session loving-kindness and compassion meditation training on improving psychological well-being among healthcare professionals in Hong Kong: a pilot randomised controlled study",
+      "url": "https://www.semanticscholar.org/paper/c03aa12665f5c2f0e69875f24cafdc1e76245ca1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-06T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787092",
+      "doi": "10.1080/23311908.2025.2510737",
+      "authors": [
+        {
+          "name": "D. Chan",
+          "author_id": "2281170981",
+          "affiliation": null
+        },
+        {
+          "name": "L. Luk",
+          "author_id": "46549290",
+          "affiliation": null
+        },
+        {
+          "name": "Lyon Long Lik You",
+          "author_id": "2365684649",
+          "affiliation": null
+        },
+        {
+          "name": "Dexing Zhang",
+          "author_id": "46334822",
+          "affiliation": null
+        },
+        {
+          "name": "Walter Bodhi Ngai",
+          "author_id": "2365906981",
+          "affiliation": null
+        },
+        {
+          "name": "S. Y. Wong",
+          "author_id": "2237111197",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract Healthcare professionals experience great stress and are more susceptible to burnout due to high workloads and complex working procedures. This increases their risk of depression and anxiety, leading to reduced productivity, extra expenses from absenteeism, and diminished quality of care delivery. Loving-kindness and Compassion Meditation (LKCM) has been shown effective at alleviating stress and emotional burnout. This pilot study examined the feasibility and acceptability of an online 4-weekly-session LKCM training for healthcare professionals in Hong Kong, and initially evaluated its effect on their psychological well-being. Eighty-two healthcare professionals were randomly assigned to either the LKCM training group or a waitlist-control group. Feasibility and acceptance were assessed by intervention completion rate and training evaluation. Participants self-reported their psychological outcomes at baseline, post intervention and at 3\u2009months follow-up. Of the 40 intervention group participants, 77.5% attended at least three out of four classes, with 73.5% and 91.2% of feedback indicating the course was effective and satisfactory overall. Concerning self-reported psychological outcomes, no significant between-group difference was found. However, subgroup analysis of 23 participants who were moderately or more stressed at baseline revealed significant immediate post-intervention benefits in emotional exhaustion (Cohen\u2019s d\u2009=\u2009\u22121.05), personal accomplishment (Cohen\u2019s d\u2009=\u20091.07), and social connectedness (Cohen\u2019s d\u2009=\u20090.89) for the intervention group compared to the control group. Preliminary evidence suggested that online LKCM training is feasible and acceptable. It also demonstrated potential immediate beneficial effects in improving psychological well-being, particularly for stressed participants. These findings will guide the design and implementation of larger efficacy studies in the future.",
+      "journal": "Cogent Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "The Neural Oscillations of Loving-Kindness and Compassion Meditation and Their Association with Positive Emotions: A Randomized Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/464d95448f684482385fd40904ea097e561004c8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-15T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787101",
+      "doi": "10.1007/s12671-025-02653-1",
+      "authors": [
+        {
+          "name": "Yuan Zheng",
+          "author_id": "2149515614",
+          "affiliation": null
+        },
+        {
+          "name": "Jingyi Zhou",
+          "author_id": "2145789220",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaodan Gu",
+          "author_id": "2164865267",
+          "affiliation": null
+        },
+        {
+          "name": "Lanqing Zhou",
+          "author_id": "2283174800",
+          "affiliation": null
+        },
+        {
+          "name": "Ruoyun Li",
+          "author_id": "2389275438",
+          "affiliation": null
+        },
+        {
+          "name": "Xinyi Li",
+          "author_id": "2118335323",
+          "affiliation": null
+        },
+        {
+          "name": "Xianglong Zeng",
+          "author_id": "2272681569",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Loving-Kindness and Compassion Meditation Facilitates Workplace Well-Being: Randomized Controlled Trials Comparing the Mediating Roles of Positive Emotion and Self-Compassion",
+      "url": "https://www.semanticscholar.org/paper/dfb7e2bc8f62bd63f29ba3bab3fb6c1133704eef",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-08T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787109",
+      "doi": "10.1007/s10902-025-00948-7",
+      "authors": [
+        {
+          "name": "Xianglong Zeng",
+          "author_id": "2272681569",
+          "affiliation": null
+        },
+        {
+          "name": "Li Yang",
+          "author_id": "2379969833",
+          "affiliation": null
+        },
+        {
+          "name": "Rong Wang",
+          "author_id": "2265363142",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of Happiness Studies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "A Randomized Controlled Pilot Study on the Effects of Loving-Kindness and Mindfulness Meditation (LKM) on Patients in a Sterile Isolation Room to Improve Their Mood Status",
+      "url": "https://www.semanticscholar.org/paper/d37f982959a7fa4e0961eb8c3365e591310d1395",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-31T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787119",
+      "doi": "10.1625/jcam.22.9",
+      "authors": [
+        {
+          "name": "Shinobu Yamada",
+          "author_id": "2147306829",
+          "affiliation": null
+        },
+        {
+          "name": "K. Arimitsu",
+          "author_id": "16291903",
+          "affiliation": null
+        },
+        {
+          "name": "Momoko Buyo",
+          "author_id": "14234706",
+          "affiliation": null
+        },
+        {
+          "name": "Tomoyo Mukai",
+          "author_id": "1491782045",
+          "affiliation": null
+        },
+        {
+          "name": "Rie Noguchi",
+          "author_id": "2229706090",
+          "affiliation": null
+        },
+        {
+          "name": "Akiko Misu",
+          "author_id": "2380272894",
+          "affiliation": null
+        },
+        {
+          "name": "T. Sonoki",
+          "author_id": "2255130310",
+          "affiliation": null
+        },
+        {
+          "name": "M. Hayashi",
+          "author_id": "4900804",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Japanese Journal of Complementary and Alternative Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Fears of compassion differentially relate to recognition of positive emotions in others after inductions of loving-kindness or muscle relaxation: a study among highly socially anxious young adults.",
+      "url": "https://www.semanticscholar.org/paper/95c2a02ab8c91799dffc6a652625ad3c2347f70e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-05T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787127",
+      "doi": "10.1080/02699931.2025.2566303",
+      "authors": [
+        {
+          "name": "Ashley N. Howell",
+          "author_id": "2312367508",
+          "affiliation": null
+        },
+        {
+          "name": "Audrey Darnbush",
+          "author_id": "2384085795",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Social anxiety disorder (SAD) is characterised by heightened fears of negative and positive evaluation, which may contribute to deficits in emotion recognition and social functioning. This study examined the relationship between trait fears of compassion (FOCs) and accuracy in emotion recognition, following a brief Loving-Kindness Meditation (LKM) versus Progressive Muscle Relaxation (PMR). Highly socially anxious young adults (n\u2009=\u200977; 86% women; 75% White/Caucasian) were randomised to either a LKM or PMR induction before completing the Geneva Emotion Recognition Task, which assesses recognition of others' emotions via dynamic stimuli. Results indicated that higher FOCs related to poorer recognition of others' positive emotions following PMR, but to better recognition following a LKM. There were no significant interaction effects for negative emotion recognition. Also, greater fear of expressing compassion was related to more frequent negative labelling of positive stimuli in the PMR group, but there was virtually no relation between these variables in the LKM group. These findings suggest that loving-kindness inductions may, at least temporarily, mitigate negative interpretation biases and enhance social positivity perception in socially anxious individuals, particularly those with heightened fears of compassion. These results also inform possible mechanisms of action of LKM as a longer-term intervention for SAD.",
+      "journal": "Cognition & Emotion",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Kindness is lesser preferable than happiness: investigating interest in different effects of the loving-kindness and compassion meditations",
+      "url": "https://www.semanticscholar.org/paper/664508598086f9db16c394f6ff512c952d4fbce2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-26T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787136",
+      "doi": "10.1186/s40359-025-02771-4",
+      "authors": [
+        {
+          "name": "Yanhe Deng",
+          "author_id": "2282504149",
+          "affiliation": null
+        },
+        {
+          "name": "Taoyuan Du",
+          "author_id": "2357826470",
+          "affiliation": null
+        },
+        {
+          "name": "Xianglong Zeng",
+          "author_id": "2272681569",
+          "affiliation": null
+        },
+        {
+          "name": "Wen Wang",
+          "author_id": "2353557302",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The primary purpose of the Loving-kindness and Compassion Meditations (LKCM) in Buddhism was the cultivation of kindness, but many modern LKCM trainings focused on happiness, and even used the \u201ckindness for happiness\u201d strategy that advocate cultivation of kindness for the benefit of happiness. This study investigated whether cultivating kindness was lesser desired than enhancing happiness for potential trainees, and it impacts on LKCM training. Study 1 recruited 583 university students, study 2 involved 1075 participants from a 4-week online LKCM training. The measures included interest in meditation trainings that focused on emotional happiness, kind attitudes and other effects. Two studies cohesively supported kind attitudes were the least desired effects, and study 2 showed that higher interest in meditations on Subjective well-being predicted increases in personal happiness. In summary, this study provided first evidence that trainees\u2019 preference on potential effects of LKCM existed and linked with effects of training. It suggested the hedonic bias in modern positive psychology is facilitated by trainees, and encouraged further attention in the philosophical and ethical issues in the trainings. The intervention program has been retrospectively registered with the PRS on May 17, 2024, under registration number NCT06424951.",
+      "journal": "BMC Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Intracranial substrates of meditation-induced neuromodulation in the amygdala and hippocampus",
+      "url": "https://www.semanticscholar.org/paper/3f94ad206cb4f22e17b436c654e0a69c2f95b906",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-04T00:00:00",
+      "date_fetched": "2026-05-26T14:37:24.787164",
+      "doi": "10.1073/pnas.2409423122",
+      "authors": [
+        {
+          "name": "Christina Maher",
+          "author_id": "2298585333",
+          "affiliation": null
+        },
+        {
+          "name": "Lea Tortolero",
+          "author_id": "2301208846",
+          "affiliation": null
+        },
+        {
+          "name": "Soyeon Jun",
+          "author_id": "2343811483",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel D. Cummins",
+          "author_id": "2287275203",
+          "affiliation": null
+        },
+        {
+          "name": "Adam E. Saad",
+          "author_id": "2233506051",
+          "affiliation": null
+        },
+        {
+          "name": "James Young",
+          "author_id": "2344580640",
+          "affiliation": null
+        },
+        {
+          "name": "Lizbeth Nunez Martinez",
+          "author_id": "2343808430",
+          "affiliation": null
+        },
+        {
+          "name": "Zachary Schulman",
+          "author_id": "2301208841",
+          "affiliation": null
+        },
+        {
+          "name": "L. Marcuse",
+          "author_id": "2268374228",
+          "affiliation": null
+        },
+        {
+          "name": "A. Waters",
+          "author_id": "2243428987",
+          "affiliation": null
+        },
+        {
+          "name": "Helen S. Mayberg",
+          "author_id": "2250509708",
+          "affiliation": null
+        },
+        {
+          "name": "R. Davidson",
+          "author_id": "2053411146",
+          "affiliation": null
+        },
+        {
+          "name": "F. Panov",
+          "author_id": "2282707340",
+          "affiliation": null
+        },
+        {
+          "name": "Ignacio Saez",
+          "author_id": "2281957039",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Significance We leverage rare chronic, invasive electrophysiology recordings while participants engage in loving-kindness meditation to demonstrate that meditation induces neural changes in beta and gamma activity in the amygdala and hippocampus of novice meditators. These results build on previous findings in experienced meditators and reveal meditation\u2019s potential for noninvasive neuromodulation of brain activity associated with emotional regulation and mood disorders.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Virtual Reality Mindfulness Meditation for Patients After Anterior Cruciate Ligament Reconstruction: Protocol for the Development of a National Institutes of Health Stage 1 Behavioral Intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42184365/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-05-25T00:00:00",
+      "date_fetched": "2026-05-26T14:37:52.994642",
+      "doi": "10.2196/91897",
+      "authors": [
+        {
+          "name": "Shelby Baez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jessica Biles",
+          "name": "Hana Marmura",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Bradley Christian",
+          "name": "Brian Pietrosimone",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Woosung Sohn",
+          "name": "Jason Moser",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: While limited research has explored the experiences of this workforce, oral health practitioners in rural areas face distinct cultural and personal challenges that influence workforce sustainability and delivery of care. This study aims to understand the cultural and personal experiences of oral health practitioners working in rural New South Wales and identify factors influencing their cultural capabilities, personal wellbeing and workforce sustainability. METHODS: A cross-sectional survey was conducted among oral health practitioners across three rural Local Health Districts in New South Wales. The survey included items on sociodemographic characteristics, cultural capabilities and awareness, and personal experiences. Data was analysed using descriptive statistics and subgroup comparisons made based on profession (dentists vs. other oral health practitioners) and years of experience (less or more than 10\u2009years). RESULTS: Nineteen participants completed the survey, primarily dentists and oral health therapists, with few dental therapists. Most reported initial cultural awareness training; however, less than half reported ongoing training. Most participants reported personal growth associated with their role. Dentists reported greater access to support systems and training opportunities than other oral health practitioners. CONCLUSION: There is need for continuous cultural capability training and equitable support systems to strengthen rural oral health workforce sustainability. Despite small participant numbers, this study provides valuable insight into practitioner experiences and identifies opportunities for a culturally safe and wellbeing-focused workforce in rural NSW.",
-      "journal": "Australian dental journal",
+      "abstract": "BACKGROUND: About 1 in 3 individuals will sustain a secondary anterior cruciate ligament (ACL) injury within 24 months of returning to sport after ACL reconstruction (ACLR). While aberrant biomechanics and poor quadriceps strength have been associated with secondary ACL injury risk, unresolved injury-related fear has also been identified as a potential risk factor for additional ACL injuries in previously high-functioning, physically active populations. Virtual reality mindfulness meditation (VRMM) is a psychological intervention that may reduce injury-related fear and improve an individual's ability to stay in the present moment during stressful situations such as sport. There is a critical need to identify whether VRMM is a feasible intervention that could be implemented to address injury-related fear and reduce secondary ACL injury risk. OBJECTIVE: This study aims to determine the feasibility, acceptability, and preliminary efficacy of a VRMM intervention with neuromuscular training rehabilitation (NTR) to reduce injury-related fear and improve jump-landing biomechanics in females with a history of ACLR, when compared to a sham virtual reality (VR) intervention+NTR. METHODS: A double-blinded, 2-arm feasibility trial of 48 participants (24 per group) comparing VRMM+NTR and VR sham+NTR will be conducted. Recruitment, retention, adherence, and acceptability outcomes will be collected throughout the trial. Injury-related fear will be measured using the 11-Item Tampa Scale of Kinesiophobia. Jump-landing biomechanics will be assessed via peak knee abduction moment and peak knee flexion excursion. The change in outcomes will be compared between groups using 2\u00d72 repeated measures ANOVA and partial \u03b72 effect sizes. Significance will be set at P<.05. RESULTS: The study was funded in May 2021. The trial started in September 2023 and is anticipated to be completed in May 2027, with the first results expected to be submitted for publication in winter 2027. We expect to observe acceptable rates of retention, adherence, and acceptability to the VRMM intervention and more favorable outcomes in the VRMM+NTR group compared to the VR sham+NTR group. As of now, 55 participants have been screened for eligibility, of which 33 were ineligible. Twelve participants have been randomized, and 10 have completed the trial. Two participants withdrew from the trial before the completion of the full intervention protocol due to the study time commitment. CONCLUSIONS: The results of this trial will improve our understanding of the feasibility of VRMM and inform the next steps in behavioral intervention development to test the efficacy of VRMM in reducing injury-related fear in females after ACLR.",
+      "journal": "JMIR research protocols",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -150,72 +935,67 @@
       "matched_keywords": []
     },
     {
-      "title": "Mindfulness-based eating awareness training (MB-EAT) decreases emotional eating behavior among Hong Kong university students: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42178450/",
+      "title": "Rationale for Accreditation Criteria for the MATES in Construction Workplace Suicide Prevention Program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42186362/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-05-24T00:00:00",
-      "date_fetched": "2026-05-25T14:31:57.678045",
-      "doi": "10.1007/s10865-026-00673-3",
+      "date_published": "2026-05-26T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.456144",
+      "doi": "10.1177/10482911261449730",
       "authors": [
         {
-          "name": "Dalinda Isabel Sanchez Vida\u00f1a",
+          "name": "Anthony D LaMontagne",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Daniel Kwasi Ahorsu",
+          "name": "Tania King",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lynette McCormack",
+          "name": "Jorgen Gullestrup",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Roy Rongyue Zeng",
+          "name": "Tu Boldeman",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tiev Miller",
+          "name": "Nick Thompson",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nestor Vinas Guasch",
+          "name": "Brad Parker",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ngai-Man Jackie Chan",
+          "name": "Karyn Dale",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kenneth Ka-Hei Lo",
+          "name": "Liam Cubbage",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Pablo Cruz Gonzalez",
+          "name": "Trent Bazley",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Benson Wui-Man Lau",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Way Kwok-Wai Lau",
+          "name": "John Chapman",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "University students in Hong Kong facing academic stress are prone to engage in emotional eating, that has detrimental physical and psychological effects. Addressing emotional eating through interventions like Mindfulness-Based Eating Awareness Training (MB-EAT), which effectively treats clinical eating disorders, is crucial, yet its effectiveness among students remains underexplored. A parallel group randomized controlled trial with 46 students (42 female, 4 male) evaluated the effect of a 10-week MB-EAT intervention, delivered through Zoom, on emotional eating (primary outcome), measured by the Salzburg Emotional Eating Scale at pre-, mid-, and post-intervention, with secondary measures of mood and mindfulness evaluated pre- and post-intervention. Students in the MB-EAT group showed greater reductions in emotional eating and improvements in depression and mindful eating. MB-EAT may offer greater long-term benefits for students with emotional eating by reducing negative psychosocial effects, helping students better cope with stress through emotion regulation and mindful eating skills.",
-      "journal": "Journal of behavioral medicine",
+      "abstract": "MATES in Construction originated in Australia as a workplace suicide prevention program for predominantly male, blue-collar industries with high suicide rates. Accreditation criteria were developed for the purpose of providing recognition for participating sites and promoting the program. Arising from an internal review of the MATES accreditation criteria, this article presents the purpose and history of MATE's accreditation criteria; the rationale and evidence underpinning the accreditation criteria; and the evolving practice of accreditation in the MATES context.Four accreditation criteria are specified, addressing the 3 levels of the prevention and early treatment spectrum for mental health and illness interventions (universal/selective/indicated): (1) All the available workforce on a work site must be offered General Awareness Training (GAT, universal); (2) Following initial GAT training, at least 80% of the workforce is GAT trained (universal); (3) All workers must have a \"line of sight\" to a worker/volunteer trained in how to connect people to help (selective); (4) the work site must be able to access an Applied Suicide Intervention Skills Trained person during operational hours (indicated).MATES programs continue to evolve, possibly warranting additional accreditation criteria in the future to acknowledge the implementation of increasingly comprehensive programs.The extent to which the MATES justification for and approach to accreditation is generalizable to other contexts is not known; however, the underlying principles and rationale provided are likely adaptable in other contexts.",
+      "journal": "New solutions : a journal of environmental and occupational health policy : NS",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -223,32 +1003,315 @@
       "matched_keywords": []
     },
     {
-      "title": "\"Shut up! Don't look at me!\": A qualitative description of body image and attention among elite athletes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42178037/",
+      "title": "Alternative and Complementary Therapies: A Review Exploring the Role of Yoga and Ayurveda-based Herbal Medicines in Alleviating Hypothyroidism and Its Neuropsychiatric Manifestations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183570/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-05-23T00:00:00",
-      "date_fetched": "2026-05-25T14:31:57.678134",
-      "doi": "10.1016/j.psychsport.2026.103175",
+      "date_published": "2026-05-20T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.456180",
+      "doi": "10.1177/09727531261440119",
       "authors": [
         {
-          "name": "Delaney Elise Thibodeau",
+          "name": "Garima Jaglan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Catherine M Sabiston",
+          "name": "Acharya Balkrishna",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michael Atkinson",
+          "name": "Anurag Varshney",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Elite athletes face pressures related to body weight, shape, and performance that may be heightened by scrutiny from media, spectators, opponents, teammates, coaches, and family. Body dissatisfaction, disordered eating, and negative body-related emotions are common among elite athletes and may contribute to body surveillance and self-monitoring. Although attentional disruption is widely recognized as detrimental to sport performance, little is understood about how body-related thoughts, emotions, and contextual pressures specifically influence athletes' focus in elite sport. Eight elite athletes (Mage = 26.25 years; two cisgender men, six cisgender women) participated in semi-structured interviews as part of a qualitative description study exploring the perceived experiences of how body image influenced their focus in sport. Inductive qualitative content analysis identified three dominant themes: (1) pressures related to appearance and body presentation, (2) efforts to maintain performance focus while managing body-related distraction, and (3) internal and external supports that helped athletes foster more adaptive body image and attentional regulation. Findings highlight body comparisons, uniforms, perceived scrutiny, and weight-related pressures as distinct sources of body-focused distraction that can compete with task-relevant focus. Athletes also described strategies such as mindfulness, self-compassion, and coach support as helpful for redirecting focus toward performance. These findings provide novel insight into body image as an embodied and contextually embedded source of attentional interference in elite sport, with implications for athlete well-being and performance.",
-      "journal": "Psychology of sport and exercise",
+      "abstract": "BACKGROUND: Hypothyroidism is the most prevalent endocrine disorder characterised by low thyroid hormone production, leading to a wide spectrum of cognitive and neuropsychiatric manifestations such as fatigue, depression, anxiety, cognitive impairment, peripheral neuropathy, Parkinsonism, tremor, ataxia, seizures and dementia. Although conventional treatment with levothyroxine replacement remains the standard of care, neuropsychiatric symptoms often persist, highlighting the need for safer and more effective alternative therapeutic strategies. PURPOSE: This narrative review aims to explore the effects of yoga-based interventions and Ayurveda-based herbal medicines in mitigating hypothyroidism and related neuropsychiatric symptoms. METHODS: A comprehensive literature search was conducted across PubMed, Scopus, Cochrane and Google Scholar. Studies examining the effects of yoga practices (asanas, pranayama, meditation) and Ayurveda-based herbal medicines such as  RESULTS: Emerging evidence suggests that yogic interventions improve thyroid function and mental well-being by modulating the hypothalamic-pituitary-thyroid axis and neuroendocrine pathways. Ayurveda-based herbal medicines have been shown to exhibit antioxidant, anti-inflammatory and adaptogenic properties, contributing to enhanced thyroid function and neuroprotection. However, most studies are limited by small sample sizes, heterogeneity in intervention protocols, lack of standardisation and short follow-up periods, restricting the reproducibility and generalisability of study findings. CONCLUSION: Holistic interventions such as yoga and Ayurveda-based herbal medicines may offer potential benefits in managing hypothyroidism and addressing its neuropsychiatric manifestations. However, current evidence remains preliminary and heterogeneous. High-quality, randomised controlled trials with standardised protocols are necessary to substantiate these findings and assess their efficacy, safety, long-term outcomes and clinical relevance.",
+      "journal": "Annals of neurosciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Implementing an Integrative Medicine Group Visit Facilitator Training Program to Improve Chronic Pain Management in the Safety-Net.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42179705/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.456745",
+      "doi": "10.1177/27536130261453089",
+      "authors": [
+        {
+          "name": "Emiley Chang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ruth Sie",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria G Mechure",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Youngju Pak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ryan Abbott",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tony Kuo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christina Randle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joann York",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ricky Chang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Allen W Jang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hope Cassano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anish P Mahajan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ka-Kit Hui",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: As the opioid epidemic claims over 200 lives per day, there is an urgent need to increase access to evidence-based, non-pharmacologic modalities for pain management. OBJECTIVE: To design, implement, and evaluate an integrative medicine group visit (IMGV) facilitator training program to support group visits incorporating mind-body therapies (eg, acupuncture, meditation, tai chi, yoga) for chronic musculoskeletal pain within the Los Angeles County Department of Health Services (LAC DHS). METHODS: Prospective cohort pre-post study with mixed methods formative evaluation. Fifty-nine clinical staff from 3 LAC DHS medical centers and associated clinics enrolled in a 40-hour curriculum including online modules, case discussions, and onsite skills workshops in 2020. We used the  RESULTS: 49% of staff members completed the course, primarily physicians (37%) and rehabilitation therapists (22%). Most participants (80%) were female and 28% more non-physicians completed the final exam than physicians ( CONCLUSION: Overall, the IMGV facilitator training program was acceptable, feasible with program modifications under pandemic conditions, and increased staff confidence to teach others nonpharmacologic chronic pain management.",
+      "journal": "Global advances in integrative medicine and health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Evaluation of Mindful Breathing Method Using Tablet Devices Through Chaos Analysis and Frequency Analysis: A Pilot Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42186458/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.456810",
+      "doi": "10.1177/11795972261452228",
+      "authors": [
+        {
+          "name": "Eiichi Togo",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: University students face various stresses, including academic and career anxieties and a lack of interpersonal relationships. These stresses can elevate psychological burdens, negatively affecting their studies and daily lives. OBJECTIVE: This pilot study aims to quantitatively evaluate the effects of mindful breathing exercises using tablet devices on autonomic nervous system activity in university students by analysis of finger plethysmogram (pulse wave amplitude values) and chaos analysis (Lyapunov exponent and fractal dimension). METHODS: In this parallel-group randomized controlled trial, 18 nursing students (Mindful Breathing Group [Mi group], n\u2009=\u20099; control group [nMi group], n\u2009=\u20099) were randomly assigned. On the first day, the Mi group performed mindful breathing, the nMi group performed cross fixation, and finger plethysmogram RESULTS: The Mi group showed a significant increase in pulse wave amplitude values over time ( CONCLUSIONS: Mindful breathing using tablet devices may be associated with changes in pulse wave amplitude in university students, which could reflect alterations in peripheral autonomic activity under the present experimental conditions. However, no statistically significant differences were observed in chaos analysis indices. Further research with larger samples and additional physiological measures is required to clarify the relationship between mindful breathing and nonlinear autonomic dynamics. TRIAL REGISTRATION: UMIN Clinical Trials Registry (UMIN000056166; Registered November 15, 2024).",
+      "journal": "Biomedical engineering and computational biology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mindfulness-based cognitive-behavioral therapy improves sexual quality of life and reduces sexual distress in pregnant women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42184044/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-05-25T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.456845",
+      "doi": "10.1007/s44192-026-00366-y",
+      "authors": [
+        {
+          "name": "Mina Iravani",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shahla Molavi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Saeed Ghanbari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hedye Ahmadiyan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVE: Pregnancy is accompanied by numerous physical and psychological changes that can affect sexual quality of life and increase sexual distress in women. Identifying effective interventions to address these issues is essential. This study aimed to evaluate the effect of mindfulness-based cognitive-behavioral therapy on sexual distress and sexual quality of life in pregnant women. METHODS: In this single-blind randomized clinical trial, 84 pregnant women (20-35 weeks of gestation) were randomly assigned to an intervention group (n\u2009=\u200940) or a control group (n\u2009=\u200941) using a block design. The intervention group participated in seven weekly sessions of mindfulness-based cognitive therapy. Data were collected using a demographic questionnaire, the Sexual Quality of Life-Female (SQOL-F) questionnaire, and the Female Sexual Distress Scale (FSDS). RESULT: At baseline, there were no statistically significant differences between the two groups in demographic characteristics, sexual distress, or sexual quality of life. Repeated measures analysis showed significant improvements in the intervention group compared with the control group in overall sexual quality of life and its dimensions (psychosexual feelings, sexual and relationship satisfaction, self-worthlessness, and sexual repression). Sexual distress scores were also significantly reduced in the intervention group after the intervention and at follow-up. DISCUSSION: Mindfulness-based cognitive-behavioral therapy appears to be an effective approach for enhancing sexual quality of life and reducing sexual distress in pregnant women. Integrating this intervention into prenatal care services may help promote the overall well-being of expectant mothers. TRIAL REGISTRATION: This study was approved by the Ethics Committee of Ahvaz Jundishapur University of Medical Sciences (IR.AJUMS.REC.1399.135) and registered in the Iranian Registry of Clinical Trials (IRCT20200901048581N1) on September 21, 2020.",
+      "journal": "Discover mental health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Construct a digital psychological intervention program for organ donor families: An Intervention mapping study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183305/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.456965",
+      "doi": "10.1177/20552076261452346",
+      "authors": [
+        {
+          "name": "Yibo Yang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Huan Xiong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qizhen Long",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shufeng Kong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wenzhao Xie",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: To develop a digital psychological intervention program for organ donor families based on Intervention Mapping. METHODS: Using Intervention Mapping, the program was developed through literature review, questionnaire surveys, and qualitative interviews, and then reviewed and refined by an expert panel. RESULTS: The quantitative survey results showed 25.81% of 155 participants had co-occurring symptoms of post-traumatic stress, depression, and anxiety; trait mindfulness was negatively correlated with these symptoms (r=-0.423/-0.479/-0.463, p<0.001). Qualitative findings were organized into five themes: organ donation awareness, psychological distress, access to psychological support, psychological support needs, and willingness to use digital psychological interventions. Following the first four steps of Intervention Mapping, from needs assessment to program development, Acceptance and Commitment Therapy and Mindfulness-Based Stress Reduction were integrated in light of the needs of organ donor families, relevant literature, and expert input. Six experts participated in a panel review (collective authority coefficient=0.867) and refined an 8-week WeChat mini-program-based intervention delivered once weekly for 30 minutes per session. CONCLUSIONS: The digital psychological intervention program for organ donor families developed through Intervention Mapping provides a structured, theory- and evidence-informed framework for subsequent psychological support. It may offer a basis for future pilot testing, refinement, and the development of digital mental health support strategies for organ donor families.",
+      "journal": "Digital health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Improving Care Quality for Metabolic Dysfunction-associated Steatotic Liver Disease Through a Structured Yogic Intervention: Protocol for a Randomised Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42183571/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-05-22T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.457184",
+      "doi": "10.1177/09727531261444545",
+      "authors": [
+        {
+          "name": "Gautam Panwar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Garima Singh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kanchan Joshi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sanjay Gupta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kuldeep Singh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vikas Upadhyay",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most common chronic liver disease in the world. It is strongly linked to obesity, high blood pressure, type 2 diabetes and dyslipidaemia. Yoga, which includes asanas, pranayama, shat-karmas and meditation, may offer a holistic approach to improve the liver, metabolism and mental health. PURPOSE: To evaluate the effectiveness of a 60-min yoga module in improving liver health and metabolic parameters in MASLD patients. METHODS: This open-label, two-arm, randomised controlled trial enrolled 72 adults aged 18-60 years diagnosed with MASLD, who received standard care at a hospital in Dehradun. Participants were randomised equally into a yoga group, which received a 60-min online yoga module 5 days per week for 3 months, or a control group receiving standard treatment alone. Key assessments include ultrasound measurement of liver fat, liver enzymes (serum glutamate pyruvate transaminase [SGPT], serum glutamic-oxaloacetic transaminase [SGOT]), HbA1c, lipid profile, body mass index, blood pressure, mental health and quality of life. Data collection occurred at baseline and 3 months post-intervention. RESULTS: The study is designed to assess improvements in hepatic steatosis and metabolic and psychosocial parameters following intervention. CONCLUSION: This trial will provide evidence on the role of yoga as an adjunct therapy in MASLD management.",
+      "journal": "Annals of neurosciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Virtual Reality Interventions for Stress Reduction in the General Population: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42184377/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-05-25T00:00:00",
+      "date_fetched": "2026-05-26T14:38:03.457254",
+      "doi": "10.2196/78212",
+      "authors": [
+        {
+          "name": "Hannah Strauch",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Isabel Schuil",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stefan Simm",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jens Grubert",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Snehanjali Kalamkar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karin Meissner",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Increasing mental demands across multiple life domains underscore the importance of effective individual stress management to mitigate the adverse health consequences of chronic stress. Growing evidence suggests that virtual reality (VR) interventions constitute an effective approach to stress reduction. OBJECTIVE: This systematic review and meta-analysis aimed to examine and compare application areas of VR interventions for stress reduction in the general population and to identify potential predictors of effectiveness based on sample characteristics and intervention design. METHODS: Five databases (MEDLINE, CINAHL, CENTRAL, PsycInfo, and Web of Science) were systematically searched for randomized controlled trials investigating the effectiveness of VR interventions for stress reduction in the general population. Studies were included if they primarily focused on stress reduction, included a neutral control condition, and reported a validated measurement of perceived stress. Trials targeting mental disorders or those conducted in the context of medical procedures were excluded. Two reviewers independently screened the literature, extracted data, and assessed the risk of bias using the Cochrane Collaboration's tool. Effects were synthesized using pooled standardized mean differences, and relevant predictors were evaluated through subgroup analyses and meta-regressions. RESULTS: A total of 55 relevant studies met the inclusion criteria, with 37 investigating single-session and 18 multisession interventions (ranging from 1 to 42 sessions over 2 days to 6 months). The meta-analysis included 39 studies with 4024 participants (sample sizes 24-409; mean ages 19.2-70.6 years). Intervention types included VR-based nature exposure (21), biophilic architectural elements (6), guided meditation (9), interactive tasks (4), and other approaches (1). On average, VR interventions significantly reduced perceived stress level (-0.55, 95% CI -0.70 to -0.40; P<.001; I2=76%; 95% prediction interval [PI] -1.32 to 0.23), anxiety (-0.88, 95% CI -1.23 to -0.54; P<.001; I2=87%; 95% PI -2.07 to 0.31), and depression (-0.34, 95% CI -0.47 to -0.21; P<.001; I2=0%; 95% PI -0.47 to -0.21), and enhanced positive emotion (-0.64, 95% CI -0.84 to -0.46; P<.001; I2=62%; 95% PI -1.28 to -0.02). In addition, the decrease in systolic blood pressure was significant (-0.20, 95% CI -0.37 to -0.04; P=.02; 95% PI -0.37 to -0.04). Univariate linear regression analyses identified multiple sessions (R\u00b2=15%, P=.02) as a significant predictor of VR-based stress reduction. Further analyses of technical and content-related characteristics revealed that a higher image refresh rate (t15=-2.36, 2-tailed; P=.04) was associated with stronger intervention effects. CONCLUSIONS: This review highlights the considerable potential of VR interventions for reducing psychological stress in the general population and extends recent evidence by quantifying the effects of a broad range of VR-based stress reduction approaches and, for the first time, comparing diverse intervention characteristics. VR represents a promising alternative, particularly in contexts where access to real-life nature or conventional relaxation methods is limited or resource-intensive.",
+      "journal": "Journal of medical Internet research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -256,56 +1319,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "What Dogs See When They Look at Us",
-      "url": "https://www.newyorker.com/magazine/2026/06/01/the-dogs-gaze-a-visual-history-thomas-w-laqueur-book-review",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-05-25T10:00:00",
-      "date_fetched": "2026-05-25T14:31:58.069502",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Adam Gopnik",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "A humane study of how artists have captured our canine companions becomes a meditation on sympathy, trust, and the virtues we have bred them to display.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Our National Debt Is a Problem",
-      "url": "https://www.theatlantic.com/ideas/2026/05/national-debt-problem/687257/?utm_source=feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-05-25T11:00:00",
-      "date_fetched": "2026-05-25T14:31:58.344925",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Jared Bernstein",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "If you\u2019re not worried about this country\u2019s fiscal outlook, you\u2019re not paying attention.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
