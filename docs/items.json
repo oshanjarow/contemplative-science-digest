@@ -1,86 +1,188 @@
 {
-  "generated_at": "2026-05-30T13:01:12.212219",
+  "generated_at": "2026-05-31T13:11:34.548103",
   "papers": [
     {
-      "title": "Immediate mood changes and practice adherence during a self-directed SKT1 meditation program in university students: An intensive longitudinal study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42213705/",
+      "title": "Comprehensive Review of Jalandhara Bandha",
+      "url": "https://www.semanticscholar.org/paper/cced8ef370fc8842df554c2e31fd58dde713cd7e",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-05-30T13:01:01.044663",
-      "doi": "10.1371/journal.pone.0350556",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-05-31T13:11:03.818091",
+      "doi": "10.55552/ayuscript.2025.4320",
       "authors": [
         {
-          "name": "Sorachai Kamollimsakul",
-          "author_id": null,
+          "name": "Gosavi S",
+          "author_id": "2410604444",
           "affiliation": null
         },
         {
-          "name": "Suparpit Maneesakorn von Bormann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Somporn Kantharadussadee Triamchaisri",
-          "author_id": null,
+          "name": "Sharma G",
+          "author_id": "2338107543",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: University students frequently report elevated stress, yet access to formal mental health services is often constrained. Self-directed mind-body practices, such as the Somporn Kantharadussadee Triamchaisri program (SKT1), may offer low-intensity mood management; however, real-world evidence based on repeated within-person assessments remains limited. OBJECTIVES: To examine immediate within-session mood changes, practice adherence, temporal stability, and individual differences associated with self-directed SKT1 practice among university students. METHODS: Twenty-seven university students (n\u2009=\u200919 female, 70.37%) completed 28 self-directed SKT1 sessions over 14 days, yielding 710 within-person observations. Negative mood was rated on a 0-10 numeric rating scale (NRS) immediately before and after each session. Data were analyzed using Linear Mixed Models (LMM) with a Diagonal covariance structure, which provided a superior model fit compared to simpler variance components. RESULTS: Participants demonstrated high engagement, completing a mean of 26.3 sessions (SD\u2009=\u20092.8). LMM analysis revealed a highly significant decrease in negative mood immediately following SKT1 practice (b\u2009=\u20090.572, t(522.79) = 42.12, p\u2009<\u2009.001), representing a large effect size (Paired Cohen's d\u2009=\u20091.00, 95% CI [0.91, 1.09]). These immediate mood changes were consistently observed across all 28 sessions (p\u2009=\u2009.367) and did not vary by practice adherence (p\u2009=\u2009.587). While baseline stress showed a marginal trend toward mood reduction (b\u2009=\u2009-0.128, p\u2009=\u2009.074), baseline anxiety and resilience were not significantly associated with immediate outcomes. CONCLUSIONS: Self-directed SKT1 practice might be associated with consistent, immediate mood reductions that are stable over time and accessible within this specific university sample. These preliminary findings suggest the potential of SKT1 as a feasible 'per-session' resource for supporting mood management among students in similar academic contexts. The protocol was registered in the Thai Clinical Trials Registry (TCTR20231016002).",
-      "journal": "PloS one",
-      "year": 2026,
+      "abstract": "Jalandhar Bandha, traditionally described as the \u201cthroat lock,\u201d is a key practice in Ha\u1e6dha Yoga that integrates musculoskeletal, respiratory, and subtle energetic mechanisms. Classical yogic texts such as the Ha\u1e6dha Yoga Pradipika, Ghera\u1e47\u1e0da Samhita, and Shiva Samhita emphasize its role in regulating Pra\u1e47ic flow, safeguarding the practitioner during Pranayama, and facilitating meditative absorption. Anatomically, the practice involves flexion of the cervical spine and compression at the throat region, which may influence blood circulation, vagal stimulation, and endocrine function, particularly at the thyroid and parathyroid glands. Contemporary research suggests potential benefits of Jalandhara Bandha in autonomic regulation, stress reduction, respiratory efficiency, and management of thyroid and cardiovascular conditions. However, contraindications include cervical spondylosis, uncontrolled hypertension, glaucoma, and other conditions requiring cautious application. This review integrates scriptural descriptions, anatomical and physiological interpretations, therapeutic potentials, and available research evidence to provide a comprehensive understanding of Jalandhara Bandha. It highlights both the enduring relevance of this yogic technique in modern health care and the need for further clinical validation.",
+      "journal": "Ayuscript",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "Daily Stress and Heart Rate Variability Among Mindfulness Meditation Practitioners: mHealth Observational Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42214068/",
+      "title": "Anionic high-entropy doping engineering for electromagnetic wave absorption",
+      "url": "https://www.semanticscholar.org/paper/08771b7c757c3c60ee0583da6abc17812a518f04",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-02T00:00:00",
+      "date_fetched": "2026-05-31T13:11:03.818193",
+      "doi": "10.1038/s41467-025-58448-4",
+      "authors": [
+        {
+          "name": "Jiaqi Tao",
+          "author_id": "1947726903",
+          "affiliation": null
+        },
+        {
+          "name": "Yi Yan",
+          "author_id": "2295766130",
+          "affiliation": null
+        },
+        {
+          "name": "Jintang Zhou",
+          "author_id": "2327753648",
+          "affiliation": null
+        },
+        {
+          "name": "Jin Wang",
+          "author_id": "2272076063",
+          "affiliation": null
+        },
+        {
+          "name": "Ping Chen",
+          "author_id": "2278777006",
+          "affiliation": null
+        },
+        {
+          "name": "Ruiyang Tan",
+          "author_id": "2633451",
+          "affiliation": null
+        },
+        {
+          "name": "Linling Xu",
+          "author_id": "2152895618",
+          "affiliation": null
+        },
+        {
+          "name": "Hongbao Zhu",
+          "author_id": "2307474828",
+          "affiliation": null
+        },
+        {
+          "name": "Wenhui Zhu",
+          "author_id": "2307651262",
+          "affiliation": null
+        },
+        {
+          "name": "He-xia Huang",
+          "author_id": "2255816434",
+          "affiliation": null
+        },
+        {
+          "name": "Xuewei Tao",
+          "author_id": "2278313408",
+          "affiliation": null
+        },
+        {
+          "name": "Zhengjun Yao",
+          "author_id": "2238328190",
+          "affiliation": null
+        }
+      ],
+      "abstract": "High-entropy doping (HED) engineering surpasses conventional methods for optimizing atomic configurations and electronic structures, opening new paths for developing advanced electromagnetic wave absorbing (EWA) materials. However, the application of anionic HED engineering to tailor EWA mechanisms remains unexplored. Herein, we employ in situ pyrolysis combined with a three-stage solvent thermal doping procedure to systematically induce anion multibody interactions, thereby facilitating the inheritance and accumulation of beneficial EWA properties. The research shows that anions with various electronegativities precisely balance free charges and create a significant localized charge imbalance, triggering the \u2018directional cocktail effect\u2019. This effect induces an optimal dielectric loss mechanism and enhances the EWA performance. With only 7.5\u2009wt% filling, the effective absorption bandwidth and minimum reflection loss are 7.05\u2009GHz and \u221260 dB, respectively. Overall, we report an anionic HED engineering within thin a graphite framework, which may be conceptually extendable for electromagnetic modulation of other two-dimensional van der Waals EWA materials. This study presents an anionic high-entropy doping strategy, elucidating the intricate charges state regulation to drive dipole polarization-dominated dielectric loss and efficient electromagnetic wave absorption in thin graphite framework.",
+      "journal": "Nature Communications",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "New Prospects in Built\u2010In Electric Fields for Electromagnetic Wave Absorption: from Fundamentals to Interdisciplinary Applications",
+      "url": "https://www.semanticscholar.org/paper/2b26a9ffe20c019c5f04c1d27b991a0a43f37c27",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-14T00:00:00",
+      "date_fetched": "2026-05-31T13:11:03.818286",
+      "doi": "10.1002/adfm.202513762",
+      "authors": [
+        {
+          "name": "Shijie Zhang",
+          "author_id": "2323712796",
+          "affiliation": null
+        },
+        {
+          "name": "Jiajun Zheng",
+          "author_id": "2283789852",
+          "affiliation": null
+        },
+        {
+          "name": "Zhiwei Zhao",
+          "author_id": "2258683104",
+          "affiliation": null
+        },
+        {
+          "name": "Suxuan Du",
+          "author_id": "2180897787",
+          "affiliation": null
+        },
+        {
+          "name": "Di Lan",
+          "author_id": "2224325373",
+          "affiliation": null
+        },
+        {
+          "name": "Zhenguo Gao",
+          "author_id": "2299560450",
+          "affiliation": null
+        },
+        {
+          "name": "Guanglei Wu",
+          "author_id": "2264542171",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Construction of built\u2010in electric fields (BIEFs) in nanohybrids has been corroborated as a robust strategy for modulating the electromagnetic response by manipulating the charge redistribution and built\u2010in electrostatic potential gradients, thereby enhancing the dielectric polarization attenuation. Nevertheless, substantial challenges persist in the comprehensively elucidation and reinforcement of BIEFs from both micro and macro perspectives. Herein, this review systematically elucidates the role of BIEFs in electromagnetic waves (EWs) protection. First, the fundamental principles of BIEFs are systematically outlined, including key concepts, response mechanisms, and characterization techniques. Then, the main optimization strategies\u2010particularly morphology regulation and defect engineering\u2010are critically examined to enhance BIEFs effect. The EWs absorption capabilities of representative BIEF\u2010based absorbers are further dissected, categorized by semiconductor\u2013semiconductor junctions, metal\u2013semiconductor heterostructures, and van der Waals interfaces. Subsequently, a concise summary highlights the effective strategies to optimize the overall performances of BIEFs type absorber. Furthermore, interdisciplinary perspectives are introduced by focusing on the integration of BIEFs with energy conversion, EWs responsive photocatalysts and smart detectors/sensors. Finally, current challenges and future development directions of BIEF engineering are rationally discussed, offering valuable insights for the design of high\u2010efficiency smart EWs absorbers.",
+      "journal": "Advanced Functional Materials",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Mindfulness-based cognitive therapy for psoriasis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42217630/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-05-30T13:01:01.044757",
-      "doi": "10.2196/78244",
+      "date_fetched": "2026-05-31T13:11:33.757428",
+      "doi": "10.1016/j.jaad.2026.05.085",
       "authors": [
         {
-          "name": "Jo Takezawa",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shixian Geng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Masahiro Fujino",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mika Miyake",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kazutoshi Sasahara",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Koji Yatani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Atsushi Niida",
+          "name": "Jonathan Kantor",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Mindfulness meditation has been reported to reduce stress and enhance well-being. However, its effects on heart rate variability (HRV)-a physiological marker of stress-remain underexplored. OBJECTIVE: This study aimed to examine how meditation practice is associated with subjective stress, HRV, and their interaction, using mobile health technologies. METHODS: This 3-week observational study included 90 participants-19 meditation practitioners (meditation group), 32 recreational runners as an active control group characterized by lower stress and higher HRV (running group), and 39 individuals without regular meditation or exercise habits (control group). HRV was continuously recorded using Garmin smartwatches. Subjective stress levels and activity states were assessed 3 times daily through a smartphone-based experience sampling method, yielding a total of 4557 responses (mean 50.6, SD 22.8 per participant). From the meditation group, start and end times of 632 daily meditation sessions (mean 33.3, SD 18.3 per participant) were also collected via the app. Standardized questionnaires on stress and related measures were administered at the end of the study period. RESULTS: The questionnaire survey confirmed that stress levels were significantly lower in both the meditation and running groups compared with controls (median Perceived Stress Scale scores: meditation 21, IQR 17-24; running 22, IQR 19-25; control 25, IQR 21-30; Kruskal-Wallis P=.02; adjusted Wilcoxon P=.05 and .04, respectively). Smartwatch-derived HRV (root-mean-square of successive differences [RMSSD]) was elevated in the running group relative to controls (median 47.0, IQR 44.0-54.2 and median 42.0, IQR 34.2-47.8, respectively; P<.001), whereas no significant difference was observed between the meditation and control groups (median 40.8, IQR 35.5-44.4 and median 42.0, IQR 34.2-47.8, respectively). Bayesian analysis of the experience sampling method data indicated that higher subjective stress levels were associated with a concurrent RMSSD reduction of -2.24 (95% credible interval -3.97 to -0.26) milliseconds. Although this pattern was consistent across groups, the steeper decline of -3.94 (95% CI -7.04 to -0.74) milliseconds was observed only in the running group, likely reflecting their elevated baseline HRV. Additionally, Bayesian modeling of 632 logged meditation sessions revealed an acute RMSSD increase of +4.68 (95% CI 2.96 to 6.38) milliseconds during meditation, with effects maintained for at least 30 minutes post practice. CONCLUSIONS: Although HRV among meditation practitioners did not appear elevated in overall daily life, the ability to increase HRV at arbitrary timings, along with the prolonged residual effect, may correlate with stress reduction. This hypothesis requires further exploration with adequate controls. Despite the preliminary nature of this study due to its limited sample size, our findings highlight the potential of mobile health-based methodologies to capture stress and HRV dynamics in real-world settings.",
-      "journal": "Journal of medical Internet research",
+      "abstract": null,
+      "journal": "Journal of the American Academy of Dermatology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -88,27 +190,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Peer-Led Emotional CPR Program in Black, Indigenous, and People of Color Communities: Convergent Mixed Methods Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42207976/",
+      "title": "Organizational silence and occupational burnout in Pediatric nurses: The mediating role of perceived stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42217858/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-05-28T00:00:00",
-      "date_fetched": "2026-05-30T13:01:11.353396",
-      "doi": "10.2196/80029",
+      "date_published": "2026-05-30T00:00:00",
+      "date_fetched": "2026-05-31T13:11:33.757760",
+      "doi": "10.1016/j.pedn.2026.05.023",
       "authors": [
         {
-          "name": "Mbita Mbao",
+          "name": "Jing Zhang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Karen L Fortuna",
+          "name": "Huafu Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xinrong Feng",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Black, Indigenous, and people of color (BIPOC) experience disproportionately negative mental health outcomes, including rising suicide rates, and persistent barriers to culturally responsive care. Systemic racism, discrimination, and historical trauma contribute to mistrust of traditional mental health systems. Peer-led approaches that center lived experience and shared cultural identity may offer culturally responsive alternatives that foster emotional connection and trust. OBJECTIVE: This study examined pretraining to posttraining changes in emotional well-being, empowerment, and interpersonal outcomes among BIPOC participants who completed Emotional CPR (Emotional Connection, Empowering, Revitalizing), a trauma-informed, peer-led mental health education program facilitated by BIPOC trainers. METHODS: A convergent mixed methods pre-post design was used. Eighty-five BIPOC participants completed validated self-report measures immediately before and after a 12-hour web-based Emotional CPR training delivered over 3 consecutive days. Outcomes included loneliness, empowerment, flourishing, hope, active-empathic listening, mindfulness, social connectedness, and affect. Paired-samples 2-tailed t tests examined pre-post differences. Seventeen participants participated in 2 posttraining focus groups conducted through Zoom. Qualitative data were analyzed using thematic analysis informed by phenomenological principles. Quantitative and qualitative findings were integrated during interpretation. RESULTS: Participants (N=85; mean age 41.9, SD 11.2 years; women: n=65, 76.5%) reported significant reductions in loneliness (P=.03; d=0.25) and significant increases in positive affect (P=.002; d=-0.37). Significant declines were observed in empowerment (P=.03; d=0.26), active-empathic listening (P=.02; d=0.26), flourishing (P=.02; d=0.27), and hope (P<.001; d=0.41). No significant changes were observed in social connectedness or mindfulness. Qualitative themes included empowerment through skill-building, emotional vulnerability, cultural trust and safety, challenges in sustaining confidence after training, and the application of skills in daily life. Participants described increased self-awareness and emotional openness, particularly within a culturally responsive training environment. Qualitative findings suggested that increased emotional awareness may have influenced posttraining self-assessments. CONCLUSIONS: Participation in BIPOC-facilitated Emotional CPR training was associated with short-term reductions in loneliness and increased positive affect, alongside modest declines in self-rated empowerment and hope. Qualitative findings suggest that increased emotional awareness and engagement with systemic stressors may temporarily influence self-perceived competence. Ongoing reinforcement, mentorship, and follow-up sessions may support sustained empowerment and emotional resilience in culturally responsive peer-led interventions.",
-      "journal": "Journal of participatory medicine",
+      "abstract": "OBJECTIVE: This study aimed to investigate the mediating role of perceived stress (PS) in the relationship between organizational silence (OS) and occupational burnout (OB) among pediatric nurses professionals. METHODS: A multicenter, cross-sectional study was conducted using a non-probability sampling design that combined convenience and snowball sampling strategies. From January 2025 to March 2025, nurses were recruited from the pediatric departments of three tertiary hospitals in China. Participants completed self-report questionnaires measuring OS, PS, and OB. Data were analyzed using correlation analyses and mediation analysis with bootstrap confidence intervals (CI) to test the hypothesized pathways. RESULTS: The findings indicated notable positive associations between the three variables. OS showed a positive correlation with both PS (\u03b2\u00a0=\u00a00.40, P\u00a0<\u00a0.001) and OB (\u03b2\u00a0=\u00a00.36, P\u00a0<\u00a0.001). PS was also positively correlated with OB (\u03b2\u00a0=\u00a00.42, P\u00a0<\u00a0.001). PS was significantly influenced by OS and, in turn, was a significant predictor of OB. The indirect effect of OS on OB through PS was significant (\u03b2\u00a0=\u00a00.17, 95% CI: 0.09-0.24), accounting for 32.26% of the total effect. CONCLUSION: OS is significantly associated with OB among pediatric nurses, and this relationship is partially mediated by PS. Interventions aimed at reducing OS and managing PS may be effective in mitigating burnout in pediatric nurses professionals. IMPLICATIONS TO PRACTICE: Nursing administrators should establish anonymous feedback channels and structured dialogue sessions to reduce organizational silence. Providing mindfulness-based stress reduction training and peer support groups can enhance nurses' stress management, reducing burnout.",
+      "journal": "Journal of pediatric nursing",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -116,37 +223,32 @@
       "matched_keywords": []
     },
     {
-      "title": "A bibliometric analysis and knowledge mapping of cognitive behavioral therapy research in depression over 20 years.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42216329/",
+      "title": "Traditional Mediterranean Lifestyle: From a Heritage to a Legacy as an Inspirational Roadmap to a New Era.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42217736/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-05-30T13:01:11.353592",
-      "doi": "10.1097/MD.0000000000048780",
+      "date_fetched": "2026-05-31T13:11:33.757955",
+      "doi": "10.1016/j.advnut.2026.100664",
       "authors": [
         {
-          "name": "Shaokui Kan",
+          "name": "Rena I Kosti",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xinying Li",
+          "name": "Ioanna Panagiota Kalafati",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nuannuan Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yingli Zhang",
+          "name": "Matina Kouvari",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Depression negatively affects well-being, leading to lower life satisfaction, impaired social and psychological functioning, and greater disability. Cognitive behavioral therapy has been proven effective across various levels and populations of depression. This study employs bibliometric analysis to clarify research trends, summarize historical and current directions, and predict future trends, aiding researchers and policymakers in effectively prioritizing research resources. METHODS: To identify publications related to depression and cognitive behavioral therapy (CBT), we performed a computerized search of the Web of Science Core Collection. Bibliometric analyses were conducted on multiple dimensions - including authors, journals, institutions, countries/regions, keywords, and references - using Excel 365, CiteSpace, Pajek, and VOSviewer. RESULTS: Between 2005 and 2024, 6384 publications were analyzed. Publication trends showed a gradual rise, peaking at 494 publications in 2020, and subsequently experiencing a slow decline. Citations in this field demonstrated annual growth, reaching a peak of 33,882 citations in 2021, followed by a subsequent decline. The United States and the United Kingdom emerged as the leading countries in this research area, ranking highest in both publication output and citation counts. They host institutions that contribute significantly to publications and citations. Notable authors in this area include Gerhard Andersson, Pim Cuijpers, Per Carlbring, and Steven D. Hollon. Key journals publishing research in this area include the Journal of Affective Disorders, Behavior Research and Therapy, Mindfulness, Journal of Consulting and Clinical Psychology, and Psychological Medicine. Common keywords within this field are depression, followed by cognitive therapy, anxiety, psychotherapy, cognitive-behavior therapy, meta-analysis, mindfulness, randomized controlled-trial, symptoms, major depression, cognitive-behavioral therapy, efficacy, validation, cognitive behavior therapy, prevention, disorders, prevalence, psychometric properties, quality-of-life, and scale. These keywords indicate a sustained interest among researchers in cognitive interventions, treatment efficacy, preventive measures, and quality of life assessments. Furthermore, these research hotspots indicate that the psychometric properties and validation of treatments for depression are significant directions for future studies. CONCLUSIONS: This study employs bibliometric analysis to map research trends in CBT for depression, highlighting emerging trends and providing insights for researchers. It underscores CBT's efficacy, adaptations, and integration with other therapies, emphasizing the need for continued research and interdisciplinary collaboration.",
-      "journal": "Medicine",
+      "abstract": "Grounded in the field of nutrition anthropology, the present manuscript introduces three core pillars of the traditional Mediterranean Lifestyle (tMedL): cheerful frugality, belongingness, and purpose in life. These foundational components are integral to Mediterranean culture and have historically shaped food selection, eating, and consumption patterns, depicting the harmonious human-nature-human coexistence. Specifically, the proposed core pillars highlight the role of alignment with natural rhythms in fostering cheerful frugality, the contribution of belongingness to social cohesion, and the influence of spirituality and religiosity in cultivating purpose in life. Together, these three pillars form a dynamic system that induces dispositional mindfulness, supporting and enhancing the salutogenic effect of the tMedL - beyond foods alone. Dispositional mindfulness emerges as the key tool that directs the interaction of these three pillars towards the tMedDiet characteristic of moderation. Building upon this triptych and the crucial role of dispositional mindfulness, the manuscript proposes a roadmap to moderation, grounded in the ancient Greek concepts of autarkeia - self-sufficiency, and enkrateia - self-control. Within this perspective, autarkeia reframes frugality as cheerfulness, belongingness as meaningful connection, and purpose in life as a stable psychological resource. In this sense, mindfulness is suggested as a coping strategy for stressful situations with contemporary relevance for health-promoting lifestyles as the key tool to moderation.",
+      "journal": "Advances in nutrition (Bethesda, Md.)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -154,95 +256,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Understanding psychological adjustment in patients with amyotrophic lateral sclerosis and their caregivers: a scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42212889/",
+      "title": "Mindfulness-based interventions and cognitive behavioral therapy for depression, anxiety, and stress in adults with chronic conditions: a stratified subgroup meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42218331/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-05-30T13:01:11.353673",
-      "doi": "10.1080/21678421.2026.2671166",
+      "date_published": "2026-05-30T00:00:00",
+      "date_fetched": "2026-05-31T13:11:33.758197",
+      "doi": "10.1038/s44184-026-00216-3",
       "authors": [
         {
-          "name": "Marion Sommers-Spijkerman",
+          "name": "Kenni Wojujutari Ajele",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fabiola M\u00fcller",
+          "name": "Botho Nanvula Ramonkga",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Esther Kruitwagen-Van Reenen",
+          "name": "Matthew O Olasupo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Johanna M A Visser-Meily",
+          "name": "Runcie C W Chidebe",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rien Uitslag",
+          "name": "David Musyimi Ndetei",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anita Beelen",
+          "name": "Bashir A Lwaleed",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christopher J Armitage",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Psychological adjustment is a major focus in the care of people with amyotrophic lateral sclerosis (ALS) and their caregivers, given its critical role in maintaining quality of life (QoL). This scoping review aimed to gain a better understanding of ALS patients' and caregivers' psychological adjustment, to inform future care and research. METHODS: PubMed, Web of Science, PsycINFO, Embase and CINAHL were searched for peer-reviewed studies reporting associations of psychological factors with patient/caregiver QoL. Psychological factors were categorized by type (cognitive, emotional or behavioral responses), and by strength (weak, moderate, strong) and direction (positive, negative) of their association with patient/caregiver QoL. RESULTS: Twenty-nine studies were included, identifying twelve cognitive responses (hope, positive thinking/reframing, psychological flexibility, resilience, coping/pain self-efficacy, helplessness, hopelessness, pain catastrophizing, rumination, self-perceived burden, self-stigma), two emotional responses (emotional support, venting) and three behavioral responses (independence, positive action, substance use) associated with patient QoL. Five cognitive responses (resilience, mindfulness, hopelessness, passive reaction coping, psychological inflexibility) and one behavioral response (positive action) were found associated with caregiver QoL. CONCLUSIONS: A range of cognitive, emotional and behavioral responses, most notably cognitive responses, were found to shape patient and/or caregiver psychological adjustment, hence may serve as potential targets in ALS clinical practice. Nonetheless, empirical evidence is limited by heterogeneity in outcomes and measures and a lack of longitudinal, multivariable, and caregiver-oriented research. More systematic, standardized and longitudinal data collection is needed to clarify how psychological adjustment processes evolve throughout the disease trajectory and to identify modifiable targets for psychological supportive care.",
-      "journal": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Distilling the Neurophenomenological Signatures of Pure Awareness during Transcendental Meditation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42213535/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-27T00:00:00",
-      "date_fetched": "2026-05-30T13:01:11.354231",
-      "doi": "10.1162/JOCN.a.2626",
-      "authors": [
-        {
-          "name": "Alejandro Chandia-Jorquera",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sean D van Mil",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mar Estarellas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marina Dauphin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Claudia Pascovich",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andres Canales-Johnson",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Pure awareness (PA) has been proposed as a form of minimal phenomenal experience, but its neurophenomenological signatures remain poorly characterized. Transcendental meditation (TM) offers a particularly tractable empirical model of PA because its procedure is standardized, its induction is effortless, and it reliably elicits reports of awareness with minimal content. We combined electroencephalography with temporal experience tracing in 33 experienced TM practitioners and their matched controls (performing mental counting). TM practitioners reported significantly greater intensity and temporal variability of PA, independent of years of meditation practice. We then used multivariate classification of theoretically motivated electroencephalography markers spanning temporal entropy, aperiodic activity, complexity, and linear and nonlinear functional connectivity. We observed a double dissociation. When TM was contrasted with counting, temporal entropy and aperiodic dynamics were the strongest discriminators, whereas phase-coherence functional connectivity contributed least. Conversely, when TM was contrasted with its own baseline, low-frequency functional connectivity dominated, whereas temporal entropy contributed minimally. Complementary topographical analyses indicated that these differences were not reducible to a few localized univariate effects, but were better understood as distributed multivariate neural patterns. Finally, TM showed little evidence of carryover into subsequent rest, whereas counting induced more residual change. Together, these findings provide a systematic electrophysiological characterization of PA and support neurophenomenology as a tractable framework for studying minimal phenomenal experience.",
-      "journal": "Journal of cognitive neuroscience",
+      "abstract": "Anxiety, depression, and stress are common in individuals with diabetes and cancer and are associated with poor self-management and well-being. Cognitive behavioral therapy (CBT) and mindfulness-based interventions (MBIs) are widely used in nonpharmacological treatments, but their comparative effectiveness remains unclear. We conducted a stratified subgroup meta-analysis to indirectly compare CBT and MBIs in adults with diabetes or cancer, examining moderators including condition, delivery modality, and dose. Following PRISMA guidelines, we searched Scopus, Web of Science, EBSCOhost, and ScienceDirect through October 2025. Randomized trials (N\u2009=\u2009107; n\u2009=\u200923,585) reporting validated post-intervention outcomes were pooled using random-effects models, with subgroup and meta-regression analyses performed in RStudio. Overall, CBT and MBIs significantly improved outcomes (SMD\u2009=\u2009-0.78). CBT showed larger effects, particularly for depression (SMD\u2009=\u2009-0.95) and diabetes (SMD\u2009=\u2009-1.21), although comparisons were indirect and heterogeneity was substantial. Stronger effects were observed in group-based interventions lasting \u22658 weeks, providing \u22658 contact hours, and including homework or booster components; higher session frequency was also associated with greater improvement (\u03b2\u2009=\u2009-0.086; p\u2009<\u20090.01). MBIs may offer scalable benefits, particularly in cancer care. These findings support condition-tailored psychosocial strategies, although results should be interpreted cautiously.",
+      "journal": "Npj mental health research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -250,31 +309,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "The Expansive Joy of Mao Ishikawa",
-      "url": "https://www.newyorker.com/culture/photo-booth/the-expansive-joy-of-mao-ishikawa",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-05-30T10:00:00",
-      "date_fetched": "2026-05-30T13:01:11.693929",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Hilton Als",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "The photographer doesn\u2019t sentimentalize her subjects; she pays attention to them.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
