@@ -1,780 +1,123 @@
 {
-  "generated_at": "2026-06-02T15:56:47.185254",
+  "generated_at": "2026-06-03T16:14:34.830891",
   "papers": [
     {
-      "title": "A Bio Inspired Mechanism for Early Stage Non-Cooperative UAV Intent Recognition",
-      "url": "https://www.semanticscholar.org/paper/b85325cc7c3ecfac6bc514a44fc0da1c52944b83",
+      "title": "Lived Experiences of Regular Vipassana Meditators in Buddha's Birthland: Perspective from Maslow's Hierarchy of Needs Theory",
+      "url": "https://www.semanticscholar.org/paper/ed655045f8a73b13d69c14da6eb2b6b4aaac0984",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-31T00:00:00",
-      "date_fetched": "2026-06-02T15:56:03.129081",
-      "doi": "10.1109/asim67379.2025.11512660",
+      "date_published": "2025-12-31T00:00:00",
+      "date_fetched": "2026-06-03T16:13:53.628737",
+      "doi": "10.3126/jkmc2.v4i1.91047",
       "authors": [
         {
-          "name": "Manrui Zheng",
-          "author_id": "2434485068",
+          "name": "Santosh Lama",
+          "author_id": "2201233831",
           "affiliation": null
         },
         {
-          "name": "Bowei Huang",
-          "author_id": "2276579303",
+          "name": "Bhagwan Aryal",
+          "author_id": "150931348",
           "affiliation": null
         },
         {
-          "name": "Haotian Wu",
-          "author_id": "2281573116",
-          "affiliation": null
-        },
-        {
-          "name": "Cheng Hu",
-          "author_id": "145805157",
-          "affiliation": null
-        },
-        {
-          "name": "Zhifu Li",
-          "author_id": "2292305224",
+          "name": "K. P. Joshi",
+          "author_id": "2275240515",
           "affiliation": null
         }
       ],
-      "abstract": "This paper presents a bio inspired visual method for detecting non-cooperative unmanned aerial vehicle (UAV) encounters using a computational model of the locust\u2019s Lobula Giant Movement Detector (LGMD). In constrained airspace where drones may operate without identification or communication (e.g., ADS-B), our approach enables early and reliable intent recognition using only monocular video. The LGMD path-way processes angular expansion (looming) cues from incoming objects and converts membrane potential dynamics into time-to-collision (TTC) estimates, distinguishing between cooperative behaviors (e.g., yielding, departing) and non-cooperative threats (e.g., persistent approaching). Extensive real world experiments with dual quadrotor engaged videos across six encounter scenarios demonstrate that the model responds robustly under varying illumination and resolution conditions. Results confirm that LGMD alone provides sufficient intent awareness for onboard decision making, offering a lightweight, communication-free solution to enhance UAV safety in non-cooperative environments.",
-      "journal": "2025 4th International Conference on Advanced Sensing, Intelligent Manufacturing (ASIM)",
+      "abstract": "This study examined the spiritual well-being of regular Vipassana meditators in Lumbini, Nepal, a region revered as the birthplace of Gautam Buddha, through a transcendental phenomenological lens. This study examined how regular meditation enables individuals to grow from within, discovering deeper meaning, inner transformation, and a richer spiritual life, thereby building on Maslow\u2019s concept that transcending the self leads to the most profound human fulfillment. Eight purposefully selected meditators participated in in-depth, semi-structured interviews, allowing their lived experiences to illuminate the intersection of contemplative discipline and spiritual fulfillment. Thematic analysis revealed key experiential patterns, including the purity of the mind and detachment from ego, heightened awareness and present-moment living, meaning, purpose, and a sense of sacred connection, as well as the art of living and self-transcendence. The findings showed that Vipassana helps enhance personal spiritual well-being and connects with the highest stage in Maslow\u2019s framework\u2014self-transcendence. This research adds a culturally based perspective on how meditation can lead to inner freedom and spiritual growth. This study has implications for the overall dimensions of health and policy-making.",
+      "journal": "Journal of Kapan Multiple Campus",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "non-dual awareness"
+        "vipassana"
       ]
     },
     {
-      "title": "Meditation Styles Are Highly Discriminable from EEG at the Subject Level With Limited Generalization Across the Population: A Machine-Learning Study",
-      "url": "https://www.semanticscholar.org/paper/a136de4a12052e131898eedff62e0c7398635f93",
+      "title": "\u0dbd\u0dda\u0da9\u0dd2 \u0dc3\u0dba\u0dcf\u0da9\u0ddd \u0dc0\u0dd2\u0db4\u0dc3\u0dca\u0dc3\u0db1\u0dcf \u0db7\u0dcf\u0dc0\u0db1\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0dd9\u0dc4\u0dd2 \u0d86\u0db7\u0dd2\u0db0\u0dbb\u0dca\u0db8\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dd9\u0dc0\u0dca\u0dc1\u0dba - The Abhidhammic Approch to Ledi Sayado\u2019s Vipassan\u0101 Meditation Method",
+      "url": "https://www.semanticscholar.org/paper/a28ea237d13e605e7584f17dc4b734b35e8ac46d",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-05-19T00:00:00",
-      "date_fetched": "2026-06-02T15:56:09.047396",
-      "doi": "10.64898/2026.05.15.725404",
+      "date_published": "2025-12-31T00:00:00",
+      "date_fetched": "2026-06-03T16:13:53.628748",
+      "doi": "10.4038/anvesana.v16i2.28",
       "authors": [
         {
-          "name": "Saqib Hayat",
-          "author_id": "2088634704",
-          "affiliation": null
-        },
-        {
-          "name": "Francesco Goretti",
-          "author_id": "2300959661",
-          "affiliation": null
-        },
-        {
-          "name": "Rachele Fabbri",
-          "author_id": "1820762479",
-          "affiliation": null
-        },
-        {
-          "name": "C. Noferini",
-          "author_id": "2198248369",
-          "affiliation": null
-        },
-        {
-          "name": "Elena Cravero",
-          "author_id": "2308364702",
-          "affiliation": null
-        },
-        {
-          "name": "P. Mori",
-          "author_id": "144614644",
-          "affiliation": null
-        },
-        {
-          "name": "A. Scaglione",
-          "author_id": "152150043",
-          "affiliation": null
-        },
-        {
-          "name": "F. Pavone",
-          "author_id": "2273558239",
+          "name": "Welampele Ratanasara",
+          "author_id": "2435894798",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "bioRxiv",
-      "year": 2026,
+      "abstract": "The vipassan\u0101 meditation method developed as a distinct meditation tradition in Burma during the nineteenth century and gained widespread popularity not only in Asian countries but also in Europe during the twentieth and twenty-first centuries. Venerable Ledi Sayadaw played a central role in establishing this meditation tradition and making it accessible to the public. His contributions were both practical and scholarly, encompassing the organization of meditation programs as well as extensive academic writings. A distinctive feature of Ledi Sayadaw\u2019s meditation method is its direct and systematic adherence to the vipassan\u0101 approach grounded in Abhidhamma analysis. In this method, the examination of the five aggregates (pa\u00f1cakkhandha) is primarily based on Abhidhamma teachings, with comparatively less emphasis on traditional meditation objects. This analytical approach is derived from the Abhidhamma, which consists of seven canonical texts. Subsequently, several standard manuals were composed to facilitate the study of these seven books in a simplified and systematic manner. Among them, the Abhidharm\u0101rtha-sangrahaya (Pali - Abhidhammattha-sa\u1e45gaha) is the most widely used due to its brevity, clarity, and pedagogical value. Venerable Ledi Sayadaw employed the Abhidharm\u0101rtha-sangrahaya as a foundational text for introducing the Vipassan\u0101 meditation method. Consequently, the Burmese tradition of the Abhidharm\u0101rtha-sangrahaya has become highly influential among both gen-eral practitioners and academic students of Abhidhamma. Ledi Sayadaw further contributed to this tradition by composing a commentary on the Abhidharm\u0101rtha-sangrahaya entitled Paramatthad\u012bpan\u012b. Considering these considerations, this article examines the Abhidhamma-based approach to Vipassan\u0101 meditation as developed by Ledi Sayadaw, with particular empha-sis on the Abhidharm\u0101rtha-sangrahaya.",
+      "journal": "Anve\u1e63a\u1e47\u0101",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "metta meditation"
+        "vipassana"
       ]
     },
     {
-      "title": "Pengaruh Meditasi Mindfulness terhadap Penurunan Tingkat Kecemasan (Anxiety)Anxiety atau gangguan kecemasan merupakan salah satu masalah kesehatan mental yang banyak dialami oleh masyarakat modern, baik laki-laki maupun perempuan, terutama pada era digita",
-      "url": "https://www.semanticscholar.org/paper/a9f986c073295cc2099f055de70e944cdabf01b6",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-01-08T00:00:00",
-      "date_fetched": "2026-06-02T15:56:09.047445",
-      "doi": "10.47927/jssdm.v6i1.1400",
-      "authors": [
-        {
-          "name": "Suryanti Suryanti",
-          "author_id": "73844820",
-          "affiliation": null
-        },
-        {
-          "name": "Lauw Acep",
-          "author_id": "2321365748",
-          "affiliation": null
-        },
-        {
-          "name": "Metta Dewi Wong",
-          "author_id": "2409157851",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Anxiety or anxiety disorders are among the most prevalent mental health problems experienced by modern society, affecting both men and women, particularly in the digital era due to pressures from family, work, academic demands, and social environments. One non-pharmacological approach that is widely used to address anxiety disorders is mindfulness meditation. This article aims to examine conceptually and empirically the effect of mindfulness meditation on reducing anxiety levels. The method employed is a literature review of relevant national journals. The findings indicate that consistent practice of mindfulness meditation is effective in reducing anxiety symptoms through increased self-awareness, improved emotional regulation, and greater acceptance of unpleasant experiences. Therefore, mindfulness meditation can be recommended as a complementary intervention in the management of anxiety disorders",
-      "journal": "Journal of Social Science and Digital Marketing",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "metta meditation"
-      ]
-    },
-    {
-      "title": "Repeated virtual reality sessions in fibromyalgia: a prospective observational study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41766477/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:35.894804",
-      "doi": "10.1080/17581869.2026.2635978",
-      "authors": [
-        {
-          "name": "Jean-Marie Amodeo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Frederic Berthier",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cindy Biehlmann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brigitte Piazza",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "AIMS: Fibromyalgia (FM) is a chronic pain syndrome with limited effective treatments. This study evaluated virtual reality (VR) as an adjunct therapy. METHODS: Participants used the HealthyMind program delivered via a Pico G2 4K Enterprise headset in eight supervised, seated 20-minute sessions over four weeks, featuring nature relaxation, guided imagery, and meditation. Primary outcome was Pain Numerical Rating Scale (NRS) at one month (M1); secondary outcomes included PCS, PSEQ, and HADS. RESULTS: Fifty participants completed baseline and M1 assessments. Pain significantly decreased from 6.8\u2009\u00b1\u20091.5 to 5.8\u2009\u00b1\u20091.9 (-14.8%,  CONCLUSION: Repeated HealthyMind VR use was associated with reduced pain and improved psychological outcomes in FM patients. CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is (NCT05567861).",
-      "journal": "Pain management",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Sex-specific effects of digital home-based neuromodulation combined with mindfulness-based meditation on knee osteoarthritis symptoms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42226766/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.541653",
-      "doi": "10.1177/20552076261456558",
-      "authors": [
-        {
-          "name": "Chiyoung Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Juyoung Park",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chen X Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaoxiao Sun",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C Kent Kwoh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shen Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hongyu Miao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hyochol Ahn",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: We evaluated the effects of digital home-based transcranial direct current stimulation (tDCS) paired with audio-delivered mindfulness-based meditation (MBM) on knee-specific clinical pain and symptoms in patients with symptomatic knee osteoarthritis, assessed using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC). As sex is a major source of variability in responses to tDCS and MBM, we examined treatment effects by sex. METHODS: Participants ( RESULTS: The sample was predominantly female (69.0%). Among females, only the active tDCS + active MBM group showed significantly greater reductions in WOMAC total scores-particularly in physical function-compared to the sham tDCS + sham MBM group immediately post-intervention ( CONCLUSIONS: Although digital home-based tDCS paired with MBM may improve knee-specific symptoms, this effect was observed only among females and was short-term. Furthermore, findings should be interpreted cautiously given the sex imbalance.",
-      "journal": "Digital health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "From symptom to diagnosis: Gap between clinical observations and PTSD recognition in child protection.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42224979/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.541743",
-      "doi": "10.1016/j.chiabu.2026.108119",
-      "authors": [
-        {
-          "name": "M\u00e9lanie Magnin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Astrid Hirschelmann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Steve Geoffrion",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: In France, approximately 381,000 minors receive Child Welfare Services (Aide Sociale \u00e0 l'Enfance, ASE) measures, a population highly exposed to early adversities. Despite the expected high prevalence of trauma-related disorders, screening for post-traumatic stress disorder (PTSD) remains insufficient. OBJECTIVE: To assess the prevalence of PTSD and complex trauma indicators through systematic analysis of educational case files of adolescents in child protection services. To assess the training needs of child protection professionals regarding psychotrauma. METHOD: Retrospective analysis of 50 case files (mean age: 16.7\u00a0years) followed by ASE/PJJ between June 2021 and October 2022. Systematic coding of symptoms according to DSM-5 criteria for PTSD and DESNOS (Disorders of Extreme Stress Not Otherwise Specified). Presence criterion: symptom mentioned at least twice in two separate documents. Measuring professionals' own recognition of their training needs on PTSD and complex trauma, following a targeted awareness intervention. RESULTS: 94% of participants exhibited significant PTSD symptomatology indicators (\u226515 symptoms out of 30); no formal PTSD diagnosis had been established in any case. Criteria D and E were particularly over-represented. Analysis according to DESNOS confirmed the complex nature of the trauma. All participants had experienced criminally characterized violence, but only 29.7% of incidents had led to a report. All (100%) of the 100 professionals who received psychotrauma awareness training expressed a need for in-depth training. CONCLUSION: This study reveals a paradox: a massive prevalence of traumatic indicators (94%) finely described by professionals but not identified as PTSD, due to lack of specific training. These results underscore the need to integrate systematic psychotrauma screening and social worker training into child protection services.",
-      "journal": "Child abuse & neglect",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Efficacy of Cognitively-based compassion training for Veterans with chronic pain with psychological Comorbidity: Protocol for a randomized clinical trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42179864/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.541836",
-      "doi": "10.1016/j.conctc.2026.101646",
-      "authors": [
-        {
-          "name": "Anne Malaktaris",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Niloofar Afari",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pollyanna Casmar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Matthew S Herbert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rachel Raver",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julie Kangas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lin Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fadel Zeidan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ariel J Lang",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Chronic pain with psychological comorbidity, especially posttraumatic stress disorder (PTSD) and/or depression, is a prevalent and costly problem, especially among Veterans. Compassion meditation (CM) is a meditative practice that focuses on developing attentional regulation and the intention to assuage suffering. CM-based approaches show promise in ameliorating physical and mental health problems as well as improving quality of life. The objective of this study, a randomized clinical trial, is to compare the efficacy of Cognitively-Based Compassion Training\u00ae for Chronic Pain with Psychological Comorbidity (CBCT-CP+) to Health Education while Living with Pain (H.E.L.P.; health psychoeducation control), among 142 Veterans with chronic pain and psychological comorbidity (PTSD and/or depression). Veterans in both groups will participate in 10 weekly, 90-min virtual group sessions, and will be assessed at baseline (0 weeks), weekly during intervention (weeks 1-10), mid-treatment (between weeks 4 and 5), posttreatment (10 weeks), 3-month and 6-month follow-up. The primary aim is to evaluate the efficacy of CBCT-CP\u00a0+\u00a0compared to H.E.L.P. in reducing 1) pain interference (measured with Brief Pain Inventory (BPI)) and 2) severity of comorbid psychopathology (PTSD and/or depression; assessed with the Clinical Global Impression scale (CGI)). We hypothesize that CBCT-CP\u00a0+\u00a0will be associated with larger reductions in pain interference and severity of comorbid psychopathology (co-primary outcomes) compared to control. We also hypothesize that CBCT-CP\u00a0+\u00a0will be associated with greater improvements in life satisfaction and quality of life (secondary outcomes). If efficacious, CBCT-CP\u00a0+\u00a0could be further evaluated via multi-site or hybrid effectiveness trials and, ultimately, could improve treatment outcomes for Veterans with chronic pain (CP) and PTSD and/or depression. This randomized clinical trial is registered at clinicaltrials.gov (ID: NCT04651296).",
-      "journal": "Contemporary clinical trials communications",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Iranian Elderly Perception of Spiritual Self-Care: A Qualitative Content Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40944827/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.543455",
-      "doi": "10.1007/s10943-025-02439-8",
-      "authors": [
-        {
-          "name": "Maedeh Sadeghigolafshani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Afsaneh Sadooghiasl",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fazlollah Ahmadi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anoshirvan Kazemnejad",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "As individuals age, their physical, psychological, and spiritual requirements experience substantial changes. Among these, spiritual self-care emerges as a crucial dimension of well-being in later life, contributing meaningfully to improved quality of life and mental health. This study explored older adults' perceptions of spiritual self-care through a qualitative approach grounded in conventional content analysis. Conducted in Iran in 2024, the study involved seventeen elderly participants selected via purposive sampling. Data were collected through semi-structured, in-person interviews and analyzed concurrently with data collection. The analysis yielded eight categories and four overarching themes: Creating Joy in Daily Life Activities, Meditation and Self-Purification, Living and Being with Others, and Exciting Hobbies. The findings suggest that spiritual self-care in older adults encompasses joyful engagement in everyday activities, resilience through religious practices, and a pursuit of inner peace. Furthermore, meaningful social relationships, connection to nature, and engagement with modern tools such as social media,\u00a0emerged as significant contributors to emotional balance and enhanced life satisfaction in later years.",
-      "journal": "Journal of religion and health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Developing a trustworthy and explainable framework for classifying skin lesions through transfer learning and attention mechanisms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41579557/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.543765",
-      "doi": "10.1016/j.compbiolchem.2026.108914",
-      "authors": [
-        {
-          "name": "Ali M Duhaim",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Noor S Baqer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mohammed A Fadhel",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Detection of high precision skin lesions, especially melanoma, are still a major challenge in medical imagination due to their close visual equality and lack of reliably labeled datasets. In this study, we introduce a deep learning sketch aimed at balancing clinical accuracy with clinical interpretation. The workflow starts with a series of preprosaresing steps: removing hair from dermoscopic images, correction with the cow and separating the wound area using a U-NET segmentation model. On top of that, a skilled-B4 network was properly set and increased with a competition block meditation module (CBAM) to focus the model on clinically important properties. In order to further strengthen performance, this spine was integrated into a dress with its -201 and Renex -50, where predictions are added through a soft poll. The model output was interpreted by the use of character comb and lime, which provides visual clarification of areas affecting the final decision. The training was held on him10000 datasets and valid against ISIC-2019 and pH, which demonstrated the contour's ability to generalize in different wound categories. The model reached 98.95\u202f% accuracy, 98.7\u202f% balanced accuracy and 99.6\u202f% sensitivity to melanoma, improvement in recent benchmarks. By combining efficiency, interpretation and design of privacy and inconvenience, the framework gives a realistic step towards safe and reliable integration of AI units into dermatology practice.",
-      "journal": "Computational biology and chemistry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Role of Integrative Therapies in the Management of Trauma-related Disorders Amongst Refugees.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41060353/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.543849",
-      "doi": "10.1007/s10903-025-01770-2",
-      "authors": [
-        {
-          "name": "Tahmineh Salehi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Prem Chopra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heidi Wegner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jenny Adams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Josef Szwarc",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: It is well recognised that there is a high prevalence of trauma-related disorders amongst people of refugee background. Integrative approaches that utilise complementary therapies in combination with conventional Western treatments including psychological therapy and pharmacotherapy are consistent with culturally responsive care. AIM: To explore the evidence base for complementary therapies in the management of trauma-related disorders amongst refugees and summarise the evidence base for integrative approaches of relevance to the management of trauma-related disorders in this population. METHODS: A narrative review was performed using the electronic database Medline (via PubMed). Additional articles were sourced using the snowball search method. RESULTS: 81 articles were identified in a preliminary search, of which 22 articles were considered eligible for inclusion in the review. A broad range of complementary therapies have demonstrated some evidence in the management of trauma-related disorders amongst refugees including herbal medicine, dance/movement therapy, art therapy, music therapy, yoga and meditation, Qigong and Tai chi, acupuncture and neurofeedback. CONCLUSION: There is an opportunity for health professionals to provide holistic and culturally responsive care to patients of refugee background in the management of trauma-related disorders by integrating complementary therapies with conventional treatments. Further research in this field is warranted to explore the role of specific modalities of complementary therapies.",
-      "journal": "Journal of immigrant and minority health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Applying Lifestyle Medicine to Enhance Cancer Survivorship and Patient Well-being.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42226935/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.544294",
-      "doi": "10.1177/15598276261454630",
-      "authors": [
-        {
-          "name": "Jasmin Hundal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Madeline Hardacre",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amy Comander",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Lifestyle medicine provides an evidence-based framework for addressing the complex and evolving needs of patients across the cancer continuum. Built on 6 pillars, physical activity, nutrition, sleep, stress management, social connectedness, and avoidance of risky behaviors, lifestyle medicine is supported by major organizations as a core component of comprehensive oncology care. Cancer therapies frequently disrupt dietary intake through treatment-related toxicities, while long-term survivorship is often complicated by metabolic dysfunction and weight change. Current guidance emphasizes whole food-based dietary patterns and limiting ultra-processed foods, red meat, and alcohol, although evidence for specific dietary strategies in recurrence prevention remains mixed. Regular physical activity improves quality of life, reduces treatment-related symptoms, and is associated with improved survival outcomes. Sleep disturbances, psychosocial stress, and social isolation are also prevalent and linked to immune dysregulation, inflammation, and worse clinical outcomes; evidence-based interventions such as cognitive behavioral therapy and mindfulness-based stress reduction can improve psychological and functional well-being. Tobacco and alcohol cessation remain critical priorities given their associations with treatment complications, recurrence, and mortality. Effective implementation requires coordinated, multidisciplinary care models that integrate behavioral health, rehabilitation, nutrition, and community resources. Embedding longitudinal, patient-centered lifestyle interventions into oncology practice may improve survivorship outcomes and overall health.",
-      "journal": "American journal of lifestyle medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Role of Different Thoughts in Tacit Coordination and Its Malleability by Interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42221919/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.544394",
-      "doi": "10.5334/joc.503",
-      "authors": [
-        {
-          "name": "Lionel Newman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ming Cao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Susanne Tauber",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marieke van Vugt",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Previous work has shown that successful tacit coordination depends on the availability of working memory resources. Much less is known about how thought processes, such as mind-wandering and self- vs. other-oriented attention, influence tacit coordination. In this experiment, we examined the effect of these thought processes on tacit coordination, and whether we could influence performance and thought processes through brief meditation interventions. While coordination and thought processes were not significantly affected by the interventions when compared to a control intervention, we found that thought processes, as measured by thought probes randomly interleaved between trials, significantly influenced coordination performance. Specifically, dyads performed significantly better when other-oriented than when self-oriented, showing greater convergence on shared decision rules over time. This study demonstrates the importance of orienting attention beyond self-generated responses in order to mutually adapt actions and mental states to achieve shared goals in iterated social coordination.",
-      "journal": "Journal of cognition",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Psychological correlates of mindful eating: the role of mindfulness and eating behaviors among health sciences students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42226132/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.544647",
-      "doi": "10.1186/s12889-026-27982-1",
-      "authors": [
-        {
-          "name": "Tu\u011fba Sar\u0131",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "\u0130rem \u00c7a\u011fla \u00d6zel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hatice Pars",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: This study aimed to examine the associations between psychological factors, eating attitudes, and mindful eating among undergraduate health sciences students. METHODS: A cross-sectional correlational design was employed with 468 university students. Data were collected using validated self-report instruments, including the Mindful Attention Awareness Scale, Mindful Eating Questionnaire, Rosenberg Self-Esteem Scale, and Psychological Well-Being Scale-Short Form. Descriptive statistics, Spearman correlation analyses, and multiple linear regression analyses were conducted using SPSS 25.0. RESULTS: Significant positive correlations were found between mindful eating and psychological well-being (r\u2009=\u2009.298, p\u2009<\u2009.001) and mindfulness (r\u2009=\u2009.266, p\u2009<\u2009.001). Mindfulness was also positively associated with psychological well-being (r\u2009=\u2009.283, p\u2009<\u2009.001). A strong negative correlation was observed between psychological well-being and self-esteem (r\u2009=\u2009-\u2009.795, p\u2009<\u2009.001), while weak negative correlations were identified between self-esteem and both mindful eating (r\u2009=\u2009-\u2009.219, p\u2009<\u2009.001) and mindfulness (r\u2009=\u2009-\u2009.252, p\u2009<\u2009.001). In regression analyses, the overall model was statistically significant and explained a small but meaningful proportion of the variance in mindful eating (R\u00b2 = 0.104, p\u2009<\u2009.001). Emotional eating related variables and body perception accounted for additional variance in mindful eating (R\u00b2 = 0.047, p\u2009<\u2009.001). CONCLUSION: Mindfulness and psychological well-being were significantly associated with mindful eating, whereas self-esteem was not independently associated with mindful eating in the regression model. These findings suggest the potential importance of incorporating mindfulness- and emotion-focused components into interventions targeting eating behaviors among health sciences students.",
-      "journal": "BMC public health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Cognitive Dissonance-Based Priming Intervention: Randomized Encouragement With in-the-Wild Phishing Simulation Attack in Health Care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42224651/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.544912",
-      "doi": "10.2196/68051",
-      "authors": [
-        {
-          "name": "Prosper Kandabongee Yeng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Muhammad Ali Fauzi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arnstein Vestad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bian Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Katrien De Moor",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christian Jacobsen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John-Bosco Diekuu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Meriem Bettayeb",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Phishing remains a dominant initial attack vector in health care, exploiting psychological factors such as urgency and authority. Despite extensive investment in technical controls and awareness training, health care staff remain highly susceptible in real operational conditions. Cognitive dissonance (CD), the discomfort arising from inconsistencies between beliefs and actions, has been proposed as a mechanism to disrupt unsafe rationalization at the moment of exposure, but has rarely been evaluated in live organizational settings using objective behavioral outcomes. OBJECTIVE: This study examined whether a brief CD-based priming intervention, delivered immediately prior to a real-world phishing simulation, was associated with differences in phishing susceptibility among health care staff. Secondary objectives explored whether CD exposure was associated with directional differences in security-related perceptions and self-reported practices. METHODS: A 2-stage hybrid randomized-encouragement experiment was conducted at a large Norwegian hospital. In Stage 1, staff were randomly assigned to a control or CD-primed condition and completed a survey assessing security perceptions and self-reported practices (n=62). In Stage 2, an in-the-wild phishing simulation was sent to all staff, enabling objective measurement of phishing susceptibility via observed link-click behavior. Behavioral outcomes were analyzed across 3 groups-control (n=34), CD-primed (n=32), and neutral nonresponders (n=753)-using a prespecified omnibus chi-square test as the sole confirmatory analysis. Survey-based multivariate and univariate analyses were treated as exploratory due to limited sample size and variable construct reliability. RESULTS: Due to voluntary uptake, only a subset of randomized participants received the intervention. Observed phishing click rates were 65% (22/34) in the control group, 44% (14/32) in the CD-primed group, and 53% (396/753) in the neutral group. The omnibus chi-square test did not detect a statistically significant association between group membership and click behavior (\u03c7\u00b22=3.00; n=819; P=.22; Cram\u00e9r V=0.06). Descriptive comparisons within the randomized subset suggested lower click rates in the CD-primed group, but effect estimates were imprecise and associated with wide CIs. Survey-based analyses indicated group differences across combined psychological constructs; however, several constructs exhibited low internal consistency, and follow-up analyses were underpowered. CONCLUSIONS: In a real-world hospital phishing simulation, pre-exposure CD priming was associated with a directional but statistically nonsignificant pattern of reduced phishing click behavior. This evidence does not establish a reliable behavioral effect, and construct-level findings are exploratory. CD-based prompts may serve as a lightweight behavioral signal in real-world conditions, but larger, fully randomized, and longitudinal studies with improved psychometric validation are needed before such interventions can be considered reliable complements to established cybersecurity controls.",
-      "journal": "Journal of medical Internet research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Neural effects of meditation following a randomized controlled trial of the Emotion Awareness and Skills Enhancement (EASE).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42224327/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.545378",
-      "doi": "10.1109/TNSRE.2026.3698744",
-      "authors": [
-        {
-          "name": "Busra T Susam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nathan T Riek",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard T Gall",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Caitlin M Conner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Susan W White",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carla A Mazefsky",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Murat Akcakaya",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness has promise for enhancing emotion regulation in autistic individuals. Electroencephalography (EEG) emerges as an ideal, objective measure of neural responses before and after mindfulness practice. In a study with 39 autistic individuals, EEG analysis assessed the impact of mindfulness in the participants in a randomized controlled clinical trial of the Emotion Awareness and Skills Enhancement (EASE) program compared to a control group. Participants completed an affective Posner Task while wearing an EEG headset during two visits. In between visits, each participant either received EASE or active control therapy. Using random forest classifiers over the Post-Visit EEG features baseline corrected by Pre-Visit, the study achieved 88.48% to 91.86% accuracy in distinguishing EASE and Control groups under distress, non-distress, and neutral conditions. Linear mixed-effects models applied across the full EEG feature set revealed significant Visit \u00d7 Feedback \u00d7 Group interactions in central theta and midline and occipital beta band power, with post-hoc analyses indicating these effects were primarily driven by differential neural responses to rewarding versus unfavorable feedback. The EASE group demonstrated distinct pre-to-post changes in these features relative to the Control group, suggesting intervention-related modulation of neural systems supporting adaptive responses to emotionally meaningful feedback. These findings underscore mindfulness' positive influence on emotion regulation potentially showing its effects as neural oscillations matching the results from existing literature. Subgroup analysis based on Clinical Global Impressions threshold scores identified responders and non-responders with LME analyses confirming greater intervention-related EEG changes in EASE responders compared to Control responders.Our findings provide valuable insights into potential benefits of mindfulness-based interventions for autistic people, highlighting the neurophysiological effects of such programs.",
-      "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Stress reduction: a comparative analysis of watering indoor plants and computer work.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40991769/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.545627",
-      "doi": "10.1080/10803548.2025.2550858",
-      "authors": [
-        {
-          "name": "Huang Yan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ahmad Hassan",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigates the effectiveness of watering indoor plants as a stress-reduction strategy compared to engaging in computer tasks among college students. Participants randomly assigned to one of two groups each performed their respective activities for 15\u2009min. A comprehensive evaluation included measures of blood pressure, electroencephalography, the semantic differential method and the state-trait anxiety inventory to assess emotional and physiological responses. Results revealed a significant decrease in systolic blood pressure, while electroencephalography data showed neural patterns associated with a more relaxed cognitive state. Participants in the plant-watering group also exhibited higher meditation scores, reinforcing the stress-relieving potential of this intervention. Psychological data indicated that those in the plant-watering group reported greater relaxation, comfort and perceived connection to nature, as well as lower anxiety scores, compared to the computer task group. These findings highlight the benefits of nature-based activities in reducing stress and promoting well-being in academic and work environments.",
-      "journal": "International journal of occupational safety and ergonomics : JOSE",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Academic involution atmosphere and smartphone addiction among college students: the mediating role of psychological distress, and the moderating role of mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42224895/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.545669",
-      "doi": "10.1016/j.actpsy.2026.107172",
-      "authors": [
-        {
-          "name": "Yan Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fei Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xin Zhou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ying Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuxian Yan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xinyu Zhou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jinhui Zhou",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "The connection between academic involution atmosphere and smartphone addiction has not been sufficiently examined, and the mechanism underlying this correlation remains unclear. The present study explored how academic involution atmosphere influences smartphone addiction, focusing on psychological distress as a potential mediator and mindfulness as a moderator. A sample of 5909 university students participated and responded to self-report measures assessing academic involution atmosphere, psychological distress, mindfulness, and smartphone addiction. Findings indicated a significant positive association between academic involution atmosphere and smartphone addiction. Moreover, psychological distress was found to serve as a partial mediator in this relationship. Furthermore, mindfulness served as a moderator for the mediation pathway through psychological distress. Specifically, the associations of academic involution atmosphere with both psychological distress and smartphone addiction were attenuated among students reporting higher mindfulness. Interestingly, the link between psychological distress and smartphone addiction appeared more pronounced in students with higher mindfulness. These results contribute to the existing literature by clarifying a potential mechanism underlying smartphone addiction. The study suggests that interventions aimed at alleviating academic involution atmosphere, mitigating psychological distress, and cultivating mindfulness may help reduce smartphone addiction use among college students.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "[Exp\u00e9rience d'une introduction \u00e0 la pleine conscience chez des personnes vieillissantes \u00e0 risque de d\u00e9clin cognitif].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42227038/",
+      "title": "\"A Better Way of Just Being Free\": Exploring How Stroke Survivors With Aphasia Experienced an Intervention Combining Communication Strategy Training With Acceptance and Commitment Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42229409/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-02T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.545936",
-      "doi": "10.1017/S0714980826100701",
+      "date_fetched": "2026-06-03T16:14:34.024268",
+      "doi": "10.1044/2026_AJSLP-25-00434",
       "authors": [
         {
-          "name": "Andr\u00e9anne Simard",
+          "name": "June Bracken",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Isabelle F-Dufour",
+          "name": "Alyssa Kelly",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sonia Goulet",
+          "name": "Eric C Meyer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Carol Hudon",
+          "name": "Rachael Hass",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eva Xiao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tyson G Harmon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth R Skidmore",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rebecca Hunting Pompon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "William S Evans",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Les interventions bas\u00e9es sur la pleine conscience (IBPC) sont reconnues comme des approches pertinentes aupr\u00e8s de personnes vieillissantes \u00e0 risque de d\u00e9clin cognitif. Toutefois, peu d'\u00e9tudes ont explor\u00e9 l'exp\u00e9rience v\u00e9cue de participants pr\u00e9sentant un d\u00e9clin cognitif accompagn\u00e9 de sympt\u00f4mes anxiod\u00e9pressifs. Cette \u00e9tude qualitative vise \u00e0 comprendre l'exp\u00e9rience de 13 adultes de 55 ans et plus ayant particip\u00e9 \u00e0 une IBPC de groupe. Des entrevues semi-dirig\u00e9es men\u00e9es apr\u00e8s l'intervention ont \u00e9t\u00e9 analys\u00e9es selon une approche inductive pour d\u00e9gager les th\u00e8mes \u00e9mergents. Les r\u00e9sultats r\u00e9v\u00e8lent une trajectoire exp\u00e9rientielle en trois temps\u00a0: une surprise initiale face aux pratiques, une \u00e9volution progressive de leur v\u00e9cu, tant individuel qu'interpersonnel, notamment gr\u00e2ce au groupe, puis un sentiment d'\u00e9lucidation et de satisfaction \u00e0 l'\u00e9gard du programme. L'analyse met en lumi\u00e8re des processus individuels et relationnels importants, soulignant la n\u00e9cessit\u00e9 de consid\u00e9rer divers facteurs dans l'\u00e9tude des m\u00e9canismes et effets des IBPC aupr\u00e8s des personnes vieillissantes.",
-      "journal": "Canadian journal on aging = La revue canadienne du vieillissement",
+      "abstract": "PURPOSE: Depression, anxiety, and social isolation are prevalent among stroke survivors with aphasia (SSwA). However, evidence-based mental health interventions for SSwA are limited. The Acceptance and Commitment Therapy (ACT) for Aphasia Phase I clinical trial (NCT04984239) sought to bridge this gap by adapting and piloting an intervention combining ACT with communication strategy training to improve mental health and functional communication in SSwA. Here, we present the qualitative findings of this study to characterize experiential outcomes and inform intervention refinement. METHOD: Following a content analysis approach, we examined the posttreatment interviews of participants who received a refined version of the intervention ( RESULTS: Participants reported satisfaction with the intervention, positive changes in mood and behavior, and increased acceptance of their aphasia. Findings supported the utility of all core intervention components and highlighted the importance of mindfulness practice, forming a therapeutic alliance, and supporting patient autonomy. Findings were consistent with hypothesized mechanisms of change regarding psychological flexibility and treatment generalization. CONCLUSION: This study provides qualitative support for further evaluation of ACT for Aphasia and contributes to an emerging evidence base for adapted psychological interventions developed specifically for SSwA. SUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.32316024.",
+      "journal": "American journal of speech-language pathology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -782,32 +125,317 @@
       "matched_keywords": []
     },
     {
-      "title": "Sources of stress and coping strategies employed by undergraduate students over a semester: motivations and implications for academic success.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41637671/",
+      "title": "Pilot Study on the Usefulness of Tele-Yoga in Patients With Heart Failure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228416/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-01T00:00:00",
-      "date_fetched": "2026-06-02T15:56:46.546286",
-      "doi": "10.1152/advan.00292.2025",
+      "date_published": "2026-05-29T00:00:00",
+      "date_fetched": "2026-06-03T16:14:34.024688",
+      "doi": "10.1097/CIN.0000000000001529",
       "authors": [
         {
-          "name": "E S Louise Faber",
+          "name": "Diana Achury-Salda\u00f1a",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jemma Campbell",
+          "name": "Mayra Alejandra S\u00e1nchez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Laura Carniel",
+          "name": "Angie Angarita",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Johan Ayala-Guti\u00e9rrez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marian Thiriat-Infante",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Angela Daniela Yepes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lizeth Hasbleidy Mora",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Luisa Fernanda Garcia",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "University students commonly experience high levels of stress, which negatively impact on academic performance, engagement, and well-being. Coping strategies can be employed to manage stress, but there have not been extensive examinations of student motivations for selecting coping strategies and how selection of strategies changes during a semester. This study explored sources of stress and coping strategies used by first-year undergraduate students across a semester. It examined reasons for strategy selection and the relationships between coping strategies, academic engagement, and performance. Participants were 203 consenting first-year undergraduate sport science students in Australia. Students responded to open-ended questions at the beginning and end of semester, and responses were subjected to thematic analysis. Frequencies of responses were correlated with measures of engagement and academic performance. The primary sources of stress were academic pressures, alongside social, financial, and personal challenges. At the beginning of semester, students predominantly intended to employ problem-focused coping strategies, such as time management and study techniques. However, by the semester's end, students more frequently reported using strategies such as exercise, balancing work and life, meditation, and yoga. Students' reported reasons for strategy use indicated that coping mechanisms served dual functions, both alleviating emotional distress and supporting study effectiveness, regardless of whether traditionally classified as problem- or emotion-focused. Employing more coping strategies positively correlated with higher academic performance. These findings suggest that encouraging a diverse range of adaptive coping strategies, while considering students' motivations for strategy selection, can support students' academic success and well-being.",
-      "journal": "Advances in physiology education",
+      "abstract": "This study aimed to evaluate the feasibility and benefits of tele-yoga in promoting mindfulness. A cross-sectional pilot study was conducted on patients (n=24) with heart failure at a tertiary referral hospital. The tele-yoga intervention was implemented in 6 group sessions over 8 weeks. Feasibility was assessed using indicators of adherence, retention, and user experience, whereas mindfulness was measured using the Mindful Attention Awareness Scale with a Cronbach's alpha of 0.92. The statistical software RStudio was used for analysis. The results showed that most participants were women, with an average age of 47.4 years, middle-aged, and recently diagnosed. The attendance rate was 100%, and participants were highly satisfied with the experience. The average mindfulness score was 60, with a median of 59 and a SD of 17.81. This intervention proved to be feasible and acceptable, promoting concentration, emotional self-awareness, and stress management, thereby improving quality of life and disease management.",
+      "journal": "Computers, informatics, nursing : CIN",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Awake bruxism and dispositional mindfulness: psychophysiological and behavioral correlates in a real-time ecological assessment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42230428/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-02T00:00:00",
+      "date_fetched": "2026-06-03T16:14:34.024828",
+      "doi": "10.1007/s10266-026-01420-5",
+      "authors": [
+        {
+          "name": "Nykolas Jorge Silva Castaldi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rafael Chadud Matoso-Filho",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Caio Sberni Pinheiro Souza",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Larissa Greg\u00f3rio Candido-do-Prado",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Melissa Oliveira Melchior",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Simone Cec\u00edlio Hallak Regalo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jardel Francisco Mazzi-Chaves",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "La\u00eds Valencise Magri",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This cross-sectional study investigated the association between dispositional mindfulness and the frequency of awake bruxism (AB)-related behaviors assessed through ecological momentary assessment (EMA), and explored the contribution of specific mindfulness facets. Seventy-six undergraduate dental students completed the Brazilian version of the Five Facet Mindfulness Questionnaire (FFMQ) and screening instruments for orofacial symptoms and parafunctional behaviors. Participants meeting screening criteria for AB underwent a one-week EMA protocol using the BruxApp, with 12 real-time prompts per day. Linear regression models were used to examine the association between dispositional mindfulness and EMA-derived AB frequency, with adjustment for sex, anxiety/depression, and coping. Higher total FFMQ scores were associated with lower AB frequency in the unadjusted analysis (\u03b2 = -0.472; 95% CI\u2009-\u20090.906 to -\u20090.037; p\u2009=\u20090.034; R\u00b2 = 0.236). After adjustment, the association was attenuated and became borderline (adjusted \u03b2 = -0.70; 95% CI\u2009-\u20091.40 to 0.001; p\u2009=\u20090.050; adjusted R\u00b2 = 0.285). At the facet level, Acting with Awareness and Nonreactivity showed inverse associations with AB frequency, whereas Observing was positively associated. Lower dispositional mindfulness was also associated with a higher prevalence of self-reported mandibular pain symptoms. Overall, dispositional mindfulness was associated with interindividual variability in EMA-derived AB frequency and pain symptom reporting under naturalistic conditions, although part of this association may reflect broader psychosocial factors.",
+      "journal": "Odontology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exploring the effects of mindfulness meditation on resting-state functional connectivity: an overview.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228355/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-03T00:00:00",
+      "date_fetched": "2026-06-03T16:14:34.026097",
+      "doi": "10.1515/revneuro-2026-0019",
+      "authors": [
+        {
+          "name": "Thomas Le Fran\u00e7ois",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Charlotte E Hilberdink",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "B\u00e9reng\u00e8re Guillery-Girard",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elise Leroux",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pascal Delamillieure",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maxime Tr\u00e9hout",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ga\u00ebl Ch\u00e9telat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Annick Haelewyn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric Bui",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindfulness meditation has received growing interest in research over the past decades. Mindfulness meditation training (MMT) can be employed as a mental practice to improve cognitive skills such as attention and emotion regulation and may promote well-being. Neuroimaging studies have emerged to understand the effects of MMT on brain functioning. However, no review exists on the effects of MMT on resting-state brain functional connectivity (rsFC) in healthy meditation-na\u00efve adults specifically. We, therefore, aimed to provide an overview of studies that investigated the effects of MMT on rsFC in healthy meditation-na\u00efve adults, as well as their link to cognitive and clinical measures. Several studies reported changes in MMT-induced rsFC within and between regions of the default mode (DMN), salience (SN), and central executive (CEN) networks. Both increases and decreases in rsFC have been observed for brain regions associated with these networks after MMT, each with differential roles in emotion regulation, stress, and cognitive functions. Some studies highlighted associations between changes in rsFC after MMT and modifications in cognitive performance and psycho-affective measures, which may be influenced by MMT-specific characteristics such as practice duration or delivery methods. MMT may induce a reorganization in the brain's functional architecture by altering rsFC within and between these networks and seems to modify processes related to attention, executive memory, emotional regulation, stress, and resilience. Investigating functional connectivity during rest in key brain networks seems a promising approach to understand the effects of mindfulness meditation on overall well-being.",
+      "journal": "Reviews in the neurosciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Understanding the Influence of Experiential Psychotherapy Among Men Who Have Offended: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227754/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-02T00:00:00",
+      "date_fetched": "2026-06-03T16:14:34.026134",
+      "doi": "10.1177/0306624X261456565",
+      "authors": [
+        {
+          "name": "Herina Koko Ayot",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "High rates of recidivism persist among incarcerated men, particularly those with extensive trauma histories, while many rehabilitation programs remain primarily cognitively focused. This systematic review synthesizes evidence on experiential psychotherapies, including mindfulness-based interventions, Acceptance and Commitment Therapy (ACT), yoga, meditation, and creative arts therapies delivered in forensic settings to adult males. Twenty-four studies met inclusion criteria. Thematic synthesis identified three outcome domains: (1) psychological and emotional well-being, including reductions in stress, anxiety, depression, and trauma symptoms; (2) behavioral and cognitive regulation, including improved impulse control and prosocial identity shifts; and (3) recidivism and desistance, with several studies-particularly those examining Transcendental Meditation and structured mindfulness programs-reporting reduced reoffending. Evidence for Compassion Focused Therapy and most creative arts therapies was limited or absent. Overall, findings suggest experiential psychotherapies may support emotional regulation, identity change, and desistance, though heterogeneity in study design and outcomes limits generalizability and highlights the need for more rigorous longitudinal research.",
+      "journal": "International journal of offender therapy and comparative criminology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exploring the relationship between usage of a digital mindfulness app and perceived stress among caregivers of persons living with dementia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42227877/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-02T00:00:00",
+      "date_fetched": "2026-06-03T16:14:34.026183",
+      "doi": "10.1080/13607863.2026.2662514",
+      "authors": [
+        {
+          "name": "Michael P Williams",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Morgan Seward",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth M Allen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Raquel G Tatar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Darby M Simon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jennifer Huberty",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana-Maria Vranceanu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Evan Plys",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: Mindfulness digital health interventions (DHIs) can support stress management among caregivers of persons living with dementia (PLWD), yet few studies investigate dose-response relationships. METHOD: This study is a secondary analysis of a feasibility randomized controlled trial of Healthy Minds Program for Caregivers (HMP-C), a mindfulness DHI to reduce stress among caregivers of PLWD, against an educational podcast control (Wellness App [WA]). Ninety participants were randomized to HMP-C ( RESULTS: Participants used both apps for 70\u2009min (median) per week (IQR = 55; Range= 4-179). Every 10\u2009min of HMP-C usage per week was significantly associated with a decrease in perceived stress by 0.7 (CI\u2009=\u2009-1.2, 0.3). Higher baseline stress and anxiety were related to lowered usage in active control ( CONCLUSION: These findings suggest that HMP-C usage is related to reductions in perceived stress and robust to potential usage barriers. Future research is needed to identify the optimal dose of DHI mindfulness, which balances feasibility and targeted outcomes.",
+      "journal": "Aging & mental health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Tai Chi and wellness for Gulf War Illness: Combined analysis of in-person and remote randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41774973/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-01T00:00:00",
+      "date_fetched": "2026-06-03T16:14:34.028363",
+      "doi": "10.1016/j.jpsychires.2026.02.045",
+      "authors": [
+        {
+          "name": "Craig P Polizzi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Thomas M Crow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria Ting",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cameron Busser",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anica Pless Kaiser",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chenchen Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "DeAnna L Mori",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barbara L Niles",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Veterans with Gulf War Illness (GWI) experience a wide range of physical, neurological, cognitive, and mood complications that can lead to distressing psychological symptoms. Despite its debilitating impact on physical and psychological functioning, effective treatment options for GWI remain limited. Tai Chi, an ancient Chinese mind-body practice, may be efficacious in reducing GWI symptoms and associated mental health challenges. The present study combined data from two randomized controlled trials (RCTs) examining a Tai Chi group intervention relative to a Wellness comparison group intervention. Primary outcomes were GWI symptoms (health symptoms, pain interference, fatigue, and depressed mood), with secondary outcomes including anxiety, stress, sleep disturbances, mindfulness, health-related quality of life, and PTSD symptoms. We also evaluated whether treatment delivery modality (in-person versus remote) influenced outcomes. METHODS: Participants were 114 veterans with GWI and chronic pain. They completed self-report measures at baseline, posttreatment, 3-month follow-up, and 9-month follow-up. RESULTS: Preliminary multilevel modeling indicated that treatment modality (in-person versus remote) did not significantly influence outcomes. Both Tai Chi and Wellness interventions were associated with improvements in health symptoms, pain interference, depression, anxiety, mindfulness, mental and physical health-related quality of life, and PTSD symptoms. CONCLUSIONS: Tai Chi and Wellness group interventions may demonstrate similar efficacy in improving GWI symptoms and mental health outcomes among veterans with GWI and chronic pain. These interventions can be delivered in-person and remotely with comparable therapeutic benefits, offering flexible and accessible treatment options for this underserved population.",
+      "journal": "Journal of psychiatric research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -815,56 +443,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Democrats Must Learn to Talk Sports",
-      "url": "https://www.theatlantic.com/ideas/2026/06/democrats-sports-hot-takes/687397/?utm_source=feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-06-02T11:00:00",
-      "date_fetched": "2026-06-02T15:56:47.063270",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Nathaniel Frum",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "Politicians need as much attention as possible, as frequently as possible, while seeming as relatable as possible. A cheat code exists to hit all three objectives.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    },
-    {
-      "title": "Why Did Donald Trump Get So Suddenly Shy?",
-      "url": "https://www.theatlantic.com/newsletters/2026/06/trump-iran-kennedy-center-weaponization-fund/687395/?utm_source=feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-06-01T21:59:00",
-      "date_fetched": "2026-06-02T15:56:47.063326",
-      "doi": null,
-      "authors": [
-        {
-          "name": "David A. Graham",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "As his signature efforts falter, the president is pleading with his critics to pipe down and pay less attention.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
