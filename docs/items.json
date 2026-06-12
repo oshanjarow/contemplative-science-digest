@@ -1,191 +1,103 @@
 {
-  "generated_at": "2026-06-11T15:32:21.811281",
+  "generated_at": "2026-06-12T14:31:48.066814",
   "papers": [
     {
-      "title": "A canary in the mind: A single baseline brain scan predicts adolescent depression and anxiety one year later",
-      "url": "https://www.semanticscholar.org/paper/98b8379b64e9e65e91c2fa2e5245e8ac92548d74",
+      "title": "A Comparative Study on Samsk\u0101ra in the Yoga S\u016btra and Nuclear Feeling in Tao-Psychotherapy: Focusing on the Restraint of Samsk\u0101ra and the Dissolution of Nuclear Feeling",
+      "url": "https://www.semanticscholar.org/paper/e11ec7257476831ebc92db6775b29e010e305c2d",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:31:22.753642",
-      "doi": "10.64898/2026.06.08.26355206",
+      "date_published": "2026-05-31T00:00:00",
+      "date_fetched": "2026-06-12T14:31:18.499879",
+      "doi": "10.55586/kewms.2026.29.1.171",
       "authors": [
         {
-          "name": "G. Deco",
-          "author_id": "2333355446",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Sanz Perl",
-          "author_id": "2418855768",
-          "affiliation": null
-        },
-        {
-          "name": "J. Vohryzek",
-          "author_id": "2342680147",
-          "affiliation": null
-        },
-        {
-          "name": "E. Garcia-Guzm\u00e1n",
-          "author_id": "2336957937",
-          "affiliation": null
-        },
-        {
-          "name": "D. Pizzagalli",
-          "author_id": "2258316388",
-          "affiliation": null
-        },
-        {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
-          "affiliation": null
-        },
-        {
-          "name": "S. Chandaria",
-          "author_id": "2288091409",
-          "affiliation": null
-        },
-        {
-          "name": "M. L. Kringelbach",
-          "author_id": "2253069134",
+          "name": "Hansang A. Kim",
+          "author_id": "2118625713",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "medRxiv",
+      "abstract": "This study aims to establish an integrated healing model by identifying the structural isomorphism between the concept of Samsk\u0101ra in Pata\u00f1jali\u2019s Yoga S\u016bra and Nuclear Feeling in So-am Rhee Dong-shick\u2019s Tao-Psychotherapy. First, the research demonstrates that Samsk\u0101ra and Nuclear Feeling share seven functional similarities, particularly in terms of their formation period, located in prenatal stage, and their unconscious repetitive dynamics. By reinterpreting the metaphysical concept of the past as a prenatal origin within the present life, this study suggests that the two mechanisms can be understood as comparable forms of psychological imprinting. Second, the study argues that the \u2018dissolution of nuclear feeling\u2019 in Tao-Psychotherapy provides an essential condition for securing energetic plasticity, thereby enabling the yogic processes of the \u2018restraint of Samsk\u0101a (nirodha)\u2019 and \u2018transformation (parin\u0101a).\u2019Third, based on this comparison, the study proposes an \u2018Integrated Model of Transformative Dissolution\u2019 through which suffering may be transformed into a source of wisdom. By shifting the aim of healing from mere removal to transformation, this model explains how fixed emotional patterns can be reconstituted as positive existential resources ('Positive Transformation'). This study is significant in that it integrates ancient Eastern wisdom with a Korean psychotherapeutic model through the framework of prenatal experience, thereby offering practical implications for healing and clinical application.",
+      "journal": "The Korean East West Mind Science Association",
       "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Digital Meditation to Target Employee Stress",
-      "url": "https://www.semanticscholar.org/paper/8acfdef7d1249b9d3df889fcdaabf989726335f5",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-06-11T15:31:32.855918",
-      "doi": "10.1001/jamanetworkopen.2024.54435",
-      "authors": [
-        {
-          "name": "Rachel M. Radin",
-          "author_id": "2339993040",
-          "affiliation": null
-        },
-        {
-          "name": "Julie Vacarro",
-          "author_id": "2339996627",
-          "affiliation": null
-        },
-        {
-          "name": "Elena Fromer",
-          "author_id": "2082807716",
-          "affiliation": null
-        },
-        {
-          "name": "Sarah E. Ahmadi",
-          "author_id": "2334924939",
-          "affiliation": null
-        },
-        {
-          "name": "Joanna Y. Guan",
-          "author_id": "2327679397",
-          "affiliation": null
-        },
-        {
-          "name": "S. M. Fisher",
-          "author_id": "2339994524",
-          "affiliation": null
-        },
-        {
-          "name": "S. Pressman",
-          "author_id": "6747058",
-          "affiliation": null
-        },
-        {
-          "name": "John F. Hunter",
-          "author_id": "40910505",
-          "affiliation": null
-        },
-        {
-          "name": "Kate Sweeny",
-          "author_id": "4739846",
-          "affiliation": null
-        },
-        {
-          "name": "A. Tomiyama",
-          "author_id": "2271383408",
-          "affiliation": null
-        },
-        {
-          "name": "L. Hofschneider",
-          "author_id": "2190081184",
-          "affiliation": null
-        },
-        {
-          "name": "Matthew J. Zawadzki",
-          "author_id": "38882656",
-          "affiliation": null
-        },
-        {
-          "name": "Larisa Gavrilova",
-          "author_id": "2238187137",
-          "affiliation": null
-        },
-        {
-          "name": "Elissa S Epel",
-          "author_id": "2315414780",
-          "affiliation": null
-        },
-        {
-          "name": "A. Prather",
-          "author_id": "3626306",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This randomized clinical trial investigates whether a digital mindfulness meditation application reduces perceptions of global and job-related stress among adults employed at a large academic medical center.",
-      "journal": "JAMA Network Open",
-      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "nirodha"
       ]
     },
     {
-      "title": "Trait mindfulness and psychological distress in college students: indirect associations via experiential avoidance.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42268645/",
+      "title": "An early-stage embodied carbon assessment method for the Global South: Sri Lankan case study",
+      "url": "https://www.semanticscholar.org/paper/2a212942775576fafed86ab9f5ae5840b18d03ea",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.131525",
-      "doi": "10.1080/07448481.2026.2673432",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-02T00:00:00",
+      "date_fetched": "2026-06-12T14:31:18.499945",
+      "doi": "10.1108/bepam-11-2025-0394",
       "authors": [
         {
-          "name": "Gabriel Simerly",
+          "name": "A. Nawarathna",
+          "author_id": "1394670708",
+          "affiliation": null
+        },
+        {
+          "name": "Zaid Alwan",
+          "author_id": "152197539",
+          "affiliation": null
+        },
+        {
+          "name": "Barry J. Gledson",
+          "author_id": "74559625",
+          "affiliation": null
+        },
+        {
+          "name": "N. Fernando",
+          "author_id": "2303389043",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n \n Quantifying embodied carbon (EC) is essential for mitigating climate change impacts and reducing excessive use of natural and non-renewable materials. Yet, many Global South countries face several challenges such as data limitations, technical capacity gaps and limited use of EC assessment tools, particularly at early design stage where the greatest reduction potential exists. This study therefore aims to develop an accessible early design stage EC assessment model to support more effective EC management.\n \n \n \n This study employs a mono-method quantitative approach using secondary data from 25 office building projects in Sri Lanka. Data for model development were extracted from architectural drawings and bills of quantities (BOQs) to determine material quantities, while EC coefficients were obtained from Inventory of carbon and energy (ICE) v3.0. Model development integrated multiple linear regression (MLR) technique with life cycle assessment (LCA) principle.\n \n \n \n The findings indicate that the developed model provides accurate and reliable EC estimates using a limited set of early design parameters. Gross internal floor area (GIFA) and external wall area (EWA) were found to be the most influential in determining EC estimations.\n \n \n \n The model provides built environment professionals with a practical and time-efficient tool for estimating EC at the early design stage, supporting informed design decisions, wider adoption in data-scarce contexts, and improved carbon management in the Global South.\n \n \n \n This study is distinctive in providing an accessible EC assessment model specifically tailored to the constraints of Global South contexts, where limited data and technical capacity often hinder effective carbon management.\n",
+      "journal": "Built Environment Project and Asset Management",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Meditation Enhances Small-World Network Efficiency: MEG-Based Evidence from Attention and Control Systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42281140/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-11T00:00:00",
+      "date_fetched": "2026-06-12T14:31:46.752328",
+      "doi": "10.1177/21580014261455602",
+      "authors": [
+        {
+          "name": "Geeta Prem Chandoo Damisetti",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Joshua Broman-Fulks",
+          "name": "C M Markan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rose Mary Webb",
+          "name": "Sona Ahuja",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lisa Emery",
+          "name": "Manjari Tripathi",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: This cross-sectional study examined whether the associations between trait mindfulness and psychological distress were consistent with indirect associations involving experiential avoidance (EA) among college students. PARTICIPANTS: The sample consisted of 289 undergraduate students ( METHODS: Participants completed the Five Facet Mindfulness Questionnaire, Acceptance and Action Questionnaire-II, Multidimensional Experiential Avoidance Questionnaire, and Depression Anxiety Stress Scales-21. Indirect effect models were estimated with bootstrapped confidence intervals. RESULTS: Higher trait mindfulness was associated with lower EA, and higher EA was associated with greater depression, anxiety, and stress. Bootstrapped 95% confidence intervals for indirect effect estimates did not include zero across outcomes and EA measures, and direct associations between mindfulness and distress remained. CONCLUSIONS: These findings are consistent with psychological flexibility theory and suggest that EA is a relevant correlate of mindfulness-distress associations in college students. Longitudinal and experimental studies are needed to test temporal precedence and causal mechanisms.",
-      "journal": "Journal of American college health : J of ACH",
+      "abstract": "INTRODUCTION: Brain networks and meditation have recently gained attention, with studies suggesting that more efficiently organized meditation brain networks are linked to better cognitive performance. This efficiency is exemplified in small-world brain networks, which combine local segregation with global integration, facilitating optimal information processing. This study examines the small-world propensity (SWP), a marker of neural efficiency, among three functional brain networks: the default mode network (DMN), fronto-parietal network (FPN), and attention network (AN) in three groups: advanced meditators (AM), beginner meditators (BM), and control meditators (CM). METHODS: Using magnetoencephalography (MEG), we recorded 10-min meditation sessions from AM and BM groups practicing Surat-Shabda-Yoga meditation at different stages. The CM (baseline group), with no formal training in meditation, had introductory exposure to \"four chakra meditation\" and practiced the same. SWP was computed using coherence-based connectivity measures across frequencies ranging from 4 to 45 Hz during stable meditative states. RESULTS: Significant differences were observed between meditators and non-meditators, with AM and BM groups compared with the CM group. Specifically, the AN in the AM group compared with CM exhibited higher SWP at the beta frequency range (19 Hz), while the FPN in the BM group compared with the CM showed increased SWP at the theta frequency range (8 Hz). DISCUSSION: These findings highlight how meditation engages the brain's intrinsic network architecture in a frequency- and stage-specific manner, supporting efficient information processing and offering a scientific basis for its cognitive and regulatory benefits.",
+      "journal": "Brain connectivity",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -193,32 +105,67 @@
       "matched_keywords": []
     },
     {
-      "title": "Informatics-Based Psychotherapeutic and Psychiatric Interventions in Dermatology: Scoping Review of Impacts on Skin Disease Severity and Mental Health Outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269173/",
+      "title": "Addressing the silent epidemic of antimicrobial resistance in the African region: a scoping review of evidence gaps and research considerations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42282991/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.131575",
-      "doi": "10.2196/82096",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-06-12T14:31:46.752382",
+      "doi": "10.1136/bmjph-2025-004853",
       "authors": [
         {
-          "name": "Caroline Lamarre",
+          "name": "Chinwe Iwu-Jaja",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jeffrey Chivinski",
+          "name": "Laetitia Gahimbare",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alexandre Hudon",
+          "name": "Yidnekachew Degefaw Mazengiya",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joseph Okeibunor",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Olushayo Oluseun Olu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anelisa Jaca",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Akhona V Victress Mazingisa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chidozie D Iwu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ali Ahmed Yahaya",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Charles Shey Wiysonge",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Chronic dermatologic conditions such as psoriasis, atopic dermatitis, and hidradenitis suppurativa are associated with a high burden of psychiatric comorbidities, including depression, anxiety, and suicidality. Despite growing awareness of the psychosocial impact of skin diseases, mental health needs remain underaddressed in dermatologic care. Digital technologies (including teledermatology, mobile health apps, and internet-delivered psychotherapies) offer promising avenues for integrating psychotherapeutic and psychiatric interventions into dermatology. However, the scope, effectiveness, and implementation of such informatics-based approaches remain poorly mapped in the literature. OBJECTIVE: This scoping review aimed to systematically identify, categorize, and synthesize studies on digital psychotherapeutic and psychiatric interventions targeting patients with dermatological conditions, with a focus on clinical, mental health, and implementation outcomes. METHODS: Following the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines, we conducted a comprehensive search across 5 databases (MEDLINE, Embase, Web of Science, PsycINFO, and Google Scholar) for articles published up to March 2025. Studies were included if they involved patients with dermatologic conditions and assessed interventions that combined a digital informatics component (eg, telehealth, apps, artificial intelligence, virtual platforms) with a psychotherapeutic or psychiatric element (eg, cognitive behavioral therapy [CBT], mindfulness, consult-liaison psychiatry). Eligible study designs included clinical trials, observational studies, and mixed methods research. Data were extracted systematically, and methodological quality was assessed using JBI tools. RESULTS: Out of 15,176 records identified, 11 studies met the inclusion criteria. Most interventions targeted psoriasis (9/11) and used asynchronous digital platforms such as internet-based CBT and mobile apps. Across studies, dropout rates ranged from 10% to 76%. Improvements in dermatologic quality of life were reported in 6 of 11 studies, with statistically significant reductions in depression and anxiety observed in multiple trials (eg, internet-based CBT and mindfulness-based interventions), alongside reductions in psoriasis severity (Psoriasis Area and Severity Index) and itch intensity in randomized controlled trials. Intervention duration ranged from single-session virtual reality exposure to 8- to 12-week structured programs. However, long-term outcomes beyond 3 to 12 months were rarely assessed, and reporting of sociodemographic variables and equity-related factors was limited. CONCLUSIONS: Informatics-based psychotherapeutic and psychiatric interventions represent a promising frontier in psychodermatology, with early evidence suggesting feasibility and potential clinical benefit. Digital platforms may expand access to mental health support and improve holistic care for patients with dermatologic conditions. However, significant gaps remain in terms of equity, long-term effectiveness, integration into clinical workflows, and adaptation for diverse populations. Future research should focus on rigorous, inclusive trials and the development of hybrid models that blend digital and face-to-face care to ensure sustainable and equitable impact.",
-      "journal": "JMIR dermatology",
+      "abstract": "OBJECTIVES: This scoping review mapped antimicrobial resistance (AMR)-related interventions in WHO African region against the five strategic objectives of the WHO Global Action Plan (GAP) on AMR and identified evidence gaps limiting progress. DESIGN: A scoping review using the Arksey and O'Malley framework, enhanced by Levac  DATA SOURCES: PubMed, CINAHL, Web of Science and Scopus searched on 9 December 2025, with grey literature from Google Scholar and Google (first 100 hits). ELIGIBILITY CRITERIA: Studies of any design reporting interventions addressing GAP strategic objectives-stewardship, surveillance, infection prevention, education or economic approaches in the WHO African region. DATA EXTRACTION AND SYNTHESIS: Data were charted using a pilot-tested Excel tool by GAP strategic objective and evidence gaps and research considerations were synthesised thematically. RESULTS: Forty-nine studies (2016-2025) were included, with country-specific evidence concentrated in South Africa, Ethiopia, Kenya, Ghana and Nigeria. Most evaluated antimicrobial stewardship or awareness/training interventions in tertiary hospitals, showing improvements in prescribing, knowledge and occasional cost savings but few assessed long-term effects or resistance trends. Surveillance had advanced but remained limited by weak laboratory capacity, diagnostic coverage, data quality and limited use of AMR/antimicrobial use data in practice. Evidence on infection prevention, vaccination and One Health interventions was scarce and no full economic evaluations were identified. CONCLUSIONS: AMR research in the African region clusters around antimicrobial stewardship and awareness in tertiary hospitals, leaving infection prevention, vaccination, One Health approaches and economic evaluation substantially underrepresented across the GAP framework. Closing these gaps will require longer-term implementation research, context-specific economic analyses and broader geographical coverage to generate the evidence needed to operationalise the global AMR research agenda in Africa.",
+      "journal": "BMJ public health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -226,52 +173,57 @@
       "matched_keywords": []
     },
     {
-      "title": "A Complexity-Science Framework for Studying Flow: Using Media to Probe Brain-Phenomenology Dynamics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269803/",
+      "title": "A Mindfulness-Based Approach to Supporting Child Welfare Personnel in Puerto Rico: A Pilot Mixed-Methods Evaluation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42281176/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.131817",
-      "doi": "10.1016/j.neuroimage.2026.122050",
+      "date_published": "2026-06-11T00:00:00",
+      "date_fetched": "2026-06-12T14:31:46.753130",
+      "doi": "10.1080/26408066.2026.2685132",
       "authors": [
         {
-          "name": "Fran Hancock",
+          "name": "Israel S\u00e1nchez-Cardona",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rachael Kee",
+          "name": "Yashira Arroyo P\u00e9rez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fernando Rosas",
+          "name": "Sonia Cepeda Hern\u00e1ndez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Manesh Girn",
+          "name": "Carmen Rivera Rivera",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Steven Kotler",
+          "name": "Janitz Rivera",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michael Mannino",
+          "name": "Juan Flores Cintr\u00f3n",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Richard Huskey",
+          "name": "Cristina Adames",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marizaida S\u00e1nchez-Cesareo",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Consciousness spans a range of phenomenological experiences, from effortless immersion to disengaged monotony, yet how such phenomenology emerges from brain activity is not well understood. Flow, a phenomenological experience frequently elicited by interactive media, has drawn attention for its links to performance and wellbeing, but existing neural accounts rely on single-region or small-network analyses that overlook the brain's distributed and dynamic nature. Complexity science offers tools that capture brain-wide dynamics, but this approach has rarely been applied to flow or to its natural comparisons: boredom and frustration. Consequently, it remains unclear whether tools drawn from complexity science can objectively discriminate between these phenomenological experiences while also clarifying their neural basis. To address this uncertainty, we induced each phenomenological experience with a difficulty-titrated video game during functional magnetic resonance imaging and collected concurrent behavioral and self-report data. Our complex systems analyses revealed that flow, in this experimental setup, shows an inverse relationship to global entropy with moderate explanatory power, and is not explained by either synchronization or metastability, whereas boredom and frustration exhibit different configurations of brain-dynamics metrics. Notably, these findings integrate previously separate prefrontal and network-synchrony observations within a single dynamical systems framework and identify complexity-based markers with the potential to map the neural underpinnings of media-related benefits.",
-      "journal": "NeuroImage",
+      "abstract": "PURPOSE: Child welfare professionals face high job-related stress, undermining their well-being. Mindfulness-based interventions have shown potential in reducing stress and enhancing well-being. Using secondary data from a mixed-methods evaluation, this study describes the development and pilot implementation of the Wellness and Mindfulness Program (WMP), a mindfulness-based intervention designed to support the well-being of child welfare personnel. MATERIALS AND METHODS: The WMP was delivered to 385 child welfare professionals in Puerto Rico. The intervention consisted of two 6-hour sessions integrating psychoeducation with reflective and experiential activities. RESULT: Pre- and post-intervention assessments indicated significant improvements in awareness and acceptance, self-compassion, subjective well-being, and affective well-being. Effect sizes ranged from small to moderate (d\u2009=\u2009.19-.43). Satisfaction surveys and qualitative feedback indicate that the program was feasible and well-received, benefiting both participants' work and personal lives. DISCUSSION: These findings suggest that the WMP may strengthen workforce well-being and resilience among social service organizations.",
+      "journal": "Journal of evidence-based social work (2019)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -279,62 +231,122 @@
       "matched_keywords": []
     },
     {
-      "title": "Performance Under Pressure in Sport: A Position Statement from Exercise and Sports Science Australia (ESSA).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42271117/",
+      "title": "Corrigendum to \"Effects of Mediterranean diet or Mindfulness-Based Stress Reduction during pregnancy on maternal gut and vaginal microbiota: a subanalysis of the Improving Mothers for a better PrenAtal Care Trial BarCeloNa (IMPACT BCN) trial.\" [Am J Clin Nutr. 2025 Oct;122(4):1121-1133. doi: 10.1016/j.ajcnut.2025.07.030. Epub 2025 Aug 5. PMID: 40759394; PMCID: PMC12674037.].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42276149/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.132012",
-      "doi": "10.1007/s40279-026-02472-x",
+      "date_published": "2026-06-11T00:00:00",
+      "date_fetched": "2026-06-12T14:31:46.753236",
+      "doi": "10.1016/j.ajcnut.2026.101390",
       "authors": [
         {
-          "name": "Matthew J Schweickle",
+          "name": "Marta Selma-Royo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Renee N Appaneal",
+          "name": "F\u00e0tima Crispi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Patricia C Jackman",
+          "name": "Sara Castro-Barquero",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Clare L Minahan",
+          "name": "Irene Casas",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Gene M Moyle",
+          "name": "Marta Larroya",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Craig Pickering",
+          "name": "Mariona Genero",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Damien Stewart",
+          "name": "Cristina Paules",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Stewart A Vella",
+          "name": "Leticia Benitez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Christian Swann",
+          "name": "Lina Youssef",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rosalia Pascal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Noelia Encabo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ayako Nakaki",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andres Mart\u00edn-Asuero",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M Teresa Oller-Guzm\u00e0n",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Angela Arranz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eduard Vieta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rosa Casas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ramon Estruch",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eduard Gratacos",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria Carmen Collado",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Francesca Crovetto",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Supporting performance under pressure is important to many roles in the sporting sector, including Exercise and Sports Science Australia (ESSA) Accredited Sport Scientists and Accredited High\u00a0Performance Managers. This position statement on behalf of ESSA aims to support practitioners whose responsibilities include facilitating athletes' performance under pressure. To achieve this aim, we synthesised relevant systematic reviews, and theoretical and empirical publications, regarding supporting performance under pressure in sport. Specifically, we focused on translating the scientific literature regarding the different sources of pressure athletes may experience, how athletes may respond to this pressure, the different strategies that may be used to support performance under pressure and considerations for how performance under pressure may be evaluated. This position statement highlights that pressure can have both facilitative and debilitative effects on athlete performance. Training environments offering implicit learning opportunities and effective utilisation of pressure training can prepare athletes for performing well under pressure. A range of evidence-based psychological strategies can be utilised when performing under pressure, including: (1) pre-performance routines, (2) implicit attentional strategies, (3) psychological skills training and (4) mindfulness-based approaches. Suggestions are provided for how to appropriately select and implement different strategies depending on sport type or context. Drawing on a systems-led approach, performance teams can collectively work together to support athlete performance under pressure in an integrated manner. This position statement concludes with eight overarching recommendations to support performance under pressure. These recommendations are contextually specific to key stakeholder groups, such as the organisation, performance team members and sports researchers.",
-      "journal": "Sports medicine (Auckland, N.Z.)",
+      "abstract": null,
+      "journal": "The American journal of clinical nutrition",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -342,452 +354,47 @@
       "matched_keywords": []
     },
     {
-      "title": "Psychospiritual Interventions for Blood Pressure Control in Adults with Hypertension: A Meta-Analysis and Implications for Holistic Nursing Practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42267873/",
+      "title": "Effectiveness of psychotherapy groups on emotional health and visual-related quality of life in patients with inherited retinal dystrophies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42275968/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.132050",
-      "doi": "10.1177/08980101261457673",
+      "date_published": "2026-06-11T00:00:00",
+      "date_fetched": "2026-06-12T14:31:46.753580",
+      "doi": "10.1016/j.actpsy.2026.107236",
       "authors": [
         {
-          "name": "Lia Mulyati",
+          "name": "Cec\u00edlia Francini Cabral De Vasconcellos",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Arif Setyo Upoyo",
+          "name": "Tauany Alves Salles De Oliveira",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marina Cruz Pellissari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rodrigo Rodrigues Costa Boavista",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gabriela Don\u00e1 Rodrigues",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Juliana Maria Ferraz Sallum",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Hypertension often remains inadequately controlled despite pharmacological therapy, indicating the influence of multidimensional factors on blood pressure regulation. Psychological and spiritual processes contribute to stress regulation and adaptive coping; however, quantitative synthesis of psychospiritual interventions within holistic nursing remains limited. This meta-analysis evaluated the effects of psychospiritual interventions on systolic blood pressure (SBP) and diastolic blood pressure (DBP) in adults with hypertension. A systematic review and meta-analysis of randomized controlled trials was conducted following PRISMA 2020 guidelines using databases covering 2000-2025. Twelve studies were included in the qualitative synthesis, with six studies analyzed for SBP and five for DBP. Psychospiritual interventions were associated with a significant reduction in SBP (SMD = -0.91; 95% CI: -1.54 to -0.29; ",
-      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Therapeutic strategies to manage climate distress among young people.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269659/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.132238",
-      "doi": "10.1016/j.lanplh.2026.101470",
-      "authors": [
-        {
-          "name": "Hasini Gunasiri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Emma L Lawrance",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jana M Menssink",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rebecca Patrick",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christie Wilson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bronwyn Gresham",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Patrick D McGorry",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Caroline X Gao",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "The impact of climate change on mental health is increasingly evident, particularly among young people (16-25 years old), ranging from acute distress after extreme weather events to more persistent feelings of anxiety, grief, and uncertainty regarding the future. This Viewpoint explores how mental health care for young people can be improved to more effectively respond to the psychological impacts of climate change. Rather than proposing a new treatment model, this Viewpoint provides a starting point for clinicians by examining how existing therapeutic approaches could be applied, adapted, or reconsidered in the context of climate change. Furthermore, a range of therapeutic approaches commonly used in youth mental health care, including cognitive behavioural therapy, acceptance and commitment therapy, dialectical behaviour therapy, schema therapy, mindfulness and resilience-based interventions, nature-based approaches, empowerment and activism engagement, community-based interventions, and pharmacological treatments, are discussed for their potential relevance. We highlight both the strengths and limitations of these approaches when addressing climate distress. Finally, we outline key priorities for clinical practice, service development, and future research to support the mental health of young people in a changing climate.",
-      "journal": "The Lancet. Planetary health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Culturally adapted DBT parent coaching for Chinese families of adolescents with mental disorders: a mixed-methods feasibility study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42271462/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.132638",
-      "doi": "10.1186/s40359-026-04932-5",
-      "authors": [
-        {
-          "name": "Anqi Huang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kaiyan Gan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jing Xu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "YuXin Qian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiafang Liu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiawei Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qian Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zenghe Yue",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marcus Rodriguez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaoyan Ke",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Parents of adolescents with mental disorders frequently experience elevated levels of psychological distress, often in settings where structured support for caregivers is limited. Dialectical Behaviour Therapy (DBT) offers a skills-based framework that may strengthen caregivers' emotion regulation and improve family functioning, yet culturally adapted parent-focused programmes remain underexamined in China. This study evaluated the feasibility and preliminary effectiveness of a culturally adapted DBT parent coaching programme for Chinese parents of adolescents with mental disorders. METHODS: A mixed-methods, single-arm feasibility design was used, in which 42 parents of adolescents with mental disorders participated in a 10-week culturally adapted DBT parent coaching programme consisting of weekly online group sessions and offline homework practice. Quantitative data were collected at baseline (T1), post-intervention (T2), and three-month follow-up (T3) using validated measures of depression, anxiety, stress (DASS-21), emotion regulation (ERQ), and family functioning (SCORE-15). Paired t-tests and linear mixed-effects models were conducted to examine immediate and longitudinal changes. Qualitative data were obtained through semi-structured interviews with a purposive subsample and analysed using thematic analysis to explore participants' experiences and perceived changes. RESULTS: Significant reductions were observed in parents' depression, anxiety, and stress at post-intervention, alongside improvements in overall family functioning and the strengths and difficulties dimensions of the SCORE-15 (P\u2009<\u20090.05). Longitudinal analyses showed patterns consistent with sustained improvement from T1 to T3 in negative emotional symptoms, family functioning, and cognitive reappraisal, with qualitative findings supporting increased use of mindfulness, acceptance, and more constructive communication within families. Interview themes reflected motivations for participation, perceived personal and relational changes, and suggestions for programme refinement. CONCLUSIONS: The findings provide preliminary support for the feasibility and acceptability of a culturally adapted DBT parent coaching programme in the Chinese context. Improvements observed across quantitative and qualitative indicators suggest that the programme may offer a useful, skills-based resource for supporting caregiver wellbeing and aspects of family functioning. Within a cultural environment that places substantial emphasis on parental responsibility yet offers limited formal support, DBT parent coaching appears to be a contextually relevant and potentially valuable approach that warrants further evaluation through controlled and comparative study designs.",
-      "journal": "BMC psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Large language models as experimental systems in human psychopathology: a modelling study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42270468/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.133028",
-      "doi": "10.1016/j.landig.2026.101014",
-      "authors": [
-        {
-          "name": "Magdalena Katharina Wekenborg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth Anna Mathilde Michels",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Georg Kurze",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Matti Lasse Kropp",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fabian Wolf",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Josi Harzbecker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Isabella C Wiest",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jakob Nikolas Kather",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Despite advances in biomedical research, human psychopathology remains underserved by experimental model systems, limiting therapeutic innovation. Alternative approaches are needed to investigate the mechanisms underlying mental health conditions. We aimed to assess whether large language models (LLMs) could serve as experimental systems to model affective processes relevant to human psychopathology. METHODS: Using standard psychological induction protocols, including imagery vignettes, we tested whether seven affective states (fear, anxiety, anger, disgust, sadness, worry, and stress) could be systematically induced in six state-of-the-art LLMs (including GPT-4o and several Llama variants) and subsequently reversed with regulation strategies. Separate prompt sequences were created for each affective state, and an additional neutral control condition was included in which no affective stimulation was applied after the initial general prompt. All affective states followed static vignette protocols without interaction, consistent with human studies. The only exception was stress, which, in line with the original Trier Social Stress Test (TSST) protocol, followed a dynamic interactive prompting procedure. The LLMs were intermittently prompted to self-assess their current affective state via visual analogue scales with a fixed numerical range from 0 to 100 (except for anxiety, which was measured with the State version of the State-Trait Anxiety Inventory). To reverse the induction of affective states, a mindfulness-based relaxation technique was used for all conditions except stress, which was followed by a standardised debriefing procedure consistent with the original TSST protocol. Each condition was repeated in five independent runs to ensure reliability. A sentence completion test was used to test for cognitive bias after induction of sadness, with responses rated for emotional valence by three independent human raters. Inter-rater reliability (Cohen's \u03ba) and negativity scores were calculated, and conditions were compared using t tests (Cohen's d). FINDINGS: Across all affective states and over five runs, mean scores for GPT-4o increased by 52\u00b783 points (201\u00b720%) from baseline to post affect induction, and downregulation prompts reduced scores by 48\u00b723 points (60\u00b798%). These patterns were broadly replicated across five additional open-weight LLMs, with significant between-model differences for all affective states (p values between 0\u00b7045 and <0\u00b70001) except stress (p=0\u00b7063). GPT-4o and Llama 4 Maverick showed the strongest effects, whereas Llama 4 Scout showed the weakest responses, indicating that model architecture and scale influence susceptibility to affect induction. In the test for cognitive bias, sadness-related prompts elicited a consistent negativity bias in sentence completions by GPT-4o compared with neutral prompts (mean 15\u00b700 [SD 4\u00b726] vs 8\u00b767 [2\u00b766]; Cohen's d=1\u00b787). INTERPRETATION: Our findings establish LLMs as promising tools for modelling affective processes relevant to human psychopathology. By reproducing key psychological phenomena, LLMs might enable the experimental investigation of mechanisms underlying mental disorders and facilitate the preliminary screening of novel therapeutic interventions, potentially accelerating progress in a field historically constrained by the scarcity of effective model systems. FUNDING: None.",
-      "journal": "The Lancet. Digital health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Indian Society of Electrocardiology Position Statement on Improving CPR Awareness in the Indian public.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269917/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.133151",
-      "doi": "10.1016/j.ihj.2026.05.004",
-      "authors": [
-        {
-          "name": "Aditya Kapoor",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ajit Bhagwat",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ashish Nabar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Satyavir Yadav",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "B Hygriv Rao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yash Lokhandwala",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "S B Gupta",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kamlesh Raut",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ketan K Mehta",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Deepa Kane",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rusheek Rawal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Aniruddha Vyas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mandar Mahavir Shah",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amit Vora",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Akshay Mehta",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Joy M Thomas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arun David Arul",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nayani Makkar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Narayanan Namboodiri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shomu Bohora",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Deepak Padmanabhan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kinjal Goyal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sunil Sathe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ajit Desai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vishal Gavali",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jitendra Makkar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nitish Naik",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ajay Naik",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rakesh Yadav",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anoop Gupta",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Debabrata Roy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jyotirmoy Pal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mangesh Tiwaskar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sriniwas Samavedam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jigeeshu V Divatia",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Out-of-hospital cardiac arrest (OHCA) is a major public health challenge in India. Cardiopulmonary resuscitation (CPR) awareness, training, and bystander response rates remain critically low across the country. OBJECTIVE: This Indian Society of Electrocardiology position statement aims to promote nationwide CPR awareness, strengthen community response to sudden cardiac arrest (SCA) and improve survival in OHCA, with measures adapted to India-specific systems of care and bystander training. MAIN THEMES: ; The statement highlights the SCA burden, early recognition, rapid response, barriers to community CPR training in India, dispatcher-assisted CPR, and public access defibrillation (PAD). It emphasizes school-based CPR education, corporate social responsibility partnerships, legislative support, and development of a national CPR ecosystem. Role of digital innovations, mobile applications, virtual reality, mobile CPR training units, psychological barriers and the bystander effect are emphasized. CONCLUSION: The position statement advocates transforming CPR from a medical skill into a societal responsibility and improve OHCA survival in India.",
-      "journal": "Indian heart journal",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The mediating effect of emotion regulation on the relationship between childhood trauma and physical and cognitive symptoms in cancer patients and survivors.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42267624/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-10T00:00:00",
-      "date_fetched": "2026-06-11T15:32:21.133194",
-      "doi": "10.1080/07347332.2026.2661039",
-      "authors": [
-        {
-          "name": "Megan E Renna",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kelsi Broich",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sonal K Johal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Faith N Wilbourne",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alexander K Kaeppler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "M Rosie Shrout",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: In addition to psychological wellbeing, adverse childhood experiences (ACEs) can pose a significant threat to physical health as individuals age. These risks may be particularly burdensome for cancer survivors. AIMS: This study assessed relationships between ACEs and physical symptoms associated with cancer survivorship in a mixed cancer sample. We used multiple mediation to test if different emotion regulation mediated the relationship between ACEs and physical health. Moderated mediation tested whether these mediation effects differed between those who were currently undergoing or had finished cancer treatment. METHODS: Cancer patients and survivors ( RESULTS: Worry, rumination, mindfulness, and difficulties with emotion regulation mediated the association between ACEs and pain, fatigue, self-rated health, physical functioning, and cognitive problems. Moderated mediation models revealed that with difficulties with emotion regulation as the mediating variable, models were significant only for participants who were currently undergoing cancer treatment. CONCLUSIONS: Maladaptive and adaptive emotion regulation strategies provide a pathway through which ACEs can alter physical health during cancer treatment and survivorship. These findings emphasize the need for emotion regulation skills training to ameliorate the physical impact of ACEs as individuals navigate cancer.",
-      "journal": "Journal of psychosocial oncology",
+      "abstract": "PURPOSE: People with inherited retinal dystrophies (IRD) often experience psychological distress and report high rates of anxiety and depression. This study evaluated the effectiveness of two psychotherapy groups based on Acceptance and Commitment Therapy (ACT) on emotional health, psychological acceptance, mindfulness, and visual-related quality of life (VRQoL) in adults with IRD. METHOD: This retrospective study used data from two psychotherapy groups of 12 sessions held simultaneously. Questionnaires were administered at three time points: pre-intervention, post-intervention, and three months after the sessions ended. Statistical analyses evaluated these constructs across time points and compared both groups. RESULTS: The study included two groups of patients with IRD: one with 7 patients with Stargardt disease and another with 7 with retinitis pigmentosa. The mean age was 45.2\u00a0years (SD\u00a0=\u00a012). Significant improvements were observed in all constructs after the intervention and/or three months later. No statistically significant differences were found between the groups (p\u00a0=\u00a01), indicating similar outcomes. Additionally, participants who underwent individual psychotherapy (p\u00a0=\u00a00.005) and used psychiatric medication (p\u00a0=\u00a00.002) showed significantly greater improvements in psychological acceptance and emotional health compared to those who did not. CONCLUSION: ACT showed preliminary efficacy in individuals with IRD. Both groups demonstrated improvements in all measured constructs. This model may be extended to other participants to confirm its effectiveness. Although group psychotherapy using other approaches exists in clinical and rehabilitation contexts, ACT-based interventions had not been robustly evaluated in this population until now. LAYMAN ABSTRACT: The study evaluated constructs related to emotional health in patients with visual impairment, checking if a psychotherapy group would improve these indices. For this, two psychotherapy groups were conducted with 12 virtual sessions. Patients were assessed before the intervention, after the intervention, and three months later. The 14 patients who participated showed improvement in all constructs of emotional health. It was also discovered that, in certain cases, psychiatric medication and/or individual psychotherapy could further improve emotional health.",
+      "journal": "Acta psychologica",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -795,5 +402,56 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Turning the Psychedelic Experience into a Math Problem",
+      "url": "https://nautil.us/turning-the-psychedelic-experience-into-a-math-problem-1281917/",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-06-11T20:00:00",
+      "date_fetched": "2026-06-12T14:31:47.167402",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Kristen French",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "Nautilus",
+      "excerpt": "Extended DMT trips could help scientists probe a new theory of reality that puts consciousness first The post Turning the Psychedelic Experience into a Math Problem appeared first on Nautilus.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "consciousness"
+      ]
+    },
+    {
+      "title": "Thank You for Your Attention to This Birthday",
+      "url": "https://www.theatlantic.com/politics/2026/06/trump-birthday-age-health/687525/?utm_source=feed",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-06-12T09:00:00",
+      "date_fetched": "2026-06-12T14:31:47.814581",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jonathan Lemire",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The Atlantic",
+      "excerpt": "President Trump will welcome 80 with bright lights and fighting.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
