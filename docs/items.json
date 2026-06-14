@@ -1,770 +1,274 @@
 {
-  "generated_at": "2026-06-13T13:23:01.233720",
+  "generated_at": "2026-06-14T13:26:08.563369",
   "papers": [
     {
-      "title": "From Dissonance to Compassion: Does a Loving-Kindness Meditation Amplify Joy Mimicry and Attenuate Reactive Frowns to Disgust?",
-      "url": "https://www.semanticscholar.org/paper/06d54741721bbce646ef2a42360ab8f1d3c52ced",
+      "title": "Prediction in action: toward an empirical science of active inference.",
+      "url": "https://www.semanticscholar.org/paper/8b816caca9e089efb354755a982f839095628b16",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-06-06T00:00:00",
-      "date_fetched": "2026-06-13T13:22:22.279530",
-      "doi": "10.1007/s10919-026-00515-5",
+      "date_published": "2026-06-12T00:00:00",
+      "date_fetched": "2026-06-14T13:25:14.380518",
+      "doi": "10.1016/j.neubiorev.2026.106817",
       "authors": [
         {
-          "name": "Heidi Mauersberger",
-          "author_id": "47371862",
+          "name": "Jet Lageman",
+          "author_id": "2236614076",
           "affiliation": null
         },
         {
-          "name": "Till Kastendieck",
-          "author_id": "118428962",
+          "name": "Johannes Jacobus Fahrenfort",
+          "author_id": "1679078",
           "affiliation": null
         },
         {
-          "name": "Daniel Huppertz",
-          "author_id": "2266234253",
-          "affiliation": null
-        },
-        {
-          "name": "Patrysya Lacorte",
-          "author_id": "2440890651",
-          "affiliation": null
-        },
-        {
-          "name": "P. Kotzur",
-          "author_id": "9541230",
-          "affiliation": null
-        },
-        {
-          "name": "Ursula Hess",
-          "author_id": "2295865901",
+          "name": "H. Slagter",
+          "author_id": "1743265",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of nonverbal behavior",
+      "journal": "Neuroscience and Biobehavioral Reviews",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "loving-kindness meditation"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Evidence for Limited Metacognition in LLMs",
-      "url": "https://www.semanticscholar.org/paper/7499a02069ced46ed3bf35549c8df056ef1ea7ab",
+      "title": "A Comparative Study of Mindfulness of Breathing (\u0100n\u0101p\u0101nasati) in the \u300eP\u0101liNik\u0101ya\u300fand the \u300eVisuddhimagga\u300f: - Focusing on Jh\u0101na and Sammasana Meditation -",
+      "url": "https://www.semanticscholar.org/paper/b12e54eee366c81d881315686b00b862b7bf9989",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-09-25T00:00:00",
-      "date_fetched": "2026-06-13T13:22:38.403282",
-      "doi": "10.48550/arXiv.2509.21545",
+      "date_published": "2026-03-31T00:00:00",
+      "date_fetched": "2026-06-14T13:25:35.478844",
+      "doi": "10.20539/deadong.2026.114.012",
       "authors": [
         {
-          "name": "Christopher M. Ackerman",
-          "author_id": "2324060760",
+          "name": "Sun-Hee Lee",
+          "author_id": "121944624",
           "affiliation": null
         }
       ],
-      "abstract": "The possibility of LLM self-awareness and even sentience is gaining increasing public attention and has major safety and policy implications, but the science of measuring them is still in a nascent state. Here we introduce a novel methodology for quantitatively evaluating metacognitive abilities in LLMs. Taking inspiration from research on metacognition in nonhuman animals, our approach eschews model self-reports and instead tests to what degree models can strategically deploy knowledge of internal states. Using two experimental paradigms, we demonstrate that frontier LLMs introduced since early 2024 show increasingly strong evidence of certain metacognitive abilities, specifically the ability to assess and utilize their own confidence in their ability to answer factual and reasoning questions correctly and the ability to anticipate what answers they would give and utilize that information appropriately. We buttress these behavioral findings with an analysis of the token probabilities returned by the models, which suggests the presence of an upstream internal signal that could provide the basis for metacognition. We further find that these abilities 1) are limited in resolution, 2) emerge in context-dependent manners, and 3) seem to be qualitatively different from those of humans. We also report intriguing differences across models of similar capabilities, suggesting that LLM post-training may have a role in developing metacognitive abilities.",
-      "journal": "arXiv.org",
-      "year": 2025,
+      "abstract": null,
+      "journal": "Journal of the Daedong Philosophical Association",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "metacognition meditation"
+        "jhana"
       ]
     },
     {
-      "title": "Using a Virtual Reality CAVE-Based Mindfulness Intervention to Promote Mental Well-Being in Adolescents With Anxiety Symptoms: Pre-Post Mixed Methods Pilot Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42284594/",
+      "title": "An algorithmic agent model of pure awareness and minimal experiences",
+      "url": "https://www.semanticscholar.org/paper/2b3038024e68993c5c4c7c1e028506ccfe14eb71",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:22:49.623441",
-      "doi": "10.2196/91819",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-29T00:00:00",
+      "date_fetched": "2026-06-14T13:25:35.478857",
+      "doi": "10.33735/phimisci.2026.12136",
       "authors": [
         {
-          "name": "Clare Tsz Kiu Yu",
-          "author_id": null,
+          "name": "Edmundo Lopez-Sola",
+          "author_id": "2047957413",
           "affiliation": null
         },
         {
-          "name": "Alex Pak Lik Tsang",
-          "author_id": null,
+          "name": "R. Sanchez-Todo",
+          "author_id": "1435231767",
           "affiliation": null
         },
         {
-          "name": "Kelly Ka Yu Chan",
-          "author_id": null,
+          "name": "J. Vohryzek",
+          "author_id": "52033010",
           "affiliation": null
         },
         {
-          "name": "Irene Oi Chiu Fung",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zoe Suk Yi Ngai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lester Yin Cho Kwok",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sam Kam San Chan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gary Tsun Fung Fung",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sammy Law Sun Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Victor Wai Keung Ching",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Patrick Pui Kin Kor",
-          "author_id": null,
+          "name": "G. Ruffini",
+          "author_id": "2274943456",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Adolescent anxiety is a growing public health concern associated with significant social and emotional impairment. Mindfulness-based interventions (MBIs) have shown promise in reducing anxiety and improving well-being; however, engagement remains challenging. Virtual reality (VR)-based delivery may enhance immersion and attention, potentially addressing barriers of traditional mindfulness formats. Evidence on VR-based mindfulness interventions for adolescents, particularly in Hong Kong, remains limited. OBJECTIVE: This study aimed to evaluate the feasibility and acceptability of a VR-MBI delivered via a CAVE, an enclosed VR environment with three projected walls displaying immersive natural scenes and ambient sounds, for adolescents with mild-to-moderate anxiety symptoms in Hong Kong. Secondary aims were to explore preliminary effects on psychological outcomes and physiological stress regulation and to identify facilitators and barriers to engagement. METHODS: A mixed methods, single-group pre-post study was conducted with adolescents experiencing mild-to-moderate anxiety symptoms, recruited from secondary schools and youth service organizations in Hong Kong. Participants completed an 8-week group-based VR-MBI. Feasibility and acceptability were assessed using recruitment, attendance, retention, homework practice frequency, dropouts, and adverse events. Psychological outcomes were measured using the Depression Anxiety Stress Scale-21 and the Mindful Attention Awareness Scale. Heart rate variability indices, including the standard deviation of normal-to-normal intervals and root-mean-square of successive differences, were collected at baseline and postintervention using a wearable device. Focus group interviews explored participants' experiences. Paired-sample t tests and Wilcoxon signed rank tests examined pre-post changes, and qualitative data were analyzed using thematic analysis, with findings integrated through triangulation. RESULTS: A total of 42 participants (mean age 14.88, SD 1.90 years; 20/42, 47.6% female; 22/42, 52.4% male) enrolled and completed both assessments. Attendance was high, with 73.8% (31/42) of participants attending at least 80% (8/10) sessions, and participants engaged in regular homework practice. No dropouts or adverse events were reported. No significant pre-post changes were observed in self-reported distress, anxiety, depression, stress, or trait mindfulness (all P>.05). However, significant improvements were observed in both heart rate variability indices, standard deviation of normal-to-normal intervals (mean difference 17.6 ms, 95% CI -33.88 to -1.32; P=.04; Cohen d=0.38) and root-mean-square of successive differences (mean difference 20.20 ms, 95% CI -38.76 to -1.65; P=.03; Cohen d=0.39), which may suggest preliminary enhancements in physiological stress regulation. Qualitative findings suggested perceived benefits in emotional regulation, stress reduction, focus, and sleep, with the immersive environment and group-based format identified as key facilitators. CONCLUSIONS: The CAVE-based VR-MBI was feasible and acceptable for adolescents with mild-to-moderate anxiety symptoms in Hong Kong. Despite no significant changes in self-reported outcomes, physiological improvements and positive qualitative feedback suggest early benefits not captured by self-report measures. These findings support further investigation of using controlled designs and longer follow-up periods.",
-      "journal": "JMIR formative research",
+      "abstract": "The phenomenon of \u201cpure awareness\u201d, central to many contemplative traditions, has recently attracted scientific interest for its relevance to the study of consciousness. In this paper, we investigate pure awareness through the algorithmic agent model, a computational framework with roots in algorithmic information theory. This framework proposes that agents build compressive models of the world, and that structured experience arises from running such models. By linking phenomenology, dynamical systems theory, and computation, the algorithmic agent model offers a useful framework for investigating experiences with minimal structure or phenomenal content. We propose that pure awareness, as a stand-alone phenomenon, may correspond to experiences with minimal structure achieved through meditation, psychedelics, or other deconstructive practices. To illustrate this, we explore how such experiences may arise through jh\u0101na meditation. A key hypothesis is that the phenomenology of pure awareness arises from a specific model: the agent's model of its own modeling process. We argue that the agent's recognition of the modeling process can occur alongside other phenomenal content, as in non-dual awareness. We also outline how these ideas can be explored through whole-brain computational models based on predictive processing theory, and empirically grounded in meditation and psychedelic research.",
+      "journal": "Philosophy and the Mind Sciences",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "jhana"
+      ]
     },
     {
-      "title": "Prevalence and Predictors of Self-Reported Adverse Experiences in Digital Meditation Training: 2 Randomized Controlled Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42284591/",
+      "title": "Study of the Relationship between Single-Practice Samadhi and the Two Kinds of Birth-and-Death from the Perspective of Yogacara",
+      "url": "https://www.semanticscholar.org/paper/e4ed78cd3432ec1c8638897686a82657b17e390b",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:22:49.623514",
-      "doi": "10.2196/90602",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-26T00:00:00",
+      "date_fetched": "2026-06-14T13:25:36.551032",
+      "doi": "10.62177/apbs.v1i2.1359",
       "authors": [
         {
-          "name": "Polina Beloborodova",
-          "author_id": null,
+          "name": "Shi Nianpu",
+          "author_id": "2439195428",
           "affiliation": null
         },
         {
-          "name": "Lillian M Smith",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kevin M Riordan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Otto Simonsson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lilah T Dottori",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Helen Q Song",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicholas S Shashko",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Raquel Tatar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Scott A Baldwin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amit Bernstein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John D Dunne",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard J Davidson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Matthew J Hirshberg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Simon B Goldberg",
-          "author_id": null,
+          "name": "Shi Qingyuan",
+          "author_id": "2439197282",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Digital meditation-based interventions (MBIs) reach vast global audiences with millions of active users, yet concerns persist about the frequency and nature of adverse experiences (ie, AExs) occurring during meditation training. Some researchers have argued that AExs are substantially underdetected and reflect iatrogenic harm caused by meditation (ie, adverse effects [AEfs]). Others contend that these experiences largely reflect common stressors that would be experienced without meditation. These competing perspectives underscore the need for further research, particularly in the context of digital MBIs, the most widely used form of meditation training. OBJECTIVE: This study examined the prevalence, predictors, and subjective evaluations of AExs during a digital MBI and tested whether reported experiences may be caused by meditation practice via comparisons between meditation-exposed and nonexposed participants. METHODS: Data were drawn from 2 trials of the Healthy Minds Program. Exploratory study 1 (n=315) consisted of a sample of distressed US undergraduate students to estimate the prevalence of AExs and identify baseline predictors. Preregistered confirmatory study 2 (n=594) sampled distressed US adults from all 50 states to replicate findings from study 1 and to examine participants' subjective evaluations of AExs. Study 2 additionally compared AEx rates between participants who did and did not complete guided meditations to assess whether AExs could be caused by meditation exposure. Study 3 (n=87) used qualitative methods to analyze study 1 participants' responses to an open-ended question regarding their strategies for coping with AExs. RESULTS: In studies 1 and 2, 27.9% (88/315) and 10.1% (40/396) of participants, respectively, reported at least one AEx during the study period, with 6.7% (21/315) and 3% (12/396) reporting functional impairment, largely aligning with previous research. Critically, in study 2, rates of AExs did not significantly differ between participants who did and did not complete guided meditations, suggesting that these experiences were not caused by meditation practice. Higher baseline depression, anxiety, loneliness, experiential avoidance, and perceived barriers to meditation predicted more frequent AExs. In studies 1 and 2, 89.8% (79/88) and 90% (36/40) of participants who reported AExs, respectively, indicated that they were glad to have learned to meditate. Qualitative analyses showed that participants used diverse coping strategies, often using skills learned through the Healthy Minds Program. CONCLUSIONS: AExs were relatively common but occurred at comparable rates among participants who did and did not meditate, challenging claims that such experiences were caused by meditation practice in distressed individuals. Although a small subset of participants reported some degree of functional impairment, most evaluated their AExs as tolerable and described their overall MBI experience as positive. Together, these findings highlight the importance of distinguishing AExs that likely reflect epiphenomena of preexisting distress or symptoms from iatrogenic harm attributable to MBIs.",
-      "journal": "JMIR mental health",
+      "abstract": "Single-Practice Samadhi is an important contemplative method in Mahayana Buddhism, while segmental birth-and-death and transformational birth-and-death are key doctrinal categories through which Mahayana Yogacara explains the samsaric continuity of sentient beings and the still-incomplete state of saints before perfect awakening. Examining these three themes within one doctrinal framework helps clarify the inner relation among meditative practice, transformation of consciousness, and transcendence of birth-and-death. Drawing primarily on the Manjusri-pariprccha Prajnaparamita Sutra, the Cheng weishi lun, the Mahayanasamgraha, the Dasheng baifa mingmen lun, the Srimaladevi-simhanada Sutra, the Lankavatara Sutra, the Samdhinirmocana Sutra, the Yogacarabhumi, and the Zongjing lu, this paper first traces the scriptural origin of Single-Practice Samadhi and its basic meaning of \u201cthe one mark of the dharmadhatu\u201d and \u201cdirecting attention to the dharmadhatu.\u201d It then interprets the mechanism of its cultivation in terms of the eight consciousnesses, the three natures and three kinds of non-self-nature, the two obstructions and two karmic modes, and the transformation of consciousness into wisdom. On this basis, it further analyzes the causes, nature, support, stages of elimination, and differences between segmental birth-and-death and transformational birth-and-death. The paper argues that Single-Practice Samadhi is not an isolated technique of concentration but a contemplation of reality that can be explained and supported by Yogacara theories of consciousness and practice. The two kinds of birth-and-death are not merely nominal classifications; rather, they constitute a soteriological framework closely connected with the afflictive obstruction, the cognitive obstruction, and the process of transformation of the basis. From a Yogacara perspective, Single-Practice Samadhi thus illuminates the Mahayana path from calming distraction and overcoming self-grasping to dissolving dharma-grasping and perfecting transformation of the basis. This study may also serve as a reference for understanding the structure of \u201ccorrespondence between principle and practice\u201d in Buddhist doctrinal learning and for teaching Yogacara, meditation, and Buddhist views of life and death in contemporary Buddhist colleges.",
+      "journal": "Asia Pacific Buddhist Studies",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "samadhi"
+      ]
     },
     {
-      "title": "Efficacy of mindfulness-based cognitive therapy in mitigating depressive symptoms and suicidal ideation among institutionalized patients with major depressive disorder: findings from a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42283746/",
+      "title": "Sam\u0101dhi and Vipassan\u0101: Two Interdependent Systems of Buddhist Meditation",
+      "url": "https://www.semanticscholar.org/paper/183528f00fae248275e1f9cbbcd102a04e13b469",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.599949",
-      "doi": "10.1007/s00406-026-02288-w",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-06T00:00:00",
+      "date_fetched": "2026-06-14T13:25:36.551042",
+      "doi": "10.55041/ijsrem57277",
       "authors": [
         {
-          "name": "Zulkiflu Musa Argungu",
-          "author_id": null,
+          "name": "Dong Thang",
+          "author_id": "2388438611",
           "affiliation": null
         },
         {
-          "name": "Ali Alhaiti",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ebtesam Abdulrahman Jibreel",
-          "author_id": null,
+          "name": "D. Tyagi",
+          "author_id": "2357538227",
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Major Depressive Disorder (MDD) represents a significant global health challenge, with elevated risks of suicidal ideation. This study evaluated the efficacy of Mindfulness-Based Cognitive Therapy (MBCT) in mitigating depressive symptoms and suicidal ideation among institutionalized patients with MDD in Nigeria. METHOD: A randomized controlled trial was conducted with 101 participants (MBCT: n\u2009=\u200950, Control: n\u2009=\u200951) in two psychiatric institutions in northern Nigeria. The 8-week MBCT intervention was compared to standard pharmacological care. Outcomes were assessed at baseline, week 4, week 8 (primary endpoint), and 3-month follow-up using the BDI-II and BSI. The primary analysis used linear mixed-effects models; repeated-measures ANOVA was conducted as a supplementary analysis. RESULT: MBCT significantly reduced BDI-II scores compared to controls at week 8 (between-group difference: -9.4, 95% CI: -12.0 to -6.8, p\u2009<\u20090.001) and 3-month follow-up (-6.7, 95% CI: -9.5 to -3.9, p\u2009<\u20090.001). Similar reductions were observed in BSI scores at week 8 (-5.7, 95% CI: -7.7 to -3.7, p\u2009<\u20090.001) and follow-up (-3.9, 95% CI: -6.0 to -1.8, p\u2009<\u20090.001). Large effect sizes were observed for both measures (Cohen's d: 0.92-1.38). MBCT demonstrated significant efficacy in reducing depressive symptoms and suicidal ideation among institutionalised Nigerian patients with MDD, with effects maintained at 3-month follow-up. CONCLUSION: These findings suggest that MBCT is a promising adjunct to standard care for institutionalized patients with MDD in this setting. Larger, multisite trials with active comparators are warranted before broader clinical integration in LMICs is recommended. TRIAL REGISTRATION: Pan African Clinical Trial Registry (identifier: PACTR201902545863137).",
-      "journal": "European archives of psychiatry and clinical neuroscience",
+      "abstract": "Abstract\n\nHuman desires and worldly pursuits are sources of suffering for individuals and society. The Buddha, time and again, taught that our freedom lies in our hands, more specifically in the boundaries of our minds. The heart of Buddhist practice to achieve freedom is a life of ethical conduct (s\u012bla) and the practice of concentration (sam\u0101dhi) and wisdom (pa\u00f1\u00f1\u0101). The two meditation techniques to achieve concentration and wisdom are samatha and vipassan\u0101 meditation. Although in Western culture, they are often separated by the popular focus on mindfulness or concentration meditation mainly, these two meditation techniques are not two separate methods. In Buddhist training for freedom, they form two interrelated parts of a whole, both crucial to attaining complete liberation. They are the methodical effort to tame and master the mind and to develop its capacity for calm and insight. Vipassan\u0101 is a path to wisdom, spiritual liberation, and the pursuit of freedom from the bondage of mental impurities, suffering, and repeated rebirth. Having achieved the foundational ground of concentration with samatha meditation, one can eradicate the deepest level of mental impurities with vipassan\u0101 meditation.\n\n\n\n\nKeywords: sam\u0101dhi, vipassan\u0101, meditation, Buddhist training, spiritual freedom.",
+      "journal": "International Journal of Scientific Research in Engineering and Management",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "samadhi"
+      ]
     },
     {
-      "title": "The protective influence of trait mindfulness on psychological distress: the mediating role of negative cognition.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42286445/",
+      "title": "The Philosophical Structure of Buddhist Character Education Based on the Threefold Training \u015a\u012bla\u2013Sam\u0101dhi\u2013Praj\u00f1\u0101 in the Bodhicary\u0101vat\u0101ra",
+      "url": "https://www.semanticscholar.org/paper/6c0891d1020f988f1bd3e0ced019edd19b92b890",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.599990",
-      "doi": "10.1080/02699931.2026.2683900",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-31T00:00:00",
+      "date_fetched": "2026-06-14T13:25:36.551071",
+      "doi": "10.18850/jees.2026.79.10",
       "authors": [
         {
-          "name": "Jenna M Wilson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jerin Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "JoNell Strough",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Natalie J Shook",
-          "author_id": null,
+          "name": "H. Oh",
+          "author_id": "19361696",
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness has been linked to lower psychological distress. Yet, it remains unclear how, or the mechanism(s) by which, mindfulness reduces psychological distress, particularly during times of heightened, prolonged stress. The present research utilised secondary analysis of data from two independent studies to 1) assess whether greater trait mindfulness protected U.S. adults against psychological distress during the COVID-19 pandemic and 2) test whether negatively biased cognition (pessimism) mediated the association between trait mindfulness and psychological distress. Both studies utilised a two-wave longitudinal design with an initial survey conducted prior to the COVID-19 pandemic and a follow-up survey conducted during the pandemic. Participants completed validated measures of trait mindfulness, negatively biased cognition (i.e. pessimism), and psychological distress (i.e. anxiety and depression symptoms). Across two studies, pre-pandemic levels of trait mindfulness prospectively predicted less psychological distress during the pandemic, controlling for pre-pandemic psychological distress. Further, lower pessimism during the pandemic mediated the association between greater pre-pandemic trait mindfulness and lower psychological distress during the pandemic. These findings suggest that mindfulness may protect against, or reduce, psychological distress by decreasing negatively biased cognition. As such, mindfulness and negatively biased cognition may be important targets for interventions aimed at promoting psychological health.",
-      "journal": "Cognition & emotion",
+      "abstract": null,
+      "journal": "Journal of Ethics Education Studies",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "samadhi"
+      ]
     },
     {
-      "title": "Thematic structure of clinically oriented prefrontal function assessment and intervention research: a keyword network analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42286557/",
+      "title": "Some points of discrepancy \u00a0between the \u2018Yogas\u016btra\u2019 and the \u2018Yogabh\u0101\u1e63ya\u2019",
+      "url": "https://www.semanticscholar.org/paper/2103bac2130e98fc946a1d524d806f1c70308100",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.600122",
-      "doi": "10.1186/s12888-026-08277-6",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-29T00:00:00",
+      "date_fetched": "2026-06-14T13:25:36.551275",
+      "doi": "10.1558/rosa.31995",
       "authors": [
         {
-          "name": "Jin Seok Oh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jong Gab Ho",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jin-Hyuck Park",
-          "author_id": null,
+          "name": "Pradeep P. Gokhale",
+          "author_id": "113784090",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: The prefrontal cortex (PFC) has been extensively investigated in relation to higher-order cognition, emotional regulation, and behavioural control, particularly within clinically oriented studies addressing psychiatric symptoms, self-regulation, and intervention outcomes. Although a growing body of literature has examined prefrontal function assessment and intervention, the thematic organization and structural interconnections within this clinically focused literature have not been sufficiently clarified. Mapping these conceptual relationships may help identify dominant research concentrations and underrepresented areas within the retrieved literature. METHODS: A total of 1,301 peer-reviewed articles published between January 2014 and December 2024 were retrieved from Web of Science, PubMed, and Embase. After keyword extraction and standardization, the top 52 high-frequency terms were analyzed using NetMiner 4.0. Network indices including density, inclusiveness, and average path length were calculated, together with degree and betweenness centrality. Cohesive subgroup analysis was additionally performed to identify thematic clusters within the keyword network. RESULTS: The keyword network demonstrated a density of 0.408, inclusiveness of 1.0, and an average distance of 1.621, indicating a highly connected structure without isolated nodes. Central hubs included Cognition, Depressive disorders, Randomized controlled trial, Cognitive behavioural therapy, and Psychotherapy, which emerged as the principal structural hubs, suggesting that the retrieved literature was strongly concentrated on standardized cognitive assessment and clinically applied intervention frameworks. Mobile health, E-health intervention, and Chronic illness group also showed substantial structural influence. Cohesive subgroup analysis identified seven differentiated thematic clusters spanning cognitive rehabilitation, emotional regulation, psychotherapy, digital self-management, mindfulness-based executive support, stress resilience, and neurocognitive motivation. CONCLUSIONS: The retrieved literature analyzed in this study exhibited a strongly interconnected thematic structure centered on clinically oriented assessment and intervention domains. Because direct neuroimaging and neurophysiological modalities were comparatively less represented in the retrieved dataset, the present findings should be interpreted as a structural mapping of clinically weighted prefrontal function research rather than a comprehensive representation of the entire methodological landscape. Nevertheless, this network-based analysis provides a systematic overview of current thematic concentrations and offers a useful foundation for future comparative and longitudinal investigations. CLINICAL TRIAL NUMBER: Not applicable.",
-      "journal": "BMC psychiatry",
+      "abstract": "It is held by many modern scholars that the Yogas\u016btra, traditionally said to be authored by the sage Pata\u00f1jali, and the Yogabh\u0101\u1e63ya, traditionally said to be authored by Vy\u0101sa, belong to the same period. Some scholars are of the opinion that both the Yogas\u016btra and the Yogabh\u0101\u1e63ya were authored by the same person. This article questions the latter claim. It holds that the hypothesis of a single authorship can be defended only if the uniformity of thought between the two texts is established. The\u00a0article discusses eight cases where the Yogabh\u0101\u1e63ya arguably deviates from the meaning conveyed or implied in the Yogas\u016btra. The cases include the classification of mental states, the meanings of asampraj\u00f1\u0101ta-sam\u0101dhi and nirb\u012bja-sam\u0101dhi, the four cultivations (bh\u0101van\u0101s), the definition of \u0101sana, the nature of pra\u1e47idh\u0101na, and the meanings of the terms \u2018akus\u012bda\u2019 (in the context of dharmamegha-sam\u0101dhi), \u2018abhinive\u015ba\u2019 (as a kind of kle\u015ba) and \u2018viccheda\u2019 (in the context of pr\u0101\u1e47\u0101y\u0101ma). By showing that in the highlighted cases the Yogabh\u0101\u1e63ya interpretation does not capture the meaning that consistently follows from the Yogas\u016btra aphorism, the article argues that the S\u016btrak\u0101ra and the Bh\u0101\u1e63yak\u0101ra were two different personalities with their own unique understanding of some of the yogic concepts.",
+      "journal": "Religions of South Asia",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "samadhi"
+      ]
     },
     {
-      "title": "Development and\u00a0 initial validation of the Mindful Eating Behaviour Scale for children and parents.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42286347/",
+      "title": "Shandao\u2019s Construction and Innovation of the Pure Land Doctrinal System: A Study Centred on the Commentary on the Contemplation S\u016btra",
+      "url": "https://www.semanticscholar.org/paper/437336d89f9fec7e92351dafdad92f1a1cbf4081",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.600163",
-      "doi": "10.1007/s40519-026-01881-1",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-27T00:00:00",
+      "date_fetched": "2026-06-14T13:25:36.551305",
+      "doi": "10.3390/rel17060648",
       "authors": [
         {
-          "name": "Natasha Dunsmore",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Misba Hussain",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kyriaki Giannou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Michail Mantzios",
-          "author_id": null,
+          "name": "X. Lin",
+          "author_id": "32725313",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: This research aimed to address existing methodological limitations in research on mindful eating behaviours in children, to enhance future research in this area. This manuscript presents the development and the assessment of the validity and reliability of a Mindful Eating Behaviour Scale for children and parents across five studies. METHODS: Study 1 assessed the scale's content validity using ratings from experts in the field. Study 2 evaluated the internal consistency of the scales. Study 3 explored temporal stability using a test-retest design with a 2-week interval. Studies 4 and 5 examined the criterion-related validity of the scales. RESULTS: Study 1 demonstrated that the items reflected the definition of mindful eating behaviour and were suitable for children. Study 2 showed that the scale and the subscales, \"sensory attention\" and \"non-judgemental awareness\" demonstrated good internal consistency. Using exploratory factor analysis, the scale supported the presence of two factors, \"sensory attention\" and \"non-judgemental awareness\". Study 3 showed that the scale was a reliable measure over time. Studies 4 and 5 showed that the scales are suitable measures for mindful eating behaviour. The scales demonstrated correlations between mindfulness and other eating behaviours, but further research is required, as only limited associations were observed. CONCLUSIONS: The current research presents new psychometric scales for mindful eating in children. The studies show that the scale is valid and reliable. LEVEL OF EVIDENCE: No level of evidence: basic science.",
-      "journal": "Eating and weight disorders : EWD",
+      "abstract": "As a pivotal patriarch of the Pure Land school, Shandao \u5584\u5c0e (613\u2013681) played a decisive role in shaping Pure Land Buddhism and the broader history of Chinese Buddhism. A direct disciple of Daochuo \u9053\u7dbd (563\u2013645), he championed the dual framework of Dingshan \u5b9a\u5584 and Sanshan \u6563\u5584 practices together with Nianfo \u5ff5\u4f5b (Skt. buddh\u0101nusm\u1e5bti), especially Chiming nianfo \u6301\u540d\u5ff5\u4f5b (vocal recitation of Amit\u0101bha\u2019s name). Existing scholarship has already demonstrated that Shandao was not a master concerned exclusively with vocal recitation but also a systematic exegete of Guanfo \u89c0\u4f5b, visualisation, and sam\u0101dhi. This article therefore does not present that recognition as its own innovation. Instead, it reconstructs the internal architecture by which Shandao\u2019s Guanjing si tie shu \u89c0\u7d93\u56db\u5e16\u758f (Commentary on the Contemplation S\u016btra in Four Fascicles) integrates contemplative practice with three doctrinal commitments: the efficacy of \u2018birth through ten recitations\u2019 against the Yog\u0101c\u0101ra charge of Bieshi yi \u5225\u6642\u610f (Skt. k\u0101l\u0101ntar\u0101bhipr\u0101ya, the identification of Amit\u0101bha\u2019s land as a reward land, and the thesis that ordinary beings (Skt. p\u1e5bthagjana) may enter that land. Drawing also on the Guannian Amituo fo xianghai sanmei gongde famen \u89c0\u5ff5\u963f\u5f4c\u9640\u4f5b\u76f8\u6d77\u4e09\u6627\u529f\u5fb7\u6cd5\u9580 (Method of Contemplating Amit\u0101bha Buddha\u2019s Ocean-like Marks in Sam\u0101dhi and Its Meritorious Virtues) and the Wangsheng lizan \u5f80\u751f\u79ae\u8b9a (Liturgy of Praise for Birth in the Pure Land), the article argues that Shandao\u2019s originality lies less in any single doctrine than in the way these doctrines mutually support one another as a coherent programme of exegesis, practice, and Pure Land soteriology.",
+      "journal": "Religions",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "samadhi"
+      ]
     },
     {
-      "title": "Efficacy and Moderators of Mindfulness-Based Cognitive Therapy in Difficult-to-Treat Depression: A Systematic Review and Individual Participant Data Meta-Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42284258/",
+      "title": "Improvement from Irritable Bowel Syndrome and Anxiety Through Integrative Yoga, Meditation and Naturopathy: A Case Report.",
+      "url": "https://www.semanticscholar.org/paper/605294b32a5153ab2054caa8ee7c06e0f0abb0de",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.600657",
-      "doi": "10.1159/000552831",
-      "authors": [
-        {
-          "name": "Thorsten Barnhofer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maria Niemi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Johannes Michalak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maria Velana",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "J Mark G Williams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alberto Chiesa",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stuart J Eisendrath",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kevin L Delucchi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zindel V Segal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mira Cladder-Micus",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anne Speckens",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mauro Garcia-Toro",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jesus Montero-Marin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Barnaby D Dunn",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Clara Strauss",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Florian A Ruths",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mary Ryan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Allan H Young",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pim Cuijpers",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mathias Harrer",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Around a third of patients with major depressive disorder experience persistent symptoms despite usual treatments. Identifying scalable, psychological treatment options is critical to reduce the burden associated with difficult-to-treat depression (DTD). We examined the efficacy of mindfulness-based cognitive therapy (MBCT) compared with treatment as usual (TAU) and other active psychosocial controls in current DTD, and explored potential moderators. METHODS: We conducted an individual patient data (IPD) meta-analysis of randomised controlled trials comparing MBCT with TAU or other active psychosocial controls in currently depressed adults meeting criteria for treatment non-response, treatment resistance, or chronic course. Seven studies (N = 777) contributed data. Bayesian one-stage models were used as primary approach to estimate pooled effects on depressive symptom severity. RESULTS: MBCT was likely superior to TAU at post-treatment (standardised mean difference = -0.40; 95% credible interval [CrI] = -0.64 to -0.16) and medium-term follow-up (-0.41; 95% CrI = -0.76 to -0.02), with posterior probabilities of 92% and 85% of surpassing a minimal important difference (d = -0.24), respectively. In contrast, comparative effects relative to other psychosocial interventions were uncertain, with no evidence of superiority. Moderator analyses did not identify robust predictors of outcome, suggesting broadly consistent effects across baseline severity, chronicity, and comorbidity. CONCLUSIONS: MBCT appears to be an effective and safe option for DTD, superior to TAU, with benefits maintained at medium-term follow-up, although no evidence of superiority over other active psychosocial interventions was observed. These findings support the integration of MBCT into comprehensive treatment models for DTD.",
-      "journal": "Psychotherapy and psychosomatics",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Non-duality in brain and experience of advanced meditators-key role for intrinsic neural timescales.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42286132/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.600968",
-      "doi": "10.1038/s42003-026-10473-9",
-      "authors": [
-        {
-          "name": "Malipeddi Saketh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arun Sasidharan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bianca Ventura",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rahul Venugopal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Clemens Christian Bauer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Prejaas K B Tewarie",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ravindra P Nagendra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Seema Mehrotra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John P John",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Balachundhar Subramaniam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Steven Laureys",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bindu M Kutty",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Georg Northoff",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Distinguishing between self (internal) and environment (external) is fundamental to human experience, yet mind-body traditions describe non-dual states where this boundary dissolves. However, the neural basis of non-duality remains underexplored. We investigate this in advanced and novice meditators from the Isha Yoga tradition and meditation-na\u00efve controls using psychological scales and EEG-based intrinsic neural timescales (INT). Subjects perform breath-watching meditation (internal attention) and a cognitive task (external attention), allowing us to operationalize non-duality as reduced internal-external distinction. Key findings include: (a) advanced meditators report stronger non-dual experiences during breath-watching than novices and controls; (b) across participants, INTs are longer during internal than external attention; (c) advanced meditators show similar INT durations between internal and external attention; and (d) this reduced INT difference correlates with stronger reported non-dual experiences. These results suggest that similar duration of intrinsic neural timescales during internal and external attention may serve as a neural signature of non-duality.",
-      "journal": "Communications biology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Evaluation of a Spanish-language Adaptation of Brief Mindfulness-Oriented Recovery Enhancement for Chronic Pain: A Pilot Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42284007/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.601010",
-      "doi": "10.1007/s12529-026-10464-4",
-      "authors": [
-        {
-          "name": "Carter Minnick",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adam W Hanley",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eric L Garland",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Spanish-speaking individuals in the U.S. face a number of barriers to quality pain care and limited access to culturally adapted treatments. While mindfulness-based interventions are effective for chronic pain, few have been translated for Spanish-speaking populations. This pilot study tested a brief, Spanish-language adaptation of Mindfulness-Oriented Recovery Enhancement (Spanish B-MORE) for Spanish-speaking adults with chronic pain. METHODS: A single-site, waitlist-controlled randomized clinical trial was conducted to assess the feasibility, acceptability, and preliminary efficacy of Spanish B-MORE. Spanish-speaking adults with chronic pain (N\u2009=\u200920) were randomized 1:1 to receive the Spanish B-MORE intervention or a waitlist control. Outcomes were assessed at baseline, 2-week, and 6-week follow-up. Primary outcome was chronic pain symptoms (PEG-3); secondary and tertiary outcomes included participant-rated intervention acceptability, depression, anxiety, well-being, pain catastrophizing, and proposed therapeutic mechanisms (self-transcendence, mindful reappraisal of pain). Acute effects were also assessed immediately before and after the intervention sessions. RESULTS: All participants completed both sessions and all follow-ups. Participants rated the intervention as highly acceptable (M\u2009=\u20099.4/10) and would recommend it to others (M\u2009=\u20099.67/10). Immediately following the intervention, B-MORE significantly reduced pain intensity, pain unpleasantness, and anxiety, all with large Cohen's d effect sizes (d\u2009=\u20091.32-1.48). At six\u00a0weeks, relative to those in the waitlist-controlled condition, B-MORE participants showed greater improvements on all clinical outcomes. CONCLUSIONS: Spanish B-MORE may represent a brief, scalable, and culturally responsive intervention for chronic pain in Spanish-speaking populations. These promising findings support further evaluation in larger trials. CLINICAL TRIAL REGISTRATION: NCT06316713.",
-      "journal": "International journal of behavioral medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The combination of dialectical behavioral skills training with EMDR in the treatment of borderline personality disorder and psychological trauma: a feasibility randomized trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42286717/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.601209",
-      "doi": "10.1186/s40479-026-00351-5",
-      "authors": [
-        {
-          "name": "Joaquim Soler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Matilde Elices",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Irene Canosa-Garc\u00eda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carlos Schmidt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Walter Lupo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alicia Valiente-G\u00f3mez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Benedikt L Amann",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "V\u00edctor Perez-Sola",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Juan C Pascual",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Comorbid borderline personality disorder (BPD) and posttraumatic stress disorder (PTSD) predict poorer treatment outcomes. Available treatments for BPD and psychological trauma are often phase-based, first ensuring stabilization of dysregulated behaviors and emotions and later focusing on treating trauma. This study investigates the feasibility, acceptability, and preliminary efficacy of combining dialectical behavioral therapy group skills training (DBT-ST), consisting of mindfulness, emotion regulation, distress tolerance, and interpersonal-effectiveness skills, with eye movement desensitization and reprocessing (EMDR) individual therapy for patients with BPD and psychological trauma. METHODS: Forty-two participants with BPD and psychological trauma (40 females, mean age\u2009=\u200928.5, SD\u2009=\u20099.2) participated in the study. All participants underwent an initial 6-month DBT-ST group (phase 1), then those randomized to the experimental group received EMDR, and those in the control condition continued DBT-ST (phase 2). Feasibility and acceptability were assessed through qualitative interviews. Additionally, borderline personality disorder symptoms and trauma-related symptoms were measured as secondary clinical outcomes. Assessments were conducted at baseline, post phase 1, and post phase 2. RESULTS: Overall retention from baseline to post phase 2 was 62%. Descriptively, retention was 81.2% in the DBT-ST continuation group and 72.2% in the DBT-ST+EMDR group, though this difference was not statistically significant. Qualitative interviews suggested that the sequential design was acceptable, and that DBT-ST helped some participants feel more prepared for subsequent trauma-focused work, although these findings are based on a small qualitative subsample. Both conditions reduced BPD symptoms, while only the DBT-ST+EMDR condition significantly reduced dissociative symptoms from baseline to post phase 2. CONCLUSIONS: A definitive, fully powered randomized clinical trial is warranted to confirm these findings and optimize the integration of DBT-ST and EMDR. TRIAL REGISTRATION: Clinical Trials, NCT04856449. Registered on 08-04-2021.",
-      "journal": "Borderline personality disorder and emotion dysregulation",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Religiosity and Spirituality as Stressors or Stress Relievers in relation to Sleep Health among African American Women.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42275091/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-11T00:00:00",
-      "date_fetched": "2026-06-13T13:23:00.601301",
-      "doi": "10.1093/sleep/zsag157",
-      "authors": [
-        {
-          "name": "Rupsha Singh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Symielle A Gaston",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jason Ashe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Quaker E Harmon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yusuf Ransome",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ganesa Wegienka",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Donna D Baird",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Harold G Koenig",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chandra L Jackson",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "STUDY OBJECTIVES: To investigate associations between religiosity/spirituality (R/S) and sleep and potential modification by stress among Black/African American (AA) women. METHODS: Participants from the Study of Environment, Lifestyle, & Fibroids (2010-2018) reported importance of faith and R/S as a source of strength/comfort (ranging from 'very' to 'not at all') as well as frequency of prayer/meditation (ranging from 'everyday,' to '<once/month') at baseline. There were repeated measures of daily stress ('very high/moderate' vs. 'low/none'), short sleep duration (<7-hours), nonrestorative sleep (NRS, waking rested <4-days/week), and insomnia symptoms (difficulty falling/staying asleep). Adjusted prevalence ratios (aPRs) were estimated with Poisson regression with robust variance, and adjusted risk ratios were estimated by applying generalized estimating equations to models. R/S-by-stress terms were tested. RESULTS: Among 1,693 Black/AA women (mean age\u00b1SD 29.2\u00b13.4 years), 69.3% reported faith as important, 55.6% perceived R/S as a source of strength/comfort, 58.8% prayed/meditated daily, 43.8% reported high/moderate stress, and poor sleep was prevalent (short sleep:58.4%, NRS:62%, and insomnia symptoms:17.9%) at baseline. There were no associations with short sleep and insomnia symptoms. All three R/S measures were each cross-sectionally but not longitudinally associated with lower likelihood of NRS, however, associations differed by stress. R/S as source of strength/comfort and prayer/meditation showed protective associations with NRS prevalence at baseline only among participants with low versus high stress (e.g., prayer everyday vs. <once/month aPRhigh stress=1.07 [95% CI:0.91-1.26], aPRlow stress=0.76 [95% CI:0.63-0.91], pR/S*stress =0.03). CONCLUSIONS: Higher R/S was associated with lower NRS prevalence, but protective associations were limited to participants with low/no stress.",
-      "journal": "Sleep",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    }
-  ],
-  "articles": [
-    {
-      "title": "How to Feel at Home in the Modern World",
-      "url": "https://nautil.us/how-to-feel-at-home-in-the-modern-world-1281964/",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-06-12T18:00:00",
-      "date_fetched": "2026-06-13T13:23:00.776739",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-11T00:00:00",
+      "date_fetched": "2026-06-14T13:25:36.551317",
       "doi": null,
       "authors": [
         {
-          "name": "Kristen French",
-          "author_id": null,
+          "name": "B. Archana",
+          "author_id": "2428799494",
+          "affiliation": null
+        },
+        {
+          "name": "N. Priyathersini",
+          "author_id": "15550149",
+          "affiliation": null
+        },
+        {
+          "name": "D. Mathangi",
+          "author_id": "2420882333",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Nautilus",
-      "excerpt": "A conversation with Harvard philosopher Ian Marcus Corbin on material, biological, and spiritual belonging The post How to Feel at Home in the Modern World appeared first on Nautilus.",
-      "relevance_score": 1,
+      "journal": "Advances in mind-body medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
       "matched_keywords": [
-        "spiritual"
+        "samadhi"
       ]
     }
-  ]
+  ],
+  "articles": []
 }
