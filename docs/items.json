@@ -1,33 +1,278 @@
 {
-  "generated_at": "2026-06-14T13:26:08.563369",
+  "generated_at": "2026-06-15T16:53:40.964996",
   "papers": [
     {
-      "title": "Prediction in action: toward an empirical science of active inference.",
-      "url": "https://www.semanticscholar.org/paper/8b816caca9e089efb354755a982f839095628b16",
+      "title": "Training for Mindfulness Teachers: Benefits for Mindfulness, Well-being, and Emotion Regulation",
+      "url": "https://www.semanticscholar.org/paper/8be7eb8e07c7fe67d60dabae1c259780e391bd07",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-06-14T13:25:14.380518",
-      "doi": "10.1016/j.neubiorev.2026.106817",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-06-15T16:52:51.290141",
+      "doi": "10.1007/s12671-025-02520-z",
       "authors": [
         {
-          "name": "Jet Lageman",
-          "author_id": "2236614076",
+          "name": "Alessio Matiz",
+          "author_id": "11845815",
           "affiliation": null
         },
         {
-          "name": "Johannes Jacobus Fahrenfort",
-          "author_id": "1679078",
+          "name": "A. Chiesa",
+          "author_id": "2344164189",
           "affiliation": null
         },
         {
-          "name": "H. Slagter",
-          "author_id": "1743265",
+          "name": "Fabio D\u2019Antoni",
+          "author_id": "1484879005",
+          "affiliation": null
+        },
+        {
+          "name": "Rachele Barbieri",
+          "author_id": "2344163385",
+          "affiliation": null
+        },
+        {
+          "name": "Cristiano Crescentini",
+          "author_id": "2253404981",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Neuroscience and Biobehavioral Reviews",
+      "abstract": "This study examined the effects of a 9-month mindfulness teacher training (MTT) program on mindfulness skills, emotion regulation, and psychological well-being among future mindfulness instructors, compared to a control group. Eighty-seven mindfulness instructors-in-training participated in the MTT program. The control group consisted of age- and gender-matched individuals. Mindfulness skills, emotion regulation, and psychological well-being were assessed at baseline, mid-intervention, and post-intervention using validated measures. In comparison with the control group, participants in the MTT group showed significant improvements in most facets of mindfulness (i.e., observe, describe, non-react, and act with awareness). They also reported decreased rumination, as well as increased personal growth and purpose in life compared to the control group. However, there were no significant differences between the groups in other dimensions of emotion regulation or psychological well-being. This study provides preliminary evidence that mindfulness teacher trainings positively affect mindfulness skills, as well as specific aspects of psychological well-being (personal growth and purpose in life), and emotion regulation (rumination). Future research should investigate the long-term effects of these trainings and how instructors\u2019 well-being relates to their teaching effectiveness. This study is not preregistered.",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "L-FAME: Longitudinal Focused Attention Meditation EEG Dataset and Benchmark",
+      "url": "https://www.semanticscholar.org/paper/1315fd09b5f460d40d901e4bcb00916feeb3c08b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-21T00:00:00",
+      "date_fetched": "2026-06-15T16:53:03.855441",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Angqi Li",
+          "author_id": "2274220722",
+          "affiliation": null
+        },
+        {
+          "name": "AbbasRaza Syed",
+          "author_id": "2230370809",
+          "affiliation": null
+        },
+        {
+          "name": "Hamzeh Alzweri",
+          "author_id": "2438606250",
+          "affiliation": null
+        },
+        {
+          "name": "Taosheng Liu",
+          "author_id": "2321528005",
+          "affiliation": null
+        },
+        {
+          "name": "Barry H. Cohen",
+          "author_id": "47828772",
+          "affiliation": null
+        },
+        {
+          "name": "S. Ravishankar",
+          "author_id": "145233481",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We introduce a novel Longitudinal Focused Attention Meditation Electroencephalography (L-FAME) dataset and an accompanying benchmark, designed to foster research into the neural effects of various meditation practices and the evolution of these effects over a six-week training period. The dataset contains EEG recordings and psychological assessments from 74 healthy college participants, collected at two distinct time points: pre-intervention and post-intervention. Participants were randomly assigned to one of three distinct meditation groups: two mantra-based techniques (SA-TA-NA-MA and Hare Krishna) and one Breath Focus practice. Leveraging this unique longitudinal and comparative dataset, we propose a benchmark suite comprising three distinct classification tasks: (1) cognitive state decoding to distinguish between resting and meditation states, (2) fine-grained classification of the specific meditation techniques, and (3) cross-session adaptation to evaluate model generalization across the longitudinal time gap. We provide comprehensive baseline results for these tasks utilizing a range of classical machine learning algorithms and deep learning architectures. The complete dataset, preprocessing pipelines, and benchmark evaluation code will be publicly released, offering a valuable resource and a standardized framework for the development and comparison of new analytical methods in computational meditation research and EEG-based machine learning. The dataset is available at https://huggingface.co/datasets/L-FAME-Dataset-Benchmark/L-FAME",
+      "journal": "",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "focused attention meditation"
+      ]
+    },
+    {
+      "title": "Neurofluid circulation changes during a focused attention style of mindfulness meditation",
+      "url": "https://www.semanticscholar.org/paper/c4f41eba70aaab84474bb9d49da985460f2a73a6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-12T00:00:00",
+      "date_fetched": "2026-06-15T16:53:03.855532",
+      "doi": "10.1073/pnas.2504961122",
+      "authors": [
+        {
+          "name": "B. A. Keating",
+          "author_id": "2368518323",
+          "affiliation": null
+        },
+        {
+          "name": "David Vago",
+          "author_id": "2317619250",
+          "affiliation": null
+        },
+        {
+          "name": "K. Hett",
+          "author_id": "2253410403",
+          "affiliation": null
+        },
+        {
+          "name": "C. Considine",
+          "author_id": "49253535",
+          "affiliation": null
+        },
+        {
+          "name": "Maria Garza",
+          "author_id": "2320332248",
+          "affiliation": null
+        },
+        {
+          "name": "Caleb Han",
+          "author_id": "2242410086",
+          "affiliation": null
+        },
+        {
+          "name": "C. McKnight",
+          "author_id": "2318042946",
+          "affiliation": null
+        },
+        {
+          "name": "D. Claassen",
+          "author_id": "3332599",
+          "affiliation": null
+        },
+        {
+          "name": "Manus J Donahue",
+          "author_id": "2318030219",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Neurofluids, including cerebrospinal fluid (CSF) and interstitial fluid, circulate through regulated central nervous system pathways to clear cerebral waste and support brain health, with elevated CSF flow hyperdynamicity and regurgitation through the cerebral aqueduct associating with aging and neurodegeneration. Sleep exerts state-dependent effects on neurofluid circulation, yet similar modulation during unique waking states, such as meditation, remains underexplored. Notably, mindfulness meditation shares several regulatory features with sleep, with core meditation practices representing distinct arousal states. We investigated whether the focused attention (FA) style of mindfulness meditation modulates neurofluid dynamics directionally opposite to aging and consistent with sleep. Using phase-contrast MRI, we assessed absolute CSF flow and velocity through the aqueduct, and using blood-oxygenation-level-dependent (BOLD) MRI, we assessed CSF fluctuations near the cervicomedullary junction together with total supratentorial gray matter fluctuations. Assessments were repeated in meditation-naive adults during mind wandering (MW) without (n=13; repeatability controls) and with (n=14; breath controls) respiration rate modulation, and in adept meditators (n=23) during MW and FA meditation. No aqueduct CSF flow changes were observed in control groups. In meditators, absolute aqueduct absolute CSF flow decreased from MW to FA meditation (4.60+/-2.27 mL/min to 4.17+/-2.10 mL/min, p=0.005) owing to reduced regurgitant cranially-directed CSF velocity. On BOLD, this paralleled increased low frequency (0.0614-0.0887 Hz) CSF fluctuations (p=0.0138), which were inversely correlated with gray matter fluctuations during FA. Findings suggest that mindfulness meditation may represent a non-pharmacological, waking state capable of modulating neurofluid dynamics in a directionally similar manner to sleep and opposite to aging and neurodegeneration.",
+      "journal": "medRxiv",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "focused attention meditation"
+      ]
+    },
+    {
+      "title": "Impact of Body Scan Meditation on Academic Stress and Pain among School Students",
+      "url": "https://www.semanticscholar.org/paper/411038aa35a92ae6959a434f8f529f3a7e4d7b95",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-09T00:00:00",
+      "date_fetched": "2026-06-15T16:53:06.069225",
+      "doi": "10.36948/ijfmr.2026.v08i02.70232",
+      "authors": [
+        {
+          "name": "S. V",
+          "author_id": "2434419848",
+          "affiliation": null
+        },
+        {
+          "name": "Rajaswathy R",
+          "author_id": "2434242111",
+          "affiliation": null
+        }
+      ],
+      "abstract": "School children are frequently exposed to academic stress, and pain both physical and psychological can negatively influence their well-being and performance. This study explores the potential of the body scan technique, a simple mindfulness practice, as an intervention to help children manage pain and academic stress. During the intervention, participants attend body scan meditation sessions 3 times per week over a period of 4 weeks, focusing sequentially on each part of the body to promote both relaxation and greater awareness of physical sensations. A purposive sample of 37 children aged 15\u201317, identified as experiencing considerable level of academic stress and pain. Their Level of academic stress and pain was measured in pre and post-test using Educational Stress Scale and Brief Pain Inventory. It was hypothesized that regular body scan practice would yield improvements in pain perception and academic stress levels. The results of this study are intended to provide evidence for the use of body scan meditation as a practical technique for improving both physical comfort and academic ease in school settings, supporting children in coping more effectively with academic and bodily stressors.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Palliative care providers' experiences of mindfulness and resilience: An interpretative phenomenological analysis.",
+      "url": "https://www.semanticscholar.org/paper/55a918ebb0ee5a94648e58508735a6cf763efff4",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-06-15T16:53:06.069338",
+      "doi": "10.1016/j.ctcp.2025.102017",
+      "authors": [
+        {
+          "name": "Wei-Ting Lai",
+          "author_id": "2300269901",
+          "affiliation": null
+        },
+        {
+          "name": "Li-Yu Yang",
+          "author_id": "2279153456",
+          "affiliation": null
+        },
+        {
+          "name": "Ko Hsun-Kuei",
+          "author_id": "2373061839",
+          "affiliation": null
+        },
+        {
+          "name": "Hui-Chun Su",
+          "author_id": "2353969557",
+          "affiliation": null
+        },
+        {
+          "name": "Li-Min Wu",
+          "author_id": "2270911850",
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND AND PURPOSE\nAlthough mindfulness is widely acknowledged to foster resilience, limited research has examined how palliative care providers sustain this practice and how it shapes their resilience. This study explores how providers with sustained mindfulness practice, understand, and embody the cultivation of resilience across personal and professional domains.\n\n\nMATERIALS AND METHODS\nFifteen palliative care providers (three physicians, eight nurses, three psychologists, and a spiritual care provider) who providing end-of-life care in hospitals across Taiwan were recruited. All practiced mindfulness regularly after completing a mindfulness-based stress reduction program, integrating techniques such as breath awareness, body scan meditation, or mindful walking into their daily and professional lives. Data from individual semi-structured interviews were analyzed using Smith and Nizza's interpretative phenomenological approach.\n\n\nRESULTS\nThree group experiential themes were derived: discovering inner resilience through mindfulness, living mindfully as a way of life, and staying resilient in challenging environments. They illustrate how mindfulness fosters resilience by integrating emotional, mental, and existential dimensions. Mindfulness served as both an internal regulatory mechanism and a stabilizing force against external uncertainties, thereby fostering adaptability in challenging environments. These findings deepen our understanding of mindfulness as long-term resilience-building practice in palliative care.\n\n\nCONCLUSION\nThis study addresses the psychological challenges of palliative care providers in high-stress settings. The findings highlight how mindfulness fosters resilience by integrating self-awareness, emotional stability, and a reflective perspective into professional experiences. These insights extend beyond short-term stress relief, informing research and policies on healthcare provider well-being and sustaining palliative care practice.",
+      "journal": "Complementary Therapies in Clinical Practice",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Efficacy of a Confucianism-based ACT for university students in China: A randomized controlled trial against a standard mindfulness-based intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41702456/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-15T00:00:00",
+      "date_fetched": "2026-06-15T16:53:29.769674",
+      "doi": "10.1016/j.jad.2026.121441",
+      "authors": [
+        {
+          "name": "Xiaochen Wen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yaping Zhou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yinan Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qiushan Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Li Zhou",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Declining mental health among university students is a global concern. This study aimed to compare the effects of a Confucianism-based Internet-delivered Acceptance and Commitment Therapy (C-ACT) with a standard mindfulness-based I-ACT (M-ACT) and to examine the longitudinal relationship between psychological flexibility (PF) and meaning-centered coping (MCC). METHOD: In this randomized controlled trial, 300 Chinese university students were assigned to either the C-ACT intervention or the M-ACT active comparison group. Both online interventions were delivered over an 8-week period, with follow-up assessments conducted every 4 weeks for 12 weeks thereafter resulting in a total of five assessment time points. A parallel process latent growth curve model was used to analyze the change trajectories of PF and MCC. RESULTS: Both groups demonstrated significant increases in PF and MCC over time. At baseline, higher PF was significantly associated with higher MCC. Furthermore, the rate of change in PF was positively correlated with the rate of change in MCC across both groups. Crucially, the C-ACT group showed astatistically significantly greater rate of increase in MCC compared to the M-ACT group. No significant group difference was found for the rate of change in PF. CONCLUSIONS: While the findings support the general efficacy of I-ACT for improving psychological well-being in university students, the relatively stronger effect of the culturally adapted C-ACT on meaning-centered coping specifically highlights the potential benefits of integrating indigenous cultural values, such as Confucian ethics, into evidence-based psychological interventions to enhance specific therapeutic outcomes. CLINICAL TRIAL REGISTRATION NUMBER: ChiCTR2400090851.",
+      "journal": "Journal of affective disorders",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -35,239 +280,325 @@
       "matched_keywords": []
     },
     {
-      "title": "A Comparative Study of Mindfulness of Breathing (\u0100n\u0101p\u0101nasati) in the \u300eP\u0101liNik\u0101ya\u300fand the \u300eVisuddhimagga\u300f: - Focusing on Jh\u0101na and Sammasana Meditation -",
-      "url": "https://www.semanticscholar.org/paper/b12e54eee366c81d881315686b00b862b7bf9989",
+      "title": "Emotion regulation-targeted interventions initiated during hospitalization for suicidal crisis: a systematic review and exploratory meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687975/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-31T00:00:00",
-      "date_fetched": "2026-06-14T13:25:35.478844",
-      "doi": "10.20539/deadong.2026.114.012",
+      "source_type": "pubmed",
+      "date_published": "2026-06-15T00:00:00",
+      "date_fetched": "2026-06-15T16:53:29.769724",
+      "doi": "10.1016/j.jad.2026.121375",
       "authors": [
         {
-          "name": "Sun-Hee Lee",
-          "author_id": "121944624",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Journal of the Daedong Philosophical Association",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "jhana"
-      ]
-    },
-    {
-      "title": "An algorithmic agent model of pure awareness and minimal experiences",
-      "url": "https://www.semanticscholar.org/paper/2b3038024e68993c5c4c7c1e028506ccfe14eb71",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-06-14T13:25:35.478857",
-      "doi": "10.33735/phimisci.2026.12136",
-      "authors": [
-        {
-          "name": "Edmundo Lopez-Sola",
-          "author_id": "2047957413",
+          "name": "Luigi F Saccaro",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "R. Sanchez-Todo",
-          "author_id": "1435231767",
+          "name": "Alexis E Giff",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "J. Vohryzek",
-          "author_id": "52033010",
+          "name": "Zamfira Parincu",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "G. Ruffini",
-          "author_id": "2274943456",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The phenomenon of \u201cpure awareness\u201d, central to many contemplative traditions, has recently attracted scientific interest for its relevance to the study of consciousness. In this paper, we investigate pure awareness through the algorithmic agent model, a computational framework with roots in algorithmic information theory. This framework proposes that agents build compressive models of the world, and that structured experience arises from running such models. By linking phenomenology, dynamical systems theory, and computation, the algorithmic agent model offers a useful framework for investigating experiences with minimal structure or phenomenal content. We propose that pure awareness, as a stand-alone phenomenon, may correspond to experiences with minimal structure achieved through meditation, psychedelics, or other deconstructive practices. To illustrate this, we explore how such experiences may arise through jh\u0101na meditation. A key hypothesis is that the phenomenology of pure awareness arises from a specific model: the agent's model of its own modeling process. We argue that the agent's recognition of the modeling process can occur alongside other phenomenal content, as in non-dual awareness. We also outline how these ideas can be explored through whole-brain computational models based on predictive processing theory, and empirically grounded in meditation and psychedelic research.",
-      "journal": "Philosophy and the Mind Sciences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "jhana"
-      ]
-    },
-    {
-      "title": "Study of the Relationship between Single-Practice Samadhi and the Two Kinds of Birth-and-Death from the Perspective of Yogacara",
-      "url": "https://www.semanticscholar.org/paper/e4ed78cd3432ec1c8638897686a82657b17e390b",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-26T00:00:00",
-      "date_fetched": "2026-06-14T13:25:36.551032",
-      "doi": "10.62177/apbs.v1i2.1359",
-      "authors": [
-        {
-          "name": "Shi Nianpu",
-          "author_id": "2439195428",
+          "name": "Camille Piguet",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shi Qingyuan",
-          "author_id": "2439197282",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Single-Practice Samadhi is an important contemplative method in Mahayana Buddhism, while segmental birth-and-death and transformational birth-and-death are key doctrinal categories through which Mahayana Yogacara explains the samsaric continuity of sentient beings and the still-incomplete state of saints before perfect awakening. Examining these three themes within one doctrinal framework helps clarify the inner relation among meditative practice, transformation of consciousness, and transcendence of birth-and-death. Drawing primarily on the Manjusri-pariprccha Prajnaparamita Sutra, the Cheng weishi lun, the Mahayanasamgraha, the Dasheng baifa mingmen lun, the Srimaladevi-simhanada Sutra, the Lankavatara Sutra, the Samdhinirmocana Sutra, the Yogacarabhumi, and the Zongjing lu, this paper first traces the scriptural origin of Single-Practice Samadhi and its basic meaning of \u201cthe one mark of the dharmadhatu\u201d and \u201cdirecting attention to the dharmadhatu.\u201d It then interprets the mechanism of its cultivation in terms of the eight consciousnesses, the three natures and three kinds of non-self-nature, the two obstructions and two karmic modes, and the transformation of consciousness into wisdom. On this basis, it further analyzes the causes, nature, support, stages of elimination, and differences between segmental birth-and-death and transformational birth-and-death. The paper argues that Single-Practice Samadhi is not an isolated technique of concentration but a contemplation of reality that can be explained and supported by Yogacara theories of consciousness and practice. The two kinds of birth-and-death are not merely nominal classifications; rather, they constitute a soteriological framework closely connected with the afflictive obstruction, the cognitive obstruction, and the process of transformation of the basis. From a Yogacara perspective, Single-Practice Samadhi thus illuminates the Mahayana path from calming distraction and overcoming self-grasping to dissolving dharma-grasping and perfecting transformation of the basis. This study may also serve as a reference for understanding the structure of \u201ccorrespondence between principle and practice\u201d in Buddhist doctrinal learning and for teaching Yogacara, meditation, and Buddhist views of life and death in contemporary Buddhist colleges.",
-      "journal": "Asia Pacific Buddhist Studies",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Sam\u0101dhi and Vipassan\u0101: Two Interdependent Systems of Buddhist Meditation",
-      "url": "https://www.semanticscholar.org/paper/183528f00fae248275e1f9cbbcd102a04e13b469",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-06T00:00:00",
-      "date_fetched": "2026-06-14T13:25:36.551042",
-      "doi": "10.55041/ijsrem57277",
-      "authors": [
-        {
-          "name": "Dong Thang",
-          "author_id": "2388438611",
+          "name": "Christian Greiner",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "D. Tyagi",
-          "author_id": "2357538227",
+          "name": "Paco Prada",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Abstract\n\nHuman desires and worldly pursuits are sources of suffering for individuals and society. The Buddha, time and again, taught that our freedom lies in our hands, more specifically in the boundaries of our minds. The heart of Buddhist practice to achieve freedom is a life of ethical conduct (s\u012bla) and the practice of concentration (sam\u0101dhi) and wisdom (pa\u00f1\u00f1\u0101). The two meditation techniques to achieve concentration and wisdom are samatha and vipassan\u0101 meditation. Although in Western culture, they are often separated by the popular focus on mindfulness or concentration meditation mainly, these two meditation techniques are not two separate methods. In Buddhist training for freedom, they form two interrelated parts of a whole, both crucial to attaining complete liberation. They are the methodical effort to tame and master the mind and to develop its capacity for calm and insight. Vipassan\u0101 is a path to wisdom, spiritual liberation, and the pursuit of freedom from the bondage of mental impurities, suffering, and repeated rebirth. Having achieved the foundational ground of concentration with samatha meditation, one can eradicate the deepest level of mental impurities with vipassan\u0101 meditation.\n\n\n\n\nKeywords: sam\u0101dhi, vipassan\u0101, meditation, Buddhist training, spiritual freedom.",
-      "journal": "International Journal of Scientific Research in Engineering and Management",
+      "abstract": "INTRODUCTION: Suicide is a leading cause of premature death, with risk peaking around psychiatric hospitalization. Emotion dysregulation (ED) is recognized as a key factor contributing to suicidal ideation and behavior across psychiatric diagnoses. The efficacy of interventions that target ED for suicidality reduction remains unclear, so we aimed to assess these interventions in psychiatric inpatients. METHODS: We conducted a PRISMA-compliant, PROSPERO-registered (CRD420251140949) systematic review and meta-analysis of randomized and non-randomized trials evaluating interventions targeting emotion regulation (ER) for psychiatric inpatients with suicidal ideation and/or behavior. Searches covered PubMed, Embase, and PsycINFO to September 18, 2025. Standardized mean differences (Hedges' g) were pooled under random-effects models and heterogeneity was assessed (Q, I RESULTS: Twelve studies met inclusion (n\u00a0=\u00a01708), spanning dialectical behavior therapy (DBT), mindfulness-based interventions, acceptance and commitment therapy (ACT), and other ER-related protocols. Across modalities, feasibility and acceptability were high and interventions consistently improved suicide-related outcomes in transdiagnostic adolescents and adult populations. Suicide attempts and ideation met outcome criteria for exploratory meta-analyses, and, for both, ER-targeted interventions outperformed usual care, despite heterogeneity and small samples. Exploratory meta-regressions were non-significant; funnel plots did not suggest marked publication bias, though power was limited. CONCLUSIONS: ER-targeted interventions delivered during psychiatric hospitalization are feasible and show promising benefits on suicide-related outcomes. Given heterogeneity and limited sample sizes, larger, well-powered randomized trials using standardized suicidality endpoints are needed to establish efficacy, refine inpatient protocols, and inform acute care pathways.",
+      "journal": "Journal of affective disorders",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "The Philosophical Structure of Buddhist Character Education Based on the Threefold Training \u015a\u012bla\u2013Sam\u0101dhi\u2013Praj\u00f1\u0101 in the Bodhicary\u0101vat\u0101ra",
-      "url": "https://www.semanticscholar.org/paper/6c0891d1020f988f1bd3e0ced019edd19b92b890",
+      "title": "Questionable prospective associations between mindfulness and mental health problems: A simulated multiverse reanalysis and comment on.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41747830/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-01-31T00:00:00",
-      "date_fetched": "2026-06-14T13:25:36.551071",
-      "doi": "10.18850/jees.2026.79.10",
+      "source_type": "pubmed",
+      "date_published": "2026-06-15T00:00:00",
+      "date_fetched": "2026-06-15T16:53:29.769816",
+      "doi": "10.1016/j.jad.2026.121508",
       "authors": [
         {
-          "name": "H. Oh",
-          "author_id": "19361696",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Journal of Ethics Education Studies",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Some points of discrepancy \u00a0between the \u2018Yogas\u016btra\u2019 and the \u2018Yogabh\u0101\u1e63ya\u2019",
-      "url": "https://www.semanticscholar.org/paper/2103bac2130e98fc946a1d524d806f1c70308100",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-06-14T13:25:36.551275",
-      "doi": "10.1558/rosa.31995",
-      "authors": [
-        {
-          "name": "Pradeep P. Gokhale",
-          "author_id": "113784090",
-          "affiliation": null
-        }
-      ],
-      "abstract": "It is held by many modern scholars that the Yogas\u016btra, traditionally said to be authored by the sage Pata\u00f1jali, and the Yogabh\u0101\u1e63ya, traditionally said to be authored by Vy\u0101sa, belong to the same period. Some scholars are of the opinion that both the Yogas\u016btra and the Yogabh\u0101\u1e63ya were authored by the same person. This article questions the latter claim. It holds that the hypothesis of a single authorship can be defended only if the uniformity of thought between the two texts is established. The\u00a0article discusses eight cases where the Yogabh\u0101\u1e63ya arguably deviates from the meaning conveyed or implied in the Yogas\u016btra. The cases include the classification of mental states, the meanings of asampraj\u00f1\u0101ta-sam\u0101dhi and nirb\u012bja-sam\u0101dhi, the four cultivations (bh\u0101van\u0101s), the definition of \u0101sana, the nature of pra\u1e47idh\u0101na, and the meanings of the terms \u2018akus\u012bda\u2019 (in the context of dharmamegha-sam\u0101dhi), \u2018abhinive\u015ba\u2019 (as a kind of kle\u015ba) and \u2018viccheda\u2019 (in the context of pr\u0101\u1e47\u0101y\u0101ma). By showing that in the highlighted cases the Yogabh\u0101\u1e63ya interpretation does not capture the meaning that consistently follows from the Yogas\u016btra aphorism, the article argues that the S\u016btrak\u0101ra and the Bh\u0101\u1e63yak\u0101ra were two different personalities with their own unique understanding of some of the yogic concepts.",
-      "journal": "Religions of South Asia",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Shandao\u2019s Construction and Innovation of the Pure Land Doctrinal System: A Study Centred on the Commentary on the Contemplation S\u016btra",
-      "url": "https://www.semanticscholar.org/paper/437336d89f9fec7e92351dafdad92f1a1cbf4081",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-27T00:00:00",
-      "date_fetched": "2026-06-14T13:25:36.551305",
-      "doi": "10.3390/rel17060648",
-      "authors": [
-        {
-          "name": "X. Lin",
-          "author_id": "32725313",
-          "affiliation": null
-        }
-      ],
-      "abstract": "As a pivotal patriarch of the Pure Land school, Shandao \u5584\u5c0e (613\u2013681) played a decisive role in shaping Pure Land Buddhism and the broader history of Chinese Buddhism. A direct disciple of Daochuo \u9053\u7dbd (563\u2013645), he championed the dual framework of Dingshan \u5b9a\u5584 and Sanshan \u6563\u5584 practices together with Nianfo \u5ff5\u4f5b (Skt. buddh\u0101nusm\u1e5bti), especially Chiming nianfo \u6301\u540d\u5ff5\u4f5b (vocal recitation of Amit\u0101bha\u2019s name). Existing scholarship has already demonstrated that Shandao was not a master concerned exclusively with vocal recitation but also a systematic exegete of Guanfo \u89c0\u4f5b, visualisation, and sam\u0101dhi. This article therefore does not present that recognition as its own innovation. Instead, it reconstructs the internal architecture by which Shandao\u2019s Guanjing si tie shu \u89c0\u7d93\u56db\u5e16\u758f (Commentary on the Contemplation S\u016btra in Four Fascicles) integrates contemplative practice with three doctrinal commitments: the efficacy of \u2018birth through ten recitations\u2019 against the Yog\u0101c\u0101ra charge of Bieshi yi \u5225\u6642\u610f (Skt. k\u0101l\u0101ntar\u0101bhipr\u0101ya, the identification of Amit\u0101bha\u2019s land as a reward land, and the thesis that ordinary beings (Skt. p\u1e5bthagjana) may enter that land. Drawing also on the Guannian Amituo fo xianghai sanmei gongde famen \u89c0\u5ff5\u963f\u5f4c\u9640\u4f5b\u76f8\u6d77\u4e09\u6627\u529f\u5fb7\u6cd5\u9580 (Method of Contemplating Amit\u0101bha Buddha\u2019s Ocean-like Marks in Sam\u0101dhi and Its Meritorious Virtues) and the Wangsheng lizan \u5f80\u751f\u79ae\u8b9a (Liturgy of Praise for Birth in the Pure Land), the article argues that Shandao\u2019s originality lies less in any single doctrine than in the way these doctrines mutually support one another as a coherent programme of exegesis, practice, and Pure Land soteriology.",
-      "journal": "Religions",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Improvement from Irritable Bowel Syndrome and Anxiety Through Integrative Yoga, Meditation and Naturopathy: A Case Report.",
-      "url": "https://www.semanticscholar.org/paper/605294b32a5153ab2054caa8ee7c06e0f0abb0de",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-11T00:00:00",
-      "date_fetched": "2026-06-14T13:25:36.551317",
-      "doi": null,
-      "authors": [
-        {
-          "name": "B. Archana",
-          "author_id": "2428799494",
+          "name": "Kimmo Sorjonen",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "N. Priyathersini",
-          "author_id": "15550149",
+          "name": "Bo Melin",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "D. Mathangi",
-          "author_id": "2420882333",
+          "name": "Marika Melin",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Advances in mind-body medicine",
+      "abstract": "Based on findings in cross-lagged panel network (CLPN) models, Ma et al. concluded prospective effects between indicators of mindfulness and mental health problems. Here, we used multiverse methodology and found discrepant increasing, decreasing, and null effects depending on the used model, and meta-analytic aggregations of these discrepant effects did not differ significantly from zero. Hence, the conclusions by Ma et al. can be challenged. It is important for researchers to bear in mind that correlations, including cross-lagged effects in CLPN models, do not prove causality in order not to overinterpret findings, something that may have happened to Ma et al. For increased analytic rigor, we recommend researchers to fit, as we did here, alternative models to data and to juxtapose findings.",
+      "journal": "Journal of affective disorders",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
+      "matched_keywords": []
+    },
+    {
+      "title": "Emotional body odors alter autonomic nervous activity during mindfulness training in social anxiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42287960/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-10T00:00:00",
+      "date_fetched": "2026-06-15T16:53:40.116622",
+      "doi": "10.1016/j.janxdis.2026.103201",
+      "authors": [
+        {
+          "name": "Elisa Dal B\u00f2",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cinzia Cecchetto",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Letizia Zurlo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Laura Lavezzo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Emma T Eliasson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elisa Vigna",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Enzo Pasquale Scilingo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alberto Greco",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mimma Nardelli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fabio Di Francesco",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gerg\u00f6 Hadlaczky",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Johan N Lundstr\u00f6m",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vladimir Carli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claudio Gentili",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Chemosignals found in human body odors (BOs) convey information about a person's emotional state and elicit observable responses in others. While mindfulness typically enhances parasympathetic tone and reduces anxiety, little is known about how BOs modulate these effects. This study investigated how emotional and non-emotional human BOs influence autonomic nervous system activity - heart rate variability (HRV) and electrodermal activity (EDA) - during mindfulness practice in individuals with social anxiety. The role of baseline HRV as a predictor of intervention outcome was explored. Ninety-eight women with social anxiety received two mindfulness sessions over two consecutive days, while allocated to one of four conditions: fear BO, happiness BO, neutral BO, clean air. Due to technical issues, final samples were reduced (n\u202f=\u202f69-85 per analysis). Individuals in the fear and happiness BOs conditions, but not those in the neutral BO and clean air conditions, showed HRV reduction during the mindfulness. EDA decreased in all conditions on day 1, but on day 2, only the clean air and neutral BO groups maintained this reduction. Baseline HRV predicted the magnitude of anxiety reduction in the fear BO group; participants with higher initial HRV exhibited greater anxiety reduction. No associations were found for other odor conditions. These results suggest that emotional BOs, particularly fear BO, may enhance mindfulness efficacy by creating a socially salient and ecologically valid context. For socially anxious individuals, practicing mindfulness under a subtle social-emotional challenge may train adaptive regulation. Baseline HRV emerges as a biomarker of such regulatory flexibility and intervention responsiveness.",
+      "journal": "Journal of anxiety disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effect of the integrated stress response reduction intervention on cellular aging in middle-aged nurses: a pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42288813/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-13T00:00:00",
+      "date_fetched": "2026-06-15T16:53:40.116761",
+      "doi": "10.1186/s12912-026-04881-9",
+      "authors": [
+        {
+          "name": "Hwasook Cho",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hyunwook Kang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "MeiLing Song",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nahyun Kim",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Nurses experience persistently high levels of occupational stress, which negatively impacts their health and the quality of patient care. Chronic psychological stress is closely linked to physiological dysregulation and cellular aging processes through stress-response pathways. However, limited evidence exists regarding whether stress management interventions targeting these mechanisms can influence cellular aging biomarkers in nurses. This study evaluated the effects of an Integrated Stress Response Reduction Intervention (iSRI) on cellular aging among middle-aged nurses. METHODS: A non-randomized controlled pilot study was conducted with 60 nurses aged 45-60 years recruited from two tertiary hospitals. Participants were allocated to either an intervention group (n\u2009=\u200931) or a control group (n\u2009=\u200929). The 12-week iSRI comprised biofeedback, cognitive-behavioral education, mindfulness, and exercise. Outcomes included perceived stress levels and biochemical markers (serum cortisol, IL-6, and SOD). Cellular aging was assessed via leukocyte telomere length (LTL) and mitochondrial DNA copy number (mtDNAcn) using qPCR. RESULTS: Following the intervention, the iSRI group showed a significant decrease in perceived stress levels, with a significant group \u22c5 time interaction (p =.012). Regarding biochemical markers, serum cortisol showed a significant group \u22c5 time interaction (p =.001), although no significant between-group difference was observed post-intervention. SOD levels increased significantly in the intervention group compared to the control group (p =.031), showing a robust interaction effect (p =.001). Regarding cellular aging markers, a significant between-group difference in LTL was observed post-intervention (p =.002), and this difference remained significant after controlling for covariates (p =.047). However, the longitudinal effect for LTL was not statistically significant (p =.263). No significant changes were observed in IL-6 and mtDNAcn. CONCLUSIONS: The 12-week iSRI demonstrated an initial protective effect on preserving LTL, which was associated with reductions in perceived stress and subsequent improvements in cortisol and SOD. These findings suggest that mechanism-based stress management may help support telomere preservation, a hallmark of cellular aging. Given the exploratory nature of this pilot study, further larger-scale randomized controlled trials are warranted to confirm whether such interventions can induce sustained shifts in biological aging trajectories. TRAIL REGISTRATION: The study was registered in CRIS (KCT0011526; registration date: 23 January 2026; retrospectively registered).",
+      "journal": "BMC nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Examining the Impact of a Mindfulness Program on Anxiety in Pediatric Alopecia Areata.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42289282/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-14T00:00:00",
+      "date_fetched": "2026-06-15T16:53:40.117455",
+      "doi": "10.1111/pde.70280",
+      "authors": [
+        {
+          "name": "Anthony J Gilding",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eden Ventura",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nimrita Sangha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cathryn Sibbald",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Alopecia areata is an immune-mediated disease resulting in non-scarring hair loss and is associated with significant burden on mental health and quality of life. Mindfulness-based stress-reduction therapies have emerged as a potential intervention and have shown promising results, though studies of efficacy in adolescent populations are lacking. Thus, this pilot study aimed to determine if the daily use of the Breathr mindfulness app would improve anxiety in adolescent patients with AA over a 3-month period. Our results demonstrate that daily use of the app provided limited benefits for a subset of adolescents with AA and anxiety.",
+      "journal": "Pediatric dermatology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Using an ethical lens in frontline alcohol and other drug services: Enhancing access to care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42288039/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-13T00:00:00",
+      "date_fetched": "2026-06-15T16:53:40.117996",
+      "doi": "10.1016/j.drugpo.2026.105401",
+      "authors": [
+        {
+          "name": "David Silkoff",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rosalind McDougall",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Richard Chenhall",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Charles Henderson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Thileepan Naren",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "There are significant clinician, policy and systemic barriers to accessing Alcohol and Other Drug (AOD) services. Although frontline clinicians have very limited impact on the systemic barriers, there is a zone of clinical discretion within policy interpretation and implementation. Work within this zone can enhance access to services. Although not consistently recognised as such, this is ethical work; and facilitating access to services within the boundaries of these restrictions is a major ethical role of AOD clinicians. In this paper, we argue that using an ethical lens can enhance frontline clinicians' ability to critically engage with existing policy and to improve access to services. We describe practical means of enhancing ethical literacy which are feasible within busy frontline services: extending the language used within everyday clinical work; ethical mindfulness; and an ethical decision-making framework. Using four case studies drawn from clinical practice, we illustrate how enhanced ethical literacy can assist clinicians to recognise ethical challenges, and to engage in ethical work which can enhance the access of an extremely vulnerable community to AOD services.",
+      "journal": "The International journal on drug policy",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Moderating effect of interoceptive sensibility on the relationship between depressive symptoms and suicidal ideation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41692054/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-15T00:00:00",
+      "date_fetched": "2026-06-15T16:53:40.118191",
+      "doi": "10.1016/j.jad.2026.121368",
+      "authors": [
+        {
+          "name": "Chanhee Park",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "C Hyung Keun Park",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yunkyung Lee",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: This study aimed to examine the moderating effect of interoceptive sensibility on the relationship between depression and suicidal ideation. Specifically, this study aimed to explore which subdimensions of interoceptive sensibility moderate the relationship between depression and suicidal ideation by administering the K-MAIA to a Korean community sample. METHODS: A total of 1000 participants completed various questionnaires assessing depressive symptoms (Patient Health Questionnaire-9), multidimensional interoceptive sensibility (Korean Multidimensional Assessment of Interoceptive Awareness), and suicidal ideation (Depressive Symptom Inventory-Suicidality Subscale). Moderating effect of each subdimension of interoceptive sensibility was examined through the PROCESS Macro v4.3.1 (Model 1) and latent moderated structural equations. RESULTS: Depressive symptoms (excluding suicidal ideation) and suicidal ideation were negatively correlated with four subdimensions of interoceptive sensibility (Attention Regulation, Mind-Body Connection Awareness, Return to Body, Trusting). The moderating effect of Trusting was only significant in the relationship between depressive symptoms and suicidal ideation. Specifically, higher Trusting significantly buffered the positive association between depressive symptoms and suicidal ideation. CONCLUSIONS: This exploratory study suggests that Trusting subdimensions of interoceptive sensibility may reduce suicidal ideation in individuals experiencing depressive symptoms. By showing that interoceptive sensibility can buffer the relationship between depressive symptoms and suicidal ideation within a diverse community sample spanning a wide age range, these findings underscore the potential relevance of interoception-focused strategies for suicide prevention in various populations.",
+      "journal": "Journal of affective disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
     }
   ],
   "articles": []
