@@ -1,794 +1,248 @@
 {
-  "generated_at": "2026-06-21T13:46:02.918244",
+  "generated_at": "2026-06-22T16:26:05.852514",
   "papers": [
     {
-      "title": "The Security Awareness Adventure: A serious game for security awareness training utilizing a state transition system and a probabilistic model",
-      "url": "https://www.semanticscholar.org/paper/2e200dddc8f491773513bbb7d6fae08e32a8f47a",
+      "title": "Active Inference, Computational Phenomenology, and Advanced Meditation: Toward the Formalization of the Experience of Meditation.",
+      "url": "https://www.semanticscholar.org/paper/79e844d4fbb37657f2ca993a98fe19c3ff26c7f8",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-01T00:00:00",
-      "date_fetched": "2026-06-21T13:45:17.285100",
-      "doi": "10.1016/j.cose.2025.104500",
+      "date_published": "2025-12-01T00:00:00",
+      "date_fetched": "2026-06-22T16:25:12.864123",
+      "doi": "10.1016/j.neubiorev.2025.106539",
       "authors": [
         {
-          "name": "Tong Li",
-          "author_id": "2249712521",
+          "name": "Hagar Tal",
+          "author_id": "2401950219",
           "affiliation": null
         },
         {
-          "name": "Fangqi Dong",
-          "author_id": "2298803320",
+          "name": "Malcolm Wright",
+          "author_id": "2312747381",
           "affiliation": null
         },
         {
-          "name": "Chaoqun Wen",
-          "author_id": "2359341021",
+          "name": "Shawn Prest",
+          "author_id": "2401950419",
+          "affiliation": null
+        },
+        {
+          "name": "Lars Sandved-Smith",
+          "author_id": "2269374655",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Computers & security",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "The Space Weather Awareness Training Network",
-      "url": "https://www.semanticscholar.org/paper/9050fd72bf6d715993408f62ab526c341e569700",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-17T00:00:00",
-      "date_fetched": "2026-06-21T13:45:17.285160",
-      "doi": "10.1051/swsc/2026020",
-      "authors": [
-        {
-          "name": "Teresa Barata",
-          "author_id": "2259810905",
-          "affiliation": null
-        },
-        {
-          "name": "Dario Del Moro",
-          "author_id": "2274693015",
-          "affiliation": null
-        },
-        {
-          "name": "Robertus Erd\u00e9lyi",
-          "author_id": "2422648901",
-          "affiliation": null
-        },
-        {
-          "name": "J. Fernandes",
-          "author_id": "2328023558",
-          "affiliation": null
-        },
-        {
-          "name": "R. Gafeira",
-          "author_id": "2281123494",
-          "affiliation": null
-        },
-        {
-          "name": "M. Georgoulis",
-          "author_id": "1827145",
-          "affiliation": null
-        },
-        {
-          "name": "K. Murawski",
-          "author_id": "2264826521",
-          "affiliation": null
-        },
-        {
-          "name": "A. Nindos",
-          "author_id": "100989347",
-          "affiliation": null
-        },
-        {
-          "name": "O. Oliveira",
-          "author_id": "2269148453",
-          "affiliation": null
-        },
-        {
-          "name": "S. Patsourakos",
-          "author_id": "2275611413",
-          "affiliation": null
-        },
-        {
-          "name": "K. Petrovay",
-          "author_id": "2248003560",
-          "affiliation": null
-        },
-        {
-          "name": "S. Poedts",
-          "author_id": "2244695746",
-          "affiliation": null
-        },
-        {
-          "name": "R. Vanio",
-          "author_id": "1672367127",
-          "affiliation": null
-        },
-        {
-          "name": "A. Afanasiev",
-          "author_id": "51190745",
-          "affiliation": null
-        },
-        {
-          "name": "M. Kors\u00f3s",
-          "author_id": "2335764438",
-          "affiliation": null
-        },
-        {
-          "name": "A. Boiko",
-          "author_id": "2184636584",
-          "affiliation": null
-        },
-        {
-          "name": "L. Annie John",
-          "author_id": "2295198473",
-          "affiliation": null
-        },
-        {
-          "name": "Shreeyesh Biswal",
-          "author_id": "2315298827",
-          "affiliation": null
-        },
-        {
-          "name": "S. Bourgeois",
-          "author_id": "2269147999",
-          "affiliation": null
-        },
-        {
-          "name": "Simone Chierichini",
-          "author_id": "2267724829",
-          "affiliation": null
-        },
-        {
-          "name": "Gr'egoire Francisco",
-          "author_id": "2261737350",
-          "affiliation": null
-        },
-        {
-          "name": "Augustin Andr'e-Hoffmann",
-          "author_id": "2432290598",
-          "affiliation": null
-        },
-        {
-          "name": "E. Husidic",
-          "author_id": "133897255",
-          "affiliation": null
-        },
-        {
-          "name": "Shiffana Koya",
-          "author_id": "2443085803",
-          "affiliation": null
-        },
-        {
-          "name": "Mayank Kumar",
-          "author_id": "2221757127",
-          "affiliation": null
-        },
-        {
-          "name": "R. Mugatwala",
-          "author_id": "2186112841",
-          "affiliation": null
-        },
-        {
-          "name": "Guilherme A. L. Nogueira",
-          "author_id": "2411003744",
-          "affiliation": null
-        },
-        {
-          "name": "A. Wagner",
-          "author_id": "2269147841",
-          "affiliation": null
-        },
-        {
-          "name": "E. Kilpua",
-          "author_id": "143760222",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Motivation and Aims: The main objectives of this paper are twofold: (1) to present the Space Weather Awareness Training Network (SWATNet), an innovative Marie Sk{\\l}odowska-Curie Training Network designed to provide high-quality doctoral training in space weather, and (2) to highlight the scientific advances achieved within the project. Methods:\u00a0By combining cutting-edge research with structured international and intersectoral training, SWATNet reached fundamental advances in understanding space weather phenomena and trained a new generation of scientists equipped to tackle modern challenges in both research and industry.\nResults: SWATNet delivered\u00a0 advancements in modelling solar eruptions and solar corona, and improved studies of the propagation and transport of Solar Energetic Particles, often utilising interdisciplinary methods. These include machine and deep learning, image processing, and various numerical modelling approaches. The research produced a total of 26 articles in peer-reviewed journals, along with various presentations at international conferences. In addition, SWATNet successfully completed its ambitious training programme on practical observatory and industry training.",
-      "journal": "Journal of Space Weather and Space Climate",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Comparative effectiveness of small group practice and 3D VR simulation on nursing students' PIVC skills, flow state, and learning satisfaction: A quasi-experimental study.",
-      "url": "https://www.semanticscholar.org/paper/ffb9ac9d8096a7d604b733deec4b3c91e8d51a91",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-06-21T13:45:37.508781",
-      "doi": "10.1016/j.nedt.2025.106683",
-      "authors": [
-        {
-          "name": "Hyeongyeong Yoon",
-          "author_id": "2258941429",
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND\nPIVC (Peripheral intravenous catheterization) skills are highly challenging techniques frequently used in clinical settings. To prevent complications from intravenous catheterisation and to ensure patient safety, it is necessary to identify effective training methods.\n\n\nAIM\nThis study aimed to evaluate the educational effects of 3D VR simulation practice versus small group practice on nursing students' skill performance, learning satisfaction, and flow state.\n\n\nDESIGN\nA quasi-experimental study was conducted using a nonequivalent control group time-lagged design.\n\n\nPARTICIPANTS\nA total of 158 fourth-year undergraduate nursing students participated, with 75 students assigned to the 3D VR group and 83 students to the small group practice group.\n\n\nMETHODS\nPre- and post-assessments were conducted to measure PIVC skills, and flow state, while learning satisfaction was compared only in the post-assessment. The study was conducted over three weeks. The 3D VR group participated in virtual reality practice sessions, completing a total of three 30-minute sessions. Meanwhile, the small group practice group conducted mannequin-based practice sessions, with a student-to-instructor ratio of 8-9 students per instructor, completing two 45-minute sessions. Statistical analysis was performed using SPSS 28.0, and ANCOVA and the Mann-Whitney U test were used to compare the effects between the two groups.\n\n\nRESULTS\nThe small group practice showed significantly higher PIVC skill performance (F\u00a0=\u00a05.367, p\u00a0=\u00a0.022), while the 3D VR simulation group demonstrated significantly higher flow state (F\u00a0=\u00a06.002, p\u00a0=\u00a0.015). However, there was no significant difference in learning satisfaction between the two groups (z\u00a0=\u00a0-0.169, p\u00a0=\u00a0.866).\n\n\nCONCLUSION\nSmall group practice was more effective for skill performance in PIVC, while flow state was higher with 3D VR. There was no difference in learning satisfaction between the two groups. These findings provide valuable evidence for selecting optimal teaching methods in nursing education based on learning objectives and educational outcomes.",
-      "journal": "Nurse Education Today",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Quantifying Flow State Dynamics: A Prefrontal Cortex EEG-Based Model Validation Study. Unveiling the Prefrontal Cortex's Role in Flow State Experience: An Empirical EEG Analysis",
-      "url": "https://www.semanticscholar.org/paper/96ade87c7cd65a5db268891cd33b2b37618eca65",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-20T00:00:00",
-      "date_fetched": "2026-06-21T13:45:37.508889",
-      "doi": null,
-      "authors": [
-        {
-          "name": "G. Rosso",
-          "author_id": "2276704078",
-          "affiliation": null
-        },
-        {
-          "name": "Raffaella Ricci",
-          "author_id": "2380018625",
-          "affiliation": null
-        },
-        {
-          "name": "L. Pia",
-          "author_id": "2239073617",
-          "affiliation": null
-        },
-        {
-          "name": "Giovanni Rebaudo",
-          "author_id": "2367741387",
-          "affiliation": null
-        },
-        {
-          "name": "Michele Guindani",
-          "author_id": "2385416920",
-          "affiliation": null
-        },
-        {
-          "name": "Alberto Marocchino",
-          "author_id": "2367739020",
-          "affiliation": null
-        },
-        {
-          "name": "G. Pieri",
-          "author_id": "2197146739",
-          "affiliation": null
-        },
-        {
-          "name": "Andrea Rosso",
-          "author_id": "2073473651",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This article aims to explore the optimization of mental performance through the analysis of metrics associated with the psychological state known as flow. Several clinical studies have shown a correlation between the mental state of flow (characterized by deep and relaxed concentration and high psychophysical efficiency) and brain activity measured through electroencephalography (EEG). This study confirms such a correlation, focusing in particular on the sports field, where the flow state tends to occur more frequently. To conduct the study, Sporthype developed proprietary software that integrates several predictive models, in particular the Flow State Index (FSI), implemented within the Holytics system. An analytical protocol was established, including mental exercises and data collection sessions using the portable EEG device Muse, accompanied by a questionnaire to gather athletes'subjective perceptions of their mental state. The results revealed a significant alignment between the EEG data and the subjective experiences reported in the questionnaires, confirming the feasibility of detecting the flow state through prefrontal cortex activity. Furthermore, the psychological exercises included in the study protocol showed a tangible positive effect in enhancing flow during athletic performance. Flow improves performance through a more harmonious synchronization between mind and body. Although golf was the main context of the experimentation, the mathematical models developed within Holytics were designed to be applicable to a wide range of sports. In addition to golf, preliminary tests have been conducted in other sports such as tennis, as well as in non-sport contexts, including gaming and mental training practices such as mindfulness, concentration, and visualization.",
-      "journal": "",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Flow state and autonomic response patterns during sensory rejection tasks using the Uchida-Kraepelin Test",
-      "url": "https://www.semanticscholar.org/paper/ed27afc07ba9204f788c53b32499d7e54aa40bd7",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-30T00:00:00",
-      "date_fetched": "2026-06-21T13:45:37.508910",
-      "doi": "10.1371/journal.pone.0335711",
-      "authors": [
-        {
-          "name": "Hiroyuki Kuraoka",
-          "author_id": "65909740",
-          "affiliation": null
-        },
-        {
-          "name": "Mitsuo Hinoue",
-          "author_id": "2273074196",
-          "affiliation": null
-        },
-        {
-          "name": "Chikamune Wada",
-          "author_id": "2292323844",
-          "affiliation": null
-        },
-        {
-          "name": "Shinji Miyake",
-          "author_id": "2267133972",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigated the relationship between flow state and autonomic nervous system activity indices in 18 healthy male participants using a mental arithmetic task (Uchida-Kraepelin [U-K] test)\u2014known as a sensory rejection task. The experiment consisted of two sets, each comprising a 5-minute rest period, followed by a 15-minute task period with varying task conditions of self-paced, to be performed at own pace, and competitive, as per the instruction \u201cAlways do as many calculations as possible, aiming to exceed the preceding performance.\u201d In the subjective assessment, the flow, time perception, subjective mental workload, and feelings of fatigue were evaluated. Autonomic nervous system activity indices were continuously monitored. The results indicate that the U-K test, which is a low-difficulty, monotonous task, failed to induce a flow state. Physiological responses to mental tasks showed an increased heart rate, suggesting a Pattern 1 response. The participants who entered a flow state, based on their flow and time perception scores, had a decreased heart rate immediately after the task, supporting the association between the flow state and Pattern 2 responses. Considering the relationship between flow and Pattern 2 responses, it is recommended to assess flow using multiple physiological markers, including blood pressure.",
-      "journal": "PLoS ONE",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "\u201cThe One Place Where I Don\u2019t Feel Frustrated\u201d: An Interpretative Phenomenological Analysis of Art Students\u2019 Experiences and Emotional Responses to the Flow State",
-      "url": "https://www.semanticscholar.org/paper/472a5b6a8a179036a4687b0826b33488013e1723",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-17T00:00:00",
-      "date_fetched": "2026-06-21T13:45:37.508961",
-      "doi": "10.1177/00221678251325392",
-      "authors": [
-        {
-          "name": "M. Green",
-          "author_id": "2301256454",
-          "affiliation": null
-        },
-        {
-          "name": "Patrick Rosenkranz",
-          "author_id": "2291790809",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Flow theory describes the highly focused state of being absorbed into an activity, causing a loss of self-consciousness and track of time. Research has suggested that this can lead to a happier and more fulfilling life. This study used interpretative phenomenological analysis (IPA) to understand art students\u2019 experiences of flow while making art and to acknowledge any emotional responses they have to this experience. Semi-structured interviews (conducted in 2021) were used to gain an enriched understanding of flow in six art students. The analysis found that all participants experienced flow while making art, and this experience was incredibly similar for all participants. In addition, no emotions were reported while the participants were in the flow state, yet positive emotions were associated with the experience of flow afterward. Interestingly, the participants reported negative emotions toward art without flow, suggesting that flow could be the incentive for wanting to produce art. These findings point to the importance of flow for experiencing happiness, and, unlike previous research, suggest that flow states can play a role in the motivation to make art. Future research should attempt to replicate these finding using other qualitative methods, such as event sampling, and explore the flow state in other activities.",
-      "journal": "Journal of humanistic psychology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Flow state and differentiated learning for students",
-      "url": "https://www.semanticscholar.org/paper/044347a87e774c0fb1cf1f7915eef1142da865b9",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-06-21T13:45:37.509025",
-      "doi": "10.46727/c.15-05-2025.p155-161",
-      "authors": [
-        {
-          "name": "Violeta Vrabii",
-          "author_id": "2339029946",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Promoting mechanisms that emphasize strategies leading to well-being and happiness in school is a foundational premise of education. Happiness, as a state that can be prepared for, cultivated, and protected, belongs to each individual.Mihaly Csikszentmihalyi posits that the level of happiness and well-being can be expressed through the degree of human potential realization. The American psychologist uses the concept of flow state to describe an enhanced state of well-being in which individuals are so deeply engaged in the enjoyment of a task that they are carried into and maintained within a flow\u2014a state he defines as the optimal experience of the present moment. The use of multiple intelligences in learning is an essential tool that allows students to enter the state of flow through meaningful action. Differentiated instruction, tailored to students\u2019 individual needs, fosters continuous learning motivation and supports the development of the learner's full potential. Attention, viewed as vital energy, represents the ability to focus on a goal precisely when and for as long as necessary.The promotion of differentiated learning within the educational process serves as an effective premise for inducing the flow state, enabling students to both experience and contribute to a sense of well-being.",
-      "journal": "Valorificarea st\u0103rii de bine \u00een sistemul educa\u021bional: oportunit\u0103\u021bi \u0219i perspective: Materialele conferin\u021bei \u015ftiin\u021bifice na\u021bionale cu participare interna\u021bional\u0103, 15 mai 2025",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Zero-shot Learning Model with Dynamic and Static Feature Fusion for Industrial Gas-liquid Two-phase Flow State Identification",
-      "url": "https://www.semanticscholar.org/paper/6e1dce1d6789f125fe49709e80f01481370c1601",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-19T00:00:00",
-      "date_fetched": "2026-06-21T13:45:37.509037",
-      "doi": "10.1109/I2MTC62753.2025.11079015",
-      "authors": [
-        {
-          "name": "Xinyi Han",
-          "author_id": "2304069750",
-          "affiliation": null
-        },
-        {
-          "name": "Linghan Li",
-          "author_id": "1391198644",
-          "affiliation": null
-        },
-        {
-          "name": "Shumei Zhang",
-          "author_id": "2145893870",
-          "affiliation": null
-        },
-        {
-          "name": "Feng Dong",
-          "author_id": "2374158480",
-          "affiliation": null
-        },
-        {
-          "name": "Feng Dong",
-          "author_id": "2374158480",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "International Instrumentation and Measurement Technology Conference",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Interoception in Parkinson's disease: A narrative review and framework for translational research.",
-      "url": "https://www.semanticscholar.org/paper/fc298a90f588942484d0c58a4ee1c9314f627785",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-06-21T13:45:39.553415",
-      "doi": "10.1016/j.autneu.2025.103258",
-      "authors": [
-        {
-          "name": "K. Longardner",
-          "author_id": "46233121",
-          "affiliation": null
-        },
-        {
-          "name": "Senegal Alfred Mabry",
-          "author_id": "2284354549",
-          "affiliation": null
-        },
-        {
-          "name": "Gloria F. Chen",
-          "author_id": "2109218216",
-          "affiliation": null
-        },
-        {
-          "name": "R. Freeman",
-          "author_id": "2399546889",
-          "affiliation": null
-        },
-        {
-          "name": "S. Khalsa",
-          "author_id": "4326555",
-          "affiliation": null
-        },
-        {
-          "name": "Paul A. Beach",
-          "author_id": "2272564841",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Parkinson's disease (PD) is the second most common, and the fastest growing, neurodegenerative disease worldwide. Non-motor manifestations, particularly autonomic nervous system dysfunction, are common throughout the disease course, in some cases preceding motor symptom onset by years, and are often more disabling and harder to treat than motor symptoms and contribute significantly to disability. An understudied consequence of autonomic and visceral dysfunction in PD is interoception, the neural processing of internal organ system signals. Interoceptive processes form a foundational body-brain interface, mediating basic homeostatic reflexes and complex physiologic and behavioral adaptive responses to internal perturbations. Emerging evidence exists that interoception is impaired in some individuals with PD, potentially explaining why those who have objective evidence of autonomic dysfunction do not always report typical symptoms. Failure to recognize these impairments may lead to missed opportunities for early intervention, particularly in addressing 'silent' autonomic disturbances (e.g., orthostatic hypotension leading to sudden falls, dysphagia leading to aspiration pneumonia). In this narrative review, we synthesize current findings on the neuroanatomical networks underlying interoception, examine clinical manifestations of interoceptive dysfunction across multiple organ systems in PD, and identify key gaps in knowledge. We propose a translational research framework to enhance early detection, symptom management, and intervention strategies for PD. This framework integrates cognitive, mood, and autonomic dysfunctions with clinical factors (disease stage, duration, motor subtype, levodopa status) to understand interoceptive dysfunction within a translational model. This approach highlights novel opportunities for personalized care and improved therapeutic interventions in PD.",
-      "journal": "Autonomic Neuroscience: Basic & Clinical",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Measuring interoception from infancy to childhood: A scoping review.",
-      "url": "https://www.semanticscholar.org/paper/442536745fedff806a54d7761d8b45f13098fa25",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-15T00:00:00",
-      "date_fetched": "2026-06-21T13:45:39.553478",
-      "doi": "10.1016/j.neubiorev.2025.106161",
-      "authors": [
-        {
-          "name": "M. Addabbo",
-          "author_id": "4512686",
-          "affiliation": null
-        },
-        {
-          "name": "Luca Milani",
-          "author_id": "2355298559",
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND\nInteroception is the ability to perceive, understand, and respond to internal bodily signals. Despite its importance, our knowledge of interoceptive abilities in the early stages of development remains limited. Delays or atypical patterns in interoceptive development may serve as early indicators of potential developmental psychopathology. Thus, assessing interoception in infancy and early childhood is essential for advancing our understanding of both typical and atypical developmental pathways.\n\n\nOBJECTIVE\nThis scoping review summarises existing evidence regarding interoception from infancy to childhood and identifies the most common methods for assessing interoception in neurotypical pediatric populations.\n\n\nDESIGN\nA literature review was performed through a robust search of three scientific databases.\n\n\nRESULTS\nAmong 663 studies, 24 articles met the inclusion criteria. The most commonly used methods in infancy were looking-time paradigms and brain-based implicit measures, such as Heart-Evoked Potentials (HEP). Researchers predominantly used child-adapted versions of Heart Tracking Tasks (HTT) for preschool-aged children. The primary methods for investigating interoceptive abilities among school-aged children included HTTs and self-report measures. Only one study used fMRI to examine mind-body connections in childhood, while two relied on parent reports.\n\n\nCONCLUSIONS\nThis review offers a comprehensive overview of past and current methods for measuring interoception in the literature. It highlights the strengths and limitations of existing methodologies and presents recommendations to enhance our understanding of interoception in early human development.",
+      "abstract": "Computational phenomenology has emerged as a powerful framework for investigating advanced meditation states and stages, and meditative development and endpoints. Various models have been proposed to mechanistically explain the diverse experiences associated with these practices, including enhanced well-being, shifts in attentional control, the loosening or 'defabrication' of perceptual constructions, as well as minimal phenomenal experiences and transformative meditative endpoints such as cessations. However, these models have developed in disparate directions, and an integrative understanding of the underlying mechanisms remains elusive. This review examines how computational models attempt to account for the phenomenology of advanced meditation, with a particular focus on Active Inference as a modeling framework. We identify precision weighting, the confidence attributed to different model parameters, as a common mechanism across models, shaping experiential shifts. Furthermore, we observe a marked difference between early models, which emphasize top-down attentional modulation toward interoception or specific focus objects, and later models which center on layer-specific precision re-weighting within the meditator's hierarchical generative model and target more specific phenomenology. These differences arise from variations in the models' aims, scope, and definitions of contemplative practice. Despite increased interest in minimal phenomenal experience, related states and formal endpoints such as nonduality and cessations remain largely unaddressed. Few models tackle reported increases in cognitive flexibility and learning from meditation, while fundamental mechanisms behind informal practice and affective processes, and processes underlying compassion traditions, remain underexplored. Addressing these gaps is crucial for refining computational models of advanced meditation and informing our understanding of its cognitive, affective, and experiential effects.",
       "journal": "Neuroscience and Biobehavioral Reviews",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "meditation"
       ]
     },
     {
-      "title": "An enteric-DRG pathway for interoception and visceral pain in mice.",
-      "url": "https://www.semanticscholar.org/paper/2508fc2aa5742917decbf2409fafd05c603f1b6e",
+      "title": "The Psychology of Mysticism",
+      "url": "https://www.semanticscholar.org/paper/96b27bfaa7cd57ae872ae459cd311f3805382f4d",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-06-21T13:45:39.553557",
-      "doi": "10.1016/j.neuron.2025.09.035",
+      "date_published": "2026-01-27T00:00:00",
+      "date_fetched": "2026-06-22T16:25:37.271712",
+      "doi": "10.1017/9781009420860",
       "authors": [
         {
-          "name": "Zhuang Wang",
-          "author_id": "2387960408",
-          "affiliation": null
-        },
-        {
-          "name": "Qihong Tang",
-          "author_id": "2387797284",
-          "affiliation": null
-        },
-        {
-          "name": "Kai Li",
-          "author_id": "2387781043",
-          "affiliation": null
-        },
-        {
-          "name": "Junhui Mou",
-          "author_id": "2056422705",
-          "affiliation": null
-        },
-        {
-          "name": "Yuanyuan Chen",
-          "author_id": "2144038617",
-          "affiliation": null
-        },
-        {
-          "name": "Wen-Qiong Kuang",
-          "author_id": "2348084754",
-          "affiliation": null
-        },
-        {
-          "name": "Liting Sun",
-          "author_id": "2393000625",
-          "affiliation": null
-        },
-        {
-          "name": "Zongya Ma",
-          "author_id": "2387652190",
-          "affiliation": null
-        },
-        {
-          "name": "Yaru Wei",
-          "author_id": "2387739719",
-          "affiliation": null
-        },
-        {
-          "name": "Rong Bao",
-          "author_id": "2284043664",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaohan Sun",
-          "author_id": "2387645292",
-          "affiliation": null
-        },
-        {
-          "name": "Shaoli Wang",
-          "author_id": "2117148522",
-          "affiliation": null
-        },
-        {
-          "name": "Wei Lu",
-          "author_id": "2204465727",
-          "affiliation": null
-        },
-        {
-          "name": "Guang-Yin Xu",
-          "author_id": "2303426107",
-          "affiliation": null
-        },
-        {
-          "name": "Yi-Quan Tang",
-          "author_id": "2251750060",
-          "affiliation": null
-        },
-        {
-          "name": "Shumin Duan",
-          "author_id": "2387454610",
-          "affiliation": null
-        },
-        {
-          "name": "Jinfei D. Ni",
-          "author_id": "2387826749",
+          "name": "Z. Chen",
+          "author_id": "2241865328",
           "affiliation": null
         }
       ],
-      "abstract": "Sensory afferents are major interoceptive pathways for organ-brain communication. Within the distal colon, dorsal root ganglia (DRGs) afferents regulate key gut physiology. Inflammation causes hypersensitivity of DRG pathways, leading to visceral pain. However, whether enteric neurons contribute to interoception and visceral pain remains unclear. Here, we surveyed the DRG innervation along the gastrointestinal tract in mice and found extensive associations between DRG terminals and enteric neurons. Optogenetic activation of different DRG terminals in the distal colon elicited variable degrees of behavioral responses, but only designated subpopulations induced aversion. Notably, optogenetic activation of colon cholinergic, but not nitrergic, enteric neurons signaled through the DRG-spinal pathway to evoke a non-aversive nociceptive-like reflex. Acetylcholine is part of the enteric-DRG signaling. Remarkably, inflammation shifted the nature of the enteric-DRG pathway from non-aversive to aversive. These findings expand the previous understanding of DRG-mediated visceral sensation, highlighting the contribution of enteric neuron-DRG communication to inflammation-induced visceral pain.",
-      "journal": "Neuron",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Emotion regulation: The role of hypnotizability and interoception.",
-      "url": "https://www.semanticscholar.org/paper/da6f3fd0a7ddb0d92f1573133d27ff05e35b178e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-14T00:00:00",
-      "date_fetched": "2026-06-21T13:45:39.553674",
-      "doi": "10.1016/j.concog.2025.103856",
-      "authors": [
-        {
-          "name": "\u017dan Zeli\u010d",
-          "author_id": "2159750444",
-          "affiliation": null
-        },
-        {
-          "name": "Gioia Giusti",
-          "author_id": "2282925501",
-          "affiliation": null
-        },
-        {
-          "name": "E. Santarcangelo",
-          "author_id": "5076410",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Hypnotizability-related differences in interoception may be relevant to emotion regulation. The present study examined the relationships between hypnotizability, interoceptive sensibility (IS) and interoceptive accuracy (IA), and the use of cognitive reappraisal and expressive suppression. One hundred and two healthy volunteers, assessed for hypnotizability, completed questionnaires assessing absorption, state anxiety, IS and emotion regulation. A portion of them (N = 62) participated in the heartbeat counting task, measuring IA. IS was positively associated with hypnotizability and cognitive reappraisal and negatively associated with expressive suppression. IA was negatively associated with hypnotizability and cognitive reappraisal and showed no relationship with expressive suppression. Mediation analysis revealed that hypnotizability indirectly positively predicted cognitive reappraisal through both IS and IA. Participants with high and low hypnotizability were more likely to use expressive suppression than participants with medium hypnotizability. Results support the role of interoception and hypnotizability in emotion regulation and may guide new clinical approaches.",
-      "journal": "Consciousness and Cognition",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Interoception vs. Exteroception: Cardiac interoception competes with tactile perception, yet also facilitates self-relevance encoding",
-      "url": "https://www.semanticscholar.org/paper/7bc2999013132babd1d2fee4c941ab26015caa10",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-15T00:00:00",
-      "date_fetched": "2026-06-21T13:45:39.553698",
-      "doi": "10.1073/pnas.2516229122",
-      "authors": [
-        {
-          "name": "Marie Loescher",
-          "author_id": "2368818041",
-          "affiliation": null
-        },
-        {
-          "name": "Patrick Haggard",
-          "author_id": "2265612016",
-          "affiliation": null
-        },
-        {
-          "name": "C. Tallon-Baudry",
-          "author_id": "1401740051",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Internal bodily signals, notably the heartbeat, influence our perception of the external world \u2013 but the nature of this influence remains unclear. Different frameworks, originating in opposing views of the function of interoception, have developed largely in parallel. One line of evidence (Internal/External Competition) indicates that interoceptive and exteroceptive inputs compete for neural resources. Another line (Self-related Facilitation) shows a link between interoceptive and self-related processing, which might include computing the self-relevance of exteroceptive inputs. We contrasted these accounts within a single experimental task for which they yielded distinct predictions. We measured heartbeat-evoked potentials (HEPs, a measure of cardiac interoception) with EEG, and manipulated the self-relevance of an audio-tactile stimulus by placing the audio source either inside or outside the peripersonal space immediately around the body. On one hand, pre-stimulus HEP amplitudes over somatosensory cortex were linked to slower reaction times, and affected audio-tactile stimulus-evoked responses in the same area, indicating competition for shared neural resources. On the other hand, pre-stimulus HEPs over integrative sensorimotor and default-mode network regions facilitated stimulus self-relevance encoding, both in reaction times and audio-tactile evoked responses. Importantly, Competition and Facilitation effects were spatially and statistically independent from each other. We therefore reconcile the two views by showing the co-existence of two independent mechanisms: one that allocates neural resources to either internal bodily signals or the external world, and another by which interoception and exteroception are combined to determine the self-relevance of external signals. Our results highlight the multi-dimensionality of HEPs, and of internal states more generally. Significance Statement Do internal bodily signals distract us from the external world (Internal/External Competition account)? Or do internal signals contribute to conscious perception, by situating the perceived external world relative to the organism (Self-related Facilitation account)? So far, both accounts \u2013 reflecting fundamentally different views of brain-body interactions \u2013 received experimental support, but have never been compared directly. We measured neural responses to heartbeats, and tested how they influenced perception in an audio-tactile reaction time task where self-relevance was manipulated. We found evidence for both accounts, reflecting independent mechanisms in distinct brain regions. Our results reconcile two hitherto independent and seemingly contradictory research programmes on the relationship between interoception and exteroception. They further highlight the multi-dimensionality of cardiac-brain interactions, and hence of internal state.",
-      "journal": "bioRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Integrating yoga as a holistic intervention in male infertility management: improved sperm parameters and stress reduction: a case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42321822/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-19T00:00:00",
-      "date_fetched": "2026-06-21T13:46:02.109273",
-      "doi": "10.1186/s13256-026-06270-x",
-      "authors": [
-        {
-          "name": "Anjali Yadav",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Prabhakar Tiwari",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richa Mishra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rajeev Kumar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rima Dada",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Male infertility, particularly severe oligozoospermia, presents a significant challenge in reproductive health, often associated with high oxidative stress and poor lifestyle practices. This case report highlights the potential therapeutic role of a structured yoga regimen in improving semen quality, reducing stress, and enhancing quality of life in a male with long-standing infertility. The novelty lies in documenting comprehensive improvements across semen parameters and psychological well-being following a nonpharmacological intervention. CASE PRESENTATION: A 30-year-old Indian male diagnosed with severe oligozoospermia presented with a four-year history of primary infertility. His 30-year-old Indian female partner had no identifiable reproductive abnormalities. The couple sought consultation at a tertiary care centre. The male patient reported a high-stress lifestyle due to his occupation as an architectural researcher involving extensive travel and irregular routines. He underwent a six-month structured yoga intervention (five days per week) comprising guided sessions involving breathing exercises, meditation, and specific physical postures, supervised by a certified yoga therapist. Pre- and post-intervention assessments included semen analysis, sperm DNA integrity, oxidative stress markers in seminal fluid, and quality of life using a standardized assessment tool. Post-intervention, the patient exhibited notable improvements in semen parameters, including increased sperm count and motility, reduced morphological abnormalities, and decreased seminal oxidative stress levels leading to sperm DNA fragmentation index decline. Improvements were also observed in quality-of-life scores across physical, psychological, social, and environmental domains. Following these outcomes, intrauterine insemination was advised as a fertility treatment option. CONCLUSIONS: This case illustrates the potential of yoga as an adjunctive, noninvasive therapy for managing male infertility, particularly in individuals with stress-related reproductive dysfunction. The structured yoga program led to substantial improvement in semen quality and quality of life, suggesting a mind-body connection that may influence reproductive health. This single case provides preliminary insight into the potential link between lifestyle factors and reproductive health, though broader studies are required. Further studies involving larger cohorts are needed to validate and expand upon these promising results.",
-      "journal": "Journal of medical case reports",
+      "abstract": "Mysticism refers to extraordinary experiences that transcend perceived reality and transform the individual. Section 1 introduces key features such as noetic and ineffable qualities, alongside psychological typologies and a fourfold hierarchy of mystical forms. Section 2 explores monistic mysticism, where self and ultimate reality merge in oneness and ego-dissolution, illustrated through perennial philosophy and its critiques. Section 3 examines nondualistic mysticism, in which the self remains distinct yet is absorbed into a transcendent order, exemplified in world religions where ego yields to the divine. Section 4 discusses dualistic mysticism, where the self encounters a separate nonhuman reality, often expressed through shamanism, spiritist visions, and psychedelic states. Section 5 presents pluralistic mysticism, emphasizing multiple dimensions of self and reality, integrating embodied and spiritual aspects, and drawing on nonphysicalism and parapsychology. Section 6 synthesizes these perspectives, stressing that transcendent realities require self-transformation and that mystical insights can inform daily life across culture.",
+      "journal": "",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "ego dissolution"
+      ]
     },
     {
-      "title": "Comprehensive review on the benefits and physiological basis of yoga.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42058806/",
+      "title": "Ketamine combined with psychotherapy for treatment-resistant depression: Real-world outcomes and the role of subjective experience.",
+      "url": "https://www.semanticscholar.org/paper/a79ead38843b86024b7ffe48771cb5b597cbc773",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-01T00:00:00",
+      "date_fetched": "2026-06-22T16:25:37.271809",
+      "doi": "10.1016/j.genhosppsych.2026.02.001",
+      "authors": [
+        {
+          "name": "R. Cohen",
+          "author_id": "2292963337",
+          "affiliation": null
+        },
+        {
+          "name": "J. Bastos",
+          "author_id": "2317302627",
+          "affiliation": null
+        },
+        {
+          "name": "Catarina Cunha",
+          "author_id": "2358902485",
+          "affiliation": null
+        },
+        {
+          "name": "Miriam Marguilho",
+          "author_id": "2296262753",
+          "affiliation": null
+        },
+        {
+          "name": "A. Sancho",
+          "author_id": "2068579161",
+          "affiliation": null
+        },
+        {
+          "name": "Maria Jo\u00e3o Matos Silva",
+          "author_id": "2411738035",
+          "affiliation": null
+        },
+        {
+          "name": "Franklin King",
+          "author_id": "2321916492",
+          "affiliation": null
+        },
+        {
+          "name": "Pedro Castro-Rodrigues",
+          "author_id": "2357236303",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Ketamine, an N-methyl-d-aspartate antagonist, shows promise for treatment-resistant depression (TRD), with psychedelic doses potentially enhancing efficacy. However, its transient antidepressant effects and the need for repeated infusions raise concerns about optimal duration and long-term safety. Two clinical trials have tested the combination of ketamine with psychotherapy for depression, with mixed results. While real-world data on ketamine infusion protocols exist, reports on clinical outcomes, long-term follow-up, and the role of subjective experiences when ketamine is combined with psychotherapy are limited. This real-world case series examines 12 TRD patients treated with a novel protocol combining ketamine (0.5-1.5\u00a0mg/kg IM, total 5-8 sessions) and brief psychodynamic psychotherapy. Response and remission rates were 67% and 58%, respectively, with 50% maintaining remission at 3-month and 1-year follow-ups. Ego dissolution during session 3 correlated with symptom improvement and psychological insight. Our results highlight the therapeutic potential of combining ketamine with psychotherapy to optimize clinical outcomes.",
+      "journal": "General Hospital Psychiatry",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "Liberation mathematics I: the behavioral and consciousness definition of perpetual self-transcendence",
+      "url": "https://www.semanticscholar.org/paper/be79db733c1979f7eca08cc5d942b9120c3c16b4",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-04T00:00:00",
+      "date_fetched": "2026-06-22T16:25:37.271829",
+      "doi": "10.3389/fpsyg.2026.1741096",
+      "authors": [
+        {
+          "name": "Swapan Samanta",
+          "author_id": "2199538812",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Traditional definitions of liberation (such as moksha, nirvana, and kaivalya) across Hindu, Buddhist, and Jain philosophical traditions have remained empirically underspecified and conceptually divergent for over 2,500\u202fyears. This study proposes an operational definition of liberation asperpetual self-transcendence through infinite domain expansion, characterized by the inability to fix one\u2019s identity in any achieved position. The framework employs mathematical formalization of behavioral observables, comparative analysis across six traditions, and empirically testable criteria, including the Liberation Coefficient (LC) and Self-Transcendence Rate (STR). The model resolves five traditional controversies by demonstrating liberation as: (1) process rather than state, (2) ego fluidity rather than dissolution, (3) mandatory world engagement, (4) simultaneous requirement of all paths, and (5) both sudden recognition and continuous application. This framework may provide a foundation for systematic empirical investigation of consciousness liberation, establishing Liberation Science (Liberology) as a measurable behavioral and consciousness phenomenon.",
+      "journal": "Frontiers in Psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "Transcendental Realities: A Study of Mok\u1e63a and Fan\u0101\u02be in the Search for Divine Unity",
+      "url": "https://www.semanticscholar.org/paper/aa62211b46f4842f73b31311cde866e72d957a31",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-30T00:00:00",
+      "date_fetched": "2026-06-22T16:25:37.271904",
+      "doi": "10.33227/auifd.1745532",
+      "authors": [
+        {
+          "name": "Mehmet Masato\u011flu",
+          "author_id": "2304685598",
+          "affiliation": null
+        },
+        {
+          "name": "Bayram Polat",
+          "author_id": "2396118157",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study presents a comparative investigation of the notions of mok\u1e63a (Liberation) in Advaita Ved\u0101nta, as interpreted by \u015aa\u1e45kar\u0101c\u0101rya, and fan\u0101\u02be (Annihilation of the Self) in Sufism, as explained by Mawl\u0101n\u0101 Jal\u0101l al-D\u012bn R\u016bm\u012b. The research portrays mok\u1e63a as the ultimate realization of the individual self\u2019s (\u0101tman) identity with the universal absolute reality, Brahman. This state is achieved through enlightenment and the dispelling of ignorance (avidy\u0101), representing a profound awakening to metaphysical truth. In contrast, fan\u0101\u02be is depicted as the complete dissolution of the individual ego (nafs) in the presence of the Divine. It signifies a state of \u201cnon-existence\u201d or annihilation, attained via intense love and mystical experience, where the seeker is effaced while the Divine Essence (Dh\u0101t) remains distinct. Both concepts aim for transcending the individual self and establishing a profound connection with the Divine. However, they define this goal differently: Mok\u1e63a emphasizes knowledge and realization of an underlying metaphysical unity, whereas Fan\u0101\u02be stresses the experiential path of love and surrender. The study highlights the distinct yet intersecting trajectories of these two traditions \u2013 Ved\u0101nta and Sufism \u2013 in their quest for divine union. It underscores their shared objective of moving beyond the limited individual self to attain a higher spiritual consciousness. Drawing on philosophical discourse, scriptural interpretations, and the mystical poetry of figures like R\u016bm\u012b, this analysis offers a comprehensive understanding of profound spiritual journeys. It thereby contributes vital insights to the fields of religious studies and comparative mysticism.",
+      "journal": "Ankara \u00dcniversitesi \u0130lahiyat Fak\u00fcltesi Dergisi",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "Eating competence trajectories of persons with metabolic syndrome over two years: A secondary analysis of the ELM lifestyle intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42322993/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-20T00:00:00",
-      "date_fetched": "2026-06-21T13:46:02.109845",
-      "doi": "10.5662/wjm.v16.i2.114072",
+      "date_fetched": "2026-06-22T16:26:04.755017",
+      "doi": "10.1016/j.appet.2026.108691",
       "authors": [
         {
-          "name": "Ajaya Kumar Ayyappan Unnithan",
+          "name": "Barbara Lohse",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kirstie M Herb Neff",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ellyn Satter",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nicole Trabold",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lynda Powell",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lisa Bailey-Davis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bong Nguyen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth Hill Ruder",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jacinda Nicklas",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Yoga is widely considered as a method to improve psychological and physiological status of humans. A review is done about the benefits of yoga from the literature in modern medicine. The common benefits are in physical fitness, mental state, attention, processing speed, memory, cognitive functions and executive functions. Studies have demonstrated the benefits of yoga in metabolic syndrome with reduction of blood sugar, cholesterol, and hypertension. Yoga reduces the age-related deterioration in cardiovascular functions, improves cardiac performance, and makes pulmonary function better. The physiologic mechanisms of yoga are reduction of stress and inflammation, increased gray matter volume, improved neural network flexibility, and reorganization of attentional network. Several studies showed that yogic practices down-regulate the hypothalamopituitary adrenal axis and the sympathetic nervous system. Recent clinical ",
-      "journal": "World journal of methodology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Emotional and Behavioral Effects of an Online Self-Reflective Meditation Program in Youth With ADHD: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42319290/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-19T00:00:00",
-      "date_fetched": "2026-06-21T13:46:02.110004",
-      "doi": "10.1177/13591045261462248",
-      "authors": [
-        {
-          "name": "Seung Ah Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "MiRa Yun",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hani Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "In-Soo Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "In Sook Jang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Soon-Beom Hong",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BackgroundChildren and adolescents with attention deficit hyperactivity disorder (ADHD) often experience comorbid emotional and behavioral difficulties, yet evidence for meditation-based interventions remains limited. This randomized controlled trial evaluated the effectiveness of an online self-reflective meditation program (True Self Meditation; TSM) on emotional, behavioral, and attentional outcomes in youth with ADHD.MethodsForty youth with ADHD were randomly assigned to a 12-week online TSM program or a wait-list control group. Assessments were conducted at pre-intervention, post-intervention, and 12-week follow-up using standardized questionnaires (the Child Behavior Checklist, Youth Self-Report, State-Trait Anxiety Inventory for Children, and etc.) and neurocognitive tests including the Continuous Performance Test (CPT).ResultsBetween-group analyses revealed no significant improvements on externalizing or internalizing problems. However, the TSM group showed a significant and sustained reduction in trait anxiety. Within-group pooled analyses indicated additional improvements in self-reported internalizing problems (delayed effect) and commission errors on the CPT, accompanied by increased response times, suggesting more deliberate responding.ConclusionsTSM exhibited selective effects on internal emotional processes, particularly trait anxiety, rather than on externally observable behavioral symptoms. These findings suggest that TSM may serve as a complementary intervention for anxiety-related difficulties in youth with ADHD, warranting further investigation in larger controlled trials.",
-      "journal": "Clinical child psychology and psychiatry",
+      "abstract": "Eating competence (EatC) is an approach to eating that aligns with health outcomes also targeted in remission of metabolic syndrome (MetS). This study examined change in EatC and the relationship to MetS status and psychosocial characteristics. This is a secondary analysis of biopsychosocial data collected during The Enhancing Lifestyles for Metabolic Syndrome (MetS) trial, a randomized controlled trial that aimed for MetS remission over a 6-month lifestyle-intensive intervention and 18-month follow-up. The repeated measures analysis compared habit-based intensive intervention (n=227) and education comparator (n=239) EatC trajectories and examined biopsychosocial correlates of EatC change. Eligible participants (n=466) completed four clinical trial measurement cycles. EatC significantly increased over the two-year period (30.1 0.3 to 32.1 0.4; P<0.001) and when controlling for most biopsychosocial factors, but not for stress or BMI. Baseline to six-month to end of trial trajectories differed by treatment group (P=0.006). with greater gains by six months but maintained to end of trial for the intervention (29.7 0.5 to 32.0 0.5 to 32.0 0.5, respectively). The comparator trajectory of gains was more gradual, (30.5 0.5 to 31.3 0.5 to 32.2 0.5). Changes in biopsychosocial measures (e.g. mindfulness, stress, physical activity habit) were significantly correlated, in a healthful direction, with EatC change. EatC improvement was significantly greater for persons with MetS remission at the end of the trial. MetS severity index decreased more for those whose EatC score increased and for those randomized to the intervention. Each treatment arm demonstrated at least 30% congruence with EatC tenets. Findings demonstrated EatC improvement over time, in tandem with a remission of the MetS and suggest explicit inclusion of EatC attributes in lifestyle program development.",
+      "journal": "Appetite",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
