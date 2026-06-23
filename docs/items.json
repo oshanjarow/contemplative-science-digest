@@ -1,248 +1,467 @@
 {
-  "generated_at": "2026-06-22T16:26:05.852514",
+  "generated_at": "2026-06-23T14:23:58.981253",
   "papers": [
     {
-      "title": "Active Inference, Computational Phenomenology, and Advanced Meditation: Toward the Formalization of the Experience of Meditation.",
-      "url": "https://www.semanticscholar.org/paper/79e844d4fbb37657f2ca993a98fe19c3ff26c7f8",
+      "title": "A meta-analytic review of child maltreatment and interoception",
+      "url": "https://www.semanticscholar.org/paper/44740d241a246e443fae70d3471709a25b76d22b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-12-01T00:00:00",
-      "date_fetched": "2026-06-22T16:25:12.864123",
-      "doi": "10.1016/j.neubiorev.2025.106539",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-06-23T14:23:35.217190",
+      "doi": "10.1038/s44220-025-00456-w",
       "authors": [
         {
-          "name": "Hagar Tal",
-          "author_id": "2401950219",
+          "name": "Julia Ditzer",
+          "author_id": "2210627423",
           "affiliation": null
         },
         {
-          "name": "Malcolm Wright",
-          "author_id": "2312747381",
+          "name": "C. Woll",
+          "author_id": "2072145531",
           "affiliation": null
         },
         {
-          "name": "Shawn Prest",
-          "author_id": "2401950419",
+          "name": "C. Burger",
+          "author_id": "2370717899",
           "affiliation": null
         },
         {
-          "name": "Lars Sandved-Smith",
-          "author_id": "2269374655",
+          "name": "Alisa Ernst",
+          "author_id": "2370717054",
           "affiliation": null
         },
         {
-          "name": "M. Sacchet",
-          "author_id": "2324309146",
+          "name": "Ilka Boehm",
+          "author_id": "2370714186",
+          "affiliation": null
+        },
+        {
+          "name": "S. Garthus-Niegel",
+          "author_id": "2352429421",
+          "affiliation": null
+        },
+        {
+          "name": "A. Zietlow",
+          "author_id": "6352389",
           "affiliation": null
         }
       ],
-      "abstract": "Computational phenomenology has emerged as a powerful framework for investigating advanced meditation states and stages, and meditative development and endpoints. Various models have been proposed to mechanistically explain the diverse experiences associated with these practices, including enhanced well-being, shifts in attentional control, the loosening or 'defabrication' of perceptual constructions, as well as minimal phenomenal experiences and transformative meditative endpoints such as cessations. However, these models have developed in disparate directions, and an integrative understanding of the underlying mechanisms remains elusive. This review examines how computational models attempt to account for the phenomenology of advanced meditation, with a particular focus on Active Inference as a modeling framework. We identify precision weighting, the confidence attributed to different model parameters, as a common mechanism across models, shaping experiential shifts. Furthermore, we observe a marked difference between early models, which emphasize top-down attentional modulation toward interoception or specific focus objects, and later models which center on layer-specific precision re-weighting within the meditator's hierarchical generative model and target more specific phenomenology. These differences arise from variations in the models' aims, scope, and definitions of contemplative practice. Despite increased interest in minimal phenomenal experience, related states and formal endpoints such as nonduality and cessations remain largely unaddressed. Few models tackle reported increases in cognitive flexibility and learning from meditation, while fundamental mechanisms behind informal practice and affective processes, and processes underlying compassion traditions, remain underexplored. Addressing these gaps is crucial for refining computational models of advanced meditation and informing our understanding of its cognitive, affective, and experiential effects.",
-      "journal": "Neuroscience and Biobehavioral Reviews",
+      "abstract": null,
+      "journal": "Nature Mental Health",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "interoception contemplative"
       ]
     },
     {
-      "title": "The Psychology of Mysticism",
-      "url": "https://www.semanticscholar.org/paper/96b27bfaa7cd57ae872ae459cd311f3805382f4d",
+      "title": "Interoception as a central mechanism in Whole Person Health",
+      "url": "https://www.semanticscholar.org/paper/b9a9b5e6a4727bb0c3c4437adc43ecc2f9ca59cd",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-01-27T00:00:00",
-      "date_fetched": "2026-06-22T16:25:37.271712",
-      "doi": "10.1017/9781009420860",
+      "date_published": "2025-11-01T00:00:00",
+      "date_fetched": "2026-06-23T14:23:35.217200",
+      "doi": "10.1371/journal.pbio.3003487",
       "authors": [
         {
-          "name": "Z. Chen",
-          "author_id": "2241865328",
+          "name": "Wen G Chen",
+          "author_id": "2190300672",
+          "affiliation": null
+        },
+        {
+          "name": "Helene M. Langevin",
+          "author_id": "2085183962",
           "affiliation": null
         }
       ],
-      "abstract": "Mysticism refers to extraordinary experiences that transcend perceived reality and transform the individual. Section 1 introduces key features such as noetic and ineffable qualities, alongside psychological typologies and a fourfold hierarchy of mystical forms. Section 2 explores monistic mysticism, where self and ultimate reality merge in oneness and ego-dissolution, illustrated through perennial philosophy and its critiques. Section 3 examines nondualistic mysticism, in which the self remains distinct yet is absorbed into a transcendent order, exemplified in world religions where ego yields to the divine. Section 4 discusses dualistic mysticism, where the self encounters a separate nonhuman reality, often expressed through shamanism, spiritist visions, and psychedelic states. Section 5 presents pluralistic mysticism, emphasizing multiple dimensions of self and reality, integrating embodied and spiritual aspects, and drawing on nonphysicalism and parapsychology. Section 6 synthesizes these perspectives, stressing that transcendent realities require self-transformation and that mystical insights can inform daily life across culture.",
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Ketamine combined with psychotherapy for treatment-resistant depression: Real-world outcomes and the role of subjective experience.",
-      "url": "https://www.semanticscholar.org/paper/a79ead38843b86024b7ffe48771cb5b597cbc773",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-06-22T16:25:37.271809",
-      "doi": "10.1016/j.genhosppsych.2026.02.001",
-      "authors": [
-        {
-          "name": "R. Cohen",
-          "author_id": "2292963337",
-          "affiliation": null
-        },
-        {
-          "name": "J. Bastos",
-          "author_id": "2317302627",
-          "affiliation": null
-        },
-        {
-          "name": "Catarina Cunha",
-          "author_id": "2358902485",
-          "affiliation": null
-        },
-        {
-          "name": "Miriam Marguilho",
-          "author_id": "2296262753",
-          "affiliation": null
-        },
-        {
-          "name": "A. Sancho",
-          "author_id": "2068579161",
-          "affiliation": null
-        },
-        {
-          "name": "Maria Jo\u00e3o Matos Silva",
-          "author_id": "2411738035",
-          "affiliation": null
-        },
-        {
-          "name": "Franklin King",
-          "author_id": "2321916492",
-          "affiliation": null
-        },
-        {
-          "name": "Pedro Castro-Rodrigues",
-          "author_id": "2357236303",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Ketamine, an N-methyl-d-aspartate antagonist, shows promise for treatment-resistant depression (TRD), with psychedelic doses potentially enhancing efficacy. However, its transient antidepressant effects and the need for repeated infusions raise concerns about optimal duration and long-term safety. Two clinical trials have tested the combination of ketamine with psychotherapy for depression, with mixed results. While real-world data on ketamine infusion protocols exist, reports on clinical outcomes, long-term follow-up, and the role of subjective experiences when ketamine is combined with psychotherapy are limited. This real-world case series examines 12 TRD patients treated with a novel protocol combining ketamine (0.5-1.5\u00a0mg/kg IM, total 5-8 sessions) and brief psychodynamic psychotherapy. Response and remission rates were 67% and 58%, respectively, with 50% maintaining remission at 3-month and 1-year follow-ups. Ego dissolution during session 3 correlated with symptom improvement and psychological insight. Our results highlight the therapeutic potential of combining ketamine with psychotherapy to optimize clinical outcomes.",
-      "journal": "General Hospital Psychiatry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Liberation mathematics I: the behavioral and consciousness definition of perpetual self-transcendence",
-      "url": "https://www.semanticscholar.org/paper/be79db733c1979f7eca08cc5d942b9120c3c16b4",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-04T00:00:00",
-      "date_fetched": "2026-06-22T16:25:37.271829",
-      "doi": "10.3389/fpsyg.2026.1741096",
-      "authors": [
-        {
-          "name": "Swapan Samanta",
-          "author_id": "2199538812",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Traditional definitions of liberation (such as moksha, nirvana, and kaivalya) across Hindu, Buddhist, and Jain philosophical traditions have remained empirically underspecified and conceptually divergent for over 2,500\u202fyears. This study proposes an operational definition of liberation asperpetual self-transcendence through infinite domain expansion, characterized by the inability to fix one\u2019s identity in any achieved position. The framework employs mathematical formalization of behavioral observables, comparative analysis across six traditions, and empirically testable criteria, including the Liberation Coefficient (LC) and Self-Transcendence Rate (STR). The model resolves five traditional controversies by demonstrating liberation as: (1) process rather than state, (2) ego fluidity rather than dissolution, (3) mandatory world engagement, (4) simultaneous requirement of all paths, and (5) both sudden recognition and continuous application. This framework may provide a foundation for systematic empirical investigation of consciousness liberation, establishing Liberation Science (Liberology) as a measurable behavioral and consciousness phenomenon.",
-      "journal": "Frontiers in Psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Transcendental Realities: A Study of Mok\u1e63a and Fan\u0101\u02be in the Search for Divine Unity",
-      "url": "https://www.semanticscholar.org/paper/aa62211b46f4842f73b31311cde866e72d957a31",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-11-30T00:00:00",
-      "date_fetched": "2026-06-22T16:25:37.271904",
-      "doi": "10.33227/auifd.1745532",
-      "authors": [
-        {
-          "name": "Mehmet Masato\u011flu",
-          "author_id": "2304685598",
-          "affiliation": null
-        },
-        {
-          "name": "Bayram Polat",
-          "author_id": "2396118157",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study presents a comparative investigation of the notions of mok\u1e63a (Liberation) in Advaita Ved\u0101nta, as interpreted by \u015aa\u1e45kar\u0101c\u0101rya, and fan\u0101\u02be (Annihilation of the Self) in Sufism, as explained by Mawl\u0101n\u0101 Jal\u0101l al-D\u012bn R\u016bm\u012b. The research portrays mok\u1e63a as the ultimate realization of the individual self\u2019s (\u0101tman) identity with the universal absolute reality, Brahman. This state is achieved through enlightenment and the dispelling of ignorance (avidy\u0101), representing a profound awakening to metaphysical truth. In contrast, fan\u0101\u02be is depicted as the complete dissolution of the individual ego (nafs) in the presence of the Divine. It signifies a state of \u201cnon-existence\u201d or annihilation, attained via intense love and mystical experience, where the seeker is effaced while the Divine Essence (Dh\u0101t) remains distinct. Both concepts aim for transcending the individual self and establishing a profound connection with the Divine. However, they define this goal differently: Mok\u1e63a emphasizes knowledge and realization of an underlying metaphysical unity, whereas Fan\u0101\u02be stresses the experiential path of love and surrender. The study highlights the distinct yet intersecting trajectories of these two traditions \u2013 Ved\u0101nta and Sufism \u2013 in their quest for divine union. It underscores their shared objective of moving beyond the limited individual self to attain a higher spiritual consciousness. Drawing on philosophical discourse, scriptural interpretations, and the mystical poetry of figures like R\u016bm\u012b, this analysis offers a comprehensive understanding of profound spiritual journeys. It thereby contributes vital insights to the fields of religious studies and comparative mysticism.",
-      "journal": "Ankara \u00dcniversitesi \u0130lahiyat Fak\u00fcltesi Dergisi",
+      "abstract": "Interoception may be a key mechanism in \u201cWhole Person Health.\u201d More and better technologies, tools, and mechanistic research are needed to fully understand its role, as well as new interventions to promote healthy physiological self-regulation through interoceptive signals.",
+      "journal": "PLoS Biology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "interoception contemplative"
       ]
     },
     {
-      "title": "Eating competence trajectories of persons with metabolic syndrome over two years: A secondary analysis of the ELM lifestyle intervention.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42322993/",
+      "title": "Breaking through the mind-body divide: patient priorities for interoception research",
+      "url": "https://www.semanticscholar.org/paper/8a44fb2cc2bfb75b918aa8b744354e2356a78cd5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-31T00:00:00",
+      "date_fetched": "2026-06-23T14:23:35.217215",
+      "doi": "10.1016/j.eclinm.2025.103183",
+      "authors": [
+        {
+          "name": "Lydia J. Hickman",
+          "author_id": "2353741966",
+          "affiliation": null
+        },
+        {
+          "name": "Gabriel Mackie",
+          "author_id": "2217436583",
+          "affiliation": null
+        },
+        {
+          "name": "Beth F Longley",
+          "author_id": "2353738255",
+          "affiliation": null
+        },
+        {
+          "name": "Hannah S. Savage",
+          "author_id": "2353739341",
+          "affiliation": null
+        },
+        {
+          "name": "Emily Bagley",
+          "author_id": "2353739282",
+          "affiliation": null
+        },
+        {
+          "name": "Hugo Fleming",
+          "author_id": "2071797768",
+          "affiliation": null
+        },
+        {
+          "name": "R. Knight",
+          "author_id": "2250084008",
+          "affiliation": null
+        },
+        {
+          "name": "Isabel Lau",
+          "author_id": "2353738369",
+          "affiliation": null
+        },
+        {
+          "name": "Annalise Whines",
+          "author_id": "2353738372",
+          "affiliation": null
+        },
+        {
+          "name": "Sarah N. Garfinkel",
+          "author_id": "2301552881",
+          "affiliation": null
+        },
+        {
+          "name": "Camilla L. Nord",
+          "author_id": "2353739071",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Summary Background Interoception\u2014sensation, interpretation, and prediction of bodily signals\u2014is reliably disrupted across a wide range of mental health conditions. A growing body of evidence suggests that interoception is a putative mechanism, or \u2018active ingredient\u2019, of effective psychological and pharmacological treatments. Anecdotally, patients with psychiatric disorders report differences in bodily experiences. However, formal priority setting by people with lived experience of mental health conditions has so far been overlooked in this rapidly expanding research area. Methods This article takes a mixed-methods approach to investigate experiences of bodily signals in individuals with mental health conditions and determine patients' research priorities. We recruited two UK samples in the context of an in-person workshop (N = 25) and online (N = 47), between April and July 2024. All contributors had a diagnosis of at least one mental health condition. Using a combination of written contributions and small group discussions, we explored the most relevant bodily sensations for patients\u2019 mental health, how bodily sensations were experienced by patients, and which research priorities were considered most important. Findings Patients\u2019 contributions emphasised the multimodal nature of interoception, in particular the importance of less frequently studied modalities such as the stomach and muscle tension, as well as the need to consider the causes and consequences of distressing bodily sensations. We summarise ten key research priorities for patients, spanning three themes: causes, management, and clinical/research approach to interoception in mental health. These priorities include investigating the impact of bodily signals on social contexts, techniques to manage distressing signals, and a shift of approach towards integrating mental and physical health in clinical/research settings. Interpretation Together, this broad scoping study establishes new, transdiagnostic, patient-led priorities for the developing field of interoception in psychiatry to ensure future research focusses on the areas of greatest impact for people with mental health conditions. Funding This work was supported by a Wellcome Mental Health award to C.L.N. and S.G. (226778/Z/22/Z), intramural funding from the 10.13039/501100000265UK Medical Research Council (MC/UU/00030/12), and a Wellcome Career Development Award to C.L.N. (226490/Z/22/Z). G.M. is funded by an ESRC DTP Studentship (RG84395). This research was also supported by the 10.13039/501100018956NIHR Cambridge Biomedical Research Centre (BRC-1215-20014).",
+      "journal": "EClinicalMedicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
+    },
+    {
+      "title": "Experiences of interoception and anxiety in autistic adolescents: A reflexive thematic analysis",
+      "url": "https://www.semanticscholar.org/paper/6bfd4023c849352544ddb72a19e23381472d0b76",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-14T00:00:00",
+      "date_fetched": "2026-06-23T14:23:35.217227",
+      "doi": "10.1177/13623613251314595",
+      "authors": [
+        {
+          "name": "Adams Kiera",
+          "author_id": "2350328134",
+          "affiliation": null
+        },
+        {
+          "name": "Smith Jonahs",
+          "author_id": "2350338392",
+          "affiliation": null
+        },
+        {
+          "name": "Brown Mary",
+          "author_id": "2350327112",
+          "affiliation": null
+        },
+        {
+          "name": "B. Geoffrey",
+          "author_id": "71939709",
+          "affiliation": null
+        },
+        {
+          "name": "Waite Polly",
+          "author_id": "2350327088",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Most autistic adolescents experience anxiety. Interoception, defined as one\u2019s ability to detect and interpret bodily signals, might contribute to this. The aim of this exploratory, qualitative study was to gain a better understanding of interoceptive experiences in autistic adolescents and how this relates to anxiety. Semi-structured 1:1 interviews were conducted with 13 UK-based, autistic adolescents, aged 14\u201317 years, who reported experiencing significant, day-to-day anxiety. Interviews were analysed using a reflexive thematic analysis approach. Interoception appeared relevant to experiences of anxiety in most participants, although this influence was exerted through various routes. While hypoawareness of interoceptive signals led to a reduced ability to detect and regulate anxiety, hyperawareness became overwhelming and anxiety-inducing. Overly negative evaluations of interoceptive signals, including catastrophising about the signals indicating danger, also triggered anxiety. Relationships between interoception and anxiety appeared bidirectional, with anxiety also affecting interoceptive awareness and evaluation. Interoceptive experiences were variable both across and within participants, with factors such as arousal and cognitive overload affecting experiences. Future research should focus on assessing the feasibility of interventions based on the mechanisms identified here. Lay abstract Anxiety is common in autistic adolescents. The detection and interpretation of signals coming from inside the body (e.g. heartbeat and hunger) is assumed to be related to both anxiety and autism. We interviewed 13 autistic 14- to 17-year-olds who reported experiencing significant anxiety, to explore the role that bodily signals played in their experiences of anxiety. Across most participants, there did appear to be a relationship, although the exact way it was related varied. When participants were very aware of bodily signals, they could become overwhelming, but if they were not aware at all, then it was difficult for them to notice themselves getting anxious until it was too late. If participants interpreted these signals negatively, for example, assuming the signals meant something was wrong with their body, they were also more likely to feel anxious. Whether participants were aware or negatively evaluated these signals was very variable and appeared to be context-dependent.",
+      "journal": "Autism",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
+    },
+    {
+      "title": "Long-term Aerobic Exercise Enhances Interoception and Reduces Symptoms of Depression and Anxiety in Physically Inactive Young Adults: A Randomized Controlled Trial.",
+      "url": "https://www.semanticscholar.org/paper/e7957a00494a6fc8af9ec591cfdea4472f84fb70",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-10T00:00:00",
+      "date_fetched": "2026-06-23T14:23:35.217238",
+      "doi": "10.1016/j.psychsport.2025.102939",
+      "authors": [
+        {
+          "name": "Micha\u0142 Remiszewski",
+          "author_id": "2359805203",
+          "affiliation": null
+        },
+        {
+          "name": "Gabriela Rajtar",
+          "author_id": "2359804155",
+          "affiliation": null
+        },
+        {
+          "name": "Zuzanna Komarek",
+          "author_id": "2359804249",
+          "affiliation": null
+        },
+        {
+          "name": "Tomasz Pa\u0142ka",
+          "author_id": "2301999662",
+          "affiliation": null
+        },
+        {
+          "name": "Marcin Maciejczyk",
+          "author_id": "2256901505",
+          "affiliation": null
+        },
+        {
+          "name": "Tomasz S. Ligeza",
+          "author_id": "5267865",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Physical exercise offers many health benefits, with substantial evidence supporting its positive impact on affective symptoms. An intriguing yet underexplored mechanism associated with this effect is the enhancement of interoception-the ability to perceive internal bodily sensations. We investigated the effects of long-term aerobic exercise on interoceptive accuracy (IAcc), interoceptive confidence (ICon) and symptoms of depression and anxiety. Physically inactive young adult participants were randomly assigned to either an Experimental (n = 32) or a passive Control group (n = 30). The Experimental group completed a 12-week cycling ergometer program, with the first 6 weeks consisting of moderate-intensity continuous training (MICT) followed by 6 weeks of moderate to high-intensity interval training (MIIT). IAcc and ICon was assessed through a heartbeat counting task, while symptoms of depression and anxiety were evaluated using self-reported questionnaires at baseline and after 6 and 12 weeks of intervention. The results showed a significant improvement in IAcc, ICon and affective symptoms in the Experimental group after 6 weeks of MICT compared to baseline. However, the transition to MIIT did not produce further gains. No beneficial changes in IAcc, ICon or affective symptoms were observed in the passive Control group throughout the intervention. The study highlights exercise's potential to boost interoception in physically inactive young adults and to enhance emotional well-being by improving affective symptoms.",
+      "journal": "Psychology of Sport And Exercise",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "interoception contemplative"
+      ]
+    },
+    {
+      "title": "When attention falters: Brain, breathing, and behavioral signals of lapses in interoceptive attention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332286/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-20T00:00:00",
-      "date_fetched": "2026-06-22T16:26:04.755017",
-      "doi": "10.1016/j.appet.2026.108691",
+      "date_published": "2026-06-23T00:00:00",
+      "date_fetched": "2026-06-23T14:23:57.999234",
+      "doi": "10.3758/s13415-026-01467-5",
       "authors": [
         {
-          "name": "Barbara Lohse",
+          "name": "Isaac N Treves",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kirstie M Herb Neff",
+          "name": "Clare Shaffer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ellyn Satter",
+          "name": "Alexandra L Decker",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nicole Trabold",
+          "name": "Nigel Jaffe",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lynda Powell",
+          "name": "Anna O Tierney",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lisa Bailey-Davis",
+          "name": "Randy P Auerbach",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Bong Nguyen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth Hill Ruder",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jacinda Nicklas",
+          "name": "Christian A Webb",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Eating competence (EatC) is an approach to eating that aligns with health outcomes also targeted in remission of metabolic syndrome (MetS). This study examined change in EatC and the relationship to MetS status and psychosocial characteristics. This is a secondary analysis of biopsychosocial data collected during The Enhancing Lifestyles for Metabolic Syndrome (MetS) trial, a randomized controlled trial that aimed for MetS remission over a 6-month lifestyle-intensive intervention and 18-month follow-up. The repeated measures analysis compared habit-based intensive intervention (n=227) and education comparator (n=239) EatC trajectories and examined biopsychosocial correlates of EatC change. Eligible participants (n=466) completed four clinical trial measurement cycles. EatC significantly increased over the two-year period (30.1 0.3 to 32.1 0.4; P<0.001) and when controlling for most biopsychosocial factors, but not for stress or BMI. Baseline to six-month to end of trial trajectories differed by treatment group (P=0.006). with greater gains by six months but maintained to end of trial for the intervention (29.7 0.5 to 32.0 0.5 to 32.0 0.5, respectively). The comparator trajectory of gains was more gradual, (30.5 0.5 to 31.3 0.5 to 32.2 0.5). Changes in biopsychosocial measures (e.g. mindfulness, stress, physical activity habit) were significantly correlated, in a healthful direction, with EatC change. EatC improvement was significantly greater for persons with MetS remission at the end of the trial. MetS severity index decreased more for those whose EatC score increased and for those randomized to the intervention. Each treatment arm demonstrated at least 30% congruence with EatC tenets. Findings demonstrated EatC improvement over time, in tandem with a remission of the MetS and suggest explicit inclusion of EatC attributes in lifestyle program development.",
-      "journal": "Appetite",
+      "abstract": "Mind\u2011body practices, such as meditation and yoga, involve paying attention to breathing sensations. During these practices, individuals report \"interoceptive lapses,\" moments when attention drifts away from internal bodily sensations. While lapses in attention to the external world have been widely studied, little is known about the physiological and neural mechanisms of interoceptive lapses. Interoceptive lapses may share markers with exteroceptive lapses-such as reaction time variability and default-mode network (DMN) connectivity-but may also depend on distinct brain systems and breathing physiology. We examined behavioral, physiological, and neural signals preceding lapses in a sample of 93 adolescents enriched for GAD and depression symptoms. Participants performed a 20-min breath counting task in the fMRI scanner with simultaneous breath recordings. Lapses were defined as moments when counting errors occurred. The sample was split into training and validation sets to test machine learning models predicting attentional lapses. The strongest predictors were timing and variability of button responses (AUCs > 0.75). Breathing variability and breathing-behavior synchronization showed smaller but generalizable predictive value (AUCs < 0.65). Whole-brain connectivity models also predicted lapses (AUC \u2248 0.65), incorporating the DMN, dorsal and ventral attention, and somatomotor networks. Furthermore, models that included brain connectivity marginally outperformed behavior-only models. Comparisons to previous exteroceptive findings indicate some common markers (e.g., reaction time variability) and some unique markers (e.g., selective perceptual coupling with attentional networks). Although limited by the clinical sample and lack of a control task, these results highlight brain-body markers of interoceptive attention that may inform real-time monitoring during mind-body interventions.",
+      "journal": "Cognitive, affective & behavioral neuroscience",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Preliminary Evidence of Changes in Diurnal Cortisol Following Exposure to a School-Based Curriculum Featuring Yoga and Mindfulness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42329542/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-22T00:00:00",
+      "date_fetched": "2026-06-23T14:23:57.999461",
+      "doi": "10.1007/s10578-026-02034-2",
+      "authors": [
+        {
+          "name": "Bethany H McCurdy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Carl F Weems",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Travis Bradley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ryan Matlow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Victor G Carri\u00f3n",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Research and theory suggest that neuroendocrine functioning, such as diurnal cortisol rhythms, plays an important role in emotional development and expression, but that this functioning can be impacted under conditions of elevated stress. Although mindfulness-based interventions show promise for improving emotional functioning, their effects on cortisol regulation in children remain unclear despite a solid theoretical foundation. This study provides preliminary data from a sample of children (n\u2009=\u200957; mean age\u2009=\u200910 years) on changes in diurnal cortisol rhythms associated with exposure to the Pure Power curriculum which is designed to teach youth yoga techniques, mindfulness, and emotion regulation. METHODS: A non-randomized comparison design examined outcomes and diurnal cortisol levels among participants from schools that completed the intervention (n\u2009=\u200927) and from students in comparison schools (n\u2009=\u200930) assessed at three time points approximately one year apart. RESULTS: Modeling of diurnal patterns indicated that youth in the intervention schools demonstrated a relative change in their cortisol levels at Time 2 towards a diurnal rhythm associated with less stress. CONCLUSIONS: The data provide initial evidence for an association between exposure to a yoga and mindfulness curriculum and neuroendocrine function. The conclusions are limited by the non-randomized design and small sample. Replication with randomized designs and larger samples is needed.",
+      "journal": "Child psychiatry and human development",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Neurohormonal-Immune Dysregulation in Rosacea: Emerging Perspectives from the Skin-Gut-Brain Axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42325915/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-06-23T14:23:57.999732",
+      "doi": "10.2147/DDDT.S608151",
+      "authors": [
+        {
+          "name": "Lei Shi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Siying Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaodong Yao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zijian Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qinyi Dong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Han Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xinman Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiahao Bai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Huiyan Han",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaoyi Fu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kaili Zheng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lili Liang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Rosacea is a chronic inflammatory skin disease with a global prevalence of approximately 5.1%. Existing evidence suggests that its pathogenesis may be associated with dysregulation of the neuro-hormone-immune network within the skin-gut-brain axis framework. This review summarizes the potential roles of stress hormones, sex hormones, and insulin-like growth factor-1 in the four major subtypes. In erythematotelangiectatic rosacea, glucocorticoid resistance within keratinocytes may induce CCL20-driven Th17 inflammation, while catecholamines released by sympathetic nerves are associated with neurovascular flushing. In papulopustular rosacea, androgen excess, relative estrogen deficiency, LL-37-mediated innate immune activation, and gut microbiota dysbiosis may collectively contribute to the formation of inflammatory skin lesions.In the phymatous type, insulin-like growth factor-1 and androgens may interact through the PI3K/Akt/mTOR and FoxO1 pathways, promoting sebaceous gland hyperplasia and fibrosis. Ocular rosacea is associated with gut-derived low-grade systemic inflammation and neurogenic inflammation. For treatment, \u03b2-receptor blockers such as carvedilol and selective serotonin reuptake inhibitors such as paroxetine can be used for erythematotelangiectatic rosacea; anti-androgen drugs like spironolactone and metformin may be explored for papulopustular rosacea; metformin for the phymatous type; and for ocular rosacea, topical corticosteroids can be used cautiously for a short term under ophthalmological supervision. Adjunctive interventions such as eradication of small intestinal bacterial overgrowth, a low glycemic index diet, and mindfulness-based stress reduction therapy also demonstrate potential.Taken together, existing evidence supports viewing rosacea as a systemic disease potentially mediated by the skin-gut-brain axis and characterized by dysregulation of the neuro-hormone-immune network. However, more high-quality randomized controlled trials and stratified studies guided by hormone-related biomarkers are currently needed to further validate its mechanisms and advance precision treatment.",
+      "journal": "Drug design, development and therapy",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Functional brain biomarkers of self-referential bias in remitted depressed outpatients: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330837/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-19T00:00:00",
+      "date_fetched": "2026-06-23T14:23:57.999775",
+      "doi": "10.1016/j.nicl.2026.104025",
+      "authors": [
+        {
+          "name": "Liliana C Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jordan L Livingston",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zindel V Segal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Norman A S Farb",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Negative self-referential bias (NSB) is a hallmark of depression, yet its neural signature and link to relapse vulnerability remain unclear. We investigated whether NSB and its associated neural activity predict relapse and depressive symptoms following prophylactic psychotherapy. METHODS: This is a two-year prospective neuroimaging study nested within a randomized controlled trial of Mindfulness-Based Cognitive Therapy and Cognitive Behavior Therapy with a Well-Being focus. Remitted depressed outpatients (N\u00a0=\u00a081) completed the Self-Referential Encoding Task during fMRI pre- and post-treatment and were followed bi-monthly. Study preregistration: https://osf.io/s4n8j. RESULTS: NSB predicted higher depressive symptoms (b\u00a0=\u00a00.10; 95% CI, 0.06 to 0.14; p\u00a0\u22640.001) but not relapse. Greater NSB neural activity within frontal DMN and SN was associated with relapse status (DMN: b\u00a0=\u00a00.32; 95% CI, 0.09 to 0.55; SN: b\u00a0=\u00a00.36, 95% CI, 0.09 to 0.63), whereas DMN-SN connectivity was not. Static whole brain relapse biomarkers included elevated prefrontal activation and somatosensory deactivation. In non-relapsers, treatment-related attenuation of somatosensory deactivation predicted lower risk. Subgenual reactivity was the best prefrontal relapse indicator (Hazard Ratio\u00a0=\u00a01.84, 95% CI, 1.23 to 2.77), but somatosensory deactivation was the best overall relapse indicator (Hazard Ratio\u00a0=\u00a00.16; 95% CI, 0.05 to 0.52). CONCLUSIONS: Relapse vulnerability reflects not only heightened prefrontal negative self-processing but also insufficient recruitment of somatosensory systems supporting embodied self-experience, providing a more comprehensive model of depression relapse vulnerability. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01178424.",
+      "journal": "NeuroImage. Clinical",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
