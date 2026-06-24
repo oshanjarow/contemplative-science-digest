@@ -1,308 +1,76 @@
 {
-  "generated_at": "2026-06-23T14:23:58.981253",
+  "generated_at": "2026-06-24T14:04:19.280117",
   "papers": [
     {
-      "title": "A meta-analytic review of child maltreatment and interoception",
-      "url": "https://www.semanticscholar.org/paper/44740d241a246e443fae70d3471709a25b76d22b",
+      "title": "Antidepressant-Induced Sexual Dysfunction in Adults: A Targeted Scoping Review and Clinical Update.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42333401/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-01T00:00:00",
-      "date_fetched": "2026-06-23T14:23:35.217190",
-      "doi": "10.1038/s44220-025-00456-w",
+      "source_type": "pubmed",
+      "date_published": "2026-06-24T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.554828",
+      "doi": "10.1097/JCP.0000000000002210",
       "authors": [
         {
-          "name": "Julia Ditzer",
-          "author_id": "2210627423",
+          "name": "Jonathan Zini",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "C. Woll",
-          "author_id": "2072145531",
-          "affiliation": null
-        },
-        {
-          "name": "C. Burger",
-          "author_id": "2370717899",
-          "affiliation": null
-        },
-        {
-          "name": "Alisa Ernst",
-          "author_id": "2370717054",
-          "affiliation": null
-        },
-        {
-          "name": "Ilka Boehm",
-          "author_id": "2370714186",
-          "affiliation": null
-        },
-        {
-          "name": "S. Garthus-Niegel",
-          "author_id": "2352429421",
-          "affiliation": null
-        },
-        {
-          "name": "A. Zietlow",
-          "author_id": "6352389",
+          "name": "Gustavo Turecki",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Nature Mental Health",
-      "year": 2025,
+      "abstract": "PURPOSE: To conduct a scoping review of the prevalence, risk factors, neurobiological mechanisms, and clinical management of antidepressant-induced sexual dysfunction (AISD) in adults, including emerging evidence on post-SSRI sexual dysfunction (PSSD) and potential strategies for mitigation. METHODS: A targeted scoping review with narrative synthesis was conducted using PubMed to identify English-language studies published from 2000 to 2025. A total of 65 studies were reviewed. Outcomes assessed included the frequency and severity of AISD, associated patient-related and drug-related predictors, and the reported effectiveness of pharmacologic and behavioral interventions. RESULTS: AISD appears to be a common and potentially under-recognized adverse effect of antidepressants, particularly with SSRIs and serotonin-norepinephrine reuptake inhibitors (SNRIs). Reported risk factors have been associated with higher antidepressant dose, male sex, older age, pre-existing sexual dysfunction, and greater depressive severity. Mechanistic contributors have been proposed and include serotonergic overactivation (notably 5-HT\u2082A/\u2082C receptors), dopaminergic and nitric oxide suppression, prolactin elevation, and possible epigenetic modulation, especially in cases of persistent dysfunction such as PSSD. Bupropion, mirtazapine, and agomelatine have been associated in several studies with more favorable sexual side effect profiles. Management strategies with supporting evidence have included dose reduction, switching to lower-risk agents, and augmentation with PDE5 inhibitors or bupropion. Nonpharmacologic interventions, such as exercise, psychotherapy, and mindfulness-based strategies, have shown preliminary benefit in selected studies and may serve as adjunctive options. CONCLUSIONS: AISD is a multifactorial adverse effect of antidepressant therapy that may persist in some individuals and can adversely affect quality of life and treatment adherence. Systematic assessment and individualized intervention may help mitigate impact, though optimal strategies remain incompletely defined. Increased recognition of PSSD highlights the need for further methodologically rigorous research into its pathophysiology, prevalence, and treatment.",
+      "journal": "Journal of clinical psychopharmacology",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Interoception as a central mechanism in Whole Person Health",
-      "url": "https://www.semanticscholar.org/paper/b9a9b5e6a4727bb0c3c4437adc43ecc2f9ca59cd",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-11-01T00:00:00",
-      "date_fetched": "2026-06-23T14:23:35.217200",
-      "doi": "10.1371/journal.pbio.3003487",
-      "authors": [
-        {
-          "name": "Wen G Chen",
-          "author_id": "2190300672",
-          "affiliation": null
-        },
-        {
-          "name": "Helene M. Langevin",
-          "author_id": "2085183962",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Interoception may be a key mechanism in \u201cWhole Person Health.\u201d More and better technologies, tools, and mechanistic research are needed to fully understand its role, as well as new interventions to promote healthy physiological self-regulation through interoceptive signals.",
-      "journal": "PLoS Biology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Breaking through the mind-body divide: patient priorities for interoception research",
-      "url": "https://www.semanticscholar.org/paper/8a44fb2cc2bfb75b918aa8b744354e2356a78cd5",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-31T00:00:00",
-      "date_fetched": "2026-06-23T14:23:35.217215",
-      "doi": "10.1016/j.eclinm.2025.103183",
-      "authors": [
-        {
-          "name": "Lydia J. Hickman",
-          "author_id": "2353741966",
-          "affiliation": null
-        },
-        {
-          "name": "Gabriel Mackie",
-          "author_id": "2217436583",
-          "affiliation": null
-        },
-        {
-          "name": "Beth F Longley",
-          "author_id": "2353738255",
-          "affiliation": null
-        },
-        {
-          "name": "Hannah S. Savage",
-          "author_id": "2353739341",
-          "affiliation": null
-        },
-        {
-          "name": "Emily Bagley",
-          "author_id": "2353739282",
-          "affiliation": null
-        },
-        {
-          "name": "Hugo Fleming",
-          "author_id": "2071797768",
-          "affiliation": null
-        },
-        {
-          "name": "R. Knight",
-          "author_id": "2250084008",
-          "affiliation": null
-        },
-        {
-          "name": "Isabel Lau",
-          "author_id": "2353738369",
-          "affiliation": null
-        },
-        {
-          "name": "Annalise Whines",
-          "author_id": "2353738372",
-          "affiliation": null
-        },
-        {
-          "name": "Sarah N. Garfinkel",
-          "author_id": "2301552881",
-          "affiliation": null
-        },
-        {
-          "name": "Camilla L. Nord",
-          "author_id": "2353739071",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Summary Background Interoception\u2014sensation, interpretation, and prediction of bodily signals\u2014is reliably disrupted across a wide range of mental health conditions. A growing body of evidence suggests that interoception is a putative mechanism, or \u2018active ingredient\u2019, of effective psychological and pharmacological treatments. Anecdotally, patients with psychiatric disorders report differences in bodily experiences. However, formal priority setting by people with lived experience of mental health conditions has so far been overlooked in this rapidly expanding research area. Methods This article takes a mixed-methods approach to investigate experiences of bodily signals in individuals with mental health conditions and determine patients' research priorities. We recruited two UK samples in the context of an in-person workshop (N = 25) and online (N = 47), between April and July 2024. All contributors had a diagnosis of at least one mental health condition. Using a combination of written contributions and small group discussions, we explored the most relevant bodily sensations for patients\u2019 mental health, how bodily sensations were experienced by patients, and which research priorities were considered most important. Findings Patients\u2019 contributions emphasised the multimodal nature of interoception, in particular the importance of less frequently studied modalities such as the stomach and muscle tension, as well as the need to consider the causes and consequences of distressing bodily sensations. We summarise ten key research priorities for patients, spanning three themes: causes, management, and clinical/research approach to interoception in mental health. These priorities include investigating the impact of bodily signals on social contexts, techniques to manage distressing signals, and a shift of approach towards integrating mental and physical health in clinical/research settings. Interpretation Together, this broad scoping study establishes new, transdiagnostic, patient-led priorities for the developing field of interoception in psychiatry to ensure future research focusses on the areas of greatest impact for people with mental health conditions. Funding This work was supported by a Wellcome Mental Health award to C.L.N. and S.G. (226778/Z/22/Z), intramural funding from the 10.13039/501100000265UK Medical Research Council (MC/UU/00030/12), and a Wellcome Career Development Award to C.L.N. (226490/Z/22/Z). G.M. is funded by an ESRC DTP Studentship (RG84395). This research was also supported by the 10.13039/501100018956NIHR Cambridge Biomedical Research Centre (BRC-1215-20014).",
-      "journal": "EClinicalMedicine",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Experiences of interoception and anxiety in autistic adolescents: A reflexive thematic analysis",
-      "url": "https://www.semanticscholar.org/paper/6bfd4023c849352544ddb72a19e23381472d0b76",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-14T00:00:00",
-      "date_fetched": "2026-06-23T14:23:35.217227",
-      "doi": "10.1177/13623613251314595",
-      "authors": [
-        {
-          "name": "Adams Kiera",
-          "author_id": "2350328134",
-          "affiliation": null
-        },
-        {
-          "name": "Smith Jonahs",
-          "author_id": "2350338392",
-          "affiliation": null
-        },
-        {
-          "name": "Brown Mary",
-          "author_id": "2350327112",
-          "affiliation": null
-        },
-        {
-          "name": "B. Geoffrey",
-          "author_id": "71939709",
-          "affiliation": null
-        },
-        {
-          "name": "Waite Polly",
-          "author_id": "2350327088",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Most autistic adolescents experience anxiety. Interoception, defined as one\u2019s ability to detect and interpret bodily signals, might contribute to this. The aim of this exploratory, qualitative study was to gain a better understanding of interoceptive experiences in autistic adolescents and how this relates to anxiety. Semi-structured 1:1 interviews were conducted with 13 UK-based, autistic adolescents, aged 14\u201317 years, who reported experiencing significant, day-to-day anxiety. Interviews were analysed using a reflexive thematic analysis approach. Interoception appeared relevant to experiences of anxiety in most participants, although this influence was exerted through various routes. While hypoawareness of interoceptive signals led to a reduced ability to detect and regulate anxiety, hyperawareness became overwhelming and anxiety-inducing. Overly negative evaluations of interoceptive signals, including catastrophising about the signals indicating danger, also triggered anxiety. Relationships between interoception and anxiety appeared bidirectional, with anxiety also affecting interoceptive awareness and evaluation. Interoceptive experiences were variable both across and within participants, with factors such as arousal and cognitive overload affecting experiences. Future research should focus on assessing the feasibility of interventions based on the mechanisms identified here. Lay abstract Anxiety is common in autistic adolescents. The detection and interpretation of signals coming from inside the body (e.g. heartbeat and hunger) is assumed to be related to both anxiety and autism. We interviewed 13 autistic 14- to 17-year-olds who reported experiencing significant anxiety, to explore the role that bodily signals played in their experiences of anxiety. Across most participants, there did appear to be a relationship, although the exact way it was related varied. When participants were very aware of bodily signals, they could become overwhelming, but if they were not aware at all, then it was difficult for them to notice themselves getting anxious until it was too late. If participants interpreted these signals negatively, for example, assuming the signals meant something was wrong with their body, they were also more likely to feel anxious. Whether participants were aware or negatively evaluated these signals was very variable and appeared to be context-dependent.",
-      "journal": "Autism",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Long-term Aerobic Exercise Enhances Interoception and Reduces Symptoms of Depression and Anxiety in Physically Inactive Young Adults: A Randomized Controlled Trial.",
-      "url": "https://www.semanticscholar.org/paper/e7957a00494a6fc8af9ec591cfdea4472f84fb70",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-10T00:00:00",
-      "date_fetched": "2026-06-23T14:23:35.217238",
-      "doi": "10.1016/j.psychsport.2025.102939",
-      "authors": [
-        {
-          "name": "Micha\u0142 Remiszewski",
-          "author_id": "2359805203",
-          "affiliation": null
-        },
-        {
-          "name": "Gabriela Rajtar",
-          "author_id": "2359804155",
-          "affiliation": null
-        },
-        {
-          "name": "Zuzanna Komarek",
-          "author_id": "2359804249",
-          "affiliation": null
-        },
-        {
-          "name": "Tomasz Pa\u0142ka",
-          "author_id": "2301999662",
-          "affiliation": null
-        },
-        {
-          "name": "Marcin Maciejczyk",
-          "author_id": "2256901505",
-          "affiliation": null
-        },
-        {
-          "name": "Tomasz S. Ligeza",
-          "author_id": "5267865",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Physical exercise offers many health benefits, with substantial evidence supporting its positive impact on affective symptoms. An intriguing yet underexplored mechanism associated with this effect is the enhancement of interoception-the ability to perceive internal bodily sensations. We investigated the effects of long-term aerobic exercise on interoceptive accuracy (IAcc), interoceptive confidence (ICon) and symptoms of depression and anxiety. Physically inactive young adult participants were randomly assigned to either an Experimental (n = 32) or a passive Control group (n = 30). The Experimental group completed a 12-week cycling ergometer program, with the first 6 weeks consisting of moderate-intensity continuous training (MICT) followed by 6 weeks of moderate to high-intensity interval training (MIIT). IAcc and ICon was assessed through a heartbeat counting task, while symptoms of depression and anxiety were evaluated using self-reported questionnaires at baseline and after 6 and 12 weeks of intervention. The results showed a significant improvement in IAcc, ICon and affective symptoms in the Experimental group after 6 weeks of MICT compared to baseline. However, the transition to MIIT did not produce further gains. No beneficial changes in IAcc, ICon or affective symptoms were observed in the passive Control group throughout the intervention. The study highlights exercise's potential to boost interoception in physically inactive young adults and to enhance emotional well-being by improving affective symptoms.",
-      "journal": "Psychology of Sport And Exercise",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "When attention falters: Brain, breathing, and behavioral signals of lapses in interoceptive attention.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42332286/",
+      "title": "Dissociative experiences and self-reported interoceptive traits in maladaptive daydreamers: a network analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42334568/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-23T00:00:00",
-      "date_fetched": "2026-06-23T14:23:57.999234",
-      "doi": "10.3758/s13415-026-01467-5",
+      "date_fetched": "2026-06-24T14:04:18.555045",
+      "doi": "10.1007/s00406-026-02296-w",
       "authors": [
         {
-          "name": "Isaac N Treves",
+          "name": "Ilaria Bufalari",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Clare Shaffer",
+          "name": "Lilya Abergel",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alexandra L Decker",
+          "name": "Andrea Zagaria",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nigel Jaffe",
+          "name": "Laura Fusar-Poli",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anna O Tierney",
+          "name": "Laura Ferreri",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Randy P Auerbach",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christian A Webb",
+          "name": "Marco Sperduti",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mind\u2011body practices, such as meditation and yoga, involve paying attention to breathing sensations. During these practices, individuals report \"interoceptive lapses,\" moments when attention drifts away from internal bodily sensations. While lapses in attention to the external world have been widely studied, little is known about the physiological and neural mechanisms of interoceptive lapses. Interoceptive lapses may share markers with exteroceptive lapses-such as reaction time variability and default-mode network (DMN) connectivity-but may also depend on distinct brain systems and breathing physiology. We examined behavioral, physiological, and neural signals preceding lapses in a sample of 93 adolescents enriched for GAD and depression symptoms. Participants performed a 20-min breath counting task in the fMRI scanner with simultaneous breath recordings. Lapses were defined as moments when counting errors occurred. The sample was split into training and validation sets to test machine learning models predicting attentional lapses. The strongest predictors were timing and variability of button responses (AUCs > 0.75). Breathing variability and breathing-behavior synchronization showed smaller but generalizable predictive value (AUCs < 0.65). Whole-brain connectivity models also predicted lapses (AUC \u2248 0.65), incorporating the DMN, dorsal and ventral attention, and somatomotor networks. Furthermore, models that included brain connectivity marginally outperformed behavior-only models. Comparisons to previous exteroceptive findings indicate some common markers (e.g., reaction time variability) and some unique markers (e.g., selective perceptual coupling with attentional networks). Although limited by the clinical sample and lack of a control task, these results highlight brain-body markers of interoceptive attention that may inform real-time monitoring during mind-body interventions.",
-      "journal": "Cognitive, affective & behavioral neuroscience",
+      "abstract": "Maladaptive Daydreaming (MD) is a proposed mental health condition characterized by compulsive, immersive daydreaming that interferes with daily functioning. Although MD is strongly associated with dissociative experiences, its relation to interoception remains unexplored. In this study, we investigated dissociative symptoms and self-reported interoception in individuals with MD compared to matched controls. A total of 137 Italian-speaking participants (83 MDers and 54 controls) completed an online survey assessing maladaptive daydreaming (MDS-16), dissociation (DES-II), and interoception (MAIA-2). As expected, MDers showed significantly higher levels of dissociation - particularly in the domains of absorption/imagination and depersonalization/derealization - compared to controls. Moreover, MDers exhibited lower scores on specific interoceptive subscales: Attention Regulation, Body Listening, and Trusting. Network analyses highlighted maladaptive daydreaming as a central node linking dissociation and interoception. These findings suggest that individuals with MD may experience altered interoception and that maladaptive daydreaming might function as an escape from unpleasant bodily states. This is the first study to document altered interoception in MD, future research could extend the findings by incorporating objective measures. Clinically, the results highlight the potential utility of interventions aimed at improving interoception - such as mindfulness-based approaches - in addressing maladaptive daydreaming and its dissociative correlates.",
+      "journal": "European archives of psychiatry and clinical neuroscience",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -310,42 +78,132 @@
       "matched_keywords": []
     },
     {
-      "title": "Preliminary Evidence of Changes in Diurnal Cortisol Following Exposure to a School-Based Curriculum Featuring Yoga and Mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42329542/",
+      "title": "Mindful attention as a mechanism underlying non-suicidal self-injury: evidence from a longitudinal intervention trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42332620/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-22T00:00:00",
-      "date_fetched": "2026-06-23T14:23:57.999461",
-      "doi": "10.1007/s10578-026-02034-2",
+      "date_fetched": "2026-06-24T14:04:18.555112",
+      "doi": "10.1186/s12888-026-08316-2",
       "authors": [
         {
-          "name": "Bethany H McCurdy",
+          "name": "Jian Li",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Carl F Weems",
+          "name": "Fengmin Ni",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Travis Bradley",
+          "name": "Yangyang Tao",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ryan Matlow",
+          "name": "Ya Xie",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Victor G Carri\u00f3n",
+          "name": "Enze Tang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ziyan Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Minlu Liang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pei Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcus Rodriguez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jan Glasenapp",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chunyan Yin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jing Long",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuan Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yan Sun",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xianliang Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Guangya Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaomei Jiang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xianglan Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hua Lv",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zhuowei Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Suhong Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zachary Rosenthal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chun Wang",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Research and theory suggest that neuroendocrine functioning, such as diurnal cortisol rhythms, plays an important role in emotional development and expression, but that this functioning can be impacted under conditions of elevated stress. Although mindfulness-based interventions show promise for improving emotional functioning, their effects on cortisol regulation in children remain unclear despite a solid theoretical foundation. This study provides preliminary data from a sample of children (n\u2009=\u200957; mean age\u2009=\u200910 years) on changes in diurnal cortisol rhythms associated with exposure to the Pure Power curriculum which is designed to teach youth yoga techniques, mindfulness, and emotion regulation. METHODS: A non-randomized comparison design examined outcomes and diurnal cortisol levels among participants from schools that completed the intervention (n\u2009=\u200927) and from students in comparison schools (n\u2009=\u200930) assessed at three time points approximately one year apart. RESULTS: Modeling of diurnal patterns indicated that youth in the intervention schools demonstrated a relative change in their cortisol levels at Time 2 towards a diurnal rhythm associated with less stress. CONCLUSIONS: The data provide initial evidence for an association between exposure to a yoga and mindfulness curriculum and neuroendocrine function. The conclusions are limited by the non-randomized design and small sample. Replication with randomized designs and larger samples is needed.",
-      "journal": "Child psychiatry and human development",
+      "abstract": "BACKGROUND: Non-suicidal self-injury (NSSI) represents a significant public health issue, yet its underlying mechanisms are not fully understood. Theoretical models posit attentional deficits as key potential factors, but most supporting evidence has been cross-sectional. This study aimed to provide longitudinal evidence for the role of mindful attention, a mindfulness-related attentional process, in NSSI by leveraging data from a randomized controlled trial. METHODS: A total of 196 individuals with NSSI were randomized to 13 weeks of dialectical behavior therapy skills training (DBT-ST; n\u2009=\u200997) or social support group therapy (SSGT; n\u2009=\u200999). They completed baseline and post-treatment assessments of mindful attention (Mindful Attention Awareness Scale), NSSI frequency (Ottawa Self-Injury Inventory). Given its close link with mindful attention and NSSI, emotion dysregulation (Difficulties in Emotion Regulation Scale) was also assessed. RESULTS: Results indicated that the DBT-ST group showed significantly greater improvements in NSSI behaviors, mindful attention, and emotion dysregulation compared to the SSGT group. Mediation analyses revealed that improvements in mindful attention did not directly mediate NSSI reduction. Instead, mindful attention contributed indirectly through improvements in emotion regulation, which in turn predicted reductions in NSSI frequency. Cross-lagged panel analyses further demonstrated that improvements in mindful attention prospectively associated with subsequent improvements in emotion regulation, underscoring mindful attention as an upstream process in the reduction of NSSI. CONCLUSION: These findings indicated that attention deficits played a role in NSSI and suggested a potential sequential process in which DBT-ST-related improvements in attention may support subsequent gains in emotion regulation, which are associated with reductions in NSSI.",
+      "journal": "BMC psychiatry",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -353,77 +211,70 @@
       "matched_keywords": []
     },
     {
-      "title": "Neurohormonal-Immune Dysregulation in Rosacea: Emerging Perspectives from the Skin-Gut-Brain Axis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42325915/",
+      "title": "Acceptance and commitment therapy combined with behavioural strategies and self-compassion versus cognitive behavioural therapy for insomnia: Feasibility, acceptability, and randomized pilot.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42333984/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-23T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.555299",
+      "doi": "10.1111/bjc.70077",
+      "authors": [
+        {
+          "name": "Mariana Miller-Mendes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Paula Castilho",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria In\u00eas Clara",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vanda Clemente",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana Allen Gomes",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: This pilot randomized controlled trial (RCT) evaluated feasibility, acceptability, and preliminary clinical benefits of ACTCOM-I, a novel intervention combining Acceptance and Commitment Therapy with behavioural strategies and self-compassion, compared with CBT-I. METHODS: An analytic sample of 19 participants (63% women; M\u2009=\u200943.26\u2009years, SD\u2009=\u200912.77) with chronic insomnia was randomized to ACTCOM-I (n\u2009=\u200910) or CBT-I (n\u2009=\u20099). Assessments occurred at baseline (T0), post-treatment (T1), 3-months (T2) and 6-months (T3) follow-ups. Measures included insomnia severity, beliefs, pre-sleep arousal, sleep effort, sleep diary, anxiety/depression, affect, quality of life, mindfulness, psychological flexibility, cognitive fusion, progress/obstructions to valued living, and self-compassion. RESULTS: Linear mixed models showed significant Time effects for insomnia severity (p\u2009<\u2009.001), with large within-group effect sizes maintained at follow-up. No significant between-group differences were found (p\u2009=\u2009.88), indicating similar improvement trajectories over time. Reliable change analysis (RCI) confirmed that 90% of ACTCOM-I and 89% of CBT-I participants achieved clinically significant improvements at post-treatment, with high response and remission rates. No participants deteriorated. Both interventions also led to comparable improvements in secondary sleep-related outcomes, anxiety/depression, and positive affect, while negative affect remained stable. Most process-related measures showed significant Time effects but no TimeXGroup interactions, further supporting similar patterns of change. Within-group analyses suggested greater improvements in psychological flexibility, cognitive fusion, obstructions to valued living and self-compassion in ACTCOM-I, particularly at follow-up. Despite high attrition, ACTCOM-I was feasible, well-accepted, and thematic analysis identified six overarching themes. CONCLUSIONS: Results suggest that ACTCOM-I is feasible, well-accepted, and preliminary findings support further studies on its potential as a complementary treatment to chronic insomnia.",
+      "journal": "The British journal of clinical psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Rhythmic Embodied Perception Framework of breath, brain, and perception.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42338644/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-06-23T14:23:57.999732",
-      "doi": "10.2147/DDDT.S608151",
+      "date_fetched": "2026-06-24T14:04:18.555385",
+      "doi": "10.1093/nc/niag030",
       "authors": [
         {
-          "name": "Lei Shi",
+          "name": "Ralph Andrews",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Siying Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaodong Yao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zijian Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qinyi Dong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Han Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xinman Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiahao Bai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Huiyan Han",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaoyi Fu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kaili Zheng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lili Liang",
+          "name": "Paul M Dockree",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Rosacea is a chronic inflammatory skin disease with a global prevalence of approximately 5.1%. Existing evidence suggests that its pathogenesis may be associated with dysregulation of the neuro-hormone-immune network within the skin-gut-brain axis framework. This review summarizes the potential roles of stress hormones, sex hormones, and insulin-like growth factor-1 in the four major subtypes. In erythematotelangiectatic rosacea, glucocorticoid resistance within keratinocytes may induce CCL20-driven Th17 inflammation, while catecholamines released by sympathetic nerves are associated with neurovascular flushing. In papulopustular rosacea, androgen excess, relative estrogen deficiency, LL-37-mediated innate immune activation, and gut microbiota dysbiosis may collectively contribute to the formation of inflammatory skin lesions.In the phymatous type, insulin-like growth factor-1 and androgens may interact through the PI3K/Akt/mTOR and FoxO1 pathways, promoting sebaceous gland hyperplasia and fibrosis. Ocular rosacea is associated with gut-derived low-grade systemic inflammation and neurogenic inflammation. For treatment, \u03b2-receptor blockers such as carvedilol and selective serotonin reuptake inhibitors such as paroxetine can be used for erythematotelangiectatic rosacea; anti-androgen drugs like spironolactone and metformin may be explored for papulopustular rosacea; metformin for the phymatous type; and for ocular rosacea, topical corticosteroids can be used cautiously for a short term under ophthalmological supervision. Adjunctive interventions such as eradication of small intestinal bacterial overgrowth, a low glycemic index diet, and mindfulness-based stress reduction therapy also demonstrate potential.Taken together, existing evidence supports viewing rosacea as a systemic disease potentially mediated by the skin-gut-brain axis and characterized by dysregulation of the neuro-hormone-immune network. However, more high-quality randomized controlled trials and stratified studies guided by hormone-related biomarkers are currently needed to further validate its mechanisms and advance precision treatment.",
-      "journal": "Drug design, development and therapy",
+      "abstract": "Breathing, beyond its metabolic role, has been increasingly implicated in shaping perception, attention, and aspects of cognitive processing. Here, we propose the Rhythmic Embodied Perception (REP) Framework, a multi-level framework linking body and brain to explain how respiration structures conscious experience. At the neurophysiological level, slow respiratory cycles modulate cortical oscillations ",
+      "journal": "Neuroscience of consciousness",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -431,37 +282,204 @@
       "matched_keywords": []
     },
     {
-      "title": "Functional brain biomarkers of self-referential bias in remitted depressed outpatients: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42330837/",
+      "title": "Clinical Study on the Multidimensional Efficacy of Mindfulness-Based Stress Reduction Combined With Ear Triple Therapy in Young and Middle-Aged Patients With Hypertension.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42338493/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-19T00:00:00",
-      "date_fetched": "2026-06-23T14:23:57.999775",
-      "doi": "10.1016/j.nicl.2026.104025",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.555556",
+      "doi": "10.1155/ijhy/1020460",
       "authors": [
         {
-          "name": "Liliana C Wu",
+          "name": "Jing Li",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jordan L Livingston",
+          "name": "Qingxia Sun",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zindel V Segal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Norman A S Farb",
+          "name": "Yanhong Wu",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Negative self-referential bias (NSB) is a hallmark of depression, yet its neural signature and link to relapse vulnerability remain unclear. We investigated whether NSB and its associated neural activity predict relapse and depressive symptoms following prophylactic psychotherapy. METHODS: This is a two-year prospective neuroimaging study nested within a randomized controlled trial of Mindfulness-Based Cognitive Therapy and Cognitive Behavior Therapy with a Well-Being focus. Remitted depressed outpatients (N\u00a0=\u00a081) completed the Self-Referential Encoding Task during fMRI pre- and post-treatment and were followed bi-monthly. Study preregistration: https://osf.io/s4n8j. RESULTS: NSB predicted higher depressive symptoms (b\u00a0=\u00a00.10; 95% CI, 0.06 to 0.14; p\u00a0\u22640.001) but not relapse. Greater NSB neural activity within frontal DMN and SN was associated with relapse status (DMN: b\u00a0=\u00a00.32; 95% CI, 0.09 to 0.55; SN: b\u00a0=\u00a00.36, 95% CI, 0.09 to 0.63), whereas DMN-SN connectivity was not. Static whole brain relapse biomarkers included elevated prefrontal activation and somatosensory deactivation. In non-relapsers, treatment-related attenuation of somatosensory deactivation predicted lower risk. Subgenual reactivity was the best prefrontal relapse indicator (Hazard Ratio\u00a0=\u00a01.84, 95% CI, 1.23 to 2.77), but somatosensory deactivation was the best overall relapse indicator (Hazard Ratio\u00a0=\u00a00.16; 95% CI, 0.05 to 0.52). CONCLUSIONS: Relapse vulnerability reflects not only heightened prefrontal negative self-processing but also insufficient recruitment of somatosensory systems supporting embodied self-experience, providing a more comprehensive model of depression relapse vulnerability. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01178424.",
-      "journal": "NeuroImage. Clinical",
+      "abstract": "OBJECTIVE: This study aims to explore the clinical efficacy of mindfulness-based stress reduction (MBSR) combined with ear triple therapy in improving blood pressure, symptoms, emotions, and other multidimensional conditions of young and middle-aged patients with hypertension. METHODS: Using convenient sampling, young and middle-aged patients with hypertension who visited Jiangsu Provincial Hospital of Chinese Medicine from January 2024 to January 2025 were selected as participants. They were divided into an intervention group and a control group using a random number table, with 115 cases in each group. The control group received standard treatment and nursing, while the intervention group was additionally given MBSR combined with ear triple therapy on the basis of the control group's intervention, with an intervention cycle of 8\u2009weeks. Before the intervention and after 8\u2009weeks, the therapeutic effect, immediate blood pressure-lowering effect, improvement of TCM symptoms, psychological status, and mindfulness level were compared between the two groups. RESULTS: There were no significant differences in baseline characteristics and medication use between the 2 groups. After 8\u2009weeks, the intervention group showed superior performance to the control group in terms of therapeutic effect, immediate blood pressure-lowering effect, TCM syndrome score, SAS score, and MAAS score, with statistically significant differences ( CONCLUSION: MBSR combined with ear triple therapy can improve hypertension conditions in young and middle-aged patients with hypertension, alleviate symptoms, reduce negative emotions, and enhance mindfulness level, thereby improving medication compliance and self-management ability.",
+      "journal": "International journal of hypertension",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A Narrative Review on Juvenile Offense and the Impact and Implications of Internalizing Disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42333953/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-23T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.555599",
+      "doi": "10.1002/bsl.70079",
+      "authors": [
+        {
+          "name": "Chaitanya Reddy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shruti Tilak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joyce Godinho",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Avantika Kumar",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Youth involved in the juvenile justice system carry a significant burden of mental health challenges. Internalizing disorders such as depression, anxiety, posttraumatic stress disorder, self-harm, and suicidal behavior are common among justice-involved youth, but often remain overlooked. These conditions influence behavior, increase vulnerability to offending, and heighten the risk of repeated involvement with the juvenile justice system. This review examines the role of internalizing disorders in juvenile offense, and highlights how inward distress can contribute to outward behavioral disturbances. It brings together evidence from multiple countries and shows that untreated internalizing symptoms are linked to higher rates of reoffending, adverse life outcomes, and increased suicide risk. The review also summarizes interventions that address mental health needs among justice-involved youth, including cognitive behavioral therapy, family-based approaches, mindfulness practices, and mentoring models. These interventions show promise for symptom reduction, emotional regulation, and lowering recidivism. The review places special focus on Low- and Middle Income Countries where limited resources, stigma, and gaps in mental health services create major barriers to care. Overall, the findings point to the need for prevention, early recognition and intervention for internalizing disorders within juvenile justice systems.",
+      "journal": "Behavioral sciences & the law",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Is happiness just a click away? Lessons learned from an unguided online well-being intervention for the general adult public.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42337698/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-23T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.555643",
+      "doi": "10.1186/s40359-026-05013-3",
+      "authors": [
+        {
+          "name": "Sara Claes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sophie Vandepitte",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Els Clays",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lieven Annemans",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Well-being websites and apps are increasingly available. Given their scalability and accessibility, online interventions are generally considered a promising avenue to promote public subjective well-being. However, the success of online interventions in public mental health promotion depends on widespread acceptance and sustained engagement. This study explores the feasibility, acceptability, and preliminary effectiveness of an unguided online intervention for non-clinical Belgian adults. METHODS: In this quasi-experimental study, 208 participants were assigned to either the intervention group (n\u2009=\u200968) or control group (n\u2009=\u2009140) based on their own preferences. The online intervention allowed participants to choose from a range of activities, including mindfulness, breathing exercises, walking, and cycling. Data were collected at baseline and after 8\u00a0months. Feasibility was assessed via uptake, attrition, and engagement. The assessment of acceptability was based on the Theoretical Framework of Acceptability. Inverse probability of treatment weighting was performed to balance the treatment arms and weighted linear mixed models were used to evaluate improvements in terms of subjective well-being, peace of mind, and meaningfulness. RESULTS: Uptake of the intervention was low (32.7%) and dropout in the intervention group was substantial (63.2%). A major barrier to uptake was competing commitments. Non-completers had higher baseline negative affect (M\u2009=\u20092.54, SD\u2009=\u20090.56) than completers (M\u2009=\u20092.16, SD\u2009=\u20090.61). Among the completers, 81.3% found the intervention acceptable, yet 44.0% reported virtually no engagement. The intervention group showed statistically significant improvements in meaningfulness compared to the control group (\u03b2\u2009=\u20090.55, 95% CI [0,11; 0,99], p\u2009<\u20090.05), but not in other outcomes. CONCLUSION: Low uptake, engagement, and adherence remain major obstacles to the success of unguided online interventions. Key lessons learned from this study highlight the need to address barriers to uptake during the design phase, implement strategies to sustain user motivation and engagement, and acknowledge that digital well-being interventions may not adequately support those who need it most.",
+      "journal": "BMC psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Evaluating guided viewing strategies to enhance well-being effects of art viewing: a three-arm randomised controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42337293/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-23T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.555734",
+      "doi": "10.1038/s41598-026-56034-2",
+      "authors": [
+        {
+          "name": "MacKenzie D Trupp",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shiqi Yin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Robyn Landau",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Katherine Templar Lewis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aleksandra Igdalova",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Corinna K\u00fchnapfel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Giacomo Bignardi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lawrence Chiles",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joerg Fingerhut",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rebecca Chamberlain",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Matthew Pelowski",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Art viewing has been associated with well-being and positive mental health, yet its benefits are not universal across contexts or viewers. A key question is which aspects of art-viewing experiences drive beneficiary effects and whether they can be directly augmented to enhance well-being. To answer this question, this study explored the well-being effects of two art-based theory-informed augmentation videos at the National Gallery, London: one providing guided viewing instructions focused on style and slow, detailed observation, and the other offering a pre-viewing mindful breathing session. In the first large (N\u2009=\u2009281) pre-registered study, we compared augmentation videos to a standard gallery visit. Further, in a laboratory-based follow-up (N\u2009=\u200933), we compared one pre-viewing intervention with a filler free-writing task to isolate the potential effects of the video strategy. Both studies used mixed-methods randomised controlled trial designs. Across conditions and studies, significant improvements in well-being were detected from pre- to post-gallery viewing. However, the overall effect of either video intervention did not enhance the art-viewing experience or lead to greater well-being changes. Rather, we found that guided viewing led to greater increases in positive mood than pre-viewing mindfulness and that, among first-time visitors, such strategies may be especially beneficial. We interpret the findings in the context of prior mixed evidence and suggest that future research should adopt a more holistic approach that incorporates multiple interacting mechanisms and more systematically investigates the role of our moderating variables.",
+      "journal": "Scientific reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Compassion fatigue among critical care nurses: a literature review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42338232/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-24T00:00:00",
+      "date_fetched": "2026-06-24T14:04:18.555769",
+      "doi": "10.7748/nm.2026.e2197",
+      "authors": [
+        {
+          "name": "Thomas Ian McEwan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Providing compassionate care continually can result in nurses developing compassion fatigue - a state of physical, emotional and psychological exhaustion. Critical care nurses are particularly at risk of compassion fatigue, in part due to their constant exposure to patients with life-threatening conditions and patient deaths. This article details a literature review that aimed to explore compassion fatigue among critical care nurses, with a view to identifying interventions and coping strategies to enhance their well-being as well as to guide nurse managers in protecting staff well-being. Five main themes were generated through narrative synthesis. The findings indicate that: compassion fatigue is prevalent among critical care nurses, particularly younger nurses and those with lower levels of education; there is a lack of education regarding coping with patients' deaths; and various factors can increase the risk of compassion fatigue, such as insufficient staffing levels, limited time off and consecutive shifts. Interventions such as mindfulness and debriefing can mitigate compassion fatigue in critical care nurses, but their effectiveness depends on managerial and organisational support. Nurse managers have an essential role in supporting critical care nurses' well-being through consistent leadership, supporting staff to undertake further education and training, encouraging supportive workplace environments and implementing structured debriefing.",
+      "journal": "Nursing management (Harrow, London, England : 1994)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -469,5 +487,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "A Sprawling Monument to How Things Get Made",
+      "url": "https://www.newyorker.com/culture/photo-booth/a-sprawling-monument-to-how-things-get-made",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-06-23T19:28:54",
+      "date_fetched": "2026-06-24T14:04:18.929259",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Eren Orbey",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "Mark Power\u2019s \u201cFashion\u201d lavishes formal attention on industrial machinery and, by extension, on the human effort behind it.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
