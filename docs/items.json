@@ -1,28 +1,423 @@
 {
-  "generated_at": "2026-06-25T14:01:07.804013",
+  "generated_at": "2026-06-26T14:00:41.375022",
   "papers": [
     {
-      "title": "Employee mindfulness and organizational performance: the mediating role of employee resilience in Jordanian private hospitals.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42340857/",
+      "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+      "url": "https://www.semanticscholar.org/paper/2dfe534065f768b8b93fd40b6fac7677a9f70a05",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-04T00:00:00",
+      "date_fetched": "2026-06-26T13:59:54.143777",
+      "doi": "10.48550/arXiv.2502.01926",
+      "authors": [
+        {
+          "name": "Angelina Wang",
+          "author_id": "2349388428",
+          "affiliation": null
+        },
+        {
+          "name": "Michelle Phan",
+          "author_id": "1490738453",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel E. Ho",
+          "author_id": "2343742385",
+          "affiliation": null
+        },
+        {
+          "name": "Oluwasanmi Koyejo",
+          "author_id": "143812875",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Algorithmic fairness has conventionally adopted the mathematically convenient perspective of racial color-blindness (i.e., difference unaware treatment). However, we contend that in a range of important settings, group difference awareness matters. For example, differentiating between groups may be necessary in legal contexts (e.g., the U.S. compulsory draft applies to men but not women) and harm assessments (e.g., referring to girls as ``terrorists''may be less harmful than referring to Muslim people as such). Thus, in contrast to most fairness work, we study fairness through the perspective of treating people differently -- when it is contextually appropriate to. We first introduce an important distinction between descriptive (fact-based), normative (value-based), and correlation (association-based) benchmarks. This distinction is significant because each category requires separate interpretation and mitigation tailored to its specific characteristics. Then, we present a benchmark suite composed of eight different scenarios for a total of 16k questions that enables us to assess difference awareness. Finally, we show results across ten models that demonstrate difference awareness is a distinct dimension to fairness where existing bias mitigation strategies may backfire.",
+      "journal": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "The Hawthorne Effect in Reasoning Models: Evaluating and Steering Test Awareness",
+      "url": "https://www.semanticscholar.org/paper/f5b9567543a64427c77b47f98646e0adc30a8a1b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-06-26T13:59:54.143801",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Sahar Abdelnabi",
+          "author_id": "1383113350",
+          "affiliation": null
+        },
+        {
+          "name": "Ahmed Salem",
+          "author_id": "2362402313",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Reasoning-focused LLMs sometimes alter their behavior when they detect that they are being evaluated, which can lead them to optimize for test-passing performance or to comply more readily with harmful prompts if real-world consequences appear absent. We present the first quantitative study of how such\"test awareness\"impacts model behavior, particularly its performance on safety-related tasks. We introduce a white-box probing framework that (i) linearly identifies awareness-related activations and (ii) steers models toward or away from test awareness while monitoring downstream performance. We apply our method to different state-of-the-art open-weight reasoning LLMs across both realistic and hypothetical tasks (denoting tests or simulations). Our results demonstrate that test awareness significantly impacts safety alignment (such as compliance with harmful requests and conforming to stereotypes) with effects varying in both magnitude and direction across models. By providing control over this latent effect, our work aims to provide a stress-test mechanism and increase trust in how we perform safety evaluations.",
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "FloodGame: An interactive 3D serious game on flood mitigation for disaster awareness and education",
+      "url": "https://www.semanticscholar.org/paper/05999b91b26538faeb5bf551a80d1c6289781511",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-06-26T13:59:54.143929",
+      "doi": "10.1016/j.envsoft.2025.106418",
+      "authors": [
+        {
+          "name": "B. Demiray",
+          "author_id": "1628413087",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Sermet",
+          "author_id": "79541664",
+          "affiliation": null
+        },
+        {
+          "name": "E. Yildirim",
+          "author_id": "31785583",
+          "affiliation": null
+        },
+        {
+          "name": "Ibrahim Demir",
+          "author_id": "2237226528",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The number and devastating impacts of natural disasters have grown significantly worldwide, and floods are one of the most dangerous and frequent natural disasters. Recent studies emphasize the importance of public awareness in disaster preparedness and response activities. FloodGame is designed as a web-based interactive serious game geared towards educating K-12 and college students and raising public awareness on flood prevention and mitigation strategies so that they are more informed about the implications of future floods. A web-based interactive gaming environment with rich 3D visuals and models is developed that allows users to experiment with different flood mitigation strategies for a real-world location of their choice. This immersive, repeatable, and engaging experience will allow students and the public to comprehend the consequences of individual mitigation measures, build a conceptual understanding of the benefits of mitigation actions, and examine how floods may occur in their communities.",
+      "journal": "Environmental Modelling & Software",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Religious Moderation of The Manager of Vipassana Kusalacita Temple in Social Interaction with The Residents of Bojong Menteng, Bekasi City",
+      "url": "https://www.semanticscholar.org/paper/ed941d642cca5e9ea4258c23e85a84309934a3e3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-25T00:00:00",
+      "date_fetched": "2026-06-26T14:00:01.264394",
+      "doi": "10.58631/jtus.v4i3.257",
+      "authors": [
+        {
+          "name": "Reza Cahaya Hermawan",
+          "author_id": "2443728327",
+          "affiliation": null
+        },
+        {
+          "name": "Uwes Fatoni",
+          "author_id": "2091815699",
+          "affiliation": null
+        },
+        {
+          "name": "Cecep Suryana",
+          "author_id": "2154049589",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Religious intolerance in Indonesia\u2019s urban areas, documented by the Setara Institute\u00a0 and the WAHID Foundation, underscores the urgency of understanding how minority religious institutions navigate interfaith relations. Despite growing scholarship on religious moderation, empirical studies examining it as a practice of Intercultural Communication Competence (ICC) in majority-minority religious settings remain scarce. This study aims to analyze how the management of Vipassana Kusalacita Vihara a minority Buddhist institution enacts religious moderation through daily social interaction with the predominantly Muslim community of Bojong Menteng, Bekasi City, using the ICC framework of Spitzberg and Cupach. A qualitative case study approach within an interpretive paradigm was employed. Three key informants (the head of vihara management and two senior administrators) were selected through purposive sampling. Data were collected over two months via semi-structured in-depth interviews, non-participant observation, and document analysis, and analyzed thematically according to the ICC dimensions of motivation, knowledge, and skills. Findings reveal that motivation is grounded in humanistic values and social responsibility; knowledge is reflected in contextual understanding of local norms (RT/RW structures) and interfaith sensitivities; and skills are enacted through polite interpersonal communication, conflict-preventive dialogue, and non-discriminatory social assistance. This study extends ICC scholarship to majority\u2013minority religious relations and offers a replicable grassroots model for fostering interfaith trust in pluralistic urban communities.",
+      "journal": "Journal Transnational Universal Studies",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "vipassana"
+      ]
+    },
+    {
+      "title": "An Exploratory Mixed-Methods Study on the Practice of Samatha-Vipassana in Agama Meditation and the Improvement of Physical and Mental States",
+      "url": "https://www.semanticscholar.org/paper/e3ccd1b94bf440b7cab27a13d96182ff11eae961",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-01T00:00:00",
+      "date_fetched": "2026-06-26T14:00:01.264505",
+      "doi": "10.33545/26649845.2026.v8.i6a.695",
+      "authors": [
+        {
+          "name": "Ven Dianwu",
+          "author_id": "2440885989",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "International Journal of Social Sciences and Education Research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "vipassana"
+      ]
+    },
+    {
+      "title": "Psychosocial factors associated with engagement and efficacy of mindfulness intervention in the classroom.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348562/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-06-26T14:00:30.247937",
+      "doi": "10.1371/journal.pone.0352195",
+      "authors": [
+        {
+          "name": "Savannah K H Siew",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Junhong Yu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Mindfulness practice has been associated with a range of benefits in the literature. However, intervention effects show substantial person-to-person variability, and the individual differences underlying this variability remain underexamined. Identifying the psychosocial predictors of the practice can increase our understanding of the mechanisms underlying the benefits of mindfulness practice and inform strategies to increase both engagement and efficacy of it. METHODOLOGY: 66 university students in Singapore were recruited if they had completed a course where mindfulness practice was conducted during the lecture. Participants were aged between 18-39 years old (Mage\u2009=\u200922.2 years). They completed an online survey measuring trait mindfulness, personality traits, attachment and conflict styles, intrinsic motivation, grit, and attention control. Outcome variables of engagement and efficacy were self-reported. Multiple linear regression for each independent variable controlled for different course taken and prior mindfulness experience using a multiple comparison corrected confidence interval of 99.8%. RESULTS: Intrinsic motivation was positively associated with both engagement in mindfulness practice and its usefulness. The observing facet of trait mindfulness, total trait mindfulness and conscientious personality were negatively associated with how difficult participants felt the mindfulness practice was. DISCUSSION: The significant psychosocial and cognitive variables associated with both engagement and efficacy of mindfulness practice from this exploratory study add to our understanding of the type of participants that might be more suited for mindfulness practice in the classroom.",
+      "journal": "PloS one",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mental Health Nursing Simulation to Develop the Therapeutic Use of Self.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348918/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-26T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.716781",
+      "doi": "10.3928/01484834-20260522-02",
+      "authors": [
+        {
+          "name": "Brenda Johnston",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Although simulation is well established for procedural and acute care skills, mental health nursing simulation focused on the therapeutic use of self remains underrepresented in the literature. This article describes the design, implementation, and educational contribution of three theory-informed mental health nursing simulations developed to support competency-based psychiatric nursing education. METHOD: Guided by Peplau's interpersonal relations theory, three simulations were developed addressing motivational interviewing for alcohol use disorder, trauma-informed care for intimate partner violence, and mindfulness-based support for patients in crisis. Faculty-led debriefing was used to promote reflection and integration of relational concepts. RESULTS: Use of Peplau's framework provided a structured approach for learners to practice therapeutic communication, emotional presence, professional boundaries, and patient-centered engagement. CONCLUSION: Theory-guided psychiatric simulation provides a replicable approach for integrating nursing theory into simulation and strengthening relational competencies in nursing education, addressing a gap in strategies for teaching the therapeutic use of self.",
+      "journal": "The Journal of nursing education",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Investigation of the Effectiveness of Mindfulness-Based Yoga Training in Individuals with Fibromyalgia: A Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42354650/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-21T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.717131",
+      "doi": "10.3390/healthcare14121792",
+      "authors": [
+        {
+          "name": "Ebru Durusoy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Abd\u00fclhakim \u0130brahim Ulusoy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "\u00d6zge \u00d6n\u00fcrmen Zeyrek",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sebahat Yaprak \u00c7etin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sevil Bilgin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Edibe \u00dcnal",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Healthcare (Basel, Switzerland)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Mediating Role of Rumination in the Relationship Between Mindful Awareness and Athlete Burnout.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42354653/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-22T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.717230",
+      "doi": "10.3390/healthcare14121795",
+      "authors": [
+        {
+          "name": "Selin Bi\u00e7er Baiko\u011flu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Suzan Dal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sinan Avc\u0131",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sevim G\u00fcll\u00fc",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meltem \u00d6za\u011f\u0131r",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yunus \u015eahinler",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Renas Zaman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Orkun Akko\u00e7",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: This study aimed to examine whether rumination statistically accounts for the indirect association between mindfulness and burnout among athletes using a quantitative, cross-sectional, and non-interventional research design. METHODS: The sample consisted of 484 licensed athletes (157 females, 32.4%; 327 males, 67.6%) actively involved in team sports, individual sports, and e-sports in Istanbul during the 2024-2025 period. Data were collected using the Athlete Mindfulness Questionnaire, the Sport Competition Rumination Scale, and the Athlete Burnout Questionnaire. Statistical analyses were conducted using IBM SPSS 25 and Hayes' PROCESS Macro (Model 4), and mediation effects were tested using a bootstrap procedure with 5000 resamples and 95% confidence intervals. RESULTS: The findings revealed significant relationships among mindfulness, rumination, and burnout. Mindfulness was positively associated with rumination, and rumination was significantly associated with athlete burnout. Furthermore, when rumination was included in the model, the direct relationship between mindfulness and burnout became non-significant. Given the cross-sectional nature of the study, the findings should be interpreted as relational rather than causal. CONCLUSIONS: In conclusion, the findings suggest that the relationship between mindfulness and burnout may be indirectly shaped through ruminative cognitive processes depending on contextual and cognitive-regulatory factors. The results further suggest that the associations between mindfulness, rumination, and burnout may vary according to competitive context and individual cognitive processing patterns.",
+      "journal": "Healthcare (Basel, Switzerland)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effect of Mindfulness Training on the Clinical Pregnancy Rate in Women Undergoing Frozen Embryo Transfer: Study Protocol for a Single-Center, Open-Label, Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42358343/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.717319",
+      "doi": "10.2147/IJWH.S598680",
+      "authors": [
+        {
+          "name": "Songping Yi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Junyan Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aimin Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Na Zhou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jing Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ruxue Cao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuan Gao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiaolei Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiajia Zhai",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: To evaluate the effect of mindfulness training in addition to essential psychological counseling on the clinical pregnancy rate in women undergoing frozen embryo transfer (FET), and to explore the potential mediating role of neuropsychological improvements. METHODS AND ANALYSIS: This study will be conducted as a single-center, parallel-group, open-label, exploratory randomized controlled trial. Eligible women aged 18-45 years undergoing FET who present with psychological distress (mild to moderate anxiety symptoms, depressive symptoms, poor sleep quality, or psychosocial stress overload) will be recruited. Participants will be randomly assigned in a 1:1 ratio to either the Mindfulness Training Group (MTG), which delivers structured formal mindfulness practice, or the Essential Psychological Counseling Group (EPCG), which provides supportive psychoeducation and emotional guidance without mindfulness-based training. The primary endpoint will be the clinical pregnancy rate. Secondary endpoints include changes in anxiety symptoms, depressive symptom, sleep quality, and psychosocial stress; the live birth rate will be assessed exploratorily. Mediation analyses will be performed to assess whether neuropsychological improvements explain the relationship between mindfulness training and clinical pregnancy. A total of 434 participants will be enrolled, allowing for a 20% dropout rate. TRIAL REGISTRATION: This trial is registered with the Chinese Clinical Trial Registry (ChiCTR2600116827).",
+      "journal": "International journal of women's health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Interactive effects of age and mindfulness on emotion regulation flexibility: Evidence from a daily diary study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347784/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-25T00:00:00",
-      "date_fetched": "2026-06-25T14:01:07.185604",
-      "doi": "10.1108/JHOM-02-2026-0128",
+      "date_fetched": "2026-06-26T14:00:40.717628",
+      "doi": "10.1037/emo0001702",
       "authors": [
         {
-          "name": "Saleh Alkhatib",
+          "name": "Ute Kunzmann",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Thuraya Hussein Ababneh",
+          "name": "Cornelia Wieck",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Carsten Wrosch",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: This study aims to examine the direct effect of employee mindfulness on organizational performance and the mediating role of employee resilience within Jordanian private hospitals, while also validating the measurement instruments for this specific context. DESIGN/METHODOLOGY/APPROACH: A cross-sectional survey was administered to 160 employees across Jordanian private hospitals. The study employed a two-phase analytical approach: first, Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA) were conducted to validate and refine the measurement models; second, Partial Least Squares Structural Equation\u00a0Modeling (PLS-SEM) was used to test the hypothesized relationships and mediation effects. FINDINGS: The EFA/CFA validation revealed contextually appropriate factor structures, with mindfulness comprising four facets and organizational performance structured as two correlated dimensions. PLS-SEM analysis confirmed that employee mindfulness has a significant positive effect on both organizational performance (\u03b2\u00a0=\u00a00.250, p\u00a0<\u00a00.001) and employee resilience (\u03b2\u00a0=\u00a00.713, p\u00a0<\u00a00.001). Resilience, in turn, positively influences organizational performance (\u03b2\u00a0=\u00a00.456, p\u00a0<\u00a00.001) and partially mediates the mindfulness-performance relationship (indirect effect: \u03b2\u00a0=\u00a00.325, p\u00a0<\u00a00.001). PRACTICAL IMPLICATIONS: Hospital administrators should implement validated mindfulness and resilience assessment tools to monitor self-reported employee well-being and invest in targeted training programs (e.g. workshops, digital tools, integrated into staff development). Furthermore, the study provides culturally validated instruments for future research and practice in this setting. ORIGINALITY/VALUE: This study makes dual contributions: methodologically, it provides validated measurement instruments for mindfulness, resilience, and organizational performance specifically tailored to Jordanian healthcare contexts; theoretically, it empirically confirms the mediating role of resilience in the mindfulness-performance relationship within an underexplored non-Western healthcare setting.",
-      "journal": "Journal of health organization and management",
+      "abstract": "This study examined how daily mindfulness relates to the situational sensitivity of emotion regulation-that is, the extent to which individuals adjust their use of cognitive reappraisal and situation modification to the perceived controllability of daily stressors. Drawing on a lifespan perspective, we hypothesized that daily fluctuations in mindfulness would more strongly predict situationally sensitive strategy use in older compared to younger adults. Over 28 days, younger (",
+      "journal": "Emotion (Washington, D.C.)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -30,37 +425,113 @@
       "matched_keywords": []
     },
     {
-      "title": "The efficacy of mindfulness based interventions in mitigating stress and fostering enhanced mindfulness among higher education students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345251/",
+      "title": "Mindfulness and Psychological Distress in College Student-Athletes: The Mediating Roles of Cognitive Reappraisal and Subjective Vitality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42352866/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-20T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.717668",
+      "doi": "10.3390/bs16061033",
+      "authors": [
+        {
+          "name": "Xing Liu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Li Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Huilin Wang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: College student-athletes must often balance academic responsibilities with intensive training and competition, placing them under considerable pressure and potentially increasing their risk of mental health difficulties. Against this background, the present study focused on the link between mindfulness and psychological distress and examined whether cognitive reappraisal and subjective vitality were statistically involved in this association as indirect associations. METHODS: Participants were 430 college student-athletes recruited from five universities in Hunan Province, China. Using a cross-sectional survey design, the hypothesized model was tested using structural equation modeling in AMOS 23.0, and indirect associations were examined with bootstrap analysis based on 5000 resamples. RESULTS: Mindfulness was positively associated with both cognitive reappraisal and subjective vitality. Cognitive reappraisal was positively associated with subjective vitality but negatively associated with psychological distress. Subjective vitality also showed a negative association with distress. Moreover, mindfulness showed an indirect association with lower distress through cognitive reappraisal and subjective vitality. DISCUSSION: The findings may contribute to a better understanding of the psychological correlates associated with mental health in college student-athletes. They also suggest that mindfulness-related psychological resources may be associated with lower distress and may help guide future longitudinal and intervention research in this group.",
+      "journal": "Behavioral sciences (Basel, Switzerland)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Efficacy of Virtual Reality-Based Mindfulness Interventions: Systematic Review and Meta-Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42358652/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.717800",
+      "doi": "10.2196/90003",
+      "authors": [
+        {
+          "name": "Sarah Alicia Barker",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andreas J Miles-Novelo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Albert Rizzo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Regina M Tuma",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Virtual reality-based mindfulness interventions (VRbMIs) increasingly populate studies as scalable tools for stress and emotion regulation. However, findings across psychological outcomes are heterogeneous, and methodological variation in intervention design, outcome measurement, and reporting practices limits cross-study comparability and cumulative synthesis. OBJECTIVE: A PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020-compliant systematic review and meta-analysis was conducted to evaluate the psychological effects of VRbMIs published between 2023 and 2025, examining methodological quality and outcome consistency across diverse study designs. METHODS: A PRISMA 2020-compliant systematic search was conducted across PubMed, PsycINFO, Scopus, Semantic Scholar, and CORE from January 2023 to April 2025. Eligible studies included quantitative VRbMIs reporting psychological outcomes. We assessed risk of bias using the Mixed Methods Appraisal Tool and conducted random-effects meta-analyses using Hedges  RESULTS: VRbMIs were associated with a large, statistically significant reduction in negative affect and a statistically significant increase in state mindfulness, while effects on depression, stress, and anxiety were small to moderate and nonsignificant. Trait mindfulness was described narratively rather than meta-analyzed and showed limited, inconsistent change across studies. For anxiety, we included 13 studies contributing 27 effect size estimates in the quantitative synthesis. A random-effects model indicated a small-to-moderate, nonsignificant pooled effect ( CONCLUSIONS: VRbMIs demonstrate statistically significant short-term benefits for negative affect and state mindfulness, with consistently positive but nonsignificant trends toward improvement in stress, anxiety, and depression. Effects on positive affect and trait mindfulness were small and less consistent. Physiological findings were promising but limited by inconsistent reporting. These results support the use of VRbMIs as accessible tools for emotional regulation across diverse populations, while highlighting the need for larger trials, standardized outcome reporting, and more rigorous control conditions to strengthen the evidentiary foundation of this rapidly evolving field.",
+      "journal": "JMIR XR and spatial computing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Current use and future potential of oscillometry in UK lung function testing: a national survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42350074/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-25T00:00:00",
-      "date_fetched": "2026-06-25T14:01:07.185752",
-      "doi": "10.1080/00221309.2026.2687382",
+      "date_fetched": "2026-06-26T14:00:40.718075",
+      "doi": "10.1136/bmjresp-2025-003786",
       "authors": [
         {
-          "name": "Sonali Bindhani",
+          "name": "Madison E Geeves",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ramanjaneyulu Sanjeevagani",
+          "name": "Michael J Hughes",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Geetha Gopinath",
+          "name": "Harry S Griffin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "A S Jalandharachari",
+          "name": "Karl P Sylvester",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zoe L Saynor",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Higher education students face unique stressors, including academic pressure, social challenges, and life transitions. These stressors can affect their mental health, academic performance, and overall well-being. Research has shown that high levels of stress can lead to anxiety, depression, poor sleep quality, and decreased academic motivation. This study investigates the effectiveness of an 8-week mindfulness-based stress reduction (MBSR) among students at the University of Hyderabad, India. Using an experimental research design, 50 students were randomly assigned to either an experimental group, which participated in weekly MBSR sessions supplemented with daily at-home practices, or a control group that received no intervention. Stress levels and mindfulness were assessed pre- and post-test-intervention using the Perceived Stress Scale (PSS) and the Five Facet Mindfulness Questionnaire (FFMQ). The findings revealed a significant reduction in stress levels (",
-      "journal": "The Journal of general psychology",
+      "abstract": "BACKGROUND: Despite growing international momentum, uptake of oscillometry in routine lung function testing services in the United Kingdom (UK) is unclear. OBJECTIVES: Evaluate the current use of oscillometry in UK lung function services, identify key clinical applications, and explore barriers to wider adoption. METHODS: A cross-sectional e-survey, including multiple-choice and free-text responses, was distributed to members of the Association for Respiratory Technology and Physiology (ARTP) and reported in line with the Checklist for Reporting Results of Internet E-Surveys (CHERRIES). RESULTS: A total of 42 National Health Service (NHS) respiratory services responded. Of these, 40% reported owning an oscillometry device, equally split between forced oscillation technique (Resmon Pro) and impulse oscillometry (Vyntus IOS), with one using both. Oscillometry is already used in clinical practice in 69% of these services, most commonly for adults (57%) but also in paediatrics (21%) and both (21%). It is primarily used in asthma (100%) and chronic obstructive pulmonary disease (57%), and in 86% of cases for patients unable to perform technically acceptable spirometry. Among services without a device, 50% were actively considering purchasing within five years. The main barrier cited was funding (67%). A lack of clinical understanding was identified, with 86% of services perceiving respiratory consultants to have 'little' understanding of oscillometry, and 10% reporting 'none'. Almost all respondents (95%) supported the development of national guidance from ARTP outlining benefits, limitations and reporting standards. CONCLUSION: Despite increasing interest, oscillometry is not yet routinely adopted across UK lung function services. It is predominantly used as an alternative to spirometry when technically acceptable results cannot be achieved and as an additional tool to support asthma care. This national survey highlights the need to improve awareness, training and standardisation. Collaboration with the ARTP to establish national guidance represents an important next step toward wider implementation in clinical practice.",
+      "journal": "BMJ open respiratory research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -68,42 +539,70 @@
       "matched_keywords": []
     },
     {
-      "title": "Efficacy of psychological treatments for perinatal depression and anxiety: systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42343881/",
+      "title": "A Qualitative Study of Participant Feedback on an Acceptance and Commitment Therapy Group-Based Intervention for Parents of Youth with Anxiety Disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42354007/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-21T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.718161",
+      "doi": "10.3390/children13060837",
+      "authors": [
+        {
+          "name": "Jacquelyn Raftery-Helmer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ashley S Hart",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alyssa L Faro",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Diana Baez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Phoebe Moore",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Children (Basel, Switzerland)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "An Internet-Based Mindfulness- and Compassion-Based Intercare Program for Reducing Parental Burnout: Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348859/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-25T00:00:00",
-      "date_fetched": "2026-06-25T14:01:07.185840",
-      "doi": "10.1192/bjp.2026.10694",
+      "date_fetched": "2026-06-26T14:00:40.718205",
+      "doi": "10.2196/87416",
       "authors": [
         {
-          "name": "Ling Li Leng",
+          "name": "Francisco Javier Villal\u00f3n L\u00f3pez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wenhan Xiao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiye He",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Teng Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kaida Ning",
+          "name": "Maximiliano Escaffi-Schwarz",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Perinatal depression and anxiety affect one-fifth of women globally, yet the comparative efficacy of psychological treatments remains inadequately synthesised. AIMS: To compare short- and long-term efficacy of psychological treatments for clinically significant perinatal depression and anxiety using Bayesian network meta-analysis of randomised controlled trials (RCTs). METHOD: PubMed, Embase, MEDLINE and PsycInfo were searched from January 1990 to January 2025. Eligible RCTs included pregnant or postpartum women (\u226412 months) with clinically significant depression or anxiety. Primary outcomes were post-intervention symptom severity, secondary outcomes were symptoms at the longest follow-up (3 RESULTS: 78 RCTs (11 345 participants) were included. Cognitive-behavioural therapy (CBT) demonstrated consistent efficacy for post-intervention perinatal depression (s.m.d.: -0.55, 95% CrI [-0.77, -0.33]; moderate confidence) and anxiety (-0.54, [-1.00, -0.06]; moderate) compared with treatment-as-usual (TAU), with sustained effects for depression. Interpersonal psychotherapy (IPT; -0.65, [-1.09, -0.20]; low) and mindfulness-based intervention (MBI; -2.02, [-2.65, -1.42]; low) also outperformed TAU for short-term depression. For anxiety, behavioural therapy (-1.02, [-1.96, -0.07]; low) and MBI (-1.67, [-2.55, -0.84]; very low) also showed short-term superiority over TAU, whereas only behavioural therapy showed a sustained effect. Heterogeneity was partly explained by participant age, country income level and study risk of bias. CONCLUSIONS: This network meta-analysis identifies CBT as the most consistently supported psychological treatment for perinatal depression and anxiety. IPT, MBI and behavioural therapy show preliminary promise but require confirmation via rigorously designed trials with extended follow-ups.",
-      "journal": "The British journal of psychiatry : the journal of mental science",
+      "abstract": "BACKGROUND: Parental burnout is an underrecognized syndrome characterized by emotional exhaustion, detachment from children, and reduced parental efficacy. It is associated with sleep disturbance, addictive behaviors, suicidal ideation, and increased risk of child neglect and family conflict. Despite its public health relevance, evidence-based interventions remain limited, particularly in low- and middle-income contexts. OBJECTIVE: This study aims to evaluate the efficacy and safety of a mindfulness- and compassion-based intercare program for parental burnout (IBAP-BP)-designed to reduce burnout symptoms in teleworking mothers. METHODS: A 3-arm randomized controlled trial (IBAP-BP, active control, and waitlist) was conducted across Chile (December 2022-March 2023) with a 9-month follow-up. Participants (N=593) were women aged 18 years or older, teleworking \u22651 day/week, and living with at least 1 child. Exclusion criteria were self-reported severe psychiatric disorders. Randomization was computer-generated and centrally concealed; data analysts were blinded. The IBAP-BP group attended 8 weekly 2-hour internet-based sessions plus daily home practice integrating mindfulness and compassion. The active control performed relaxation and reflective journaling matched for duration and structure. The primary outcome was parental burnout at 9 months measured using the average-item score of the Parental Burnout Assessment; secondary outcomes were mindfulness, balance of risks/resources, and adverse effects. Modified intention-to-treat analyses and multilevel structural models assessed effects over time. RESULTS: Of 593 randomized participants, 343 contributed at least 1 postbaseline assessment and comprised the modified intention-to-treat sample. At 9 months, the prespecified primary analysis showed greater reductions in parental burnout for IBAP-BP compared with the waitlist (mean difference=0.62, 95% CI 0.09-1.14; Cohen d\u22480.6, 95% CI 0.41-0.77). No significant difference was found between IBAP-BP and the active control, which showed transient improvements up to 3 months. Effects remained robust in sensitivity analyses. Self-reported adverse events were rare and mild across IBAP-BP and active control. Mediation analyses showed inconsistent associations between mindfulness facets and outcomes. CONCLUSIONS: The culturally adapted, internet-based IBAP-BP program was feasible, safe, and effective compared with the waitlist condition for reducing parental burnout in working mothers, with effects sustained over 9 months, although it did not demonstrate superiority over the active control at the primary end point. Internet-based mindfulness- and compassion-based interventions may offer scalable, equitable options for preventing and treating parental burnout in resource-limited settings.",
+      "journal": "Journal of medical Internet research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -111,52 +610,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Study on exploring the relationships between physiological indicators in near-death experiences by drawing on in-mold electronics and node displacement concepts in brain-computer interface signal transmission.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42342719/",
+      "title": "Self-Compassion of Nurses Working in Pediatric Hospitals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42354647/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-24T00:00:00",
-      "date_fetched": "2026-06-25T14:01:07.186589",
-      "doi": "10.1038/s41598-026-49016-x",
+      "date_published": "2026-06-21T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.718336",
+      "doi": "10.3390/healthcare14121789",
       "authors": [
         {
-          "name": "Hanjui Chang",
+          "name": "Dimitra Tsoutsoura",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jiaquan Li",
+          "name": "Ioannis Koutelekos",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Dekai Kang",
+          "name": "Afroditi Zartaloudi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fei Long",
+          "name": "Areti Stavropoulou",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rui Zhu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Junhao Ye",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Linrong Li",
+          "name": "Maria Polikandrioti",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "The association between near-death experiences (NDEs) and physiological indicators remains an unsolved mystery, which hinders in-depth understanding of the essence of consciousness and life processes. Traditional single-indicator analysis methods have limitations, and a comprehensive multi-modal research approach is urgently needed to advance relevant explorations in the fields of medicine, neuroscience, and philosophy. Multi-modal physiological monitoring data, including electroencephalogram (EEG) and electrocardiogram (ECG), from critical care settings (ICU, emergency department) were integrated. Signal analysis was conducted by drawing analogies from the concepts of in-mold electronics (IME) and injection molding node displacement. Latin Hypercube Sampling (LHS) was used to collect injection molding parameters, and the Multi-Strategy Differential Evolution (MSDE) algorithm (incorporating elite-sharing, perturbation-backtracking, and adaptive-tuning strategies) was combined to optimize the injection molding process of the brain-computer interface (BCI). A node displacement prediction model was constructed through Moldex3D simulation and Kriging interpolation. During the out-of-body sensation phase of NDEs, EEG showed an increase in gamma waves and a decrease in alpha waves, while ECG exhibited arrhythmia, confirming the coordinated changes between the brain and the heart. In BCI manufacturing, the MSDE algorithm reduced the average node displacement from 0.289\u00a0mm to 0.021\u00a0mm (with an optimization rate of 92.73%), the volume shrinkage rate from 10.162% to 6.39%, and the optimized voltage difference from 5.78\u00a0V to 0.42\u00a0V, which was consistent with the improvement in displacement. Multi-dimensional analysis is crucial for decoding the mechanism of NDEs. The optimized BCI hardware enables accurate collection of NDE-related physiological signals, providing scientific support for end-of-life care, optimization of resuscitation protocols, and consciousness research, while also building a cross-disciplinary bridge between engineering and life sciences.",
-      "journal": "Scientific reports",
+      "abstract": null,
+      "journal": "Healthcare (Basel, Switzerland)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -164,47 +653,270 @@
       "matched_keywords": []
     },
     {
-      "title": "The impact of social-emotional learning interventions on teacher well-being: a meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42343444/",
+      "title": "Development and usability testing of a mindfulness-based smoking cessation app for adults with low income: \"It's helped me to not react and grab a cigarette\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42359523/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-26T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.718469",
+      "doi": "10.1177/13591053261461905",
+      "authors": [
+        {
+          "name": "Madison M Murphy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Katherine C Henderson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Salma Abdirahim",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tanvi Kulkarni",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Darla E Kendzor",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michael Businelle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michael P Eriksen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Matthew J Hayat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David W Wetter",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claire A Spears",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Adults with low socioeconomic status (SES) experience profound tobacco-related health disparities. This paper describes the development of a mobile application, iQuit Mindfully 2.0, to provide accessible mindfulness training for smoking cessation for adults with low SES. In the initial usability study, adults with low SES who smoked (",
+      "journal": "Journal of health psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Multidimensional resiliency factors and psychopathology after acute trauma: Results from a prospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347781/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-06-25T00:00:00",
-      "date_fetched": "2026-06-25T14:01:07.186717",
-      "doi": "10.1186/s40359-026-05053-9",
+      "date_fetched": "2026-06-26T14:00:40.718675",
+      "doi": "10.1037/tra0002183",
       "authors": [
         {
-          "name": "Diya Dou",
+          "name": "Hannah H Kim",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yahan Chen",
+          "name": "Anushka Kumar",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xiaoqin Zhu",
+          "name": "Kristen Nishimi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xue Wu",
+          "name": "Henning Tiemeier",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Louisa S M Lei",
+          "name": "Jordan W Smoller",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jieping Shi",
+          "name": "Stacey L House",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Francesca L Beaudoin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xinming An",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jennifer S Stevens",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Thomas C Neylan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gari D Clifford",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sarah D Linnstaedt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Scott L Rauch",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "John P Haran",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alan B Storrow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Lewandowski",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Paul I Musey",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Phyllis L Hendry",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sophia Sheikh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brittany E Punches",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Robert A Swor",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jose L Pascual",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mark J Seamon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claire Pearson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David A Peak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Roland C Merchant",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Robert M Domeier",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Niels K Rathlev",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brian J O'Neil",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Paulina Sergot",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Leon D Sanchez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Steven E Bruce",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Steven E Harte",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kerry J Ressler",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Samuel A McLean",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karestan C Koenen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karmel W Choi",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Most previous meta-analytic reviews of social-emotional learning (SEL) have primarily focused on assessing the effects of SEL on students, often overlooking the pivotal role of teachers in these programs. Teachers are the driving force behind the implementation of SEL programs, and their well-being is significantly impacted by these programs, which in turn is essential for promoting student development. METHODS: To address this gap, the current study adopts a meta-analytical approach to examine the impact of universal school-based SEL programs on teacher well-being and identify factors that may influence the effectiveness of SEL. A dual-pathway model is employed to distinguish effects on positive versus negative well-being outcomes. RESULTS: The final sample consisted of 18 studies involving 3,465 teachers and indicated a significant positive effect on overall well-being (g\u2009=\u20090.257). Specifically, SEL programs exhibited marked improvements in teachers' positive well-being (g\u2009=\u20090.313) and significant alleviation of negative well-being (g\u2009=\u20090.149). Three-level meta-regression analyses identified research design, additional coaching, and mindfulness as significant moderators influencing SEL effectiveness, whereas duration and dosage were not found to be significant factors. CONCLUSION: The integration of supplementary coaching for educators into SEL programs has been demonstrated to result in a substantial enhancement of teachers' positive well-being. Concurrently, the incorporation of mindfulness practices has been shown to engender a significant reduction in teachers' negative well-being. The distinction between positive and negative pathways offers insights into enhancing teacher well-being through the implementation of SEL programs, with a focus on the selection of appropriate strategies that are tailored to the needs of teachers. Limitations, practical implications, and future directions are finally discussed.",
-      "journal": "BMC psychology",
+      "abstract": "OBJECTIVE: Preventing posttraumatic psychopathology (e.g., depression or posttraumatic stress disorder [PTSD]) following an acute traumatic event requires attention to modifiable factors that may protect against such psychopathology. In this study, we aimed to identify the relative contributions of resiliency factors across multiple domains to posttraumatic psychopathology and to delineate subcomponents that may be most influential. METHOD: This study leveraged prospective data from 2,043 trauma-exposed individuals recruited from emergency departments in the Advancing Understanding of RecOvery afteR traumA Study. We first used structural equation modeling to examine higher level regulatory and interpersonal strength domains following acute trauma exposure and their relative associations with symptoms of depression or PTSD at 3 months posttrauma. We then tested which specific factors within these domains were associated with 3-month symptoms. RESULTS: Both regulatory and interpersonal strength domains were linked to fewer symptoms of depression and PTSD 3 months later, though relational strengths were more strongly associated than regulatory strengths when modeled together. Within interpersonal strengths, higher levels of emotional support and supportive networks, but not social engagement, were associated with lower depressive and PTSD symptoms. Within regulatory strengths, trait resilience was associated with lower depressive and PTSD symptoms, and self-efficacy showed mixed associations, whereas mindfulness (measured as nonreactively observing internal experiences) was associated with higher symptoms. CONCLUSIONS: Findings suggest enhancing interpersonal resiliency, above and beyond regulatory strengths, may be crucial in the aftermath of acute trauma, with emotional support and supportive networks as especially strong potential buffers against posttraumatic psychopathology. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "journal": "Psychological trauma : theory, research, practice and policy",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -212,92 +924,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Mechanistic insights toward dissociating therapeutic from psychedelic effects: bridging the gap between psychedelic research and mental health care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42342649/",
+      "title": "Electrocortical Indices of Default Mode Network-Related Activity in ADHD and Modulation Through Mindfulness-Based Cognitive Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42350829/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-24T00:00:00",
-      "date_fetched": "2026-06-25T14:01:07.186775",
-      "doi": "10.1038/s41398-026-04203-2",
+      "date_published": "2026-06-26T00:00:00",
+      "date_fetched": "2026-06-26T14:00:40.718759",
+      "doi": "10.1007/s10548-026-01227-1",
       "authors": [
         {
-          "name": "Mauro Pettorruso",
+          "name": "Poppy L A Schoenberg",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Giacomo d'Andrea",
+          "name": "Reza M Zargar",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Antonio Inserra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Clara Cavallotto",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stefano Censi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Etienne Billard",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Antonio Di Stefano",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Luisa De Risio",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maria Giulia Tullo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Claudio D'Addario",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Giorgio Di Lorenzo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard G Wise",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stefano L Sensi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Francesca Zoratto",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Giovanni Martinotti",
+          "name": "Sevket Hepark",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Clinical trials investigating psychedelic compounds for depression and anxiety-related disorders are yielding promising preliminary results. Psychedelics produce profound alterations in brain function-such as suppression of the default mode network and thalamocortical dysregulation-leading to intense subjective experiences including ego dissolution and mystical-type states.While often described as meaningful or therapeutic, these effects can also be unpredictable or distressing. Because of these effects, which require labor-intensive, potentially cost-challenging preparation, administration, integration sessions, and exclude individuals with psychiatric vulnerabilities (e.g., bipolar disorder, borderline personality disorder, schizophrenia), questions remain about their real-world scalability. Consequently, there is growing interest in the possibility of dissociating the therapeutic benefits of psychedelics from their consciousness-altering effects.In this perspective, we examine emerging clinical and preclinical evidence investigating this scientifically timely and pressing question. Pharmacological strategies such as serotonin 2A receptor (5-HT",
-      "journal": "Translational psychiatry",
+      "abstract": "Research suggests that ADHD is characterized by dominant Default-Mode Network (DMN) and diminished Task Positive Network (TPN) activity, which has been linked to detrimentally affecting attention and executive task-dependent functioning. Interventions targeting this DMN-TPN interplay may be clinically important in ameliorating ADHD symptoms. This hypothesis was explored using frequency and spatial domains of 33-channel EEG data as an index of the EEG-DMN. Specifically, tonic EEG power spectra measures and Low Resolution Brain Electromagnetic Tomography (LORETA) analysis during resting-state eyes-open and eyes-closed were examined in 54 ADHD patients versus 16 healthy-controls. Furthermore, the effects of a 12-week Mindfulness-Based Cognitive Therapy (MBCT) programme were observed in the same ADHD patient sample, with 30 patients randomly allocated to MBCT and 24 to wait-list control. Significantly reduced power across EEG spectra, and increased activation of the medial ventral prefrontal cortex (mvPFC) indexed via LORETA, was observed in ADHD patients compared to healthy controls. MBCT-related increase in \u03b2-power, and increased LORETA current density of the precuneus, was observed. These findings suggest the clinical utility of considering the basal brain state in ADHD within the wider perspective of cortical hypoactivity. MBCT-related elevated \u03b2-power viably connects to enhanced cortical alertness/activation and arousal of the DMN, conceivably aiding the more efficient regulation of the DMN-TPN interplay. Increased precuneus activation, a central region of the DMN, may reflect altered intrinsic baseline activity relevant to more adaptive regulation of DMN-TPN dynamics, associated with attentional control and executive processes. Further understanding of the EEG DMN-TPN dynamic within ADHD may present neural markers of inattention and executive functioning, further to elucidating a working mechanism of MBCT in its treatment.",
+      "journal": "Brain topography",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -305,31 +957,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Reset: Hat",
-      "url": "https://aeon.co/videos/in-the-american-west-a-man-named-hat-sets-out-to-leave-no-trace",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-06-25T10:01:00",
-      "date_fetched": "2026-06-25T14:01:07.284578",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Aeon Video",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Aeon",
-      "excerpt": "This portrait of a life reimagined is a meditation on identity, happiness and the balance between freedom and conformity- by Aeon VideoWatch on Aeon",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "meditation"
-      ]
-    }
-  ]
+  "articles": []
 }
