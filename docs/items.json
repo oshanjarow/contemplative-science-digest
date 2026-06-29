@@ -1,48 +1,68 @@
 {
-  "generated_at": "2026-06-28T13:13:01.417692",
+  "generated_at": "2026-06-29T15:27:46.017983",
   "papers": [
     {
-      "title": "Shared Neural Mechanisms of Trait Mindfulness and Hypnotic Susceptibility: A Scoping Review Toward a Unifying Predictive Coding Framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364853/",
+      "title": "Three Buddhist Vocabularies: Computational Stylometry of the English Pali Canon across Sutta, Vinaya, and Abhidhamma",
+      "url": "https://www.semanticscholar.org/paper/6f4a9459c1e268e5f3c394c2fa313f6940b2fbb8",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-27T00:00:00",
-      "date_fetched": "2026-06-28T13:13:00.856516",
-      "doi": "10.1016/j.brainresbull.2026.112021",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-24T00:00:00",
+      "date_fetched": "2026-06-29T15:27:13.017358",
+      "doi": null,
       "authors": [
         {
-          "name": "Qiang Chen",
+          "name": "Joy Bose",
+          "author_id": "2072382955",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We present a computational stylometric analysis of the Tipitaka across all three Pitakas in English translation, extending earlier work on the Sutta Pitaka alone. The corpus spans 134,831 segments from Bhikkhu Sujato's Sutta Pitaka (114,591 segments, CC0), Bhikkhu Brahmali's Vinaya Pitaka (7,923 segments, CC0 2026), I.B. Horner's 1938 Vinaya translation (2,826 segments), three English translations of the Abhidhammattha Sangaha compendium (2,077 segments), and cross-tradition Vinaya texts from the Dharmaguptaka and Mulasarvastivada schools. We compute Zipf rank-frequency distributions with OLS-fitted exponents, Moving Average TTR (MATTR-500), numeral-word density, and vocabulary overlap (Jaccard and Szymkiewicz-Simpson coefficients). Main findings: (1) all corpora show Zipf-consistent distributions (R2>0.989); the Vinaya is closest to ideal Zipf slope -1 and the Sangaha corpus deviates most, with'consciousness'displacing grammatical particles at rank 8; (2) MATTR-500 shows the Sutta and Vinaya Theravada are nearly identical in lexical diversity (0.399 and 0.400), while the Sangaha corpus is genuinely more diverse (0.560), confirmed by size-controlled subsampling; (3) the Sangaha corpus has the highest numeral-word density (3.26%), consistent with its systematic enumeration of mental and material categories; (4) the Mulasarvastivada Vinaya shares 20.0% vocabulary (Jaccard) and 49.1% (overlap coefficient) with the Theravada Vinaya, reflecting shared legal heritage across two millennia; (5) two English translations of the same Vinaya source text share only 24.2% of their vocabulary across 88 years, with'musing'versus'absorption'for jhana and'defeat'versus'expulsion'for parajika as the most diagnostic shifts. All results are point estimates; no significance testing is conducted. Code and data are released as open-source extensions to the Darshana Graph corpus (arXiv:2606.18222).",
+      "journal": "",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "What are the perceptions, barriers and opportunities for spatial computing in health and self-care among UK adults? A cross-sectional online survey of the public and healthcare professionals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42366000/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-06-28T00:00:00",
+      "date_fetched": "2026-06-29T15:27:45.160499",
+      "doi": "10.1136/bmjopen-2026-116872",
+      "authors": [
+        {
+          "name": "Austen El-Osta",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yating Zhang",
+          "name": "Connor S Qiu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chenrui Liu",
+          "name": "Aos Alaa",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yu Fu",
+          "name": "Mohammed Adam",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Quan Gan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zhuangfei Chen",
+          "name": "Sami Altalib",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: This scoping review systematically compares the neural mechanisms underlying trait mindfulness and hypnosis susceptibility, focusing on three key dimensions: brain region activation, electroencephalographic (EEG) signals, and core brain networks. The aim is to elucidate potential shared mechanisms involved in conscious state modulation. METHODS: Through a comprehensive review of existing brain imaging and EEG studies, we found that both phenomena involve the prefrontal cortex and anterior cingulate cortex, enhanced theta and alpha EEG rhythms, and are closely related to the dynamic interaction between the salience network and the central executive network. RESULTS: These findings suggest their potential role in attentional regulation. Guided by the theory of predictive coding for interoception, we propose an integrative framework: trait mindfulness and hypnosis susceptibility jointly influence cognitive processes and alter self-conscious states through differential regulation. Specifically, trait mindfulness enhances perceptual inference and metacognitive awareness, whereas hypnosis susceptibility facilitates the acceptance of high-precision prior cues (suggestions) and promotes active inference. CONCLUSIONS: This framework provides a unified perspective for understanding the foundation of the two constructs and identifies directions for future research and clinical translation (e.g., anxiety interventions).",
-      "journal": "Brain research bulletin",
+      "abstract": "OBJECTIVES: To assess public and healthcare professional knowledge, attitudes, perceptions and behaviours regarding spatial computing technologies, virtual reality (fully immersive computer-generated environments), augmented reality (digital overlays on the physical world) and mixed reality (spatially anchored holograms) in healthcare, with a focus on perceived benefits for self-care and barriers to adoption in primary care and community settings. DESIGN: Cross-sectional online survey. SETTING: UK-wide, web-based survey conducted between January 2025 and August 2025. PARTICIPANTS: Community-dwelling adults aged \u226518 years residing in the UK, including healthcare professionals. A total of 405 respondents completed the survey; 41 were healthcare professionals. INTERVENTIONS: No intervention was delivered. Participants completed a structured questionnaire assessing familiarity with spatial computing, perceived utility across self-care domains aligned to the Seven Pillars of Self-Care and perceived barriers to adoption. PRIMARY AND SECONDARY OUTCOME MEASURES: Primary outcomes were self-reported familiarity with spatial computing technologies and perceived benefit across self-care domains. Secondary outcomes included perceived barriers to adoption and associations between demographic characteristics and familiarity. Analyses used descriptive statistics and exploratory inferential tests (\u03c7\u00b2, Fisher's exact, Friedman and Wilcoxon signed-rank tests with Bonferroni correction). RESULTS: Most respondents (71.4%) reported familiarity with spatial computing technologies, although regular use was uncommon (4.7%). Oculus Quest (57.5%) and Apple Vision Pro (46.9%) were the most recognised platforms. Participants perceived strong potential for supporting health literacy, mental well-being and physical activity, particularly through guided mindfulness, avatar-led exercise and immersive patient education. Perceived benefit was lower for medication management and dietary guidance. Familiarity was statistically associated with gender (p<0.001), age (p=0.002) and ethnicity (p=0.006), with higher awareness among men, younger adults and some minority ethnic groups. The most frequently cited barriers to adoption were high cost (56.5% rating as critical), lack of training (67.4% rating 4-5)\u2009and data privacy concerns (63.5%). CONCLUSIONS: Spatial computing is viewed positively by the public and healthcare professionals as a tool to support self-care and aspects of healthcare delivery, particularly health literacy, mental well-being and physical activity. However, high cost, training gaps and privacy concerns remain substantial barriers. Targeted investment in evidence generation, workforce training and inclusive governance will be necessary to support equitable and responsible implementation.",
+      "journal": "BMJ open",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -50,151 +70,27 @@
       "matched_keywords": []
     },
     {
-      "title": "IMPROAGING: A multicomponent intervention to achieve healthy aging through improvisation theatre.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42348980/",
+      "title": "Resilience Building and Enhancing Mental Health: A Scoping Review of School-to-University Programs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42347579/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-06-25T00:00:00",
-      "date_fetched": "2026-06-28T13:13:00.857139",
-      "doi": "10.1016/j.regg.2026.101814",
+      "date_published": "2026-06-29T00:00:00",
+      "date_fetched": "2026-06-29T15:27:45.161061",
+      "doi": "10.3928/02793695-20260619-02",
       "authors": [
         {
-          "name": "Irene Criado Mart\u00edn",
+          "name": "Siriphorn Na Nakorn",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chenhui Chenhuichen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marina S\u00e1nchez-Latorre",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karmele J Garaioa Aranburu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Beatriz Echarte Archanco",
+          "name": "Genevieve E Chandler",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Improvisational theatre is an activity that combines many of the recommendations that promote healthy aging: physical exercise, cognitive stimulation, socialization, meditation and music therapy. The purpose of the study is to assess whether improvisational theatre can enhance physical and cognitive function, as well as quality of life and emotional status of older adults. DESIGN: A quasi-experimental study was conducted in five groups (two from residential facilities and three comprising community dwelling older adults), utilizing a convenience-based sample size. SAMPLE AND SETTING: Fifty-six participants were recruited, with a mean age of 76.6 (9.3), of whom 73% were women, 34% lived in residential facilities, and 66% lived in the community. RESULTS: While Barthel Index and Lawton Index remained stable along the intervention period, we found statistically significant changes in all the other physical-related assessed variables (SPPB, hand-grip strength, FRAIL index). There was also significant improvement in the MoC@ scale, verbal and semantic fluency, EuroQol, loneliness and depression. Sensitivity analyses indicated that some effects may be context-dependent and influenced by subgroup composition (Visual Analogue Scale, MoC@, FRAIL, and verbal fluency). CONCLUSION: Improvisational theatre enhanced physical, mental, social, and emotional well-being of participants. Incorporating improvisational theatre training is a valuable addition to interventions aimed at addressing the challenges posed by an aging population on a broader scale.",
-      "journal": "Revista espanola de geriatria y gerontologia",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Rapid Reduction in Cancer Worry Through a Mindfulness-based Coping Programme: Evidence from a Randomised Trial with Women Awaiting Biopsy Results.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364950/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-27T00:00:00",
-      "date_fetched": "2026-06-28T13:13:00.857181",
-      "doi": "10.1016/j.soncn.2026.152284",
-      "authors": [
-        {
-          "name": "Fatma Ozlem Uner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Oznur Korukcu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Women referred for cervical screening because of abnormal cervical smears also require emotional and psychological support because of the fear of cancer diagnosis. OBJECTIVES: The study aimed to determine the effect of the Mindfulness-Based Coping programme on levels of cancer fear and awareness in women undergoing colposcopy. METHODS: This is a prospective, single-centre, single-blind, randomised controlled trial. Research data was collected at a university hospital in Turkey between January 2022 and July 2023. RESULTS: The study revealed significant findings. The mean cancer worry score of women in the intervention group decreased significantly compared to the control group, the mean discrimination sub-dimension score was significantly higher than the control group, and the difference between the groups was statistically significant (P < .001). Mean scores for acceptance were significantly lower in the intervention group than in the control group (P < .001). CONCLUSIONS: This study found that the Mindfulness-Based Coping Programme, a nursing initiative, effectively reduces cancer-related anxiety in women and recommends its wider integration into clinical practice by healthcare professionals. IMPLICATIONS FOR PRACTICE: The integration of the Mindfulness-Based Coping Programme (MBCP) into standard colposcopy care is effective in reducing cancer-related anxiety and improving emotional well-being, thus promoting a more holistic approach to patient care.",
-      "journal": "Seminars in oncology nursing",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Evaluating the effectiveness of substance use disorder treatment centers: a systematic review of international standards and outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365295/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-27T00:00:00",
-      "date_fetched": "2026-06-28T13:13:00.857406",
-      "doi": "10.1186/s13011-026-00742-5",
-      "authors": [
-        {
-          "name": "Maryam Jafar Sameri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Majid Alizadeh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ehsan Moradi-Joo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nazila Azizi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sedighe Sadat Tabatabaei Far",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Substance Use Disorder represents a complex global public health challenge, yet the effectiveness of treatment centers remains debated due to lack of consensus on standardized international indicators and heterogeneity of treatment modalities. This systematic review aimed to identify and synthesize key international indicators for measuring treatment success, compare effectiveness of different modalities, and assess impact on social reintegration. METHODS: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 and Population, Intervention, Comparison, Outcome frameworks, we conducted systematic searches of PubMed, Scopus, Web of Science, and Cochrane Library. Two reviewers independently screened 4,234 records, extracted data from 28 included studies, and assessed quality using Cochrane Risk of Bias 2 and Newcastle-Ottawa Scale. Heterogeneity was quantified using I-squared and tau-squared statistics. RESULTS: Core indicators emerged in three domains: physiological (abstinence, daily functioning), psychological (reduced anxiety/depression, craving reduction), and social (employment, family relations). Medication-Assisted Treatment with methadone and buprenorphine demonstrated consistent effectiveness in reducing substance use and preventing relapse. Psychosocial interventions, particularly Cognitive Behavioral Therapy and Mindfulness-Based Relapse Prevention, significantly enhanced quality of life. Integrated models combining pharmacological and psychosocial approaches outperformed single-modality treatments. However, 78.6% of studies originated from four high-income countries, and only 17.9% reported outcomes beyond 12 months. CONCLUSIONS: Effective Substance Use Disorder treatment requires integrated models with standardized, multidimensional outcome indicators. Future research must prioritize long-term outcomes and address the substantial evidence gap in low- and middle-income countries. CLINICAL TRIAL NUMBER: Not applicable.",
-      "journal": "Substance abuse treatment, prevention, and policy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Unraveling the mediating role of anxiety and depression: Cultivating mindfulness to improve quality of life in Parkinson's disease patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42364333/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-06-27T00:00:00",
-      "date_fetched": "2026-06-28T13:13:00.857860",
-      "doi": "10.1016/j.gerinurse.2026.104172",
-      "authors": [
-        {
-          "name": "Lily Man Lee Chan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Edmond Pui Hang Choi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Peter M Wayne",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jojo Yan Yan Kwok",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: To explore the associations between mindfulness, psychological distress, and health-related quality of life (HRQOL), and examine whether psychological distress mediates the association between mindfulness and HRQOL in individuals with Parkinson's disease (PD). METHODS: This is a secondary analysis of baseline data from a clinical trial investigating mindfulness-based interventions in patients with mild-to-moderate PD (n = 159). Participants completed validated questionnaires assessing mindfulness, psychological distress (anxiety and depression), disease-specific HRQOL, and assessor-rated motor symptom severity. RESULTS: The sample consisted of 159 participants, including 83 female (52.2%) with a mean age of 64.8 years (SD = 7.9). Of these, 107 participants (67.3%) were classified at Hoehn and Yahr stage 3. Independent t-tests showed that psychologically distressed individuals had significantly lower mindfulness levels and poorer HRQOL than non-distressed individuals. Multiple linear regression analyses showed that higher mindfulness levels were associated with reduced anxiety and depression and improved HRQOL, particularly in the non-judging and acting with awareness facets. Mediation analyses demonstrated that anxiety and depression fully mediated the relationship between the observing and non-judging facets of mindfulness and HRQOL. In contrast, acting with awareness facet was partially mediated by both anxiety and depression, while describing facet was fully mediated by depression alone. CONCLUSION: Integrating mindfulness interventions into clinical pathways for neurodegenerative diseases could offer patients with effective tools to improve their quality of life. These interventions, focused on observing, non-judging, and acting with awareness, could enhance psychological care. Notably, for individuals at risk of comorbid depression, the 'describing' facet of mindfulness may play a particularly critical role in mitigating psychological distress.",
-      "journal": "Geriatric nursing (New York, N.Y.)",
+      "abstract": "PURPOSE: The current scoping review examined resilience-promoting interventions for adolescents and young adults, with a focus on those designed or delivered by nurses. METHOD: A systematic search across multiple databases identified 3,092 records, with 14 studies meeting inclusion criteria. RESULTS: Interventions, implemented in various settings, such as schools and health care facilities, included strength-based training, mindfulness, psychoeducation, and cognitive-behavioral approaches, typically lasting 4 to 10 weeks. Outcomes assessed included resilience, emotional regulation, depression, anxiety, stress, self-esteem, and self-efficacy. Results indicated that these interventions consistently improved coping skills, enhanced resilience, and reduced psychological distress. Notably, nurse-led programs demonstrated feasibility and effectiveness in delivering these interventions. CONCLUSION: Findings suggest that resilience-building strategies are crucial for adolescent mental health, underscoring the vital role of nurses in their implementation. Future research should focus on scalable, nurse-led models and their implications for psychiatric-mental health nursing practice, education, and policy.",
+      "journal": "Journal of psychosocial nursing and mental health services",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
