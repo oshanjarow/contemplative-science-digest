@@ -1,81 +1,98 @@
 {
-  "generated_at": "2026-07-03T13:40:03.221747",
+  "generated_at": "2026-07-04T12:57:47.566290",
   "papers": [
     {
-      "title": "A Two-Fluid Model of Brain Dynamics",
-      "url": "https://www.semanticscholar.org/paper/c0b1a09e313c0e34203c09a763dbc2ed9bdb2365",
+      "title": "Empowering Digital Defense: The Role of Cyber-Vaccination and Awareness Training in Strengthening Cybersecurity in the Modern Era Awareness Training for Cybersecurity",
+      "url": "https://www.semanticscholar.org/paper/51785f66d0b480515909b5fb78afb6fff36ed4ae",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-06-30T00:00:00",
-      "date_fetched": "2026-07-03T13:39:00.486952",
-      "doi": "10.64898/2026.06.25.734626",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-07-04T12:57:02.052978",
+      "doi": "10.2478/ejels-2026-0003",
       "authors": [
         {
-          "name": "Ahmed Farag Ali",
-          "author_id": null,
+          "name": "A. Sharko",
+          "author_id": "70037404",
           "affiliation": null
         },
         {
-          "name": "Nader Inan",
-          "author_id": "2300369770",
+          "name": "Folitjona Puravelli",
+          "author_id": "2405569181",
           "affiliation": null
         },
         {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
-          "affiliation": null
-        },
-        {
-          "name": "P. Mikheenko",
-          "author_id": "2241276028",
+          "name": "Genci Sharko",
+          "author_id": "69926450",
           "affiliation": null
         }
       ],
-      "abstract": "We develop a theoretical proposal linking vacuum stability and brain dynamics through superconductivity-inspired coherence, symmetry reduction, and the thermodynamic stabilization of low-entropy regimes. We take an unbroken SU(3) structure as a candidate stable residue of the low-temperature vacuum. At the neural level, we formulate a coarse-grained analog in which a two-fluid model with dissipative and coherence-supporting components describes brain dynamics. Specifically, the coherence-supporting component is proposed as a possible basis for the efficient binding and integration required to sustain a stable, unified conscious state. The proposal offers a common geometric language for relating physics and neuroscience with falsifiable signatures in coherence and state-dependent transitions. The main technical contribution is a computational algebraic model of conscious-state dynamics, where neural data are mapped to reconstructed state trajectories. Effective generators are inferred from those trajectories, and the two-fluid split is tested as a Cartan-root decomposition of su(3), with a rank-two commuting sector for coherence-preserving balance and six root directions for state transitions. This structure can be tested on neural data and contrasted with alternative dynamical models.",
-      "journal": "bioRxiv",
+      "abstract": "Abstract Today\u2019s rapidly evolving digital world has experienced a steady increase in the threat of hacking. As cyberattacks become more frequent and sophisticated, cyber-vaccination technology is being developed as a security method to counter the potential dangers posed by botnets. Cyber-vaccination involves exposing individuals to simulated cyberattacks, allowing them to become familiar with common threats and learn how to respond appropriately. Through internet safety awareness training, participants develop essential skills that are critical for maintaining online security. On a global scale, the growth of cybercrime mirrors the rapid spread of an infectious virus. Based on reported financial losses, cybercriminals appear to be accumulating increasing amounts of stolen funds each year. Although a wide range of advanced technologies exists to identify and prevent known cyber threats, these measures are often insufficient when attackers exploit human behavior as their primary method of intrusion. Many reputable organizations invest significant resources in training their employees to recognize and avoid phishing emails and other forms of cyberattacks. These organizations allocate funding and establish specialized teams to provide effective cybersecurity education. However, a substantial portion of the general population lacks access to such routine training, which presents a significant challenge. Providing accessible cybersecurity education is therefore essential. This study aims to examine the various free training options currently available, as well as the common risks and challenges associated with these educational opportunities. Additionally, the study will compare alternative solutions to determine their effectiveness in improving cybersecurity awareness.",
+      "journal": "European Journal of Economics, Law and Social Sciences",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "awareness training"
+      ]
     },
     {
-      "title": "Machine Learning-Based Classification of Jhana Advanced Concentrative Absorption Meditation (ACAM-J) using 7T fMRI",
-      "url": "https://www.semanticscholar.org/paper/599179d1020f145a3017f7c501fca38308c28110",
+      "title": "The influence of game-based learning on tactical awareness and skill development in golf training programs",
+      "url": "https://www.semanticscholar.org/paper/acd87107c4c7df2f1c42b3ca0673c8651cdab8cc",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-13T00:00:00",
-      "date_fetched": "2026-07-03T13:39:27.958705",
-      "doi": "10.48550/arXiv.2602.13008",
+      "date_published": "2025-07-22T00:00:00",
+      "date_fetched": "2026-07-04T12:57:02.053059",
+      "doi": "10.1371/journal.pone.0328738",
       "authors": [
         {
-          "name": "Puneet Kumar",
-          "author_id": "2291199974",
-          "affiliation": null
-        },
-        {
-          "name": "W. F. Yang",
-          "author_id": "2300816450",
-          "affiliation": null
-        },
-        {
-          "name": "Alakhsimar Singh",
-          "author_id": "2322617111",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaobai Li",
-          "author_id": "2266423066",
-          "affiliation": null
-        },
-        {
-          "name": "M. Sacchet",
-          "author_id": "2324309146",
+          "name": "Chenghui Jin",
+          "author_id": "2374213384",
           "affiliation": null
         }
       ],
-      "abstract": "Jhana advanced concentration absorption meditation (ACAM-J) is related to profound changes in consciousness and cognitive processing, making the study of their neural correlates vital for insights into consciousness and well-being. This study evaluates whether functional MRI-derived regional homogeneity (ReHo) can be used to classify ACAM-J using machine-learning approaches. We collected group-level fMRI data from 20 advanced meditators to train the classifiers, and intensive single-case data from an advanced practitioner performing ACAM-J and control tasks to evaluate generalization. ReHo maps were computed, and features were extracted from predefined brain regions of interest. We trained multiple machine learning classifiers using stratified cross-validation to evaluate whether ReHo patterns distinguish ACAM-J from non-meditative states. Ensemble models achieved 66.82% (p<0.05) accuracy in distinguishing ACAM-J from control conditions. Feature-importance analysis indicated that prefrontal and anterior cingulate areas contributed most to model decisions, aligning with established involvement of these regions in attentional regulation and metacognitive processes. Moreover, moderate agreement reflected in Cohen's kappa supports the feasibility of using machine learning to distinguish ACAM-J from non-meditative states. These findings advocate machine-learning's feasibility in classifying advanced meditation states, future research on neuromodulation and mechanistic models of advanced meditation.",
-      "journal": "arXiv.org",
+      "abstract": "Objective To investigate the effects of game-based learning on tactical awareness and skill development in golf training programs. Methods A randomized controlled trial was conducted with 45 male athletes aged 18\u201330, divided into three groups: Tactical Awareness Training Group (TATG), Skill-Based Training Group (SBTG), and an Active Control Group (ACG). The intervention lasted eight weeks. Tactical awareness was assessed using a modified Tactical Skills Inventory for Sport (TACSIS) includes Knowing About Ball Actions (KABA), Acting in Changing Situations (ACS) and Positioning and Deciding (PD); while technical performance metrics, including Drive Distance (DD), Putting Accuracy (PA), and Swing Consistency (SC), were measured using validated tools. Pre- and post-intervention results were analyzed for within-group and between-group differences. Results Within-group improvements were significant for TATG in all tactical subscales: KABA (\u0394\u2009=\u200915.6%, p\u2009<\u20090.001), ACS (\u0394\u2009=\u200918.9%, p\u2009<\u20090.001), and PD (\u0394\u2009=\u200919.2%, p\u2009<\u20090.001). SBTG showed significant skill improvements in DD (\u0394\u2009=\u20093.6%, p\u2009<\u20090.001), PA (\u0394\u2009=\u20097.5%, p\u2009<\u20090.001), and SC (\u0394\u2009=\u2009\u221224.6%, p\u2009<\u20090.001). Between-group analysis indicated TATG outperformed ACG significantly on tactical awareness, and SBTG significantly outperformed ACG on technical metrics (p\u2009<\u20090.05). Conclusions The study highlights the complementary benefits of integrating tactical and technical training strategies in golf. Game-based learning in the TATG improved situational adaptability and strategic decision-making, while skill-focused training in the SBTG resulted in superior precision and consistency. These findings advocate for a holistic approach to golf training, incorporating both cognitive and physical components to optimize performance outcomes.",
+      "journal": "PLoS ONE",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Jh\u0101na Dalam Buddhisme",
+      "url": "https://www.semanticscholar.org/paper/888ec985f63184cf20cc3a0a5085ee6e4e2d4af1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-12T00:00:00",
+      "date_fetched": "2026-07-04T12:57:14.486226",
+      "doi": "10.57235/jerumi.v4i1.8197",
+      "authors": [
+        {
+          "name": "Le\u00f3n Gilberto Medellin Lopez",
+          "author_id": "122876962",
+          "affiliation": null
+        },
+        {
+          "name": "Budi Utomo",
+          "author_id": "2446496817",
+          "affiliation": null
+        },
+        {
+          "name": "Sandia Wijaya",
+          "author_id": "2446608727",
+          "affiliation": null
+        },
+        {
+          "name": "Putri Setiyani",
+          "author_id": "2446603694",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Jh\u0101na merupakan salah satu konsep sentral dalam praktik meditasi Buddhis yang berkaitan dengan perkembangan konsentrasi mendalam (sam\u0101dhi). Dalam tradisi Buddhisme Therav\u0101da, jh\u0101na dipahami sebagai kondisi absorpsi mental yang dicapai melalui pengembangan samatha-bh\u0101van\u0101. Meskipun demikian, pemahaman tentang jh\u0101na sering menjadi bahan diskusi dan perdebatan dalam kajian Buddhisme modern, khususnya mengenai perannya dalam pencapaian Nibb\u0101na, potensi bahaya dalam praktiknya, serta perbedaan interpretasi antara sumber kanonik seperti sutta dan komentar klasik seperti Visuddhimagga. Artikel ini bertujuan menjelaskan pengertian jh\u0101na, karakteristiknya, hubungannya dengan realisasi spiritual, serta kontroversi yang muncul dalam studi Buddhisme kontemporer. Metode penelitian yang digunakan adalah studi literatur terhadap sumber-sumber kanonik Buddhis, komentar tradisional, dan penelitian akademik modern. Hasil kajian menunjukkan bahwa jh\u0101na memiliki posisi penting dalam jalan menuju pembebasan, tetapi interpretasi mengenai fungsinya dalam praktik meditasi masih menjadi diskusi terbuka di kalangan sarjana dan praktisi Buddhisme.",
+      "journal": "Journal of Education Religion Humanities and Multidiciplinary",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -85,502 +102,57 @@
       ]
     },
     {
-      "title": "Integrating Mindful Feeding Into Responsive Feeding Guidance.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42389792/",
+      "title": "The Impact of Mindfulness on Stress and Resilience During Military Medical Field Exercises.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41252179/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-07-01T00:00:00",
-      "date_fetched": "2026-07-03T13:39:51.550660",
-      "doi": "10.1111/mcn.70222",
+      "date_fetched": "2026-07-04T12:57:36.520074",
+      "doi": "10.1093/milmed/usaf571",
       "authors": [
         {
-          "name": "Kristen Davis",
+          "name": "Rebekah Cole",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rachel Razza",
+          "name": "Elizabeth Pearce",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lynn Brann",
+          "name": "Emmanuel P Espejo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Gabriel Merrin",
+          "name": "Pinata H Sessoms",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zachary A Flash",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karly Steffens",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "James Schwartz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cynthia S Shen",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Responsive feeding is widely recognized as a best practice in infant and young child feeding, yet the gap between its recommendation and its consistent implementation among caregivers remains a persistent challenge. Mindful feeding, which is defined as present-centered mental and emotional awareness in the feeding context, has emerged as a related but distinct construct that may help explain this gap. While research on mindful feeding is still developing, early evidence suggests it is associated with similar positive outcomes for child nutrition and development as responsive feeding, including improved diet quality and decreased negative mealtime behaviors. This Perspective argues that mindful feeding may function as a promising adjunct to support the intrapersonal conditions that facilitate responsive feeding. By cultivating awareness, emotional regulation, and nonjudgmental receptivity, caregivers may be better equipped to perceive and appropriately respond to children's hunger and satiety cues. Drawing on a comparison of definitions, theoretical frameworks, and measurement tools, we propose that mindful feeding be considered for integration into infant and young child feeding guidance and interventions alongside responsive feeding and identify priorities for research needed to support this integration.",
-      "journal": "Maternal & child nutrition",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Impact of Problematic Social Media Use on Mindful Eating: Understanding Health Within the Digital World.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41821211/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-03T13:39:51.551074",
-      "doi": "10.1111/phn.70116",
-      "authors": [
-        {
-          "name": "Dilek Diler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nevin Sanlier",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: This study aims to determine the relationship between problematic social media usage, addiction to mindful eating, digital nutrition, and health literacy among adults. STUDY DESIGN: Cross-sectional study. METHODS: The study involved 405 participants (154 men, 251 women) aged between 18 and 60. The participants were administered a questionnaire package involving demographic information sheet, anthropometric measurements, Mindful Eating Questionnaire (MEQ), Health Literacy Index (HLI), Digital Healthy Diet Literacy (DHDL), and Social Media Addiction Form (SMAS). RESULTS: Women scored 2.2 \u00b1 0.34 on the MEQ, 102.5 \u00b1 16.41 on the HLI, 21.4 \u00b1 11.95 on the DHDL, and 2.2 \u00b1 0.71 on the SMAS. Men scored 2.3 \u00b1 0.34, 100.8 \u00b1 14.69, 21.1 \u00b1 11.89, 2.6 \u00b1 2.49, respectively. Significant correlations were found between problematic social media use and education level, and employment status (p < 0.05). There was a positive correlation between problematic social media use and mindful eating, while a negative relationship was found between problematic social media use and health literacy (p < 0.05). There was a significant negative relationship between health literacy and mindful eating, and a significant positive relationship between health literacy and digital nutrition literacy (p < 0.05). CONCLUSIONS: Problematic social media usage has an impact on mindful eating, health literacy, and nutrition literacy. Improving health literacy could reduce problematic social media use by enabling individuals to benefit from health information better. Exposure to unverified diet trends on Instagram, on social media, might prevent the beneficial use of the platforms.",
-      "journal": "Public health nursing (Boston, Mass.)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Presence of meaning in life mediates the relationship between mindfulness and resilience in young adults.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41367273/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-01T00:00:00",
-      "date_fetched": "2026-07-03T13:39:51.551884",
-      "doi": "10.1080/07448481.2025.2593321",
-      "authors": [
-        {
-          "name": "Katherine Harris",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kara Petitt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jessica Rocha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carla Sharp",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Francesca Penner",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Adjustment disorder in help-seeking college students: prevalence, predictors, associations with academic adjustment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41468451/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-01T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.246859",
-      "doi": "10.1080/07448481.2025.2593313",
-      "authors": [
-        {
-          "name": "Aleksandra Juszczyk-Kalina",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pawe\u0142 Holas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rahel Bachem",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Patryk Roczon",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Understanding time as a predictor of mental health, academic performance, and help-seeking behavior among undergraduates: a mixed methods analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391524/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-02T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.246958",
-      "doi": "10.1080/07448481.2026.2681092",
-      "authors": [
-        {
-          "name": "Caitlin McKimmy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert J Gallop",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sona Dimidjian",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The impact of fathers and male role models on recovery and resilience in pediatric victims of violent trauma.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42390557/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-02T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.248351",
-      "doi": "10.1097/TA.0000000000004951",
-      "authors": [
-        {
-          "name": "Kevin J Lang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth C Seewer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Regan F Williams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Saunders Lin",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Despite the growing awareness of social determinants of health in pediatric trauma care, the influence of fathers and male caregivers on recovery following violent injury remains underexplored. Understanding this potential protective factor is essential to developing wraparound service models and resilience-building strategies for high-risk youth. METHODS: We conducted a retrospective cohort analysis of a prospectively maintained database of patients aged 0 to 17 enrolled in a hospital-based violence intervention program at an ACS-verified Level I pediatric trauma center. Eligible patients sustained violent injuries, including gunshot wounds, assaults, or stabbings, and received longitudinal case management over 6 to 12 months. Demographic, household, and social data were collected, with specific attention to caregiver composition. Outcomes included school enrollment, violent reinjury, juvenile court involvement, safety assessments, and resilience scores from Coping Orientation to Problems Experienced (COPE). Comparative analyses were performed based on the presence or absence of a father or male caregiver in the home. RESULTS: Among 227 patients enrolled over 3 years, only 31 (14%) had a father present, and 36 (16%) had any male caregiver. Mothers were present in 89% of households. Mean age was 15 years (IQR: 11-16); 67% were male, and 65% were gunshot wound victims. No significant differences were found in baseline social determinants or postdischarge safety concerns. Children with fathers demonstrated higher Coping Orientation to Problems Experienced resilience scores and showed a greater likelihood of accepting emotional support, engaging in prayer or meditation, and finding comfort in spiritual beliefs (all p<0.05). School enrollment postprogram was higher among those with fathers (100% vs. 82%, p=0.016) and was associated with fewer juvenile adjudications (p=0.002). CONCLUSIONS: Few violently injured children have a father or male caregiver present. The presence of male caregivers was associated with improved school engagement and psychological resilience following violent trauma, emphasizing the importance of male involvement in recovery and possibly prevention efforts. (J Trauma Acute Care Surg. 2026;101: 233-240. Copyright \u00a9 2026 Wolters Kluwer Health, Inc. All rights reserved.). LEVEL OF EVIDENCE: Prognostic/Epidemiological; Level III.",
-      "journal": "The journal of trauma and acute care surgery",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Systematic review and meta-analysis of\u00a0lifestyle modification interventions and their impact on seizure reduction and quality of life.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42390279/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-02T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.248539",
-      "doi": "10.1002/epi.70316",
-      "authors": [
-        {
-          "name": "Elizabeth Spurgeon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alina Ivanuik",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shivanee Sodani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth Butler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David Martinez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mary Schleicher",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Spence Sylvester",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert Saper",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Imad Najm",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dennis Lal",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: This study was undertaken to provide an overview of the research landscape and evaluate the impact of lifestyle modifications on seizure reduction and quality of life in people with epilepsy receiving standard medical treatment. METHODS: Following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, we conducted a systematic review of major databases (Medline, Embase, American Psychological Association PsycInfo, Cochrane Library, and Web of Science) through November 2025. After screening 5151 articles, 118 studies met inclusion criteria: prospective trials reporting seizure frequency in adults or mixed populations with epilepsy. Four epilepsy-trained reviewers independently assessed studies. A random-effects meta-analysis was performed on studies reporting \u226550% seizure reduction or data allowing its calculation. Short-term response was defined as the earliest postintervention time point, and long-term response as the final reported time point. RESULTS: The 118 studies covered diet (n\u2009=\u200933), supplements (n\u2009=\u200920), biofeedback (n\u2009=\u200914), psychosocial/behavioral therapy (n\u2009=\u200913), yoga/meditation/mindfulness (n\u2009=\u20098), music therapy (n\u2009=\u20097), and others. Fifty-two (44%) included control groups, whereas 91 (77%) reported statistical analysis of seizure frequency. Among those, 68% showed significant seizure reduction. Quality of life was assessed in 31 studies, 68% reporting improvement. Seventy-one studies (60%) were included in the meta-analysis. Overall, the \u226550% seizure reduction response rate was 44% for short-term outcomes (95% confidence interval [CI] =\u200938%-50%) and 50% for long-term outcomes (95% CI\u2009=\u200944%-56%). Dietary interventions had the largest evidence base (n\u2009=\u200933), with short- and long-term response rates of 40% and 51%, respectively. Meditation/yoga/mindfulness had the highest response rate (62% short term, 79% long term), whereas exercise and supplements had the lowest (30%-35%). SIGNIFICANCE: Lifestyle modifications may offer beneficial, adjunctive effects on seizure control. However, the current evidence is limited by variability in study design and quality. Larger, well-designed trials with standardized outcomes are needed to clarify how these interventions can complement epilepsy treatment. This systematic review and meta-analysis serves as a foundation for future research to better define the role of lifestyle interventions in epilepsy care.",
-      "journal": "Epilepsia",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness in Military Medicine: A Mixed-Methods Analysis of Army Medical Specialist Corps Officers' Mindfulness Competency, Beliefs, and Tendencies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391106/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-02T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.248999",
-      "doi": "10.1093/milmed/usag306",
-      "authors": [
-        {
-          "name": "Alyssa D Frazier",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brian T Gregg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elaina J DaLomba",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maria L Barefield",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Mindfulness-based interventions (MBIs) are formally endorsed within Army Holistic Health and Fitness doctrine to enhance mental readiness, cognitive performance, and psychological resilience. Despite growing empirical support for MBIs across civilian and military populations, provider preparedness for implementation within Army Medical Specialist Corps (SP) populations has not been systematically examined. This study evaluated relationships among trait mindfulness, perceived competency in delivering MBIs, and integrative health beliefs and explored implications for professional military medical education reform. MATERIALS AND METHODS: A concurrent triangulation mixed-methods design was employed. Active duty Army SP Corps officers (N\u2009=\u2009135) completed the Five Facet Mindfulness Questionnaire-Short Form (FFMQ-SF), Mindfulness Competency Questionnaire, and Complementary and Alternative Medicine Health Belief Questionnaire. Pearson correlations, analysis of variance, and multiple regression analyses were conducted (\u03b1\u2009=\u2009.05). Fourteen semi-structured interviews underwent thematic analysis. RESULTS: Significant positive correlations were observed among trait mindfulness, perceived competency, and integrative health beliefs (r\u2009=\u20090.25-0.45, P\u2009<\u2009.05). Officers reporting formal mindfulness training demonstrated higher scores across measures (P\u2009<\u2009.05). Occupational therapists demonstrated higher perceived competency compared to other specialties (P\u2009<\u2009.001). Qualitative findings identified perceived effectiveness, need for structured education, and limited implementation confidence. CONCLUSIONS: Structured integration of mindfulness education within professional military medical training may enhance doctrinal alignment and provider readiness.",
+      "abstract": "INTRODUCTION: Military medical students train in austere, high-stress environments that simulate prolonged casualty care and the cognitive and emotional demands of combat medicine. These scenarios can heighten stress and cognitive load, yet few curricula explicitly equip learners with structured strategies for psychological self-regulation. Mindfulness training has shown promise in clinical and operational contexts, but its educational role in military medical training is underexplored. MATERIALS AND METHODS: We developed the Mental Strength and Resilience Training (MSRT), a brief, theory-informed mindfulness curriculum incorporating three 1-hour sessions and asynchronous video materials. Mental Strength and Resilience Training emphasized 5 mindfulness strategies-breathing, mantra, movement, stretching, and body scan-framed for transfer to prehospital operational environments. Ninety-seven third- and fourth-year medical students at the Uniformed Services University participated across 2 high-fidelity military medical field exercises: Operation Gunpowder (36 hours) and Operation Bushmaster (5 days). Outcomes were assessed with the Mindful Attention Awareness Scale (MAAS), Brief Resilience Scale (BRS), and Perceived Stress Scale (PSS) at 4 time points. These 4 time point measures were then analyzed using a repeated measures Analysis of Variance (ANOVA) model, and the relationships between each scale score were analyzed using correlations. Faculty observers also evaluated clinical performance at Operations Gunpowder and Bushmaster for all students. Performance comparisons between students involved in the study and students not involved were compared via independent samples t-testing. The relationships between study participants' performance and their mindfulness, resilience, and stress were analyzed via correlations, with any significant correlations being entered into a regression model for further examination. This study was approved and deemed exempt by the Uniformed Services University Institutional Review Board (IRB) committee. RESULTS: Learners demonstrated significant increases in mindfulness (\u03b72p = 0.32, P < .001) and resilience (\u03b72p = 0.06, P = .002), alongside reductions in perceived stress (\u03b72p = 0.28, P < .001). Correlation analyses showed stress was consistently negatively associated with mindfulness and resilience. Faculty-rated performance scores did not differ significantly between the students involved in the study and non-participating students regularly enrolled at Operations Gunpowder and Bushmaster. However, pre-Bushmaster resilience predicted performance outcomes (P = .02) in the participating student sample. CONCLUSIONS: Brief, theory-informed mindfulness training enhanced learners' self-regulation and reduced stress during high-fidelity military medical exercises. Although performance gains were not statistically significant, the findings suggest mindfulness is a feasible and scalable approach to strengthen psychological readiness in military medical education, with potential applications across military and civilian health professions training.",
       "journal": "Military medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A Stepped Care, Peer-Delivered Intervention to Improve Substance Use and HIV Medication Adherence in Primary Care in South Africa (Project ",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42390468/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-02T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.249519",
-      "doi": "10.2196/94153",
-      "authors": [
-        {
-          "name": "Jessica F Magidson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Abigail C Hines",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sybil Hlombekazi Majokweni",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lwandile Tokwe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bronwyn Myers",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stefani Du Toit",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kristen Regenauer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lena S Andersen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Warren Burnhams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Catherine Orrell",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sean M Murphy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Goodman Sibeko",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Noah Triplett",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Esonasethu Ndwandwa",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Neliswa Naledi Kotelo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tianzhou Ma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Steven Safren",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John Joska",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: A substance use disorder (SUD) treatment gap exists globally, with the greatest gaps in settings with the fewest resources. Integrating SUD care into primary care is needed to expand access to SUD care and support adherence to chronic disease services, especially HIV, in high-burden areas. Guided by stakeholder feedback, our team has previously adapted and piloted a peer-delivered behavioral intervention for antiretroviral therapy (ART) adherence for people with HIV and SUD in HIV care (\"Khanya\")-based on behavioral activation, problem-solving, motivational interviewing, and mindfulness-based relapse prevention skills-which was shown to be feasible, acceptable, and preliminarily effective. OBJECTIVE: This study builds upon prior work to conduct a fully powered, randomized hybrid type 2 effectiveness-implementation trial (n=160) to evaluate the effectiveness of a stepped-care model of Khanya versus enhanced treatment as usual (ETAU) on ART adherence and substance use, implementation outcomes, and cost-effectiveness over 12 months. METHODS: The trial is being conducted at two public primary care clinics that integrate HIV and other chronic disease services in a high-prevalence HIV setting in South Africa. We are recruiting people with HIV who self-report SUD and demonstrate one or more indicators of ART nonadherence. Eligible participants are randomized 1:1 to Khanya or ETAU. Participants randomized to Khanya first receive \"step 1\"-a single-session Life-Steps intervention for ART adherence delivered by a peer interventionist, followed by 2 weeks of real-time electronically monitored ART adherence using Wisepill to determine step-up decisions (ie, <80% triggers a step-up to receive the full 6-session Khanya intervention). The RE-AIM (reach, effectiveness, adoption, implementation, and maintenance) framework guided outcome measure selection, including effectiveness (ART adherence: Wisepill; substance use: urinalysis and WHO ASSIST [World Health Organization's Alcohol, Smoking and Substance Involvement Screening Test]); implementation (feasibility, acceptability, fidelity, and uptake assessed using 2 validated quantitative measures and qualitative feedback over 6 months); and cost-effectiveness (microcosting, health care use, and health-related quality of life using the EuroQol-5D). Descriptive analysis will be used to summarize implementation outcomes, and intent-to-treat analysis using a linear mixed model will be conducted for effectiveness outcomes. RESULTS: Funded in August 2022, recruitment for the trial began in June 2023, and primary data collection is projected to be completed in February 2027. Recruitment for the clinical trial (n=162) was completed in March 2026. It is projected that all exit interviews will be completed by March 2027. CONCLUSIONS: This trial builds upon formative work to evaluate the effectiveness, implementation, and cost of a peer-delivered, stepped care intervention integrated into primary care. A stepped-care design to maximize optimal use of resources and integration into primary care is a necessary step to increase accessible intervention programs for people with HIV with comorbid SUD globally.",
-      "journal": "JMIR research protocols",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effectiveness of interventions to support healthcare workers' mental health and well-being: An umbrella review of systematic reviews.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391827/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-02T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.249693",
-      "doi": "10.1016/j.puhe.2026.106392",
-      "authors": [
-        {
-          "name": "Arina Yasmin Binti Mohd Nadzir",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Divya Gopinath",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kingston Rajiah",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chee Mun Fang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mari Kannan Maharajan",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: To synthesise evidence from existing systematic reviews on the effectiveness of mental health interventions for healthcare professionals and examine the contextual factors influencing their implementation and impact. STUDY DESIGN: Umbrella review of systematic reviews evaluating interventions to support the mental health of healthcare workers. METHODS: An umbrella review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Eligible systematic reviews were identified through a comprehensive database search supplemented by manual searching of reference lists. A thematic analysis and narrative synthesis were undertaken to categorise intervention types, examine implementation characteristics and evaluate reported contextual influences. RESULTS: A total of 882 records were identified, of which 14 systematic reviews met the eligibility criteria for inclusion. Eight categories of interventions were identified: (1) mindfulness-based and mind-body interventions, (2) digital and online-based interventions, (3) cognitive- and behavioural-based interventions, (4) educational- and training-based interventions, (5) organizational, structural and environmental interventions, (6) well-being, reflective and relaxation-based interventions, (7) peer and relational support interventions and (8) medical and clinical interventions. Mindfulness-based and cognitive-behavioural interventions demonstrated the strongest evidence of effectiveness; however, substantial heterogeneity was evident across intervention design, implementation processes and outcome measures. CONCLUSIONS: Although individual interventions show measurable benefits, sustainable improvements in the mental health of the healthcare workforce require integrated multilevel public health approaches. Embedding mental health support within organisational structures, workforce policies and health system governance is essential for strengthening system capacity.",
-      "journal": "Public health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Test anxiety unplugged: Evaluating a brief web-based intervention for college students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41604676/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-01T00:00:00",
-      "date_fetched": "2026-07-03T13:40:02.250340",
-      "doi": "10.1080/07448481.2025.2608833",
-      "authors": [
-        {
-          "name": "Zeynep Karatas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hande Sensoy Briddick",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
