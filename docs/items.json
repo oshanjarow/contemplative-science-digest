@@ -1,647 +1,98 @@
 {
-  "generated_at": "2026-07-09T14:28:24.077641",
+  "generated_at": "2026-07-10T13:55:30.038367",
   "papers": [
     {
-      "title": "Meditation Depth Enhances the Functional Signal-to-Noise Ratio of the Brain",
-      "url": "https://www.semanticscholar.org/paper/1f2ecc4143e08591c323b428ccdf6d746e9ac488",
+      "title": "Five Hundred Monks in Crisis: Meditation-Related Difficulties and Prescriptive Responses in the P\u0101li Commentarial Tradition",
+      "url": "https://www.semanticscholar.org/paper/4fbee761a4d70c0d8a72d34157af1d07dd4f47d3",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-07-06T00:00:00",
-      "date_fetched": "2026-07-09T14:27:24.665551",
-      "doi": "10.64898/2026.06.30.735351",
+      "date_published": "2026-03-20T00:00:00",
+      "date_fetched": "2026-07-10T13:54:47.546024",
+      "doi": "10.3390/rel17030390",
       "authors": [
         {
-          "name": "M. Nath",
-          "author_id": "100633018",
-          "affiliation": null
-        },
-        {
-          "name": "N. Reggente",
-          "author_id": "3435438",
-          "affiliation": null
-        },
-        {
-          "name": "Neil Bailey",
-          "author_id": "2448450487",
-          "affiliation": null
-        },
-        {
-          "name": "M. Kringelbach",
-          "author_id": "1988969",
-          "affiliation": null
-        },
-        {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
+          "name": "B. Lee",
+          "author_id": "2033273524",
           "affiliation": null
         }
       ],
-      "abstract": "Across contemplative traditions, depper states of meditation are described as states of heightened clarity, vividness, and stillness of mind, yet what this clarity corresponds to in the brain has remained difficult to specify. The functional signal-to-noise ratio (f-SNR) framework frames mental clarity as a measurable property of neural signals: the degree to which brain activity tracks the causes of sensory signals rather than endogenous, irrelevant, fluctuations. It predicts that deepening meditation should raise f-SNR, expressing sensory events more faithfully in neural signals against ongoing background activity. We tested this prediction across different levels of meditative depth. Twenty-nine experienced Vipassana practitioners meditated while auditory tones were presented, periodically reporting their depth of meditation. f-SNR was quantified from event-related potentials (ERPs) in a fronto-central P3 window and from single-trial decodability of auditory tone-evoked activity against no-tone background EEG. High-depth states were associated with greater ERP signal-to-noise ratio, stronger single-trial signal consistency, and improved decodability of sound tones. These results suggest that meditative depth is expressed in the reproducibility and stimulus-background separability of sensory responses, consistent with deep meditation enhancing the brain\u2019s functional signal-to-noise ratio by improving the clarity of sensory signals and reducing endogenous noise.",
-      "journal": "bioRxiv",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A multidimensional examination of the effects of MBCT intervention on healthy university students",
-      "url": "https://www.semanticscholar.org/paper/fefefe785140a456f2bc25f28927030584b8a792",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-07-09T14:27:41.950631",
-      "doi": "10.4992/pacjpa.89.0_630",
-      "authors": [
-        {
-          "name": "M. Takahashi",
-          "author_id": "50750848",
-          "affiliation": null
-        },
-        {
-          "name": "Remi Inayoshi",
-          "author_id": "2023656200",
-          "affiliation": null
-        },
-        {
-          "name": "Akiko Eura",
-          "author_id": "51356924",
-          "affiliation": null
-        },
-        {
-          "name": "Nakatani Hironori",
-          "author_id": "2094649443",
-          "affiliation": null
-        },
-        {
-          "name": "Yuan ning",
-          "author_id": "2422878782",
-          "affiliation": null
-        },
-        {
-          "name": "P. Li",
-          "author_id": "2209967224",
-          "affiliation": null
-        },
-        {
-          "name": "Tohru Yagi",
-          "author_id": "2052545265",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "The Proceedings of the Annual Convention of the Japanese Psychological Association",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Review of Research Progress and Controversy of MBCT, MBSR and Other Mindfulness Interventions in a Variety of Psychological Disorders",
-      "url": "https://www.semanticscholar.org/paper/926b6f7c0a706b94292a2a54e1fb6a45ea4c217c",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-07-09T14:27:41.950733",
-      "doi": "10.1051/shsconf/202623503007",
-      "authors": [
-        {
-          "name": "Ruobing Zhao",
-          "author_id": "2446811240",
-          "affiliation": null
-        }
-      ],
-      "abstract": "With the rising global burden of psychological disorders, traditional interventions show limitations in supporting psychological well-being. Mindfulness-based stress reduction (MBSR) and mindfulness-based cognitive therapy (MBCT) have become a respected, comprehensive, non-pharmacological approach that emphasises self-regulation and sustainable mental health. This review synthesises high-quality randomised controlled trial evidence on the efficacy of MBCT and MBSR in physical and psychological symptoms. Theoretical mechanisms are examined across cognitive, emotional, and neurocognitive levels, highlighting decentering, attention regulation, and emotional acceptance as core transdiagnostic processes. Evidence indicates that MBCT demonstrates robust preventive effects in recurrent depression, while MBSR shows consistent benefits for anxiety and stress-related conditions. However, the contribution of such therapies to non-specific factors, such as long-term maintenance effects, responses to specific diseases, and group support and treatment expectations, remains controversial. By critically discussing the methodological challenges, including heterogeneous interventions, limited active control conditions, and cultural propulsivity, future research directions may include long-term follow-up, mechanism-focused design, biomarker integration, and precision-oriented and digital mindfulness interventions. Overall, Mindfulness-Based Intervention stands as a promising and scalable approach to improve the long-term mental well-being of individuals with the disease, and additional rigorous research is required to elucidate its mechanisms and refine clinical implementation.",
-      "journal": "SHS Web of Conferences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Synchronous Online Group MBCT vs. Guided Asynchronous Online MBCT for Mild to Moderate Depression: A Randomized Clinical Trial",
-      "url": "https://www.semanticscholar.org/paper/e3137e480834039c81c5f408b2d5eb4d486b7eb1",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-26T00:00:00",
-      "date_fetched": "2026-07-09T14:27:41.950796",
-      "doi": "10.1007/s12671-026-02778-x",
-      "authors": [
-        {
-          "name": "Jan Ward\u0119szkiewicz",
-          "author_id": "2293330096",
-          "affiliation": null
-        },
-        {
-          "name": "P. Holas",
-          "author_id": "2238853002",
-          "affiliation": null
-        },
-        {
-          "name": "Gerhard Andersson",
-          "author_id": "2270042788",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Investigation of the effect of bupropion on electrocardiographic findings: Smoking cessation outpatient clinic experience",
-      "url": "https://www.semanticscholar.org/paper/345455cc0eb189c50cdf72950c0c5f5f51470fb6",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-07-09T14:27:54.650943",
-      "doi": "10.5455/atjmed.2026.01.05",
-      "authors": [
-        {
-          "name": "M. Ko\u00e7ak",
-          "author_id": "2303295442",
-          "affiliation": null
-        },
-        {
-          "name": "E. Ayhan",
-          "author_id": "152286290",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Aim: Bupropion is frequently preferred for smoking cessation, which is an important public health problem. Side effect profiles are the most important drawback in drug use. In our study, we investigated the cardiac side effects that may interfere with Bupropion use through ECG changes. In our study, we aimed to determine the effect of Bupropion on ECG by comparing ECGs before and after 2 months of Bupropion use. This is the first article in the medical literature investigating the effect of Bupropion on ECG.\nMaterials and Methods: Our study is a retrospective cohort study. It was conducted on patients who applied to the smoking cessation outpatient clinic of our hospital and were started on Bupropion. ECGs were classified according to Minnesota Code (MC) criteria.\nResults: Our study was completed with 452 patients. Before Bupropion use, 305 patients had normal ECG, 96 patients had minor ECG changes and 51 patients had major ECG changes. After 2 months of Bupropion use, premature beats were detected in only 2 patients.\nConclusion: Some side effects may occur without manifesting clinically, so we planned this study to determine the cardiac side effects of Bupropion that are not reflected in the clinic. In our study, we found that Bupropion had no serious side effects on ECG after 2 months of Bupropion use.",
-      "journal": "The Atlantic Journal of Medical Science and Research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "cessation experience"
-      ]
-    },
-    {
-      "title": "Exploring Vaping Cessation App Use Among Youth: Qualitative Descriptive Study",
-      "url": "https://www.semanticscholar.org/paper/41d5667546d0632a124874e9e91c0774dec8584c",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-13T00:00:00",
-      "date_fetched": "2026-07-09T14:27:54.651247",
-      "doi": "10.2196/85778",
-      "authors": [
-        {
-          "name": "Karlee Fonteyne",
-          "author_id": "2382258186",
-          "affiliation": null
-        },
-        {
-          "name": "Mischa Taylor",
-          "author_id": "2253045301",
-          "affiliation": null
-        },
-        {
-          "name": "Roula Nawara",
-          "author_id": "2349111212",
-          "affiliation": null
-        },
-        {
-          "name": "Danielle Rodberg",
-          "author_id": "2142932627",
-          "affiliation": null
-        },
-        {
-          "name": "Tina Afshar",
-          "author_id": "2389318475",
-          "affiliation": null
-        },
-        {
-          "name": "L. Struik",
-          "author_id": "6090974",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Abstract Background Youth vaping has become a significant public health concern, with high rates of initiation, nicotine dependence, and a tendency to underestimate vaping-related harms. Although many youth attempt to quit, most do so without formal support, and few report leveraging cessation apps. Mobile health tools have potential as accessible youth-oriented supports; yet, little is known about youth experiences with these interventions. Objective This study aims to explore Canadian youth perceptions and experiences of vaping cessation mobile apps, focusing on preferences, perceived utility, and recommendations for improvement. Methods A qualitative descriptive design guided by a constructivist paradigm was used. Overall, 17 semistructured interviews were conducted with youth aged 16\u201024 years from British Columbia, Ontario, and Quebec in fall 2022. Eligible participants had current or past vaping experience, had attempted or wanted to quit, and had used a cessation app. Data were transcribed verbatim and analyzed inductively using reflexive thematic analysis, with reflexivity supported through team-based coding and iterative discussions. Results Three themes described youth experiences. \u201cQuitting on my Own Terms\u201d reflected the importance of individual agency and commitment to quitting. While there were varied views on apps supporting their agency with cessation, the youth agreed that intrinsic motivation was the most critical element in their cessation journey. \u201cParallel Experiences- Differing Views on Community\u201d captured ambivalence toward in-app social features: while some valued peer support, others preferred to quit privately or used broader online platforms, like Reddit. \u201cPocket-sized Partners in Cessation\u201d highlighted the usefulness of quick access to features, such as progress tracking, motivational reinforcement, and gamification, as they engaged in the various stages of quitting (from contemplation through to commitment). However, participants stressed that the convenience of an app was not enough. Youth emphasized the need for apps that feel authentic, emotionally resonate, and are capable of balancing independence with opportunities for connection to social support. Conclusions Youth want cessation apps that function as companions to help them leverage their motivation and efforts to quit, rather than as passive trackers. Effective app-based interventions should validate autonomy, account for nonlinear cessation journeys and relapses, and integrate supportive, interactive, and youth-friendly features. By addressing the preferences of youth in the design of vaping cessation apps, digital cessation tools can move beyond convenience to become meaningful companions in youths\u2019 efforts to quit vaping.",
-      "journal": "Journal of Medical Internet Research",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "cessation experience"
-      ]
-    },
-    {
-      "title": "Computational neurophenomenology meets\n MuSe\n : A Commentary on \u015eerife Tekin\u2019s\n Reclaiming the self in psychiatry",
-      "url": "https://www.semanticscholar.org/paper/d205f3e171153a46b28883de8cbeb86e8438dfbb",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-02-27T00:00:00",
-      "date_fetched": "2026-07-09T14:28:02.427187",
-      "doi": "10.1080/09515089.2026.2638967",
-      "authors": [
-        {
-          "name": "Jos\u00e9 M. Araya",
-          "author_id": "115969460",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Philosophical Psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "neurophenomenology"
-      ]
-    },
-    {
-      "title": "Totemic Mediation and Visual Praj\u00f1\u0101: How Lotus and Dharma Wheel Motifs Generate Embodied \u015a\u016bnyat\u0101 Experience in the Dunhuang Mogao Caves",
-      "url": "https://www.semanticscholar.org/paper/054c36115862e270dcc57b3b82c46333200a9a57",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-07-09T14:28:02.427262",
-      "doi": "10.3390/rel17060707",
-      "authors": [
-        {
-          "name": "Yu Wang",
-          "author_id": "2405446236",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This article argues that lotus and dharma wheel motifs in the Dunhuang Mogao Caves function not merely as decorative symbols but as active visual apparatuses that generate embodied religious experience through a mechanism we term \u201ctotemic mediation.\u201d Drawing on L\u00e9vi-Strauss\u2019s structuralist reading of totemism, Descola\u2019s ontological framework, Gell\u2019s theory of art as agency, Meyer\u2019s \u201csensational form,\u201d and Varela\u2019s neurophenomenology, we define totemic mediation as a triadic mechanism encompassing material\u2013spatial arrangement, ontological transformation of experiential states, and value structure generation. We analyze motifs from Mogao Caves 285, 329, and 361 using a five-step analytic framework: formal\u2013visual description, reconstructed embodied viewing, doctrinal identification, mediation mechanism analysis, and evaluative assessment. The analysis demonstrates that the lotus mediates ontologically along a spatial axis, building a vertical channel between the worldly and the divine through ceiling configurations and upward gazes, while the dharma wheel mediates teleologically across the temporal axis, neutralizing linear temporality through rotational dynamics. Together, these motifs constitute \u201cvisual praj\u00f1\u0101\u201d\u2014a nonconceptual, embodied cognitive effect that bypasses discursive reasoning to enable direct apprehension of \u015b\u016bnyat\u0101 (emptiness). This article offers a replicable analytic framework for examining how religious images operate simultaneously as visual apparatuses and ontological mediators.",
+      "abstract": "Meditation-related difficulties have been systematically documented in contemporary contemplative science, yet the prescriptive resources preserved in the ancient Buddhist commentarial literature remain underutilized in comparative research. This study analyzes the case of five hundred monks in the Paramatthajotik\u0101 I\u2019s commentary on the Kara\u1e47\u012bya-metta-sutta. During intensive practice, these monks experienced complex psychosomatic symptoms\u2014perceptual disturbances, fear, somatic distress, and cognitive impairment\u2014and received from the Buddha an integrated prescription of five protective practices (pa\u00f1ca rakkh\u0101). Through P\u0101li textual and comparative analysis with Lindahl et al.\u2019s taxonomy of meditation-related difficulties, this study demonstrates that the monks\u2019 symptoms correspond systematically to the perceptual, affective, somatic, and cognitive domains of the modern taxonomy, with the critical difference residing in interpretive frameworks rather than in the phenomena themselves. The five practices\u2014loving-kindness meditation, protective chant recitation, contemplation of impurity, mindfulness of death, and the arousal of religious urgency\u2014constitute a sequentially structured system progressing from the emotional reframing of fear to the deconstruction of bodily and existential attachment, culminating in the restoration of soteriological motivation. This study argues that Paramatthajotik\u0101 I\u2019s prescriptive system provides a historically grounded, soteriologically oriented complement to contemporary contemplative science, particularly in bridging the gap between phenomenological classification and meaning-centered intervention.",
       "journal": "Religions",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "neurophenomenology"
+        "metta meditation"
       ]
     },
     {
-      "title": "Use of mindfulness in the treatment of tinnitus: consensus based on the opinion of Brazilian experts.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42417817/",
+      "title": "Dynamic Attentional Agents in Focused Attention Meditation: Hierarchical Computational Modeling of Expert-Novice Differences",
+      "url": "https://www.semanticscholar.org/paper/5dd5c08a7c981463ee98fca654f28dcfa191f3e2",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-09T14:28:12.702551",
-      "doi": "10.1590/2317-1782/e20250182pt",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-07-10T13:54:48.567009",
+      "doi": "10.1007/978-3-032-16955-6_11",
       "authors": [
         {
-          "name": "M\u00f4nica Claudino Medeiros Honorato",
-          "author_id": null,
+          "name": "Prakash Chandra Kavi",
+          "author_id": "2242383838",
           "affiliation": null
         },
         {
-          "name": "Mariana Lopes Martins",
-          "author_id": null,
+          "name": "D. Friedman",
+          "author_id": "2165314699",
           "affiliation": null
         },
         {
-          "name": "Lidiane Maria de Brito Macedo Ferreira",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erika Baroni Mantello",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marine Raquel Diniz da Rosa",
-          "author_id": null,
+          "name": "Gustavo Patow",
+          "author_id": "2310354511",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: To develop a consensus among otolaryngologists, speech-language-hearing pathologists, and physical therapists regarding the criteria for recommending and using mindfulness in the treatment of tinnitus. METHODS: Observational, descriptive, quantitative, cross-sectional study conducted online. The convenience sample initially consisted of 23 specialists. The Delphi method was applied in two stages, providing feedback with anonymous responses. The first stage consisted of objective and subjective questions. The second stage involved 10 participants, who evaluated 34 statements derived from the initial stage. The specialists analyzed each item and demonstrated their agreement on a 5-point Likert scale. The content validity coefficient (CVC) was used to investigate the degree of interrater agreement and select the final items. RESULTS: There was consensus on 25 of the 34 items (CVC \u2265 0.70). The specialists consider mindfulness to be a therapeutic resource for tinnitus, but not as monotherapy. There was consensus on recommending application once a week, for at least 30 minutes, with daily home practice. Follow-up therapy after 8 weeks can be done using scales such as the Tinnitus Handicap Inventory and the Visual Analogue Scale. CONCLUSION: There is consensus on the combined (not alone) use of mindfulness in the treatment of tinnitus with a weekly protocol (8 weeks), lasting 30 minutes per session, monitored using the THI and VAS. These recommendations should be explored in clinical trials, investigating the short- and long-term effects to provide scientific evidence and standardize clinical protocols.",
-      "journal": "CoDAS",
-      "year": 2026,
+      "abstract": null,
+      "journal": "International Workshop on Affective Interactions",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "focused attention meditation"
+      ]
     },
     {
-      "title": "Efficacy of mental and physical training on blood pressure and resting heart rate among physically inactive young adults with elevated blood pressure: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42420366/",
+      "title": "Mind over medicine - Psychological interventions for preoperative anxiety: A review of recent literature.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42427287/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-08T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.073042",
-      "doi": "10.1038/s41598-026-60452-7",
+      "date_published": "2026-07-10T00:00:00",
+      "date_fetched": "2026-07-10T13:55:24.214119",
+      "doi": "10.1177/17504589261462315",
       "authors": [
         {
-          "name": "Imtiyaz Ali Mir",
+          "name": "Diksha Deb",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Syeda Humayra",
+          "name": "Shahzadi Malhotra",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anil T John",
+          "name": "Arvind Kr Arya",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Cai Hui Wan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xue Ying Toh",
+          "name": "Ajanya Ak",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Physically inactive adults with elevated blood pressure (BP) are at an increased risk of developing hypertension and cardiovascular comorbidity. Lifestyle-based non-pharmacological interventions are therefore essential. While mindfulness meditation and aerobic exercise independently improve BP, limited evidence exists on their combined effect-mental and physical training (MAPT). This study examined the effectiveness of MAPT on systolic BP (SBP), diastolic BP (DBP), and resting heart rate (RHR) among young adults with elevated BP. In a single-blinded randomized controlled trial, 58 young adults with elevated BP were allocated to 4 groups: mental training (MT, n\u2009=\u200914; mindfulness-based stress reduction), physical training (PT, n\u2009=\u200915; aerobic exercise at 40-60% heart rate reserve), MAPT (n\u2009=\u200915; combined MT and PT), and an active control group following the DASH diet (n\u2009=\u200914). Interventions were conducted 3 times weekly for 6-weeks. Outcomes were measured at baseline and post-intervention. Data were analyzed using two-way repeated measures ANOVA to examine time, group, and group-by-time interaction effects. Participants had a mean age of 20.2\u2009\u00b1\u20091.7\u00a0years and BMI of 22.4\u2009\u00b1\u20091.8; 43% reported a family history of hypertension. Significant SBP reductions were observed in MT (p\u2009=\u20090.002; \u03b7p",
-      "journal": "Scientific reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A Network Meta-Analysis About Effectiveness of Mind-Body Therapies in Pediatric Palliative Care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42414101/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-07T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.073190",
-      "doi": "10.1016/j.pmn.2026.06.005",
-      "authors": [
-        {
-          "name": "Aline Maria de Oliveira Rocha",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cl\u00e1udio Arnaldo Len",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fl\u00e1via Heloisa Santos",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jo\u00e3o Roberto Bissoto",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Simone Brasil de Oliveira Iglesias",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: To evaluate and compare the effectiveness of mind-body therapies for managing symptoms and improving quality of life in children receiving palliative care using a network meta-analysis (NMA). DESIGN: A systematic review and network meta-analysis (PRISMA-NMA guidelines) registered with PROSPERO (CRD42020198399). REVIEW/ANALYSIS METHODS: Comprehensive searches were conducted across seven databases and trial registries up to June 2024. Eligible studies involved randomized and nonrandomized trials with children (0-18 years) with life-limiting conditions receiving mind-body therapies. Primary outcomes were symptom control (pain, anxiety, emotional distress) and quality of life indicators. A frequentist NMA was performed using the netmeta package in R. Transitivity was assessed by comparing clinical and methodological characteristics across studies. RESULTS: Forty-three studies (31 randomized trials), primarily in pediatric oncology, were included. Statistical heterogeneity was high (I\u00b2 > 90%). Most network meta-analysis comparisons were inconclusive due to wide confidence intervals. For pain reduction, indirect hypnosis (SMD -0.91, [95% CI -1.78 to -0.03]) showed point estimates favoring the intervention, but confidence intervals were wide. Notably, most evidence for pain derived from procedural pain studies in pediatric oncology; these findings should not be generalized to chronic disease-related pain or nononcologic palliative populations without caution. For anxiety reduction, indirect hypnosis showed a statistically significant benefit (SMD -2.40, [95% CI -4.73 to -0.06]), while direct hypnosis suggested a potential but imprecise benefit. Comparisons for other therapies (music therapy, mindfulness, aromatherapy) were largely inconclusive, with most confidence intervals crossing the null. P-score rankings suggested a hierarchy based on imprecise point estimates; hypnosis-based interventions had the highest probability of being the best therapy. However, these rankings should be interpreted as hypothesis-generating only. CONCLUSIONS: This first NMA in pediatric palliative care suggests that hypnosis-based interventions may be promising for symptom management, but the evidence is limited by high heterogeneity, imprecision and a predominance of procedural pain studies in oncology. These findings generate hypotheses for future research and highlight an urgent need for more rigorous, head-to-head comparative trials to establish a robust evidence base for integrative care in this vulnerable population.",
-      "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A randomized controlled trial comparing a mindfulness-based program with standard therapeutic follow-up during pregnancy: Effects on maternal well-being, infant outcomes, and mother-infant attachment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419504/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-08T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.073333",
-      "doi": "10.1016/j.cct.2026.108401",
-      "authors": [
-        {
-          "name": "Clara Beauvois",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrea Soubelet",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Claudia Ranieri",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Pregnancy and childbirth represent a major transition into motherhood, marked by psychosocial changes that may increase women's vulnerability to mental health difficulties such as prenatal depression, anxiety, or PTSD, in addition to physical pain. These difficulties can negatively impact maternal well-being, the mother-infant relationship, and child development. Prenatal mindfulness-based interventions have shown positive effects on emotion regulation and prenatal attachment, but few studies have simultaneously examined their effects on maternal mental health, infant well-being, and early mother-infant interactions. This study will evaluate the effectiveness of a prenatal mindfulness program, compared to standard psychological care, on maternal positive and negative affect, infant well-being, and the quality of the mother-infant relationship. METHODS: Seventy pregnant women between 12 and 30\u202fweeks of amenorrhea will be recruited and randomly assigned (1:1) to receive either a mindfulness program inspired by MBCP or standard psychological follow-up. Both groups will receive six individual sessions over six weeks. Self-report measures of maternal mental health, infant well-being, and attachment will be collected at T0, T1, T2, and T3. A filmed mother-infant interaction will be conducted at 12\u202fmonths postpartum. Analyses will compare participant characteristics between the two groups. CONCLUSION: The expected results will help clarify the psychological and interactional mechanisms involved and may support the integration of prenatal interventions aimed at improving maternal well-being, infant well-being, and attachment. REGISTRATION: The study was registered with ClinicalTrials.gov (NCT07364032) and the Australian New Zealand Clinical Trials Registry (ANZCTR: ACTRN12626000091303).",
-      "journal": "Contemporary clinical trials",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Telehealth-Based Ketogenic Metabolic Therapy With Lifestyle Interventions for Post-viral Illness: A Research Brief of Patients' Experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42416120/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.073422",
-      "doi": "10.1177/23743735261459218",
-      "authors": [
-        {
-          "name": "Dana Dharmakaya Colgan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Diane D Stadler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tabitha Grow",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mary Ruddick",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Thomas Weimbs",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Todd E Davenport",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heather Zwickey",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND/OBJECTIVES: Infection-associated chronic illnesses are associated with substantial functional impairment that limits participation in traditional in-person research. A fully remote, multicomponent intervention that combines ketogenic metabolic therapy (KMT) with behavioral interventions targets several proposed biological mechanisms underlying these conditions. This study aimed to characterize patient-reported experiences with a fully remote intervention that integrated KMT and thiamine supplementation with behavioral strategies, including circadian entrainment and mindfulness-based resilience coaching. METHODS: In this cross-sectional study, quantitative data were collected via online REDCap surveys. Feasibility and acceptability benchmarks included perceived treatment suitability, relevance, safety, and reported treatment adherence. Optimization items evaluated preferred program duration, dosing, and structure, as well as components that respondents identified as most important for future refinement. RESULTS: Among an international sample ( CONCLUSIONS: Incorporating patient perspectives is essential for guiding the development of safe, acceptable, and effective treatment strategies for infection-associated chronic illness, including Long COVID. Strong indicators of feasibility, acceptability, and perceived benefits support the rationale for larger controlled trials to investigate clinical efficacy and the underlying mechanistic pathways of multicomponent metabolic interventions.",
-      "journal": "Journal of patient experience",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Neurodynamic profiles in the alpha band distinguish different forms of meditation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42415874/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.073950",
-      "doi": "10.1093/nc/niag036",
-      "authors": [
-        {
-          "name": "Bianca Ventura",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrea Buccellato",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Saketh Malipeddi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rahul Venugopal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ravindra P Nagendra",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bindu M Kutty",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Georg Northoff",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Different forms of meditation, like Vipassana and Shoonya, require distinct attentional features. For instance, Vipassana, which involves systematically scanning different body parts, may demand a sustained yet dynamic focus with a temporally stable and regular attentional emphasis. In contrast, Shoonya meditation has been described as involving a non-directed or defocused attentional stance, likely with a temporally variable and irregular attentional flow. We used electroencephalography (EEG) to examine whether these differences could correspond to distinct neurodynamic patterns in the alpha band. We measured two time-resolved dynamic measures including phase-based Peak Frequency Sliding (PFS), indexing fine-grained millisecond temporal resolution, and Power Sliding (PS), indexing oscillatory amplitude. Beyond mean values, we additionally quantified the temporal dynamics of PFS and PS using coefficient of variation (CV) as an index of variability, and permutation entropy (PE) as a measure of temporal irregularity. While mean differences between the two practices were observed only for PS (and not PFS), their dynamic variants more robustly distinguished the two practices. Specifically, Vipassana exhibited lower CV and PE in both PFS and PS compared to Shoonya. These findings indicate that the two practices differ more strongly in the temporal-dynamic organization of alpha-band activity than in their static averaged measures. More broadly, they support the view that dynamic features such as variability and temporal irregularity may be shared by both brain and experience, as their \"common currency,\" during different contemplative practices.",
-      "journal": "Neuroscience of consciousness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness and artificial intelligence self-efficacy among university students: the mediating role of artificial intelligence literacy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42420392/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-08T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.074082",
-      "doi": "10.1038/s41598-026-61009-4",
-      "authors": [
-        {
-          "name": "Aamer Aldbyani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Guiyun Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zhang Chuanxia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jie Leng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Naif S Al-Barha",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "University students now use artificial intelligence (AI) tools in several academic activities, including information retrieval, writing support, and problem-solving. While these technologies may enhance learning efficiency, effective student engagement with AI requires relevant psychological characteristics as well as technology-related competencies. Earlier studies indicate that learner characteristics, including mindfulness, may relate to patterns of engagement with digital technologies. Mindfulness, AI literacy, and AI self-efficacy have been studied separately, but their combined relationships remain insufficiently examined. Accordingly, this study examined the associations among these three variables in university students and assessed whether specific dimensions of AI literacy were involved in the statistical association between mindfulness and students' self-rated readiness to use AI-supported tools for academic purposes. The study used a cross-sectional survey design. Undergraduate students at Shandong Xiehe University in China completed an online questionnaire. After screening the responses, 929 valid questionnaires were retained for analysis. Participants were between 18 and 22 years of age. Mindfulness, AI literacy, and AI self-efficacy were assessed using established self-report scales. The analysis first summarized the main study variables using descriptive statistics. Bivariate relationships among mindfulness, AI literacy, and AI self-efficacy were examined using Pearson correlation analysis. PROCESS Model 4 was applied with 5,000 bootstrap resamples to test the proposed indirect-association model. The results indicated positive relationships between mindfulness, AI literacy, and AI self-efficacy. Regression analyses also indicated that mindfulness showed significant relationships with each AI literacy dimension, namely AI awareness, AI usage, AI evaluation, and AI ethics. Mindfulness showed significant positive associations on multiple dimensions of AI self-efficacy. The mediation analyses identified AI literacy represented a significant indirect pathway linking mindfulness with AI self-efficacy. Specifically, the dimensions of AI awareness, AI usage, and AI evaluation showed significant indirect effects, AI ethics did not show consistent indirect effects across the tested models. The findings show that mindfulness was positively associated with AI literacy and AI self-efficacy among university students. They also suggest that students reporting higher AI literacy also reported greater perceived capability in using AI-supported tools, indicating that technological understanding may be statistically related to the association between mindfulness and perceived competence. The results show links between psychological awareness, AI literacy, and students' engagement with AI tools in higher education. The results may inform the development of AI literacy initiatives in higher education that support students' informed, insightful, and confident use of AI tools in academic contexts.",
-      "journal": "Scientific reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Resilience and Stress Among Health Care Workers Participating in the StressPal Frontline Program: Quasi-Experimental Pretest-Posttest Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42418697/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-08T00:00:00",
-      "date_fetched": "2026-07-09T14:28:23.074207",
-      "doi": "10.2196/85388",
-      "authors": [
-        {
-          "name": "Debora Goetz Goldberg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "James Monroe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pennie Sempell",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jehanzeb Cheema",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sravya Vunnam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Panagiota Kitsantas",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Health care workers continue to experience heightened levels of distress and burnout, which contribute to higher levels of job dissatisfaction, turnover intentions, presenteeism, and staffing shortages. OBJECTIVE: The aim of this study was to examine how participation in the StressPal Frontline: Essential Resilience Self-Care and Burnout Prevention program influenced health care workers' stress and resilience. The study also sought to identify specific measures of perceived stress and resilience that were most affected by participation in the program and to explore whether pre-and-post differences varied based on participant characteristics. The StressPal Frontline program is a digital resilience intervention specifically developed for health care workers to enhance psychological flexibility and stress resilience. The self-paced training program, designed for approximately a 6-week period, consists of brief modules, follow-up resources, and a peer engagement community. METHODS: A pretest-posttest quasi-experimental design was used to assess the effectiveness of the StressPal Frontline program in reducing stress and building resilience among 76 health care workers who voluntarily joined and completed the program. Outcome measures included the Perceived Stress Scale and the Brief Resilience Scale to assess participants' perceptions of stressful situations and their ability to bounce back from stress. Descriptive statistics, correlation analysis, paired-samples 2-tailed t test, and multiple regression analysis were conducted. The paired-samples t test was calculated at the scale level and item level to evaluate the statistical significance of pretest and posttest mean differences, and the Cohen d statistic was used as a measure of effect size. Statistical analysis for this study was conducted in Excel (Microsoft), SPSS (IBM Corp), and Jamovi (jamovi project). RESULTS: The results indicated a 1.53-point reduction in the Perceived Stress Scale score after participating in the StressPal Frontline program, suggesting a statistically significant decline in average perceived stress due to participation in the program (P=.004). The corresponding value of Cohen d was 0.34, suggesting a small-to-medium effect of the intervention, StressPal Frontline program, in reducing perceived stress. For the Brief Resilience Scale, pre-and-post difference was not significant at the scale level (P=.07); however, item-level analysis found significant increases in participants' perception of their ability to bounce back quickly after hard times and handle difficult situations. No significant differences were found in outcome measures based on age, race, ethnicity, professional role, or practice setting. CONCLUSIONS: The StressPal Frontline program was associated with positive outcomes in reducing perceived stress. Our study also found no statistical differences in outcomes among participants of different age groups, races, ethnicities, occupations, genders, and practice settings. This is an important finding, as it indicates that the StressPal Frontline program may provide positive benefits for reducing stress across professions, settings, and individual characteristics. This program, along with other resources, could be implemented by health care organizations to support workers' professional development, behavioral health, and well-being.",
-      "journal": "JMIR formative research",
+      "abstract": "INTRODUCTION: Preoperative anxiety is a common distressing phenomenon that negatively affects surgical outcomes and postoperative recovery. This narrative review synthesised evidence on effectiveness of non-pharmacological interventions in managing preoperative anxiety. METHODOLOGY: A structured literature search was conducted across PubMed, Hinari Research4Life, Cochrane Library, and Directory of Open Access Journals, focusing on studies evaluating non-pharmacological interventions in surgical patients, published within the last 5 years. Out of 359 total records identified, only 24 studies met inclusion criteria following structured screening process using Scale for the Assessment of Narrative Review Articles guidelines. RESULTS: The findings suggest that various psychological interventions, including virtual reality, music therapy, mindfulness-based approaches, and cognitive-behavioural techniques, are associated with reductions in preoperative anxiety in several patient populations. These interventions offer non-invasive and potentially accessible means of improving perioperative care in well-resourced settings. However, variability in study design, intervention protocols, and outcome measures limits direct comparison across studies. As a narrative synthesis, the findings should be interpreted with consideration of these methodological differences. CONCLUSION: Non-pharmacological interventions, particularly virtual reality and mindfulness, are effective alternatives/adjuncts to pharmacological methods for reducing preoperative anxiety. However, heterogeneity of interventions and outcome measures limits generalisability. Future research should include large-scale randomised controlled trials, standardisation of outcome measures, and culturally adapted studies in different populations.",
+      "journal": "Journal of perioperative practice",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -649,56 +100,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "How to offset your brain",
-      "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-07-09T10:00:00",
-      "date_fetched": "2026-07-09T14:28:23.313397",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Stephanie Dorais",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Aeon",
-      "excerpt": "From confirmation bias to loss aversion, everyone suffers from cognitive biases. Skilfully targeted mindfulness can help- by Stephanie DoraisRead on Aeon",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "mindfulness"
-      ]
-    },
-    {
-      "title": "Practicing Shopping-Cart Meditation",
-      "url": "https://www.newyorker.com/humor/shouts-murmurs/practicing-shopping-cart-meditation",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-07-09T10:00:00",
-      "date_fetched": "2026-07-09T14:28:23.528780",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Natalie Waksman",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "Random things that I somehow convinced myself I desperately need.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "meditation"
-      ]
-    }
-  ]
+  "articles": []
 }
