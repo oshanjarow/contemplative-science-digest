@@ -1,48 +1,503 @@
 {
-  "generated_at": "2026-07-11T12:52:33.698569",
+  "generated_at": "2026-07-12T12:53:43.057593",
   "papers": [
     {
-      "title": "Dialectical Behavior Therapy Outcomes for Suicidal Adolescents and Young Adults with Internalizing and Externalizing Symptoms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42433072/",
+      "title": "Impact of mindfulness-based interventions on sports performance and mental health: An umbrella review",
+      "url": "https://www.semanticscholar.org/paper/25f24da5a32676188eddeda5a1c5528a271fd298",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-10T00:00:00",
-      "date_fetched": "2026-07-11T12:52:32.685994",
-      "doi": "10.1177/10445463261466535",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-01T00:00:00",
+      "date_fetched": "2026-07-12T12:52:54.380932",
+      "doi": "10.1016/j.jesf.2025.06.008",
       "authors": [
         {
-          "name": "Belinda E Hernandez",
+          "name": "Boyuan Xie",
+          "author_id": "2356491932",
+          "affiliation": null
+        },
+        {
+          "name": "S. Lei",
+          "author_id": "2147394391",
+          "affiliation": null
+        },
+        {
+          "name": "Ngai Choi",
+          "author_id": "2369935162",
+          "affiliation": null
+        },
+        {
+          "name": "S. Choi",
+          "author_id": "2347581490",
+          "affiliation": null
+        },
+        {
+          "name": "Xiuqiang Wang",
+          "author_id": "1897656063",
+          "affiliation": null
+        },
+        {
+          "name": "Yiwen Chen",
+          "author_id": "2300131193",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background/Objective While Mindfulness-Based Interventions (MBIs) are increasingly explored for enhancing sports performance and mental health in athletes, existing systematic reviews present conflicting results regarding their efficacy due to methodological inconsistencies and varied athlete populations. To address these discrepancies, this umbrella review critically evaluates evidence from systematic reviews to determine the aggregate effects of MBIs on sports performance, mindfulness indicators, and mental health outcomes among athletes. Methods Systematic searches of PubMed, Web of Science, PsycINFO, ScienceDirect, and Scopus were conducted from inception to January 2024. Included studies were systematic reviews examining MBIs for athletic populations and reporting on sports performance, mindfulness indicators, or mental health outcomes. Methodological quality of included reviews was appraised using AMSTAR-2. Results Fifteen systematic reviews and meta-analyses, encompassing 10,503 athletes, met inclusion criteria. Most reviews indicated positive trends for MBIs in improving sports performance, mindfulness indicators and various mental health outcomes. However, substantial methodological heterogeneity in primary study designs and MBIs protocols across reviews limited definitive conclusions. Critically, AMSTAR-2 assessments revealed that the majority (11 of 15, 73 %) of included reviews were of critically low methodological quality, with the remainder rated as low quality. Conclusion While MBIs show potential to foster improved sports performance and mental health in athletes, the current evidence base is considerably weakened by the poor methodological quality of existing systematic reviews. A pressing need exists for future research to employ more rigorous methodologies, standardised intervention protocols, and consistent outcome reporting to establish a robust evidence base for the application of MBIs in sports.",
+      "journal": "Journal of Exercise Science & Fitness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Supported Mindfulness-Based Self-Help Intervention as an Adjunctive Treatment for Rapid Symptom Change in Emotional Disorders: A Practice-Oriented Multicenter Randomized Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/59d277361d605cae04d0bb417745ea3361e5c87f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-14T00:00:00",
+      "date_fetched": "2026-07-12T12:52:54.381159",
+      "doi": "10.1159/000542937",
+      "authors": [
+        {
+          "name": "Yanjuan Li",
+          "author_id": "2110501336",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Zhang",
+          "author_id": "2291088890",
+          "affiliation": null
+        },
+        {
+          "name": "Chun Wang",
+          "author_id": "2369221047",
+          "affiliation": null
+        },
+        {
+          "name": "Jia Luo",
+          "author_id": "2007533540",
+          "affiliation": null
+        },
+        {
+          "name": "Yang Yu",
+          "author_id": "2152846551",
+          "affiliation": null
+        },
+        {
+          "name": "Shixing Feng",
+          "author_id": "2299127064",
+          "affiliation": null
+        },
+        {
+          "name": "Chunxue Wang",
+          "author_id": "2297641855",
+          "affiliation": null
+        },
+        {
+          "name": "Qianwen Xu",
+          "author_id": "2310540360",
+          "affiliation": null
+        },
+        {
+          "name": "Peng-Chong Wang",
+          "author_id": "2262937861",
+          "affiliation": null
+        },
+        {
+          "name": "Junxuan Chen",
+          "author_id": "3114085",
+          "affiliation": null
+        },
+        {
+          "name": "Ning Zhang",
+          "author_id": "2380507792",
+          "affiliation": null
+        },
+        {
+          "name": "Qianmei Yu",
+          "author_id": "2181679959",
+          "affiliation": null
+        },
+        {
+          "name": "Yuqing Liu",
+          "author_id": "2155395498",
+          "affiliation": null
+        },
+        {
+          "name": "Danyun Chen",
+          "author_id": "2113598285",
+          "affiliation": null
+        },
+        {
+          "name": "Stefan G. Hofmann",
+          "author_id": "2278817573",
+          "affiliation": null
+        },
+        {
+          "name": "Xinghua Liu",
+          "author_id": "2307735397",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract Introduction: Rapid symptom relief is crucial for individuals with emotional disorders. The current study aimed to determine whether facilitator-supported mindfulness-based self-help (MBSH) intervention as an adjunctive treatment could provide rapid improvement for individuals with emotional disorders. Methods: A practice-oriented randomized controlled trial was conducted on a sample of 302 patients with emotional disorders from four centers. Participants were randomly assigned to either MBSH+TAU (treatment as usual; n = 152) or TAU-only group (n = 150). Assessments were conducted at baseline, week 3, week 5, immediately after intervention and at a 3-month follow-up. Primary outcomes included self-reported and clinician-reported anxiety and depression symptoms. Secondary outcomes included mindfulness, physical symptoms, perceived stress, sleep quality, and inner peace. Results: The MBSH+TAU group achieved significantly greater improvements in all primary and secondary outcome measures as compared with TAU-only immediately after intervention (Cohen\u2019s d = 0.19\u20130.51). In addition, relatively greater improvements were observed in self-reported depression, mindfulness, physical symptoms, perceived stress, and inner peace as early as week 3 or 5, which were sustained at the 3-month follow-up (Cohen\u2019s d = 0.20\u20130.34). Conclusions: Facilitator-supported MBSH offers a scalable and effective adjunctive treatment option for patients with emotional disorders in clinical practice, facilitating rapid improvements.",
+      "journal": "Psychotherapy and Psychosomatics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Frequent loving kindness meditation relates to lower anxiety in long term practitioners through higher self compassion and cognitive flexibility",
+      "url": "https://www.semanticscholar.org/paper/0bc80355adf3db4f36b304c46cab1638a39f6c8b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-29T00:00:00",
+      "date_fetched": "2026-07-12T12:53:04.794790",
+      "doi": "10.1038/s41598-026-46387-z",
+      "authors": [
+        {
+          "name": "J. R. Yela",
+          "author_id": "2092199902",
+          "affiliation": null
+        },
+        {
+          "name": "Jos\u00e9 Buz",
+          "author_id": "6611979",
+          "affiliation": null
+        },
+        {
+          "name": "Antonio L. Crego",
+          "author_id": "2361249380",
+          "affiliation": null
+        },
+        {
+          "name": "Luis Gregoris",
+          "author_id": "48086653",
+          "affiliation": null
+        },
+        {
+          "name": "Marta Alonso",
+          "author_id": "2142479722",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Little is known about the variables influencing the efficacy of mindfulness-based interventions among long-term practitioners. This study examined the association between Loving-Kindness Compassion Meditation (LKCM) practice and anxiety levels in 60 experienced meditators. We analyzed practice duration, frequency, self-compassion, and cognitive fusion. Results indicated no direct association between years of practice and anxiety. However, a moderated serial mediation model showed that the benefits are related to the frequency of practice. Weekly practice frequency moderated the relationship between years of meditation and self-compassion; furthermore, self-compassion was associated with lower cognitive fusion and this, in turn, with lower anxiety levels. Notably, high self-compassion was evident early in daily practitioners, whereas comparable levels were only observed in less frequent practitioners. These findings suggest that self-compassion and cognitive flexibility are critical components in prolonged meditation, highlighting the pivotal role of practice consistency over time. Supplementary Information The online version contains supplementary material available at 10.1038/s41598-026-46387-z.",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "2142\u2003Chronic Loving Kindness Meditation Increases Aperiodic Broadband Activity Within the Mesial Temporal Lobe",
+      "url": "https://www.semanticscholar.org/paper/868d04656ba7c544e6c1e4a40fb474619c52e18f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-04-01T00:00:00",
+      "date_fetched": "2026-07-12T12:53:04.794810",
+      "doi": "10.1227/neu.0000000000003964_2142",
+      "authors": [
+        {
+          "name": "Daniel D. Cummins",
+          "author_id": "2282705035",
+          "affiliation": null
+        },
+        {
+          "name": "Varun Subramaniam",
+          "author_id": "2379484288",
+          "affiliation": null
+        },
+        {
+          "name": "Lea Tortolero",
+          "author_id": "2301208846",
+          "affiliation": null
+        },
+        {
+          "name": "F. Panov",
+          "author_id": "2303539036",
+          "affiliation": null
+        },
+        {
+          "name": "Lizbeth Nunez Martinez",
+          "author_id": "2301268375",
+          "affiliation": null
+        },
+        {
+          "name": "Christina Maher",
+          "author_id": "2298585333",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Neurosurgery",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "A Pilot Study of Loving-Kindness and Self-Compassion Meditation on Depressive Symptoms among People Living with HIV",
+      "url": "https://www.semanticscholar.org/paper/05289996bb00721285348c226826c0a2cd7a6d94",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-30T00:00:00",
+      "date_fetched": "2026-07-12T12:53:04.794895",
+      "doi": "10.22146/gamajpp.113205",
+      "authors": [
+        {
+          "name": "Martaria Rizky Rinaldi",
+          "author_id": "2318051109",
+          "affiliation": null
+        },
+        {
+          "name": "Katrim Alifa Putrikita",
+          "author_id": "2091210143",
+          "affiliation": null
+        },
+        {
+          "name": "Abdul Kholiq Ismail",
+          "author_id": "2427530301",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Individuals living with HIV frequently experience elevated depressive symptoms due to chronic stress, stigma, and emotional burden. Compassion-based interventions such as Loving-Kindness and Self-Compassion Meditation (LKCM) have the potential to improve emotional well-being, yet evidence in HIV-positive populations remains limited. This study examined the preliminary effects of a brief Loving-Kindness and Self-Compassion Meditation (LKCM) intervention on depressive symptoms among individuals living with HIV. It was hypothesized that participants receiving LKCM would show greater reductions in depression than those in a control condition. Using a quasi-experimental pretest\u2013posttest control group design, 18 participants were assigned to either an experimental group (n = 10) that received a two-session LKCM intervention or a no-treatment control group (n = 8). Depressive symptoms were assessed using the DASS-21 depression subscale before and after the intervention. The results revealed significant reductions in depressive symptoms over time in both groups, with a greater magnitude of reduction in the LKCM group; however, between-group differences did not reach statistical significance. Effect size estimates indicated a pattern of greater within-group change in the LKCM group, without supporting conclusions regarding intervention-specific benefits. These findings provide preliminary evidence that LKCM may offer short-term psychological benefits for individuals living with HIV, although definitive conclusions regarding effectiveness cannot be drawn. Larger, adequately powered trials with extended follow-up are warranted to confirm these findings and clarify the potential role of LKCM as a depression management strategy in resource-limited settings.",
+      "journal": "Gadjah Mada Journal of Professional Psychology (GamaJPP)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "loving-kindness meditation"
+      ]
+    },
+    {
+      "title": "Struggle as Flow: Challenge, Design, and Experience in Soulslike Games",
+      "url": "https://www.semanticscholar.org/paper/3876ea2d314f680ba087c472acda3d390d4f9bd2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-02T00:00:00",
+      "date_fetched": "2026-07-12T12:53:12.697879",
+      "doi": "10.48550/arXiv.2604.15318",
+      "authors": [
+        {
+          "name": "Zhehao Sun",
+          "author_id": "2290359484",
+          "affiliation": null
+        },
+        {
+          "name": "Yuanyuan Xu",
+          "author_id": "2306862080",
+          "affiliation": null
+        },
+        {
+          "name": "Chi Zhen",
+          "author_id": "2064644173",
+          "affiliation": null
+        },
+        {
+          "name": "Yin Lin",
+          "author_id": "2117033236",
+          "affiliation": null
+        },
+        {
+          "name": "Miles Thorogood",
+          "author_id": "2267682170",
+          "affiliation": null
+        },
+        {
+          "name": "Patricia Lasserre",
+          "author_id": "2353364103",
+          "affiliation": null
+        },
+        {
+          "name": "A. Dulic",
+          "author_id": "2727530",
+          "affiliation": null
+        },
+        {
+          "name": "Megan Smith",
+          "author_id": "2116670857",
+          "affiliation": null
+        }
+      ],
+      "abstract": "While traditional game design prioritizes friction-free accessibility, the Soulslike subgenre has achieved commercial dominance through punishing difficulty and frequent failure. This paper challenges the conventional hedonistic paradigm of gaming to investigate the psychological mechanisms behind the Paradox of Failure. By integrating Csikszentmihalyi's Flow Theory with Juul's ludological framework, we propose the concept of Resilient Flow. We define this as a cognitive state wherein absorption is maintained not despite frustration but through the meaningful framing of it. To validate this model without invasive laboratory constraints, we conducted a qualitative text analysis of 600 helpful user reviews from Elden Ring, Sekiro: Shadows Die Twice, and Dark Souls III via the Steam Community platform. Findings reveal that long-term players linguistically reframe death as pedagogy rather than punishment and utilize vocabulary associated with rhythmic synchronization and meditative focus. We conclude that when difficulty is designed with clarity and fairness, it fosters an Ethics of Attention and transforms digital struggle into a profound experience of mastery and mindfulness.",
+      "journal": "arXiv.org",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Multimechanism Decoupling for Low\u2010Frequency Microwave Absorption Hierarchical Fe\u2010Doped Co Magnetic Microchains",
+      "url": "https://www.semanticscholar.org/paper/4985147fe811162b7b709b8aedcbdf9cb40f4bd7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-24T00:00:00",
+      "date_fetched": "2026-07-12T12:53:12.697990",
+      "doi": "10.1002/adfm.202506803",
+      "authors": [
+        {
+          "name": "Yixuan Han",
+          "author_id": "2296105981",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Guo",
+          "author_id": "2283510223",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Qiu",
+          "author_id": "2281464768",
+          "affiliation": null
+        },
+        {
+          "name": "Jinwen Hu",
+          "author_id": "2279183222",
+          "affiliation": null
+        },
+        {
+          "name": "Mukun He",
+          "author_id": "117896456",
+          "affiliation": null
+        },
+        {
+          "name": "Xuetao Shi",
+          "author_id": "2301409748",
+          "affiliation": null
+        },
+        {
+          "name": "Yali Zhang",
+          "author_id": "2296023839",
+          "affiliation": null
+        },
+        {
+          "name": "Jie Kong",
+          "author_id": "2337140368",
+          "affiliation": null
+        },
+        {
+          "name": "Junwei Gu",
+          "author_id": "2240841764",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The rapid development of military and civilian electronic communication technology poses a severe challenge to controlling electromagnetic radiation pollution in the low\u2010frequency microwave band. This study introduces a novel one\u2010step feeding self\u2010assembly and ripening strategy to synthesize 1D@2D magnetic microchains (Co@FexCo1\u2010xOOH, CFC). The experimental and simulation results show that increasing the flux length and ordered orientation is very important to improve the absorption performance of 1D magnetic absorber. The CFC\u2010LC\u2010E (long\u2010chain CFC aligned along the electric field direction) prepared based on the above characteristics successfully achieves a high\u2010performance microwave absorption effect, with a minimum reflection loss value (RLmin) of \u221266.4 dB. Notably, it maintains stable performance against oblique incidence (within 90\u00b0) and polarizations (transverse electric and transverse magnetic). This work offers novel ideas in the fabrication of 1D magnetic microwave absorbers and the analysis of microwave absorption mechanisms.",
+      "journal": "Advanced Functional Materials",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "In Situ Soft X\u2010Ray Absorption Spectroscopy Investigation on Charge Transfer Mechanism in COF/CdS S\u2010Scheme Photocatalyst",
+      "url": "https://www.semanticscholar.org/paper/7ed5ecde6610df8728c8043e8eab5a4088ef09f3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-03T00:00:00",
+      "date_fetched": "2026-07-12T12:53:12.698064",
+      "doi": "10.1002/adma.202514576",
+      "authors": [
+        {
+          "name": "G. Tang",
+          "author_id": "28130676",
+          "affiliation": null
+        },
+        {
+          "name": "Jianjun Zhang",
+          "author_id": "2312003430",
+          "affiliation": null
+        },
+        {
+          "name": "Chuanbiao Bie",
+          "author_id": "79876190",
+          "affiliation": null
+        },
+        {
+          "name": "Xusheng Zheng",
+          "author_id": "2268025079",
+          "affiliation": null
+        },
+        {
+          "name": "Chuanjia Jiang",
+          "author_id": "2366059768",
+          "affiliation": null
+        },
+        {
+          "name": "Jiaguo Yu",
+          "author_id": "2241105008",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Photocatalysis enabled by step\u2010scheme (S\u2010scheme) heterojunction has emerged as a promising strategy for addressing the global energy crisis and achieving carbon neutrality. However, mechanisms regulating the interfacial charge transfer dynamics of S\u2010scheme heterojunctions remain elusive. Herein, the electron transfer mechanisms are elucidated for a model S\u2010scheme heterojunction composed of cadmium sulfide and a covalent organic framework material using synchrotron\u2010based in situ soft X\u2010ray absorption spectroscopy, substantiating the well\u2010established in situ irradiated X\u2010ray photoelectron spectroscopy. The results, combined with theoretical calculations, reveal that interfacial Cd\u2500N and Cd\u2500S bonds act as the charge transfer channels within the heterojunction. The S\u2010scheme heterojunction exhibits high charge separation efficiency, as demonstrated by femtosecond transient absorption spectroscopy, which contributed to enhanced photocatalytic performance in coupled H2O2 generation and organic transformation reactions. This study validates a new approach to characterizing S\u2010scheme heterojunctions and can guide the design of inorganic\u2010organic S\u2010scheme heterojunctions for practical photocatalytic applications.",
+      "journal": "Advances in Materials",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Complementary and alternative medicines and cannabis use among individuals with acute intermittent porphyria.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42424990/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-05T00:00:00",
+      "date_fetched": "2026-07-12T12:53:42.206379",
+      "doi": "10.1016/j.ymgme.2026.110203",
+      "authors": [
+        {
+          "name": "Arnhildur Tomasdottir",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kristen L Batejan",
+          "name": "Karli Hedstrom",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Esther S Tung",
+          "name": "Jessica R Overbey",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Peggy Worden",
+          "name": "Catherine McDonough",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alessandro S De Nadai",
+          "name": "Manisha Balwani",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Daniel P Dickstein",
+          "name": "Hetanshi Naik",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Dialectical Behavior Therapy (DBT) is regarded as a highly effective treatment for suicide, yet no study to date has examined how DBT can help suicidal individuals with co-occurring internalizing and externalizing symptoms. Our study aimed to investigate DBT outcomes in suicidal youth and young adults with varying levels of internalizing and externalizing symptoms and the potential effectiveness of a DBT partial hospital program (PHP) on this population. METHOD: Data come from 117 adolescents and young adults ( RESULTS: Suicidal youth with clinically significant externalizing behaviors had high levels of emotion dysregulation after four weeks of treatment; however, these patients improved across all DBT outcomes, having the greatest gains in interpersonal competence and DBT skills use. All patients demonstrated improvements across DBT target outcomes, regardless of symptom type and severity. CONCLUSION: Overall, findings support DBT as an effective transdiagnostic intervention. Clinicians should strive to prioritize and allocate particular clinical attention to emotion regulation skills for patients with acute externalizing presentations to foster more effective acquisition and generalization of emotion regulation skills.",
-      "journal": "Journal of child and adolescent psychopharmacology",
+      "abstract": "Acute Intermittent porphyria (AIP) is a rare autosomal dominant disorder of heme biosynthesis characterized by severe acute neurovisceral attacks. Despite available therapies many individuals continue to experience chronic residual symptoms that impair quality of life. Complementary and alternative medicines (CAMs) are widely used in other chronic conditions but their use among individuals with AIP is not well understood. Therefore, we explored patients' experiences through a cross-sectional, anonymous online survey assessing the use and perceived effectiveness of CAMs and cannabis among adults with AIP. Participants were recruited through the Longitudinal Study of the Porphyrias Consortium and a patient advocacy group listserv. Eighty-two individuals (87.8% female; mean age 43.9\u00a0\u00b1\u00a013.6\u00a0years) completed the survey. Most respondents (92.7%) had experienced acute attacks, and 68.3% reported chronic symptoms such as fatigue (71.4%), muscle weakness (60.7%), and nausea (55.4%). Self-help practices were widely adopted, including meditation (53.7%), relaxation techniques (57.3%), massage (50.0%), and yoga (47.6%), and rated helpful by most users. Chiropractors (17.1%) and acupuncturists (14.6%) were the most frequently visited CAM providers and often reported as being beneficial. Cannabis use was reported by 68.3% of respondents, primarily for symptom management, though perceived effects varied. CAM and cannabis use are prevalent in individuals with AIP to manage persistent symptoms. These findings highlight unmet needs in AIP management and emphasize the importance of further research to evaluate the safety, effectiveness, and integration of CAMs into patient-centered care strategies.",
+      "journal": "Molecular genetics and metabolism",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -50,90 +505,42 @@
       "matched_keywords": []
     },
     {
-      "title": "The force of presence: reflections on Star Wars, rehabilitation, and the art of living with pain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42430834/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-09T00:00:00",
-      "date_fetched": "2026-07-11T12:52:32.686073",
-      "doi": "10.1016/j.explore.2026.103479",
-      "authors": [
-        {
-          "name": "Roberto Tedeschi",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Stories often provide a language through which complex experiences of suffering and healing become easier to understand. This reflection explores how Star Wars offers meaningful metaphors for contemporary rehabilitation, particularly regarding mindfulness, pain acceptance, and psychological flexibility. Rather than interpreting the saga as scientific evidence, the article considers the Jedi journey as a narrative framework for understanding presence, uncertainty, attachment, and the desire to control suffering. By connecting popular culture with current concepts in pain science and rehabilitation, it suggests that stories can enrich clinical reflection, strengthen therapeutic communication, and encourage both clinicians and patients to develop a different relationship with pain rather than simply seeking to eliminate it.",
-      "journal": "Explore (New York, N.Y.)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effects of open- versus closed-skill exercise combined with mindfulness training on inhibitory control in children with ADHD: protocol for a three-arm randomised controlled trial with fMRI.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42431671/",
+      "title": "Neurocognitive effects of guided moving meditation on divergent thinking and neural coherence in agri-entrepreneurs: An EEG study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42432016/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-07-10T00:00:00",
-      "date_fetched": "2026-07-11T12:52:32.686255",
-      "doi": "10.1136/bmjopen-2026-116849",
+      "date_fetched": "2026-07-12T12:53:42.206491",
+      "doi": "10.1038/s41598-026-60086-9",
       "authors": [
         {
-          "name": "Wenwen Zhang",
+          "name": "Pandit Rupesh",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Guangyan Han",
+          "name": "Sony Kumari",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Haibin Guo",
+          "name": "Parul Dubey",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Xixi Wang",
+          "name": "Raghuram Nagarathna",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Feng Peng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rujie Cui",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiajia Jiang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hui Zhou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shanshan Bian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yanshu Ding",
+          "name": "Dwivedi Krishna",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Impaired inhibitory control is a core neurocognitive deficit in children with attention deficit hyperactivity disorder (ADHD). Physical exercise and mindfulness training are each promising non-pharmacological approaches for ADHD; however, whether combining mindfulness with different exercise modalities, particularly team-based and individual-based open-skill exercise versus closed-skill exercise, yields differential effects on inhibitory control and its neural substrates remains unknown. This study aims to compare these intervention approaches in children with ADHD while exploring associated neural correlates. METHODS AND ANALYSIS: This is a single-centre, assessor-blinded and statistician-blinded, three-arm parallel-group randomised controlled trial. 60 children with ADHD aged 6-8 years will be randomly assigned (1:1:1) to one of three 8-week intervention groups: (1) team-based open-skill exercise (basketball) combined with mindfulness training, (2) individual-based open-skill exercise (badminton) combined with mindfulness training or (3) closed-skill exercise (structured aerobic activity) combined with mindfulness training. The co-primary outcomes are behavioural inhibitory control, assessed using the Go/No-Go task and Stroop Colour-Word Test at baseline, postintervention and 3-month follow-up. Secondary outcomes include attention, ADHD symptom severity, executive function, health-related quality of life and resting-state functional MRI indices. ETHICS AND DISSEMINATION: This trial has received ethical approval from the Ethics Committee of the Affiliated Changzhou Children's Hospital of Nantong University (Approval No.: 2024-029; Approval Date: 2 January 2025) and will be conducted in accordance with the Declaration of Helsinki (2024 revision). The protocol has been prospectively registered with the Chinese Clinical Trial Registry. Findings will be disseminated through peer-reviewed publications and academic conferences. TRIAL REGISTRATION NUMBER: ChiCTR2500108809.",
-      "journal": "BMJ open",
+      "abstract": "Creativity is a cornerstone of adaptive problem-solving and innovation, yet its neural basis remains insufficiently understood in real-world entrepreneurial contexts. This randomized controlled study investigated the influence of Guided Moving Meditation (GMM) on creative cognition and neural coordination in adult agri-entrepreneurs. Fifty-four right-handed male agri-entrepreneurs (25-45 years) were randomly assigned to the GMM group (n\u2009=\u200927) or a Supine Rest control group (SR; n\u2009=\u200927) for twelve weeks (35\u00a0min/day, five days/week). Creative cognition was evaluated using the Alternative Uses Task, and neural activity in frontotemporal regions was assessed using electroencephalography (EEG) in agri-entrepreneurs before and after the intervention. In the GMM group, EEG spectral analysis indicated significant reductions in delta, theta, and alpha power, along with significant increases in beta and gamma power, while coherence analysis revealed increased delta, theta, and alpha coherence and decreased beta coherence in the anterior frontal region. Exploratory mediation analyses using change scores (\u0394 PSD, \u0394 coherence, and \u0394 fluency) did not support a significant mediating role of beta-band coherence in the relationship between neural oscillatory changes and creative performance. In addition, behavioral results demonstrated significant gains in fluency, flexibility, originality, and elaboration following GMM. These findings suggest that GMM facilitates a neurophysiological state characterized by altered neural coordination and cognitive flexibility, which may be relevant to creative cognition in agri-entrepreneurs.",
+      "journal": "Scientific reports",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
