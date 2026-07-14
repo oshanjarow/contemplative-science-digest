@@ -1,213 +1,233 @@
 {
-  "generated_at": "2026-07-13T14:01:41.697703",
+  "generated_at": "2026-07-14T13:04:21.619043",
   "papers": [
     {
-      "title": "TBAid: A domain-restricted diagnostic assistant for tuberculosis awareness and patient support using OpenRouter API Integration",
-      "url": "https://www.semanticscholar.org/paper/a2254cb99353f97038ea83e74ad051fd55873ffc",
+      "title": "Altered spatiotemporal brain dynamics of interoception in behavioural-variant frontotemporal dementia",
+      "url": "https://www.semanticscholar.org/paper/6c6f3fe196df52e87199e9d1d1c623fb79924142",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-07-13T14:00:53.166551",
-      "doi": "10.1016/j.mex.2026.103819",
+      "date_published": "2025-02-22T00:00:00",
+      "date_fetched": "2026-07-14T13:03:58.646682",
+      "doi": "10.1016/j.ebiom.2025.105614",
       "authors": [
         {
-          "name": "R. Teja",
-          "author_id": "2091134466",
+          "name": "Jessica L. Hazelton",
+          "author_id": "19251280",
           "affiliation": null
         },
         {
-          "name": "Dalwinder Singh",
-          "author_id": "2348583734",
+          "name": "G. D. Della Bella",
+          "author_id": "2144791270",
           "affiliation": null
         },
         {
-          "name": "Arun Singh",
-          "author_id": "2342358447",
+          "name": "P. Barttfeld",
+          "author_id": "2298515399",
           "affiliation": null
         },
         {
-          "name": "Saiprasad Potharaju",
-          "author_id": "2322780420",
+          "name": "M. Dottori",
+          "author_id": "50511564",
           "affiliation": null
         },
         {
-          "name": "M. P. Kantipudi",
-          "author_id": "2359313361",
+          "name": "Ra\u00fal Gonz\u00e1lez-G\u00f3mez",
+          "author_id": "2130015136",
           "affiliation": null
         },
         {
-          "name": "Swathi Gowroju",
-          "author_id": "2041286761",
+          "name": "Joaqu\u00edn Migeot",
+          "author_id": "2032729863",
+          "affiliation": null
+        },
+        {
+          "name": "Sebastian Moguilner",
+          "author_id": "10746409",
+          "affiliation": null
+        },
+        {
+          "name": "Agustina Legaz",
+          "author_id": "1901365990",
+          "affiliation": null
+        },
+        {
+          "name": "Hernan Hernandez",
+          "author_id": "2220194637",
+          "affiliation": null
+        },
+        {
+          "name": "Pavel Prado",
+          "author_id": "2049944",
+          "affiliation": null
+        },
+        {
+          "name": "Jhosmary Cuadros",
+          "author_id": "116114413",
+          "affiliation": null
+        },
+        {
+          "name": "M. Maito",
+          "author_id": "2052695182",
+          "affiliation": null
+        },
+        {
+          "name": "Mat\u00edas Fraile-Vazquez",
+          "author_id": "1946911968",
+          "affiliation": null
+        },
+        {
+          "name": "Mar\u00eda Luz Gonz\u00e1lez Gadea",
+          "author_id": "25161745",
+          "affiliation": null
+        },
+        {
+          "name": "Yasir \u00c7atal",
+          "author_id": "13683044",
+          "affiliation": null
+        },
+        {
+          "name": "Bruce Miller",
+          "author_id": "2310474771",
+          "affiliation": null
+        },
+        {
+          "name": "Olivier Piguet",
+          "author_id": "2267806710",
+          "affiliation": null
+        },
+        {
+          "name": "Georg Northoff",
+          "author_id": "2249485446",
+          "affiliation": null
+        },
+        {
+          "name": "Agust\u00edn Ib\u00e1\u00f1ez",
+          "author_id": "2240058301",
           "affiliation": null
         }
       ],
-      "abstract": "This research introduces a study of a domain-specific intelligent assistant, TBAid, that is a conversational chatbot to assist with tuberculosis (TB) awareness and health advice. A structured rule-based system integrated with the Hugging Face Inference API using the Qwen/Qwen2.5-72B-Instruct large language model provides TB-focused responses to structured user queries. TBAid is designed to increase public awareness in low-resource and rural areas. It specifically targets communities with poor access to specialist consultations and medical report interpretation. A key novelty of the assistant is its dual-explanation capability, which can frame responses for a non-expert user (e.g., a patient) or provide a medically precise version for healthcare workers. This ensures answers are both accessible and clinically safe by remaining strictly domain-relevant. While the chatbot does not currently analyze images directly, its architecture is designed for future integration. It can accept predictive outputs from a separate, pre-existing CT-based TB classification model. It has a user interface written in HTML, CSS, and JavaScript, and can be deployed on GitHub as a static web app or a local Flask server. This framework enables real-time access and secure decision-making. It is modular, scalable, and can be integrated with AI-based medical diagnostics in the future.\u2022 Combines rule-based logic and conversational AI for domain-specific TB support.\u2022 Enhances accessibility through lightweight, local, and online deployments.\u2022 Supports modular expansion for integration with CT-based diagnostic outputs.",
-      "journal": "MethodsX",
-      "year": 2026,
+      "abstract": "Summary Background Dysfunctional allostatic-interoception, altered processing of bodily signals in response to environmental demands, occurs in behavioural-variant frontotemporal dementia (bvFTD) patients. Previous research has not investigated the dynamic nature of interoception using methods like intrinsic neural timescales. We hypothesised that longer intrinsic neural timescales of interoception would occur in bvFTD patients, evidencing dysfunctional allostatic-interoception. Methods One-hundred and twelve participants (31 bvFTD patients, 35 Alzheimer's disease patients, AD and 46 healthy controls) completed a well-validated task measuring cardiac-interoception and exteroception. Simultaneous EEG and ECG were recorded. Intrinsic neural timescales were measured via the autocorrelation window (ACW) of broadband EEG signals from each heartbeat and a time-lagged version of itself. Spatiotemporal clustering analyses identified clusters with significant between-group differences in each condition. Voxel-based morphometry was used to target the allostatic-interoceptive network. Neuropsychological tests of cognition and social cognition were assessed. Findings In bvFTD patients, longer interoceptive-ACWs than controls were observed in the bilateral fronto-temporal and parietal regions. In AD patients, longer interoceptive-ACWs than controls were observed in central and occipitoparietal brain regions. No differences were observed during exteroception. In bvFTD patients only, longer interoceptive-ACW was linked to worse sociocognitive performance. Structural neural correlates of interoceptive-ACW in bvFTD involved the anterior cingulate, insula, orbitofrontal cortex, hippocampus, and angular gyrus. Interpretation Our findings suggest a core allostatic-interoceptive deficit occurs in people with bvFTD. Further, altered interoceptive intrinsic neural timescales may provide a neurobiological mechanism underpinning the complex behaviours observed in bvFTD patients. Our findings support synergistic models of brain disease and can inform clinical practice. Funding All funding sources are reported in the Acknowledgements.",
+      "journal": "EBioMedicine",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "non-dual awareness"
+        "interoception contemplative"
       ]
     },
     {
-      "title": "The Paradox of Omniscience (Sarvaj\u00f1\u0101na): From Divine Omniscience to the Mystical Self-Awareness in Indian Philosophy",
-      "url": "https://www.semanticscholar.org/paper/27e995aeefe094c83824803eb901078deb5be03b",
+      "title": "Disentangling interoception and its links to cognitive functioning in fibromyalgia",
+      "url": "https://www.semanticscholar.org/paper/19ba29c217d63d9d72e8485801c91113d2706174",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-03-20T00:00:00",
-      "date_fetched": "2026-07-13T14:00:53.166561",
-      "doi": "10.3390/rel17030398",
+      "date_published": "2025-08-26T00:00:00",
+      "date_fetched": "2026-07-14T13:03:58.646844",
+      "doi": "10.1038/s41598-025-15087-5",
       "authors": [
         {
-          "name": "Youngsun Yang",
-          "author_id": "2402417868",
+          "name": "M. Agostinho",
+          "author_id": "151391803",
+          "affiliation": null
+        },
+        {
+          "name": "M. Capelas",
+          "author_id": "10405708",
+          "affiliation": null
+        },
+        {
+          "name": "F. Pimentel-Santos",
+          "author_id": "2294558062",
+          "affiliation": null
+        },
+        {
+          "name": "Rita Canaipa",
+          "author_id": "6826144",
           "affiliation": null
         }
       ],
-      "abstract": "While Western theology typically locates omniscience in a personal Creator-God, Indian philosophy presents a notable spectrum. This article traces the dialectical arc of omniscience (sarvaj\u00f1\u0101na) across major Indian philosophical traditions, arguing that what appears as an epistemological question\u2014\u201cwho knows everything?\u201d\u2014is ultimately an ontological puzzle about the nature of consciousness itself. Moving from the Vedic oscillation between cosmic personhood (Puru\u1e63a S\u016bkta) and primordial uncertainty (N\u0101sad\u012bya S\u016bkta), through the Upani\u1e63adic internalization of omniscience as Self-knowledge (\u0101tmaj\u00f1at\u0101), the article examines how Ny\u0101ya-Yoga affirms divine omniscience as a logical and soteriological necessity, how M\u012bm\u0101\u1e43s\u0101 displaces it onto an impersonal authorless text, and how Jainism and Buddhism reappropriate it as a perfected human achievement. The final section demonstrates that both S\u0101\u1e43khya\u2019s isolation (kaivalya) and Advaita Ved\u0101nta\u2019s non-dual realization ultimately transcend encyclopedic omniscience, revealing that authentic liberation requires not the possession of maximal information but a transformation from representational object-knowledge to non-objectifying awareness. Together, these trajectories constitute Indian philosophy\u2019s most enduring contribution to the global philosophy of religion: the recognition that the \u201cAll\u201d cannot be an object of knowledge, because it is the very condition for any knowledge whatever.",
-      "journal": "Religions",
-      "year": 2026,
+      "abstract": "Patients with fibromyalgia experience pain, cognitive dysfunction, and atypical interoception. However, it is still unclear whether the changes in interoceptive processes have consequences in managing cognitive tasks. The current study investigates the relationship between interoception and cognition in fibromyalgia. Twenty-nine fibromyalgia patients completed clinical questionnaires, the Digit-span, and the Stroop test. Interoceptive Accuracy (IAc) was measured by the heartbeat detection task, Interoceptive Awareness (IAw) via confidence ratings, and Interoceptive Sensibility (IS) via the Multidimensional Assessment of Interoceptive Awareness questionnaire. IAc was found to be positively associated with Digit-span forward (p\u2009=\u20090.008), total (p\u2009=\u20090.004), and Stroop scores (all p\u2009\u2264\u20090.045). IS correlated negatively with Digit-span backward (p\u2009\u2264\u20090.\u2009\u2264\u20090.022) while IAw was negatively associated with Digit-span forward (p\u2009\u2264\u20090.034), total (p\u2009\u2264\u20090.008), and Stroop scores (all p\u2009\u2264\u20090.038). Moderation analysis revealed that IAc predicts Digit-span backward as symptom severity increases (p\u2009=\u20090.045). Despite the absence of a control group, this study provides evidence of the detailed relationships between interoception and cognitive abilities in fibromyalgia. While detecting and efficiently using body signals may be an essential tool for self-regulation in managing cognitive tasks, a higher ability to regulate body signals may exhaust cognition and predispose the patients to lower cognitive performance.",
+      "journal": "Scientific Reports",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "non-dual awareness"
+        "interoception contemplative"
       ]
     },
     {
-      "title": "AI Based Breath Volatile Organic Compounds Pattern Recognition System for Early Health Risk Screening",
-      "url": "https://www.semanticscholar.org/paper/5fb713e2edcbfbd56eb38359e889587453da84fd",
+      "title": "Emotional and Social Dimension of Abstract Concepts Meet with Interoception in Right Anterior Insula",
+      "url": "https://www.semanticscholar.org/paper/c6c6a259e62f0e6b52a8c8c1481eb05cd84bc068",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-03-01T00:00:00",
-      "date_fetched": "2026-07-13T14:01:08.642104",
-      "doi": "10.65379/tpsn2013/ijaemsv02i01p1",
+      "date_published": "2025-11-21T00:00:00",
+      "date_fetched": "2026-07-14T13:03:58.646892",
+      "doi": "10.1523/JNEUROSCI.0238-25.2025",
       "authors": [
         {
-          "name": "H. S",
-          "author_id": "2367609602",
+          "name": "Martina Mancano",
+          "author_id": "2216697942",
           "affiliation": null
         },
         {
-          "name": "J. \u0161",
-          "author_id": "2423343857",
-          "affiliation": null
-        },
-        {
-          "name": "Gunasundari J",
-          "author_id": "2423358309",
+          "name": "C. Papagno",
+          "author_id": "2251100088",
           "affiliation": null
         }
       ],
-      "abstract": "Volatile Organic Compounds (VOCs) in human breath contain important biochemical data that\ncan be used as early warning signs for health risk awareness systems. The proposed research\nwork brings forth an AI pattern that utilizes VOC patterns to ensure health screening is noninvasive, rapid, and inexpensive. The proposed system combines health data acquisition\nthrough sensor technology and sophisticated machine learning algorithms to detect minute\nchanges in VOC patterns and convert them into predictive risk profiles. A prototype system has\nbeen developed to test real-time breath monitoring through IoT technology and a mobile\nfeasibility interface, proving the feasibility of portable health screening outcomes.\nExperimental methodologies have been used to ensure the system is highly sensitive and\nspecific in detecting minute health anomalies while remaining cost-effective. This study brings\ntogether the ideas of artificial intelligence and breath analysis to help in the development of\nproactive and preventive healthcare technology that is less invasive in terms of health\nscreening. The proposed system fills the gap that exists between the laboratory-based\ndiagnostic systems and the health resources available in the community that are more\naccessible. The system that involves sensor integration and AI recognition is one of the\napproaches through which portable technology and the power of breath are able to provide\nvaluable chemistry. The prototype system indicates the significance of affordability and\nflexibility in ensuring that the system is relevant in the context of healthcare monitoring. The\nsmartphone interface enhances the usability of the system and encourages proactive personal\nhealth.",
-      "journal": "International Journal of Advanced Engineering and Management System",
-      "year": 2026,
+      "abstract": "According to the embodied cognition theory, which claims that concepts\u2019 representation is grounded in sensory and motor components, abstract concepts are grounded in interoception, which is processed in the Anterior Insula (AIns). However, it is not clear whether interoception and abstract concepts share common anatomical substrates, and if yes, whether AIns is one candidate. In this study, we used repetitive transcranial magnetic stimulation (rTMS) on healthy human participants (N\u2009=\u200925, 19 females) to examine whether left and right AIns play a role in both abstract concepts and interoception. The heartbeat counting task served as a measure of interoceptive accuracy, and the semantic similarity judgment as a measure of semantic performance. Concepts were characterized according to both a categorical approach, contrasting three categories of concepts, namely social and emotion (abstract categories) and objects (concrete category), and a dimensional approach, collecting semantic ratings on the emotion and social dimensions of abstract and concrete concepts. TMS site and TMS-induced electric field inside the AIns ROI were used to predict interoceptive and semantic behavioral responses. Both TMS site and E-field ROI analyses confirmed the right AIns' role in supporting interoception and the emotion and social dimensions of abstract concepts. This aligns with an embodied cognition framework, where AIns is involved in both the nonlinguistic and linguistic processing of emotional and social dimensions. Together, these results support the evidence of a relation between interoception and socio-emotional semantics and the convergence of these two processes on the right AIns.",
+      "journal": "Journal of Neuroscience",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "breath awareness"
+        "interoception contemplative"
       ]
     },
     {
-      "title": "Vaping trap: A fading breath beneath the flavors",
-      "url": "https://www.semanticscholar.org/paper/2166f415db45078fdec7650d17dbe9c7c8066f22",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-24T00:00:00",
-      "date_fetched": "2026-07-13T14:01:08.642114",
-      "doi": "10.53685/jshmdc.v7i1.486",
-      "authors": [
-        {
-          "name": "S. Uppal",
-          "author_id": "4585786",
-          "affiliation": null
-        },
-        {
-          "name": "A. Shahid",
-          "author_id": "5760916",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Electronic cigarettes, commonly called vapes, have become very popular especially among young people in recent years. Many users believe that vaping is a safe or less harmful choice compared to traditional cigarettes, but this thinking is not fully supported by the available evidence. The appealing flavors, colorful packaging, and social media promotion have played a big role in attracting adolescents and even children toward these products. Emerging research is now showing that vaping can cause serious damage to the lungs, heart, and other body systems, and nicotine addiction can begin very quickly. There is a strong need for better public awareness, stricter regulations, and more research to protect especially the younger generation from falling into this trap.",
-      "journal": "Journal of Shalamar Medical &amp; Dental College - JSHMDC",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "breath awareness"
-      ]
-    },
-    {
-      "title": "Mechanisms of mindfulness-based cognitive therapy in difficult-to-treat depression: moderation and mediation analyses from the RESPOND trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42438894/",
+      "title": "[Psychometric Properties of the Mindful Eating Questionnaire for Elementary School Children in Mexico].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41878911/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-13T00:00:00",
-      "date_fetched": "2026-07-13T14:01:30.773728",
-      "doi": "10.1017/S0033291726105212",
+      "date_published": "2026-07-14T00:00:00",
+      "date_fetched": "2026-07-14T13:04:20.998937",
+      "doi": "10.20960/nh.06177",
       "authors": [
         {
-          "name": "Thorsten Barnhofer",
+          "name": "Francisco A Cu\u00e9n-Tan\u00f3ri",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Barnaby D Dunn",
+          "name": "Yolanda Flores-Pe\u00f1a",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Clara Strauss",
+          "name": "Adiel Agama-Sarabia",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Florian A Ruths",
+          "name": "Victor H Bermeo-Lorenzo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mary Ryan",
+          "name": "Juana M Guti\u00e9rrez-Valverde",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Asha Ladwa",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Frances Stafford",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Roberta Fichera",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Isabella Metcalfe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Allan H Young",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kimberley Goldsmith",
+          "name": "Perla M Trejo-Ortiz",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Mindfulness-based cognitive therapy (MBCT) was developed for relapse prevention in people with remitted depression but is increasingly used for those with difficult-to-treat depression (DTD). A key question regarding this broader application is whether ongoing depressive symptoms constrain therapeutic responsiveness or disrupt MBCT's proposed mechanism, decentering. We explored whether baseline depressive severity moderates clinical outcomes, whether changes in decentering mediate treatment effects, and whether this mediation varies by baseline severity. METHODS: Secondary moderation, mediation, and moderated mediation analyses were conducted using data from the RESPOND randomized trial ( RESULTS: Higher baseline severity predicted greater symptom improvement across both groups. Treatment-related increases in decentering partially mediated the effect of MBCT on depressive symptoms at follow-up. Although baseline severity did not moderate the treatment effect, it moderated the indirect effect, with decentering more strongly associated with symptom reduction among those with higher baseline depression. Severity did not moderate the acquisition of decentering skills. CONCLUSIONS: Concerns that more severe depressive symptoms limit the effectiveness of MBCT were not supported. MBCT's core mechanism remained operative under substantial symptom burden, with clinical impact amplified at higher severity. These findings reduce key uncertainties regarding the application of MBCT in DTD and support its use across a broad range of symptom severity.",
-      "journal": "Psychological medicine",
+      "abstract": "Introduction: mindful eating involves applying mindfulness to thoughts, emotions, bodily sensations, and behaviors related to eating. It is increasingly recognized as a strategy for promoting healthy eating habits and supporting weight management. However, most existing questionnaires assessing mindful eating have been developed primarily for adults. Objective: to evaluate the psychometric properties of the Mindful Eating Questionnaire (MEQ), translated and adapted for school-aged children in Mexico. Methods: a cross-sectional study was conducted involving the translation, back-translation, cultural adaptation, and validation of the MEQ. A total of 400 elementary school students from northern Mexico participated. Psychometric evaluation included exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and internal consistency assessment. Results: EFA supported a two-factor model with 13 items. Fit indices were satisfactory: CFI = 0.933, TLI = 0.919, GFI = 0.959, and RMSEA = 0.041. All items in the adjusted model showed acceptable factor loadings (> 0.400, p < 0.001). Two factors were identified: Mindless Eating (7 items; \u03b1 = 0.709) and Mindful Eating (6 items; \u03b1 = 0.646). Conclusions: the school version of the MEQ, referred to as MEQ-N (Mindful Eating Questionnaire adapted for children in Mexico) is proposed. While the reliability indices are acceptable, they suggest room for improvement. Further research using qualitative methods such as interviews is recommended to better understand how school-aged children conceptualize mindful eating.",
+      "journal": "Nutricion hospitalaria",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -215,47 +235,75 @@
       "matched_keywords": []
     },
     {
-      "title": "Comparison of the Immediate Effects of Virtual Reality-guided Meditation and Cardiovascular Exercise on Cognitive Function in Healthy Young Adults - A Counterbalanced Crossover Pre-poststudy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42437725/",
+      "title": "A three-component dynamical index of consciousness-related neural organisation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42439951/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-10T00:00:00",
-      "date_fetched": "2026-07-13T14:01:40.944270",
-      "doi": "10.4103/aam.aam_262_26",
+      "date_published": "2026-07-13T00:00:00",
+      "date_fetched": "2026-07-14T13:04:20.999013",
+      "doi": "10.1007/s00422-026-01049-1",
       "authors": [
         {
-          "name": "Tanisha Singhal",
+          "name": "Hassan Ugail",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shreya Narayan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "M S Kusumadevi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sathyanarayan Kelegere Ravi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "R S Suraj",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Indira Jha",
+          "name": "Newton Howard",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Both cardiovascular exercise and mindfulness meditation have been shown to influence cognitive performance, particularly executive functions such as attention, inhibitory control, and cognitive flexibility. Virtual reality-guided meditation (VRM) is an emerging intervention that combines mindfulness techniques with immersive technology and may enhance engagement compared to conventional meditation. However, limited research has compared the immediate cognitive and physiological effects of VRM with those of acute cardiovascular exercise in healthy young adults. METHODOLOGY: This counterbalanced crossover pre-poststudy included 28 healthy undergraduate medical students (14 males and 14 females; mean age: 21.36 \u00b1 1.45 years). Participants completed two interventions on separate days: VRM and cardiovascular exercise using the Harvard Step Test (HST), with a washout period of 5-7 days between sessions. Cognitive performance was assessed before and after each intervention using computerized Go/No-Go and task-switching paradigms, measuring reaction time, inhibitory control, sustained attention, and cognitive flexibility. Heart rate was recorded as a physiological indicator of arousal, and perceived exertion was assessed using Borg's Rating of Perceived Exertion scale. Data were analyzed using 2 \u00d7 2 repeated-measures analysis of variance with intervention (HST and VRM) and time (pre and post) as within-subject factors. RESULTS: A significant intervention \u00d7 time interaction was observed for heart rate (P < 0.001), with a substantial increase following HST, whereas no significant change was observed following VRM. In the task-switching paradigm, significant main effects of time were observed for reaction time in repeat trials (P < 0.001), switch trials (P < 0.001), and average switch cost (P = 0.012), indicating improved processing speed following both interventions. Accuracy for repeat trials showed significant main effects of intervention (P = 0.022) and time (P = 0.016), with slightly higher accuracy during the VRM condition. In contrast, Go/No-Go task measures, including accuracy, sustained attention, response inhibition, and reaction time, did not show significant changes across interventions or time. CONCLUSION: Both cardiovascular exercise and VRM were associated with improvements in reaction time-based measures of executive function, although these changes were largely time-dependent and not intervention-specific. While cardiovascular exercise produced the expected physiological activation, VRM elicited comparable cognitive changes without a significant increase in heart rate. These findings suggest that VRM may represent a feasible nonphysical alternative for supporting aspects of cognitive performance in situations where physical exercise is not feasible. Further research is needed to evaluate long-term effects and underlying mechanisms.",
-      "journal": "Annals of African medicine",
+      "abstract": "Quantifying consciousness from brain activity remains a major challenge in neuroscience and clinical practice. Many existing EEG measures focus on a single feature of neural activity, such as complexity, synchrony, or spectral structure, but no single feature appears sufficient across different brain states. We introduce a composite dynamical framework that combines three complementary properties of brain activity, i.e., scale-free temporal organisation, cross-frequency organisation, and metastable flexibility in large-scale synchronisation. These components are normalised and combined into a single index designed to capture organised dynamical complexity rather than raw signal complexity alone. We test the framework in both synthetic and empirical settings. In a generative model of nine EEG-like brain states, including wakefulness, dreaming, anaesthesia, non-conscious states, and seizure states, the index separates the synthetic conscious and non-conscious classes without overlap and remains stable across ablation, sensitivity, and Monte Carlo analyses. We then apply the framework to two-channel Sleep-EDF recordings from 30 healthy adults, where it provides a proof-of-principle subject-level separation of wakefulness from N2 and REM sleep. The framework is dynamical-systems-inspired and is not committed to any single theory of consciousness, making it compatible with a range of theoretical perspectives. With further validation, the framework may be applicable across multichannel brain recordings, including anaesthesia, disorders of consciousness, and basic consciousness-research settings.",
+      "journal": "Biological cybernetics",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Acceptability and safety of two sequential doses of psilocybin in bipolar II depression: protocol for an open-label single-arm feasibility study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442821/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-13T00:00:00",
+      "date_fetched": "2026-07-14T13:04:20.999298",
+      "doi": "10.1136/bmjopen-2026-118471",
+      "authors": [
+        {
+          "name": "Thomas D Meyer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lauren N Vale",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maya Ibrahim",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Carolina Olmos",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jo\u00e3o Quevedo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jair C Soares",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Bipolar II disorder (BD-II) is characterised by hypomanic and depressive episodes with the latter tending to dominate the clinical course of the disorder, and they are often associated with suicidality. Despite available guideline-based recommendations for first-line pharmacological treatments, patient outcomes remain suboptimal, especially for those with chronic depression and suicidal ideation. The dearth of viable treatment options for this population is evident, which is where psychedelics propose an additional alternative path. Psilocybin has recently shown promise in treating major depressive disorder and treatment-resistant depression; however, individuals with bipolar disorder or suicidality are typically excluded from such trials due to safety concerns (ie, risk of emerging suicidal behaviour, psychosis and/or mania). Here, we present the protocol of a study which aims to explore the acceptability, safety and treatment preferences of psilocybin-assisted therapy in patients with BD-II struggling with suicidal ideation. METHODS AND ANALYSIS: This outpatient, single-site, phase II, single-arm, open-label clinical trial feasibility study will include 10 participants diagnosed with BD-II depression and moderately passive suicidal ideation. Participants may receive up to two oral doses of 25\u2009mg psilocybin, approximately 4\u2009weeks apart, alongside a structured therapeutic protocol (based on mindfulness cognitive-behavioural therapy) that includes preparatory therapy sessions, psychological support during administration and post-treatment integration therapy sessions. The purpose is to examine the acceptability and safety of using psilocybin as a therapeutic for mild to moderate suicidality in patients currently diagnosed with BD-II and to obtain preliminary data on its effects. This will be measured using the following: Primary outcomes include change in suicidality, that is, the Interpersonal Needs Questionnaire and the Columbia Suicide Severity Rating Scale from baseline to main endpoint (3 weeks post initial administration) and feasibility and acceptability (as assessed by number of participants who complete the trial, number of therapy sessions attended and number of assessments completed). Secondary outcomes include changes in the following associated measures: Montgomery-Asberg Depression Rating Scale, Quick Inventory of Depressive Symptomatology, Young Mania Rating Scale, Brief Psychiatric Rating Scale Positive Symptom Subscale, Altman Self-Rating Mania Scale. Findings will also be used to estimate effect sizes and inform the design of a future randomised controlled trial. ETHICS AND DISSEMINATION: Ethical approval has been obtained from the UTHealth Committee for the Protection of Human Subjects (CPHS RB# HSC-MS-23-0905). The results of the study will be disseminated to the public (ie, clinicians, researchers, patients and policymakers) through peer-reviewed journals, conferences and scientific meetings and clinical registries. TRIAL REGISTRATION NUMBER: NCT06706232.",
+      "journal": "BMJ open",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
