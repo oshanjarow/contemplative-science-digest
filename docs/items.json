@@ -1,314 +1,58 @@
 {
-  "generated_at": "2026-07-16T13:16:39.030742",
+  "generated_at": "2026-07-17T13:00:54.889344",
   "papers": [
     {
-      "title": "Knowledge and management of metabolic dysfunction-associated steatotic liver disease among endocrinologists in Spain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42448563/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-14T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358134",
-      "doi": "10.1016/j.endien.2026.501846",
-      "authors": [
-        {
-          "name": "Mar\u00eda Teresa Juli\u00e1n",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Miguel A Rubio-Herrera",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Javier Escalada",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "N\u00faria Alonso",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease and is closely associated with type 2 diabetes mellitus (T2DM) and obesity. However, it continues to have limited clinical visibility outside the field of Hepatology. OBJECTIVE: To evaluate knowledge, liver fibrosis screening practices, and perceived barriers related to MASLD among endocrinologists in Spain. MATERIALS AND METHODS: An exploratory cross-sectional observational study was conducted using an online survey promoted by the MASLD Working Group of the Spanish Society of Endocrinology and Nutrition (SEEN) and addressed to all society members. A total of 210 anonymized surveys were analyzed, collecting information on: liver fibrosis screening in patients with T2DM and/or obesity, diagnostic tools used, availability of clinical protocols, access to liver elastography, and the main barriers to MASLD management. A descriptive analysis of the results was performed. RESULTS: Approximately half of the endocrinologists reported performing liver fibrosis screening in patients with T2DM or obesity. FIB-4 was the most frequently used screening tool (78.4%), although automated calculation was available in only 60.8% of centers. Lack of time, insufficient training, and limited protocol availability (31.6%) were identified as the main barriers, and direct access to elastography from Endocrinology departments was limited. CONCLUSIONS: This exploratory study shows that MASLD is not yet fully integrated into endocrinology practice in Spain. The lack of systematic screening, together with organisational and educational barriers, limits the early detection of hepatic fibrosis in high-risk populations. Strengthening awareness, training, and protocol development is necessary to integrate liver health into the comprehensive management of patients with metabolic disease.",
-      "journal": "Endocrinologia, diabetes y nutricion",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness-based exposure and response prevention in individuals with comorbid obsessive-compulsive and major depressive disorders: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42457778/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358178",
-      "doi": "10.1038/s41598-026-60766-6",
-      "authors": [
-        {
-          "name": "Mohammad Asif Sheikh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Thaddeus Alfonso",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This randomized controlled trial examined whether mindfulness-based exposure and response prevention (MB-EX/RP) improves outcomes for adults with comorbid obsessive-compulsive disorder (OCD) and major depressive disorder (M, addressing cognitive rigidity and emotion dysregulation that can limit standard exposure and response prevention. Fifty-four participants were assigned to MB-EX/RP or standard exposure and response prevention; 40 completed treatment (20 per group) across 17 sessions. OCD symptom severity, as measured by the Yale-Brown Obsessive Compulsive Scale (Y-BOCS), showed a significant Time \u00d7 Group interaction, F(1, 38)\u2009=\u20093.37, p < .05, indicating greater reductions in MB-EX/RP relative to EX/RP, together with a between-group effect, F(1, 38)\u2009=\u20094.88, p < .05, and a large overall time effect (\u03b7\u00b2",
-      "journal": "Scientific reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Effects of Audio-Guided Mindful Meditation on Physical Aggression Perpetration: Is It Effective for Everyone?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42457384/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358244",
-      "doi": "10.1891/VV-2025-0024",
-      "authors": [
-        {
-          "name": "Thomas J Shaw",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kaitlyn Westerhold",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Allison Tobar-Santamaria",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lindsay Mongan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dominic Parrott",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Meagan J Brem",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "We examined whether the effects of a brief, guided mindful meditation (MM) exercise on aggression perpetration differed based on an individual's baseline ability to nonjudgmentally observe the present moment (i.e., dispositional mindfulness). One hundred two college students (56.1% women; 78.9% White) completed the Mindful Attention Awareness Scale (MAAS) and were randomly assigned to either a one-time 15-minute audio-guided meditation, mindful condition, or control condition before completing a shock-based laboratory aggression paradigm involving provocation by an ostensible opponent. All participants were coded as having either high or low levels of dispositional mindfulness based on a mean split of their MAAS score. Results indicated that participants with high levels of dispositional mindfulness displayed significantly less aggression in the MM condition relative to the control condition (",
-      "journal": "Violence and victims",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Holistic Health Approaches for People With Alcohol Use Disorder: Protocol for a Scoping Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456156/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358294",
-      "doi": "10.2196/85036",
-      "authors": [
-        {
-          "name": "Shubhi Nanda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anna E Roberts",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jenny Yarmovsky",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gisela Butera",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Donna Barnett",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lorenzo Leggio",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gwenyth R Wallen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jennifer J Barb",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Alcohol use disorder (AUD) is a complex, chronic medical disease wherein patients have traditionally benefited from a multidisciplinary and comprehensive therapeutic approach, including a comprehensive treatment plan that addresses the psychological, behavioral, and social dimensions of the individual. Holistic health is a nontraditional system of wellness that focuses on well-being through body, mind, and spirit and aims to restore balance through combined physical, mental, and emotional care. This approach may incorporate nonpharmacological and alternative treatments alongside allopathic medicine. In recent years, there has been a growing interest in integrating holistic health strategies into addiction treatment. OBJECTIVE: The primary objective of this scoping review is to identify and characterize holistic health interventions currently used in the management of people with AUD. A secondary objective is to collate the reported efficacy of these interventions. Additionally, this review will identify gaps in the literature and suggest areas for future research. METHODS: This review will adhere to the Arksey and O'Malley methodological framework for scoping reviews. Published research and pilot clinical trials reporting on holistic health interventions in AUD will be included. Five databases will be searched: PubMed and MEDLINE, Embase, CINAHL, Web of Science, and Scopus. There will be no date restrictions, though only English-language articles will be included. To qualify, studies must include at least one holistic intervention (eg, meditation, homeopathy, and special diets). Excluded studies will include those that do not involve people with AUD and/or hazardous drinking or that only test pharmaceutical treatments without a holistic component. Two reviewers will independently screen and extract data with a third reviewer as a tiebreaker; discrepancies will be resolved through discussion. RESULTS: This scoping review began in Covidence in December 2024 and is currently funded by the National Institutes of Health Intramural Research Program. Data collection was completed in February 2026, and data analysis was completed in June 2026. Results are expected to be published in late 2026. CONCLUSIONS: This review will provide an overview of holistic approaches and interventions used in AUD treatment. It will highlight gaps in the literature and recommend directions for future research. Results will be submitted for publication in a peer-reviewed journal. No ethics approval is required because the review involves only publicly available literature.",
-      "journal": "JMIR research protocols",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "How Effective Are Mindfulness-Based Interventions (MBIs) for the Treatment of Substance Use Disorders (SUDs), Relapse Prevention, and Craving: An Umbrella Review Article.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455996/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358387",
-      "doi": "10.1080/10826084.2026.2699442",
-      "authors": [
-        {
-          "name": "Parvin Ajami Bakhtiarvand",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mohammad Reza Abedi",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVES: Substance use disorders (SUDs) affect the lives of more than 35 million people worldwide, according to 2019 data from the United Nations Office on Drugs and Crime. Current evidence suggests that MBIs may mitigate the harmful psychosocial effects associated with SUDs. Although MBIs have been extensively studied for efficacy, there remains a growing need to synthesize evidence from relevant systematic reviews and meta-analyses to better understand their use in relapse prevention and craving reduction. This umbrella review aimed to assess the available evidence on the effectiveness of MBIs for SUD treatment, relapse prevention, and craving reduction. METHOD: Following an extensive search of scientific databases, including PubMed, PsycINFO, EMBASE, Cochrane Library, and Web of Science (last search: May 15, 2026), using keywords such as MBIs, SUDs, relapse, craving, addiction, systematic reviews, and meta-analyses, 45 papers were initially identified. After removing duplicates and screening, 11 systematic reviews and meta-analyses were selected for inclusion. These 11 reviews, published between 2017 and 2026, were critically evaluated to assess the efficacy of MBIs for SUDs treatment, craving, and relapse prevention, to examine underlying mechanisms, and to compare intervention types. RESULTS: The results aligned with evidence that MBIs, including Mindfulness-Based Relapse Prevention (MBRP), Mindfulness-Oriented Recovery Enhancement (MORE), and manualized treatment, provide preliminary support for reducing relapse (effect sizes:  CONCLUSION: The available evidence supports relapse prevention and craving reduction, although heterogeneity and study quality should be considered. Standardization of protocols and follow-up over prolonged periods is recommended to enable clinical application.",
-      "journal": "Substance use & misuse",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "A Self-Guided Mobile Mindfulness Intervention Embedded in Daily Routines for Adults With Mild to Moderate Psychological Distress: Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456167/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358533",
-      "doi": "10.2196/98056",
-      "authors": [
-        {
-          "name": "Xichun Wu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jackelyn De Alwis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zenan Dou",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hoyin Lo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sisi Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jingyi Wu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wei Xu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Mobile mindfulness interventions have shown promise for reducing anxiety and depressive symptoms, but sustaining engagement remains a persistent challenge. Many digital programs still rely on formal practice that requires dedicated time, which may be difficult to integrate into daily life. OBJECTIVE: This randomized controlled trial evaluated Habitual Mindfulness Practice (HMP), a self-guided mobile mindfulness intervention that embeds brief practices into recurring daily routines, among adults with mild to moderate psychological distress. Outcomes were compared with those of Traditional Mindfulness (TM), Mindfulness-Based Psychoeducation (MBP), and a waitlist control (WL). METHODS: Adults aged 18 to 65 years with mild to moderate symptoms of anxiety or depression were randomly assigned in a 1:1:1:1 ratio to HMP, TM, MBP, or WL (N=686). All procedures were conducted online, and the intervention was fully self-guided, with outcomes assessed using self-report measures. The intervention lasted 21 days, with assessments conducted at baseline, postintervention, and 3-month follow-up. Primary outcomes were depressive and anxiety symptoms. Secondary outcomes included mindfulness, cognitive emotion regulation, affective balance, and interpersonal difficulties. Postintervention group differences were examined, controlling for baseline scores, and longitudinal trajectories were evaluated across the active intervention conditions. RESULTS: At postintervention, significant group effects were observed for depressive symptoms (F3,681=28.67, P<.001, \u03b7p\u00b2=0.11) and anxiety symptoms (F3,681=30.11, P<.001, \u03b7p\u00b2=0.12). Both HMP and TM showed lower depressive and anxiety symptom scores than MBP and WL. TM showed lower postintervention anxiety than HMP (P=.04), whereas depressive symptoms did not differ significantly between HMP and TM (P=.63). The mindfulness practice conditions also showed more favorable postintervention outcomes for mindfulness, affective balance, interpersonal difficulties, and emotion regulation. Improvements in depressive and anxiety symptoms were generally maintained at follow-up among the active intervention conditions, although maintenance of secondary outcomes varied across measures. Postintervention outcome data were available for 55.2% (379/686) of randomized participants, and follow-up outcome data were available for 24.1% (124/515) of participants in the active intervention conditions. HMP and TM did not differ significantly in practice duration, engagement, or satisfaction. CONCLUSIONS: A routine-embedded, self-guided mobile mindfulness intervention may be a feasible approach for reducing mild to moderate psychological distress. HMP produced benefits broadly comparable to those of traditional app-delivered mindfulness, but it did not confer advantages in engagement or short-term efficacy.",
-      "journal": "JMIR mental health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Evaluation of virtual reality-based meditation as a tool to mitigate stress among parents and providers in the neonatal intensive care unit.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42458017/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358749",
-      "doi": "10.1038/s41372-026-02800-z",
-      "authors": [
-        {
-          "name": "Tierney M Morrison",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeffrey Jacobson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Henry A Feldman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anne Hansen",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: To evaluate the effect of virtual reality (VR) meditation on stress among parents of infants in the neonatal intensive care unit (NICU) and NICU provider stress and burnout. STUDY DESIGN: Parents and providers were randomized to VR meditation, eyeshade relaxation or control group. All participants completed the Perceived Stress Scale (PSS) at the start and end of the study and self-rated mood before and after meditation or relaxation. Providers also completed the Maslach Burnout Inventory (MBI) at start and end of study. Changes in scores were compared among groups. RESULTS: Self-rated mood increased in VR group parents and providers. Subgroup analysis showed fathers had greater improvement in self-reported mood following VR meditation. There was a significant decrease in VR group provider PSS scores. CONCLUSION: VR meditation may furnish an immediate benefit, which may be sustained in NICU providers, and is a novel, accessible stress mitigation tool in the NICU.",
-      "journal": "Journal of perinatology : official journal of the California Perinatal Association",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The experiential self state as affective salience: a dual-self states framework for consciousness and self-transcendence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459600/",
+      "title": "Bangla validation of the smartphone addiction scale and the academic underachievement scale: The associative role of classroom mindful attention in the relationship between smartphone addiction and underachievement among adolescents and young adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42461918/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358785",
-      "doi": "10.1093/nc/niag033",
+      "date_fetched": "2026-07-17T13:00:43.578462",
+      "doi": "10.1371/journal.pone.0353865",
       "authors": [
         {
-          "name": "Valerie van Mulukom",
+          "name": "Shakira Khatun",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Md Mehedi Hassan Ridoy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Abu Hanif Noman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Md Muazzem Hosen Sharon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Md Rahim Mia",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jahedul Islam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sajedul Hasan Himel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mohd Ashik Shahrier",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "This article proposes a dual-self states framework in which reflective and experiential modes of consciousness are understood as dynamic configurations along a processing continuum. The reflective/experiential self-state corresponds to narrative, denotational, and self-referential consciousness underpinned by default mode network activity. The experiential self state is characterized as an affective-salience mode of perspectival awareness, anchored in salience network hubs (particularly the anterior insula and anterior cingulate cortex), which integrate interoceptive and exteroceptive signals into a coherent, non-propositional sense of being-here-as-subject, accompanied by sustained, non-reflective meta-awareness. Within a predictive processing framework, the experiential self state corresponds to a configuration in which the precision-weighting of high-level self-referential priors is reduced and a broader range of affective and bodily signals shapes conscious experience, a shift governed by dopaminergic, noradrenergic, and serotonergic mechanisms. This characterization carries direct implications for individual differences in traits such as mindfulness and absorption, and for conditions involving dysregulated salience processing. The framework further proposes that self-transcendent experiences, including absorption, meditation, awe, and mystical or religious experience, are best understood as expressions of the experiential self state, and serve as theoretical and empirical testing grounds for the framework's core claims.",
-      "journal": "Neuroscience of consciousness",
+      "abstract": "This study aimed to validate the Smartphone Addiction Scale-Short Version (SAS-SV) and the Perceived Academic Underachievement Scale (PAUS) for Bangladeshi adolescents and young adults. In addition, the study investigated whether classroom mindful attention has an indirect association with the relationship between smartphone addiction and academic underachievement in the target population. A cross-sectional survey using convenience sampling was conducted with 712 participants recruited from different educational institutions in Bangladesh. Bangla versions of SAS-SV, Classroom Mindful Attention Regulation Scale, and PAUS were administered in collecting data. Factor structure, reliability, and validity of the measures were assessed, and statistical mediation to determine the indirect association was conducted to achieve the study aims. Both SAS-SV and PAUS showed excellent internal consistency (Cronbach's \u03b1\u2009=\u20090.95 and 0.91, respectively) and confirmed the predefined factor structures with good model fits (CFI\u2009=\u20090.99, TLI\u2009=\u20090.99, RMSEA\u2009=\u20090.05, SRMR\u2009=\u20090.03; PAUS: CFI\u2009=\u20090.99, TLI\u2009=\u20090.99, RMSEA\u2009=\u20090.04, SRMR\u2009=\u20090.03). While determining the convergent validity of the measures, both smartphone addiction and perceived academic underachievement were associated with lower GPAs and reduced classroom mindful attention. Moreover, the SAS-SV and PAUS were found to be invariably applicable across age, gender, and data collection mode. Mediation analyses indicate that the self-awareness component of classroom mindful attention had an indirect association with the relationship between smartphone addiction and perceived academic underachievement in young adults (B\u2009=\u20090.014, 95% CI [0.001, 0.028], p\u2009=\u2009.033) and the combined sample (B\u2009=\u20090.020, 95% CI [0.005, 0.036], p\u2009=\u2009.009), whereas no significant indirect association was observed among adolescents. These findings highlight the associative role of classroom self-awareness in the relationship between smartphone addiction and perceived academic underachievement and underscore the potential role of mindfulness-based interventions in educational settings.",
+      "journal": "PloS one",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -316,42 +60,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Mental health and family quality of life after yoga and compassion meditation: A randomised feasibility study among mothers of children with intellectual disabilities in Nepal.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455650/",
+      "title": "Effects of Individually Delivered Mindfulness-Based Psychotraining on Internalized Stigma and Healthy Lifestyle Behaviors of Individuals With Schizophrenia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42461156/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358922",
-      "doi": "10.3109/13668250.2026.2688672",
+      "date_published": "2026-07-17T00:00:00",
+      "date_fetched": "2026-07-17T13:00:53.985331",
+      "doi": "10.3928/02793695-20260710-02",
       "authors": [
         {
-          "name": "Namrata Pradhan",
+          "name": "Havva Ka\u00e7an",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Laxmi Bhatta",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "G\u00f8rill Haugan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Poonam Rishal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jennifer Infanti",
+          "name": "\u015eevval Yeyit Bozdemir",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Mothers of children with intellectual disabilities often experience stress, anxiety, and depression, impacting family quality of life (FQOL). Yoga and compassion meditation program (YCMP) may offer accessible strategies to support wellbeing. This feasibility study explored preliminary effects of brief YCMP on mental health and FQOL outcomes among mothers of children with intellectual disabilities in Nepal. METHOD: A randomised feasibility study enrolled 103 mothers; 90 completed assessments. The YCMP included a 75-minute in-person session, take-home practices, and a 6-week refresher. Outcomes included perceived stress, anxiety and depression symptoms, and FQOL. RESULTS: Post-intervention, YCMP participants were in the \"acceptable\" satisfaction category for disability-related support and physical/material wellbeing, and low perceived stress, compared with controls. Within the intervention group, anxiety and depression symptoms decreased, while emotional wellbeing and parenting satisfaction improved. CONCLUSION: YCMP may improve mental health and FQOL for mothers of children with intellectual disabilities in low-resource settings. Larger randomised studies are warranted.",
-      "journal": "Journal of intellectual & developmental disability",
+      "abstract": "PURPOSE: To examine the effects of individually delivered, nurse-led mindfulness-based psychotraining on internalized stigma and healthy lifestyle behaviors among individuals with schizophrenia. METHOD: The current study was conducted in a community mental health center in Turkey with 40 outpatients diagnosed with schizophrenia (experimental group,  RESULTS: The intervention did not result in a significant reduction in internalized stigma ( CONCLUSION: Although short-term, individually delivered mindfulness-based psychotraining was not sufficient to directly reduce internalized stigma, it demonstrated moderate-to-large effects on healthy lifestyle behaviors, particularly in nutrition and stress management.",
+      "journal": "Journal of psychosocial nursing and mental health services",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -359,22 +88,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Extended-release naltrexone (Vivitrol) augmentation for compulsive sexual behavior disorder: a case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42460460/",
+      "title": "Self-managed Complementary and Integrative Health Approaches for Chronic Pain and PTSD: An Umbrella Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463629/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-07-16T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.358961",
-      "doi": "10.1017/ipm.2026.10204",
+      "date_fetched": "2026-07-17T13:00:53.985385",
+      "doi": "10.1007/s11606-026-10613-1",
       "authors": [
         {
-          "name": "Connor Welz",
+          "name": "Belle Zaccari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Travis I Lovejoy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vanessa Somohano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joshua Kaplan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Robin A Paynter",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Devan Kansagara",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maya E O'Neil",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Compulsive sexual behavior disorder (CSBD) was included in the ICD-11 as an impulse control disorder, yet pharmacological treatment options remain limited. Naltrexone, an opioid receptor antagonist approved for alcohol and opioid use disorders, has shown promise for compulsive sexual behaviors, though the extended-release injectable formulation has not been evaluated for this indication. CASE PRESENTATION: A 54-year-old married man with longstanding compulsive sexual behavior presented with acute symptom escalation following job loss, including compulsive pornography use, financial concealment, occupational impairment, and secondary depressive symptoms. Despite desvenlafaxine 50 mg and weekly psychotherapy incorporating motivational interviewing, cognitive-behavioral, and mindfulness-based techniques, he achieved inadequate symptomatic benefit. Extended-release naltrexone (Vivitrol) 380 mg intramuscular injection monthly was initiated as augmentation, chosen for more consistent receptor occupancy than oral formulations. Symptom severity was assessed using the Compulsive Sexual Behavior Inventory-13 (CSBI-13) and Hypersexual Behavior Inventory-19 (HBI-19) at baseline and monthly over three months. Hepatic function was monitored throughout. OUTCOMES: The patient demonstrated substantial improvement on both measures. CSBI-13 scores decreased from 65/65 at baseline to 25/65 at one month (61.5% reduction), stabilizing at 35/65 by month three (46.2% total reduction). HBI-19 scores decreased from 91/95 to 49/95 at one month (46.2% reduction), remaining stable at 47/95 through month three (48.4% total reduction). Liver enzymes remained within normal limits and no adverse events were reported. CONCLUSIONS: This case suggests extended-release naltrexone may be an effective augmentation strategy for CSBD unresponsive to antidepressant pharmacotherapy and psychotherapy. Controlled trials are needed to establish efficacy.",
-      "journal": "Irish journal of psychological medicine",
+      "abstract": "BACKGROUND: Chronic pain and posttraumatic stress disorder (PTSD) have shared, often overlapping pathophysiology. Treatment options include complementary and integrative health (CIH) interventions, which have been summarized in numerous systematic reviews and meta-analyses (SR/MAs). OBJECTIVE: This umbrella review describes and evaluates SR/MAs of self-managed CIH modalities for chronic pain or PTSD. METHODS: We registered our protocol and conducted a literature search in October 2022 of Ovid MEDLINE ALL, Ovid APA PsycInfo, and Ovid EBM Reviews Cochrane Central Register of Controlled Trials; an updated search was conducted in January of 2026 of Ovid MEDLINE, Cochrane Database of Systematic Reviews, and APA PsycInfo. Reviews of RCTs published in or after 2017 involving adults with chronic pain or PTSD and limited to CIH interventions that do not require the presence of a provider were retrieved. Two reviewers independently conducted selection, data extraction, and assessment of SR/MA quality using the Revised Assessment of Multiple Systematic Reviews Tool. We extracted study aims, search dates, number of articles and subjects, patient population, interventions, dose, adverse events, comparators, outcomes, and summary estimates for symptom reduction. We followed PRISMA reporting guidelines. RESULTS: We included 27 (chronic pain (n\u2009=\u200916) and PTSD (n\u2009=\u200911) SR/MAs of yoga, meditation/mindfulness, and tai chi/qigong. Methodological quality scores ranged from 29 to 42 out of 44 points. Efficacy of CIH varied by condition, intervention, and comparator type. Mild adverse events and increases in existing symptoms may arise temporarily when practicing mindfulness, yoga, or tai chi. The length of each intervention session ranged from 30 to 150\u00a0min for 8-54 sessions depending on the CIH modality. CONCLUSIONS: Self-managed CIH for chronic pain and PTSD is well documented and may be effective for individuals with comorbid chronic pain and PTSD with low risk of adverse events. CIH approaches that could be used for simultaneous treatment of CP\u2009+\u2009PTSD should consider interventions that include mindfulness and movement. TRIAL REGISTRATION: PROSPERO Trial CRD42022369478.",
+      "journal": "Journal of general internal medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -382,42 +141,100 @@
       "matched_keywords": []
     },
     {
-      "title": "Effects of audio guided loving kindness meditation on psychological well being and laboratory stress responsiveness in healthy university students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42457992/",
+      "title": "Regulating intense fear: Does cognitive reappraisal attenuate physiological and subjective fear responses in an immersive VR environment?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462401/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-07-16T13:16:38.359096",
-      "doi": "10.1038/s41598-026-62472-9",
+      "date_published": "2026-07-16T00:00:00",
+      "date_fetched": "2026-07-17T13:00:53.985765",
+      "doi": "10.1016/j.yhbeh.2026.105978",
       "authors": [
         {
-          "name": "Shunta Maeda",
+          "name": "Julian Packheiser",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ren Fujisawa",
+          "name": "Dirk Scheele",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Takumi Uchiyama",
+          "name": "Victoria Hube",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tomoya Sato",
+          "name": "Katja Langer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yoshihiro Kanai",
+          "name": "Oliver T Wolf",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Maymon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sebastian Ocklenburg",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gesa Berretz",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "This study investigated the efficacy of a two-week online audio-guided loving-kindness meditation (LKM) program compared with mindfulness meditation (MF) and an active control (AC) group in a healthy university population. The study consisted of an overarching trial (N\u2009=\u2009130), with a nested laboratory stress testing (N\u2009=\u200950). The full-sample subjective outcomes involved psychological distress, social approach and avoidance motivation, self-compassion, social connectedness, and positive and negative emotion. The nested laboratory testing examined the stress responsiveness to the socially evaluated cold pressor test, in terms of subjective stress, salivary cortisol, and blood pressure. All groups showed significant improvements in psychological distress, self-compassion, social connectedness, and negative emotion; however, no significant group differences were observed. For stress responsiveness, no significant differences were found across groups in average cortisol, blood pressure, or subjective stress levels. However, subsequent exploratory analyses yielded preliminary signals that the MF group, but not the LKM group, showed more attenuated cortisol activation and a higher completion rate on the cold pressor test than the AC group, which provides hypothesis-generating insights for future research. Overall, the findings did not support the relative superiority of LKM over MF and AC on both subjective indices and biological stress responsiveness.",
-      "journal": "Scientific reports",
+      "abstract": "Emotional experience and the regulation thereof are typically studied using picture inventories or short films to induce and modify affective states. These approaches, however, lack ecological validity due to their passive and receptive nature. Recent innovations in virtual reality and mobile neurophysiological technologies have enabled researchers to study the behavioral and neural correlates of more ecologically valid emotional responses. In this preregistered study, 58 healthy participants were randomly assigned to either use cognitive reappraisal (intervention) or to immerse themselves in their senses and surroundings (control) while walking across a wooden plank suspended 80 stories above the ground in virtual reality. We measured subjective fear ratings, salivary alpha amylase and cortisol levels, as well as frontal brain asymmetries, captured using mobile electroencephalography (EEG). Across both conditions, we found decisive evidence of increased subjective fear and salivary alpha amylase, a marker of sympathetic activation. However, we found no increase in cortisol levels following the task suggesting that subjective fear alone is not sufficient to trigger a cortisol response. In contrast to our hypotheses, the reappraisal group did not show any difference compared to the control group for neither emotional, endocrine nor neural measures. On the one hand, our findings may suggest that reappraisal might not be a suitable strategy to regulate realistic and intensely frightening situations. On the other hand, further analyses also indicated that the control group may have also regulated their emotions due to increased mindfulness of their inner states and their environment. Future studies are needed to confirm these observations and ascertain the efficacy of cognitive reappraisal on fear in realistic settings.",
+      "journal": "Hormones and behavior",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "An Online Mindfulness-Based Intervention for Tic Disorders: Effect on Comorbid Symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464517/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-16T00:00:00",
+      "date_fetched": "2026-07-17T13:00:53.986108",
+      "doi": "10.1002/mdc3.70726",
+      "authors": [
+        {
+          "name": "Kiran Kaur",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "W Alan Brown",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Susanne Hoeppner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sabine Wilhelm",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hannah E Reese",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Mindfulness-based approaches show promise for reducing tic severity, yet little is known about their effect on comorbid symptoms. OBJECTIVES: The objective was to evaluate secondary outcomes from a pilot randomized controlled trial comparing mindfulness-based intervention for tics (MBIT) with psychoeducation, relaxation, and supportive therapy (PRST). METHODS: Twenty-eight adults with Tourette's syndrome or persistent tic disorder were randomized to MBIT or PRST and completed measures of obsessive-compulsive (OC) symptoms, attention-deficit/hyperactivity disorder (ADHD) symptoms, depression, anxiety, stress, and functional impairment at baseline, posttreatment, 1-month, and 6-month follow-up. RESULTS: A significant group-by-time interaction emerged for OC symptoms, indicating a significantly greater reduction in OC symptoms in MBIT compared to PRST at posttreatment. No significant group-by-time interactions emerged for the remaining outcomes at posttreatment. Outcomes at 1- and 6-month follow-ups are reported descriptively. CONCLUSIONS: MBIT, relative to PRST, led to significantly greater reductions in OC symptoms. Larger clinical trials are necessary to test these initial findings.",
+      "journal": "Movement disorders clinical practice",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
