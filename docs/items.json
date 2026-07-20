@@ -1,248 +1,43 @@
 {
-  "generated_at": "2026-07-19T12:51:23.910601",
+  "generated_at": "2026-07-20T13:45:57.355467",
   "papers": [
     {
-      "title": "Importance OF Cybersecurity Awareness Training for SCHOOL Administrators AND Teachers for Sustainable SCHOOL System",
-      "url": "https://www.semanticscholar.org/paper/9b681b931337ac1d9bebe4c7de997ad54ac00b5b",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-18T00:00:00",
-      "date_fetched": "2026-07-19T12:50:38.684550",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Oweikpodor Vera Gbaeprekumo",
-          "author_id": "2369653113",
-          "affiliation": null
-        },
-        {
-          "name": "Nnorom Jane Ndidiamaka",
-          "author_id": "2333384388",
-          "affiliation": null
-        },
-        {
-          "name": "Eguonor Temienor",
-          "author_id": "2450528151",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation",
-      "url": "https://www.semanticscholar.org/paper/043d75c7b0a581106117eebe5c53064771522ecb",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-07-16T00:00:00",
-      "date_fetched": "2026-07-19T12:50:47.925776",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Prakash Chandra Kavi",
-          "author_id": "2242383838",
-          "affiliation": null
-        },
-        {
-          "name": "D. Friedman",
-          "author_id": "2165314699",
-          "affiliation": null
-        },
-        {
-          "name": "Gustavo Patow",
-          "author_id": "2310354511",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Meditative expertise involves sustained attention, rapid recovery from distraction, and coordinated dynamics of large-scale brain networks. We present a computational phenomenology of focused-attention meditation traversing four attractor states: breath focus, mind-wandering, meta-awareness, and redirect attention. Within a dual-process active inference formulation, the model implements a three-layer nested Markov-blanket architecture: (L1) a high-dimensional physiological neuronal substrate modeled as a stochastic multivariate Ornstein--Uhlenbeck process over attentional Yeo networks; (L2) a low-dimensional generative model (System 1) that encodes latent mental content as thoughtseeds and evaluates autonomic action tendencies; and (L3) an agentic metacognitive monitor (System 2) that implements a Global Neuronal Workspace (GNW) capacity bottleneck to selectively gate these tendencies. In L3, meta-awareness functions as the GNW ignition signal, derived from policy-prior divergence and dynamically gated by direct competition between orchestrator and distractor thoughtseeds. Policy selection actively minimizes expected free energy, and L2 actions furnish descending predictions over network activity to close the enactive perception--action cycle. Training uses variational Expectation-Maximization (EM) across expert and novice phenotypes. Simulations reproduce behavior consistent with empirical observations and findings in contemplative neuroscience, providing a tractable link between first-person phenomenology and objective neurophysiological measures.",
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "L-FAME: Longitudinal Focused Attention Meditation EEG Dataset and Benchmark",
-      "url": "https://www.semanticscholar.org/paper/1315fd09b5f460d40d901e4bcb00916feeb3c08b",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-21T00:00:00",
-      "date_fetched": "2026-07-19T12:50:47.925791",
-      "doi": "10.48550/arXiv.2605.22893",
-      "authors": [
-        {
-          "name": "Angqi Li",
-          "author_id": "2274220722",
-          "affiliation": null
-        },
-        {
-          "name": "AbbasRaza Syed",
-          "author_id": "2230370809",
-          "affiliation": null
-        },
-        {
-          "name": "Hamzeh Alzweri",
-          "author_id": "2438606250",
-          "affiliation": null
-        },
-        {
-          "name": "Taosheng Liu",
-          "author_id": "2321528005",
-          "affiliation": null
-        },
-        {
-          "name": "Barry H. Cohen",
-          "author_id": "47828772",
-          "affiliation": null
-        },
-        {
-          "name": "S. Ravishankar",
-          "author_id": "145233481",
-          "affiliation": null
-        }
-      ],
-      "abstract": "We introduce a novel Longitudinal Focused Attention Meditation Electroencephalography (L-FAME) dataset and an accompanying benchmark, designed to foster research into the neural effects of various meditation practices and the evolution of these effects over a six-week training period. The dataset contains EEG recordings and psychological assessments from 74 healthy college participants, collected at two distinct time points: pre-intervention and post-intervention. Participants were randomly assigned to one of three distinct meditation groups: two mantra-based techniques (SA-TA-NA-MA and Hare Krishna) and one Breath Focus practice. Leveraging this unique longitudinal and comparative dataset, we propose a benchmark suite comprising three distinct classification tasks: (1) cognitive state decoding to distinguish between resting and meditation states, (2) fine-grained classification of the specific meditation techniques, and (3) cross-session adaptation to evaluate model generalization across the longitudinal time gap. We provide comprehensive baseline results for these tasks utilizing a range of classical machine learning algorithms and deep learning architectures. The complete dataset, preprocessing pipelines, and benchmark evaluation code will be publicly released, offering a valuable resource and a standardized framework for the development and comparison of new analytical methods in computational meditation research and EEG-based machine learning. The dataset is available at https://huggingface.co/datasets/L-FAME-Dataset-Benchmark/L-FAME",
-      "journal": "arXiv.org",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Distinct Patterns of Directed Brain Connectivity in Focused Attention, Open Monitoring, and Loving Kindness Meditation: An Electroencephalographic Granger Causality Study with Long-term Meditators.",
-      "url": "https://www.semanticscholar.org/paper/90e37828c02e3850bda2bc8636f8077bbc7f0e4f",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-05T00:00:00",
-      "date_fetched": "2026-07-19T12:50:47.925896",
-      "doi": "10.1162/jocn.a.2593",
-      "authors": [
-        {
-          "name": "Vasil Kolev",
-          "author_id": "2270410331",
-          "affiliation": null
-        },
-        {
-          "name": "Kosio Beshkov",
-          "author_id": "2103732422",
-          "affiliation": null
-        },
-        {
-          "name": "Peter Malinowski",
-          "author_id": "2352440261",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "J. Yordanova",
-          "author_id": "2031843",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The present study applied spectral Granger causality (GC) analysis to electroencephalographic (EEG) recordings obtained during focused attention meditation (FAM), open monitoring meditation (OMM), and loving kindness meditation (LKM) in highly experienced meditators. The aim of the investigation was to characterize distinct connectivity signatures associated with each meditation style by examining the strength, frequency, and direction of interregional interactions. These differences were expected to specify the neural connectivity profiles of the cognitive and affective state of each meditative practice. Multivariate GC was computed from high-resolution EEG signals recorded from long-term meditators (n = 22) in four conditions: rest, FAM, OMM, and LKM. GC was analyzed in the frequency domain for key electrode clusters (anterior and posterior) in the two hemispheres to compare frequency-specific directed connectivity between rest and each meditation type. Main results demonstrated that each meditation state produced highly specific alterations in directed influences relative to rest. In FAM, there was significant reduction in posterior-to-anterior GC in the alpha and beta bands as well as decreased multispectral interhemispheric frontal GC implying attenuated bottom-up sensory and associative inputs. In OMM, multispectral GC was significantly increased from the left hemisphere to the right posterior cluster implying expanded awareness in the right posterior regions through enhanced top-down modulation by the left hemisphere. The distinctive features of LKM profile were the interhemispheric symmetry, the posterior-anterior bidirectionality, and the specific beta-band engagement, implying a coactivation of systems that support an emotionally balanced stance, equanimity, and prosocial attitude. These novel findings demonstrate that the direction and frequency specificity of information flows provide complementary insights into neural processes underlying distinct meditative states.",
-      "journal": "Journal of Cognitive Neuroscience",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Contrasting cognitive, behavioral, and physiological responses to breathwork vs. naturalistic stimuli in reflective chamber and VR headset environments",
-      "url": "https://www.semanticscholar.org/paper/097b8d40b95f962c0518714ee30873b8ddc78a91",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-13T00:00:00",
-      "date_fetched": "2026-07-19T12:50:57.822903",
-      "doi": "10.1371/journal.pmen.0000269",
-      "authors": [
-        {
-          "name": "N. Simonian",
-          "author_id": "2322100125",
-          "affiliation": null
-        },
-        {
-          "name": "M. Johnson",
-          "author_id": "2322369638",
-          "affiliation": null
-        },
-        {
-          "name": "C. Lynch",
-          "author_id": "2290068374",
-          "affiliation": null
-        },
-        {
-          "name": "G. Wang",
-          "author_id": "2322183801",
-          "affiliation": null
-        },
-        {
-          "name": "V. Kumaravel",
-          "author_id": "2322099201",
-          "affiliation": null
-        },
-        {
-          "name": "T. Kuhn",
-          "author_id": "2322099394",
-          "affiliation": null
-        },
-        {
-          "name": "F. Schoeller",
-          "author_id": "2276137093",
-          "affiliation": null
-        },
-        {
-          "name": "N. Reggente",
-          "author_id": "3435438",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The MindGym, a novel immersive technology utilizing a reflective chamber environment, was developed to create standardized experiential content, including anxiolytic experiences. This study examined whether therapeutic experiences originally created in the MindGym could maintain their efficacy when delivered via 360-degree recordings through virtual reality (VR) headsets. A randomized controlled trial (N=126) compared anxiety reduction, cognitive performance, and physiological responses across four conditions: MindGym and VR platforms, each delivering either breathwork or rain stimuli. Results demonstrated significant improvements across all conditions in cognitive performance (Trail Making Test RTACC, p.fdr<.001; Architex Total Speed, p.fdr<.001) and anxiety reduction (STAI, p.fdr<.001). Breathwork conditions produced greater decreases in breath rate compared to rain stimuli (p.fdr=.002). Treatment responses were moderated by individual differences, with absorption (MODTAS) predicting both awe (p.fdr=.004) and ego dissolution (p.fdr=.015), while openness to experience interacted with stimuli type to influence anxiety reduction (p.fdr=.038). The anxiolytic effects originally generated in the MindGym maintained full efficacy when translated to VR delivery, with no significant differences in effectiveness or immersion between the original environment and its virtual reproduction. These findings establish the MindGym as a viable content creation platform for immersive, anxiety-reducing experiences that can be successfully adapted to more accessible delivery systems, while highlighting the potential for personalization based on individual differences. Future research should investigate the translation of more complex MindGym-generated experiences to expand accessible anxiety management tools.",
-      "journal": "bioRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Cultural congruence in mindfulness-based interventions for diabetes-related distress.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42471286/",
+      "title": "Comparative effectiveness of face-to-face and digital mindfulness-based interventions on maternal mental health resilience to psychological distress: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472479/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-18T00:00:00",
-      "date_fetched": "2026-07-19T12:51:23.175033",
-      "doi": "10.1016/j.ejim.2026.107084",
+      "date_published": "2026-07-19T00:00:00",
+      "date_fetched": "2026-07-20T13:45:56.283466",
+      "doi": "10.1080/13548506.2026.2691409",
       "authors": [
         {
-          "name": "Aamer Aldbyani",
+          "name": "Sheetal Rohit Sharma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Seeta Devi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Srikanth Pallerla",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sagar Rane",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nanda Raghunath Wagh",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "European journal of internal medicine",
+      "abstract": "Maternal mental health is a major global concern affecting both pregnant women and fetal development. Mindfulness-based interventions (MBIs) have shown benefits in improving maternal mental health. This study assessed the effects of digital and conventional face-to-face MBIs on psychological distress among pregnant women. Two independent reviewers conducted the literature search and study selection. PubMed, SCOPUS, Web of Science, Cochrane Library and ScienceDirect were searched for studies published between 2014 and 2025; 27 studies were included, involving 1,793 participants in the digital MBI group and 2,406 in the face-to-face MBI group. Standardized Mean Difference (SMD) with 95% CI was calculated for psychological distress (depression, stress, and anxiety) outcomes. Heterogeneity was assessed using Chi-square and I",
+      "journal": "Psychology, health & medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -250,47 +45,50 @@
       "matched_keywords": []
     },
     {
-      "title": "The role of reduced sense of isolation in group-format PTSD treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42471454/",
+      "title": "The Effect of Mindfulness-Based Yoga on Psychological Well-Being and Happiness in Individuals with Schizophrenia: A Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473344/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-18T00:00:00",
-      "date_fetched": "2026-07-19T12:51:23.175149",
-      "doi": "10.1038/s41598-026-62570-8",
+      "date_published": "2026-07-20T00:00:00",
+      "date_fetched": "2026-07-20T13:45:56.283876",
+      "doi": "10.1177/27683605261469654",
       "authors": [
         {
-          "name": "Diane Joss",
+          "name": "Aysel Akbeniz",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alexandra Comeau",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hanna Soumerai Rea",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adhithi Rajan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Martha Sweezy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zev Schuman-Olivier",
+          "name": "Funda Kavak Budak",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "With increasing application of group-based interventions for PTSD, more research is needed on what might contribute to the therapeutic effects of group-based interventions. This study conducted secondary analyses with data from a previous randomized controlled trial, which compared two manualized 16-week videoconferencing PTSD treatments in a hybrid format with 16 group sessions and 8 individual sessions. One treatment arm focused on cultivating inner compassion and understanding internal conflicts through a contemplative Internal Family Systems (IFS) approach, while the other treatment arm focused on watching nature videos and discussing nature's potential for stress reduction. The original RCT showed comparable effects on PTSD symptom reduction. Therefore, we conducted secondary analysis to elucidate whether both two group-based interventions, despite very different curriculum content, might have induced \"reduced sense of isolation\", which might be a shared therapeutic element in both treatment arms. Findings from Linear Mixed Effects model analysis and Variance Decomposition Analyses (VDA) showed significant reduction of sense of isolation at the end of both interventions, which was one of the major contributors to reduction of PTSD symptoms. Path analyses showed similarities between the two group-based treatment arms in which reduced sense of isolation was associated with improvements in self-judgment and emotion regulation, all of which contributed to PTSD symptom reduction. These findings may inspire and inform future PTSD treatment development to place more emphasis on reducing patients' sense of isolation.",
-      "journal": "Scientific reports",
+      "abstract": "OBJECTIVE: To evaluate the effect of a mindfulness-based yoga program on psychological well-being and happiness in individuals diagnosed with schizophrenia. METHODS: This randomized controlled trial was conducted between February and August 2024 in two Community Mental Health Centers (CMHCs) located in Malatya, T\u00fcrkiye. Ninety-six individuals diagnosed with schizophrenia were randomly assigned in a 1:1 ratio to either a mindfulness-based yoga group ( RESULTS: No statistically significant differences were observed between the groups at baseline ( CONCLUSIONS: Mindfulness-based yoga appears to be a promising complementary intervention for improving psychological well-being and happiness among individuals with schizophrenia. Further multicenter randomized controlled trials with larger samples and longer follow-up periods are needed to confirm these findings.",
+      "journal": "Journal of integrative and complementary medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exploring the relationship between post-earthquake trauma, post-traumatic growth, and self-compassion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42473128/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-19T00:00:00",
+      "date_fetched": "2026-07-20T13:45:56.284199",
+      "doi": "10.1177/13591053261464387",
+      "authors": [
+        {
+          "name": "Mustafa Batuhan Kurto\u011flu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study investigated whether self-compassion and its subdimensions predict post-earthquake trauma and post-traumatic growth. Using a cross-sectional correlational design, data were collected from 454 adults (273 women, 181 men; ",
+      "journal": "Journal of health psychology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -298,56 +96,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Movies and the Attention Span",
-      "url": "https://www.theatlantic.com/newsletters/2026/07/movies-run-time-attention/687994/?utm_source=feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-07-18T14:30:00",
-      "date_fetched": "2026-07-19T12:51:23.720520",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Isabel Fattal",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "As young people struggle to sit through even an hour of a film, modern blockbusters are getting longer.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    },
-    {
-      "title": "What Lionel Messi Sees",
-      "url": "https://www.theatlantic.com/culture/2026/07/lionel-messi-world-cup/687991/?utm_source=feed",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-07-18T12:00:00",
-      "date_fetched": "2026-07-19T12:51:23.720546",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Sally Jenkins",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "The World Cup\u2019s all-time leading goal scorer is always paying attention.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
