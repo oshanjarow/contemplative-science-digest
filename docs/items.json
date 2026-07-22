@@ -1,43 +1,173 @@
 {
-  "generated_at": "2026-07-21T13:14:02.388796",
+  "generated_at": "2026-07-22T13:19:37.359419",
   "papers": [
     {
-      "title": "Optimizing Expectations Leads to Enhanced Efficacy of a Mindfulness-Based Intervention in Individuals With Low-Baseline Expectations: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42478332/",
+      "title": "The Third Wave of Meditation and Mindfulness Research and Implications for Challenging Experiences: Negative Effects, Transformative Psychological Growth, and Forms of Happiness",
+      "url": "https://www.semanticscholar.org/paper/a64999e1828b071b883601ae5fa995f20cc7b6d6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-11T00:00:00",
+      "date_fetched": "2026-07-22T13:18:59.835606",
+      "doi": "10.1007/s12671-025-02607-7",
+      "authors": [
+        {
+          "name": "T. Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Research on meditation and mindfulness in relation to challenging effects can be understood as consisting of at least two waves: The first wave focused on the efficacy of mindfulness and more broadly the clinically positive effects of meditation. The second wave mainly focused on increasing methodological rigor and uncovering underlying mechanisms. Research on the different kinds and prevalence of potential negative effects was also initiated in this second wave. We propose that future research needs to include the investigation of processes of transformative psychological growth that lead up to and result from advanced meditation and involve complex relationships between positive and challenging effects. Such research is part of a third wave of meditation research, which mainly focuses on advanced meditation. The central point of our argument is that \u201cnegative\u201d experiences may be essential to meditative growth. However, it is difficult to define what a negative effect is when considering traditional contemplative perspectives. To conceptualize negative effects, we distinguish between objective and subjective happiness and define \u201cnegative effect\u201d as that which overall contributes to both objective and subjective unhappiness. The resulting view represents a common-ground framework that incorporates both psychological and contemplative perspectives.",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metta meditation"
+      ]
+    },
+    {
+      "title": "Electroencephalogram recordings in Jhana states: An open dataset",
+      "url": "https://www.semanticscholar.org/paper/4df6aadb219e5bcd2b03acbbd17be7bf229bc035",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-07-02T00:00:00",
+      "date_fetched": "2026-07-22T13:19:04.195756",
+      "doi": "10.64898/2026.06.27.734949",
+      "authors": [
+        {
+          "name": "M. Fabus",
+          "author_id": "1393227651",
+          "affiliation": null
+        },
+        {
+          "name": "Stephen Zerfas",
+          "author_id": "2447416038",
+          "affiliation": null
+        },
+        {
+          "name": "Alex Gruver",
+          "author_id": "2447416024",
+          "affiliation": null
+        },
+        {
+          "name": "M. Fini",
+          "author_id": "51016696",
+          "affiliation": null
+        },
+        {
+          "name": "Tamaz Gadaev",
+          "author_id": "2349654180",
+          "affiliation": null
+        },
+        {
+          "name": "Kathryn J. Devaney",
+          "author_id": "34200366",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The use of meditation as a tool to improve human wellbeing is receiving considerable scientific interest. However, most existing research has focused on concentration-based practices. One powerful alternative is jhana meditation, which leads to states characterised by self-reinforcing bliss, potentially useful for a variety of clinical and scientific domains. However, our understanding of these states is limited by small amounts of data and poor access to experts. To enable new insights, here we release the largest to date and first open-access dataset of electroencephalographic and physiological recordings in expert Jhana meditators. This includes 100+ hours of data in N=26 subjects across three retreats, alongside a detailed description and example code illustrating analysis of the data. This open dataset release can enable wider collaboration and has the potential to move us closer to an understanding of endogenously generated altered states of consciousness.",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Samatha Bh\u0101van\u0101: Studi Komprehensif Teknik Pengembangan Ketenangan, Hambatan, dan Pencapaian Batin",
+      "url": "https://www.semanticscholar.org/paper/41b6f1222ce825ddee3355fb713fc77626d5a5c1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-16T00:00:00",
+      "date_fetched": "2026-07-22T13:19:04.195834",
+      "doi": "10.70292/jpcp.v4i1.330",
+      "authors": [
+        {
+          "name": "Aleks Effendi",
+          "author_id": "2410240445",
+          "affiliation": null
+        },
+        {
+          "name": "Julia surya",
+          "author_id": "2317403018",
+          "affiliation": null
+        },
+        {
+          "name": "Rahayu Arna Vidiya",
+          "author_id": "2449383854",
+          "affiliation": null
+        },
+        {
+          "name": "Enten Widya Putri",
+          "author_id": "2449383735",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengkaji secara komprehensif praktik Samatha Bh\u0101van\u0101 sebagai metode pengembangan ketenangan batin dalam tradisi Buddhis Therav\u0101da, dengan fokus pada teknik pelaksanaan, hambatan, serta pencapaian batin yang dihasilkan. Penelitian ini menggunakan pendekatan kualitatif dengan metode studi kepustakaan terhadap teks-teks klasik seperti Visuddhimagga dan Tipi\u1e6daka (edisi PTS), serta didukung oleh kajian ilmiah kontemporer dalam bidang psikologi dan neuroscience. Hasil penelitian menunjukkan bahwa Samatha Bh\u0101van\u0101 merupakan praktik meditasi yang sistematis dan bertahap, dimulai dari pemilihan objek meditasi berdasarkan carita (karakter mental), pengembangan konsentrasi melalui kemunculan nimitta, hingga pencapaian jh\u0101na sebagai puncak konsentrasi. Selain itu, penelitian ini mengidentifikasi adanya hambatan utama dalam praktik meditasi yang terbagi menjadi n\u012bvara\u1e47a (hambatan internal) dan palibodha (hambatan eksternal), yang secara signifikan mempengaruhi kualitas konsentrasi. Keberhasilan praktik sangat ditentukan oleh kemampuan praktisi dalam mengelola hambatan tersebut secara simultan. Lebih lanjut, pencapaian lanjutan dalam Samatha Bh\u0101van\u0101 mencakup penguasaan meditasi (vas\u012b) dan perkembangan kesadaran tingkat tinggi (abhi\u00f1\u00f1\u0101), yang menunjukkan optimalisasi fungsi mental dan stabilitas batin. Penelitian ini menegaskan bahwa Samatha Bh\u0101van\u0101 tidak hanya memiliki landasan filosofis yang kuat, tetapi juga relevan dengan temuan ilmiah modern terkait peningkatan perhatian, regulasi emosi, dan kesejahteraan psikologis. Dengan demikian, praktik ini memiliki potensi besar untuk diintegrasikan dalam konteks pendidikan dan kesehatan mental.",
+      "journal": "Jurnal Pustaka Cendekia Pendidikan",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Characterizing Digital Mindfulness Intervention Utilization and Weekly Assessments in Caregivers of Persons Living With Dementia: Secondary Analysis of a Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42478935/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-07-21T00:00:00",
-      "date_fetched": "2026-07-21T13:14:01.635995",
-      "doi": "10.1002/jclp.70194",
+      "date_fetched": "2026-07-22T13:19:26.014564",
+      "doi": "10.2196/83618",
       "authors": [
         {
-          "name": "Stefan Salzmann",
+          "name": "Michael P Williams",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Frank Euteneuer",
+          "name": "Darby M Simon",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Christiane A Melzig",
+          "name": "Morgan Seward",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Winfried Rief",
+          "name": "Raquel G Tatar",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Christoph Benke",
+          "name": "Jennifer Huberty",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana-Maria Vranceanu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Evan Plys",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Treatment expectations for medical and psychological treatments and positive patient-provider interactions are critical mechanisms driving the placebo effect and may augment an intervention's effects. However, it remains unclear whether optimizing treatment expectations is beneficial for all individuals. This pilot randomized controlled trial (three-arm parallel design) examined whether i) optimizing treatment expectations would augment the efficacy of a mindfulness intervention and ii) whether participants' treatment expectations at baseline would moderate these effects. METHODS: Sixty-six healthy participants were randomized (1:1:1) to one of 3 experimental groups: i) body scan and an instruction aiming to optimize treatment expectations (EXPECT), ii) body scan and a neutral instruction (NEUTRAL), or iii) listening to an audiobook and neutral instruction (CONTROL). Primary outcomes were changes in positive and negative affect; secondary outcomes included treatment expectations, perceived stress, and mindfulness. Baseline expectations were assessed as a moderator using ANCOVA. RESULTS: ANCOVA indicated a group effect on positive affect (p\u2009=\u20090.018, d\u2009=\u20090.65), with individuals in the EXPECT group showing a stronger reduction than both other groups. Post-hoc comparisons showed significant differences between EXPECT and NEUTRAL (p\u2009=\u20090.015, d\u2009=\u2009-0.77) and between EXPECT and CONTROL (p\u2009=\u20090.012, d\u2009=\u2009-0.80). Analyzes did not indicate main effects on other outcomes. Participants with low baseline expectations showed a stronger increase in reported treatment expectations and mindfulness, as well as a more pronounced decrease in perceived stress from baseline- to post-assessment in the EXPECT group compared to both other groups. In contrast, individuals with high baseline expectations indicated less stress reduction when undergoing the body scan and receiving the instruction with positive expectation induction (EXPECT) compared to the group with a body scan and neutral instruction (NEUTRAL). CONCLUSION: Inducing positive treatment expectations may be beneficial for individuals with low baseline expectations, likely due to an enhanced placebo response. However, it may be counterproductive for individuals with high baseline outcome expectations and could reflect expectation violation effects.",
-      "journal": "Journal of clinical psychology",
+      "abstract": "BACKGROUND: Caregivers of persons living with dementia are at increased risk of reporting high stress. Mindfulness-based interventions (MBIs) teach caregivers mindfulness skills and are effective at reducing stress. Digital MBIs are a feasible way to improve access to MBIs for caregivers of persons living with dementia. Yet, caregiver improvement with digital MBI utilization is less defined in the literature. OBJECTIVE: The goal of this secondary data analysis was to characterize weekly mindfulness and stress ratings among caregivers of persons living with dementia and to examine how digital MBI utilization impacted these ratings throughout 12 weeks of a feasibility trial. METHODS: Participants were eligible for this secondary analysis if they were randomized to the digital MBI condition (Healthy Minds Program for Caregivers [HMP-C], n=46) and completed weekly ratings over the 12-week trial. At baseline and at the end of each week of the trial, participants rated their mindfulness and stress in the past week from 0 to 10. Weekly HMP-C utilization was defined as the time spent using HMP-C in the week prior to the weekly ratings. Descriptive statistics and visualizations were used to characterize mindfulness and stress ratings. Generalized linear mixed models were used to estimate the effect of mindfulness on stress and the effect of HMP-C utilization on stress and mindfulness throughout the trial (\u03b1=.05). RESULTS: Baseline mindfulness and stress ratings were 4 (IQR 3-6, range 0-8) and 7 (IQR 6.5-8, range 4-10), respectively. Stress had the greatest decrease between baseline and week 3 (-2 points on average), whereas mindfulness had the greatest increase between baseline and week 4 (+2.5 points on average). There was a significant fixed effect of baseline mindfulness on baseline stress (\u03b2=.5, P<.001), with a significant interaction between mindfulness and study week (\u03b2=.05, P=.001), suggesting that this relationship was attenuated over time. There was variability in baseline stress (\u03c400=2.04) and the relationship between mindfulness and stress (\u03c4\u2081\u2081=0.08), with a high correlation (\u03c101=0.86), suggesting that those with high baseline stress benefited most from increases in mindfulness. For every 10 minutes of HMP-C utilization between baseline and week 1, mindfulness and stress ratings were 0.14 points higher (P<.001) and 0.14 points lower (P<.001), respectively. Despite a significant interaction between HMP-C utilization and study week in both models, the effect size was small (mindfulness: \u03b2=.02, P<.001; stress: \u03b2=.01, P=.013), suggesting that this relationship was sustained over time. CONCLUSIONS: Mindfulness and stress changed mostly during the first 3 to 4 weeks of the trial. During this time of mindfulness skill acquisition, mindfulness and stress were most significantly negatively associated, especially among those with high baseline stress. The consistent relationship between HMP-C utilization and mindfulness and stress suggests that continued use of HMP-C may be helpful for skill maintenance.",
+      "journal": "JMIR aging",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -45,169 +175,47 @@
       "matched_keywords": []
     },
     {
-      "title": "The Orientation on Being Program: A Prospective Pilot Study Comparing Its Results With the Standard Mindfulness-Based Stress Reduction Program.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42477996/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-20T00:00:00",
-      "date_fetched": "2026-07-21T13:14:01.636305",
-      "doi": "10.1177/00332941261463476",
-      "authors": [
-        {
-          "name": "Cees Hoefnagels",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ivan Nykl\u00ed\u010dek",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Various programs focus on psychological well-being associated with spiritual and personal growth, but empirical studies assessing the evidence are scarce. The objective of this pilot is to examine the results of the first year of the extensive Orientation on Being (OB) program in the Netherlands. A prospective and quasi-experimental design was used in which changes in various indices of psychological functioning of OB participants (N = 27) were compared with those of matched participants of the standard 8-week Mindfulness-Based Stress Reduction program (MBSR; N = 54) across a 12-month period. Analyses showed that the OB program was associated with significant changes across the 12\u00a0months in all but one of the studied outcomes: increased psychological well-being, self-esteem, self-compassion, introspective insight, and mindfulness skills, and decreased depressive symptoms, anxiety, perceived stress and rumination (all with large effect sizes). Differences between the two programs were absent at 2\u00a0months, but a significant Time \u00d7 Group interaction reflected that the OB group further strengthened its beneficial changes between 2 and 12\u00a0months, which were not evident in the MBSR group. These results indicate that the OB program was associated with persistent large benefits for psychological functioning. Future studies should employ larger samples in a randomized controlled trial.",
-      "journal": "Psychological reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness-Based Interventions as Holistic Strategy for Psychiatric Nurse Burnout: A Narrative Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42478030/",
+      "title": "Understanding the experiences of older Canadian immigrant women participating in mindfulness training: qualitative analysis at post-intervention and follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480047/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-07-21T00:00:00",
-      "date_fetched": "2026-07-21T13:14:01.636333",
-      "doi": "10.1097/HNP.0000000000000799",
+      "date_fetched": "2026-07-22T13:19:36.322462",
+      "doi": "10.1080/13607863.2026.2703106",
       "authors": [
         {
-          "name": "Julnar Nizar Hasan",
+          "name": "Lauren Hytman",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lara Sassine",
+          "name": "Shreeyaa Ramana",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yumna Sultan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sanjana Raja Rao Nagaraj",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rhiannon Y Ueberholz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alexandra J Fiocco",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Psychiatric nurses experience elevated burnout rates due to emotionally demanding environments. Mindfulness-based interventions (MBIs) have emerged as promising strategies for burnout reduction. This study aimed to examine evidence on MBIs for reducing burnout in psychiatric nurses through narrative synthesis. Systematic CINAHL search (January 2025) using Boolean operators yielded 276 articles. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, 12 studies (2020-2024) were selected examining mindfulness interventions and burnout outcomes in nursing populations. Eight-week MBSR programs demonstrated large effect sizes (standardized mean difference: -4.27 for emotional exhaustion, -2.89 for depersonalization). In psychiatric nurses, 75% achieved meaningful burnout reduction versus 40% controls. Benefits persisted at 3-month follow-up. MBIs represent evidence-based strategies for nursing burnout, particularly in psychiatric settings. Implementation requires organizational support. Future research should examine long-term sustainability and psychiatric nursing-specific adaptations.",
-      "journal": "Holistic nursing practice",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Redefining working identity in career transitions: The role of mindfulness and self-regulation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42475898/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-20T00:00:00",
-      "date_fetched": "2026-07-21T13:14:01.636360",
-      "doi": "10.1016/j.actpsy.2026.107501",
-      "authors": [
-        {
-          "name": "Kshamta Sharma",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Career transitions require individuals to fundamentally redefine their working identity-the amalgam of professional roles, relationships, and narratives that constitutes one's sense of self at work. Although Ibarra's seminal \"test-and-learn\" model has advanced the current understanding of how identity transitions unfold, the psychological mechanisms that enable or constrain this process remain underspecified. The purpose of this research paper is to develop a propositional theoretical framework that integrates mindfulness and self-regulation into the working identity transition process. Drawing on the possible selves model, the strength model of self-regulation, and contemporary mindfulness theory, this research paper develops a framework and seven propositions that articulate how mindfulness and self-regulation shape identity exploration, evaluation, and integration during career transitions. A key theoretical contribution is the identification of mindfulness as a continuous moderator of self-regulation's impact on identity work: as mindfulness decreases, self-regulation increasingly defaults to rigid conformity that inhibits identity change; as mindfulness increases, self-regulation enables flexible navigation between established and emerging professional identities. The current research paper specifies the cognitive mechanisms-executive attention, reappraisal, and metacognitive decentring-through which this moderation operates. The research paper concludes with boundary conditions, a future research agenda specifying testable hypotheses and appropriate methodologies, and concrete implications for organisational leaders designing career transition support programmes.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Leadership support and the informal practice of mindfulness in the military.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42474992/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-20T00:00:00",
-      "date_fetched": "2026-07-21T13:14:01.636758",
-      "doi": "10.1037/ser0001056",
-      "authors": [
-        {
-          "name": "Amy B Adler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Paul D Bliese",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ian A Gutierrez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Thomas H Nassif",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amishi P Jha",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "While research has documented the beneficial effects of greater formal as well as informal mindfulness practice in mindfulness training programs, it is less clear what drives informal practice engagement. In a high-stakes occupational context like the military, where performance is paramount, leader behaviors that support mindfulness training may influence individuals' engagement in informal practice. In a study assessing a combined mindfulness training and yoga intervention, 813 soldiers attending 10 weeks of basic combat training were surveyed at two time points about their informal practice of mindfulness and their perceptions of leader support for mindfulness training. More than one third of participants reported engaging in informal practice at least 3 days per week (343 [48.0%] at 4 weeks and 249 [36.9%] at 9 weeks); participants most frequently reported informally practicing when they felt stressed in training or in the barracks. Individuals reporting higher levels of leadership support for mindfulness training were more likely to report engaging in informal practice compared to those with lower levels of leadership support. This analysis controlled for sex, rank, previous mindfulness experience, and overall leadership ratings. The relationship between leader support for mindfulness and informal mindfulness practice was also found when examined in terms of specific practice contexts (e.g., engaging in a task, getting stressed). Exploratory models assessing group-level ratings of leadership resulted in similar findings. Future implementation efforts should further examine the influence of leader support for mindfulness training in the military and other high-stakes occupational contexts. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "journal": "Psychological services",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Concussion knowledge, awareness, and experiences of indigenous youth ice hockey players: A call for culturally grounded concussion education and recovery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42477281/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-20T00:00:00",
-      "date_fetched": "2026-07-21T13:14:01.636819",
-      "doi": "10.17269/s41997-026-01231-9",
-      "authors": [
-        {
-          "name": "Makenzie McCallum",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sierra LaPlante",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Janice Forsyth",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Liisa Holsti",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shelina Babul",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Naznin Virji-Babul",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: This study explored the knowledge, awareness, and lived experiences of Indigenous youth ice hockey players across Canada with respect to concussion. Using a community-engaged approach grounded in Two-Eyed Seeing, we examined how intersections of culture, sport, and healthcare shape concussion education, disclosure, and recovery. Sport-related concussions (SRCs) are a significant health concern in Canada, with Indigenous youth disproportionately affected by injuries due to systemic inequities in healthcare access, culturally relevant education, and historical mistrust of medical institutions. Despite the high prevalence of concussions in ice hockey, limited research has examined Indigenous athletes' perspectives on concussion knowledge, reporting, and recovery. METHODS: We explored these issues among 48 Indigenous hockey players aged 15-24 from across Canada. Participants completed an online questionnaire that included both open-ended and closed-ended items, addressing concussion awareness, education, and recovery experiences. RESULTS: Thematic analysis revealed that while athletes generally recognized concussion symptoms, many delayed or avoided reporting injuries due to stigma and fear of being sidelined. Access to concussion education varied, with urban athletes more likely to have encountered formal resources, such as the Concussion Awareness Training Tool (CATT), while others relied on informal knowledge from peers, coaches, or family. Recovery experiences for many participants highlighted the importance of traditional healing methods, including smudging, sweat lodges, and Elder guidance, which were valued, but often absent in formal care pathways. CONCLUSION: In centring Indigenous voices, this work contributes to growing efforts to support Indigenous self-determination in concussion recovery through holistic and community-based approaches within sport and healthcare systems.",
-      "journal": "Canadian journal of public health = Revue canadienne de sante publique",
+      "abstract": "BACKGROUND: While mindfulness-based interventions (MBIs) are found to support the well-being of older adults, there is a lack of empirical literature focused on programs targeting stress-reduction for older adult immigrants. Additionally, less is known about factors contributing to sustained engagement in mindfulness practices following intervention completion. OBJECTIVES: This study examined the experiences of older adult Canadian immigrants participating in a 9-week virtual MBI, and to explore continued benefits and barriers to sustaining mindfulness practices 12-months following program completion. METHODS: 23 participants aged 60+\u2009years completed a semi-structured interview following the MBI . Participants were then recontacted 12\u2009months later for a follow-up interview, which was completed by 13 participants. RESULTS: At post-intervention, participants shared experiences of  CONCLUSION: Older Canadian immigrants experienced psychosocial benefits through the virtual MBI. Future work must address cultural barriers and motivators that can leverage core components of MBIs to amplify shared benefits among aging Canadian immigrants.",
+      "journal": "Aging & mental health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
