@@ -1,213 +1,586 @@
 {
-  "generated_at": "2026-07-27T14:08:35.856319",
+  "generated_at": "2026-07-28T13:28:03.063685",
   "papers": [
     {
-      "title": "Impact of smoking cessation on survival and treatment tolerability in advanced non-small cell lung cancer: a single-center experience from Morocco",
-      "url": "https://www.semanticscholar.org/paper/25d794845c48927e38458735c9cf0c711c329c81",
+      "title": "Beyond mindfulness: how Buddhist meditation transforms consciousness through distinct psychological pathways",
+      "url": "https://www.semanticscholar.org/paper/b8b926fc007e55b12efd50a85c87de02dda711f5",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-04-09T00:00:00",
-      "date_fetched": "2026-07-27T14:08:06.724194",
-      "doi": "10.3332/ecancer.2026.2110",
+      "date_published": "2025-08-04T00:00:00",
+      "date_fetched": "2026-07-28T13:27:25.402552",
+      "doi": "10.3389/fpsyg.2025.1649564",
       "authors": [
         {
-          "name": "I. Belrhali",
-          "author_id": "2318218280",
-          "affiliation": null
-        },
-        {
-          "name": "I. Ghissassi",
-          "author_id": "4664324",
-          "affiliation": null
-        },
-        {
-          "name": "B. Cherkaoui",
-          "author_id": "2318531901",
-          "affiliation": null
-        },
-        {
-          "name": "Oumaima Lamsyah",
-          "author_id": "2299414573",
-          "affiliation": null
-        },
-        {
-          "name": "Khaoula Ouchen",
-          "author_id": "2214625654",
-          "affiliation": null
-        },
-        {
-          "name": "Soufiane Bel Rhali",
-          "author_id": "2448393703",
-          "affiliation": null
-        },
-        {
-          "name": "S. Kharmoum",
-          "author_id": "47405978",
-          "affiliation": null
-        },
-        {
-          "name": "S. Naciri",
-          "author_id": "4287489",
-          "affiliation": null
-        },
-        {
-          "name": "H. Inrhaoun",
-          "author_id": "4280210",
-          "affiliation": null
-        },
-        {
-          "name": "S. Lkhoyaali",
-          "author_id": "3695147",
-          "affiliation": null
-        },
-        {
-          "name": "Salma Najm",
-          "author_id": "2429040172",
-          "affiliation": null
-        },
-        {
-          "name": "H. Mrabti",
-          "author_id": "2250219856",
-          "affiliation": null
-        },
-        {
-          "name": "Hassan Errihani",
-          "author_id": "2407326814",
+          "name": "Cheng Wang",
+          "author_id": "2340580329",
           "affiliation": null
         }
       ],
-      "abstract": "Background Smoking cessation following a lung cancer diagnosis presents a dual challenge, as patients must cope with both the emotional burden of cancer and nicotine dependence. This study aimed to evaluate the impact of smoking cessation on overall survival (OS) and treatment tolerability in patients with locally advanced or metastatic non-small cell lung cancer (NSCLC). Methods This retrospective cohort study included patients with stage III\u2013IV NSCLC treated at the National Institute of Oncology, Rabat, Morocco, between January 2022 and December 2023. Patients were classified as ex-smokers (n = 60), who quit smoking at diagnosis or active smokers (n = 40), who continued smoking thereafter. Smoking cessation support was individualised and included medical counselling, psychological support, nicotine replacement therapy and referral to specialised cessation consultations. Outcomes assessed included treatment response, adverse events and OS.M Results Among 100 patients (mean age 69 \u00b1 9 years), there were no significant differences between groups in disease stage (p = 0.70) or histology (p = 0.63). Treatment intolerance occurred in 55% of patients, with adverse events more frequent in active smokers (39%) than in ex-smokers (16%). Haematologic toxicity, particularly neutropenia, was significantly higher in active smokers (p < 0.001). Notably, patients who quit smoking during treatment experienced improved treatment tolerability. Median OS was 10 months overall, with longer survival in ex-smokers (11 months) compared with active smokers (7 months) (log-rank p < 0.001). Conclusion Smoking cessation at diagnosis is associated with reduced treatment-related toxicity and improved survival in advanced NSCLC, supporting its role as an independent prognostic factor and a priority in clinical management.",
-      "journal": "ecancermedicalscience",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "cessation experience"
-      ]
-    },
-    {
-      "title": "Do people who smoke and vape experience different cravings for each product? Insights from a dual cessation intervention.",
-      "url": "https://www.semanticscholar.org/paper/a330cea5f9cd8de4787e43cc8c12a5f7d95095e2",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-07-23T00:00:00",
-      "date_fetched": "2026-07-27T14:08:06.724207",
-      "doi": "10.1093/ntr/ntag166",
-      "authors": [
-        {
-          "name": "Ashley N. Dowd",
-          "author_id": "2240848213",
-          "affiliation": null
-        },
-        {
-          "name": "Kathryn Moody",
-          "author_id": "147235238",
-          "affiliation": null
-        },
-        {
-          "name": "Evan M. Bagley",
-          "author_id": "1390039576",
-          "affiliation": null
-        },
-        {
-          "name": "Reid DeMass",
-          "author_id": "2362950475",
-          "affiliation": null
-        },
-        {
-          "name": "Benjamin A Toll",
-          "author_id": "2296971770",
-          "affiliation": null
-        },
-        {
-          "name": "Tracy T Smith",
-          "author_id": "2238920230",
-          "affiliation": null
-        },
-        {
-          "name": "Amanda M. Palmer",
-          "author_id": "2308663589",
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION\nMany people who smoke and start using e-cigarettes continue both (dual use). Nicotine dependence symptoms, such as cravings, may sustain this behavior. Prior research shows cue-specific factors influence cravings, suggesting product-specific cravings may emerge. This secondary analysis examined whether cravings differ between cigarettes and e-cigarettes for those who dual use, and whether product-specific cravings predict abstinence.\n\n\nMETHODS\nData were derived from a pilot dual use cessation trial (N=46) capturing daily reports of cigarette, e-cigarette, and Nicotine Replacement Therapy (NRT) use, cigarette craving (Questionnaire of Smoking Urges [QSU]), and e-cigarette craving (Questionnaire of Vaping Craving [QVC]). Correlations between QSU and QVC were calculated daily. Generalized estimating equations modeled log-odds of abstinence as a function of product-specific cravings, with subsequent models accounting for dependence and NRT use. Additional models tested the association of craving for one product with abstinence from the opposing product.\n\n\nRESULTS\nQSU and QVC scores were weakly correlated (mean correlation coefficient=0.18, SD=0.19). Higher QSU scores were associated with lower odds of combustible tobacco cigarette abstinence (OR=0.85 [95% CI=0.79-0.92], p<.001), and higher QVC scores were associated with lower odds of e-cigarette abstinence (OR=0.86 [95% CI=0.80-0.92], p<.001). Adjusting for product-specific dependence and NRT use did not meaningfully change these associations. In contrast, craving for one product was not associated with abstinence from the other product, providing no evidence of cross-product craving effects.\n\n\nCONCLUSIONS\nDuring cessation attempts, product-specific cravings were associated with abstinence from that product only. Individuals engaging in dual use may experience differentiated cravings rather than generalized nicotine cravings. Future work should address craving differentiation in dual use.",
-      "journal": "Nicotine & Tobacco Research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "cessation experience"
-      ]
-    },
-    {
-      "title": "Chatting your way to quitting: A longitudinal exploration of smokers' interaction with a cessation chatbot",
-      "url": "https://www.semanticscholar.org/paper/c2670d5ae1153403609836e5f149eabd9945ad68",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-04T00:00:00",
-      "date_fetched": "2026-07-27T14:08:06.724385",
-      "doi": "10.1016/j.invent.2025.100806",
-      "authors": [
-        {
-          "name": "Linwei He",
-          "author_id": "2279725069",
-          "affiliation": null
-        },
-        {
-          "name": "Erkan Basar",
-          "author_id": "150980784",
-          "affiliation": null
-        },
-        {
-          "name": "R. Wiers",
-          "author_id": "2100994",
-          "affiliation": null
-        },
-        {
-          "name": "M. Antheunis",
-          "author_id": "1821183",
-          "affiliation": null
-        },
-        {
-          "name": "E. Krahmer",
-          "author_id": "2297201009",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background Cigarette smoking poses a major public health risk, requiring scalable and accessible interventions. Chatbots offer a promising solution, given their potential in providing personalized, long-term interactions. Despite their promise, limited research has examined their efficacy and the intertwined relationship between user experience and effectiveness over an extended period of time. Methods In this prospective, single-arm study, we developed and evaluated Roby, a 5-session chatbot intervention incorporating motivational interviewing and cognitive behavioral therapy to help smokers quit. Roby engaged Dutch adult smokers (N = 102) in conversations covering topics such as setting a quit date, managing withdrawal and cravings, and relapse prevention. The primary outcome was the continuous abstinence rate at the end of the intervention, and secondary outcomes included 7-day point prevalence abstinence, self-efficacy, and cravings. User engagement, therapeutic alliance, and interaction satisfaction were measured weekly, and the trajectory was analyzed using Linear Mixed Models. Results Following an intention-to-treat principle, 18.6 % of participants achieved continuous abstinence, and 37.3 % achieved 7-day point prevalence abstinence. Self-efficacy significantly improved over the intervention, and cravings decreased over time. A slight decreasing trend was observed in engagement and satisfaction, likely due to a novelty effect. However, the decrease did not affect the intervention's outcomes. Conclusion This study demonstrates the feasibility and initial usefulness of Roby, highlighting the potential for chatbots in long-term cessation support. Future research should further validate these findings with randomized controlled trials. Additional efforts should focus on monitoring and maintaining user experience in the long term to enhance effectiveness.",
-      "journal": "Internet Interventions",
+      "abstract": "Buddhist meditation, encompassing practices such as Samatha (focused attention), Vipassana (open monitoring), and Metta (loving-kindness), offers unique pathways for transforming consciousness beyond conventional mindfulness. In this article, we review the studies that explore how these distinct meditative techniques systematically cultivate meta-cognitive insight, emotional regulation, and self-inquiry, facilitating profound shifts in awareness and personal growth. Recent neuroscience and psychology studies show that these techniques influence the mind in different ways: they strengthen attentional stability, reshape self-referential thinking, and reorganize emotional patterns. Such modifications are evident in reorganized brain networks (for example, the default-mode network) and in characteristic EEG patterns. While sharing some parallels with Western mindfulness and hypnosis, Buddhist meditation uniquely emphasizes ethical integration and profound introspection. Challenges remain in objectively measuring advanced meditative states, particularly the experience of \u201cno-self\u201d (anatt\u0101), due to the reliance on subjective self-report. Future research should incorporate culturally sensitive methodologies, objective behavioral tasks, and interdisciplinary approaches like neurophenomenology to integrate traditional contemplative wisdom with rigorous scientific inquiry.",
+      "journal": "Frontiers in Psychology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "cessation experience"
+        "metta meditation"
       ]
     },
     {
-      "title": "Development and Internal Validation of an Explainable Machine Learning Model for Compassion Fatigue Risk Stratification Among Clinical Nurses in China.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42504288/",
+      "title": "An Ethical Sam\u0101dhi: Brahma-vih\u0101ra Meditation and the Flexible Early Buddhist Path",
+      "url": "https://www.semanticscholar.org/paper/c27f3f2cc21dd661e093630b847ecfd36bf973f6",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-27T14:08:35.168514",
-      "doi": "10.2147/RMHP.S617883",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-07-28T13:27:25.402571",
+      "doi": "10.1007/s12671-025-02597-6",
       "authors": [
         {
-          "name": "Meng Chen",
+          "name": "E. Shulman",
+          "author_id": "100620453",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article offers a new interpretation of Brahma-vih\u0101ra meditation (BVM) in early Buddhism, positioning it between ethical cultivation and development of sam\u0101dhi; BVM can thereby perfect ethical practice by creating a comprehensive meditative state that is thoroughly ethical. The fact that the radically ethical states of mind of BVM are sometimes included in the path to liberation, while more commonly they are not, further affords an important understanding regarding the flexible nature of the early Buddhist path. This is not one path, two paths, or any other number of paths, but a flexible method that different practitioners can use in various ways, evoking its diverse potentials according to their personal inclinations and contexts. Within this dynamic structure, Brahma-vih\u0101ra meditations play two main roles: first, they allow a completion of ethical practice, bringing it to perfection through the divine attitudes of love (mett\u0101), compassion (karu\u1e47\u0101), empathic joy (mudit\u0101), and equanimity (upekkh\u0101). Second, these states of mind, in which the mind reaches a state of totality, serve as a form of sam\u0101dhi, which can replace other types of meditative concentration, such as jh\u0101na. At their best, these states can be liberating. This interpretation of BVM\u2019s role improves our understanding of the early Buddhist path, and specifically of the manner in which it combines ethical cultivation with advanced meditation. Here, sam\u0101dhi proves to be ethical, and ethics liberating.",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metta meditation"
+      ]
+    },
+    {
+      "title": "Investigating the complex cortical dynamics of an advanced concentrative absorption meditation called jhanas (ACAM-J): a geometric eigenmode analysis.",
+      "url": "https://www.semanticscholar.org/paper/4b032b240bb95f16d42d1b39e9f89b38ac518ff8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-07-28T13:27:25.402777",
+      "doi": "10.1093/cercor/bhaf039",
+      "authors": [
+        {
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
+          "affiliation": null
+        },
+        {
+          "name": "W. F. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "Brian S Winston",
+          "author_id": "2384082077",
+          "affiliation": null
+        },
+        {
+          "name": "S. Atasoy",
+          "author_id": "35189762",
+          "affiliation": null
+        },
+        {
+          "name": "Morten L. Kringelbach",
+          "author_id": "2237996910",
+          "affiliation": null
+        },
+        {
+          "name": "T. Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Advanced meditation has been associated with long- and short-term psychological changes such as bliss, profound insight, and transformation of well-being. However, most advanced meditation neuroimaging analyses have implemented primarily spatially-localized approaches, focusing on discrete regional changes in activity rather than distributed dynamics. The present study uses a geometric eigenmode decomposition of ultrahigh field-strength 7T functional magnetic resonance imaging (fMRI) data from an intensely sampled case study to investigate the complex, distributed cortical dynamics associated with advanced concentrative absorption meditation. Geometric eigenmode decomposition of advanced concentrative absorption meditation and non-meditative control task fMRI data revealed elevated global brain state power and energy patterns of specific advanced concentrative absorption meditation states compared to controls, with mid-frequency spectrum brain state power and energy following a non-random, cubic trajectory through the advanced concentrative absorption meditation sequence. Further, these brain state differences were meaningfully associated with subjective phenomenological reports of attention, intensity of advanced concentrative absorption meditation quality, and sensations. This study unites precise methodological design, a novel fMRI decomposition framework, and rigorous phenomenology to provide valuable insights into the distributed neural signatures of highly refined conscious states. These results underscore similarities and differences between advanced concentrative absorption meditation and other altered states of consciousness like those induced by psychedelics-offering insights into refined conscious states and their implications for health and well-being.",
+      "journal": "Cerebral Cortex",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metta meditation"
+      ]
+    },
+    {
+      "title": "Neurophysiological mechanisms of focused attention meditation: A scoping systematic review",
+      "url": "https://www.semanticscholar.org/paper/0a1f9c86cf1fb51ebc09e4ee6cbeff802605530c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-28T00:00:00",
+      "date_fetched": "2026-07-28T13:27:25.402790",
+      "doi": "10.1162/IMAG.a.14",
+      "authors": [
+        {
+          "name": "Jonathan M. Lieberman",
+          "author_id": "2190250773",
+          "affiliation": null
+        },
+        {
+          "name": "Patrick A. McConnell",
+          "author_id": "40341784",
+          "affiliation": null
+        },
+        {
+          "name": "Mar Estarellas",
+          "author_id": "2265760662",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract Focused attention meditation (FA) is a foundational and widely studied practice that cultivates sustained concentration by focusing on a specific object, such as the breath, while disengaging from distractions. Numerous studies have investigated the neurophysiological mechanisms of FA, examining aspects such as spectral power, connectivity patterns, and neural entropy. However, despite this extensive research, clarity regarding the methodological approaches and key findings in this field remains limited. This scoping systematic review aimed to collate and interpret key information from electroencephalography (EEG) and magnetoencephalography (MEG) studies on FA, with a focus on study population composition, experimental design, and neurophysiological outcomes. Our findings revealed substantial heterogeneity in participant characteristics, potentially contributing to variability in neurophysiological results, while the choice of FA tasks and control conditions was relatively consistent. In terms of neurophysiological outcomes, consistent trends indicate that FA is associated with increased power in the alpha, beta, and gamma bandwidths, as well as heightened complexity and reduced criticality measures. Based on the findings of this review, we propose several methodological recommendations to improve the quality of future research. Additionally, we identified significant evidence gaps when considering the whole body of research, including the limited use of MEG and a lack of longitudinal studies, pointing to areas for future investigation. Overall, this review provides a firm grounding for the study of the neurophysiology of FA, as well as the study of advanced meditation and neuroscience-informed meditative development.",
+      "journal": "Imaging neuroscience",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metta meditation"
+      ]
+    },
+    {
+      "title": "The Effect of Meditation-Based Mind-Body Interventions on Older Adults with Poor Sleep Quality: A Meta-Analysis of Randomized Controlled Trials",
+      "url": "https://www.semanticscholar.org/paper/f6127bae143bd40479dc7248c1ed46e29a5f2f66",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-18T00:00:00",
+      "date_fetched": "2026-07-28T13:27:25.402800",
+      "doi": "10.1080/15402002.2025.2475911",
+      "authors": [
+        {
+          "name": "Yue Li",
+          "author_id": "2220635265",
+          "affiliation": null
+        },
+        {
+          "name": "Jiaxing Tang",
+          "author_id": "2314417177",
+          "affiliation": null
+        },
+        {
+          "name": "Gaopeng Chen",
+          "author_id": "2298044567",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Aims and objective This study aims to evaluate the effect of meditation-based mind-body interventions (MBIs) (Mindfulness, Tai Chi, Yoga, and Qigong) for older adults with poor sleep quality. Background Poor sleep quality exerts negative impact on life quality of old adults. The meditation-based mind-body interventions, with merits of simplicity, practicality, accessibility, and widespread dissemination, have been widely used to improve sleep in the older adults. However, the effects of MBIs on sleep quality of old adults are largely unknown. Method A comprehensive systematic review and meta-analysis were carried out following the PRISMA-P guidelines. Embase, PubMed, CINAHL, PsycINFO, Cochrane Library, Web of Science, and CNKI databases were searched to gather randomized controlled trials (RCTs) on the effects of MBIs on older adults with poor sleep quality. Study quality was evaluated by the Cochrane Risk of Bias tool. Results This study included 11 randomized controlled trials (with 1,052 participants) published between 2008 and 2023. Compared to the control group, there was a significant improvement in sleep quality (SMD= -0.66, 95%CI [-0.894, -0.426], P<0.00001), depression (SMD=-1.60, 95% CI [-1.89, 0.23], P=0.005), and anxiety (SMD= -1.46, 95% CI [-3.67, 0.75], P=0.026) for older adults with poor sleep quality. However, there was no statistically significant difference in the treatment effect for stress (SMD= -4.45, 95% CI [-10.24, 1.35], P=0.196). Conclusion Meditation-based mind-body interventions significantly improved the sleep quality of older adults with poor sleep quality. Nevertheless, more evidence is needed to support this. Registration The protocol for this study was registered with PROSPERO (CRD42023445082). https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=445082. PROSPERO registration number CRD42023445082.",
+      "journal": "Behavioural Sleep Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metta meditation"
+      ]
+    },
+    {
+      "title": "Peace and the Unconditioned: Nibb\u0101na as the Supreme Pacification",
+      "url": "https://www.semanticscholar.org/paper/4caad192d5a0dbd3241bf4fba341316504145da0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-31T00:00:00",
+      "date_fetched": "2026-07-28T13:27:33.788243",
+      "doi": "10.36948/ijfmr.2025.v07i05.59253",
+      "authors": [
+        {
+          "name": "Kelasa",
+          "author_id": "2391628639",
+          "affiliation": null
+        },
+        {
+          "name": "Dr. Vivek Kumar",
+          "author_id": "2363076295",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract\nThis article argues that early Buddhist discourse in the Sutta Pi\u1e6daka construes peace not as mere emotional calm or social quietism but as the pacification (upasama) that culminates in nibb\u0101na, the unconditioned. Reading key formulae \u201cnibb\u0101na\u1e41 parama\u1e41 sukha\u1e41,\u201d \u201cstilling of all formations\u201d (sabbasa\u1e45kh\u0101rasamatho), and epithets such as santi (peace) and khema (security) the study clarifies how \u201csupreme happiness\u201d denotes qualitative freedom from affliction rather than hedonic pleasure. It maps the semantic field of peace within the soteriological sequence nibbid\u0101 vir\u0101ga nirodha upasama/vimutti, and shows how the path functions as a technology of pacification: ethical discipline (s\u012bla) removes remorse and fear, concentration (sam\u0101dhi/jh\u0101na) stills the hindrances and unifies attention, and insight (vipassan\u0101) discloses anicca\u2013dukkha anatt\u0101, deconstructing craving and clinging. The article addresses common misreadings (nihilism, quietism) and proposes that the Nik\u0101yas present peace as the non-arising of stress grounded in dependent origination\u2019s cessation, with practical implications for contemplative training and communal concord.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Phytochemical profiling and larvicidal assessment of Tagetes patula Linn and Phlogacanthus thyrsiformis Nees. flower extracts against Culex quinquefasciatus",
+      "url": "https://www.semanticscholar.org/paper/b7d94bb45016d6914a3f64d4ed131303147a7c06",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-01T00:00:00",
+      "date_fetched": "2026-07-28T13:27:33.788324",
+      "doi": "10.18311/jbc/2026/55649",
+      "authors": [
+        {
+          "name": "Uma Dutta",
+          "author_id": "2281156647",
+          "affiliation": null
+        },
+        {
+          "name": "Nirodha Pegu",
+          "author_id": "2449396838",
+          "affiliation": null
+        },
+        {
+          "name": "Sonali Dey",
+          "author_id": "2269974261",
+          "affiliation": null
+        },
+        {
+          "name": "Shruti Baruah",
+          "author_id": "2449396766",
+          "affiliation": null
+        },
+        {
+          "name": "Nayanika Saikia",
+          "author_id": "2323648168",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Vector-borne diseases are a significant global health concern, with millions of people affected every year. Mosquitoes remain a major carrier of parasites and pathogens that continue to affect humans. Culex quinquefasciatus is a well-known mosquito vector capable of causing a broad range of diseases, including filariasis. Due to the detrimental effects of chemical insecticides, eco-friendly plant-based chemicals have become a better alternative to control measures. The present research work was undertaken to study the efficacy of methanolic extracts of commonly available plants, viz. T. patula L., Phlogacanthus thyrsiformis Nees. and its combined formulation against the larvae of the C. quinquefasciatus at different sub-lethal concentrations, viz., 250 ppm, 500 ppm, 750 ppm, and 1000 ppm. The study was based on the behavioural changes, larval development, and mortality rate by the standard method. Phytochemical screening was performed, followed by GC-MS for bioactive components responsible for insecticidal activity. On exposure to the initial concentrations of the extract, various damages, including hyperactive wriggling movement, delayed hatching, and damaged bodies, were observed in the mosquito larvae. At higher concentrations of exposure, distorted bodies and delayed moulting were observed, which later led to the morbid condition. The mortality rate of the combined formulation applied to mosquito larvae is more compared to the individual extracts of the chosen plants. These findings demonstrate the pesticidal potential of T. patula L. and P. thyrsiformis Nees. extract against the C. quinquefasciatus, following its impact on physiological and morphological behaviour, suggesting the need for further research on control measures against the mosquito.",
+      "journal": "Journal of Biological Control",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Load carrying capacity of novel semi-interlocking inter-modular connections in modular buildings",
+      "url": "https://www.semanticscholar.org/paper/e201682ab90b8bedbb2fce77120728d47de93a36",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-01T00:00:00",
+      "date_fetched": "2026-07-28T13:27:33.788348",
+      "doi": "10.1016/j.jobe.2026.116606",
+      "authors": [
+        {
+          "name": "Thisari Munmulla",
+          "author_id": "2182626719",
+          "affiliation": null
+        },
+        {
+          "name": "S. Navaratnam",
+          "author_id": "144742279",
+          "affiliation": null
+        },
+        {
+          "name": "H. D. Hidallana-Gamage",
+          "author_id": "2363273930",
+          "affiliation": null
+        },
+        {
+          "name": "Guomin Zhang",
+          "author_id": "2328244295",
+          "affiliation": null
+        },
+        {
+          "name": "N. S. Silva",
+          "author_id": "2323915416",
+          "affiliation": null
+        },
+        {
+          "name": "T. Ponnampalam",
+          "author_id": "2151843234",
+          "affiliation": null
+        },
+        {
+          "name": "M. Jayasinghe",
+          "author_id": "2301354741",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of Building Engineering",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Scope of Ayurvedic Management in the Non-Substance Addiction",
+      "url": "https://www.semanticscholar.org/paper/b395059808d2bb96ccf19886724b88ce983f59a8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-15T00:00:00",
+      "date_fetched": "2026-07-28T13:27:33.788380",
+      "doi": "10.47070/ayushdhara.v13i1.2203",
+      "authors": [
+        {
+          "name": "G.S. Yadav",
+          "author_id": "2387804292",
+          "affiliation": null
+        },
+        {
+          "name": "S.V. Chawre",
+          "author_id": "2387804245",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Objectives: Addiction disorder is a major issue, rapidly increasing worldwide. There\u2019re limited treatment options in modern science. Hence before the increasing addiction cases become a global burden, preventive measures should be taken. Ayurveda modalities may hold a satisfactory solution for this, to spread awareness and take preventive measures for addiction, and available treatment options in Ayurveda for de-addiction. This study focuses on the Ayurvedic management of non-substance addiction. Hence this conceptual study is planned. Data source: The classical Ayurvedic Texts with their commentaries, other Ayurvedic and Modern texts, journals, articles, relevant websites were referred. Review methods: Addiction is considered as a chronic, relapsing disorder which involves compulsive use of a substance, thing or activity even after harmful consequences. It\u2019s a mental illness as per Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5). In Ayurveda also, non-substance addiction can be involved in Manas Vikar, where the subjects and functions of mind are affected. They can be managed by Ayurveda. Results: Ayurvedic treatments like Medhya Rasayana, Nasya, Shirobhyanga, Satvavajay, Mantra Chanting, Ashwasana, Achar Rasayana, Sadvritta palan, Vyayama, Chitta Vritti Nirodha, Dhyana and Naisthiki Chikitsa can be beneficial for de-addiction. Conclusion: Non-substance addictions can be well treated by Ayurveda.",
+      "journal": "Ayushdhara",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Indian Society of Electrocardiology Position Statement on Improving CPR Awareness in the Indian public.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508532/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-27T00:00:00",
+      "date_fetched": "2026-07-28T13:28:02.067164",
+      "doi": "10.1016/j.ipej.2026.07.012",
+      "authors": [
+        {
+          "name": "Aditya Kapoor",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chengcheng Che",
+          "name": "Ajit Bhagwat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ashish Nabar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Satyavir Yadav",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "B Hygriv Rao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yash Lokhandwala",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S B Gupta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kamlesh Raut",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ketan K Mehta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Deepa Kane",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rusheek Rawal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aniruddha Vyas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mandar Mahavir Shah",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amit Vora",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Akshay Mehta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joy M Thomas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arun David Arul",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nayani Makkar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Narayanan Namboodiri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shomu Bohora",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Deepak Padmanabhan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kinjal Goyal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sunil Sathe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ajit Desai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vishal Gavali",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jitendra Makkar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nitish Naik",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ajay Naik",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rakesh Yadav",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anoop Gupta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Debabrata Roy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jyotirmoy Pal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mangesh Tiwaskar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sriniwas Samavedam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jigeeshu V Divatia",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Compassion fatigue (CF) is a significant occupational challenge among nurses and is associated with adverse workforce and patient-care outcomes. In China's demanding healthcare system, identifying nurses at elevated risk of CF may help inform targeted support strategies. This study aimed to develop and internally validate an explainable machine learning (ML)-based model for CF risk stratification among clinical nurses. METHODS: A cross-sectional survey was conducted among 969 clinical nurses in Liaoning Province, China. CF status was classified using established Professional Quality of Life Scale questionnaire cutoff criteria. A hybrid approach combining the Boruta algorithm and Least Absolute Shrinkage and Selection Operator regression was employed. Eight ML algorithms were developed and compared. Model performance was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy, recall, and F1-score. Shapley Additive exPlanations (SHAP) analysis was used to interpret the optimal model and quantify the contribution of important risk factors. RESULTS: Based on questionnaire-defined criteria, 56.2% of participants were classified as having elevated CF symptoms. Among the evaluated algorithms, the Na\u00efve Bayes (NB) model demonstrated the best overall performance, achieving an AUC of 0.924 (95% confidence interval [CI]: 0.894-0.954) in the testing set. It also showed favorable calibration and potential net benefit. SHAP analysis indicated that social support, work engagement, and mindfulness were important protective factors, whereas exposure to workplace violence, frequent night shifts, prolonged daily working hours, and department assignment were important risk factors associated with elevated CF symptom classification. CONCLUSION: The NB-based model demonstrated strong discrimination and interpretability for stratifying nurses at elevated risk of CF within this study population. The findings highlight potentially modifiable factors associated with elevated CF symptoms and may support targeted occupational health strategies. External and prospective validation studies are still needed before broader implementation in clinical or administrative settings.",
-      "journal": "Risk management and healthcare policy",
+      "abstract": "UNLABELLED: Out-of-hospital cardiac arrest (OHCA) is a major public health challenge in India. Cardiopulmonary resuscitation (CPR) awareness, training, and bystander response rates remain critically low across the country. OBJECTIVE: This Indian Society of Electrocardiology position statement aims to promote nationwide CPR awareness, strengthen community response to sudden cardiac arrest (SCA) and improve survival in OHCA, with measures adapted to India-specific systems of care and bystander training. MAIN THEMES: The statement highlights the SCA burden, early recognition, rapid response, barriers to community CPR training in India, dispatcher-assisted CPR, and public access defibrillation (PAD). It emphasizes school-based CPR education, corporate social responsibility partnerships, legislative support, and development of a national CPR ecosystem. Role of digital innovations, mobile applications, virtual reality, mobile CPR training units, psychological barriers and the bystander effect are emphasized. CONCLUSION: The position statement advocates transforming CPR from a medical skill into a societal responsibility and improve OHCA survival in India.",
+      "journal": "Indian pacing and electrophysiology journal",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Traditional, Complementary, and Integrative Medicine on X (Formerly Twitter) From 2015 to 2024 Across English, Spanish, and French: Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508010/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-27T00:00:00",
+      "date_fetched": "2026-07-28T13:28:02.067382",
+      "doi": "10.2196/97760",
+      "authors": [
+        {
+          "name": "Jahinna Duplaix",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S\u00e9bastien Abad",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marion Bruna",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arnaud Legout",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alexis Nommer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Deborah Nourrit-Lucas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gr\u00e9gory Ninot",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Social media platforms have become important spaces for the circulation and discussion of health information. X (formerly Twitter) is one such space where traditional, complementary, and integrative medicine (TCIM)-related terms circulate in public health discourse. However, longitudinal TCIM-related mention patterns on social media, particularly during the COVID-19 pandemic period, remain poorly documented. OBJECTIVE: The study aimed to characterize temporal mention patterns of TCIM-related terms on X across English, Spanish, and French between 2015 and 2024, including the COVID-19 pandemic period. METHODS: We conducted a retrospective observational infodemiology study using raw, nonnormalized annual mention counts from Brandwatch-indexed public X content in English, Spanish, and French that contained 39 predefined TCIM-related terms from 2015 to 2024. Descriptive analyses summarized cumulative mentions and annual mention counts. Exploratory trend analyses were restricted to the 2015 to 2019 prepandemic period. For each term-language combination, ordinary least squares regression was fitted with annual mention count as the dependent variable and calendar year as the independent variable. Exploratory linear trend signals were retained when R RESULTS: Cumulative mentions of the 39 TCIM-related terms totaled 191,994,848 over 2015 to 2024. The most frequently mentioned terms were \"yoga\" (79,618,183), \"meditation\" (55,560,372), and \"mindfulness\" (18,915,377), together accounting for 80.3% (154,093,932/191,994,848) of all mentions. Raw cumulative mentions were predominantly indexed in English (170,100,867/191,994,848, 88.6%) compared with Spanish (17,171,541/191,994,848, 8.9%) and French (4,722,440/191,994,848, 2.5%). Between 2019 and 2020, \"meditation\" showed the largest absolute increase in raw mention counts (1,935,949/3,627,557, 53.4%), whereas \"ayurveda\" showed the largest relative increase (400,624/214,901, 186.4%). Exploratory 2015 to 2019 trend analyses identified 14 linear trend signals in English (n=13, 92.9% decreasing; n=1, 7.1% increasing: \"intermittent fasting,\" 161,584/70,496, 229%), 11 in French (n=5, 45.5% increasing), and 8 in Spanish (3 increasing). \"Reiki\" and \"reflexology\" decreased in all 3 languages. CONCLUSIONS: Between 2015 and 2024, raw TCIM-related mention counts on X were highly concentrated in a small set of wellness and mind-body labels and were predominantly in English compared with Spanish and French. No sustained aggregate surge was evident in the raw descriptive data during the COVID-19 pandemic period, although some terms such as \"ayurveda\" showed short-term fluctuations. These findings should be interpreted as platform-specific raw mention patterns, not as evidence of normalized public interest, sentiment, user attitudes, professional practice, or actual TCIM use.",
+      "journal": "Journal of medical Internet research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
