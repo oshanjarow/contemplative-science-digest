@@ -1,1048 +1,333 @@
 {
-  "generated_at": "2026-07-29T13:43:26.650442",
+  "generated_at": "2026-07-30T13:24:52.762315",
   "papers": [
     {
-      "title": "Exploring the Effectiveness of Cyberbullying Awareness Training in Middle School Students: A Randomized Controlled Trial",
-      "url": "https://www.semanticscholar.org/paper/97d2090615245602a2d10bea5788573718a8cf46",
+      "title": "Attention and meditative development: A review and synthesis of long-term meditators and outlook for the study of advanced meditation",
+      "url": "https://www.semanticscholar.org/paper/dc5304e610254eb1af1544f8a650d7026230a6eb",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-19T00:00:00",
-      "date_fetched": "2026-07-29T13:42:34.636101",
-      "doi": "10.1177/09731342251359800",
+      "date_published": "2025-11-01T00:00:00",
+      "date_fetched": "2026-07-30T13:24:03.104079",
+      "doi": "10.1016/j.neuroimage.2025.121602",
       "authors": [
         {
-          "name": "Emine Ekici",
-          "author_id": "2364508121",
+          "name": "S. Ehmann",
+          "author_id": "2315464718",
           "affiliation": null
         },
         {
-          "name": "Zeynep Ak\u00f6zl\u00fc",
-          "author_id": "2090270233",
+          "name": "Idil Sezer",
+          "author_id": "1866766801",
           "affiliation": null
         },
         {
-          "name": "Zeynep Erkut",
-          "author_id": "2400680809",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background: Cyberbullying, which occurs when information and communication technologies are used to harm individuals, is one of the most important problems for adolescents today. This study evaluated the effectiveness of nurse-led cyberbullying awareness training for 7th-grade middle school students. Results: It was determined that the control and intervention groups had a homogeneous distribution in terms of demographic characteristics. In terms of their pre-test and post-test mean scores on the CAS, there was no statistically significant difference between the control and intervention groups (P > .05). However, within the control group, a statistically significant difference was found between the pre-training and post-training CAS scores (Z = \u22122.890; P = .004 < .05). In contrast, the intervention group showed no statistically significant difference between their pre-training and post-training CAS scores (P > .05). Conclusions: This study evaluated the effects of nurse-led training program aimed at increasing cyberbullying awareness. Comprehensive and long-term awareness programs led by nurses are likely to produce more lasting and effective outcomes for young individuals.",
-      "journal": "Journal of Indian Association for Child and Adolescent Mental Health",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Ai-Driven Cybersecurity Awareness Training (CSAT) Framework",
-      "url": "https://www.semanticscholar.org/paper/fbfae75fa1d851ea5679a7c9011331013f778744",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-12-17T00:00:00",
-      "date_fetched": "2026-07-29T13:42:34.636117",
-      "doi": "10.1109/IntelliSecAI66368.2025.11472813",
-      "authors": [
-        {
-          "name": "Ahmed Mohamed Ahmed",
-          "author_id": "144976993",
+          "name": "Arielle S. Keller",
+          "author_id": "2393563420",
           "affiliation": null
         },
-        {
-          "name": "Mohamed Mejri",
-          "author_id": "2274009475",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Human error continues to be a prevailing cause of cybersecurity attacks, and it necessitates immediate responsive and personal training solutions. Conventional Cybersecurity Awareness Training (CSAT) schemes are generally contextually irrelevant, lack scalability, and are missing ongoing risk assessment. The paper will mitigate such shortcomings by suggesting a multi-phase CSAT model whereby Generative Artificial Intelligence (GAI), online machine learning algorithms, and MITRE ATT&CK- based threat models are incorporated to provide rolespecific and threat-sensitive delivery of cybersecurity education. The framework includes realtime user profiling, vulnerability analysis and a machine learning pipeline that includes Random Forest with Recursive Feature Elimination, Isolation Forest, K-Means clustering and Decision Trees to find out risks based on behavior. The dynamically generated training content is based on weaknesses that are unique to the users and the changing risk profiles between the users. Simulated organizational profiles with experimental evaluation indicate that there were significant changes of Risk Scores and Vulnerability Scores among partici-ants. This confirms the model as effective in increasing the awareness of the users, alleviating behavioral weaknesses, and facilitating ongoing learning. The suggested framework provides flexible and smart approach to reinforcing organizational cybersecurity postures and providing quantifiable and specific outcomes.",
-      "journal": "2025 International Conference on Computational Intelligence, Security, and Artificial Intelligence (IntelliSecAI)",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Reflective mindfulness and emotional regulation training to enhance nursing students\u2019 self-awareness, understanding, and regulation: a mixed method randomized controlled trial",
-      "url": "https://www.semanticscholar.org/paper/e45790ccac21927f392ce7720eb23ec99a4d0692",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-30T00:00:00",
-      "date_fetched": "2026-07-29T13:42:34.636202",
-      "doi": "10.1186/s12912-025-03086-w",
-      "authors": [
-        {
-          "name": "G. Salem",
-          "author_id": "2314624194",
-          "affiliation": null
-        },
-        {
-          "name": "Wilf Hashimi",
-          "author_id": "2272684821",
-          "affiliation": null
-        },
-        {
-          "name": "A. El-Ashry",
-          "author_id": "2183488392",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Nursing students encounter significant academic and psychological challenges that can impede their transition from theoretical knowledge to practical application, affecting their well-being and professional development. This study aimed to evaluate the effectiveness of Reflective Mindfulness and Emotional Regulation Training (RMERT) in improving nursing students\u2019 self-awareness, understanding, and emotional regulation. This study employed a convergent parallel mixed-method randomized controlled trial design. Forty fourth-year undergraduate nursing students were randomly assigned using simple randomization (computer-generated random numbers) into either an intervention group (n\u2009=\u200920) or a control group (n\u2009=\u200920). The intervention group participated in a six-week RMERT program designed to enhance self-awareness, understanding, and emotional regulation. The control group continued with standard course activities. Quantitative data were collected pre- and post-intervention using the Emotion Regulation Questionnaire (ERQ) and the Mindful Attention Awareness Scale (MAAS), and analyzed using SPSS. Qualitative data, gathered exclusively from the intervention group through recorded reflective group sessions, were analyzed using thematic analysis. The intervention group exhibited significantly improved self-awareness, understanding, and emotional regulation compared to the control group. Additionally, students displayed an increased capacity for mindfulness, a decreased tendency to suppress emotions, and greater comfort in reflecting on positive and negative emotions. Integrating RMERT into nursing curricula may enhance nursing students\u2019 well-being and professional growth, mainly when counseling resources are limited. The program can improve self-awareness, understanding, and regulation skills necessary for effective nursing practice. Integrating RMERT into nursing curricula enhances self-awareness, emotional regulation, and reflective practice. This approach equips students with essential skills for managing clinical stress and building therapeutic relationships. As future nurses, they develop resilience, clinical reasoning, and empathetic patient care, ultimately elevating care quality and professional growth in diverse healthcare settings. The study was registered retrospectively on https://register.clinicaltrials.gov/ on 23 of December 2024 under the reference number: NCT06760962.",
-      "journal": "BMC Nursing",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "ConGISATA: A Framework for Continuous Gamified Information Security Awareness Training and Assessment",
-      "url": "https://www.semanticscholar.org/paper/d393258f0ccbd74976b8ec715d87ed39452ea4ab",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-16T00:00:00",
-      "date_fetched": "2026-07-29T13:42:34.636268",
-      "doi": "10.1007/978-3-031-51479-1_22",
-      "authors": [
-        {
-          "name": "Ofir Cohen",
-          "author_id": "2279837760",
-          "affiliation": null
-        },
-        {
-          "name": "Ron Bitton",
-          "author_id": "50616846",
-          "affiliation": null
-        },
-        {
-          "name": "A. Shabtai",
-          "author_id": "1720589",
-          "affiliation": null
-        },
-        {
-          "name": "Rami Puzis",
-          "author_id": "2268127457",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The incidence of cybersecurity attacks utilizing social engineering techniques has increased. Such attacks exploit the fact that in every secure system, there is at least one individual with the means to access sensitive information. Since it is easier to deceive a person than it is to bypass the defense mechanisms in place, these types of attacks have gained popularity. This situation is exacerbated by the fact that people are more likely to take risks in their passive form, i.e., risks that arise due to the failure to perform an action. Passive risk has been identified as a significant threat to cybersecurity. To address these threats, there is a need to strengthen individuals'information security awareness (ISA). Therefore, we developed ConGISATA - a continuous gamified ISA training and assessment framework based on embedded mobile sensors; a taxonomy for evaluating mobile users'security awareness served as the basis for the sensors'design. ConGISATA's continuous and gradual training process enables users to learn from their real-life mistakes and adapt their behavior accordingly. ConGISATA aims to transform passive risk situations (as perceived by an individual) into active risk situations, as people tend to underestimate the potential impact of passive risks. Our evaluation of the proposed framework demonstrates its ability to improve individuals'ISA, as assessed by the sensors and in simulations of common attack vectors.",
-      "journal": "European Symposium on Research in Computer Security",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "awareness training"
-      ]
-    },
-    {
-      "title": "Focused Attention Meditation as a Pre-Exercise Strategy for Reducing Anxiety in Speed Skaters",
-      "url": "https://www.semanticscholar.org/paper/82ff4fe305073cad04d85c5995ec00e39e729090",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835858",
-      "doi": "10.3390/s26020475",
-      "authors": [
-        {
-          "name": "Y. Tomita",
-          "author_id": "1481845901",
-          "affiliation": null
-        },
-        {
-          "name": "Mari Yokoo",
-          "author_id": "40474925",
-          "affiliation": null
-        },
-        {
-          "name": "Kaori Shimoda",
-          "author_id": "40066824",
-          "affiliation": null
-        },
-        {
-          "name": "Tomoki Iizuka",
-          "author_id": "39924765",
-          "affiliation": null
-        },
-        {
-          "name": "Eikichi Sakamoto",
-          "author_id": "2404876450",
-          "affiliation": null
-        },
-        {
-          "name": "Koichi Irisawa",
-          "author_id": "2106663425",
-          "affiliation": null
-        },
-        {
-          "name": "F. Tozato",
-          "author_id": "4616219",
-          "affiliation": null
-        },
-        {
-          "name": "Kenji Tsuchiya",
-          "author_id": "2308773915",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Highlights What are the main findings? A single 10-min session of focused attention meditation significantly reduced pre-exercise state anxiety in competitive speed skaters compared with random thinking and controlled breathing. Focused attention meditation reduced pre-exercise anxiety, whereas controlled breathing primarily modulated heart rate variability, and neither intervention affected HIIT performance. What are the implications of the main findings? Brief focused attention meditation may be considered as a feasible and practical pre-exercise mental strategy for athletes preparing for high-intensity training. Incorporating meditation into routine training sessions may support psychological stability and autonomic regulation without compromising physical performance of the athletes. Abstract Anxiety is a common psychological challenge among athletes, particularly in response to intense training sessions. This randomized crossover study investigated the immediate effects of a single session of focused attention meditation on anxiety, autonomic responses, and performance during high-intensity intermittent training (HIIT) in twenty-six university-level speed skaters. Participants completed three pre-exercise interventions (focused attention meditation, controlled breathing, and random thinking) on separate occasions in a randomized order. Following each intervention, participants performed a leg cycling-based HIIT protocol consisting of 20 s of maximal effort work followed by 10 s of passive rest, repeated for 8 sets using a cycling ergometer. State anxiety was assessed using the State\u2013Trait Anxiety Inventory, and mood disturbance was evaluated using the Profile of Mood States. Autonomic and physiological responses were assessed via heart rate variability (coefficient of variation), oxygen uptake, and power output, measured before and after the intervention and the HIIT bout. Focused attention meditation significantly reduced state anxiety compared with random thinking (\u0394STAI: \u22125.0 [6.0] vs. \u22121.0 [4.3]; p < 0.05, effect size = 0.527), whereas controlled breathing primarily influenced heart rate variability (CV: 0.10 [0.11] vs. 0.07 [0.03]; p = 0.041, effect size = 0.736). No significant differences were observed among conditions in mean power output or fatigue index during HIIT. These findings suggest that single-session focused attention meditation may serve as a practical pre-exercise strategy for an immediate reduction in state anxiety, without compromising subsequent high-intensity exercise performance.",
-      "journal": "Italian National Conference on Sensors",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "The individual and sequential effect of focused attention and open monitoring meditation on mindfulness skills",
-      "url": "https://www.semanticscholar.org/paper/6172691c897cfaf5f6c1efeef515ab931a2866d4",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-07T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835884",
-      "doi": "10.1371/journal.pone.0322537",
-      "authors": [
-        {
-          "name": "Haruyuki Ishikawa",
-          "author_id": "114462736",
-          "affiliation": null
-        },
-        {
-          "name": "Toshizumi Muta",
-          "author_id": "113056612",
-          "affiliation": null
-        },
-        {
-          "name": "Tetsuri Abe",
-          "author_id": "152584332",
-          "affiliation": null
-        },
-        {
-          "name": "Nozomi Imajo",
-          "author_id": "2222046139",
-          "affiliation": null
-        },
-        {
-          "name": "F. Koshikawa",
-          "author_id": "5386599",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness meditation has two components: focused attention (FA) meditation and open-monitoring (OM) meditation. Based on traditional Buddhist principles, it is recommended that FA meditation be practiced prior to OM meditation. However, the influence of the order in which these meditations are practiced on the efficacy of interventions has not yet been empirically investigated. This study examined the effects of the order of FA and OM meditation on the level and process of acquiring mindfulness skills. Thirty-three Japanese undergraduate and graduate students who were meditation novices completed the intervention. Participants were assigned to three groups: the group practicing 4-week FA meditation prior to 4-week OM meditation (FA-OM group), the group practicing meditation in reverse order (OM-FA group), and the wait-list control group. Each meditation training session consisted of one 1-hour group session per week and a 15-min daily homework. All participants were assessed for trait mindfulness once a week. The results showed that the FA-OM group scored higher than the control group for most mindfulness skills. In addition, awareness, describing, acceptance, and observing skills increased earlier in the FA-OM group than in the OM-FA group. However, the skill of staying aware at the present moment increased earlier in the OM-FA group than in the FA-OM group. These results suggest that the order of practicing the two meditations primarily influences the process of acquiring mindfulness skills rather than the level of skills, and that it is reasonable to practice FA meditation prior to OM meditation to cultivate mindfulness skills for novices.",
-      "journal": "PLoS ONE",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "The Effects of Focused Attention and Open Monitoring Meditation on Interval Duration Estimation and Passage of Time Judgments in Non-meditators",
-      "url": "https://www.semanticscholar.org/paper/ad34cba6f3c61706a90086fb4210663765ff6131",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-29T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835895",
-      "doi": "10.1007/s12671-025-02650-4",
-      "authors": [
-        {
-          "name": "S. Chiarella",
-          "author_id": "2050674730",
-          "affiliation": null
-        },
-        {
-          "name": "Ludovica Ortame",
-          "author_id": "2314686413",
-          "affiliation": null
-        },
-        {
-          "name": "Luca Simione",
-          "author_id": "2421672",
-          "affiliation": null
-        },
-        {
-          "name": "Mariella Pazzaglia",
-          "author_id": "2355847579",
-          "affiliation": null
-        },
-        {
-          "name": "Enrico Di Pace",
-          "author_id": "2383335517",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Distinct patterns of directed brain connectivity in focused attention, open monitoring and loving kindness meditation: An EEG Granger causality study with long-term meditators",
-      "url": "https://www.semanticscholar.org/paper/5f87ce38e9ac75191fb245e5c690960a0f49db10",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-04T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835905",
-      "doi": "10.1101/2025.07.01.662572",
-      "authors": [
-        {
-          "name": "V. Kolev",
-          "author_id": "1944869",
-          "affiliation": null
-        },
-        {
-          "name": "Kosio Beshkov",
-          "author_id": "2103732422",
-          "affiliation": null
-        },
-        {
-          "name": "Peter Malinowski",
-          "author_id": "2352440261",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "J. Yordanova",
-          "author_id": "2261594706",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "bioRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Neurofluid circulation changes during a focused attention style of mindfulness meditation",
-      "url": "https://www.semanticscholar.org/paper/c4f41eba70aaab84474bb9d49da985460f2a73a6",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-12T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835915",
-      "doi": "10.1101/2025.09.10.25335492",
-      "authors": [
-        {
-          "name": "B. A. Keating",
-          "author_id": "2368518323",
-          "affiliation": null
-        },
-        {
-          "name": "David Vago",
-          "author_id": "2317619250",
-          "affiliation": null
-        },
-        {
-          "name": "K. Hett",
-          "author_id": "2253410403",
-          "affiliation": null
-        },
-        {
-          "name": "C. Considine",
-          "author_id": "49253535",
-          "affiliation": null
-        },
-        {
-          "name": "Maria Garza",
-          "author_id": "2320332248",
-          "affiliation": null
-        },
-        {
-          "name": "Caleb Han",
-          "author_id": "2242410086",
-          "affiliation": null
-        },
-        {
-          "name": "C. McKnight",
-          "author_id": "2318042946",
-          "affiliation": null
-        },
-        {
-          "name": "D. Claassen",
-          "author_id": "3332599",
-          "affiliation": null
-        },
-        {
-          "name": "Manus J Donahue",
-          "author_id": "2318030219",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Neurofluids, including cerebrospinal fluid (CSF) and interstitial fluid, circulate through regulated central nervous system pathways to clear cerebral waste and support brain health, with elevated CSF flow hyperdynamicity and regurgitation through the cerebral aqueduct associating with aging and neurodegeneration. Sleep exerts state-dependent effects on neurofluid circulation, yet similar modulation during unique waking states, such as meditation, remains underexplored. Notably, mindfulness meditation shares several regulatory features with sleep, with core meditation practices representing distinct arousal states. We investigated whether the focused attention (FA) style of mindfulness meditation modulates neurofluid dynamics directionally opposite to aging and consistent with sleep. Using phase-contrast MRI, we assessed absolute CSF flow and velocity through the aqueduct, and using blood-oxygenation-level-dependent (BOLD) MRI, we assessed CSF fluctuations near the cervicomedullary junction together with total supratentorial gray matter fluctuations. Assessments were repeated in meditation-naive adults during mind wandering (MW) without (n=13; repeatability controls) and with (n=14; breath controls) respiration rate modulation, and in adept meditators (n=23) during MW and FA meditation. No aqueduct CSF flow changes were observed in control groups. In meditators, absolute aqueduct absolute CSF flow decreased from MW to FA meditation (4.60+/-2.27 mL/min to 4.17+/-2.10 mL/min, p=0.005) owing to reduced regurgitant cranially-directed CSF velocity. On BOLD, this paralleled increased low frequency (0.0614-0.0887 Hz) CSF fluctuations (p=0.0138), which were inversely correlated with gray matter fluctuations during FA. Findings suggest that mindfulness meditation may represent a non-pharmacological, waking state capable of modulating neurofluid dynamics in a directionally similar manner to sleep and opposite to aging and neurodegeneration.",
-      "journal": "medRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Investigating the effects of focused attention (mantra) meditation on mismatch negativity: Insights into sensory and cognitive processing using an intensity oddball paradigm.",
-      "url": "https://www.semanticscholar.org/paper/f02caf2865e1d55075aa6034b9834558cefd0399",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-01T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835923",
-      "doi": "10.1016/j.neuroscience.2025.02.017",
-      "authors": [
-        {
-          "name": "C. Srivastava",
-          "author_id": "2267754558",
-          "affiliation": null
-        },
-        {
-          "name": "Jamie A. O\u2019Reilly",
-          "author_id": "2267754474",
-          "affiliation": null
-        },
-        {
-          "name": "Rashmi Gupta",
-          "author_id": "2267885050",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Over the past fifty years, research has enhanced our understanding of meditation and its effects on cognition. Meditation is particularly promising due to its long-term (trait) effects, which persist outside meditation sessions. Advances in neuroimaging have enabled the study of these effects using neural markers such as mismatch negativity (MMN), which reflects the involuntary shift of attention to unexpected acoustic changes. This shift is modulated by attentional control, a key area where focused attention (FA) meditation training offers improvements. However, studies investigating the trait effects of FA meditation on MMN have produced mixed results, with previous research introducing confounds from short-term (state) effects that may influence trait-specific assessments. Furthermore, most research has focused on breath-based FA meditation, overlooking other prominent forms of FA meditation that might differentially modulate MMN, as per recent studies. The current study, therefore, examines mantra meditation, a widely practiced form of FA meditation, with an adequately powered sample to address the mixed findings in the literature. The study employs an intensity oddball paradigm instead of commonly used frequency oddball paradigms to assess whether MMN arises from higher-order cognitive processes or sensory adaptation. The findings reveal similar MMN amplitude in experts and novices, suggesting that MMN may be insensitive to meditation expertise or influenced by the enhanced attentional skills of novices. Additionally, a unidirectional polarity shift in event-related potential to deviant stimuli suggests that meditation effects on MMN should be interpreted in the context of higher-order deviance detection mechanism.",
-      "journal": "Neuroscience",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Long-term mindfulness meditation increases occurrence of sensory and attention brain states",
-      "url": "https://www.semanticscholar.org/paper/caf6c40b85983d293ab5202be788bcfcf1d70995",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-06T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835947",
-      "doi": "10.3389/fnhum.2024.1482353",
-      "authors": [
-        {
-          "name": "Daniel Yochai Panitz",
-          "author_id": "2121338718",
-          "affiliation": null
-        },
-        {
-          "name": "Avi Mendelsohn",
-          "author_id": "2339173789",
-          "affiliation": null
-        },
-        {
-          "name": "Joana Cabral",
-          "author_id": "2339174736",
-          "affiliation": null
-        },
-        {
-          "name": "Aviva Berkovich-Ohana",
-          "author_id": "1403270222",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Interest has been growing in the use of mindfulness meditation (MM) as a therapeutic practice, as accumulating evidence highlights its potential to effectively address a range of mental conditions. While many fMRI studies focused on neural activation and functional connectivity during meditation, the impact of long-term MM practice on spontaneous brain activity, and on the expression of resting state networks over time, remains unclear. Here, intrinsic functional network dynamics were compared between experienced meditators and meditation-na\u00efve participants during rest. Our analysis revealed that meditators tend to spend more time in two brain states that involve synchrony among cortical regions associated with sensory perception. Conversely, a brain state involving frontal areas associated with higher cognitive functions was detected less frequently in experienced meditators. These findings suggest that, by shifting attention toward enhanced sensory and embodied processing, MM effectively modulates the expression of functional network states at rest. These results support the suggested lasting effect of long-term MM on the modulation of resting-state networks, reinforcing its therapeutic potential for disorders characterized by imbalanced network dynamics. Moreover, this study reinforces the utility of analytic approaches from dynamical systems theory to extend current knowledge regarding brain activity and evaluate its response to interventions.",
-      "journal": "Frontiers in Human Neuroscience",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "The Walking Meditation Mat: Leveraging Targeted Heat Sensation to Guide Attention Inward",
-      "url": "https://www.semanticscholar.org/paper/247c5572a0d80be87b563fa853ecc475e8aa83ae",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-25T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835954",
-      "doi": "10.1145/3706598.3713208",
-      "authors": [
-        {
-          "name": "Tamar Dublin",
-          "author_id": "2301052329",
-          "affiliation": null
-        },
-        {
-          "name": "Oren Zuckerman",
-          "author_id": "1790753",
-          "affiliation": null
-        }
-      ],
-      "abstract": "We present the walking meditation mat research, leveraging targeted heat to help meditators focus attention inward. The mat, measuring three meters in length, is designed with 10 visual signifiers and 10 corresponding heater pads arranged in a step-by-step pattern. Walking meditation is challenging, as it requires both inward and outward attention. In a qualitative study we studied the walking meditation experience with or without heat, evaluating the impact of the mat\u2019s visual signifiers and the gentle feet-focused targeted heat during the walking experience. Our findings reveal the tension participants experience between external design factors and their internal meditation process. Visual signifiers were more commonly associated with outward attention, dizziness and imbalance, while targeted heat affordances were more commonly associated with attention to bodily sensations, calmness, grounding, and reflection. We conclude with insights regarding the role of targeted heat in balancing inward and outward attention in walking meditation and introspective processes.",
-      "journal": "International Conference on Human Factors in Computing Systems",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Dynamic functional connectivity signatures of focused attention on the breath in adolescents.",
-      "url": "https://www.semanticscholar.org/paper/655182c030cf82cdced2623700a5263d84986938",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-01T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835963",
-      "doi": "10.1093/cercor/bhaf024",
-      "authors": [
         {
           "name": "I. Treves",
           "author_id": "2258723763",
           "affiliation": null
         },
         {
-          "name": "Aaron K. Kucyi",
-          "author_id": "2265686824",
-          "affiliation": null
-        },
-        {
-          "name": "Anna O. Tierney",
-          "author_id": "2189216977",
-          "affiliation": null
-        },
-        {
-          "name": "Emma G. Balkind",
-          "author_id": "118949961",
-          "affiliation": null
-        },
-        {
-          "name": "Susan Whitfield-Gabrieli",
-          "author_id": "2254327090",
-          "affiliation": null
-        },
-        {
-          "name": "Zev Schuman-Olivier",
-          "author_id": "1399070390",
-          "affiliation": null
-        },
-        {
-          "name": "John D. E. Gabrieli",
-          "author_id": "2238186760",
-          "affiliation": null
-        },
-        {
-          "name": "Christian A Webb",
-          "author_id": "2347013621",
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "Breathing meditation typically consists of directing attention toward breathing and redirecting attention when the mind wanders. As yet, we do not have a full understanding of the neural mechanisms of breath attention, in particular, how large-scale network interactions may be different between breath attention and rest and how these interactions may be modulated during periods of on-task and off-task attention to the breath. One promising approach may be examining fMRI measures including static connectivity between brain regions as well as dynamic, time-varying brain states. In this study, we analyzed static and dynamic functional connectivity in 72 adolescents during a breath-counting task (BCT), leveraging physiological respiration data to detect objective on-task and off-task periods. During the BCT relative to rest, we identified increases in static connectivity within attention-direction and orienting networks and anticorrelations between attention networks and the DMN. Dynamic connectivity analysis revealed four distinct brain states, including a DMN-anticorrelated brain state, proportionally more present during the BCT than the rest. We found there were distinct brain state markers of (i) breathing tasks vs rest and (ii) momentary on-task vs off-task attention within the BCT, yet in this analysis, no identifiable brain states reflecting between-individual behavioral variability.",
-      "journal": "Cerebral Cortex",
+      "abstract": "Attention regulation is a core mechanism of mindfulness meditation and has been proposed to underlie many of its health-related benefits. Here, we review and synthesize behavioral findings on attentional outcomes in long-term meditators, integrating neurocognitive evidence within a meditative development framework. Key findings indicate trait-level improvements across attentional functions-executive attention, sustained attention, hierarchical and general orienting-and attentional phenomena, such as the attentional blink. Preliminary evidence also identifies trait enhancements in response inhibition, alertness, and reduced mind-wandering. Interaction effects were found for response inhibition, sustained attention, reduced mind-wandering, and alertness, with alertness benefiting most strongly from long-term and intensive acute practice. As expected, attention-based outperformed non-attention-based techniques, while observe-and-release techniques facilitated attentional orienting and detection of closely spaced or unexpected stimuli during sustained attention tasks. These findings suggest that long-term meditation may enhance attention regulation in accordance with training specificity principles; the cognitive functions most directly targeted are the most likely to improve. Nevertheless, broader findings indicate that meditative development may depend on the balanced cultivation of multiple faculties over time, highlighting the non-linear and multidimensional nature of long-term meditative change. Consistent with traditional goals of cultivating mental faculties, the present findings may reflect attentional adaptations that support the development of advanced meditative states. Despite considerable consistency in empirical results, methodological limitations-including heterogeneous study designs and insufficient differentiation between states and traits-complicate interpretations. Future research should prioritize operationalizing and measuring contemplative constructs within integrative frameworks and using rigorous factorial designs to clarify state-trait interactions and meditation predictors.",
+      "journal": "NeuroImage",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     },
     {
-      "title": "Meditation-Like States of Attention and Time Perception: Longer Productions in Deeper and More Embodied States",
-      "url": "https://www.semanticscholar.org/paper/6c791b4f28a1ba3137576a5c224ef71c5a7debc1",
+      "title": "Neural and molecular changes during a mind-body reconceptualization, meditation, and open label placebo healing retreat: an observational study",
+      "url": "https://www.semanticscholar.org/paper/a2d760035caf547920cc505fe6712cbd4bf0cd0d",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-12T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835974",
-      "doi": "10.1163/22134468-bja10127",
+      "date_published": "2025-11-06T00:00:00",
+      "date_fetched": "2026-07-30T13:24:03.104137",
+      "doi": "10.1038/s42003-025-09088-3",
       "authors": [
         {
-          "name": "Michele Pellegrino",
-          "author_id": "46557778",
+          "name": "Alex Jinich-Diamant",
+          "author_id": "1879460866",
           "affiliation": null
         },
         {
-          "name": "Ludovica Ortame",
-          "author_id": "2314686413",
+          "name": "Sierra Simpson",
+          "author_id": "2302641237",
           "affiliation": null
         },
         {
-          "name": "J. Glicksohn",
-          "author_id": "2672812",
+          "name": "J. P. Zuniga-Hertz",
+          "author_id": "1390004120",
           "affiliation": null
         },
         {
-          "name": "Patrizio Paoletti",
-          "author_id": "32140095",
+          "name": "R. Chitteti",
+          "author_id": "2028846604",
           "affiliation": null
         },
         {
-          "name": "Fabio Marson",
-          "author_id": "81601931",
+          "name": "Jan M. Schilling",
+          "author_id": "4835629",
           "affiliation": null
         },
         {
-          "name": "Stefano Lasaponara",
-          "author_id": "2685994",
+          "name": "Jacqueline A. Bonds",
+          "author_id": "5730720",
           "affiliation": null
         },
         {
-          "name": "M. Romano",
-          "author_id": "2393275002",
+          "name": "Laura Case",
+          "author_id": "2381337430",
           "affiliation": null
         },
         {
-          "name": "Fabrizio Doricchi",
-          "author_id": "2150395882",
+          "name": "Andrei V. Chernov",
+          "author_id": "2302641861",
           "affiliation": null
         },
         {
-          "name": "Filippo Carducci",
-          "author_id": "2314682530",
+          "name": "Joe Dispenza",
+          "author_id": "2359739135",
           "affiliation": null
         },
         {
-          "name": "T. Ben-Soussan",
-          "author_id": "1390104140",
+          "name": "Jacqueline Maree",
+          "author_id": "2229825113",
+          "affiliation": null
+        },
+        {
+          "name": "Natalia Esther Amkie Stahl",
+          "author_id": "2390689524",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Licamele",
+          "author_id": "2390680580",
+          "affiliation": null
+        },
+        {
+          "name": "Narin Fazlalipour",
+          "author_id": "2390683511",
+          "affiliation": null
+        },
+        {
+          "name": "Swetha Devulapalli",
+          "author_id": "2179557684",
+          "affiliation": null
+        },
+        {
+          "name": "Leonardo Christov-Moore",
+          "author_id": "1404564137",
+          "affiliation": null
+        },
+        {
+          "name": "N. Reggente",
+          "author_id": "3435438",
+          "affiliation": null
+        },
+        {
+          "name": "Michelle A. Poirier",
+          "author_id": "2359737490",
+          "affiliation": null
+        },
+        {
+          "name": "Tobias Moeller-Bertram",
+          "author_id": "2359738048",
+          "affiliation": null
+        },
+        {
+          "name": "Hemal H. Patel",
+          "author_id": "2280156924",
           "affiliation": null
         }
       ],
-      "abstract": "\n Given the growing societal interest in how our environment influences time perception, in a world that is more volatile and going at a faster pace than ever, there is an increased need for the understanding of how attentional states and awareness impact time perception. In the current study we aimed at assessing the role of both internally and externally directed attention on temporal production. We devised an experimental paradigm aimed at replicating attentional states and awareness comparable to those occurring during meditation. Based on the Sphere Model of Consciousness and the hierarchy of meditation types, we hypothesize a gradual slowing down of time production, from simply observing a stimulus, to a focused awareness similar to Focused-Attention meditation and, finally, to an embodied state similar to Open-Monitoring meditation. To test this hypothesis, participants underwent three experimental conditions during time production and were divided into two groups. In line with our hypothesis, we found progressively longer produced durations in these experimental conditions, and this was further emphasized in the group of participants asked to listen to their own breath compared to those listening to external sounds. These highlight the importance of different types of attentional states and levels of awareness when addressing time perception. In particular, bodily awareness seems to be of key importance in \u2018slowing down\u2019 our subjective perception of time, which may be useful in an increasingly fast-paced world.",
-      "journal": "Timing &amp; Time Perception",
+      "abstract": "Mind-body interventions offer promising avenues for improving physical and mental health, yet the comprehensive biological effects of increasingly popular mind-body retreat interventions remain poorly understood. The neural and molecular effects of a 7-day retreat intervention combining meditation, reconceptualization, and open-label placebo healing rituals are investigated in an observational study on 20 healthy human participants randomly selected from 561 retreat participants. BOLD fMRI functional connectivity during rest and meditation and whole plasma proteomics, metabolomics, exosome-specific miRNA transcriptomics, and neurite growth and real-time metabolism cellular assays are compared pre- and post-intervention. Meditation decreases functional integration in the default mode (p\u2009=\u20090.00009) and salience networks (p\u2009=\u20090.000003) and decreases whole-brain modularity (p\u2009=\u20090.001). Compared to pre-intervention plasma, post plasma increases in vitro neurite outgrowth (p\u2009=\u20090.01), enhances glycolytic metabolism (p\u2009=\u20090.008), induces upregulation of BDNF (p\u2009=\u20090.001), inflammatory (p\u2009=\u20090.0001), anti-inflammatory (p\u2009=\u20090.03), and endogenous opioid (p\u2009=\u20090.03) pathways, and modulates tryptophan metabolism (pFDR\u2009=\u20090.03) and neurotransmission-associated exosome miRNA transcripts. This intensive non-pharmacological mind-body intervention produces broad short-term neural and plasma-based molecular changes associated with enhanced neuroplasticity, metabolic reprogramming, and modulation of functional cell signaling pathways, highlighting the potential of mind-body techniques to modulate neural circuits and pathways important to health and well-being. Editorial Summary: fMRI, multi-omics, and cellular assays reveal that an intensive mind-body retreat intervention modulates brain network connectivity and plasma signaling pathways linked to neuroplasticity, metabolism, and neurotransmission in healthy adults.",
+      "journal": "Communications Biology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     },
     {
-      "title": "Biopolitics of Techno-Mindfulness: Anthropological Reflections on the Issue of Modern App-Based Training of Focused Attention",
-      "url": "https://www.semanticscholar.org/paper/c7643dce1b57ecb17e45fe2985c7f60c3a7b958c",
+      "title": "Characteristics Associated With the Use of the Mindfulness Meditation App Headspace in a Large Public Health Deployment: Cross-Sectional Survey Study",
+      "url": "https://www.semanticscholar.org/paper/836948cfc3414685a94c5f95afbbe2ccd2ac27ef",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-21T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835981",
-      "doi": "10.3390/humans5040027",
+      "date_published": "2025-03-04T00:00:00",
+      "date_fetched": "2026-07-30T13:24:03.104151",
+      "doi": "10.2196/73457",
       "authors": [
         {
-          "name": "Federico Divino",
-          "author_id": "2149748221",
+          "name": "J. Borghouts",
+          "author_id": "40975562",
+          "affiliation": null
+        },
+        {
+          "name": "E. Eikey",
+          "author_id": "3272451",
+          "affiliation": null
+        },
+        {
+          "name": "Cinthia De Leon",
+          "author_id": "2058130779",
+          "affiliation": null
+        },
+        {
+          "name": "Stephen M. Schueller",
+          "author_id": "2258262442",
+          "affiliation": null
+        },
+        {
+          "name": "Margaret L. Schneider",
+          "author_id": "2271279119",
+          "affiliation": null
+        },
+        {
+          "name": "N. Stadnick",
+          "author_id": "3551349",
+          "affiliation": null
+        },
+        {
+          "name": "Kai Zheng",
+          "author_id": "2105666805",
+          "affiliation": null
+        },
+        {
+          "name": "Dana B. Mukamel",
+          "author_id": "2267184050",
+          "affiliation": null
+        },
+        {
+          "name": "Dara H. Sorkin",
+          "author_id": "6288875",
           "affiliation": null
         }
       ],
-      "abstract": "With an emphasis on the adaptation and mediation of Buddhist meditation within Western societies, this study explores the transformative interaction of traditional contemplative practices and modern technologies. By means of an extensive ethnographic investigation carried out in multiple European locations, this study sheds light on the significant influence that digital devices\u2014specifically, smartphone applications\u2014have on the accessibility, practice, and conception of meditation. These digital tools become guides that not only democratize access to meditation but also fundamentally change its nature, making it more individualized, commodified, and integrated into the field of self-care and therapeutic modalities from a deeply philosophical and communal practice. This inquiry critically looks at the two outcomes of this shift: the good that meditation is now more widely available and the bad that it is losing its conventional discipline and philosophical profundity. This paper raises concerns about the integrity of spiritual practices in the digital age and their evolution under the influence of Western epistemologies by arguing that the digital facilitation of meditation practices parallels broader societal tendencies towards personalization and digitization.",
-      "journal": "Humans",
+      "abstract": "Background Mindfulness-based apps can be an effective and accessible resource for mental health support. However, little is known about their use outside of research settings and what user characteristics relate to app use. Objective This study aimed to examine the characteristics of people who decided to use, not use, or stop using Headspace within the context of a large-scale public deployment, which offered the mindfulness meditation app Headspace as a free mental health resource to community members. Methods Nearly 100,000 community members received Headspace. All members (N=92,311) received an email inviting them to complete a voluntary and uncompensated survey. In total, 2725 participants completed the survey. The 20-minute survey asked about the use of Headspace, user experience, mental health problems, mental health stigma, and mental health use. Logistic regression models were used to examine relationships between predictors and nonuse, past use, or current use of Headspace. Results Participants who were still using Headspace at the time of completing the survey (2076/2725, 76.18%) were more likely to experience mental health challenges and distress and make more use of other digital mental health resources (ie, online tools and connecting with people online) than people who were not using Headspace. In addition, current users of Headspace rated the app higher on user experience compared with past users. The most common reasons for abandoning Headspace were that people were already using other strategies to support their mental health (198/570, 34.7%), no longer needed Headspace (73/570, 12.8%), or did not think Headspace was useful (46/570, 8.1%). Conclusions Results indicate that a person\u2019s mental health challenges, a perceived need for support, and familiarity with digital resources were associated with continued use of Headspace. While the most common reason for not using Headspace was that people were already using other resources, it is important to consider the continuity of mental health support beyond these free programs for those who may not have easy access to other resources. We discuss potential implications of our findings for offering and using apps such as Headspace as a mental health resource, along with factors that influence engagement with this app.",
+      "journal": "JMIR Formative Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     },
     {
-      "title": "Meditation induces shifts in neural oscillations, brain complexity, and critical dynamics: novel insights from MEG",
-      "url": "https://www.semanticscholar.org/paper/880b02bd082cb32fce6db0cc06dc0bcfda04a720",
+      "title": "The Effects of Loving-Kindness Meditation Guided by Short Video Apps on Policemen\u2019s Mindfulness, Public Service Motivation, Conflict Resolution Skills, and Communication Skills",
+      "url": "https://www.semanticscholar.org/paper/4d1663445d91a781bc4babd0c902b26d498731f6",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-19T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.835999",
-      "doi": "10.1093/nc/niaf047",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-07-30T13:24:03.104161",
+      "doi": "10.3390/bs15070909",
       "authors": [
         {
-          "name": "A. Pascarella",
-          "author_id": "2995877",
+          "name": "Chao Liu",
+          "author_id": "2218426632",
           "affiliation": null
         },
         {
-          "name": "Philipp Th\u00f6lke",
-          "author_id": "2153862554",
+          "name": "Li-Jen Lin",
+          "author_id": "2327263929",
           "affiliation": null
         },
         {
-          "name": "David Meunier",
-          "author_id": "2285800192",
+          "name": "Kang Zhang",
+          "author_id": "2347643059",
           "affiliation": null
         },
         {
-          "name": "Jordan O\u2019Byrne",
-          "author_id": "2264932305",
-          "affiliation": null
-        },
-        {
-          "name": "Tarek Lajnef",
-          "author_id": "2274531",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "Roberto Guidotti",
-          "author_id": "5277914",
-          "affiliation": null
-        },
-        {
-          "name": "V. Pizzella",
-          "author_id": "2260670310",
-          "affiliation": null
-        },
-        {
-          "name": "L. Marzetti",
-          "author_id": "2305137002",
-          "affiliation": null
-        },
-        {
-          "name": "Karim Jerbi",
-          "author_id": "2243936288",
+          "name": "Wen-Ko Chiou",
+          "author_id": "2244477915",
           "affiliation": null
         }
       ],
-      "abstract": "While the beneficial impacts of meditation are increasingly acknowledged, its underlying neural mechanisms remain poorly understood. We examined the electrophysiological brain signals of expert Buddhist monks during two established meditation methods known as Samatha and Vipassana, which employ focused attention and open monitoring technique. By combining source-space magnetoencephalography (MEG) with advanced signal processing and machine learning tools, we provide an unprecedented assessment of the role of brain oscillations, complexity and criticality in meditation. In addition to power spectral density (PSD), we computed long-range temporal correlations (LRTC), deviation from criticality coefficient (DCC), Lempel-Ziv complexity (LZC), 1/f slope, Higuchi fractal dimension (HFD), and spectral entropy. Our findings indicate increased levels of neural signal complexity during both meditation practices compared to the resting state, along-side widespread reductions in gamma-band LRTC and 1/f slope. Importantly, the DCC analysis revealed a separation between Samatha and Vipassana, suggesting that their distinct phenomenological properties are mediated by specific computational characteristics of their dynamic states. Furthermore, in contrast to most previous reports, we observed a decrease in oscillatory gamma power during meditation, a divergence we attribute to the correction of the power spectrum by the 1/f slope. We discuss how these results advance our comprehension of the neural processes associated with focused attention and open monitoring meditation practices.",
-      "journal": "bioRxiv",
+      "abstract": "Police officers work in high-stress environments that demand emotional resilience, interpersonal skills, and effective communication. Occupational stress can negatively impact their motivation, conflict resolution abilities, and professional effectiveness. Loving-Kindness Meditation (LKM), a mindfulness-based intervention focused on cultivating compassion and empathy, has shown promise in enhancing prosocial attitudes and emotional regulation. With the rise of short video platforms, digital interventions like video-guided LKM may offer accessible mental health support for law enforcement. This study examines the effects of short video app-guided LKM on police officers\u2019 mindfulness, public service motivation (PSM), conflict resolution skills (CRSs), and communication skills (CSSs). It aims to determine whether LKM can enhance these psychological and professional competencies. A randomized controlled trial (RCT) was conducted with 110 active-duty police officers from a metropolitan police department in China, with 92 completing the study. Participants were randomly assigned to either the LKM group (n = 46) or the waitlist control group (n = 46). The intervention consisted of a 6-week short video app-guided LKM program with daily 10 min meditation sessions. Pre- and post-intervention assessments were conducted using several validated scales: the Mindfulness Attention Awareness Scale (MAAS), the Public Service Motivation Scale (PSM), the Conflict Resolution Styles Inventory (CRSI), and the Communication Competence Scale (CCS). A 2 (Group: LKM vs. Control) \u00d7 2 (Time: Pre vs. Post) mixed-design MANOVA was conducted to analyze the effects. Statistical analyses revealed significant group-by-time interaction effects for PSM (F(4,177) = 21.793, p < 0.001, \u03b72 = 0.108), CRS (F(4,177) = 20.920, p < 0.001, \u03b72 = 0.104), and CSS (F(4,177) = 49.095, p < 0.001, \u03b72 = 0.214), indicating improvements in these areas for LKM participants. However, no significant improvement was observed for mindfulness (F(4,177) = 2.850, p = 0.930, \u03b72 = 0.016). Short video app-guided LKM improves public service motivation, conflict resolution skills, and communication skills among police officers but does not significantly enhance mindfulness. These findings suggest that brief, digitally delivered compassion-focused programs can be seamlessly incorporated into routine in-service training to strengthen officers\u2019 prosocial motivation, de-escalation competence, and public-facing communication, thereby fostering more constructive police\u2013community interactions.",
+      "journal": "Behavioral Science",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     },
     {
-      "title": "Neural correlates of metacontrol persistence and flexibility induced by creativity and meditation.",
-      "url": "https://www.semanticscholar.org/paper/d968b08ee4367dcd3c63b96f4134129bbad900e2",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.836013",
-      "doi": "10.1093/cercor/bhaf200",
-      "authors": [
-        {
-          "name": "Weitao Zhang",
-          "author_id": "2352036030",
-          "affiliation": null
-        },
-        {
-          "name": "Z. Sjoerds",
-          "author_id": "4279715",
-          "affiliation": null
-        },
-        {
-          "name": "R. Mourits",
-          "author_id": "2330174205",
-          "affiliation": null
-        },
-        {
-          "name": "Bernhard Hommel",
-          "author_id": "2253520464",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The neural mechanisms underlying the cognitive metacontrol states of persistence and flexibility are not yet fully understood but are thought to be modulated by frontal and striatal dopamine, respectively. In this study, we attempted to induce persistence and flexibility states by having participants engage in 2 creativity tasks (remote associates task and alternative uses task) and 2 meditation techniques (focused-attention meditation and open-monitoring meditation), to study the neural correlates of these metacontrol states and test the metacontrol model of creativity (MCC). Results show that brain areas known to be modulated by both frontal and striatal dopamine were activated in conditions that are thought to call for persistence, particularly the prefrontal cortex, anterior cingulate cortex, and basal ganglia, indicating goal-related selective attention and top-down control. In contrast, conditions that call for flexibility showed brain activation in areas of the default mode network, suggesting reduced top-down control. This pattern was much clearer for the creativity tasks than meditation. Notably, we did not find significant effects when contrasting the 2 meditation techniques and when looking at brain activation overlap between meditation and creativity at the whole-brain level. Finally, the examination of the MCC provided partial supporting evidence for the model, but its prediction for the left inferior frontal gyrus showed the exact opposite result, which calls for clarification in future research.",
-      "journal": "Cerebral Cortex",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Mindfulness meditation can improve both focal and non-focal prospective memory performance",
-      "url": "https://www.semanticscholar.org/paper/b7bb57dda908738c3e02755e79063c806dd98c0e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-04T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.836020",
-      "doi": "10.1080/09658211.2025.2458300",
-      "authors": [
-        {
-          "name": "Tongyang Nie",
-          "author_id": "2343814311",
-          "affiliation": null
-        },
-        {
-          "name": "Minghui Wang",
-          "author_id": "2108669420",
-          "affiliation": null
-        },
-        {
-          "name": "Yunfei Guo",
-          "author_id": "2124923166",
-          "affiliation": null
-        }
-      ],
-      "abstract": "ABSTRACT Prospective memory (PM) is the ability to remember a delayed intention to perform in a specific future situation. According to the extent to which PM cues overlap with ongoing task processing, PM can be divided into focal PM and non-focal PM. Mindfulness meditation includes focused attention (FA) meditation and open monitoring (OM) meditation. The present study was conducted with 81 participants, using a 3 (group: FA, OM, control group)\u2009\u00d7\u20092 (focality: focal, non-focal) design to investigate the effects of FA meditation and OM meditation on PM with focal and non-focal cues. The results showed that there was no difference in the facilitative effects of FA and OM on PM with focal and non-focal cues. Meanwhile, both types of mindfulness meditation improved PM performance by enhancing cue monitoring. The results of this study confirmed the views of preparatory attention processing and memory processing theory. This study has been registered and the registration number is ChiCTR2400094091.",
-      "journal": "Memory",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "The mind\u2019s abyss: Exploring the adverse effects of distinct forms of meditation",
-      "url": "https://www.semanticscholar.org/paper/1d32aa14e08fe835b2e962f4fbac7f8aaac50f3b",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-14T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.836027",
-      "doi": "10.20935/mhealthwellb7666",
-      "authors": [
-        {
-          "name": "Bence Szaszk\u00f3",
-          "author_id": "2191059304",
-          "affiliation": null
-        },
-        {
-          "name": "Ulrich S. Tran",
-          "author_id": "2291284951",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Meditation, traditionally seen as a path to spiritual enlightenment, is commonly used in therapeutic contexts for its mental health benefits, such as reducing stress, anxiety, and depression. However, alongside these benefits, practitioners of diverse forms of meditation have repeatedly been reporting adverse effects (AEs) of meditation. While most of these AEs are transient, some of them are significant enough to warrant clinical attention. This review synthesizes the existing literature on AEs associated with three forms of meditation: focused attention (FA), open monitoring (OM), and loving\u2013kindness/compassion (LK/C) meditation, linking AEs with their neurological underpinnings. Potential AEs range from heightened psychiatric symptoms due to increased interoceptive/exteroceptive awareness over intensified awareness of suffering\u2014with the insular cortex playing a major role\u2014to ego dissolution (accompanied by the deactivation of the default mode network) and subsequent depersonalization and derealization. While changes in interoception/exteroception and awareness of suffering are most common in OM and LK/C meditation (even though most AEs reported stem from FA meditation), AEs related to ego dissolution are common in all three forms investigated here. The prevalence of AEs tends to increase with meditation experience; however, experienced meditators also tend to exhibit better emotional and cognitive regulation strategies on average (as is shown by increased regulatory ability in the prefrontal cortex) and show more adherence to the core mindfulness principles of acceptance and nonreactivity. Guidance and individualized approaches might be needed when introducing meditation to novices, especially in the case of vulnerable populations.",
-      "journal": "Academia Mental Health and Well-Being",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "A STUDY TO EVALUATE THE EFFECTIVENESS OF MEDITATION TO REDUCE THE LEVEL OF BURNOUT SYNDROME AMONG BANK EMPLOYEES OF THE CITY.",
-      "url": "https://www.semanticscholar.org/paper/e81932f678579c9f13350db21764343c32d08a3e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.836040",
-      "doi": "10.36106/ijsr/9510938",
-      "authors": [
-        {
-          "name": "Popat Rathod",
-          "author_id": "2341628068",
-          "affiliation": null
-        },
-        {
-          "name": "Kanwaljeet Kaur",
-          "author_id": "2294264780",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Meditation can be de\uf001ned as a set of techniques intended to encourage heightened awareness and focused attention. Meditation is also a\nconsciousness-changing technique that has been shown to have a wide number of bene\uf001ts on psychological well-being. A study to evaluate the\neffectiveness of meditation to reduce the level of burnout syndrome among bank employees of the city. A quasi-experimental Pretest post-test\ncontrol group design was adopted for the present study. Researcher used non-probability purposive sampling technique and pre-experimental of\nbank employees. The subjects were 120 bank employees in i.e. 60 experimental group and in 60 control group. The study \uf001ndings revealed that\npost-test Pre-test mean was 32.38 and SD 5.41, post-test-mean was 12.41 and SD 3.18 and the calculated pre-test and post-test t-value was 27.37\nand p value 0.047 was found to the statistically signi\uf001cant at p< 0.05. the study concludes that after the administration of the meditation programme\nsigni\uf001cant difference was found between pre-test scop and the post-test score level of burnout syndrome among bank employees.",
-      "journal": "International journal of scientific research",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Differential Effects of Meditation States and Traits on the Neural Mechanisms of Pain Processing",
-      "url": "https://www.semanticscholar.org/paper/f5cd7140b90d7af0b27aeeff11cb3fe361688728",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-21T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.836049",
-      "doi": "10.1101/2025.05.20.655049",
-      "authors": [
-        {
-          "name": "V. Kolev",
-          "author_id": "1944869",
-          "affiliation": null
-        },
-        {
-          "name": "Peter Malinowski",
-          "author_id": "2352440261",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "V. Nicolardi",
-          "author_id": "2910211",
-          "affiliation": null
-        },
-        {
-          "name": "Luca Simione",
-          "author_id": "2421672",
-          "affiliation": null
-        },
-        {
-          "name": "S. M. Aglioti",
-          "author_id": "2300380809",
-          "affiliation": null
-        },
-        {
-          "name": "J. Yordanova",
-          "author_id": "2261594706",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Objectives The main objective of the present study was to explore the effects of different types of meditation on the neurophysiologic mechanisms of pain processing. Methods EEG responses to electric median nerve stimulation were recorded in short-term and long-term meditators (STM, LTM) during rest and three forms of meditation engaging attentional and affective regulation in different ways: focused attention meditation (FAM), open monitoring meditation (OMM) and loving kindness meditation (LKM). EEG responses were analysed in the time- and time-frequency domains to compute local components, and temporal and spatial synchronizations of multi-spectral pain-related oscillations (PROs) in order to characterize bottom-up processes, pro-active modulation of cortical excitability, cognitive/affective appraisal, and the connectivity of performance monitoring (fronto-medial) and attentional (fronto-parietal) networks during pain processing. Results STM manifested a significant decrease in the connectedness of the fronto-medial theta-alpha network and a significant reduction of the P3b during LKM. In contrast, changes in LTM were observed during FAM and OMM. They were characterized by pre-stimulus alpha increase at somatosensory areas, and modulations of fronto-medial and fronto-parietal theta-alpha synchronizations. Conclusions Different meditation states do not influence bottom-up sensory pain processing. However, they significantly alter cognitive/affective pain mechanisms in state- and trait-dependent ways. In novice meditators, a positive emotional disposition during meditation can suppress the distribution and cognitive/affective appraisal of nociceptive signals. In expert meditators, effects of meditation states on pain processing are critically guided by advanced control of internal attention leading to fine-tuned involvement and functional segregation of cognitive control and attention networks.",
-      "journal": "bioRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Neuroplasticity of directed connectivity in long-term meditation: Evidence from EEG Granger causality",
-      "url": "https://www.semanticscholar.org/paper/e45a787880dcb38e899e22d5b11c8f58caa92063",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-07T00:00:00",
-      "date_fetched": "2026-07-29T13:42:43.836056",
-      "doi": "10.1101/2025.07.01.662528",
-      "authors": [
-        {
-          "name": "V. Kolev",
-          "author_id": "1944869",
-          "affiliation": null
-        },
-        {
-          "name": "Kosio Beshkov",
-          "author_id": "2103732422",
-          "affiliation": null
-        },
-        {
-          "name": "Peter Malinowski",
-          "author_id": "2352440261",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "J. Yordanova",
-          "author_id": "2261594706",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "bioRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Pilot fMRI-EEG study of tantric meditation in Tibetan monks",
-      "url": "https://www.semanticscholar.org/paper/975b0a5f2e668ff853d6a83c32e51dfe151b9ea8",
+      "title": "Remodeling the Epigenome Through Meditation: Effects on Brain, Body, and Well-being.",
+      "url": "https://www.semanticscholar.org/paper/38cf5c8a014e9f0e500a58ee8ae77da62c6d558f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": null,
-      "date_fetched": "2026-07-29T13:42:43.836060",
-      "doi": "10.7868/s3034531625030039",
+      "date_fetched": "2026-07-30T13:24:03.104179",
+      "doi": "10.1007/978-3-031-75980-2_7",
       "authors": [
         {
-          "name": "V. Abramova",
-          "author_id": "2193350769",
+          "name": "Sabrina Venditti",
+          "author_id": "2261709753",
           "affiliation": null
         }
       ],
-      "abstract": "This pilot study aimed to investigate brain functional activity and connectivity using functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) in Tibetan monks during meditation. The meditative practice was based on Buddhist techniques requiring focused attention and the \u201cdissolution\u201d of mental imagery. Three monks participated in the experiment, two of whom underwent two meditation sessions. Data analysis revealed changes in the connectivity of the default mode network, salience network, and sensorimotor network during meditation compared to the resting state. An increase in alpha rhythm and a decrease in delta rhythm (EEG) were observed. Joint fMRI-EEG analysis identified a relationship between brain activity and the dynamics of alpha and delta rhythms. The results indicate that meditation significantly influences brain activity and may serve as a neurotherapeutic technique to enhance cognitive and psycho-emotional functions.",
-      "journal": "\u0416\u0443\u0440\u043d\u0430\u043b \u0432\u044b\u0441\u0448\u0435\u0439 \u043d\u0435\u0440\u0432\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438\u043c. \u0418.\u041f. \u041f\u0430\u0432\u043b\u043e\u0432\u0430 / I.P. Pavlov Journal of Higher Nervous Activity",
+      "abstract": null,
+      "journal": "Sub-cellular biochemistry",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     },
     {
-      "title": "\"I felt as though my life had come to an end\": lived experiences of adolescents and young adults with cancer in Nepal.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517931/",
+      "title": "The Impact of Telehealth Use Experience on Recruitment of Underserved Populations Into a Telehealth-Delivered Mindfulness-Based Trial for Patients With Chronic Low Back Pain: Cross-Sectional Survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525540/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-28T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784071",
-      "doi": "10.1007/s00520-026-11033-x",
+      "date_published": "2026-07-29T00:00:00",
+      "date_fetched": "2026-07-30T13:24:41.185051",
+      "doi": "10.2196/82093",
       "authors": [
         {
-          "name": "Punam Kc",
+          "name": "Marva V Foster",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Simit Sapkota",
+          "name": "Phuong Tra Nguyen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Subhas Pandit",
+          "name": "Janice Weinberg",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nabin Pathak",
+          "name": "Keturah R Faurot",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Aashma Dahal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Krishma Joshi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sunil Shrestha",
+          "name": "Natalia Morone",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Adolescents and young adults (AYAs) diagnosed with cancer face distinctive physical, emotional, and social challenges during a critical developmental period marked by identity formation, pursuit of education, and establishment of social roles. In Nepal, the absence of age-specific oncology services and structured psychosocial support may further compound these experiences; however, qualitative evidence describing the lived experiences of AYAs with cancer in low- and middle-income countries (LMICs) remains notably scarce. OBJECTIVE: This study aimed to explore the lived experiences of AYAs diagnosed with cancer in Nepal, focusing on psychological and social challenges, coping strategies, support systems, and healthcare experiences. METHODS: A qualitative exploratory design was employed. In-depth, semi-structured interviews were conducted with 14 AYAs aged 15 to 39\u00a0years receiving cancer care at a tertiary cancer center in Kathmandu, Nepal. Participants were recruited using purposive sampling to capture diverse experiences across age, gender, cancer type, and treatment stage. Interviews were audio-recorded, transcribed verbatim, and analyzed using reflexive thematic analysis following Braun and Clarke's (2006) six-phase approach. RESULTS: Thematic analysis revealed six interrelated themes: (1) physical and treatment-related challenges affecting daily functioning, (2) emotional and psychological distress characterized by fear, anxiety, and uncertainty, (3) social disruption and changes in identity, including reduced peer interaction and educational or occupational interruption, (4) centrality of family support alongside concerns about burdening relatives, (5) coping strategies such as self-counseling, hope, acceptance, meditation, and spiritual practices, and (6) generally positive healthcare experiences tempered by a desire for greater emotional engagement from providers and inadequate AYA-specific services. Participants navigated cancer with limited formal psychosocial support, relying predominantly on personal and familial resources. CONCLUSION: AYAs with cancer in Nepal experience interconnected physical, emotional, and social challenges that extend well beyond medical treatment. While family support and personal coping strategies play a vital role in adjustment, significant gaps in psychosocial and age-appropriate supportive care remain evident. Integrating routine psychological screening, strengthening patient-centered communication, and developing AYA-responsive care models may improve care experiences and psychosocial well-being for this underserved population.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "abstract": "BACKGROUND: Mindfulness-based stress reduction (MBSR) is recommended as a noninvasive, evidence-based treatment for chronic low back pain (CLBP); however, access and uptake are often constrained among medically underserved populations. Telehealth-delivered MBSR may scale access, yet little is known about the characteristics of underserved patients who have experience using telehealth and are willing to enroll in pragmatic trials evaluating MBSR. OBJECTIVE: This study examined individual- and county-level social vulnerability characteristics associated with telehealth use experience among people living with CLBP who enrolled in OPTIMUM (Optimizing Pain Treatment in Medical Settings Using Mindfulness), a pragmatic randomized clinical trial of telehealth-delivered MBSR. METHODS: We conducted a cross-sectional analysis of baseline measures from the OPTIMUM trial, focusing on participants from a safety-net health institution and a federally qualified health center. The primary outcome was telehealth use experience (having had a prior telehealth visit at or before enrollment). Guided by Andersen's Behavioral Model of Health Services Use, we evaluated predisposing, enabling, and need factors. Prespecified measures included the following: demographics; employment and education; internet access and comfort using Zoom; neighborhood indices (Area Deprivation Index [ADI], Social Vulnerability Index [SVI]); rurality; back-pain duration; and validated patient-reported outcomes. Multivariable logistic regression was used to estimate adjusted odds ratios (AORs) and 95% CIs. RESULTS: Of 244 enrolled participants (mean age 50.6, SD 13.5 y; n=162, 66.7% female; n=124, 50.8% non-Hispanic Black), 174 (71.3%) reported previous telehealth use. Predisposing factors associated with lower telehealth use included race or ethnicity (non-Hispanic Black: AOR 0.38, 95% CI 0.2-0.8; Hispanic: AOR 0.21, 95% CI 0.06-0.7) and part-time employment (AOR 0.33, 95% CI 0.1-0.9) vs full-time employment, whereas educational attainment above or below a high school degree was associated with higher odds of telehealth use (AORs 2.7-3.2). Enabling factors showed that lower comfort with Zoom was associated with lower telehealth use (AOR 0.5, 95% CI 0.2-0.9), whereas home internet access was common and not independently significant in adjusted models. Neighborhood socioeconomic disadvantages, social vulnerability, and rurality did not demonstrate significant associations. Needs factors indicated that longer CLBP duration was positively associated with telehealth experience (>5 y: AOR 3.5, 95% CI 1.4-8.8). Other patient-reported outcomes, comorbidity burden, and surgical history were not significantly associated. CONCLUSIONS: In a safety-net and federally qualified health center context, prior telehealth experience was common among patients with CLBP willing to enroll in a telehealth-delivered MBSR trial. Although certain predisposing factors (race or ethnicity, employment status) were associated with lower odds of telehealth experience, these factors did not prevent trial enrollment. Targeted outreach to improve digital comfort and inclusive engagement strategies may further reduce disparities and support broader implementation of telehealth for CLBP.",
+      "journal": "JMIR mHealth and uHealth",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -1050,42 +335,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Effect of Yoga on Biomarker Modulation and Infertility in Polyendocrine Metabolic Ovarian Syndrome: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42521254/",
+      "title": "Participants' experiences of a co-adapted group-based intervention to reduce diabetes distress in people with type 2 diabetes attending municipal rehabilitation services.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528042/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-28T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784103",
-      "doi": "10.17761/2026-D-25-00067",
+      "date_published": "2026-07-29T00:00:00",
+      "date_fetched": "2026-07-30T13:24:51.628237",
+      "doi": "10.1111/dme.70440",
       "authors": [
         {
-          "name": "Deepika Kumari",
+          "name": "M Espenhein",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Reeta Mahey",
+          "name": "R A S Pals",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Neena Malhotra",
+          "name": "B Cleal",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tushar Sehgal",
+          "name": "H N Gr\u00f8nb\u00e6k",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rima Dada",
+          "name": "M Bejerholm",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "C Gl\u00fcmer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M Due-Christensen",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome, is a common complex endocrinopathy affecting the reproductive, metabolic, and psychosocial health of females of reproductive age. A 26-year-old woman with PMOS and infertility (7-year duration) underwent multiple cycles of ovulation induction, intrauterine insemination, and in vitro fertilization. Following a 12-week structured yoga program (postures, breathwork, meditation), hormonal and metabolic parameters normalized and oxidative stress and inflammation decreased significantly. We saw significant improvement in mitochondrial integrity, reduced severity of comorbid depression, and improved quality of life. On follow-up, the participant was found to have conceived within 20 weeks of practice and delivered a healthy baby. This case highlights the role of yoga in the management of PMOS, adding evidence of yoga's benefit at the cellular and molecular level and clinical improvement. Regular yoga practice has the potential to serve as a holistic, nonpharmacological approach for managing PMOS and associated comorbidities.",
-      "journal": "International journal of yoga therapy",
+      "abstract": "AIMS: Diabetes distress affects approximately 30-40% of people with type 2 diabetes, yet interventions to address this issue are scarce. This study explored participants' experiences of a co-adapted, group-based intervention aimed at reducing diabetes distress in adults with type 2 diabetes attending municipal rehabilitation services. METHODS: Trained health professionals facilitated eight groups, consisting of six weekly sessions. The sessions included psychoeducation, mindfulness techniques and facilitated discussions using visual dialogue tools to address diabetes distress. Interviews were conducted with 19 participants to explore their experiences of the intervention. Data were analysed using systematic text condensation. RESULTS: Participants experienced several benefits from taking part in the intervention, including improved self-care, greater self-compassion regarding their diabetes and a reduction in worries and negative emotions about living with diabetes. These changes were closely linked to three key elements of the intervention: (1) strategies for managing diabetes distress, (2) supportive and engaged health professionals and (3) a safe peer environment. However, some participants reported challenges in their interactions with other participants due to age differences and varying levels of engagement. CONCLUSIONS: This study provides valuable insight into the experiences of people with type 2 diabetes and highlights key supportive aspects of an intervention to reduce diabetes distress. Further research is needed to assess the impact on clinical and psychosocial outcomes of participants.",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -1093,214 +388,249 @@
       "matched_keywords": []
     },
     {
-      "title": "Latent Patterns of Complementary and Integrative Health Therapy Utilization Among VHA Patients on Long-Term Opioid Therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42503189/",
+      "title": "EEG evidence for reproducible neural states during Buddhist Highest Yoga Tantra meditation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527416/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-07-25T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784273",
-      "doi": "10.1093/pm/pnag097",
+      "date_published": "2026-07-29T00:00:00",
+      "date_fetched": "2026-07-30T13:24:51.628659",
+      "doi": "10.1038/s41598-026-45893-4",
       "authors": [
         {
-          "name": "Maryam Kazemitabar",
+          "name": "E V Mikhaylets",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "William C Becker",
+          "name": "A \u041c Razorenova",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Steven B Zeliadt",
+          "name": "V L Chernyshev",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Robert D Kerns",
+          "name": "N Norbu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jamie H Douglas",
+          "name": "L Sangpo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Erica A Abel",
+          "name": "Y S Zhironkina",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Haseena Rajeevan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alicia A Heapy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anne C Black",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Complementary and integrative health (CIH) therapies offer safe and effective alternatives for pain management, and use of these therapies by Veteran Health Administration (VHA) patients with pain warrants examination. OBJECTIVE: This study examines the patterns of CIH therapy utilization among VHA patients in a Long-Term Opioid Therapy (LTOT) cohort, identifying distinct subgroups of patients based on their CIH therapy use patterns and exploring how demographic and clinical characteristics are associated with membership in each subgroup. METHODS: From a national retrospective cohort of VHA patients with a documented history of LTOT between 2017 and 2021, we analyzed electronic health record data of 17,079 VHA patients who used any CIH therapy during a 12-month period (October 2021 to September 2022). We assessed patterns of any use of nine CIH therapies through latent class regression analysis and assessed covariates of latent class membership. RESULTS: A four-class solution was identified. The largest class was Chiropractic Care (32.3%), followed by Acupuncture (29.7%), Mind-Body therapies (28.0%), and Manual Therapy (10.0%). The chiropractic care class comprised those who utilized chiropractic care with some acupuncture co-use; Acupuncture class comprised patients using almost exclusively acupuncture; Mind-Body therapies class was defined by predominant use of meditation, yoga, and tai chi; and Manual Therapy class comprised patients who used massage, acupuncture, and chiropractic care. Significant demographic and clinical differences were observed between classes. CONCLUSION: These findings highlight distinct CIH therapy utilization patterns among VHA patients on LTOT associated with patients' demographic and clinical features. Quantifying patterns of CIH therapy use provides an effective framework for comparing pain and opioid-related outcomes across different groups. These findings suggest the need for investigating pathways to CIH that result in differences in use patterns.",
-      "journal": "Pain medicine (Malden, Mass.)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Do Mind-Body Practices Moderate the Link Between Childhood Abuse and Spiritual Struggle? Results from the Study on Stress, Spirituality and Health.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517471/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-28T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784390",
-      "doi": "10.1080/10538712.2026.2706489",
-      "authors": [
-        {
-          "name": "Camille L Garnsey",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mariel Emrich",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Katherine E Gnall",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Crystal L Park",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Blake Victor Kent",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alka M Kanaya",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heather Eliassen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Martha L Daviglus",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alexandra E Shields",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Childhood abuse is associated with adverse psychological outcomes, including spiritual struggle. As such, it is important to identify factors that modify the link between childhood abuse and spiritual struggle. The aim of this study is to test whether regular yoga or meditation practice buffers the impact of childhood abuse (sexual, physical, and emotional) on spiritual struggle in adulthood across three racially/ethnically distinct cohorts sampled in the Study on Stress, Spirituality, and Health (SSSH). This analysis includes 827 South Asian participants recruited to the SSSH from the Mediators of Atherosclerosis in South Asians Living in America Study, 914 Hispanic/Latino participants recruited from the Hispanic Community Health Study/Study of Latinos, and 3683 White participants recruited to the SSSH from the Nurses' Health Study II. Generalized linear regressions were used to test whether regular engagement in yoga or meditation moderated associations between childhood abuse and spiritual struggle in adulthood in each of the three racial/ethnic groups. Regular yoga practice significantly moderated associations between emotional abuse and spiritual struggle in Hispanic/Latino participants, and physical abuse and spiritual struggle in White participants (",
-      "journal": "Journal of child sexual abuse",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Sequential influences of emotion regulation and rumination in trait mindfulness-depression relationships.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42521093/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-28T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784421",
-      "doi": "10.1016/j.jad.2026.122331",
-      "authors": [
-        {
-          "name": "Gayathri Batchalli Maruthy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lyndahl Himes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicholas A Hubbard",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeffrey S Spence",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Bart Rypma",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Depression is a common mental health disorder affecting millions worldwide. Pharmacotherapies are partially effective, but numerous side effects often make them unfavorable. Recent investigations show that mindfulness meditation effectively mitigates depression-symptoms but the underlying mechanisms remain elusive. Here, we examined the sequential influence of emotion regulation (ER) and rumination tendencies to explore trait mindfulness (TM) effects on depression-symptoms. 1000 undergraduates provided ratings on their depression-symptoms, mindfulness-experience, TM, ER strategy-use and rumination tendencies. Structural equation modeling was used to examine sequential influences of ER strategies and rumination tendencies on TM-depression relationships and how these mechanisms were moderated by meditation-experience. All TM facets showed sequential influences on depression-symptoms through increases in reappraisal and decreases in brooding rumination. Describe, Act with Aware and Nonjudge facets showed additional pathways including reductions in suppression, brooding-rumination and reflective-pondering. The Nonreact facet showed significant influence of meditation-experience on the mediation pathway through suppression. For individuals without meditation-experience there were positive associations between nonreactivity and brooding-rumination, reflective-pondering and depression-symptoms via suppression. These associations were absent in meditation-experienced individuals. Findings suggest the hypothesis that sequential influences of ER strategies and ruminative processes underlie TM-depression relationships and might have implications for how TM facets influence ER and rumination to promote or mitigate depression.",
-      "journal": "Journal of affective disorders",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "I'm Still Standing: Highs, Lows, and Lessons Learned From M\u00e9ni\u00e8re's Disease.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42509178/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-27T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784509",
-      "doi": "10.1370/afm.250848",
-      "authors": [
-        {
-          "name": "Samuel Steven Cross",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "M\u00e9ni\u00e8re's disease, a chronic disorder of the inner ear, has brought one physician a great deal of both suffering and insight. A variety of treatment options, including dietary changes and medications, have failed to help. However, the physician has found relief from a number of unexpected sources, including meditation, his social support network, and even his six-year-old child. The lessons he has learned have made him a more knowledgeable and empathetic physician.Abstract available in \u0639\u0631\u0628\u064a (Arabic); Deutsch (German); Espa\u00f1ol (Spanish); Francais (French); \u0939\u093f\u0928\u094d\u0926\u0940 (Hindi) Indonesia (Indonesian); (Chinese); (Japanese), Portugues (Portuguese).",
-      "journal": "Annals of family medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Consciousness research is having an AI moment. Will the hype help the field?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42521724/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-28T00:00:00",
-      "date_fetched": "2026-07-29T13:43:25.784939",
-      "doi": "10.1038/d41586-026-02300-2",
-      "authors": [
-        {
-          "name": "Mariana Lenharo",
+          "name": "A Y Kaplan",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Nature",
+      "journal": "Scientific reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Brief Mindfulness Meditation Videos: Cultural Sensitivity Review by Chinese American Adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529315/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-27T00:00:00",
+      "date_fetched": "2026-07-30T13:24:51.628703",
+      "doi": "10.1037/aap0000428",
+      "authors": [
+        {
+          "name": "Shengli Dong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chieh Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Huijun Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Parishi Gandhi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ana-Gabriela Osorio",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elias Latimer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maya Antes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ivana Perez",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Chinese American adolescents (CAAs) experience significant mental health challenges, including high rates of race and ethnicity-related stress, anxiety, depression, and suicide. Given the potential of mindfulness meditation to improve adolescent mental health, this preliminary study examines the cultural sensitivity of four brief mindfulness meditation videos through the ecological cultural validity framework. We recruited 20 CAA cultural reviewers, aged 14-18, who evaluated these videos based on language, audio, and visual components. Quantitative results indicated strong endorsement of cultural and language appropriateness, but varied ratings for the narrator's voice and video aesthetics. Qualitative analyses from this study revealed eight key themes: calming, clarity, focus, cultural significance, design elements, universal applicability, age appropriateness, and practicality. The \"calming\" effect was particularly valued across all domains, while cultural relevance and design elements were noted as crucial factors affecting engagement. Age inappropriateness and difficulty understanding accents were cited as limitations in the video. This preliminary cultural sensitivity review highlights the importance of cultural adaptations to mindfulness resources for CAAs, enabling them to maximize engagement and efficacy. Future research should expand this exploration by including diverse adolescent demographics and integrating reviewers' feedback into mindfulness practice development to enhance cultural and developmental relevance. This study contributes insights into designing accessible and culturally appropriate mental health interventions for minority adolescents.",
+      "journal": "Asian American journal of psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Technology Access, Pattern of Use, Interest in Digital Health, and Barriers to Tobacco Treatment Among HIV-Infected Smokers From Under-Resourced Communities: A Cross-Sectional Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523868/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-07-30T13:24:51.629197",
+      "doi": "10.1177/1179173X261473918",
+      "authors": [
+        {
+          "name": "Olusanya J Oluwole",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tulay Koru-Sengul",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Deborah L Jones",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria L Alcaide",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David J Lee",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Adam Carrico",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Taghrid Asfar",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Cigarette smoking remains a major public health concern among people living with HIV (PLWH), particularly those from under-resourced communities. Digital health may improve access to cessation support, yet its potential among this population remains understudied. OBJECTIVE: This study explored barriers to quitting smoking and evaluated the potential of digital health for tobacco treatment among PWLH smokers. METHODS: We surveyed 205 PLWH who smoked cigarettes (45.4% female; mean age 51.2 years; response rate 92.3%) to examine smoking behaviors, cessation barriers, technology access, use pattern, and interest in digital health for tobacco treatment. Multivariable logistic regression models were employed to assess how demographics and smoking behaviors influence interest in using digital health (phone calls, text messages, smartphone applications, or combinations) for tobacco treatment. RESULTS: Participants were primarily racial and ethnic minorities, including 55.1% non-Hispanic Black and 34.2% Hispanic individuals, with 74.4% earning less than $10,000 annually. Most participants reported previous quit attempts (76.5%). Common barriers to quitting included difficulty managing cravings (45.4%), cost of treatment (28.8%), and limited access to care (25.9%), while depression (58.9%) and risky alcohol use (39.6%) were also prevalent. Access to technology was high: 91.7% owned a cell phone, 61.0% owned a smartphone, and 63.9% reported internet access. Among smartphone owners, 74.0% used mobile applications. Phone calls were the most preferred single digital health modality for tobacco treatment (51.7%), followed by text messaging (43.9%), smartphone applications (39.0%), and video conferencing (38.5%). Preferred intervention methods included mindfulness strategies (73.0%), nicotine replacement therapy (71.1%), and counseling (63-65%). Non-Hispanic Black and non-heterosexual participants showed significantly higher interest in digital health for tobacco treatment, with aOR 5.49 (1.44 - 20.90) and 6.02 (1.46 - 24.82), respectively. PRACTICE IMPLICATIONS: Despite barriers, PLWH smokers are interested in digital health for tobacco treatment. Incorporating digital tools could improve access and reduce disparities in this population.",
+      "journal": "Tobacco use insights",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Supporting recovery: Intersections of health, belonging, and help seeking after a campus mass casualty event.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525603/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-07-30T13:24:51.629282",
+      "doi": "10.1371/journal.pone.0353453",
+      "authors": [
+        {
+          "name": "Sharon Jalene",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jason A Ciccotelli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lauren Gatto",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christian Ison",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jaime Carbajal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andrew Hooyman",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mass casualty events (MCE), such as campus shootings, can severely impact the mental health of students, faculty, and staff. This study examined the psychological effects of an MCE at a minority-serving institution and explored how sense of belonging, cardiorespiratory fitness, and treatment preferences influenced recovery. To measure the impact of the MCE on mental health an anonymous survey was administered four to five months post-MCE to university students, faculty and staff. Within the survey, participants were asked to retrospectively report their depression (PHQ-9) and anxiety (GAD-7) symptoms as they recalled them two weeks prior to the MCE, and as they experienced them in the two weeks preceding survey completion. The survey also included current measures of sense of belonging (SBS), perceived discrimination (PEDQ), estimated cardiorespiratory fitness (eCRF), and intervention preference to cope with the impacts of the MCE. Participants reported significant perceived increases in PHQ-9 and GAD-7 scores from the pre-MCE recall to current time-periods. Increases in depression (PHQ-9 scores) from pre-MCE to recent recall were larger among respondents with lower pre-MCE anxiety (GAD-7 scores), higher perceived discrimination (PEDQ), and those currently receiving treatment for anxiety or depression; respondents not receiving treatment showed no significant change. Among students, lower belonging scores were associated with greater increases in depression. Neither belonging nor perceived discrimination were strongly linked to individual variables, indicating their multifactorial nature. Most participants reported a preference to learning about alternative interventions such as exercise or meditation over pursuing university counseling services.",
+      "journal": "PloS one",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Neural dynamics of mindfulness training: A longitudinal EEG network analysis of focused attention and open monitoring meditation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529651/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-07-30T13:24:51.629582",
+      "doi": "10.1162/NETN.a.555",
+      "authors": [
+        {
+          "name": "Yanli Lin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marne L White",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jihong Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Todd S Braver",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Neural oscillatory activity within the alpha and theta bands have long been considered putative markers of state mindfulness, yet understanding of their functional role has been limited by the challenges of linking objective brain indices with subjective experience. To address this gap, the current study applied longitudinal network analysis to a unique dataset from 16 novices who completed up to 24 laboratory training sessions of both focused attention (FA) and open monitoring (OM) meditation, during which both EEG and self-report measures of state mindfulness quality were collected. This approach enabled the parsimonious characterization of both cross-lagged temporal (across-session) and contemporaneous (within-session) influences of regional spectral power on state mindfulness. The analysis revealed distinguishable neurophenomenological network structures for each practice, providing data-driven support for their theoretical differentiation. These distinctions emerged alongside shared commonalities to both practices, including strong autoregressive effects for state mindfulness, consistent with training-related skill acquisition, and opposing regional influences of frontal versus posterior alpha power. Taken together, these findings challenge monolithic interpretations of meditation-related EEG activity, advancing a more nuanced neurophenomenological approach wherein the functional significance of neural activity is dynamically situated within the specific type and time course of training.",
+      "journal": "Network neuroscience (Cambridge, Mass.)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
