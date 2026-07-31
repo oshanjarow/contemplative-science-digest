@@ -1,33 +1,146 @@
 {
-  "generated_at": "2026-07-30T13:24:52.762315",
+  "generated_at": "2026-07-31T13:29:03.743770",
   "papers": [
     {
-      "title": "Attention and meditative development: A review and synthesis of long-term meditators and outlook for the study of advanced meditation",
-      "url": "https://www.semanticscholar.org/paper/dc5304e610254eb1af1544f8a650d7026230a6eb",
+      "title": "ZUNA1.1: A more flexible EEG foundation model for Denoising and Super-resolution",
+      "url": "https://www.semanticscholar.org/paper/1b6f1a575a82efa1236e17d17f0d1453c3e919c5",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-01T00:00:00",
-      "date_fetched": "2026-07-30T13:24:03.104079",
-      "doi": "10.1016/j.neuroimage.2025.121602",
+      "date_published": "2026-07-29T00:00:00",
+      "date_fetched": "2026-07-31T13:28:06.287621",
+      "doi": null,
       "authors": [
         {
-          "name": "S. Ehmann",
-          "author_id": "2315464718",
+          "name": "Christopher Warner",
+          "author_id": "145265516",
           "affiliation": null
         },
         {
-          "name": "Idil Sezer",
-          "author_id": "1866766801",
+          "name": "Jonas Mago",
+          "author_id": "2197573141",
           "affiliation": null
         },
         {
-          "name": "Arielle S. Keller",
-          "author_id": "2393563420",
+          "name": "J. Huml",
+          "author_id": "2086481205",
           "affiliation": null
         },
         {
-          "name": "I. Treves",
-          "author_id": "2258723763",
+          "name": "Beren Millidge",
+          "author_id": "150045277",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We introduce ZUNA1.1, a 380M-parameter diffusion autoencoder for flexible EEG signal reconstruction. ZUNA1.1 is capable of reconstructing variable length sequences of up to 30s, with an arbitrary number of EEG channels at arbitrary scalp locations, and can reconstruct arbitrary temporal intervals within channels in addition to reconstructing entire channels. We demonstrate that ZUNA1.1 performs at least on par with our earlier ZUNA1 model, while being far more flexible and capable of handling a wide range of reconstruction tasks. ZUNA1.1 continues to substantially outperform standard EEG denoising and reconstruction methods such as spherical spline interpolation, which is ubiquitously deployed in the MNE package. The ZUNA1.1 model is released open source under the permissive Apache 2.0 license.",
+      "journal": "",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Meditative absorption shifts brain dynamics toward criticality",
+      "url": "https://www.semanticscholar.org/paper/02fcf03c54a3cdf126ecf6e8ce50bb9c7c5f297c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-26T00:00:00",
+      "date_fetched": "2026-07-31T13:28:31.959182",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jonas Mago",
+          "author_id": "2197573141",
+          "affiliation": null
+        },
+        {
+          "name": "Josh Brahinsky",
+          "author_id": "2334544889",
+          "affiliation": null
+        },
+        {
+          "name": "Mark Miller",
+          "author_id": "2334570883",
+          "affiliation": null
+        },
+        {
+          "name": "C. Maschke",
+          "author_id": "2008738115",
+          "affiliation": null
+        },
+        {
+          "name": "H. Slagter",
+          "author_id": "1743265",
+          "affiliation": null
+        },
+        {
+          "name": "Shaila Catherine",
+          "author_id": "2334545320",
+          "affiliation": null
+        },
+        {
+          "name": "R. Laukkonen",
+          "author_id": "8103511",
+          "affiliation": null
+        },
+        {
+          "name": "B. Cahn",
+          "author_id": "2351709950",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        },
+        {
+          "name": "Wangmo Dixey",
+          "author_id": "2394308728",
+          "affiliation": null
+        },
+        {
+          "name": "Richard Dixey",
+          "author_id": "2289119174",
+          "affiliation": null
+        },
+        {
+          "name": "S. Rej",
+          "author_id": "5304780",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Lifshitz",
+          "author_id": "2334546490",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Criticality describes a regime between order and chaos that supports flexible yet stable information processing. Here we examine whether neural dynamics can be volitionally shifted toward criticality through the self-regulation of attention. We examined ten experienced practitioners of meditation during a 10-day retreat, comparing refined states of meditative absorption, called the jhanas, to regular mindfulness of breathing. We collected electroencephalography (EEG) and physiological data during these practices and quantified the signal's dynamical properties using Lempel-Ziv complexity, signal entropy, chaoticity and long-range temporal correlations. In addition, we estimated perturbational sensitivity using a global auditory oddball mismatch negativity (MMN) during meditation. Relative to mindfulness, jhana was associated with pronounced self-reported sensory fading, slower respiration, higher neural signal diversity across multiple measures, reduced chaoticity, and enhanced MMN amplitude over frontocentral sites. Spectral analyses showed a flatter aperiodic one over f component and a frequency-specific reorganization of long-range temporal correlations. Together, increased diversity with reduced chaoticity and heightened deviance detection indicate a shift toward a metastable, near-critical regime during jhana. We propose an overlap of the phenomenology of jhana with minimal phenomenal experiences in terms of progressive attenuation of sensory content with preserved tonic alertness. Accordingly, our findings suggest that criticality is a candidate neurophysiological marker of the absorptive, minimal-content dimension of the minimal phenomenal experience.",
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation.",
+      "url": "https://www.semanticscholar.org/paper/99f03f48f831dc9d3c6785ee714d1588ce5692e9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-07-31T13:28:31.959252",
+      "doi": "10.1093/cercor/bhaf079",
+      "authors": [
+        {
+          "name": "Umay Demir",
+          "author_id": "2354992223",
+          "affiliation": null
+        },
+        {
+          "name": "W. F. Yang",
+          "author_id": "2300816450",
           "affiliation": null
         },
         {
@@ -36,462 +149,1242 @@
           "affiliation": null
         }
       ],
-      "abstract": "Attention regulation is a core mechanism of mindfulness meditation and has been proposed to underlie many of its health-related benefits. Here, we review and synthesize behavioral findings on attentional outcomes in long-term meditators, integrating neurocognitive evidence within a meditative development framework. Key findings indicate trait-level improvements across attentional functions-executive attention, sustained attention, hierarchical and general orienting-and attentional phenomena, such as the attentional blink. Preliminary evidence also identifies trait enhancements in response inhibition, alertness, and reduced mind-wandering. Interaction effects were found for response inhibition, sustained attention, reduced mind-wandering, and alertness, with alertness benefiting most strongly from long-term and intensive acute practice. As expected, attention-based outperformed non-attention-based techniques, while observe-and-release techniques facilitated attentional orienting and detection of closely spaced or unexpected stimuli during sustained attention tasks. These findings suggest that long-term meditation may enhance attention regulation in accordance with training specificity principles; the cognitive functions most directly targeted are the most likely to improve. Nevertheless, broader findings indicate that meditative development may depend on the balanced cultivation of multiple faculties over time, highlighting the non-linear and multidimensional nature of long-term meditative change. Consistent with traditional goals of cultivating mental faculties, the present findings may reflect attentional adaptations that support the development of advanced meditative states. Despite considerable consistency in empirical results, methodological limitations-including heterogeneous study designs and insufficient differentiation between states and traits-complicate interpretations. Future research should prioritize operationalizing and measuring contemplative constructs within integrative frameworks and using rigorous factorial designs to clarify state-trait interactions and meditation predictors.",
-      "journal": "NeuroImage",
+      "abstract": "There is growing scientific interest in advanced meditation, and particularly the Theravada Buddhist advanced concentrative absorption meditation known as jhana (ACAM-J). ACAM-J includes a series of eight consecutive meditative states, which are radically altered states of consciousness. The neuroscience of ACAM-J, specifically brain reorganization, remains underspecified in part due to the difficulty of finding and studying expert ACAM-J meditators and challenges related to laboratory investigation of ACAM-J. Using a nonlinear dimensionality reduction technique applied to human functional neuroimaging in an intensive case study, we investigated brain reorganization during ACAM-J. We applied linear mixed models and correlations to explore relations among brain reorganization and ACAM-J phenomenology. Results demonstrated that ACAM-J induces disruption of the hierarchical organization of the brain by shifting the gradients toward a more globally integrated rather than segregated state between sensory-related and higher-order cognitive regions. Additionally, ACAM-J induces a separation between sensory-related and attention modulation-related regions, resulting in greater differentiation in functional organization of these regions, consistent with phenomenological reports. This study highlights the need for further research into brain reorganization and health-related implications of both short-term and long-term practice of ACAM-J. Key points/highlights The neuroscience of advanced concentrative absorption meditation (ACAM) has the potential to improve our knowledge of well-being and altered states of consciousness but remains underexplored due to methodological challenges. We investigated functional reorganization of the brain during ACAM-J using gradient analysis and demonstrated that ACAM-J disrupts the hierarchical organization of the brain during meditation. Additionally, we demonstrated that ACAM-J increases differentiation between primary sensory areas and areas related to attention modulation.",
+      "journal": "Cerebral Cortex",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "Neural and molecular changes during a mind-body reconceptualization, meditation, and open label placebo healing retreat: an observational study",
-      "url": "https://www.semanticscholar.org/paper/a2d760035caf547920cc505fe6712cbd4bf0cd0d",
+      "title": "The neuroscience of highly stable, positive, and refined states of consciousness during jhana-type advanced concentration absorption meditation (ACAM-J)",
+      "url": "https://www.semanticscholar.org/paper/2ae932b7cbd238d53e72489f48775b4f43f40e15",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-06T00:00:00",
-      "date_fetched": "2026-07-30T13:24:03.104137",
-      "doi": "10.1038/s42003-025-09088-3",
+      "date_published": "2025-11-13T00:00:00",
+      "date_fetched": "2026-07-31T13:28:31.959266",
+      "doi": "10.1101/2025.11.12.688050",
       "authors": [
         {
-          "name": "Alex Jinich-Diamant",
-          "author_id": "1879460866",
+          "name": "W. F. Yang",
+          "author_id": "2300816450",
           "affiliation": null
         },
         {
-          "name": "Sierra Simpson",
-          "author_id": "2302641237",
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
           "affiliation": null
         },
         {
-          "name": "J. P. Zuniga-Hertz",
-          "author_id": "1390004120",
+          "name": "Grace Mackin",
+          "author_id": "2387320843",
           "affiliation": null
         },
         {
-          "name": "R. Chitteti",
-          "author_id": "2028846604",
+          "name": "Isidora Beslic",
+          "author_id": "2387311693",
           "affiliation": null
         },
         {
-          "name": "Jan M. Schilling",
-          "author_id": "4835629",
+          "name": "Marta Bianciardi",
+          "author_id": "2253552101",
           "affiliation": null
         },
         {
-          "name": "Jacqueline A. Bonds",
-          "author_id": "5730720",
+          "name": "Terje Sprby",
+          "author_id": "2394133683",
           "affiliation": null
         },
         {
-          "name": "Laura Case",
-          "author_id": "2381337430",
-          "affiliation": null
-        },
-        {
-          "name": "Andrei V. Chernov",
-          "author_id": "2302641861",
-          "affiliation": null
-        },
-        {
-          "name": "Joe Dispenza",
-          "author_id": "2359739135",
-          "affiliation": null
-        },
-        {
-          "name": "Jacqueline Maree",
-          "author_id": "2229825113",
-          "affiliation": null
-        },
-        {
-          "name": "Natalia Esther Amkie Stahl",
-          "author_id": "2390689524",
-          "affiliation": null
-        },
-        {
-          "name": "Michael Licamele",
-          "author_id": "2390680580",
-          "affiliation": null
-        },
-        {
-          "name": "Narin Fazlalipour",
-          "author_id": "2390683511",
-          "affiliation": null
-        },
-        {
-          "name": "Swetha Devulapalli",
-          "author_id": "2179557684",
-          "affiliation": null
-        },
-        {
-          "name": "Leonardo Christov-Moore",
-          "author_id": "1404564137",
-          "affiliation": null
-        },
-        {
-          "name": "N. Reggente",
-          "author_id": "3435438",
-          "affiliation": null
-        },
-        {
-          "name": "Michelle A. Poirier",
-          "author_id": "2359737490",
-          "affiliation": null
-        },
-        {
-          "name": "Tobias Moeller-Bertram",
-          "author_id": "2359738048",
-          "affiliation": null
-        },
-        {
-          "name": "Hemal H. Patel",
-          "author_id": "2280156924",
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "Mind-body interventions offer promising avenues for improving physical and mental health, yet the comprehensive biological effects of increasingly popular mind-body retreat interventions remain poorly understood. The neural and molecular effects of a 7-day retreat intervention combining meditation, reconceptualization, and open-label placebo healing rituals are investigated in an observational study on 20 healthy human participants randomly selected from 561 retreat participants. BOLD fMRI functional connectivity during rest and meditation and whole plasma proteomics, metabolomics, exosome-specific miRNA transcriptomics, and neurite growth and real-time metabolism cellular assays are compared pre- and post-intervention. Meditation decreases functional integration in the default mode (p\u2009=\u20090.00009) and salience networks (p\u2009=\u20090.000003) and decreases whole-brain modularity (p\u2009=\u20090.001). Compared to pre-intervention plasma, post plasma increases in vitro neurite outgrowth (p\u2009=\u20090.01), enhances glycolytic metabolism (p\u2009=\u20090.008), induces upregulation of BDNF (p\u2009=\u20090.001), inflammatory (p\u2009=\u20090.0001), anti-inflammatory (p\u2009=\u20090.03), and endogenous opioid (p\u2009=\u20090.03) pathways, and modulates tryptophan metabolism (pFDR\u2009=\u20090.03) and neurotransmission-associated exosome miRNA transcripts. This intensive non-pharmacological mind-body intervention produces broad short-term neural and plasma-based molecular changes associated with enhanced neuroplasticity, metabolic reprogramming, and modulation of functional cell signaling pathways, highlighting the potential of mind-body techniques to modulate neural circuits and pathways important to health and well-being. Editorial Summary: fMRI, multi-omics, and cellular assays reveal that an intensive mind-body retreat intervention modulates brain network connectivity and plasma signaling pathways linked to neuroplasticity, metabolism, and neurotransmission in healthy adults.",
-      "journal": "Communications Biology",
+      "abstract": "Humans can experience a rich array of conscious experience, including highly stable, positive, and refined states of non-ordinary perception that can be elicited through advanced meditation. Here, we present the first group-level, ultra\u2013high-field (7T) fMRI study of jhana advanced concentration absorption meditation (ACAM-J). We combined local (regional homogeneity), mesoscale (connectivity gradients), and global (geometric eigenmodes) human brain mapping with diverse and detailed phenomenology, meditative traits, behaviorally assessed cognitive functions, and extensive publicly available psychobehavioral affinity maps. Across eight successive states of ACAM-J, we observed reproducible neural trajectories marked by anterior-to-posterior reorganization, flattening of cortical hierarchies, nonlinear reconfiguration of global harmonics, and tight coupling between brain metrics and equanimity, attentional stability, and behavior. Neurosynth decoding further associate ACAM-J with reduced suffering-related processes and more with attentional monitoring. These findings suggest ACAM-J is a distinct, structured mode of awareness that persists despite radically reduced narrative thought and sensory content. Our findings also inform boundary conditions for current models of consciousness. More broadly, this research indicates that advanced meditation is a powerful framework for understanding psychological transformation, and for potential new opportunities for supporting human well-being and flourishing.",
+      "journal": "bioRxiv",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "Characteristics Associated With the Use of the Mindfulness Meditation App Headspace in a Large Public Health Deployment: Cross-Sectional Survey Study",
-      "url": "https://www.semanticscholar.org/paper/836948cfc3414685a94c5f95afbbe2ccd2ac27ef",
+      "title": "Whole-Brain Models of Advanced Concentrative Absorption Meditation: Approaching Critical Dynamics through Jh\u0101na",
+      "url": "https://www.semanticscholar.org/paper/16a07e413185b273da8517b627079fc181deaa6b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-04T00:00:00",
-      "date_fetched": "2026-07-30T13:24:03.104151",
-      "doi": "10.2196/73457",
+      "date_published": "2026-06-29T00:00:00",
+      "date_fetched": "2026-07-31T13:28:31.959281",
+      "doi": "10.1101/2025.09.25.678574",
       "authors": [
         {
-          "name": "J. Borghouts",
-          "author_id": "40975562",
+          "name": "J. Vohryzek",
+          "author_id": "52033010",
           "affiliation": null
         },
         {
-          "name": "E. Eikey",
-          "author_id": "3272451",
+          "name": "Edmundo Lopez-Sola",
+          "author_id": "2047957413",
           "affiliation": null
         },
         {
-          "name": "Cinthia De Leon",
-          "author_id": "2058130779",
+          "name": "W. F. Yang",
+          "author_id": "2300816450",
           "affiliation": null
         },
         {
-          "name": "Stephen M. Schueller",
-          "author_id": "2258262442",
+          "name": "Y. Perl",
+          "author_id": "2889679",
           "affiliation": null
         },
         {
-          "name": "Margaret L. Schneider",
-          "author_id": "2271279119",
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
           "affiliation": null
         },
         {
-          "name": "N. Stadnick",
-          "author_id": "3551349",
+          "name": "R. Laukkonen",
+          "author_id": "8103511",
           "affiliation": null
         },
         {
-          "name": "Kai Zheng",
-          "author_id": "2105666805",
+          "name": "T. Sparby",
+          "author_id": "51294643",
           "affiliation": null
         },
         {
-          "name": "Dana B. Mukamel",
-          "author_id": "2267184050",
+          "name": "Morten L. Kringelbach",
+          "author_id": "2237996910",
           "affiliation": null
         },
         {
-          "name": "Dara H. Sorkin",
-          "author_id": "6288875",
+          "name": "Giulio RufJini",
+          "author_id": "2446389801",
+          "affiliation": null
+        },
+        {
+          "name": "G. Deco",
+          "author_id": "2263750702",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "Background Mindfulness-based apps can be an effective and accessible resource for mental health support. However, little is known about their use outside of research settings and what user characteristics relate to app use. Objective This study aimed to examine the characteristics of people who decided to use, not use, or stop using Headspace within the context of a large-scale public deployment, which offered the mindfulness meditation app Headspace as a free mental health resource to community members. Methods Nearly 100,000 community members received Headspace. All members (N=92,311) received an email inviting them to complete a voluntary and uncompensated survey. In total, 2725 participants completed the survey. The 20-minute survey asked about the use of Headspace, user experience, mental health problems, mental health stigma, and mental health use. Logistic regression models were used to examine relationships between predictors and nonuse, past use, or current use of Headspace. Results Participants who were still using Headspace at the time of completing the survey (2076/2725, 76.18%) were more likely to experience mental health challenges and distress and make more use of other digital mental health resources (ie, online tools and connecting with people online) than people who were not using Headspace. In addition, current users of Headspace rated the app higher on user experience compared with past users. The most common reasons for abandoning Headspace were that people were already using other strategies to support their mental health (198/570, 34.7%), no longer needed Headspace (73/570, 12.8%), or did not think Headspace was useful (46/570, 8.1%). Conclusions Results indicate that a person\u2019s mental health challenges, a perceived need for support, and familiarity with digital resources were associated with continued use of Headspace. While the most common reason for not using Headspace was that people were already using other resources, it is important to consider the continuity of mental health support beyond these free programs for those who may not have easy access to other resources. We discuss potential implications of our findings for offering and using apps such as Headspace as a mental health resource, along with factors that influence engagement with this app.",
-      "journal": "JMIR Formative Research",
-      "year": 2025,
+      "abstract": "Advanced meditation offers a powerful lens for investigating consciousness and for understanding how sustained training may contribute to human flourishing. In the spirit of neurophenomenology, we combine first-person reports with model-free empirical analyses and formal whole-brain modeling to investigate the mechanisms underlying advanced meditative states and minimal phenomenal experience (MPE). Specifically, we focus on jh\u0101na meditation, a type of advanced concentrative absorption meditation (ACAM-J). Advanced practitioners accessed the eight ACAM-J states during ultra-high-field 7T functional magnetic resonance imaging. For each state, we first characterize empirical functional connectivity and then build a mechanistic whole-brain model that reproduces brain activity by modeling the dynamical regimes of different brain networks. We found that the later ACAM-J states, taken here as candidates for MPE, show increased large-scale functional integration and a shift of functional network dynamics toward near-critical working points. The default mode network (DMN) exhibits the largest shift, from a distant noise-driven regime during the control condition to near-critical dynamics during ACAM-J. We also observed that the trajectory of ACAM-J states is non-linear, with prominent reconfigurations at key meditative milestones. Our results suggest that MPE, as instantiated in later ACAM-J states, corresponds to a globally susceptible state where near-critical dynamics dominate. We interpret this near-critical regime as a form of \u201copenness\u201d, in which constrained and differentiated patterns of brain activity give way to greater flexibility. In particular, increased DMN susceptibility is correlated with broader attention and reduced narrative thought, consistent with a more 8lexible mode of self-related processing. In this context, advanced meditation provides a powerful model for studying how sustained contemplative practice can profoundly shape brain dynamics and provide a window into core aspects of consciousness.",
+      "journal": "bioRxiv",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "The Effects of Loving-Kindness Meditation Guided by Short Video Apps on Policemen\u2019s Mindfulness, Public Service Motivation, Conflict Resolution Skills, and Communication Skills",
-      "url": "https://www.semanticscholar.org/paper/4d1663445d91a781bc4babd0c902b26d498731f6",
+      "title": "Multispectrum Electromagnetic Response in FeNiHo/C Heterodimensional Structure for Microwave Absorption and Multimode Photodetection",
+      "url": "https://www.semanticscholar.org/paper/58050e091fc2240948f9c57eb5d757e0235ddf8e",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-07-01T00:00:00",
-      "date_fetched": "2026-07-30T13:24:03.104161",
-      "doi": "10.3390/bs15070909",
+      "date_published": "2025-08-22T00:00:00",
+      "date_fetched": "2026-07-31T13:28:31.959545",
+      "doi": "10.1002/adma.202510507",
       "authors": [
         {
-          "name": "Chao Liu",
-          "author_id": "2218426632",
+          "name": "Kuibin Cui",
+          "author_id": "2298821280",
           "affiliation": null
         },
         {
-          "name": "Li-Jen Lin",
-          "author_id": "2327263929",
+          "name": "Cheng He",
+          "author_id": "2337252356",
           "affiliation": null
         },
         {
-          "name": "Kang Zhang",
-          "author_id": "2347643059",
+          "name": "Jian-hua Wu",
+          "author_id": "2110462504",
           "affiliation": null
         },
         {
-          "name": "Wen-Ko Chiou",
-          "author_id": "2244477915",
+          "name": "Xing Gao",
+          "author_id": "2265812464",
+          "affiliation": null
+        },
+        {
+          "name": "Yong Li",
+          "author_id": "2299012899",
+          "affiliation": null
+        },
+        {
+          "name": "Pei Han",
+          "author_id": "2364788338",
+          "affiliation": null
+        },
+        {
+          "name": "Ning-Ning Sun",
+          "author_id": "2376629271",
+          "affiliation": null
+        },
+        {
+          "name": "Yu-Fei Wang",
+          "author_id": "2143696683",
+          "affiliation": null
+        },
+        {
+          "name": "Xicai Hao",
+          "author_id": "93641967",
+          "affiliation": null
+        },
+        {
+          "name": "Lin Li",
+          "author_id": "2303433974",
+          "affiliation": null
+        },
+        {
+          "name": "Maosheng Cao",
+          "author_id": "2275366260",
           "affiliation": null
         }
       ],
-      "abstract": "Police officers work in high-stress environments that demand emotional resilience, interpersonal skills, and effective communication. Occupational stress can negatively impact their motivation, conflict resolution abilities, and professional effectiveness. Loving-Kindness Meditation (LKM), a mindfulness-based intervention focused on cultivating compassion and empathy, has shown promise in enhancing prosocial attitudes and emotional regulation. With the rise of short video platforms, digital interventions like video-guided LKM may offer accessible mental health support for law enforcement. This study examines the effects of short video app-guided LKM on police officers\u2019 mindfulness, public service motivation (PSM), conflict resolution skills (CRSs), and communication skills (CSSs). It aims to determine whether LKM can enhance these psychological and professional competencies. A randomized controlled trial (RCT) was conducted with 110 active-duty police officers from a metropolitan police department in China, with 92 completing the study. Participants were randomly assigned to either the LKM group (n = 46) or the waitlist control group (n = 46). The intervention consisted of a 6-week short video app-guided LKM program with daily 10 min meditation sessions. Pre- and post-intervention assessments were conducted using several validated scales: the Mindfulness Attention Awareness Scale (MAAS), the Public Service Motivation Scale (PSM), the Conflict Resolution Styles Inventory (CRSI), and the Communication Competence Scale (CCS). A 2 (Group: LKM vs. Control) \u00d7 2 (Time: Pre vs. Post) mixed-design MANOVA was conducted to analyze the effects. Statistical analyses revealed significant group-by-time interaction effects for PSM (F(4,177) = 21.793, p < 0.001, \u03b72 = 0.108), CRS (F(4,177) = 20.920, p < 0.001, \u03b72 = 0.104), and CSS (F(4,177) = 49.095, p < 0.001, \u03b72 = 0.214), indicating improvements in these areas for LKM participants. However, no significant improvement was observed for mindfulness (F(4,177) = 2.850, p = 0.930, \u03b72 = 0.016). Short video app-guided LKM improves public service motivation, conflict resolution skills, and communication skills among police officers but does not significantly enhance mindfulness. These findings suggest that brief, digitally delivered compassion-focused programs can be seamlessly incorporated into routine in-service training to strengthen officers\u2019 prosocial motivation, de-escalation competence, and public-facing communication, thereby fostering more constructive police\u2013community interactions.",
-      "journal": "Behavioral Science",
+      "abstract": "Multispectrum response technology is the key to developing multifunctional electromagnetic devices in cross\u2010field applications. Traditional methods rely on integrating complex multi\u2010material systems, leading to bulkier and costlier devices. Here, a hierarchical heterodimensional structure composed of FeNiHo alloy and carbon matrix achieves autonomous multispectrum\u2010coupling electromagnetic response between microwave and ultraviolet through polar interface engineering. In the microwave band, the heterodimensional structure exhibits outstanding microwave absorption performance with high reflection loss of \u221246.87 dB and ultra\u2010wide absorption bandwidth of 8.96 GHz. Furthermore, the antenna arrays based on the heterodimensional structure demonstrate in situ microwave frequency\u2010agile property by a coupled ultraviolet stimulation, where the largest frequency modulation range reaches 5.05 GHz in Ku\u2010band. In the ultraviolet band, multimode photodetectors constructed by the heterodimensional structure possess excellent responsivity and accurate decoding ability for anti\u2010interference ultraviolet communication. Particularly, the metamaterial detector achieves analog signal communication for the first time by microwave\u2010ultraviolet coupling response. This work pioneers a novel approach to developing multifunctional electromagnetic materials for multispectrum applications.",
+      "journal": "Advances in Materials",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "meditative absorption"
       ]
     },
     {
-      "title": "Remodeling the Epigenome Through Meditation: Effects on Brain, Body, and Well-being.",
-      "url": "https://www.semanticscholar.org/paper/38cf5c8a014e9f0e500a58ee8ae77da62c6d558f",
+      "title": "Exploring factors associated with the intensity of a mystical experience following naturalistic psychedelic use: A retrospective survey.",
+      "url": "https://www.semanticscholar.org/paper/7ae693f59dfc609fe6466a27ce99923b64893e4c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.984898",
+      "doi": "10.1016/j.pnpbp.2025.111300",
+      "authors": [
+        {
+          "name": "B. Rom\u00e9o",
+          "author_id": "50260042",
+          "affiliation": null
+        },
+        {
+          "name": "E. Kervadec",
+          "author_id": "2267322791",
+          "affiliation": null
+        },
+        {
+          "name": "B. Fauvel",
+          "author_id": "2080185871",
+          "affiliation": null
+        },
+        {
+          "name": "L. Strika-Bruneau",
+          "author_id": "2329072943",
+          "affiliation": null
+        },
+        {
+          "name": "A. Amirouche",
+          "author_id": "2261297613",
+          "affiliation": null
+        },
+        {
+          "name": "V. Verroust",
+          "author_id": "2294194322",
+          "affiliation": null
+        },
+        {
+          "name": "P. Piolino",
+          "author_id": "2256747345",
+          "affiliation": null
+        },
+        {
+          "name": "A. Benyamina",
+          "author_id": "2261298650",
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION\nThe intensity of the psychedelic experience has been hypothesized as the main predictor of response to a psychedelic treatment. This study aimed to investigate factors that may be associated with the intensity of mystical experiences during naturalistic psychedelic use.\n\n\nMETHODS\nThe data of this comprehensive sample were aggregated from four previous retrospective surveys, where mystical experience intensity was assessed using the mystical experience questionnaire (MEQ-30). Additional collected data included psychological flexibility levels, intentions regarding psychedelic use, substance used, subjective dosage levels, and socio-demographic information. ANOVA and linear regression were performed to identify predictors of MEQ-30 scores.\n\n\nRESULTS\nA total of 1657 participants were included in this study. The significant predictors of the total MEQ score were: the main motive for the psychedelic experience (with a greater impact of spiritual/religious, therapeutic, and self-exploration, compared to recreational), the type of substance used (with a higher impact for Ayahuasca and lysergic acid diethylamide than psilocybin), the subjective dosage (higher impact of very high, high, and moderate doses, compared to a very low dose), the number of psychedelic sessions, the time elapsed since the experience, and concomitant alcohol use.\n\n\nCONCLUSION\nThis large sample study highlights significant associations between the intensity of mystical experiences during naturalistic psychedelic use and several key factors: the type of the psychedelic substance used, dosage, and set, particularly participants' intentions. Moreover, results show that concomitant alcohol use is associated with less intense psychedelic experiences, emphasizing the relevance of screening participants for substance use in research settings.",
+      "journal": "Progress in Neuro-psychopharmacology and Biological Psychiatry",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "MYSTICAL EXPERIENCE IN SUFISM THE STUDY OF UNIQUENESS OF SUFISM IN RELATION TO MYSTICISM",
+      "url": "https://www.semanticscholar.org/paper/0dc06d6eecb36e63d12d507c04fd82871050a1dd",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-31T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.984923",
+      "doi": "10.20885/tullab.vol7.iss1.art4",
+      "authors": [
+        {
+          "name": "Angga Arifka",
+          "author_id": "2343955800",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article investigates Sufism and its closeness with the so-called mysticism. Indeed, mysticism is chiefly characterized by mystical experience, referring to, broadly speaking, that of union with the ultimate reality. On this basis, Sufism also evinces mystical experience from which the Sufis elaborate some terminological concepts such as fan\u0101\u2019, wahdat al-wuj\u016bd, ittih\u0101d, etc. As a qualitative study with a type of library research, this article employs content analysis to provide an in-depth interpretation of the texts analyzed, especially literature relevant to the field of study. The results of the analysis demonstrate twofold. On the one hand, Sufism is arguably Islamic mysticism due to its emphasis on mystical experience about God. On the other hand, Sufism has its own uniqueness since it also pays much attention to moral development and human behavior. In addition, Sufism has great contribution and significance to Islamic civilization in particular and modernity in general, ranging from Islamic psychology, metaphysics, art and literary world to human peace and spiritual crisis.",
+      "journal": "At-Thullab : Jurnal Mahasiswa Studi Islam",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Mystical experience in the Bayesian brain",
+      "url": "https://www.semanticscholar.org/paper/7198cf99f5ff89c21880513b5b3e139bcc74a849",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-10T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.984972",
+      "doi": "10.1007/s11097-025-10107-1",
+      "authors": [
+        {
+          "name": "Daniel Villiger",
+          "author_id": "122628233",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n Mystical experiences are among the most extraordinary and meaningful experiences one can have. While such experiences have been studied for more than a century, it is still an open question how the brain can produce them. The present paper provides a possible answer by examining mystical experience from the lens of the REBUS hypothesis\u2014a theory that explains the neurocognitive mechanisms of psychedelics in the Bayesian brain. Since psychedelics have consistently been shown to induce mystical experiences, the REBUS hypothesis implicitly suggests that it can also shed light on the underlying mechanisms of mystical experiences. The resulting account holds that during a mystical experience, the brain\u2019s constant process of prediction error minimization is characterized by a decreased influence of high-level predictions and, simultaneously, an increased influence of sensory input. The latter can be related to the noetic quality of mystical experiences; the former to the experience of oneness, altered perception of time and space, ineffability, and deeply felt positive mood during/after a mystical experience. While the paper\u2019s account is developed on a conceptual basis and thus remains speculative, it is compatible with other models of mystical experience, such as that mystical experience involves maximal uncertainty or a breaking down of attention.",
+      "journal": "Phenomenology and the Cognitive Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Mystical Experience and Decision Making",
+      "url": "https://www.semanticscholar.org/paper/16b64ca422552c8fb1473631553f2f9e7ca29288",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-26T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985002",
+      "doi": "10.3390/rel16030296",
+      "authors": [
+        {
+          "name": "Rossano Cesare Zas Friz De Col",
+          "author_id": "1396220678",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The study of decision making is currently significant in various areas of knowledge, particularly in an interdisciplinary approach involving psychologists, economists, sociologists, cognitive scientists, and political scientists. This article explores the decision-making process in a new field: the mystical lived experience; i.e., approaches the perception of something present as unknown, the perception of mystery, within the decision-making process. It emphasizes that every perception requires a response, more or less conscious, and the mystical lived experience is no exception. The goal is to enhance our understanding and interpretation of the dynamics of mystical experience using a phenomenological analysis of the decision-making process as a hermeneutic key. The philosophical and anthropological background of this article draws from Karl Rahner\u2019s transcendental experience, while the phenomenological and psychological perspective is informed by Louis Roy\u2019s experiences of transcendence and Juan Martin Velasco\u2019s studies on mysticism. The article first establishes the theoretical foundations of this new approach and then applies a decision-making analysis to the significant decisions made by St. Ignatius of Loyola, as detailed in his autobiography.",
+      "journal": "Religions",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Environmentalism Without Foundations: Climate Change, Mystical Experience, and the Challenge of Environmental Justice",
+      "url": "https://www.semanticscholar.org/paper/a2cdca4449d1accc552c3dd804f965afbdcc7076",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-10T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985022",
+      "doi": "10.2979/een.00008",
+      "authors": [
+        {
+          "name": "Russell C. Powell",
+          "author_id": "2360389942",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Ketamine-Occasioned Mystical Experience in Veterans with Treatment-Resistant Depression: A Retrospective Exploratory Analysis",
+      "url": "https://www.semanticscholar.org/paper/426ba75cb63f1d024c0a9dd3d3d2fde79c6790a8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-24T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985039",
+      "doi": "10.1089/psymed.2024.0040",
+      "authors": [
+        {
+          "name": "Kush V. Bhatt",
+          "author_id": "2265603711",
+          "affiliation": null
+        },
+        {
+          "name": "Jason Compton",
+          "author_id": "2357345858",
+          "affiliation": null
+        },
+        {
+          "name": "Em Ellerman",
+          "author_id": "2357349470",
+          "affiliation": null
+        },
+        {
+          "name": "J. Mishra",
+          "author_id": "2152866321",
+          "affiliation": null
+        },
+        {
+          "name": "D. Perivoliotis",
+          "author_id": "2303106392",
+          "affiliation": null
+        },
+        {
+          "name": "J. Pittman",
+          "author_id": "144518615",
+          "affiliation": null
+        },
+        {
+          "name": "Dhakshin Ramanathan",
+          "author_id": "2122684824",
+          "affiliation": null
+        },
+        {
+          "name": "Andrew W. Bismark",
+          "author_id": "2281444229",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introductions: Mystical experiences are powerful experiences that may have therapeutic value. Ketamine, a dissociative anesthetic, has shown potential to induce mystical experiences. However, little research has explored this phenomenon, particularly in treatment-resistant depression. Methods: We analyzed clinical data from 60 veterans with treatment-resistant depression receiving a total of 189 ketamine treatments. Veterans either received intranasal esketamine or racemic parenteral ketamine (intravenous or intramuscular). The Revised Mystical Experience Questionnaire (MEQ-30) was administered following ketamine treatments to assess the occurrence of mystical experience. A linear mixed model was used to examine the association between MEQ-30 scores and several treatment-related variables including gender, age, treatment number, dose, comorbid post-traumatic stress disorder, and pretreatment depression rating scores (PHQ-9). Results: Complete mystical experience was reported in 17.02% of esketamine treatments and 18.19% of racemic ketamine treatments. In the esketamine group, a greater number of treatment sessions was associated with higher MEQ-30 scores (p = 0.05). In the racemic ketamine group, higher doses were associated with higher MEQ-30 scores (p = 0.002). Discussion: These findings suggest that ketamine can occasion mystical experiences in veterans with treatment-resistant depression. Future studies should further explore the mystical-type effects of ketamine as a potential contributor to its therapeutic effect in treatment-resistant depression.",
+      "journal": "Psychedelic Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Feasibility of a Hypnosis Intervention for a Mystical Experience",
+      "url": "https://www.semanticscholar.org/paper/33d3f7c35555f6ac461b4a115abaaf7d9e298f03",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-15T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985051",
+      "doi": "10.1080/00207144.2025.2491352",
+      "authors": [
+        {
+          "name": "Chris E. Corlett",
+          "author_id": "2312597776",
+          "affiliation": null
+        },
+        {
+          "name": "Cameron T. Alldredge",
+          "author_id": "2312597773",
+          "affiliation": null
+        },
+        {
+          "name": "Gary R Elkins",
+          "author_id": "2240548077",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT The purpose of the present study is to determine feasibility and acceptability of a standardized hypnosis\u2013oriented intervention for a mystical experience based on a conceptual framework including cognitive expectancy, demand characteristics, the induced hypnotic state, and the role of hypnotizability. Ten college student participants provided informed consent and underwent a hypnosis-based exercise designed to facilitate a mystical experience. The hypnosis\u2013oriented intervention was provided in a setting similar to that used in psychedelic drug research. All participants were in the mid-to-high range of hypnotizability. Results revealed that the hypnosis\u2013oriented intervention was feasible and acceptable based on a composite acceptability score of 9.45 and no dropouts. All participants indicated that they would participate again if given the opportunity. Additionally, 70% of participants met criteria for a \u201ccomplete mystical experience\u201d as measured by the Mystical Experience Questionnaire (MEQ30). While these results are encouraging, additional research is needed, including replication with a larger sample.",
+      "journal": "International Journal of Clinical and Experimental Hypnosis",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Allowing Similarities: Using Aldous Huxley\u2019s Views on Mystical Experience to Assess the Import of Profound Unitive Experiences Occasioned by Psychedelic Substances",
+      "url": "https://www.semanticscholar.org/paper/f92e32d7922d7269331732941eaee121089db82d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-22T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985061",
+      "doi": "10.3390/rel17010009",
+      "authors": [
+        {
+          "name": "Dana W. Sawyer",
+          "author_id": "123704017",
+          "affiliation": null
+        }
+      ],
+      "abstract": "For more than four decades, the emphasis in the academic study of world religions has been on differences over similarities, and comparative analyses allowing for commonalities have become increasingly rare. This article argues that similarities nonetheless exist and should be studied. After disclaiming the judgment of other scholars that Aldous Huxley attempted to describe the \u201ccore\u201d or \u201cessence\u201d of mystical experience, the article continues with a description of Huxley\u2019s unitive mystical experience as simply a thread running across the traditions, evidenced by the fact that it is often found in both the primary and secondary literature of mysticism. The essay then goes on to cite descriptions of unitive experiences in research studies with psychedelics. Given that these experiences regularly occur with psilocybin and other drugs, as studies show, the article argues that the use of psychedelics is currently providing a rich source of experiential reports from which scholars of mysticism may glean insights. Furthermore, based on the views of Huxley, and supported by the reports of Roland Griffiths, Jussi Jylkka, David Yaden, William Richards, Julie Holland and others, the article speculates about the possible benefits of unitive mystical experiences triggered by psychedelics for both the individual and society.",
+      "journal": "Religions",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Natural Metaphors: Expressions of Mystical Experience in John of the Cross, Etty Hillesum, and Bj\u00f6rk",
+      "url": "https://www.semanticscholar.org/paper/d4a00851ff350a3edd2e02b271d5edaf51aca47f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-04T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985071",
+      "doi": "10.3390/rel16121531",
+      "authors": [
+        {
+          "name": "Anderson Fabi\u00e1n Santos Meza",
+          "author_id": "2370540556",
+          "affiliation": null
+        }
+      ],
+      "abstract": "In the twenty-first century, academic approaches to mysticism often risk reducing the Mystery to an object of erudition and historical distance, as if mystical experience belonged solely to a pre-modern past. Yet, when one encounters the \u201cnatural metaphors\u201d that emerge within mystical writings\u2014images of rivers, gardens, fire, and wind\u2014it becomes almost impossible to silence the invitation to perceive the sacred as still unfolding in the present. This article proposes an embodied and associative reflection that brings into conversation the poetry of John of the Cross (1542\u20131591), the intimate diaries of Etty Hillesum (1914\u20131943), and the musical and visual work of the contemporary artist Bj\u00f6rk Gu\u00f0mundsd\u00f3ttir (b. 1965). Through this triadic encounter, I argue that natural metaphors are not mere literary ornaments but symbolic languages that articulate the ineffable through the elemental languages of the earth. They sustain a theology of embodiment, relationality, and transformation that traverses epochs and artistic media. The study also seeks to fracture rigid and hegemonic readings that have confined mystical texts within colonial geographies of interpretation\u2014readings that domesticate spiritual experience through rigid doctrinal frameworks. In contrast, this essay advocates for a decolonial hermeneutics of the mystical imagination, one that recognizes how the natural, the esthetic, and the spiritual interweave in the polyphony of the world. By reading John of the Cross, Hillesum, and Bj\u00f6rk together, I suggest that mystical experience continues to unfold today through poetry, diary, and sound\u2014where theology becomes not only a matter of thought but of vibration, beauty, and embodied openness to the Mystery.",
+      "journal": "Religions",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Death, Disease, and Mystical Experience in Early Modern Art",
+      "url": "https://www.semanticscholar.org/paper/63dbe054b13307697d4bd6f4f993718a84805995",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": null,
-      "date_fetched": "2026-07-30T13:24:03.104179",
-      "doi": "10.1007/978-3-031-75980-2_7",
+      "date_fetched": "2026-07-31T13:28:34.985076",
+      "doi": "10.5117/9789463729185",
       "authors": [
         {
-          "name": "Sabrina Venditti",
-          "author_id": "2261709753",
+          "name": "M. Hill",
+          "author_id": "2238472733",
+          "affiliation": null
+        },
+        {
+          "name": "J. Milam",
+          "author_id": "39847238",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Sub-cellular biochemistry",
+      "abstract": "Fear of death and disease preoccupied the European consciousness throughout the early modern era, becoming most acute at times of plague and epidemics. In these times of heightened anxieties, images of saints and protectors served to reassure the faithful of their religious protection against infection. Modes of visual engagement and devotional subject matter were coupled in new ways to reinforce the emotive impact of art works and to reaffirm the perceived reality of the afterlife. In this context, a visual language of mystical devotion, which overcame the limits of the body and even eroticised its suffering, could serve the needs of the desolate and the pained. In this series of essays focused on spiritual sensibilities in Renaissance art and its legacies, authors present original ideas about the themes of death, disease, and mystical experience, based primarily on the study of objects and their documented historical contexts. Methodologically wide-ranging in approach, the resulting volume provides novel insights into the interplay between suffering and art making in the Western world.",
+      "journal": "",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "mystical experience"
       ]
     },
     {
-      "title": "The Impact of Telehealth Use Experience on Recruitment of Underserved Populations Into a Telehealth-Delivered Mindfulness-Based Trial for Patients With Chronic Low Back Pain: Cross-Sectional Survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42525540/",
+      "title": "The Nature of Mystical Experience from Various Philosophical Perspectives",
+      "url": "https://www.semanticscholar.org/paper/9991f84cae8d5155c811775dacca78402b424f4a",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-29T00:00:00",
-      "date_fetched": "2026-07-30T13:24:41.185051",
-      "doi": "10.2196/82093",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-31T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985086",
+      "doi": "10.21697/ct.2025.95.3.08",
       "authors": [
         {
-          "name": "Marva V Foster",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Phuong Tra Nguyen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Janice Weinberg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Keturah R Faurot",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Natalia Morone",
-          "author_id": null,
+          "name": "Miros\u0142aw Kiwka",
+          "author_id": "2367850976",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Mindfulness-based stress reduction (MBSR) is recommended as a noninvasive, evidence-based treatment for chronic low back pain (CLBP); however, access and uptake are often constrained among medically underserved populations. Telehealth-delivered MBSR may scale access, yet little is known about the characteristics of underserved patients who have experience using telehealth and are willing to enroll in pragmatic trials evaluating MBSR. OBJECTIVE: This study examined individual- and county-level social vulnerability characteristics associated with telehealth use experience among people living with CLBP who enrolled in OPTIMUM (Optimizing Pain Treatment in Medical Settings Using Mindfulness), a pragmatic randomized clinical trial of telehealth-delivered MBSR. METHODS: We conducted a cross-sectional analysis of baseline measures from the OPTIMUM trial, focusing on participants from a safety-net health institution and a federally qualified health center. The primary outcome was telehealth use experience (having had a prior telehealth visit at or before enrollment). Guided by Andersen's Behavioral Model of Health Services Use, we evaluated predisposing, enabling, and need factors. Prespecified measures included the following: demographics; employment and education; internet access and comfort using Zoom; neighborhood indices (Area Deprivation Index [ADI], Social Vulnerability Index [SVI]); rurality; back-pain duration; and validated patient-reported outcomes. Multivariable logistic regression was used to estimate adjusted odds ratios (AORs) and 95% CIs. RESULTS: Of 244 enrolled participants (mean age 50.6, SD 13.5 y; n=162, 66.7% female; n=124, 50.8% non-Hispanic Black), 174 (71.3%) reported previous telehealth use. Predisposing factors associated with lower telehealth use included race or ethnicity (non-Hispanic Black: AOR 0.38, 95% CI 0.2-0.8; Hispanic: AOR 0.21, 95% CI 0.06-0.7) and part-time employment (AOR 0.33, 95% CI 0.1-0.9) vs full-time employment, whereas educational attainment above or below a high school degree was associated with higher odds of telehealth use (AORs 2.7-3.2). Enabling factors showed that lower comfort with Zoom was associated with lower telehealth use (AOR 0.5, 95% CI 0.2-0.9), whereas home internet access was common and not independently significant in adjusted models. Neighborhood socioeconomic disadvantages, social vulnerability, and rurality did not demonstrate significant associations. Needs factors indicated that longer CLBP duration was positively associated with telehealth experience (>5 y: AOR 3.5, 95% CI 1.4-8.8). Other patient-reported outcomes, comorbidity burden, and surgical history were not significantly associated. CONCLUSIONS: In a safety-net and federally qualified health center context, prior telehealth experience was common among patients with CLBP willing to enroll in a telehealth-delivered MBSR trial. Although certain predisposing factors (race or ethnicity, employment status) were associated with lower odds of telehealth experience, these factors did not prevent trial enrollment. Targeted outreach to improve digital comfort and inclusive engagement strategies may further reduce disparities and support broader implementation of telehealth for CLBP.",
-      "journal": "JMIR mHealth and uHealth",
-      "year": 2026,
+      "abstract": "Along with the cultural interest in spirituality and mysticism in their various dimensions and meanings, which has been growing unabated for decades, there is a need for in-depth philosophical and theological reflection on the commonly referred to as mystical experience \u2013 an experiential dimension of religious life. In search of a theoretical elaboration of the phenomenon of human mystical life, this paper analyses the views of five Polish philosophers: Mieczys\u0142aw Gogacz, Piotr Moskal, Jan A. K\u0142oczowski, Stanis\u0142aw Judycki and Leszek Ko\u0142akowski. Their publications sought to answer questions about the nature of mystical experience and its ontic and epistemic conditions and characteristic structural elements. Particular attention was also paid to the context of religious life in which this kind of experience usually occurs, as well as to the fundamental concepts of mysticism as both practice and doctrine.",
+      "journal": "Collectanea Theologica",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "mystical experience"
+      ]
     },
     {
-      "title": "Participants' experiences of a co-adapted group-based intervention to reduce diabetes distress in people with type 2 diabetes attending municipal rehabilitation services.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528042/",
+      "title": "Beyond the Mystical Experience Model: Theurgy as a Framework for Ritual Learning with Psychedelics",
+      "url": "https://www.semanticscholar.org/paper/cd0db08aaae005e8380948d943d9a5ad015c91a8",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-29T00:00:00",
-      "date_fetched": "2026-07-30T13:24:51.628237",
-      "doi": "10.1111/dme.70440",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-08T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985097",
+      "doi": "10.3390/rel16111430",
       "authors": [
         {
-          "name": "M Espenhein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "R A S Pals",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "B Cleal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "H N Gr\u00f8nb\u00e6k",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "M Bejerholm",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C Gl\u00fcmer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "M Due-Christensen",
-          "author_id": null,
+          "name": "A. van der Braak",
+          "author_id": "1395856231",
           "affiliation": null
         }
       ],
-      "abstract": "AIMS: Diabetes distress affects approximately 30-40% of people with type 2 diabetes, yet interventions to address this issue are scarce. This study explored participants' experiences of a co-adapted, group-based intervention aimed at reducing diabetes distress in adults with type 2 diabetes attending municipal rehabilitation services. METHODS: Trained health professionals facilitated eight groups, consisting of six weekly sessions. The sessions included psychoeducation, mindfulness techniques and facilitated discussions using visual dialogue tools to address diabetes distress. Interviews were conducted with 19 participants to explore their experiences of the intervention. Data were analysed using systematic text condensation. RESULTS: Participants experienced several benefits from taking part in the intervention, including improved self-care, greater self-compassion regarding their diabetes and a reduction in worries and negative emotions about living with diabetes. These changes were closely linked to three key elements of the intervention: (1) strategies for managing diabetes distress, (2) supportive and engaged health professionals and (3) a safe peer environment. However, some participants reported challenges in their interactions with other participants due to age differences and varying levels of engagement. CONCLUSIONS: This study provides valuable insight into the experiences of people with type 2 diabetes and highlights key supportive aspects of an intervention to reduce diabetes distress. Further research is needed to assess the impact on clinical and psychosocial outcomes of participants.",
-      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
-      "year": 2026,
+      "abstract": "Contemporary interpretations of psychedelic spirituality are dominated by the \u201cmystical experience model,\u201d which emphasizes that psychedelics can lead to well-being through bringing about ego dissolution and a unitive mystical experience. Rooted in perennialist and dualist assumptions\u2014often derived from Christian mysticism, Vedanta, and Plotinian Neoplatonism\u2014this framework has shaped both scientific discourse and popular understanding of psychedelic states. However, the mystical experience model is controversial: (1) secular critics consider it as too religious; (2) it is a form of mystical exceptionalism, narrowly focusing on only certain extraordinary experiences; (3) its ontological assumptions include a Cartesian separation between internal experience and external reality and a perennialist focus on ultimate reality; (4) it neglects psychedelic learning processes; (5) in the ritual and ceremonial use of psychedelics, shared intentionality and practices of sacred participation are more important than the induction of individual mystical experiences. This article proposes an alternative and complementary model grounded in theurgy, based on the Neoplatonism of Iamblichus and the participatory ontological pluralism of Bruno Latour. Unlike the mystical experience model, which privileges individual unitary experiences, theurgy affirms ritual mediation, ritual competence, and both individual and collective transformation. Theurgic ritual practice makes room for the encounter with autonomous entities (framed by Latour as \u201cbeings of religion\u201d) that are often reported by participants in psychedelic ceremonies. By examining how the theurgic framework can expand our understanding of psychedelic spirituality in a way that is truer to psychedelic phenomenology, especially the presence of autonomous entities, imaginal realms, and the centrality of intention and ritual, this article argues that theurgy offers a nuanced and experientially congruent framework that complements the mystical experience model. Framing psychedelic spirituality through theurgic lenses opens space for a vision of the sacred that is not about escaping the world into undifferentiated unity, but about individual and collective transformation in communion with a living, differentiated cosmos.",
+      "journal": "Religions",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "mystical experience"
+      ]
     },
     {
-      "title": "EEG evidence for reproducible neural states during Buddhist Highest Yoga Tantra meditation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42527416/",
+      "title": "Existential experience vs. mystical experience: Leontiev and Dostoyevsky",
+      "url": "https://www.semanticscholar.org/paper/b633af17bf7cc2f8bdbd17f87846ebed3be7a5d5",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-29T00:00:00",
-      "date_fetched": "2026-07-30T13:24:51.628659",
-      "doi": "10.1038/s41598-026-45893-4",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-30T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985106",
+      "doi": "10.17588/2076-9210.2025.2.122-138",
       "authors": [
         {
-          "name": "E V Mikhaylets",
-          "author_id": null,
+          "name": "A.V. Zolotarev",
+          "author_id": "2305272363",
+          "affiliation": null
+        }
+      ],
+      "abstract": "On the basis of the comparative method the differences in the religious experiences of F.M. Dostoevsky and K.N. Leontiev are explored. The author defends the thesis that it was this difference that first of all caused ideological contradictions between these thinkers, in particular, a sharp disagreement on the problem of the attainability of \u201cuniversal harmony\u201d in the world. It is shown that the basis of Dostoevsky's religious faith was a kind of mystical experience \u2013 the experience of self-transcendence and unity with the eternal sources of being, with Christ and with mankind. The author maintains that the peculiarity of Dostoevsky's mystical experience lies in the fact that it is based mainly on moral intuitions \u2013 the intuition of respect for every human person and the intuition of love for Christ \u2013 which, due to their extreme intensity, acquire the character of a religious revelation. It is proved that Dostoevsky's most important ideas, such as the possibility of universal harmony, the necessity to transform the human heart by means of sacrificial love and compassion, every man\u2019s responsibility for all humanity, have mystical origins. The author shows that, on the contrary, Leontiev's religious worldview, which the philosopher himself called \u201cmysticism\u201d, was based not on mystic, but on existential experience. The author comes to the conclusion that existential philosophizing, based on the experience of boundary situations of dread and despair, was for Leontiev a way of obtaining the peace in faith and of developing his Christian worldview.",
+      "journal": "Solov'evskie issledovaniya",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "The Verifiability of Daoist Somatic Mystical Experience",
+      "url": "https://www.semanticscholar.org/paper/526c4935bed3512f25e85c8188f4096ef89343ca",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-27T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985117",
+      "doi": "10.3998/ergo.7657",
+      "authors": [
+        {
+          "name": "Wen Chen",
+          "author_id": "2300820918",
           "affiliation": null
         },
         {
-          "name": "A \u041c Razorenova",
-          "author_id": null,
+          "name": "Xiaoxing Zhang",
+          "author_id": "2144544197",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mystical religious experiences typically purport to engage with the transcendent and often claim to involve encounters with spiritual entities or a detachment from the material world. Daoism diverges from this paradigm. This paper examines Daoist mystical experiences of bodily transformations and explores their epistemological implications. Specifically, we defend the justificatory power of Daoist somatic experiences against the disanalogy objection. The disanalogy objection posits that mystical experiences, in contrast to sense perceptions, are not socially verifiable and thereby lack prima facie epistemic value. We argue that some Daoist mystical bodily states, being essentially spatiotemporal, are exempt from this challenge. This leads to a broader understanding of mysticism and offers a partial resolution to the disanalogy objection.",
+      "journal": "Ergo, An Open Access Journal of Philosophy",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Magical Thinking and Mystical Experience: An Exploration of Delusional Disorder in Schizophrenic Patients",
+      "url": "https://www.semanticscholar.org/paper/2b134f80a49003c586659729b9cf613e5034822c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-01T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985129",
+      "doi": "10.4103/ijnmr.ijnmr_18_23",
+      "authors": [
+        {
+          "name": "Arum Pratiwi",
+          "author_id": "2276282226",
           "affiliation": null
         },
         {
-          "name": "V L Chernyshev",
-          "author_id": null,
+          "name": "Joko Sri Pujianto",
+          "author_id": "2380181542",
           "affiliation": null
         },
         {
-          "name": "N Norbu",
-          "author_id": null,
+          "name": "Sukardi Sukardi",
+          "author_id": "2380161949",
           "affiliation": null
         },
         {
-          "name": "L Sangpo",
-          "author_id": null,
+          "name": "Erna Herawati",
+          "author_id": "2276283376",
           "affiliation": null
         },
         {
-          "name": "Y S Zhironkina",
-          "author_id": null,
+          "name": "A. Muhlisin",
+          "author_id": "146138399",
           "affiliation": null
         },
         {
-          "name": "A Y Kaplan",
-          "author_id": null,
+          "name": "Sakanti Maulida Farjatulla",
+          "author_id": "2380179386",
+          "affiliation": null
+        },
+        {
+          "name": "Fath Maulfi Putra",
+          "author_id": "2380178329",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: Delusions are common positive symptoms in schizophrenic patients. Individuals with delusional disorders have different experiences in memory and beliefs. Exploring patients\u2019 delusional beliefs is crucial to ascertaining appropriate psychotherapy programs. A few studies have explored the meanings of delusions for delusional patients. This study explores how schizophrenic patients lived experiences about their delusional beliefs. Materials and Methods: The study was carried out at a psychiatric hospital in Indonesia in 2021. The participants included 30 adult schizophrenic patients who had delusional life experiences and were able to communicate. Open-ended questions and probes were applied during in-depth interviews. We interviewed family members as well to improve the rigor of the research. Interpretative Phenomenological Analysis was used in this study. Results: The patients\u2019 clinical history revealed the experiences of failure and loss. Two main themes shaping their delusional experiences included demonic forces and magical powers. Conclusions: Patients with delusions had similar themes, but each had a different specific experience. The findings suggest that each patient may require a unique cognitive therapy based on their experience.",
+      "journal": "Iranian Journal of Nursing and Midwifery Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Can a Mystical Experience be Emulated by AI-Generated Rationality?",
+      "url": "https://www.semanticscholar.org/paper/03347cff8e5ed76fd946df2650b4b866ab92c040",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-31T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985139",
+      "doi": "10.1080/10447318.2025.2607552",
+      "authors": [
+        {
+          "name": "Mengjiao Yin",
+          "author_id": "2379425104",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Scientific reports",
+      "journal": "International Journal of Human-Computer Interaction",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "431. Higher Intensity of Mystical Experience Following Magnesium-Ibogaine is Associated With Larger Decreases in PTSD Severity",
+      "url": "https://www.semanticscholar.org/paper/eb1e972ea840d0a023b8a674eb6b5374f736c39d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985154",
+      "doi": "10.1016/j.biopsych.2025.02.669",
+      "authors": [
+        {
+          "name": "Randi E. Brown",
+          "author_id": "2275526905",
+          "affiliation": null
+        },
+        {
+          "name": "John Coetzee",
+          "author_id": "2346945736",
+          "affiliation": null
+        },
+        {
+          "name": "Jennifer Lissemore",
+          "author_id": "2346947154",
+          "affiliation": null
+        },
+        {
+          "name": "A. Faerman",
+          "author_id": "118954728",
+          "affiliation": null
+        },
+        {
+          "name": "C. Olash",
+          "author_id": "2354254189",
+          "affiliation": null
+        },
+        {
+          "name": "D. Buchanan",
+          "author_id": "2346947068",
+          "affiliation": null
+        },
+        {
+          "name": "Andrew Geoly",
+          "author_id": "84565731",
+          "affiliation": null
+        },
+        {
+          "name": "K. Cherian",
+          "author_id": "2275221277",
+          "affiliation": null
+        },
+        {
+          "name": "M. Adamson",
+          "author_id": "2346944105",
+          "affiliation": null
+        },
+        {
+          "name": "C. Rolle",
+          "author_id": "2278014798",
+          "affiliation": null
+        },
+        {
+          "name": "Nolan Williams",
+          "author_id": "2346943855",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Biological Psychiatry",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "The Ethical Aspects of a Mystical Experience",
+      "url": "https://www.semanticscholar.org/paper/6ae16a3c5eba8189207f61be7fab8e61b5e5c9ea",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-07-31T13:28:34.985158",
+      "doi": "10.18276/sp.2025.35-04",
+      "authors": [
+        {
+          "name": "Tadeusz Ku\u017amicki",
+          "author_id": "2204343948",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mistyk\u0119 cz\u0119sto uto\u017csamia si\u0119 niemal wy\u0142\u0105cznie ze sfer\u0105 duchow\u0105, co sprawia, \u017ce traci ona swoje istotne odniesienie do rzeczywisto\u015bci widzialnej i ludzkiego dzia\u0142ania. Niniejszy artyku\u0142 podejmuje pr\u00f3b\u0119 ukazania etycznych aspekt\u00f3w wynikaj\u0105cych z do\u015bwiadczenia mistycznego \u2014 rozumianego jako g\u0142\u0119bokie prze\u017cywanie obecno\u015bci Boga \u2014 na przyk\u0142adzie trzech postaci: \u015bw. Augustyna z Hippony, \u015bw. Faustyny Kowalskiej oraz \u015bw. Matki Teresy z Kalkuty. Analiz\u0119 przeprowadzono na trzech osobnych p\u0142aszczyznach.\nNa pierwszej z nich przedstawiono kontekst biograficzny i mistyczny charakter do\u015bwiadcze\u0144 badanych postaci. Ich mistyk\u0119 ukazano jako: jednorazowe prze\u017cycie u Augustyna i Matki Teresy oraz trwaj\u0105cy przez kilka lat proces u Faustyny Kowalskiej. Na drugiej p\u0142aszczy\u017anie badanie koncentrowa\u0142o si\u0119 na analizie mistycznego dialogu mi\u0119dzy Bogiem a cz\u0142owiekiem \u2014 jako poszukiwanie i odnajdywanie Boga (Augustyn), zg\u0142\u0119bianie tajemnicy Bo\u017cego mi\u0142osierdzia (Faustyna) oraz prze\u017cywanie duchowych ciemno\u015bci (Matka Teresa). Na trzeciej p\u0142aszczy\u017anie wykazano, w jaki spos\u00f3b do\u015bwiadczenia mistyczne doprowadzi\u0142y do etycznego zaanga\u017cowania i mi\u0142o\u015bci bli\u017aniego. W odniesieniu do badanych postaw mamy tu do czynienia z wewn\u0119trznym wezwaniem u Augustyna, ofiarowaniem siebie w odpowiedzi na mi\u0142o\u015b\u0107 Boga u Faustyny oraz konkretn\u0105 pos\u0142ug\u0105 najubo\u017cszym w slumsach u Matki Teresy.",
+      "journal": "Studia paradyskie",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "The mystery of Christ\u2019s incarnation and redemption in the mystical experience of St. Faustyna Kowalska",
+      "url": "https://www.semanticscholar.org/paper/ec6f0c202ac62b19eea910820e1f2043f03c6aec",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-07-31T13:28:34.985162",
+      "doi": "10.18276/skk.2025.32-02",
+      "authors": [
+        {
+          "name": "Ewa Czaplicka",
+          "author_id": "2224627610",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Autorka artyku\u0142u analizuje tajemnic\u0119 wcielenia i odkupienia Chrystusa w \u015bwietle przes\u0142ania Pisma \u015awi\u0119tego oraz mistycznych do\u015bwiadcze\u0144 \u015bw. Faustyny Kowalskiej. Bo\u017ce mi\u0142osierdzie, b\u0119d\u0105ce fundamentem wiary, objawia si\u0119 w pe\u0142ni poprzez \u017cycie, \u015bmier\u0107 i zmartwychwstanie Chrystusa. W Biblii te wydarzenia przedstawiane s\u0105 jako realizacja odwiecznego planu Bo\u017cego zbawienia, maj\u0105cego na celu przywr\u00f3cenie cz\u0142owieka do jedno\u015bci z Ojcem. Mistyczne do\u015bwiadczenia \u015bw. Faustyny, zapisane w jej Dzienniczku, pog\u0142\u0119biaj\u0105 zrozumienie biblijnego przes\u0142ania o mi\u0142osierdziu. Por\u00f3wnanie obu \u017ar\u00f3de\u0142 pozwala dostrzec ich pe\u0142n\u0105 sp\u00f3jno\u015b\u0107, szczeg\u00f3lnie w odniesieniu do mi\u0142o\u015bci Boga wobec grzesznik\u00f3w oraz znaczenia Chrystusowej ofiary krzy\u017cowej. Opracowanie wskazuje, \u017ce wizje \u015bw. Faustyny mog\u0105 stanowi\u0107 wyj\u0105tkowy komentarz do Pisma \u015awi\u0119tego, u\u0142atwiaj\u0105cy wsp\u00f3\u0142czesnym wiernym g\u0142\u0119bsze odkrywanie mi\u0142osiernej mi\u0142o\u015bci Boga.",
+      "journal": "Studia Koszali\u0144sko-Ko\u0142obrzeskie",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "198. Mystical Experience During Antidepressant Treatment with (Es)ketamine: A Prospective Study",
+      "url": "https://www.semanticscholar.org/paper/44892b4449be6160946b797be2399b0669aa0876",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985175",
+      "doi": "10.1016/j.biopsych.2025.02.435",
+      "authors": [
+        {
+          "name": "L. Berkovitch",
+          "author_id": "7673283",
+          "affiliation": null
+        },
+        {
+          "name": "Thomas Andrillon",
+          "author_id": "2298775360",
+          "affiliation": null
+        },
+        {
+          "name": "Alexandre Salvador",
+          "author_id": "2244799292",
+          "affiliation": null
+        },
+        {
+          "name": "Louise Fuet",
+          "author_id": "2354354928",
+          "affiliation": null
+        },
+        {
+          "name": "Maia Malleways",
+          "author_id": "2354356554",
+          "affiliation": null
+        },
+        {
+          "name": "S. Dehaene",
+          "author_id": "2256385748",
+          "affiliation": null
+        },
+        {
+          "name": "Rapha\u00ebl Gaillard",
+          "author_id": "2244799186",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Biological Psychiatry",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Reframing Religious Experience through \u2018\u0100lam al-Mith\u0101l: A Philosophical and Mystical Perspective in Islamic Thought",
+      "url": "https://www.semanticscholar.org/paper/16557192001c709d17891a380cbc424f75b807cd",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-15T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985186",
+      "doi": "10.15642/teosofi.2025.15.1.148-171",
+      "authors": [
+        {
+          "name": "Kholid Al Walid",
+          "author_id": "2198858860",
+          "affiliation": null
+        },
+        {
+          "name": "Waode Zainab Zilullah Toresano",
+          "author_id": "2372986730",
+          "affiliation": null
+        },
+        {
+          "name": "Rosmaria Syafariyah Widjayanti",
+          "author_id": "2372986567",
+          "affiliation": null
+        },
+        {
+          "name": "Nurul Ain Norman",
+          "author_id": "2282855994",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper investigates the philosophical and mystical concept of \u2018\u0100lam al-Mith\u0101l (The Imaginal World) in Islamic thought as analternative framework for understanding religious experience. Despite the acknowledgement of its importance, contemporary discourse has yet to undertake a systematic philosophical inquiry into how \u2018\u0100lam al-Mith\u0101l, as a spiritual epistemology, provides rational grounds for affirming the objective reality and transformative capacity of religious experiences, surpassing interpretations that reduce such experiences to merely subjective or psychological interpretations. This research addresses this gap by analyzing how Mull\u0101 \u1e62adr\u0101\u2019s ontological principle of A\u1e63\u0101lat al-wuj\u016bd (fundamentality of existence) and epistemological principle of Itti\u1e25\u0101d al-\u2018\u0100qil wa al-Ma\u2018q\u016bl (union of the intellect and the intelligible) substantiate the objective reality of experiences within \u2018\u0100lam al-Mith\u0101l. The study further examines the essential role of ta\u2019w\u012bl (esoteric interpretation) in unveiling the deeper meanings of symbolic encounters in this realm. By integrating these philosophical principles, the paper demonstrates how \u2018\u0100lam al-Mith\u0101l offers a rigorous framework for validating religious experiences as genuine perceptual events within an objective, intermediate reality. This framework challenges reductionist modern paradigms and highlights the imaginal realm\u2019s significance in self-realization and the acquisition of divine knowledge.",
+      "journal": "Teosofi",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Mystical Luminosity Experience \u2013 An Exploration of Transcendent Light",
+      "url": "https://www.semanticscholar.org/paper/e4ed90f31798ac491109e2aed6d921109dc934aa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-13T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985197",
+      "doi": "10.1080/10508619.2025.2452037",
+      "authors": [
+        {
+          "name": "Jonathan Dinsmore",
+          "author_id": "2406703337",
+          "affiliation": null
+        },
+        {
+          "name": "Putu Divariani",
+          "author_id": "2340051175",
+          "affiliation": null
+        },
+        {
+          "name": "I. Kadek",
+          "author_id": "2240491842",
+          "affiliation": null
+        },
+        {
+          "name": "Wahyu Pujhana",
+          "author_id": "2362248115",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Jonathan Dinsmore\u2019s Mystical Luminosity Experience: An Initiation of a Construct Grounded in Phenomenology offers a groundbreaking exploration of an often-overlooked phenomenon: mystical luminosity experiences (MLE). By bridging ancient mystical traditions with modern scientific inquiry, this work is a rare fusion of academic rigor and spiritual insight, making it a significant contribution to the psychology of religion and consciousness studies.",
+      "journal": "The international journal for the psychology of religion",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Psychosis or Spiritual Experience? Rethinking Mental States Through Cultural and Mystical Lenses",
+      "url": "https://www.semanticscholar.org/paper/9d05db28ea9c8f893d9db9335495b0099f6df494",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-15T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985207",
+      "doi": "10.31275/20253827",
+      "authors": [
+        {
+          "name": "Stephanie El Chakieh",
+          "author_id": "2386321488",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Psychotic processes remain poorly understood mental states. This review aims to examine the spiritual challenges and discrepancies surrounding psychosis, and the role cultural backgrounds and beliefs play in determining whether a psychotic episode is considered a pathological condition. The article explores mediumship, shamanism, and mystical experiences, examining their similarities and differences with psychosis. Symptoms of psychotic episodes are often viewed as pathological rather than simply different or less understood. The spiritual world remains a controversial topic in the scientific community. However, an openness in exploring this realm may help provide meaning and guidance to patients with psychosis. Mediumship, shamanism, and mystical experiences all involve altered states of consciousness and perceived interactions with spiritual realms; however, they differ in their conceptual foundations, cultural contexts, and functions. It is important to recognize that attributing spiritual meaning to a psychotic episode does not automatically rule out the possibility of an underlying pathology. Factors such as nutritional deficiencies or biochemical imbalances should be carefully considered before assigning spiritual significance to a symptom. This article aims to explore the complex interplay between these phenomena and psychosis, highlighting how their overlaps can complicate diagnosis and make treatment even more challenging. Further research on the subject could help to establish links between tangible and intangible aspects of life and bring to light new alternative approaches to address psychosis.\u00a0",
+      "journal": "Journal of Scientific Exploration",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "MYSTICAL POETRY AND SPORT: AN EXPERIENCE OF DIDACTIC TRANSPOSITION BASED ON THE STUDENTS' INTEREST",
+      "url": "https://www.semanticscholar.org/paper/03f4140a479d911a8c85e1bd15695a1689314aef",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-28T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985216",
+      "doi": "10.36315/2025v1end039",
+      "authors": [],
+      "abstract": null,
+      "journal": "Education and New Developments",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "Mystical Experience Induced by Esketamine Treatment: A Real-World Observational Study",
+      "url": "https://www.semanticscholar.org/paper/c152b8b4ce8920e260122bbd8293968f7af01943",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-04-01T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985247",
+      "doi": "10.64898/2026.03.31.26349757",
+      "authors": [
+        {
+          "name": "Maia Mallevays",
+          "author_id": "2334615862",
+          "affiliation": null
+        },
+        {
+          "name": "Louise Fuet",
+          "author_id": "2354354928",
+          "affiliation": null
+        },
+        {
+          "name": "M. Danon",
+          "author_id": "2244157407",
+          "affiliation": null
+        },
+        {
+          "name": "L. Di Lodovico",
+          "author_id": "1920864177",
+          "affiliation": null
+        },
+        {
+          "name": "Claire Jaffr\u00e9",
+          "author_id": "88727433",
+          "affiliation": null
+        },
+        {
+          "name": "Louise Bouzeghoub",
+          "author_id": "2431725764",
+          "affiliation": null
+        },
+        {
+          "name": "Seifeddine Mrad",
+          "author_id": "2431726053",
+          "affiliation": null
+        },
+        {
+          "name": "Anne-Victoire Rousselet",
+          "author_id": "2431726154",
+          "affiliation": null
+        },
+        {
+          "name": "Lola Allary",
+          "author_id": "2431725860",
+          "affiliation": null
+        },
+        {
+          "name": "Chl\u00f6\u00e9 M\u00fch",
+          "author_id": "2291460961",
+          "affiliation": null
+        },
+        {
+          "name": "Bente Vissel",
+          "author_id": "2431726429",
+          "affiliation": null
+        },
+        {
+          "name": "P. de Maricourt",
+          "author_id": "2244156422",
+          "affiliation": null
+        },
+        {
+          "name": "F. Vinckier",
+          "author_id": "35303160",
+          "affiliation": null
+        },
+        {
+          "name": "Raphael Gaillard",
+          "author_id": "2290175944",
+          "affiliation": null
+        },
+        {
+          "name": "L. Mekaoui",
+          "author_id": "2354305857",
+          "affiliation": null
+        },
+        {
+          "name": "P. Gorwood",
+          "author_id": "2367021423",
+          "affiliation": null
+        },
+        {
+          "name": "Anne-C\u00e9cile Petit",
+          "author_id": "2292105339",
+          "affiliation": null
+        },
+        {
+          "name": "L. Berkovitch",
+          "author_id": "7673283",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Esketamine is a fast-acting antidepressant drug which induces acute psychoactive effects. The most frequent is a dissociative state which seems unrelated to therapeutic efficacy. Other esketamine-induced effects, including psychedelic-like mystical experiences, have been poorly studied in terms of phenomenology and frequency, and may carry specific therapeutic relevance. In this study, we characterised esketamine-induced mystical experiences in relation with clinical outcomes. We conducted a longitudinal observational study and systematically measured acute subjective effects in patients receiving esketamine for treatment-resistant depression after each administration across the induction phase. A total of 45 patients were included, from two independent centres, totalling 352 esketamine administrations. Principal Component Analysis (PCA) supported the validity of the Mystical Experience Questionnaire (MEQ-30) for assessing esketamine-induced subjective effects, with components recovering dimensions previously validated with classic psychedelics. Mystical experiences (MEQ-30 score above 60) occurred in 58% of patients, with high inter- and intra-individual variability in frequency, intensity, and phenomenology across sessions. Higher mean and peak MEQ scores were associated with greater improvement in Montgomery-Asberg Depression Rating Scale scores from pre- to post-treatment, whereas the intensity of dissociative or other non-mystical effects was not. Positive mood and mystical MEQ dimensions in particular predicted therapeutic outcomes. Baseline spirituality also significantly predicted treatment outcomes and peak MEQ scores in the first week of treatment. These findings add to the growing body of evidence suggesting that psychedelic-like mystical experiences may be associated to therapeutic efficacy, not only in classic psychedelic-assisted therapy, but also in esketamine treatment.",
+      "journal": "medRxiv",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "mystical experience"
+      ]
     },
     {
-      "title": "Brief Mindfulness Meditation Videos: Cultural Sensitivity Review by Chinese American Adolescents.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42529315/",
+      "title": "Identifying the \"Unknown Scholiast\" on the Mystical Experience of John Climacus",
+      "url": "https://www.semanticscholar.org/paper/530e273ea433f3ce7ce7aed07213a915f08fa8ab",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-27T00:00:00",
-      "date_fetched": "2026-07-30T13:24:51.628703",
-      "doi": "10.1037/aap0000428",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-26T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985275",
+      "doi": "10.7203/sphv.27.32053",
       "authors": [
         {
-          "name": "Shengli Dong",
+          "name": "John M. Duffy",
+          "author_id": "2407314788",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT: O. Rodionov recently discussed the work of three commentators on a much disputed passage in the Ladder of John Climacus, namely Michael Psellos, the Patriarch Photios, and an anonymous scholiast. The purpose of this article is to present arguments in favour of identifying that scholiast as Elias of Crete, the author of an extensive commentary on the Ladder. \n\u00a0 \nKEYWORDS: Rodionov, exegesis, John Climacus, Psellos, Photios, Elias of Crete \n\u00a0 \nRESUMEN: O. Rodionov analiz\u00f3 recientemente el trabajo de tres comentaristas sobre un pasaje muy controvertido de la Escala de Juan Cl\u00edmaco: Miguel Psellos, el patriarca Focio y un escoliasta an\u00f3nimo. El prop\u00f3sito de este art\u00edculo es presentar argumentos que apoyan la identificaci\u00f3n de dicho escoliasta como El\u00edas de Creta, autor de un extenso comentario sobre la Escala.\u00a0PALABRAS CLAVE: Rodionov, comentario, Juan Cl\u00edmaco, Psello, Focio, El\u00edas de Creta\u00a0",
+      "journal": "Studia philologica Valentina",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "\u2018Whether in the body or out of the body I do not know\u2019: Mystical experience and the body in the Alister Hardy database",
+      "url": "https://www.semanticscholar.org/paper/eeef472f5bd3efac82808843fd437bb442f31c2a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-10T00:00:00",
+      "date_fetched": "2026-07-31T13:28:34.985284",
+      "doi": "10.1080/20440243.2026.2615781",
+      "authors": [
+        {
+          "name": "Rachel Kevern",
+          "author_id": "2410273952",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal for the Study of Spirituality",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mystical experience"
+      ]
+    },
+    {
+      "title": "The effect of mindfulness-based cognitive therapy on non-suicidal self-injury in hospitalized adolescents with depressive disorders: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533822/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-31T00:00:00",
+      "date_fetched": "2026-07-31T13:28:51.425576",
+      "doi": "10.1017/S0033291726104735",
+      "authors": [
+        {
+          "name": "Jingjing Xie",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Chieh Li",
+          "name": "Lixia Li",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Huijun Li",
+          "name": "Xuehua Liu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Parishi Gandhi",
+          "name": "WeiHua Yue",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ana-Gabriela Osorio",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elias Latimer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maya Antes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ivana Perez",
+          "name": "Jing Guo",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Chinese American adolescents (CAAs) experience significant mental health challenges, including high rates of race and ethnicity-related stress, anxiety, depression, and suicide. Given the potential of mindfulness meditation to improve adolescent mental health, this preliminary study examines the cultural sensitivity of four brief mindfulness meditation videos through the ecological cultural validity framework. We recruited 20 CAA cultural reviewers, aged 14-18, who evaluated these videos based on language, audio, and visual components. Quantitative results indicated strong endorsement of cultural and language appropriateness, but varied ratings for the narrator's voice and video aesthetics. Qualitative analyses from this study revealed eight key themes: calming, clarity, focus, cultural significance, design elements, universal applicability, age appropriateness, and practicality. The \"calming\" effect was particularly valued across all domains, while cultural relevance and design elements were noted as crucial factors affecting engagement. Age inappropriateness and difficulty understanding accents were cited as limitations in the video. This preliminary cultural sensitivity review highlights the importance of cultural adaptations to mindfulness resources for CAAs, enabling them to maximize engagement and efficacy. Future research should expand this exploration by including diverse adolescent demographics and integrating reviewers' feedback into mindfulness practice development to enhance cultural and developmental relevance. This study contributes insights into designing accessible and culturally appropriate mental health interventions for minority adolescents.",
-      "journal": "Asian American journal of psychology",
+      "abstract": "BACKGROUND: Nonsuicidal self-injury (NSSI) in adolescents with depressive disorder is characterized by recurrent impulsivity and is a predictor of future suicidal behavior, necessitating effective and feasible interventions. Mindfulness-based cognitive therapy for adolescents (MBCT-A), a first-line treatment for depression, was evaluated in this trial for its efficacy in reducing NSSI in this population. METHODS: In this randomized, single-blind, controlled trial, 94 hospitalized adolescents diagnosed with depressive disorder and engaging in NSSI were allocated to either MBCT-A plus treatment-as-usual (TAU) or TAU alone. The primary outcome was the severity of NSSI, measured by the Adolescent Self-Harm Scale (ASHS) at baseline, post treatment (4\u00a0weeks), and at 1-month follow-up. Secondary outcomes encompassed symptoms of anxiety, depression, emotion regulation, risk behaviors, life satisfaction, resilience, rumination, coping styles, and mindfulness. Both intention-to-treat (ITT) and per-protocol (PP) analyses were conducted. RESULTS: Both ITT and PP analyses revealed significant between-group differences in NSSI severity at 4\u00a0weeks. Compared to the control group, the MBCT-A group showed significant improvements in mindfulness awareness, nonreactivity, emotional awareness, depressive symptoms, emotion regulation, and rumination (all  CONCLUSIONS: MBCT-A is effective in reducing NSSI behavior and improving mindfulness, emotion regulation, and depressive symptoms among adolescents with depressive disorder and NSSI. These findings support the clinical application of MBCT-A for this high-risk population.",
+      "journal": "Psychological medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -499,52 +1392,100 @@
       "matched_keywords": []
     },
     {
-      "title": "Technology Access, Pattern of Use, Interest in Digital Health, and Barriers to Tobacco Treatment Among HIV-Infected Smokers From Under-Resourced Communities: A Cross-Sectional Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42523868/",
+      "title": "A person-based approach to planning and developing \"EmOcean\": A transdiagnostic digital intervention for stress and emotion management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532567/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-30T00:00:00",
+      "date_fetched": "2026-07-31T13:29:02.813761",
+      "doi": "10.1136/bmjopen-2026-117570",
+      "authors": [
+        {
+          "name": "Rita Sebasti\u00e3o",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pedro Rodrigues Ribeiro",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eduardo Sardinha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "C\u00e1tia Martins Castro",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "David Dias Neto",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: This paper constitutes an intervention development paper, illustrating the application of the person-based approach to planning and developing a digital transdiagnostic intervention to support Portuguese adults in managing their stress and emotions, thereby enhancing their mental health. DESIGN: A multi-method intervention development study following the person-based approach (Phase I: collating and analysing evidence; Phase II: creating the intervention plan). Evidence from three quantitative studies, examining emotional schemas, psychological flexibility, and mental health in the context of stress, a qualitative study, exploring stress-coping experiences, and a scoping review of digital interventions designed for stress, were combined with experts' consultation to facilitate the creation of the guiding principles and the logic model. This guided the development of prototype intervention. SETTING: Community-based recruitment across Portugal, collected online and at hospitals, senior universities and patient organisations. PARTICIPANTS: Quantitative studies used a convenience sample (Study 1, n=666; Study 2, n=583; Study 3, n=276). 29 adults purposively sampled from the Study 3' highest and lowest stress quartiles took part in semi-structured interviews. In the scoping review, 5867 articles were identified, and 131 studies of digital psychological interventions for stress were included. Six experts in stress, cognitive behavioural therapy, acceptance and commitment therapy, emotional schema therapy, digital interventions, intervention development and public health reviewed the draft intervention plan. RESULTS: Stress responses, more than stressor type, were the strongest predictor of both positive and negative mental health, with emotional schemas (negative evaluation of emotions, difficulties in reappraisal) and psychological flexibility (behavioural awareness, valued action, openness to experience) acting as mediators. Qualitative interviews highlighted maladaptive thoughts as the main barrier and emotional management as the main facilitator to coping, alongside preferences for intervention content and delivery. The scoping review found common components in existing digital interventions for stress, but none integrated the emotional schemas model. Together with expert consultation, these findings led to the development of EmOcean prototype, a guided self-help digital intervention comprising eight integrated and five optional modules, tailored to users' needs, characteristics and preferences, which are completed sequentially on a weekly basis. Modules include psychoeducation and exercises on topics such as stress, emotions, cognitive reframing, mindfulness, acceptance, values, activities, problem-solving, time management, physical exercise, sleep, social support, assertiveness and emotional management. CONCLUSIONS: Combining empirical, theoretical and person-based evidence supported the development of EmOcean, an intervention hypothesised to support stress and emotion management and enhance mental health. Its acceptability, feasibility and efficacy will be evaluated in future studies.",
+      "journal": "BMJ open",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Bridging subjective and neural state transitions in the rubber hand illusion: a neurophenomenological study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529375/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-30T13:24:51.629197",
-      "doi": "10.1177/1179173X261473918",
+      "date_fetched": "2026-07-31T13:29:02.814057",
+      "doi": "10.1093/nc/niag040",
       "authors": [
         {
-          "name": "Olusanya J Oluwole",
+          "name": "Yuki Tsuji",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tulay Koru-Sengul",
+          "name": "Miyuki Azuma",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Deborah L Jones",
+          "name": "Camille L\u00e9pingle",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Maria L Alcaide",
+          "name": "Momoka Kimuro",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "David J Lee",
+          "name": "Mika Ishizu",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Adam Carrico",
+          "name": "Fugo Suzuki",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Taghrid Asfar",
+          "name": "Yves Rossetti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sotaro Shimada",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Cigarette smoking remains a major public health concern among people living with HIV (PLWH), particularly those from under-resourced communities. Digital health may improve access to cessation support, yet its potential among this population remains understudied. OBJECTIVE: This study explored barriers to quitting smoking and evaluated the potential of digital health for tobacco treatment among PWLH smokers. METHODS: We surveyed 205 PLWH who smoked cigarettes (45.4% female; mean age 51.2 years; response rate 92.3%) to examine smoking behaviors, cessation barriers, technology access, use pattern, and interest in digital health for tobacco treatment. Multivariable logistic regression models were employed to assess how demographics and smoking behaviors influence interest in using digital health (phone calls, text messages, smartphone applications, or combinations) for tobacco treatment. RESULTS: Participants were primarily racial and ethnic minorities, including 55.1% non-Hispanic Black and 34.2% Hispanic individuals, with 74.4% earning less than $10,000 annually. Most participants reported previous quit attempts (76.5%). Common barriers to quitting included difficulty managing cravings (45.4%), cost of treatment (28.8%), and limited access to care (25.9%), while depression (58.9%) and risky alcohol use (39.6%) were also prevalent. Access to technology was high: 91.7% owned a cell phone, 61.0% owned a smartphone, and 63.9% reported internet access. Among smartphone owners, 74.0% used mobile applications. Phone calls were the most preferred single digital health modality for tobacco treatment (51.7%), followed by text messaging (43.9%), smartphone applications (39.0%), and video conferencing (38.5%). Preferred intervention methods included mindfulness strategies (73.0%), nicotine replacement therapy (71.1%), and counseling (63-65%). Non-Hispanic Black and non-heterosexual participants showed significantly higher interest in digital health for tobacco treatment, with aOR 5.49 (1.44 - 20.90) and 6.02 (1.46 - 24.82), respectively. PRACTICE IMPLICATIONS: Despite barriers, PLWH smokers are interested in digital health for tobacco treatment. Incorporating digital tools could improve access and reduce disparities in this population.",
-      "journal": "Tobacco use insights",
+      "abstract": "The rubber hand illusion (RHI) provides a powerful paradigm for probing the malleability of bodily self-consciousness. While conventional studies rely on proprioceptive drift, questionnaires, or averaged neural measures, phenomenological research suggests that the RHI unfolds through multiple subjective state transitions rather than as a simple binary phenomenon. Participants often describe ambiguous coexistence of real and artificial hands, partial incorporation, and eventual ownership, indicating meaningful dynamics of selfhood. Here, we adopt a neurophenomenological approach that integrates first-person interviews with electroencephalographic (EEG) functional connectivity network analysis. Subjective trajectories during the RHI were characterized through phenomenological interviews and modeled as successive states. EEG connectivity was analyzed using graph neural networks, enabling data-driven clustering of neural states aligned with subjective transitions. To establish a correspondence between the phenomenological and neural domains, we employed Gromov-Wasserstein (GW) optimal transport, which maps structural correspondences between subjective and EEG-derived state spaces despite their differing metrics. The results show that specific subjective transitions correspond to distinct changes in network topology. Major subjective states were associated with reconfigurations of connectivity patterns and shifts in degree centrality across several regions, including the premotor cortex and insula, which are known to contribute to body ownership. GW optimal transport further revealed a principled correspondence between the geometry of subjective and neural state spaces. Together, these findings demonstrate that subjective transitions in the RHI are mirrored by dynamic reorganization of brain networks, illustrating how neurophenomenology combined with computational modeling can advance the study of embodied selfhood.",
+      "journal": "Neuroscience of consciousness",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -552,47 +1493,22 @@
       "matched_keywords": []
     },
     {
-      "title": "Supporting recovery: Intersections of health, belonging, and help seeking after a campus mass casualty event.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42525603/",
+      "title": "The mediating role of psychological flexibility in the relationship between mental alertness and mental health among patients with irritable bowel syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533567/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-30T13:24:51.629282",
-      "doi": "10.1371/journal.pone.0353453",
+      "date_published": "2026-07-30T00:00:00",
+      "date_fetched": "2026-07-31T13:29:02.814093",
+      "doi": "10.1080/13548506.2026.2710904",
       "authors": [
         {
-          "name": "Sharon Jalene",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jason A Ciccotelli",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lauren Gatto",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christian Ison",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jaime Carbajal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrew Hooyman",
+          "name": "Naeima Alshaab Omran Alsadae",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mass casualty events (MCE), such as campus shootings, can severely impact the mental health of students, faculty, and staff. This study examined the psychological effects of an MCE at a minority-serving institution and explored how sense of belonging, cardiorespiratory fitness, and treatment preferences influenced recovery. To measure the impact of the MCE on mental health an anonymous survey was administered four to five months post-MCE to university students, faculty and staff. Within the survey, participants were asked to retrospectively report their depression (PHQ-9) and anxiety (GAD-7) symptoms as they recalled them two weeks prior to the MCE, and as they experienced them in the two weeks preceding survey completion. The survey also included current measures of sense of belonging (SBS), perceived discrimination (PEDQ), estimated cardiorespiratory fitness (eCRF), and intervention preference to cope with the impacts of the MCE. Participants reported significant perceived increases in PHQ-9 and GAD-7 scores from the pre-MCE recall to current time-periods. Increases in depression (PHQ-9 scores) from pre-MCE to recent recall were larger among respondents with lower pre-MCE anxiety (GAD-7 scores), higher perceived discrimination (PEDQ), and those currently receiving treatment for anxiety or depression; respondents not receiving treatment showed no significant change. Among students, lower belonging scores were associated with greater increases in depression. Neither belonging nor perceived discrimination were strongly linked to individual variables, indicating their multifactorial nature. Most participants reported a preference to learning about alternative interventions such as exercise or meditation over pursuing university counseling services.",
-      "journal": "PloS one",
+      "abstract": "Mental health issues are prevalent among individuals with Irritable Bowel Syndrome (IBS), yet the cognitive and psychological mechanisms underlying these challenges remain underexplored. This study examined the relationships among mental alertness, psychological flexibility, and mental health, focusing on the mediating role of psychological flexibility. A sample of 300 Libyan IBS patients completed the Cognitive Failures Questionnaire (CFQ), Acceptance and Action Questionnaire II (AAQ-II), and Depression, Anxiety, and Stress Scale-21 (DASS-21). Correlational and mediation analyses were conducted to assess direct and indirect associations. Mental alertness was negatively correlated with psychological distress (",
+      "journal": "Psychology, health & medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -600,37 +1516,90 @@
       "matched_keywords": []
     },
     {
-      "title": "Neural dynamics of mindfulness training: A longitudinal EEG network analysis of focused attention and open monitoring meditation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42529651/",
+      "title": "A Scoping Review of Interventions That Promote Life, Occupational, and Work-Life Balance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533491/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-07-30T13:24:51.629582",
-      "doi": "10.1162/NETN.a.555",
+      "date_published": "2026-07-30T00:00:00",
+      "date_fetched": "2026-07-31T13:29:02.814133",
+      "doi": "10.1177/15394492261468364",
       "authors": [
         {
-          "name": "Yanli Lin",
+          "name": "Whitney Lucas Molitor",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marne L White",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jihong Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Todd S Braver",
+          "name": "Allison Naber",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Neural oscillatory activity within the alpha and theta bands have long been considered putative markers of state mindfulness, yet understanding of their functional role has been limited by the challenges of linking objective brain indices with subjective experience. To address this gap, the current study applied longitudinal network analysis to a unique dataset from 16 novices who completed up to 24 laboratory training sessions of both focused attention (FA) and open monitoring (OM) meditation, during which both EEG and self-report measures of state mindfulness quality were collected. This approach enabled the parsimonious characterization of both cross-lagged temporal (across-session) and contemporaneous (within-session) influences of regional spectral power on state mindfulness. The analysis revealed distinguishable neurophenomenological network structures for each practice, providing data-driven support for their theoretical differentiation. These distinctions emerged alongside shared commonalities to both practices, including strong autoregressive effects for state mindfulness, consistent with training-related skill acquisition, and opposing regional influences of frontal versus posterior alpha power. Taken together, these findings challenge monolithic interpretations of meditation-related EEG activity, advancing a more nuanced neurophenomenological approach wherein the functional significance of neural activity is dynamically situated within the specific type and time course of training.",
-      "journal": "Network neuroscience (Cambridge, Mass.)",
+      "abstract": "Life, occupational, and work-life balance are essential factors influencing health, well-being, and quality of life. Although these concepts are frequently discussed, their definitions remain inconsistent, and research based on interventions is limited. This study aims to identify interventions that promote life, occupational, or work-life balance and to explore how these concepts are understood within intervention studies. A scoping review was conducted using the Joanna Briggs Institute framework and PRISMA-ScR guidelines. Eighteen studies met the inclusion criteria. Participants in the included studies were adults, health care workers, individuals with mental health conditions, and students. Interventions focused on time use, mindfulness, gratitude/happiness training, behavior change, and storytelling. Findings indicate diverse intervention approaches are used to promote balance and well-being. However, variability in how life, occupational, and work-life balance are described and measured highlights the need for greater conceptual clarity.",
+      "journal": "OTJR : occupation, participation and health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mindfulness-based interventions for opioid misuse: A systematic review of randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532378/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-07-30T00:00:00",
+      "date_fetched": "2026-07-31T13:29:02.814363",
+      "doi": "10.1016/j.josat.2026.210076",
+      "authors": [
+        {
+          "name": "Satish K Kedia",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shreya Sirohi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nikhil A Ahuja",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Coree Entwistle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Patrick J Dillon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Asos Mahmood",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hongmei Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shengqiang Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michael Schmidt",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Opioid misuse and opioid use disorder (OUD) remain critical public health concerns. Pharmacological and psychosocial treatment methods do not always fully address craving, emotional dysregulation, pain-related distress, and other recovery processes associated with opioid misuse/OUD. Mindfulness-based interventions (MBIs), including yoga- and meditation-based approaches, may help address these gaps. This systematic review evaluated randomized controlled trials (RCTs) examining the effectiveness of mindfulness-based interventions for opioid misuse and OUD. METHODS: Following PRISMA 2020 guidelines, we searched five databases (PubMed, Scopus, PsycINFO, CINAHL, and Ovid) for peer-reviewed RCTs published in English between 2010 and 2025 that evaluated MBIs in adults with opioid misuse or OUD. Seventeen articles representing 14 distinct RCTs met inclusion criteria from a pool of 293 records. We applied the Cochrane Risk of Bias 2 tool and conducted a descriptive synthesis of outcomes (PROSPERO: CRD420261382140). RESULTS: Ten studies evaluated Mindfulness-Oriented Recovery Enhancement (MORE), while seven examined other mindfulness-based approaches. Most studies included treatment-as-usual or active comparison conditions. Across studies, MBIs were associated with reductions in opioid craving and opioid misuse/use outcomes, alongside improvements in pain-related functioning, emotional regulation, psychological distress, and quality of life. MORE demonstrated the strongest and most consistently developed evidence base, while findings from other MBIs were promising but more variable in methodological quality and outcome consistency. CONCLUSIONS: MBIs appear to be promising adjunctive approaches for opioid misuse/OUD treatment and recovery, particularly for craving, pain-related functioning, emotional regulation, and psychological distress. However, study heterogeneity and variability in methodological quality warrant cautious interpretation. Future research should explore scalability, durability of effects, and implementation across diverse treatment settings.",
+      "journal": "Journal of substance use and addiction treatment",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
