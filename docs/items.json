@@ -1,168 +1,48 @@
 {
-  "generated_at": "2026-08-02T12:55:56.136878",
+  "generated_at": "2026-08-03T14:13:07.011952",
   "papers": [
     {
-      "title": "Gender differences in the influence of app-based mindfulness meditation on emotion regulation: a randomised controlled trial",
-      "url": "https://www.semanticscholar.org/paper/9e7bce6f4ad33f476d75b5be7a9e268bb72ecca3",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-06T00:00:00",
-      "date_fetched": "2026-08-02T12:55:21.121678",
-      "doi": "10.1038/s41598-026-46317-z",
-      "authors": [
-        {
-          "name": "K. Adachi",
-          "author_id": "153028693",
-          "affiliation": null
-        },
-        {
-          "name": "Takumu Kurosawa",
-          "author_id": "2088250692",
-          "affiliation": null
-        },
-        {
-          "name": "Ryu Takizawa",
-          "author_id": "2303584958",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigated whether gender moderates the effects of online mindfulness-based interventions (MBIs) on mental health outcomes in non-clinical populations. Specifically, we explored gender-related patterns in emotion regulation and cognitive flexibility. Data were obtained from a randomised controlled trial employing a crossover design in 2022 and 2023. Three hundred Japanese workers employed for at least 20 h weekly were randomly allocated to either an intervention or a waitlist group. The participants engaged in a four-week, app-based MBI involving daily guided practices, including brief breathing and body-scan meditations, with either loving-kindness or open-monitoring components. Perceived stress, anger, psychological flexibility, self-esteem, and emotion regulation were assessed at baseline and immediately after the four-week intervention or waitlist period. Interaction analyses between groups and gender revealed significant effects for cognitive flexibility (p = 0.023, partial \u03b72\u2009=\u20090.018) and angry reaction (p = 0.007, partial \u03b72\u2009=\u20090.025), although these findings did not survive correction for multiple testing. Exploratory simple slope analyses showed women showed greater cognitive flexibility (p = 0.034, Cohen\u2019s d\u2009=\u20090.36) and reduced angry reactions (p < 0.001, Cohen\u2019s d = \u22120.56), whereas men showed no significant changes in either variable (p = 0.202, Cohen\u2019s d = -0.29 and p = 0.350, Cohen\u2019s d\u2009=\u20090.22, respectively). This study tentatively suggests that brief online MBIs in preventive contexts may be associated with greater improvements in cognitive flexibility, with exploratory patterns indicating possible gender-related heterogeneity. However, these gender-related patterns should be interpreted cautiously. Considering individual differences, including gender, may help guide future preregistered personalisation research of digital psychological interventions. Supplementary Information The online version contains supplementary material available at 10.1038/s41598-026-46317-z.",
-      "journal": "Scientific Reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Role of Mindfulness Meditation on Pain Sensation, Stress Reduction, Anxiety, and Sleep Quality of Young Adult Female Patients with Non-specific Chronic Low Back Pain",
-      "url": "https://www.semanticscholar.org/paper/8bb3a69481345c5f62dafffe224b67fd0ebe6e40",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-15T00:00:00",
-      "date_fetched": "2026-08-02T12:55:21.121689",
-      "doi": "10.25259/bjpsy_7_2026",
-      "authors": [
-        {
-          "name": "D. Ghosh",
-          "author_id": "2055607135",
-          "affiliation": null
-        },
-        {
-          "name": "Sanchita Ghosh",
-          "author_id": "2320733367",
-          "affiliation": null
-        },
-        {
-          "name": "Swagata Chakraborty",
-          "author_id": "2365434847",
-          "affiliation": null
-        }
-      ],
-      "abstract": "\n \n Mindfulness refers to bring attention to the current moment.\n \n \n \n Mindfulness or meditation\u2013based interventions help to improve pain symptomology across a wide range of pain-connected disorders.\n \n \n \n A total of 60 female participants, aged 19-40 years (mean age 32.33), who were diagnosed with non-specific chronic low back pain by physicians, were selected for the present study. Participants were randomly assigned to two groups: 1. the study group (involved in mindfulness meditation practice, i.e., body scan & thought observation, and usual medical care, i.e., pharmacotherapy & physiotherapy); and 2. the control group (not involved in any meditation practice, only received usual medical care, i.e., pharmacotherapy & physiotherapy). The participants were assessed by the mcgill pain questionnaire, sleep quality scale (SQS), state-trait anxiety inventory (STAI), and perceived stress scales (PSS) at pre- and post-intervention levels. Data were examined using the Wilcoxon Signed Rank Test, Mann- Whitney U Test, and Spearman\u2019s Rank Correlation.\n \n \n \n \n Results revealed that mindfulness meditation practice helped the study group perceive a significantly lesser amount of pain (\n p<\n 0.01). Their perceived stress (\n p<\n 0.01) and anxiety (\n p<\n 0.01) levels decreased; sleeping quality (\n p <\n 0.01) improved.\n \n \n \n \n Mindfulness meditation (body scan, thought observation) practice was effective in reducing pain sensation, stress level, and anxiety levels. It helped to improve the sleep quality of young adult female patients with Non-Specific Chronic Low Back Pain.\n",
-      "journal": "Bengal Journal of Psychiatry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Mindfulness-Based Intervention to Lower Post-Traumatic Stress Disorder in Survivors of Domestic Violence",
-      "url": "https://www.semanticscholar.org/paper/b4bb08c8a79460e4d5cda873e360eb5121dfcd53",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-30T00:00:00",
-      "date_fetched": "2026-08-02T12:55:21.121838",
-      "doi": "10.22146/gamajpp.92991",
-      "authors": [
-        {
-          "name": "Vincent Eddy Kuncoro Hartono",
-          "author_id": "2427196139",
-          "affiliation": null
-        },
-        {
-          "name": "N. Hasanat",
-          "author_id": "116645647",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study aimed to reduce post-traumatic stress disorder (PTSD) levels in survivors of domestic violence (DV) through a mindfulness-based intervention program modified from Brief Mindfulness-Based Stress Reduction (BMBSR) and Mindfulness-Based Distress Management Training. Seven female DV survivors were involved in the program, which consisted of six meetings over three weeks. The participants practiced breathing meditation, body-scan meditation, loving-kindness meditation, and sitting meditation. They also performed walking meditation, eating meditation, and mindful yoga. The study used a quasi-experimental one-group pre-test post-test design, and the author measured the participants' PTSD using the Impact of Event Scale - Revised (IES-R). The results of analysis using the Wilcoxon Signed Rank Test showed a significant difference in PTSD scores, with a Z value of -2.366 (p< .05), which indicates that the mindfulness-based intervention used in this study can significantly lower PTSD in domestic violence survivors. Participants experienced a reduction in intrusion (recurrence of traumatic events), avoidance (avoidance of stimuli), and hypervigilance (excessive response to stimuli).",
-      "journal": "Gadjah Mada Journal of Professional Psychology (GamaJPP)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "body scan meditation"
-      ]
-    },
-    {
-      "title": "Do Acceptance- and Mindfulness-Based Interventions Improve Psychological Flexibility in People With Chronic Pain? A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541442/",
+      "title": "Enhancing mindfulness and compassion through an ayahuasca-inspired formulation containing N,N-DMT and harmine: A randomized controlled trial in healthy subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40536012/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-08-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:44.495674",
-      "doi": "10.1002/ejp.70342",
+      "date_fetched": "2026-08-03T14:12:55.428219",
+      "doi": "10.1177/02698811251344689",
       "authors": [
         {
-          "name": "Juan P Sanabria-Mazo",
+          "name": "Helena D Aicher",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Carla Rodr\u00edguez-Freire",
+          "name": "Ilhui A Wicki",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Est\u00edbaliz Royuela-Colomer",
+          "name": "Daniel Meling",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Paula Ponce-L\u00f3pez",
+          "name": "Michael J Mueller",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Pablo Alonso-Coello",
+          "name": "Dario A Dornbierer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Valentina Barrios",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jaime Navarrete",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adri\u00e1n P\u00e9rez-Aranda",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lance M McCracken",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Juan V Luciano",
+          "name": "Milan Scheidegger",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Acceptance- and mindfulness-based interventions are effective for improving pain-related outcomes, yet their effects on psychological flexibility have not been meta-analyzed. This systematic review and meta-analysis addressed this gap by comparing these interventions with control conditions on psychological flexibility and its core dimensions in adults with chronic pain. METHODS: Searches were conducted in PsycINFO, MEDLINE, Cochrane CENTRAL, Scopus and Web of Science from inception to May 2025. Sixty randomized controlled trials comprising 6692 participants were included. Meta-analyses were conducted for global psychological flexibility (k\u2009=\u200917), acceptance (k\u2009=\u200938), committed action (k\u2009=\u20094) and values (k\u2009=\u20094). Heterogeneity, risk of bias and certainty of evidence were assessed. RESULTS: Interventions significantly improved psychological flexibility at post-treatment, short-term (\u2264\u20096\u2009months) and long-term (>\u20096\u2009months) follow-up (g\u2009=\u20090.35-0.69), and acceptance across all time points (g\u2009=\u20090.41-0.77). Effects for committed action and values were non-significant. Heterogeneity was substantial, most trials had a high risk of bias, and the certainty of evidence was low to very low. Moderator analyses indicated larger effects when interventions were compared with inactive controls, delivered by psychologists or implemented as stand-alone programs. CONCLUSIONS: Evidence suggests that acceptance- and mindfulness-based interventions may improve global psychological flexibility and acceptance. However, the certainty of evidence was low to very low, and most included trials were at high risk of bias. More rigorous trials are needed to clarify effects across specific dimensions of psychological flexibility. SIGNIFICANCE STATEMENT: This systematic review and meta-analysis provide the first comprehensive synthesis of the effects of acceptance- and mindfulness-based interventions on psychological flexibility in chronic pain. These findings show that these interventions improve psychological flexibility, particularly pain acceptance, supporting it as a clinically relevant treatment target. TRIAL REGISTRATION: PROSPERO: CRD420251018441.",
-      "journal": "European journal of pain (London, England)",
+      "abstract": "BACKGROUND: Mindfulness and compassion are therapeutically relevant and can be increased through different forms of meditation practices. However, meditation practice needs time and commitment. These resources are often limited in patients with mood disorders. Therefore, efficacious remedies that increase mindfulness and compassion could provide therapeutic options. This study aimed to investigate the relationship between psychedelic experiences induced by an ayahuasca-inspired N,N-dimethyltryptamine (DMT)/harmine formulation on mindfulness and compassion in healthy subjects. METHODS: This study applies a randomized, double-blind, placebo-controlled within-subjects design in a laboratory setting with 31 healthy participants. Each subject received a formulation comprising DMT\u2009+\u2009harmine, harmine\u2009+\u2009placebo, and placebo only on three different study days. Primary outcomes were mindfulness (MINDSENS) and compassion (SOCS). RESULTS: A significant effect of the drug on mindfulness ( CONCLUSIONS: In line with previous studies on traditional botanical ayahuasca, our findings support the notion that the DMT/harmine formulation might have therapeutic potential through its ability to acutely enhance mindfulness and compassion. Continuing studies in therapeutic settings are needed to further elucidate the mechanisms of action of ayahuasca-inspired formulations.",
+      "journal": "Journal of psychopharmacology (Oxford, England)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -170,100 +50,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Lifestyle and Behavioral Factors and Cancer Survivorship in Women.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42539645/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-07-30T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.848242",
-      "doi": "10.1177/15598276261472804",
-      "authors": [
-        {
-          "name": "Warren Szewczyk",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alexi Vasbinder",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chi-Shan Tsai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "HyunHae Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hyo Chan Park",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Emma Cleary",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sophia Judish",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert Peterson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adin Taheri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Beth Frates",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amy Comander",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kerryn W Reding",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "A growing number of women in the United States are cancer survivors. Behavioral and lifestyle factors are important components of health during and after cancer treatment and are modifiable with sustained behavior change. In this review, we summarize published evidence on the associations of the American College of Lifestyle Medicine's 6 lifestyle pillars-nutrition, physical activity, stress management, avoidance of risky substances, restorative sleep, and social connection-with survival and cancer recurrence among female cancer survivors and on the effects of interventions to modify each pillar in this population. We found that most of the 6 pillars have been associated with mortality and recurrence in large observational studies. Physical activity interventions have been associated with the broadest range of health benefits among female cancer survivors, including improved quality of life, cardiorespiratory fitness, physical functioning, mental health, sleep, and survival. Cognitive behavioral therapy and mindfulness-based relaxation, including mind-body exercises such as yoga, have also consistently shown efficacy for improving sleep and mental health. More work is needed to identify effective interventions for diet, alcohol and tobacco use, and social support and for improving maintenance of lifestyle changes. Implications for integrating behavioral and lifestyle medicine into clinical oncology are discussed.",
-      "journal": "American journal of lifestyle medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Inner strength in rehabilitation care: a philosophical framework of inner balance and inner posture.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541676/",
+      "title": "Predicting and exploring ayahuasca effects: Perception, mind-wandering, and EEG oscillations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41342247/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-08-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.848731",
-      "doi": "10.1007/s11019-026-10385-9",
+      "date_fetched": "2026-08-03T14:13:06.262626",
+      "doi": "10.1177/02698811251389563",
       "authors": [
         {
-          "name": "Hielke Bosma",
+          "name": "Natan Silva-Costa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "J\u00e9ssica Andrade Pessoa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "K\u00e1tia Cristina Andrade",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S\u00e9rgio Mota-Rolim",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fernanda Palhano-Fontes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Draulio B Araujo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Isabel Wie\u00dfner",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Rehabilitation care concerns not only the restoration of function but also how persons live through disruption. Injury and illness may bring loss, uncertainty, altered dependence, changed self-understanding, and a changed horizon of life. Concepts such as coping and resilience capture important aspects of adaptation but do not fully clarify the inner work involved in bearing and inhabiting such change. This paper argues that inner strength can provide a useful concept for clarifying that work. The paper develops a philosophical framework with a preparatory layer and two related dimensions. Inner base names foundational exercises of attention, breath, and body awareness. Inner balance names the centering work of recollection and steadier judgment, while inner posture names the orienting work of finding a viable relation to limitation, vulnerability, and a wider horizon of meaning. Drawing on Pierre Hadot's account of philosophy as a way of life, the paper interprets inner balance and inner posture through the complementary movements of concentration and expansion. It places this proposal in dialogue with rehabilitation research on inner posture and global meaning, and with literature on meaning-making, resilience, mindfulness, and existential care. The framework is conceptual rather than a validated intervention model. It offers a more differentiated vocabulary for grounding, centering, and orientation in rehabilitation care.",
-      "journal": "Medicine, health care, and philosophy",
+      "abstract": "BACKGROUND: Psychedelics induce profound changes in perception and thinking; however, little is known about the neural mechanisms and prediction of these effects. AIMS: Investigating ayahuasca-induced experiences, mind-wandering, and electroencephalogram (EEG) oscillations, beyond the prediction of subjective experiences by baseline EEG. METHODS: In a randomised, double-blind, placebo-controlled, parallel-arm design, 50 healthy volunteers received 1\u2009mL/kg of ayahuasca or placebo. We measured subjective psychedelic experiences (Hallucinogen Rating Scale (HRS), Mystical Experience Questionnaire (MEQ)) and mind-wandering (Amsterdam Resting-State Questionnaire (ARSQ)). EEG signals were assessed before administration (+0h), and 2\u2009hours (+2h) and 4\u2009hours (+4h) post-administration. Relationships between subjective and EEG effects were examined. RESULTS: Ayahuasca, compared to placebo, induced subjective experiences, including changed perception, cognition, emotion (HRS), mystical experiences (MEQ), and visual, discontinuous, and content-laden thinking (ARSQ). Ayahuasca, compared to placebo, changed EEG oscillations, including decreased global alpha as well as increased frontomedial delta and right posterior theta and beta. Under ayahuasca, lower theta correlated with higher mystical experiences (MEQ) and higher alpha correlated with lower Thoughts about Nothing (ARSQ). Baseline global EEG oscillations predicted ayahuasca-induced experiences, with lower theta linked to higher interoception (HRS Heart Beat, HRS Rush, ARSQ Somatic Awareness) and lower beta linked to higher positive emotionality (HRS Happy). CONCLUSION: Ayahuasca induced consciousness alterations, visual, bodily, emotional, and mystical experiences, chaotic and meaningful mind-wandering, and decreased especially alpha. While acute theta seems inversely related to mystical experiences, baseline theta and beta seem to inversely predict interoception and emotionality.",
+      "journal": "Journal of psychopharmacology (Oxford, England)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -271,379 +103,47 @@
       "matched_keywords": []
     },
     {
-      "title": "How high ventilation breathwork alters consciousness: Hypoperfusion, network dynamics, and subjective experience.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42542287/",
+      "title": "Apps for people with vision impairment: an international review of practitioner suggestions and app availability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41734772/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-08-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.849827",
-      "doi": "10.1016/j.pnpbp.2026.111873",
+      "date_fetched": "2026-08-03T14:13:06.263606",
+      "doi": "10.1080/08164622.2026.2631757",
       "authors": [
         {
-          "name": "Christian N Schmitz",
+          "name": "Vijaya K Gothwal",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marijan Bernardic",
+          "name": "Andrew Miller",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anamaria-Domnica Vl\u0103doiu",
+          "name": "Mei Ying Boon",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rida Harris",
+          "name": "Ahalya Subramanian",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Daniele Carmana",
+          "name": "Alexis Malkin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Laura K\u00e4rtner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gunilla Oberth\u00fcr",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gerhard Gr\u00fcnder",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hana Adolphi",
+          "name": "Ava K Bittner",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "High ventilation breathwork (HVB) is increasingly used in psychotherapeutic and contemplative contexts to induce altered states of consciousness (ASC), yet its neurobiological mechanisms remain poorly understood. Thirty experienced HVB practitioners (mean age 44.97\u202f\u00b1\u202f11.80\u202fyears) underwent perfusion and resting-state fMRI to assess acute cerebrovascular and post-acute network changes. Cerebral blood flow (CBF) was measured using arterial spin labelling during baseline and the interval of maximal subjective effects. Acute psychotropic effects were rated using an online Likert scale, ASC intensity was assessed immediately after breathwork with the 5-Dimensional Altered States of Consciousness (5D-ASC) scale. HVB induced a 45.5% reduction in global grey matter cerebral blood flow (CBF; 29.81\u202f\u00b1\u202f7.58 vs. 16.24\u202f\u00b1\u202f4.35\u202fml/100\u202fg/min; t(29)\u202f=\u202f-10.69, p\u202f<\u202f0.001), accompanied by increased heart and respiratory rate. Default mode network (DMN) functional connectivity (FC) did not change significantly at the group level. In further exploratory analyses, greater decreases in DMN FC (pre - post breathwork) predicted higher 5D-ASC rating (\u03b2\u202f=\u202f-4.88, p\u202f<\u202f0.05) in analyses using global signal regression, though this association was not significant without global signal regression (p\u202f=\u202f0.75). CBF reductions were not associated with \u0394DMN-FC or 5D-ASC ratings. HVB produces marked global cerebral hypoperfusion without systematic DMN FC changes, suggesting that hypoperfusion and network dynamics may represent partially dissociable mechanisms underlying breathwork-induced ASC. As a controllable, non-pharmacological means of inducing ASC, HVB may hold promise as a psychotherapeutic and psychedelic-adjacent intervention.",
-      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The physical and emotional impact of serious adverse patient events on neurosurgeons.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541814/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.850611",
-      "doi": "10.3171/2026.4.FOCUS2669",
-      "authors": [
-        {
-          "name": "Mark S Dias",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mark Iantosca",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heather L Stuckey",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Candace Bordner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erik Lehman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mara Trifoi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hannah Wilding",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: Serious adverse patient events (SAPEs) can result in secondary traumatic stress (STS) among healthcare providers, leading to physical and emotional responses and maladaptive behaviors that can ultimately lead to increased healthcare costs and an increased risk for subsequent SAPEs. These responses have not been previously examined specifically among neurosurgeons; therefore, the authors herein undertook a survey of neurosurgeons to elucidate these responses. METHODS: Neurosurgeon members of the AANS were invited, via email, to complete an online mixed-methods survey that asked questions about the STS from their most significant SAPE and the trajectory of their STS over time. The survey included questions from validated tools for surveying depression, anxiety, and posttraumatic stress disorder. At the end of the survey, respondents were asked about their willingness to participate in a semi-structured qualitative televideo interview to further understand their experiences. RESULTS: Eighty-seven online surveys were received (response rate 1.2%), and 5 televideo interviews were conducted. All respondents had experienced \u2265 1 SAPE; 98.9% had experienced one or more physical, cognitive, and/or emotional responses within the first 2 weeks after the event. STS from the most serious or emotionally impactful SAPE lasted a median of 6 months; 45.4% of respondents with available data reported an ongoing impact. The median severity of STS during the first 2 weeks postevent was 4 on a 6-point Likert scale (6, extreme impact). Almost two-thirds of respondents believed that their STS impacted their professional and personal performance during the first 2 weeks, and 71.7% believed it increased the risk of subsequent events during the first month after the event. STS was greater if the SAPE resulted from the respondent's action or inaction. The severity of the response increased with the seriousness of patient harm, the degree of personal responsibility, and litigation. Coping strategies most frequently included talking with others (colleagues, spouse or partner, family, friends), problem-solving to prevent recurrences, positive self-talk, exercise, hobbies or other activities, meditation or mindfulness, decreased work hours, and consulting with a spiritual advisor. Quality improvement conferences and litigation or the fear of litigation increased STS. Most respondents were unaware of any institutional support for STS. Almost half of respondents indicated that STS to subsequent SAPEs improved over their careers; another 42.2% reported no change. Notably, nearly one-third of respondents considered changing their employment or profession or made serious efforts to do so. CONCLUSIONS: STS may be a significant issue for a proportion of neurosurgeons, although the generalizability of the study findings is limited considering the low response rate. Recommendations to mitigate the effects of STS are reported.",
-      "journal": "Neurosurgical focus",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "An international perspective on grief in neurosurgery: a survey study on how neurosurgeons deal with complications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541808/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.851089",
-      "doi": "10.3171/2026.5.FOCUS26128",
-      "authors": [
-        {
-          "name": "Victor Gabriel El-Hajj",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Keenan Piper",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Joanna Roy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Basel Musmar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carina El-Hajj",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brigid Magdamo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alexandra Turqui Castillo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elias Atallah",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Theresa Williamson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "M Reid Gooch",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stavropoula Tjoumakaris",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert H Rosenwasser",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mar\u00eda Luisa Gand\u00eda-Gonz\u00e1lez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Adrian Elmi-Terander",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "James Evans",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Victor E Staartjes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pascal Jabbour",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: Complications in neurosurgery are virtually inevitable due to the specialty's high-stakes nature. The emotional impact of these events on neurosurgeons is profound, yet little is known about how surgeons cope across different healthcare and cultural systems. Understanding these coping mechanisms is critical to support well-being and reduce burnout. Hence, the authors aimed to characterize the emotional and behavioral responses of neurosurgeons to complications and to examine differences in coping strategies between practitioners in Europe and the US. METHODS: The authors conducted an international, cross-sectional survey of practicing neurosurgeons and neurosurgery residents. The survey assessed baseline characteristics, experiences with complications, emotional impact, coping behaviors (adaptive and maladaptive), psychological defense mechanisms, and effects on clinical practice and professional confidence. RESULTS: A total of 256 respondents (114 Europe, 142 US) completed the survey. Complications were almost universally experienced. Emotional impact was substantial, with 99% reporting at least minimal immediate distress and 98% having persistent long-term effects. Adaptive coping strategies, such as taking complications as teaching opportunities (81%), discussing with partners (64%) or mentors (52%), and engaging in physical activity (57%), were common, whereas maladaptive behaviors, including sleep disturbances (55%), social withdrawal (33%), and procrastination (29%), were also prevalent. Similarly, mature psychological defenses, including humor (57%), affiliation (54%), altruism (50%), suppression (45%), and sublimation (25%), were frequently used, although negative defenses such as intellectualization (70%), rationalization (41%), and isolation (38%) remained common. Some regional differences were observed. US neurosurgeons were more frequently implicated in litigation and were more likely to utilize faith, mindfulness, and therapy (p < 0.05). They also reported utilizing mature defense mechanisms humor, affiliation, and sublimation more commonly than European counterparts (p < 0.05). European neurosurgeons were more likely to question their clinical abilities and less likely to admit fault to the patient every time (p < 0.05). Complications influenced professional confidence (72%) and caused practice modifications in a substantial share of surgeons both short term (43%) and long term (20%). CONCLUSIONS: Complications in neurosurgery are unavoidable and associated with substantial emotional burden. Surgeons use a spectrum of coping behaviors and defense mechanisms, with adaptive strategies and mature defenses supporting resilience and professional growth. The principle of \"forgive and remember\" provides a constructive framework: self-forgiveness facilitates moving forward, while remembering and learning from complications supports professional development and improved patient care.",
-      "journal": "Neurosurgical focus",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Group-Based Interventions for Posttraumatic Stress Disorder: A Systematic Review and Meta-Analysis of the Role of Trauma Type.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42539799/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.851141",
-      "doi": "10.1177/18911803261471160",
-      "authors": [
-        {
-          "name": "\u00c9adaoin Whelan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Siobh\u00e1n M Griffin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elayne Ahern",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Al\u017eb\u011bta Lebedov\u00e1",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Grace McMahon",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daragh Bradshaw",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Orla T Muldoon",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Post-traumatic stress disorder (PTSD) is associated with poor health outcomes. While group-based therapies offer accessible treatment options, their effectiveness remains unclear. Social identity factors, such as shared group membership and stigma, may influence treatment success. OBJECTIVES: This review examined: (1) the effectiveness of group-based treatments for PTSD symptoms, (2) differences between group and individual therapies, (3) whether trauma type (e.g., interpersonal, stigmatized) and group fit (e.g., gender, shared trauma) moderate outcomes, and (4) the role of group and social identity factors in existing research. SEARCH METHODS: A systematic search (April 2023, re-run May 2025) identified quantitative studies of group therapies (\u22653 participants, \u22655 sessions) addressing PTSD symptoms, compared to individual or control conditions. Forty studies met criteria (23 RCTs, 17 non-RCTs) from an initial pool of 8,256 records. Interventions included group CBT, counselling, psychodynamic, and other approaches. SELECTION CRITERIA: A variety of group-based treatments were eligible for inclusion, such as group-based CBT, CPT, and alternative group treatments. In line with previous research, protocols had to include a minimum of three individuals per group and meet for at least five sessions. Interventions assessed PTSD symptoms pre-intervention and post-intervention using a valid and reliable measure. DATA COLLECTION AND ANALYSIS: Primary outcome data was collected using valid measures of PTSD (e.g. CAPS, PCL). Effect sizes were computed for outcomes within each study. Where a study provided more than one effect size for each outcome, we accounted for this in statistical analyses. MAIN RESULTS: Across 40 studies in 11 countries, most involving women or mixed-gender groups, trauma types varied, with combat-related PTSD most common ( AUTHORS\u2019 CONCLUSIONS: Group-based interventions reduce PTSD symptoms. Larger effects were observed for certain group characteristics, such as participant age, group size, gender, and shared experiences; however, findings are exploratory and should be interpreted with caution. Some limitations should also be considered. The majority of included studies had some concerns or were at moderate risk of bias, there was unexplained heterogeneity between studies, as well as evidence of possible publication bias. However, sensitivity analyses excluding studies at high or serious risk of bias yielded similar findings. Future research should build on existing evidence to examine how social identity processes influence the effectiveness of group-based interventions for PTSD across diverse populations and formats.",
-      "journal": "Campbell systematic reviews",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Navigating patient death and grief in German neurosurgical residency: a mixed-methods study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541815/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-01T00:00:00",
-      "date_fetched": "2026-08-02T12:55:54.851258",
-      "doi": "10.3171/2026.5.FOCUS26160",
-      "authors": [
-        {
-          "name": "Mazin Omer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mamoun Ahmed",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Leon-Shanun Schroth",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marco Bissolo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Roberto Doria-Medina",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Oday Atallah",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fadi Al-Tarawni",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mohammed Ali",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mosab Adam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Michela Cifaldi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ahmed Alnaggar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeyhun Farzullayev",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tatiana Rivera Ramirez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hind Chaib",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Aaron Lawson McLean",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Florian Volz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "J\u00fcrgen Beck",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jussi P Posti",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: Neurosurgical residents encounter patient death during their training, yet the literature lacks understanding of their experiences and responses. The aim of this study was to explore how residents navigate patient death, communicate with families, and engage with coping and support mechanisms during their neurosurgical training in Germany. METHODS: The authors conducted a qualitative-dominant mixed-methods study among neurosurgical residents in Germany. The qualitative component included semistructured in-depth interviews and focus group discussions with neurosurgical residents. The quantitative component consisted of a cross-sectional survey administered across university, community, and private training hospitals. Emotional burden related to patient death was assessed using a 0-10 numeric rating scale, with 0 indicating no burden and 10 indicating the maximum perceived emotional impact. Data collection occurred between January and February 2026. RESULTS: Among 44 in-depth interviews, 2 focus group discussions, and a cross-sectional survey, 112 neurosurgical residents (70% male and 30% female; 57% in their 5th year or beyond, and 56% training in university hospitals) reported a range of experiences following patient deaths and serious clinical events. Junior residents, particularly those caring for pediatric patients or rapidly deteriorating adults, described heightened emotional engagement, self-reflection, and occasional self-doubt. In the 6 months preceding the survey, 41% (n = 46) of participants reported exposure to 1-2 patient deaths. The mean emotional burden increased with greater exposure to patient death; residents who reported 1-2 deaths scored 5.8 and those who reported \u2265 3 deaths scored 7.2. Residents reported relying primarily on informal coping strategies, including peer discussion (80%, n = 90), personal reflection, and self-directed activities such as exercise or mindfulness. Formal support mechanisms, including structured debriefings, mentorship, or psychological counseling, were less consistently available: 35% reported regular debriefings (n = 39), 28% had access to a mentor in cases of grief (n = 31), and fewer than 9% used institutional support services (n = 10). CONCLUSIONS: This study captured neurosurgical residents' experiences of grief, their communication with families, the emotional burden of patient deaths, as well as coping mechanisms that include both formal and informal strategies.",
-      "journal": "Neurosurgical focus",
+      "abstract": "CLINICAL RELEVANCE: Assistive smartphone apps play an integral role in supporting people with vision impairment (VI). Low vision rehabilitation (LVR) professionals need an understanding of these tools to provide effective, up-to-date guidance to help patients identify options that can improve daily functioning. BACKGROUND: Smartphones and assistive apps are widely used by people with VI, offering versatile and portable tools which support daily activities and promote independence. However, the volume and variability of apps create challenges for practitioners particularly as apps are updated frequently and artificial intelligence is gaining prominence. The purpose of this study is to describe how practitioners identify and make app recommendations. METHODS: An international cross sectional survey of LVR professionals was conducted to identify commonly recommended visual assistive apps. Responses were categorised by country income level and professional group of respondents. A concurrent search of English-language app stores, using predefined terms was performed to identify and compare assistive app availability with practitioner recommendations. RESULTS: App recommendation patterns varied by practitioner role and region. Optometrists frequently recommended magnifier apps, while therapists tended to suggest computer vision and sighted guide apps. Most commonly recommended apps were Seeing AI and Be My Eyes in high-income countries, and weZoom Magnifying glass and Be My Eyes in lower-income countries. Only two of ten most frequently recommended apps, Seeing AI and Be My Eyes, appeared consistently in app store searches across all four countries and both Android and iOS operating systems. CONCLUSION: Comparing practitioner recommendations reflects potential differences in access, awareness, training, device availability, and patient needs. Understanding these insights helps to inform clinical decision-making and encourage more consistent and tailored support to diverse patient populations. Given the rapid pace of app development, regular review of the most suitable apps and clear dissemination of reliable information to practitioners are essential for informed evidence-based decision making.",
+      "journal": "Clinical & experimental optometry",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
