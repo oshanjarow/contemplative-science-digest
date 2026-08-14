@@ -1,53 +1,998 @@
 {
-  "generated_at": "2026-08-13T12:42:56.715691",
+  "generated_at": "2026-08-14T12:38:38.336508",
   "papers": [
     {
-      "title": "An evidence-informed psychosocial intervention program for caregiver burden among family caregivers of children with autism spectrum disorder: a multi-stage development and Delphi study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42585162/",
+      "title": "NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition",
+      "url": "https://www.semanticscholar.org/paper/c43cf6c6d2a3a9774d2f8a1b35a3fe851643f81f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-08T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079480",
+      "doi": "10.48550/arXiv.2509.06927",
+      "authors": [
+        {
+          "name": "H. T. Hofte",
+          "author_id": "66234364",
+          "affiliation": null
+        },
+        {
+          "name": "Nick van Ravenzwaaij",
+          "author_id": "2379663971",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We introduce NeedForHeat DataGear: an open hardware and open software data collection system designed to accelerate the residential heating transition. NeedForHeat DataGear collects time series monitoring data in homes that have not yet undergone a heating transition, enabling assessment of real-life thermal characteristics, heating system efficiency, and residents'comfort needs. This paper outlines its architecture and functionalities, emphasizing its modularity, adaptability, and cost-effectiveness for field data acquisition. Unlike conventional domestic monitoring solutions focused on home automation, direct feedback, or post-installation heat pump monitoring, it prioritizes time series data we deemed essential to evaluate the current situation in existing homes before the heating transition. Designed for seamless deployment across diverse households, NeedForHeat DataGear combines openness, security, and privacy with a low-cost, user-friendly approach, making it a valuable tool for researchers, energy professionals, and energy coaches.",
+      "journal": "arXiv.org",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Benchmarking of open access publication rates for the pharmaceutical industry and research-intensive academic institutions: development and demonstration of a live, open monitoring tool",
+      "url": "https://www.semanticscholar.org/paper/0ee240fa1530d974af659e842019cff6825bcb07",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-02T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079540",
+      "doi": "10.1101/2024.09.14.613042",
+      "authors": [
+        {
+          "name": "Tomas J Rees",
+          "author_id": "2284739840",
+          "affiliation": null
+        },
+        {
+          "name": "Val\u00e9rie Philippon",
+          "author_id": "2321531682",
+          "affiliation": null
+        },
+        {
+          "name": "Andrew Liew",
+          "author_id": "2306725548",
+          "affiliation": null
+        },
+        {
+          "name": "S. Bar\u00f3nikov\u00e1",
+          "author_id": "66937807",
+          "affiliation": null
+        },
+        {
+          "name": "William T. Gattrell",
+          "author_id": "4191655",
+          "affiliation": null
+        },
+        {
+          "name": "Jo Gordon",
+          "author_id": "2321803279",
+          "affiliation": null
+        },
+        {
+          "name": "Taija S Koskenkorva",
+          "author_id": "2321531722",
+          "affiliation": null
+        },
+        {
+          "name": "S. Mysore",
+          "author_id": "47800081",
+          "affiliation": null
+        },
+        {
+          "name": "Joana Os\u00f3rio",
+          "author_id": "2321532095",
+          "affiliation": null
+        },
+        {
+          "name": "T. Koder",
+          "author_id": "51095477",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background In biomedical and health sciences, many articles are published open access (OA). OA publication rates continue to grow, especially for pharmaceutical research. Previous analyses of pharmaceutical OA publication rates were labor-intensive and not easily automated. We aimed to create a free, live, online dashboard comparing OA publication rates between pharmaceutical companies and academic institutions. Methods Using the Lens \u2013 an online platform aggregating full-text content and metadata for over 280 million scholarly works \u2013 we built a dashboard showing OA publication rates for medical research articles by authors from the top 40 pharmaceutical companies (pharma) and 40 research-intensive academic institutions (academia). The dashboard details OA rates by model, license and therapy area across three time frames: 12\u201324 months; 0\u201312 months; 0\u201310 years. We downloaded data from the dashboard between 24 July and 4 August 2023 and performed further analysis. Results Of the articles published 12\u201324 months before data extraction, 76.6% by pharma and 69.5% by academia were OA. The most common OA models were gold (pharma, 37%; academia, 41%) and hybrid (pharma, 22%; academia, 11%). Oncology had lower rates of OA articles than other therapy areas. In the 10 years before data extraction, growth in the OA publication rate was generally more rapid for pharmaceutical companies than for academic institutions, regardless of field (change in overall % OA 2013\u20132023: pharma, 3.1; academia, 1.6). Conclusions This dashboard provides novel and regularly updated evidence on the comparative OA publication practices of pharmaceutical companies and academic institutions. In our snapshot analysis, the OA publication rate was higher for pharmaceutical companies than for academic institutions and continues to increase. Notable differences were observed in approaches, in terms of licenses and OA models, which may reflect different institutional practices and circumstances. We encourage others to use this open resource for new research and to report their results.",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open Monitoring Meditation Integrates Immersive Visuals and Gaming Boxes: Art Therapy Design and Empirical Research for Anxious Groups in Generation Z",
+      "url": "https://www.semanticscholar.org/paper/4bb9dd3a840499b4ecc2055abfe0436f53ed8027",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-14T12:38:03.079545",
+      "doi": "10.1007/978-3-032-30083-6_8",
+      "authors": [
+        {
+          "name": "Binghua Li",
+          "author_id": "2447736600",
+          "affiliation": null
+        },
+        {
+          "name": "Ziyuan Chi",
+          "author_id": "2456450772",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "HCII",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Slope Stability Monitoring Methods and Technologies for Open-Pit Mining: A Systematic Review",
+      "url": "https://www.semanticscholar.org/paper/19049fc92eb2e250b3989e231d09664cf7ef59e2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-17T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079557",
+      "doi": "10.3390/mining5020032",
+      "authors": [
+        {
+          "name": "Rohan Le Roux",
+          "author_id": "2362499361",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sepehri",
+          "author_id": "2065931366",
+          "affiliation": null
+        },
+        {
+          "name": "Siavash Khaksar",
+          "author_id": "2133390396",
+          "affiliation": null
+        },
+        {
+          "name": "Iain Murray",
+          "author_id": "2275749162",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Slope failures in open-pit mining pose significant operational and safety issues, underscoring the importance of implementing effective stability monitoring frameworks for early hazard detection to allow for timely intervention and risk mitigation. This systematic review presents a comprehensive synthesis of existing and emerging methods and technologies used for slope stability monitoring in open-pit mining, including both remote sensing and in situ methods, as well as advanced technologies, such as Artificial Intelligence (AI), the Internet of Things (IoT), and Wireless Sensor Networks (WSNs). Using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) 2020 guidelines, a total of 49 studies were selected from a collection of four engineering databases, and a comparative analysis was conducted to determine the underlying differences between the various methods for open-pit slope stability monitoring in terms of their performance across key attributes, such as monitoring accuracy, spatial and temporal coverage, operational complexity, and economic viability. Their juxtaposition highlighted the notion that no universally optimal slope stability monitoring system exists, due to a series of compromises that arise as a result of inherent technological limitations and site-specific constraints. Notably, remote sensing methods offer large-scale, non-intrusive monitoring, but are often limited by environmental factors and data acquisition infrequency, whereas in situ methods provide high precision, but suffer from limited spatial coverage and scalability. This review further highlights the capacity of emerging methods and technologies to address these limitations, providing suggestions for future research directions involving the integration of multiple sensing technologies for the enhancement of monitoring capabilities. This study provides a consolidated knowledge base on open-pit slope stability monitoring methods, technologies, and techniques, to guide the development of integrated, cost-effective, and scalable slope monitoring solutions that enhance mine safety and efficiency.",
+      "journal": "Mining",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Continuous glucose monitoring in the management of gestational diabetes in Switzerland (DipGluMo): an open-label, single-centre, randomised, controlled trial.",
+      "url": "https://www.semanticscholar.org/paper/dd5617d02619bff9cc85823099110b8bfb51d3a7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079571",
+      "doi": "10.1016/s2213-8587(25)00063-4",
+      "authors": [
+        {
+          "name": "Sofia Amylidi-Mohr",
+          "author_id": "1397314070",
+          "affiliation": null
+        },
+        {
+          "name": "G. Zennaro",
+          "author_id": "2363590966",
+          "affiliation": null
+        },
+        {
+          "name": "S. Schneider",
+          "author_id": "2067749358",
+          "affiliation": null
+        },
+        {
+          "name": "L. Raio",
+          "author_id": "2251791230",
+          "affiliation": null
+        },
+        {
+          "name": "B. Mosimann",
+          "author_id": "5366962",
+          "affiliation": null
+        },
+        {
+          "name": "D. Surbek",
+          "author_id": "2242343954",
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND\nIn gestational diabetes, one of the key factors affecting perinatal outcomes is glycaemic control. We aimed to investigate the effect of real-time continuous glucose monitoring (rtCGM) on perinatal outcomes versus self-monitoring of blood glucose (SMBG).\n\n\nMETHODS\nIn this open-label, randomised, controlled trial, we recruited pregnant individuals aged 18-45 years with gestational diabetes, according to the International Association of Diabetes and Pregnancy Study Groups criteria, from a university hospital in Bern, Switzerland. Participants were randomly assigned (1:1) to the rtCGM intervention group or the SMBG control group. Randomisation was done centrally on the basis of pre-pregnancy BMI, previous gestational diabetes, family history of type 2 diabetes, and ethnicity. The primary endpoint was a composite of perinatal outcomes: large for gestational age, macrosomia, polyhydramnios, neonatal hypoglycaemia, and stillbirth. Key secondary outcomes were patient preference and maternal glycaemic control. Analyses were conducted on an intention-to-treat basis. This trial is registered with ClinicalTrials.gov, NCT05037526.\n\n\nFINDINGS\nBetween Sept 29, 2021, and June 11, 2024, 302 pregnant women with gestational diabetes were included in the study and randomly assigned to one of the groups. 156 participants were assigned to the rtCGM intervention group and 143 were assigned to the SMBG control group completed the study. Primary outcome data were available for 297 (99%) of 299 participants. The composite outcome did not differ significantly between the two groups (odds ratio 1\u00b702 [95% CI 0\u00b763-1\u00b766]). The only adverse events were skin changes, occurring in six (4%) participants in the rtCGM intervention group and in one (<1%) participant in the SMBG control group (blinded device).\n\n\nINTERPRETATION\nOur results show that the outcome in individuals with gestational diabetes is not improved by the use of rtCGM. However, individuals expressed a higher preference for the rtCGM device. This finding suggests that rtCGM could be offered to simplify the management of gestational diabetes. A cost-effectiveness study could address what method requires fewer resources. To our knowledge, this is the first randomised trial powered to evaluate the efficacy of rtCGM regarding pregnancy outcomes.\n\n\nFUNDING\nThe University of Bern and the Swiss Diabetes Foundation.\n\n\nTRANSLATION\nFor the German translation of the abstract see Supplementary Materials section.",
+      "journal": "The Lancet Diabetes and Endocrinology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "A Review of Open Remote Sensing Data with GIS, AI, and UAV Support for Shoreline Detection and Coastal Erosion Monitoring",
+      "url": "https://www.semanticscholar.org/paper/e055d3177a6cce0e2564478c39aa1c63a741989e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-25T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079585",
+      "doi": "10.3390/app15094771",
+      "authors": [
+        {
+          "name": "D. Christofi",
+          "author_id": "108274275",
+          "affiliation": null
+        },
+        {
+          "name": "C. Mettas",
+          "author_id": "51900676",
+          "affiliation": null
+        },
+        {
+          "name": "E. Evagorou",
+          "author_id": "51891980",
+          "affiliation": null
+        },
+        {
+          "name": "Neophytos Stylianou",
+          "author_id": "5714036",
+          "affiliation": null
+        },
+        {
+          "name": "M. Eliades",
+          "author_id": "2310974561",
+          "affiliation": null
+        },
+        {
+          "name": "C. Theocharidis",
+          "author_id": "2007295371",
+          "affiliation": null
+        },
+        {
+          "name": "Antonis E. Chatzipavlis",
+          "author_id": "117592827",
+          "affiliation": null
+        },
+        {
+          "name": "T. Hasiotis",
+          "author_id": "2481344",
+          "affiliation": null
+        },
+        {
+          "name": "D. Hadjimitsis",
+          "author_id": "2010726",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This review discusses the evolution and integration of open-access remote sensing technology in shoreline detection and coastal erosion monitoring through the use of Geographic Information Systems (GIS), Artificial Intelligence (AI), Unmanned Aerial Vehicles (UAVs), and Ground Truth Data (GTD). The Sentinel-2 and Landsat 8/9 missions are highlighted as the primary core datasets due to their open-access policy, worldwide coverage, and demonstrated applicability in long-term coastal monitoring. Landsat data have allowed the detection of multi-decadal trends in erosion since 1972, and Sentinel-2 has provided enhanced spatial and temporal resolutions since 2015. Through integration with GIS programs such as the Digital Shoreline Analysis System (DSAS), AI-based processes such as sophisticated models including WaterNet, U-Net, and Convolutional Neural Networks (CNNs) are highly accurate in shoreline segmentation. UAVs supply complementary high-resolution data for localized validation, and ground truthing based on GNSS increases the precision of the produced map results. The fusion of UAV imagery, satellite data, and machine learning aids a multi-resolution approach to real-time shoreline monitoring and early warnings. Despite the developments seen with these tools, issues relating to atmosphere such as cloud cover, data fusion, and model generalizability in different coastal environments continue to require resolutions to be addressed by future studies in terms of enhanced sensors and adaptive learning approaches with the rise of AI technology the recent years.",
+      "journal": "Applied Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Monitoring of ecological environment changes in open-pit mines on the Loess Plateau from 1990 to 2023 based on RSEI",
+      "url": "https://www.semanticscholar.org/paper/9695d866d7dae20b2dc9704452d23ac3d7a341fe",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079598",
+      "doi": "10.1016/j.ecolind.2024.113064",
+      "authors": [
+        {
+          "name": "Xingbang Wang",
+          "author_id": "2339421945",
+          "affiliation": null
+        },
+        {
+          "name": "Yanyun Nian",
+          "author_id": "2244462431",
+          "affiliation": null
+        },
+        {
+          "name": "Haiyuan Wang",
+          "author_id": "2339489504",
+          "affiliation": null
+        },
+        {
+          "name": "Jie Chen",
+          "author_id": "2339420509",
+          "affiliation": null
+        },
+        {
+          "name": "Ke-xin Li",
+          "author_id": "2408722273",
+          "affiliation": null
+        },
+        {
+          "name": "Tianming Hu",
+          "author_id": "2339434060",
+          "affiliation": null
+        },
+        {
+          "name": "Zhiming Li",
+          "author_id": "2116785567",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Ecological Indicators",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "WildWing: An open\u2010source, autonomous and affordable UAS for animal behaviour video monitoring",
+      "url": "https://www.semanticscholar.org/paper/1eb734eaee6215b8343d585bcb03752f89d769b3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-10T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079611",
+      "doi": "10.1111/2041-210x.70018",
+      "authors": [
+        {
+          "name": "Jenna Kline",
+          "author_id": "2271703140",
+          "affiliation": null
+        },
+        {
+          "name": "Alison Zhong",
+          "author_id": "2349846875",
+          "affiliation": null
+        },
+        {
+          "name": "Kevyn Irizarry",
+          "author_id": "2191728763",
+          "affiliation": null
+        },
+        {
+          "name": "Charles V. Stewart",
+          "author_id": "2273953949",
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Stewart",
+          "author_id": "2333452044",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel I. Rubenstein",
+          "author_id": "2276551307",
+          "affiliation": null
+        },
+        {
+          "name": "Tanya Berger\u2010Wolf",
+          "author_id": "2150810005",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Drones have become invaluable tools for studying animal behaviour in the wild, enabling researchers to collect aerial video data of group\u2010living animals. However, manually piloting drones to track animal groups consistently is challenging due to complex factors such as terrain, vegetation, group spread and movement patterns. The variability in manual piloting can result in unusable data for downstream behavioural analysis, making it difficult to collect standardized datasets for studying collective animal behaviour. To address these challenges, we present WildWing, a complete hardware and software open\u2010source unmanned aerial system (UAS) for autonomously collecting behavioural video data of group\u2010living animals. The system's main goal is to automate and standardize the collection of high\u2010quality aerial footage suitable for computer vision\u2010based behaviour analysis. We provide a novel navigation policy to autonomously track animal groups while maintaining optimal camera angles and distances for behavioural analysis, reducing the inconsistencies inherent in manual piloting. The complete WildWing system costs only $650 and incorporates drone hardware with custom software that integrates ecological knowledge into autonomous navigation decisions. The system produces 4\u2009K resolution video at 30 fps while automatically maintaining appropriate distances and angles for behaviour analysis. We validate the system through field deployments tracking groups of Grevy's zebras, giraffes and Przewalski's horses at The Wilds conservation centre, demonstrating its ability to collect usable behavioural data consistently. By automating the data collection process, WildWing helps ensure consistent, high\u2010quality video data suitable for computer vision analysis of animal behaviour. This standardization is crucial for developing robust automated behaviour recognition systems to help researchers study and monitor wildlife populations at scale. The open\u2010source nature of WildWing makes autonomous behavioural data collection more accessible to researchers, enabling wider application of drone\u2010based behavioural monitoring in conservation and ecological research.",
+      "journal": "Methods in Ecology and Evolution",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open-Source Photosynthetically Active Radiation Sensor for Enhanced Agricultural and Agrivoltaics Monitoring",
+      "url": "https://www.semanticscholar.org/paper/6bf808560d6d06539a2d533f76f4b8520ce0a336",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-30T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079640",
+      "doi": "10.3390/electronics14112225",
+      "authors": [
+        {
+          "name": "Md Motakabbir Rahman",
+          "author_id": "2289622194",
+          "affiliation": null
+        },
+        {
+          "name": "U. Jamil",
+          "author_id": "2198023083",
+          "affiliation": null
+        },
+        {
+          "name": "J. Pearce",
+          "author_id": "2244407265",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Photosynthetically active radiation (PAR) is crucial for plant growth, influencing photosynthesis efficiency and crop yield. The increasing adoption of controlled-environment agriculture (CEA) necessitates precise PAR monitoring. The high cost of commercial PAR sensors, however, limits their accessibility and widespread use, creating a growing need for a low-cost alternative capable of reliable deployment in diverse agricultural environments. Building on recent advancements in PAR sensing using multi-channel spectral sensors such as the AS7341 and AS7265, this study develops the electronics for an AS7341-based, open-source, cost-effective (~USD 50) PAR sensor validated across a broad PPFD range and conditions, ensuring reliability and ease of replication. It uses a relatively simple multi-linear regression that offers real-time applications without energy intensive machine learning. The developed sensor is calibrated against the industry-standard Apogee SQ-500SS PAR sensor in four distinct farming environments: (i) horizontal grow lights, (ii) vertical agrotunnel lighting, (iii) agrivoltaics, and (iv) in greenhouses. A mean error ranging from 1 to 5% indicates its suitability for controlled environment farming and continuous data logging. The open-source hardware design and systematic installation guidelines enable users to replicate, calibrate, and integrate the sensor with minimal background in electronics and optics.",
+      "journal": "Electronics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Contrastive and self-supervised learning for open-set damage classification in structural health monitoring with incomplete and imbalanced vibration data",
+      "url": "https://www.semanticscholar.org/paper/692af00e201d53bdcda903c347e7f887d6938e07",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-14T12:38:03.079646",
+      "doi": "10.1016/j.eswa.2025.128731",
+      "authors": [
+        {
+          "name": "Sheng Shi",
+          "author_id": "2113258991",
+          "affiliation": null
+        },
+        {
+          "name": "Dongsheng Du",
+          "author_id": "2368917227",
+          "affiliation": null
+        },
+        {
+          "name": "Oya Mercan",
+          "author_id": "2280636306",
+          "affiliation": null
+        },
+        {
+          "name": "Erol Kalkan",
+          "author_id": "2179049167",
+          "affiliation": null
+        },
+        {
+          "name": "J. Parol",
+          "author_id": "93857589",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Expert systems with applications",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Monitoring and evaluation of ecological restoration in open-pit coal mine using remote sensing data based on a OM-RSEI model",
+      "url": "https://www.semanticscholar.org/paper/cbec82d3cd0ad86983a6c19ef5d1d550dbb1c93b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-29T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079772",
+      "doi": "10.1080/17480930.2025.2458012",
+      "authors": [
+        {
+          "name": "Shiwei Wang",
+          "author_id": "123673903",
+          "affiliation": null
+        },
+        {
+          "name": "Chao Ma",
+          "author_id": "2267269998",
+          "affiliation": null
+        },
+        {
+          "name": "Yingying Ma",
+          "author_id": "2343296386",
+          "affiliation": null
+        },
+        {
+          "name": "Tingting Li",
+          "author_id": "2267285440",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Open-pit coal mining poses a severe threat to regional ecological security. Rapid and accurate monitoring of ecological quality changes is crucial for regional ecological restoration. In this study, taking the Wujiata open-pit coal mine as an example, the Red-Edge Normalized Difference Vegetation Index (RENDVI), Salinity Index (SI-T), WETness index (WET), Normalized Differential Built Soil Index (NDBSI), Land Surface Temperature (LST), and Desertification Index (DI) were used to construct the Open-pit Mine Remote Sensing Ecological Index (OM-RSEI) through Principal Component Analysis (PCA). The ecological quality and restoration conditions of typical mining areas in arid and semi-arid regions were monitored and evaluated. The results shown that: (1) The contribution rates and eigenvalues of OM-RSEI were higher than those of conventional RSEI, OM-RSEI was more applicable in open-pit mining areas. (2) From 2018 to 2023, the OM-RSEI of the Wujiata open-pit coal mine showed a \u2018V\u2019 shaped fluctuation that was damaged and then gradually recovered. (3) The degraded area of Wujiata open-pit coal mine and its 5\u2009km buffer zone accounted for 78.02%, and the improved area accounted for 19.16%. (4) The average Moran\u2019s I index of OM-RSEI in the study area was 0.8189, and the high\u2013high clustering corresponded to the \u2018good\u2019 and \u2018excellent\u2019 distributions, while the low\u2013low clustering corresponded to the \u2018poor\u2019 and \u2018less-poor\u2019 distributions. The OM-RSEI provided a new indicator for monitoring and evaluation of ecological restoration in open-pit coal mines, which can provide theoretical support for ecological restoration in open-pit coal mining areas.",
+      "journal": "International Journal of Mining, Reclamation and Environment",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Marine biodiversity and environmental data: an AI-ready, open dataset from the long term (1995\u20132023) Basque Country monitoring network",
+      "url": "https://www.semanticscholar.org/paper/989126c130c797ef7cb97dbdb78b086bbef39905",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079807",
+      "doi": "10.3389/focsu.2024.1528837",
+      "authors": [
+        {
+          "name": "\u00c1ngel Borja",
+          "author_id": "2257065285",
+          "affiliation": null
+        },
+        {
+          "name": "Idoia Adarraga",
+          "author_id": "2348397032",
+          "affiliation": null
+        },
+        {
+          "name": "J. Bald",
+          "author_id": "40107732",
+          "affiliation": null
+        },
+        {
+          "name": "M. J. Belzunce-Segarra",
+          "author_id": "1403016963",
+          "affiliation": null
+        },
+        {
+          "name": "I. Cruz",
+          "author_id": "2178892417",
+          "affiliation": null
+        },
+        {
+          "name": "Javier Franco",
+          "author_id": "2302620880",
+          "affiliation": null
+        },
+        {
+          "name": "J. Garmendia",
+          "author_id": "39863223",
+          "affiliation": null
+        },
+        {
+          "name": "J. Larreta",
+          "author_id": "48989541",
+          "affiliation": null
+        },
+        {
+          "name": "Aitor Laza\u2010Martinez",
+          "author_id": "1399041230",
+          "affiliation": null
+        },
+        {
+          "name": "Alberto Manzanos",
+          "author_id": "87756182",
+          "affiliation": null
+        },
+        {
+          "name": "Mikel Aitor Marquiegui",
+          "author_id": "2348390380",
+          "affiliation": null
+        },
+        {
+          "name": "I. Martin",
+          "author_id": "2297209822",
+          "affiliation": null
+        },
+        {
+          "name": "Juli\u00e1n Mart\u00ednez",
+          "author_id": "2158334588",
+          "affiliation": null
+        },
+        {
+          "name": "I. Menchaca",
+          "author_id": "2236184",
+          "affiliation": null
+        },
+        {
+          "name": "Sarai Pouso",
+          "author_id": "35329023",
+          "affiliation": null
+        },
+        {
+          "name": "Marta Revilla",
+          "author_id": "2273278657",
+          "affiliation": null
+        },
+        {
+          "name": "J. G. Rodr\u00edguez",
+          "author_id": "2218776469",
+          "affiliation": null
+        },
+        {
+          "name": "Jos\u00e9 Mar\u00eda Ruiz Ruiz",
+          "author_id": "2109130023",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Sagarminaga",
+          "author_id": "10774635",
+          "affiliation": null
+        },
+        {
+          "name": "O. Solaun",
+          "author_id": "5291167",
+          "affiliation": null
+        },
+        {
+          "name": "A. Uriarte",
+          "author_id": "2145675",
+          "affiliation": null
+        },
+        {
+          "name": "I. Zorita",
+          "author_id": "11805930",
+          "affiliation": null
+        },
+        {
+          "name": "I. Muxika",
+          "author_id": "3613380",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This dataset provides 28 years of environmental monitoring data (1995\u20132023) from 51 stations in the estuaries and coastal areas of the Basque Country in the Bay of Biscay. Covering 130 variables across water, sediments, and biota, it includes detailed records of phytoplankton, macroalgae, macroinvertebrates, and fish. Compiled in collaboration with the Basque Water Agency (URA), the dataset supports analysis of environmental responses to human pressures and management interventions, identifying patterns of environmental quality improvement within a context of natural variability. Provided in a FAIR2 Data Package, the dataset is structured to ensure Findability, Accessibility, Interoperability, Reusability, and Artificial Intelligence-readiness, facilitated by structured metadata and Application Programming Interface access. This resource is intended for researchers and policymakers examining anthropogenic and natural influences on aquatic ecosystems, contributing to sustainable management, conservation practices, and alignment with European directives, including the Water Framework Directive.",
+      "journal": "Frontiers in Ocean Sustainability",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring",
+      "url": "https://www.semanticscholar.org/paper/2f68b787461eb35e691402cc9c2250ce5ff4ef1b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079847",
+      "doi": "10.52202/085713-1859",
+      "authors": [
+        {
+          "name": "Yuyang Chen",
+          "author_id": "2333248555",
+          "affiliation": null
+        },
+        {
+          "name": "Nico Lang",
+          "author_id": "2324791329",
+          "affiliation": null
+        },
+        {
+          "name": "B. Schmidt",
+          "author_id": "2242409249",
+          "affiliation": null
+        },
+        {
+          "name": "Aditya Jain",
+          "author_id": "2307990814",
+          "affiliation": null
+        },
+        {
+          "name": "Yves Basset",
+          "author_id": "2295538642",
+          "affiliation": null
+        },
+        {
+          "name": "Sara Beery",
+          "author_id": "2134791809",
+          "affiliation": null
+        },
+        {
+          "name": "Maxim Larriv'ee",
+          "author_id": "2307079897",
+          "affiliation": null
+        },
+        {
+          "name": "David Rolnick",
+          "author_id": "2346588800",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Global biodiversity is declining at an unprecedented rate, yet little information is known about most species and how their populations are changing. Indeed, some 90% of Earth's species are estimated to be completely unknown. Machine learning has recently emerged as a promising tool to facilitate long-term, large-scale biodiversity monitoring, including algorithms for fine-grained classification of species from images. However, such algorithms typically are not designed to detect examples from categories unseen during training -- the problem of open-set recognition (OSR) -- limiting their applicability for highly diverse, poorly studied taxa such as insects. To address this gap, we introduce Open-Insect, a large-scale, fine-grained dataset to evaluate unknown species detection across different geographic regions with varying difficulty. We benchmark 38 OSR algorithms across three categories: post-hoc, training-time regularization, and training with auxiliary data, finding that simple post-hoc approaches remain a strong baseline. We also demonstrate how to leverage auxiliary data to improve species discovery in regions with limited data. Our results provide insights to guide the development of computer vision methods for biodiversity monitoring and species discovery.",
+      "journal": "Neural Information Processing Systems",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Remote Real-Time Monitoring and Control of Small Wind Turbines Using Open-Source Hardware and Software",
+      "url": "https://www.semanticscholar.org/paper/54c629f486f8d33de361ffc918958ee8bab6248f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-18T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079858",
+      "doi": "10.3390/app15126887",
+      "authors": [
+        {
+          "name": "Jes\u00fas Clavijo-Camacho",
+          "author_id": "2190886863",
+          "affiliation": null
+        },
+        {
+          "name": "Gabriel G\u00f3mez-Ruiz",
+          "author_id": "2137261602",
+          "affiliation": null
+        },
+        {
+          "name": "Reyes S\u00e1nchez-Herrera",
+          "author_id": "1410235561",
+          "affiliation": null
+        },
+        {
+          "name": "N. Magro",
+          "author_id": "2221376850",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper presents a real-time remote-control platform for small wind turbines (SWTs) equipped with a permanent magnet synchronous generator (PMSG). The proposed system integrates a DC\u2013DC boost converter controlled by an Arduino\u00ae microcontroller, a Raspberry Pi\u00ae hosting a WebSocket server, and a desktop application developed using MATLAB\u00ae App Designer (version R2024b). The platform enables seamless remote monitoring and control by allowing upper layers to select the turbine\u2019s operating mode\u2014either Maximum Power Point Tracking (MPPT) or Power Curtailment\u2014based on real-time wind speed data transmitted via the WebSocket protocol. The communication architecture follows the IEC 61400-25 standard for wind power system communication, ensuring reliable and standardized data exchange. Experimental results demonstrate high accuracy in controlling the turbine\u2019s operating points. The platform offers a user-friendly interface for real-time decision-making while ensuring robust and efficient system performance. This study highlights the potential of combining open-source hardware and software technologies to optimize SWT operations and improve their integration into distributed renewable energy systems. The proposed solution addresses the growing demand for cost-effective, flexible, and remote-control technologies in small-scale renewable energy applications.",
+      "journal": "Applied Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Designing an Autonomous Robot for Monitoring Open-Mouth Behavior of Chickens in Commercial Chicken Farms",
+      "url": "https://www.semanticscholar.org/paper/3b8b56647103193fa07f8975a367cc51a575e320",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-14T12:38:03.079864",
+      "doi": "10.13031/ja.16056",
+      "authors": [
+        {
+          "name": "Y. Yeh",
+          "author_id": "2162768774",
+          "affiliation": null
+        },
+        {
+          "name": "Bo-Lin Chen",
+          "author_id": "2152693380",
+          "affiliation": null
+        },
+        {
+          "name": "Kae-Yang Hsieh",
+          "author_id": "2341975971",
+          "affiliation": null
+        },
+        {
+          "name": "Mao-Hsiang Huang",
+          "author_id": "1391890862",
+          "affiliation": null
+        },
+        {
+          "name": "Yan-Fu Kuo",
+          "author_id": "2379381003",
+          "affiliation": null
+        }
+      ],
+      "abstract": "HighlightsA mobile robot was designed to autonomously cruise in typical commercial chicken farms in Taiwan.The localization of the robot reached a mean absolute error of 0.17 m.The mobile robot automatically monitored the open-mouth behavior of chickens.A trained YOLO v7 model achieved an AP of 86.1% in the detection of chickens with open-mouth behavior.The analysis indicates that the open-mouth behavior ratio was correlated to ambient temperature.Abstract. In the conventional management of commercial floor-rearing chicken farms, farmers regularly patrol to observe chicken status and to check the environment. For countries with a subtropical climate (e.g., Taiwan), heat stress (HS) is a common environmental stressor for chickens due to high temperature and humidity. Open-mouth behavior (OMB) of chickens is an indicator of HS and is closely monitored in patrols. Manual patrols are laborious and time-consuming. Moreover, frequent patrols may increase the risk of pathogen spread while entering and exiting chicken farms. Therefore, this study developed a mobile robot to autonomously patrol in chicken farms and to automatically monitor OMB of chickens. Considering the commercial chicken farms in Taiwan usually have narrow aisles between feed buckets, a compact robot was designed. An ultra-wideband (UWB) module was utilized to localize the mobile robot. The mobile robot performed navigation and obstacle avoidance using a depth camera and the navigation stack of the Robot Operating System (ROS). For monitoring OMB of chickens, an image acquisition component was developed to acquire chicken images. A YOLO v7 model was trained to detect the chickens with OMB in the collected images. Subsequently, OMB ratios, defined as the ratios of chickens with OMB, were calculated to quantify this behavior. Experimental results showed that the mean absolute error of the UWB was 0.17 m in robot localization, complying with the requirements for navigating the robot in the narrow aisles of chicken farms. The trained YOLO v7 model achieved an average precision of 86.1%. Experimental results indicated that the mean OMB ratios between summer and winter were significantly different. In addition, the OMB ratio and temperature in summer were found to be moderately and positively correlated, indicating that OMB ratio was an effective indicator to represent chicken behaviors under different temperatures. The developed mobile robot provides a solution to automate the regular patrols performed by chicken farmers. Keywords: Deep learning, Depth image, Heat stress, Indoor positioning, Ultra-wideband (UWB), Unmanned vehicle.",
+      "journal": "Journal of the ASABE",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Efficacy and safety of continuous glucose monitoring on glycaemic control in patients with chronic pancreatitis and insulin\u2010treated diabetes: A randomised, open\u2010label, crossover trial",
+      "url": "https://www.semanticscholar.org/paper/b8f76a4374691dad7465bfdab16035e03acf59fa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-18T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079878",
+      "doi": "10.1111/dom.16356",
+      "authors": [
+        {
+          "name": "Line Davidsen",
+          "author_id": "2237314043",
+          "affiliation": null
+        },
+        {
+          "name": "S. Cichosz",
+          "author_id": "2474614",
+          "affiliation": null
+        },
+        {
+          "name": "P. B. St\u00e6hr",
+          "author_id": "4877351",
+          "affiliation": null
+        },
+        {
+          "name": "P. Vestergaard",
+          "author_id": "2061546654",
+          "affiliation": null
+        },
+        {
+          "name": "A. Drewes",
+          "author_id": "2250848418",
+          "affiliation": null
+        },
+        {
+          "name": "Filip K Knop",
+          "author_id": "2297476105",
+          "affiliation": null
+        },
+        {
+          "name": "M. Jensen",
+          "author_id": "2257974244",
+          "affiliation": null
+        },
+        {
+          "name": "S. S. Olesen",
+          "author_id": "2289681140",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Continuous glucose monitoring (CGM) improves glycaemic control and reduces hypoglycaemia in type 1 and 2 diabetes, but its role in managing diabetes in chronic pancreatitis is unknown. We aimed to investigate the effect of CGM compared to self\u2010monitoring of blood glucose (SMBG) on hypoglycaemia and glycaemic control in patients with chronic pancreatitis and insulin\u2010treated diabetes.",
+      "journal": "Diabetes, obesity and metabolism",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Surface Deformation Monitoring and Prediction of Longtantian Open-Pit Mine Based on SBAS-InSAR and CNN-BiLSTM Techniques",
+      "url": "https://www.semanticscholar.org/paper/e4b290a7b3343afff3637bd0a3134c3a73c969df",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-14T12:38:03.079886",
+      "doi": "10.1109/JSTARS.2025.3587241",
+      "authors": [
+        {
+          "name": "Xiaoxiao Zhang",
+          "author_id": "2351316125",
+          "affiliation": null
+        },
+        {
+          "name": "Qi Chen",
+          "author_id": "2291314393",
+          "affiliation": null
+        },
+        {
+          "name": "Mengshi Yang",
+          "author_id": "2305476960",
+          "affiliation": null
+        },
+        {
+          "name": "Zhifang Zhao",
+          "author_id": "2263678073",
+          "affiliation": null
+        },
+        {
+          "name": "Yu Zheng",
+          "author_id": "2331196986",
+          "affiliation": null
+        },
+        {
+          "name": "Qixue Dai",
+          "author_id": "2372185585",
+          "affiliation": null
+        },
+        {
+          "name": "Yang He",
+          "author_id": "2351826185",
+          "affiliation": null
+        },
+        {
+          "name": "Dayu Cai",
+          "author_id": "2351254742",
+          "affiliation": null
+        },
+        {
+          "name": "Ting Xu",
+          "author_id": "2365370242",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The Longtantian coal mine is a nationally significant large-scale coal mine in China and is listed as one of the Yunnan Province\u2019s coal mines for supply assurance and capacity increase, but extensive mining has caused significant surface deformation, posing safety hazards. High-precision monitoring and prediction of surface deformation are essential. This study used the small baseline subset interferometric synthetic aperture radar technique to extract surface deformation time-series data from Sentinel-1A images between 4 January 2020 and 19 January 2024. Considering the spatiotemporal heterogeneity, dynamic time warping based K-means clustering analysis was applied to divide the area into subspaces with similar deformation trends. A convolutional neural network optimized bidirectional long short-term memory (CNN-BiLSTM) prediction model was constructed using lithological properties (described by internal friction angle and cohesion), fault distance, rainfall, and deformation data. Results showed an annual deformation rate of \u201386.96\u201350.42 mm/year. The F2, F3, and F4 faults, the third section of the Longtan Formation (P2l3) and the Quaternary (Q) lithological units, rainfall and historical deformation have all had an impact on the surface deformation of the mining area. The experimental results show that the CNN-BiLSTM architecture has significantly improved prediction accuracy compared to the basic LSTM model. The prediction error distribution of the original LSTM model is in the range of [\u2013196.55, 106.91] mm, while the improved CNN-BiLSTM model reduces the error range to the range of [\u201358.22, 74.33] mm, with extreme error values reduced by 70.40% and 30.47%, respectively. Therefore, the research results can provide scientific data support for disaster prevention and reduction of Longtantian Coal mine, and provide reference for monitoring and forecasting of other mining areas.",
+      "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Validation of an Open-Source Smartwatch for Continuous Monitoring of Physical Activity and Heart Rate in Adults",
+      "url": "https://www.semanticscholar.org/paper/8f76c80b21310df0e73a8267937d7e9e7f2a1591",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-08-14T12:38:03.079898",
+      "doi": "10.3390/s25092926",
+      "authors": [
+        {
+          "name": "Nicholas Ravanelli",
+          "author_id": "6057988",
+          "affiliation": null
+        },
+        {
+          "name": "Karlee Lefebvre",
+          "author_id": "2302621343",
+          "affiliation": null
+        },
+        {
+          "name": "Amy Brough",
+          "author_id": "2302686828",
+          "affiliation": null
+        },
+        {
+          "name": "S. Paquette",
+          "author_id": "2364937854",
+          "affiliation": null
+        },
+        {
+          "name": "Wei Lin",
+          "author_id": "2359626422",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Consumer-grade wrist-based wearable devices have grown in popularity among researchers to continuously collect metrics such as physical activity and heart rate. However, manufacturers rarely disclose the preprocessing sensor data algorithms, and user-generated data are typically shared leading to data governance issues. Open-source technology may address these limitations. This study evaluates the validity of the Bangle.js2 for step counting and heart rate during lab-based validation and agreement with other wearable devices (steps: Fitbit Charge 5; heart rate: Polar H10) in free-living conditions. A custom open-source application was developed to capture the sensor data from the Bangle.js2. Participants (n = 47; 25 males; 27 \u00b1 11 years) were asked to complete a lab-based treadmill validation (3 min stages at 2, 3, 4, and 5 mph) and stair climbing procedure followed by a 24 h free-living period. The Bangle.js2 demonstrated systematic undercounting of steps at slower walking speeds with acceptable error achieved at 5 km/h. During free-living conditions, the Bangle.js2 demonstrated strong agreement with the Fitbit Charge 5 for per-minute step counting (CCC = 0.90) and total steps over 24 h (CCC = 0.96). Additionally, the Bangle.js2 demonstrated strong agreement with the Polar H10 for minute-averaged heart rate (CCC = 0.78). In conclusion, the Bangle.js2 is a valid open-source hardware and software solution for researchers interested in step counting and heart rate monitoring in free-living conditions.",
+      "journal": "Italian National Conference on Sensors",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Effectiveness of a virtual reality-based mindfulness intervention for ADHD symptoms in college students: A randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591595/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-08-13T12:42:56.000898",
-      "doi": "10.1371/journal.pone.0354823",
+      "date_fetched": "2026-08-14T12:38:37.538771",
+      "doi": "10.1177/20552076261478221",
       "authors": [
         {
-          "name": "Xinyu Tian",
+          "name": "Youn-Soo Lee",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wenna Qian",
+          "name": "Jaesang Hwang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jiashuo Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jialin Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Biyun Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiaohan Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiuchuan Yan",
+          "name": "Bo-Young Youn",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Family caregivers of children with autism spectrum disorder (ASD) often experience substantial and multidimensional caregiver burden, which may adversely affect their physical and psychological well-being, family functioning, and the child's rehabilitation. Although caregiver-focused psychosocial interventions have shown promise, structured and theory-informed programs specifically designed to address caregiver burden in this population remain limited. METHODS: A multi-stage intervention development design was used, guided by an integrated framework of the ABC-X family stress model and stress and coping theory. First, best-available evidence was synthesized to identify relevant intervention strategies. Second, findings from prior quantitative and qualitative phases of a mixed-methods research program were integrated to define intervention targets and draft content. Third, the draft program was refined through a two-round asynchronous modified Delphi consultation to improve content relevance, clarity, and implementation planning. RESULTS: The finalized program comprised three core modules (stressors, cognitive appraisal, and coping), seven themes, and 22 components. It incorporated psychoeducation, mindfulness-based approaches, gratitude-based expressive writing, acceptance and commitment-informed strategies, self-compassion training, and problem-solving skills. Expert response and authority were high; however, Kendall's W values were modest across the two rounds (0.23 and 0.25). These findings suggest that the Delphi process contributed to systematic refinement and expert appraisal of the program and reflected experts' perceptions of the relevance, clarity, and appropriateness of its content; practical feasibility remains to be tested directly with caregivers. CONCLUSIONS: This study developed a theory-driven and evidence-informed psychosocial intervention framework for caregiver burden among family caregivers of children with autism spectrum disorder. The program provides a structured basis for ongoing caregiver-informed feasibility testing and subsequent effectiveness evaluation; its acceptability, delivery fidelity, and later effectiveness require further empirical validation.",
-      "journal": "PloS one",
+      "abstract": "OBJECTIVE: To evaluate the effectiveness of a virtual reality (VR)-based mindfulness intervention in reducing ADHD symptoms and improving cognitive and psychosocial outcomes among college students, compared to a non-immersive, video-based mindfulness control. METHODS: In this trial, 64 college students screening positive for ADHD symptoms (ASRS v1.1) were randomized 1:1 to an intervention group using the Headspace application on the Meta Quest Pro headset or a control group watching a guided meditation video; after six withdrawals, 58 participants (29 per group) were included in the per-protocol analysis. Both groups participated in three supervised sessions per week over four weeks (12 sessions total). Primary outcomes were ADHD symptom severity (ASRS v1.1) and cognitive-motor reaction time (BlazePod\u2122). Secondary outcomes included depression (PHQ-9), anxiety (GAD-7), sleep quality (PSQI), academic engagement (UWES), and self-efficacy (GSE), assessed at baseline, mid-intervention, and post-intervention. RESULTS: Compared to the control group, the intervention group achieved significantly greater reductions in ASRS scores (-5.8 vs. -2.3 points;  CONCLUSION: A four-week VR-based mindfulness intervention produced greater improvements in ADHD symptoms and related psychosocial outcomes compared to a video-based control in college students. These findings support further investigation of VR as a digital therapeutic adjunct for adult ADHD symptoms.",
+      "journal": "Digital health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -55,82 +1000,47 @@
       "matched_keywords": []
     },
     {
-      "title": "Implementation dosage and depressive symptoms following school-based mindfulness and relaxation: Complier Average Causal Effect estimation in the INSPIRE cluster randomised trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42584489/",
+      "title": "Effects of a Nurse-Led, Acceptance and Commitment-Based Palliative Intervention on the Psychospiritual Well-Being of Patients With Progressive Neurological Diseases: Protocol for a Mixed Methods Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594247/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-12T00:00:00",
-      "date_fetched": "2026-08-13T12:42:56.001035",
-      "doi": "10.1007/s00787-026-03152-x",
+      "date_published": "2026-08-13T00:00:00",
+      "date_fetched": "2026-08-14T12:38:37.539213",
+      "doi": "10.2196/105727",
       "authors": [
         {
-          "name": "Emma Thornton",
+          "name": "Lily Man Lee Chan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Christopher Knowles",
+          "name": "Wendy Wing Tak Lam",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Margarita Panayiotou",
+          "name": "Koon Ho Chan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Joao Santos",
+          "name": "Shirley Yin Yu Pang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Emma Ashworth",
+          "name": "Man Auyeung",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Carla Mason",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daniel Hayes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Abigail Thompson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jessica Deighton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rosie Mansfield",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anna March",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Paul Stallard",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Neil Humphrey",
+          "name": "Jojo Yan Yan Kwok",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Implementation variability is hypothesized to be a key treatment effect modifier of universal, school-based mental health interventions, but the evidence base remains meagre. We used Complier Average Causal Effect (CACE) estimation to determine if dosage variability modified treatment effects of relaxation techniques and mindfulness-based exercises in the INSPIRE cluster randomised trial. Analyses were split by phase of education (mindfulness primary: k\u2009=\u200965 primary schools, N\u2009=\u20093,630 pupils; mindfulness secondary: k\u2009=\u200929 secondary schools, N\u2009=\u20093,708 pupils; relaxation primary: k\u2009=\u200966 primary schools, N\u2009=\u20093,800 pupils; relaxation secondary: k\u2009=\u200926 secondary schools, N\u2009=\u20093,252 pupils) and considered compliance effects at the 50th (moderate) and 75th (high) percentiles in the distribution of intervention dosage (total minutes delivered). Despite null intent to treat findings, we observed compliance effects for both interventions. In primary schools, moderate (320\u00a0min) and high (376\u00a0min) compliance to relaxation techniques significantly reduced depressive symptoms (d=-1.52 and d=-1.48, respectively). In secondary schools, moderate (207\u00a0min) and high (285\u00a0min) compliance to mindfulness-based exercises also significantly reduced depressive symptoms (d=-1.15 and d=-1.40, respectively). Contrastingly, in primary schools, moderate (325\u00a0min) and high (393\u00a0min) compliance to mindfulness-based exercises significantly increased depressive symptoms (d\u2009=\u20090.32 and d\u2009=\u20090.48, respectively). In secondary schools, moderate (180\u00a0min) and high (275\u00a0min) compliance to relaxation techniques also significantly increased depressive symptoms (d\u2009=\u20090.67 and d\u2009=\u20090.83, respectively). The effects of universal, school-based mental health interventions promoting relaxation and mindfulness are contingent on the delivery of a minimally effective dose. However, these interventions may not be appropriate in all educational contexts and could result in iatrogenic effects.Trial registration: Trial registration number: ISRCTN16386254. Trial registration date:04/09/2018.",
-      "journal": "European child & adolescent psychiatry",
+      "abstract": "BACKGROUND: Progressive neurological diseases (PNDs) such as Parkinson disease and multiple sclerosis cause profound motor and nonmotor symptom burdens that significantly impair health-related quality of life. Beyond physical challenges, patients face profound psychospiritual distress driven by prognostic uncertainty, loss of autonomy, and existential concerns. While palliative care can address these multidimensional needs, it remains underused in neurological populations, where conventional care predominantly focuses on motor symptom management. OBJECTIVE: This study aims to evaluate the effects and acceptability of a nurse-led, acceptance and commitment-based palliative program on psychological distress, psychospiritual well-being, and related health outcomes among individuals living with PNDs. METHODS: This is a 2-arm, parallel-group randomized controlled trial using an explanatory sequential mixed methods design. A total of 138 participants with PNDs will be recruited and randomized 1:1 to either the intervention group (n=69) or a befriending control group (n=69). The intervention consists of five 60- to 90-minute individual sessions delivered over 3 months by trained nurses integrating acceptance and commitment therapy-based strategies (eg, mindfulness, cognitive defusion, and value-guided action) with supportive-expressive approaches. The control group receives five 30- to 60-minute active befriending sessions. The primary outcome is psychological distress, assessed via the Hospital Anxiety and Depression Scale. Secondary outcomes include spiritual well-being, meaning in life, psychological flexibility, illness perception, palliative care needs, health-related quality of life, and death anxiety. Assessments will be conducted at baseline (T0), 1 week after the intervention (T1), and 3 months after the intervention (T2). Quantitative data will be analyzed using linear mixed-effects models under the intention-to-treat principle. Following the intervention, a purposive subsample will undergo semistructured qualitative interviews to explore intervention acceptability and participant experiences. RESULTS: This trial obtained ethics approval from the Institutional Review Board of the University of Hong Kong and was funded by the Nethersole Institute of Continuing Holistic Health Education research grant 2022-2023 and the Health and Medical Research Fund (2022), Health Bureau. Recruitment commenced in September 2023. As of manuscript submission, 132 participants have been enrolled. Data analysis has not yet commenced. The results are expected to be published in late 2026. CONCLUSIONS: This study will provide empirical evidence regarding the effectiveness and acceptability of a nurse-led, acceptance and commitment-based palliative program tailored to the complex psychospiritual trajectories of patients with PNDs. If effective, this trial will offer a scalable model for integrating structured psychotherapeutic interventions within neurology, palliative care, and community nursing practices.",
+      "journal": "JMIR research protocols",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -138,82 +1048,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Personalized prediction of response to three meditation practices: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42585723/",
+      "title": "A Narrative Review of Implementing Nonpharmacological Interventions for Antenatal Depression in Low Resource Settings With Implications for Palestine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591722/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-10T00:00:00",
-      "date_fetched": "2026-08-13T12:42:56.001086",
-      "doi": "10.1016/j.brat.2026.105141",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-08-14T12:38:37.539260",
+      "doi": "10.1155/da/4692841",
       "authors": [
         {
-          "name": "Otto Simonsson",
+          "name": "Sawsan Saeed Abd Al Rahman Shqair",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Christian A Webb",
+          "name": "Mohammed Hayek",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mini Ruiz",
+          "name": "Loai M Zabin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Walter Osika",
+          "name": "Mohammad Marie",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jayanth Narayanan",
+          "name": "Jamal Qaddumi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Micael Dahl\u00e9n",
+          "name": "Shurouq Ghalib Qadous",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wolfgang Lutz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Brian Schwartz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Boyu Ren",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cortland J Dahl",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard J Davidson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Matthew J Hirshberg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Simon B Goldberg",
+          "name": "Adnan L Sarhan",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Despite decades of meditation research, there is a lack of preregistered and well-powered studies that investigate the effects of brief meditation practices on subjective wellbeing and use data-driven approaches to predict response to these interventions. Using representative samples of the US and UK adult populations with regards to age, sex, and ethnicity (N\u202f=\u202f5049), we conducted a preregistered and well-powered randomized controlled trial to investigate the effects of three brief (5-10\u202fmin) meditation practices (i.e., mindfulness, self-compassion, gratitude) relative to a control condition. We also examined whether a data-driven approach can predict an individual's response to these interventions from their pre-intervention characteristics. Taken together, our findings suggest that brief meditation practices modestly improve an aspect of subjective wellbeing (negative affect) and such response can be predicted using pre-intervention characteristics. Future prospective randomized trials should examine algorithm-guided intervention assignment to directly test the potential of personalized meditation recommendations to improve subjective wellbeing.",
-      "journal": "Behaviour research and therapy",
+      "abstract": "Antenatal depression affects a substantial proportion of pregnant women and is associated with adverse maternal and infant outcomes, particularly in settings where specialist mental health services are limited. The purpose of this narrative review was to synthesize evidence on the effectiveness and implementation feasibility of nonpharmacological interventions for antenatal depression in low-resource settings, with particular attention to task sharing, cultural adaptation, and relevance to Palestine. A targeted search of PubMed, ScienceDirect, SpringerLink, JMIR Publications, Google Scholar, and an Arabic-language journal was conducted to 30 September 2025. Eligible studies included pregnant women with depressive disorders or clinically relevant depressive symptoms, as well as prevention-oriented antenatal samples in which depressive symptoms were a prespecified outcome. Eligible publications evaluated nonpharmacological interventions using randomized, quasi-experimental, or prospective pre-post designs; linked reports of pregnancy or neonatal outcomes from otherwise eligible antenatal intervention programs were also considered. Twenty-two studies met the inclusion criteria. Generally favorable findings were reported for cognitive behavioral therapy (CBT)- and interpersonal psychotherapy (IPT)-based interventions delivered in individual, group, task-shared, and brief clinic-based formats, although the strength and consistency of evidence varied by study design and population. Favorable findings were also reported for depression-specific acupuncture, brief mindfulness and mind-body programs, nurse-supported counseling, and culturally or spiritually integrated approaches, although the strength of inference varied by study design. Supervised digital formats and task-shared models involving primary health workers, nurses, and midwives showed promise for extending care in constrained systems, whereas unguided self-help approaches produced less consistent findings. Implementation reporting was uneven: service integration, task sharing, brief delivery, and supervised formats supported preliminary feasibility, whereas formal measures of acceptability, fidelity, cost, population reach, and sustainability were infrequently reported. The review identified several potentially implementable nonpharmacological options for antenatal depression in low-resource settings, particularly brief psychological therapies, task-shared models, selected supervised mindfulness formats, nurse-supported counseling, and culturally adapted programs. However, locally codesigned pragmatic studies are required before broad implementation in Palestine and similar humanitarian or resource-constrained settings.",
+      "journal": "Depression and anxiety",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -221,42 +1101,216 @@
       "matched_keywords": []
     },
     {
-      "title": "Monitoring and Acceptance, or Monitoring Only? Effects of a Dismantled Mindfulness Intervention on Mindfulness and Emotional Outcomes: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42583947/",
+      "title": "An interactive workshop for first year pharmacy students on caring for visually impaired patients: Development, implementation and evaluation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594602/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-12T00:00:00",
-      "date_fetched": "2026-08-13T12:42:56.001440",
-      "doi": "10.1002/jclp.70205",
+      "date_published": "2026-08-13T00:00:00",
+      "date_fetched": "2026-08-14T12:38:37.539465",
+      "doi": "10.1016/j.cptl.2026.102764",
       "authors": [
         {
-          "name": "Yanping Wei",
+          "name": "Harriet Bennett-Lenane",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Limin Sun",
+          "name": "Marc Brick",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jiang Xue",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chuansheng Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shulin Chen",
+          "name": "Fatma El-Komy",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Previous studies based on the Monitoring and Acceptance Theory (MAT) failed to find differential effects of monitoring plus acceptance (MA) and monitoring only (MO) training on negative affect. This study aimed to investigate the differences between MA and MO from the perspective of mindfulness and emotional outcomes. METHODS: A total of 392 participants were randomly assigned to three groups (MA, MO, or Waiting-List [WL]). MA or MO participants received a 14-day online mindfulness training focused on monitoring and acceptance skills, or only monitoring skills, respectively. We used the Five Facet Mindfulness Questionnaire, the Positive and Negative Affect Scale, and the Emotional Reactivity Scale (ERS) assess the outcomes before the intervention (T1), after the intervention (T2), and at the 2-week follow up (T3). Linear mixed model (LMM) was conducted to explore the data based on intent-to-treat (ITT) and per-protocol (PP) analyses. RESULTS: Both the MA and MO groups demonstrated significant improvements in the total mindfulness score and positive affect compared to the WL group (p\u2009<\u20090.05). A significant Group \u00d7 Time interaction was observed for ERS; however, post hoc tests revealed no significant between-group differences. Negative affect did not differ significantly across groups (p\u2009>\u20090.05). No significant differences between MA and MO were observed for any outcome (p\u2009>\u20090.05). DISCUSSION: This study demonstrated that MA and MO had equivalent effects on mindfulness and emotional outcomes following a 2-week online training program.",
-      "journal": "Journal of clinical psychology",
+      "abstract": "BACKGROUND: Patients with disabilities, such as those are visually impaired (VI), require an individualised approach to care by pharmacists. However, disability awareness training is not widely implemented across modern pharmacy curricula. To address this gap, a workshop was developed for first year students focusing on caring for VI patients. EDUCATIONAL ACTIVITY: A two-hour workshop was developed, using a mixture of didactic teaching, active learning activities and group work exercises. Workshop elements included; tasks involving braille, VI patient experience videos, use of low vision simulation glasses and a group exercise involving VI patient counselling. Student opinions were obtained using an online questionnaire and analysed using descriptive statistics and conventional content analysis. EVALUATION FINDINGS: The response rate was 94.6% (70/74 students). The session was positively received with 60.0% (n\u00a0=\u00a042) extremely satisfied and 40.0% (n\u00a0=\u00a028) satisfied. The highest number of students were extremely satisfied with the low vision simulation glasses exercise (60.0%, n\u00a0=\u00a042). Most students (97.2%, n\u00a0=\u00a068) either strongly agreed or agreed that the workshop increased their confidence to communicate with VI patients. All students (100%, n\u00a0=\u00a070) strongly agreed/agreed that they will apply the knowledge and skills gained in their future practice. Almost all (98.6%, n\u00a0=\u00a069), would welcome wider implementation of disability training. Students provided various recommendations for minor workshop improvements in open text comments. ANALYSIS OF EDUCATIONAL ACTIVITY: Students who undertook the workshop strongly supported inclusion of disability training in their course. This work highlights how simulation activities and inclusion of a patient voice can effectively promote the human aspects of healthcare.",
+      "journal": "Currents in pharmacy teaching & learning",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effectiveness of psychological interventions for remote workplace trauma: an evidence review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593087/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-13T00:00:00",
+      "date_fetched": "2026-08-14T12:38:37.539507",
+      "doi": "10.1093/occmed/kqag092",
+      "authors": [
+        {
+          "name": "S K Brooks",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "R Guruswamy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "N Greenberg",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Workers in specialist and other high-risk roles can experience secondary traumatic stress and related symptoms through routine exposure to distressing material, yet organisational responses vary widely. Evidence for the effectiveness of commonly used approaches (e.g. screening, training, counselling/debriefing, mindfulness/resilience) remains uncertain and fragmented. AIMS: To evaluate the effectiveness of mental health screening, training and psychological interventions in reducing psychological harm for employees exposed to potentially traumatic material. METHODS: Five databases (Web of Science, Medline, PsycInfo, Embase, Scopus) were searched in March 2025, using a rapid review approach. A total of 9581 citations were screened for relevance; 28 studies were included in the final review. RESULTS: Quantitative findings showed no benefit of mental health screening, routine counselling, monitoring/periodic assessment, mindfulness or resilience programs; mixed effects for training and neutral-to-adverse findings for debriefing. Qualitative findings favoured supervision and access to informal support; debriefing/counselling results were mixed. Cross-sectional studies suggested associations between better organisational support and fewer psychological stress symptoms. CONCLUSIONS: Overall, efficacy evidence is limited and inconsistent across approaches. However, the strongest evidence suggests that organisations should avoid mandating psychological debriefing.",
+      "journal": "Occupational medicine (Oxford, England)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Practice Elements in Targeted and Universal Child Mass Trauma Interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593075/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-13T00:00:00",
+      "date_fetched": "2026-08-14T12:38:37.539588",
+      "doi": "10.1177/15248380261473929",
+      "authors": [
+        {
+          "name": "Betty Pfefferbaum",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elana Newman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pascal Nitiema",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Autumn Slaughter",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Many child mass trauma interventions are a composite of multiple practice elements which commonly are not well identified or assessed in the treatment outcome research. Understanding the practice elements used for targeted (samples of children with direct exposure, intense experiences, and/or serious reactions) and universal (general samples without consideration of exposure or reactions) populations can help clarify future directions for intervention development and delivery. A systematic review of 84 randomized controlled trials (RCTs) and cluster RCTs identified 131 psychosocial interventions addressing mass trauma. The current analysis compared frequently used elements delivered to targeted and universal populations and examined the populations served across context (country income), event types (including the COVID-19 epidemic), delivery modes, and delivery settings. Reflecting the importance of accessible interventions for those with the greatest need, most child mass trauma interventions overall were administered to targeted populations in group applications delivered in schools or other community settings. Psychoeducation for the child, affect modulation, and relaxation were the most frequently offered elements for both targeted and universal populations. Exposure, narrative, and psychoeducation for the caregiver were administered more often in targeted than universal populations while social skills training, mindfulness, self-praise, and communication skills training were administered more often in universal populations. Future evaluation research should identify, describe, and evaluate specific practice elements included in interventions in the two populations and should address concerns related to certain groups of children receiving interventions and to aspects of intervention delivery.",
+      "journal": "Trauma, violence & abuse",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-13T00:00:00",
+      "date_fetched": "2026-08-14T12:38:37.539734",
+      "doi": "10.1016/j.medj.2026.101259",
+      "authors": [
+        {
+          "name": "Akash Goel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Calvin Diep",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ahnaf Zahin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joshua D Rosenblat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S\u00e9rgio M Pereira",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bijan Teja",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kruthi Rao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cheryl Pritlove",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kathryn Hodwitz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hance Clarke",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joel Katz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Duminda N Wijeysundera",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Janneth Pazmino-Canizares",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gabriella Mattina",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Roshni Nayar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zaaria Thomas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kevin Dang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karim S Ladha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Paul Ritvo",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Intravenous ketamine can provide short-term analgesia in chronic neuropathic pain but benefits often wane after treatment. We conducted a randomized pilot trial to assess the feasibility of combining ketamine infusions with psychotherapy to inform future efficacy trials. METHODS: In this single-center, randomized, outcome-assessor-blinded pilot trial at a Canadian tertiary pain clinic, adults with moderate-to-severe chronic neuropathic pain were randomly assigned in 1:1:1 ratio to the ketamine, psychotherapy, or combined ketamine plus psychotherapy arm. Ketamine was delivered as three intravenous infusions over 16 weeks; psychotherapy consisted of 16 weekly cognitive behavioral therapy and mindfulness-based meditation sessions. The primary outcome was feasibility, assessed using prespecified progression criteria. Exploratory outcomes included changes in pain interference (PROMIS 6a T-score), pain intensity, mood, and qualitative interview findings at week 20 (ClinicalTrials.gov: NCT05639322). FINDINGS: Between October 23, 2023, and March 31, 2025, 30 participants were randomized, and 26 (87%) completed 20-week follow-up. Most feasibility criteria, including consent, retention, data completeness, and absence of study-related serious adverse events, were met; adherence targets were partially met. Exploratory pain outcomes showed numerical improvement across groups, with clinically meaningful reductions observed for pain interference and pain intensity. Sixty-four adverse events were recorded, mostly mild and in ketamine-containing groups; no serious study-related adverse events occurred. CONCLUSIONS: Combined ketamine and psychotherapy was feasible and acceptably safe in this pilot trial, supporting evaluation in a larger efficacy-powered study. FUNDING: The study was funded by the St. Michael's Hospital Innovation Fund, The Canadian Pain Society Early Investigator Award and the Physician Services Incorporation Early Career Researcher Award.",
+      "journal": "Med (New York, N.Y.)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -266,16 +1320,16 @@
   ],
   "articles": [
     {
-      "title": "Mecca and the mall",
-      "url": "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall",
+      "title": "Help\u2014I\u2019m a Narrator Stuck in the Calm.com Meditation App!",
+      "url": "https://www.newyorker.com/humor/shouts-murmurs/help-im-a-narrator-stuck-in-the-calm-dot-com-meditation-app",
       "item_type": "article",
       "source_type": "rss",
-      "date_published": "2026-08-13T10:00:00",
-      "date_fetched": "2026-08-13T12:42:56.112923",
+      "date_published": "2026-08-14T10:00:00",
+      "date_fetched": "2026-08-14T12:38:37.866711",
       "doi": null,
       "authors": [
         {
-          "name": "Azania Imtiaz Patel",
+          "name": "Erita Chen",
           "author_id": null,
           "affiliation": null
         }
@@ -283,11 +1337,11 @@
       "abstract": null,
       "journal": null,
       "year": null,
-      "source_name": "Aeon",
-      "excerpt": "In a bid for spiritual renewal, I made a pilgrimage to Islam\u2019s holy city. Almost everything I expected to see was gone- by Azania Imtiaz PatelRead on Aeon",
+      "source_name": "The New Yorker",
+      "excerpt": "Sure, rhythmic, pattering rain can help regulate your nervous system, and trigger your autonomous sensory meridian response, but me? I\u2019m wet.",
       "relevance_score": 1,
       "matched_keywords": [
-        "spiritual"
+        "meditation"
       ]
     }
   ]
