@@ -1,1683 +1,1144 @@
 {
-  "generated_at": "2026-08-17T12:20:04.194242",
+  "generated_at": "2026-08-18T12:21:46.259046",
   "papers": [
     {
-      "title": "Escaping the Self-Repair Trap: Improving Test Oracle Generation via Dual-Context Awareness",
-      "url": "https://www.semanticscholar.org/paper/ca4261c28a87ed4da9e0a17392254dbd15ed41ec",
+      "title": "Validation of a French Version of the Nondual Awareness Dimensional Assessment-Trait",
+      "url": "https://www.semanticscholar.org/paper/968c139b689f399a3dfe2a2ffa4334b9d420f637",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-08-06T00:00:00",
-      "date_fetched": "2026-08-17T12:19:20.373317",
-      "doi": null,
+      "date_published": "2025-10-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382255",
+      "doi": "10.1177/21582440251403827",
       "authors": [
         {
-          "name": "Ke-Shen Li",
-          "author_id": "2253011670",
+          "name": "Andr\u00e9a Oddos",
+          "author_id": "2401388854",
           "affiliation": null
         },
         {
-          "name": "Hong Yu",
-          "author_id": "2329205002",
+          "name": "G. Gimenez",
+          "author_id": "2073278537",
           "affiliation": null
         },
         {
-          "name": "Yuan Yuan",
-          "author_id": "2316568253",
+          "name": "St\u00e9phanie Khalfa",
+          "author_id": "2250545336",
           "affiliation": null
         }
       ],
-      "abstract": "Large Language Models (LLMs) have shown strong potential for regression-oracle completion, where a test prefix is given and the current program version is treated as expected behavior. Recent approaches increasingly rely on iterative self-repair and execution feedback, but optimizing execution success does not necessarily yield strong fault-revealing oracles. This objective, widely adopted in repair-based methods, serves only as a proxy and may be misaligned with the true goal of oracle generation. Such misalignment biases the repair process, giving rise to a feedback-driven degeneration that we term the Self-Repair Trap, where iterative repair progressively drives models toward assertions that are easier to satisfy but less effective at detecting faults. To address this issue, we propose DCAware, a computationally efficient, non-iterative framework that prioritizes high signal-to-noise contextual grounding over multi-round repair. DCAware integrates structured static context with selectively retrieved dynamic states, enabling precise and robust oracle generation without iterative feedback loops. Extensive experiments based on execution and mutation testing show that DCAware consistently improves fault-revealing effectiveness while maintaining high execution success, outperforming prior methods with substantially lower computational cost. Our results suggest that improving contextual quality is more effective than adding iterative repair complexity in the studied regression-oracle setting.",
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "non-dual awareness"
-      ]
-    },
-    {
-      "title": "Nondual Awareness as a Novel Chronic Pain Relieving Mechanism",
-      "url": "https://www.semanticscholar.org/paper/889b0d6c9979dd2e140f7f9b11653bad9f8de995",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-11T00:00:00",
-      "date_fetched": "2026-08-17T12:19:20.373595",
-      "doi": "10.1037/cns0000474",
-      "authors": [
-        {
-          "name": "Kush V. Bhatt",
-          "author_id": "2265603711",
-          "affiliation": null
-        },
-        {
-          "name": "Adam W. Hanley",
-          "author_id": "5161157",
-          "affiliation": null
-        },
-        {
-          "name": "C. Martin-Soelch",
-          "author_id": "1397317899",
-          "affiliation": null
-        },
-        {
-          "name": "Chantal Berna",
-          "author_id": "2315274440",
-          "affiliation": null
-        },
-        {
-          "name": "Eric L. Garland",
-          "author_id": "2265343352",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness-based interventions (MBIs) are efficacious nonpharmacologic treatments for chronic pain, yet the psychological mechanisms mediating the pain-relieving effects of MBIs remain incompletely understood. One potential mechanism may involve nondual awareness, a state of consciousness characterized by attenuation of the subject-object duality, reduced self-referential thinking, and an increased sense of connectedness with others and the world-at-large. We conducted a secondary analysis of pooled data from two randomized controlled trials (N=480) investigating the effects of Mindfulness-Oriented Recovery Enhancement (MORE), an 8-week MBI, in patients receiving long-term opioid analgesic therapy for chronic pain. We tested whether nondual awareness, as measured by the Non-Dual Awareness Dimensional Assessment (NADA), mediated the effect of MORE on chronic pain severity and interference. Results demonstrated that MORE was associated with significantly lower chronic pain severity (p=.014) and pain interference (p<.001) compared to a supportive group therapy control condition. Moreover, participants in the MORE condition exhibited significant increases in nondual awareness compared to the control group (p<.001). Multivariate path analyses revealed that increases in nondual awareness significantly mediated reductions in chronic pain severity (p=.002) and pain interference (p=.01). Nondual awareness outperformed the mindfulness facet of nonreactivity as a mediator of mindfulness\u2019 pain relieving effects. Study findings demonstrate a link between mindfulness-induced nondual awareness and alleviation of chronic pain. Future research should elucidate the neurobiological mechanisms of this relationship. Moreover, studies could identify other potential interventions that produce nondual awareness (e.g., psychedelics) to address chronic pain, possibly in conjunction with mindfulness-based interventions.",
-      "journal": "Psychology of Consciousness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "non-dual awareness"
-      ]
-    },
-    {
-      "title": "DMT-induced shifts in criticality correlate with ego-dissolution",
-      "url": "https://www.semanticscholar.org/paper/386b10a1755771610339ee4d806738533c8f5c08",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-08T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617161",
-      "doi": "10.1101/2025.02.08.636868",
-      "authors": [
-        {
-          "name": "M. Irrmischer",
-          "author_id": "2390834",
-          "affiliation": null
-        },
-        {
-          "name": "Marco Aqil",
-          "author_id": "32153677",
-          "affiliation": null
-        },
-        {
-          "name": "Lisa X Luan",
-          "author_id": "2094946428",
-          "affiliation": null
-        },
-        {
-          "name": "Tongyu Wang",
-          "author_id": "2345804630",
-          "affiliation": null
-        },
-        {
-          "name": "Hessel Engelbregt",
-          "author_id": "2289145393",
-          "affiliation": null
-        },
-        {
-          "name": "Robin L Carhart-Harris",
-          "author_id": "2247907653",
-          "affiliation": null
-        },
-        {
-          "name": "K. Linkenkaer-Hansen",
-          "author_id": "2276225165",
-          "affiliation": null
-        },
-        {
-          "name": "C. Timmermann",
-          "author_id": "40255618",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Psychedelics profoundly alter subjective experience and brain dynamics. Brain oscillations express signatures of near-critical dynamics, relevant for healthy function. Alterations in the proximity to criticality have been suggested to underlie the experiential and neurological effects of psychedelics. Here, we investigate the effects of a psychedelic substance (DMT) on the criticality of brain oscillations, and in relation to subjective experience. We find that DMT shifts the dynamics of brain oscillations away from criticality in alpha and adjacent frequency bands. In this context, entropy is increased while complexity is reduced. We find that the criticality shifts observed in alpha and theta bands correlate with the intensity ratings of ego-dissolution, a hallmark of psychedelic experience. Finally, using a recently developed metric, the functional excitatory-inhibitory ratio, we find that the DMT-induced criticality shift in brain oscillations is towards subcritical regimes. These findings have major implications for the understanding of psychedelic mechanisms of action in the human brain and for the neurological basis of altered states of consciousness.",
-      "journal": "bioRxiv",
+      "abstract": "Nondual awareness (NDA), a unified, unchanging state of consciousness devoid of other phenomenal contents, can be achieved by various means such as contemplative practices. NDA seems to have a beneficial effect on well-being. This study aimed to validate a French version of the Nondual Awareness Dimensional Assessment-Trait (NADA-T) scale used to measure predisposition to NDA in the context of mindfulness meditation, during experiences with reduced phenomenal content, referring to a marked decrease in usual mental activity. To do this, 294 French-speaking students anonymously completed an online survey to allow us to examine the construct validity, internal consistency, and convergent and discriminant validity of the French version of the NADA-T. They also provided information about their meditation practice or other experiences that led them to experience this state of non-duality. The original structure, with one global factor (NDA) and two specific factors (self-transcendence and bliss), showed very good statistical indicators. In addition, the results showed good convergent and discriminant validity. Recommendations to address some of the study\u2019s limitations included reformulating 2 items. However, although this preliminary French version of the NADA-T shows acceptable psychometric properties in a student population, further studies are needed to confirm the factor structure, test temporal stability, and extend these results to other populations. Plain Language Summary Measuring Nondual Awareness: Validating A French Version of The Assessment Some people describe a unique state of consciousness in which they experience a profound sense of oneness with all that exists. This state, known as nondual awareness (NDA), often occurs during mindfulness meditation or other practices that calm the mind. Research suggests that experiencing NDA can improve well-being. The aim of this study was to create and validate a French version of the Nondual Awareness Dimensional Assessment-Trait (NADA-T), a questionnaire used to measure a person's tendency to experience non-dual awareness. The researchers translated the NADA-T questionnaire into French and tested it with a group of French-speaking students practising mindfulness meditation. The French version of the NADA-T closely matched the original English structure. The results showed that the questionnaire was reliable (consistent in its measures) and had good validity (it measured what it was supposed to measure). This study provides a validated tool for future research into NDA in French-speaking populations. Understanding NDA could help researchers explore its effects on well-being and mental health. This assessment could also be useful to mindfulness practitioners, psychologists and neuroscientists studying altered states of consciousness.",
+      "journal": "SAGE Open",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Unlooping the self: Ego dissolution and the collapse of recursive identity.",
-      "url": "https://www.semanticscholar.org/paper/2776d9004a871e6ce7a39df7a470648e85ba4ee7",
+      "title": "Without birth, without death\u2014issues in the research of nondual awareness or consciousness itself",
+      "url": "https://www.semanticscholar.org/paper/6a4713af59c4e0f9c937c761bccd1659c542e77a",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-09-11T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617191",
-      "doi": "10.1037/teo0000336",
+      "date_published": "2025-11-25T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382282",
+      "doi": "10.3389/fpsyg.2025.1665826",
       "authors": [
         {
-          "name": "Chris Sawyer",
-          "author_id": "2380269244",
+          "name": "Zoran Josipovic",
+          "author_id": "4241289",
           "affiliation": null
         }
       ],
-      "abstract": "Ego dissolution\u2014the experience of losing one\u2019s sense of self\u2014is reported across a range of altered states, including psychedelic intoxication, meditative absorption, traumatic dissociation, and psychotic episodes. This paper proposes a unifying framework for these phenomena by introducing the concept of unlooping: the breakdown of recursive structures that construct and maintain identity. Drawing on models of recursive self-modeling, predictive processing, and enactive cognition, ego dissolution is interpreted as a graded suspension of feedback loops responsible for agency, continuity, and self-boundary. Through phenomenological analysis and cross-contextual case studies, the paper demonstrates that selfhood is not an ontological constant but a contingent, dynamically enacted achievement. Unlooping the self reveals both the fragility and plasticity of identity and offers new insights into the intersection of subjective experience and cognitive architecture. The implications span theoretical, methodological, and therapeutic domains, suggesting a revised account of selfhood that incorporates its capacity for suspension and reorganization",
-      "journal": "Journal of Theoretical and Philosphical Psychology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Setting the Stage for the Inner Journey: Unraveling the Interplay of Contextual Factors and the Intensity of Psychedelic-Induced Ego Dissolution.",
-      "url": "https://www.semanticscholar.org/paper/0034ef05a7fd6c4a22d3c68cdf97d4a0f9d902ad",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-13T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617208",
-      "doi": "10.1080/02791072.2025.2464797",
-      "authors": [
-        {
-          "name": "Stanis\u0142aw Adamczyk",
-          "author_id": "2358156807",
-          "affiliation": null
-        },
-        {
-          "name": "Ma\u0142gorzata Paczy\u0144ska",
-          "author_id": "2345360877",
-          "affiliation": null
-        },
-        {
-          "name": "A. Ruban",
-          "author_id": "2052589280",
-          "affiliation": null
-        },
-        {
-          "name": "Jan Szczypi\u0144ski",
-          "author_id": "47790625",
-          "affiliation": null
-        },
-        {
-          "name": "Micha\u0142 Bola",
-          "author_id": "2295305368",
-          "affiliation": null
-        },
-        {
-          "name": "Pawe\u0142 Or\u0142owski",
-          "author_id": "1600206452",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Psychedelics have the potential to induce profound alterations in cognition, emotionality, and sensory perception. The quality and intensity of these subjective effects exhibit high intra- and inter-individual variability, which can potentially be accounted for by the variability in contexts in which psychedelics are used. Therefore, the aim of the present cross-sectional study was to investigate how internal and external contextual factors are related to the subjective intensity of psychedelic-induced ego dissolution experiences. Participants completed an online survey in which they reported their motivations for past use of psychedelic substances, and the frequency of use in different environments and social contexts. Additionally, participants completed the Ego Dissolution Inventory to evaluate the intensity of past ego dissolution experiences. Robust linear regression analysis was performed on data from 862 psychedelics users (701\u00a0had used LSD and 553\u00a0had used psilocybin mushrooms); this revealed that participants consuming psychedelics for spiritual or self-healing purposes reported more intense, while those motivated by curiosity reported less intense ego dissolution experiences. However, the social context and physical environment did not exhibit robust associations with the reported ego dissolution. Therefore, our study enhances understanding of how set and setting factors relate to psychedelic-induced ego dissolution experiences in naturalistic contexts.",
-      "journal": "Journal of Psychoactive Drugs",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Source Localized Auditory Erp Sensory and Preattentive Correlates of Psilocybin-Induced Ego-Dissolution Related Effects",
-      "url": "https://www.semanticscholar.org/paper/d59b8cdd75df12a92cf17c193950288569cf4d5e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-01T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617226",
-      "doi": "10.1016/j.drugalcdep.2024.112090",
-      "authors": [
-        {
-          "name": "Destiny Carbello",
-          "author_id": "2343673092",
-          "affiliation": null
-        },
-        {
-          "name": "T. P\u00e1len\u00ed\u010dek",
-          "author_id": "4029693",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Drug and Alcohol Dependence",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Exploring the Role of Psychedelics in Modulating Ego and Treating Neuropsychiatric Disorders.",
-      "url": "https://www.semanticscholar.org/paper/77fc41bc3aebd5faa2ea91d9663ebe5d29df3b52",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-20T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617238",
-      "doi": "10.1021/acschemneuro.5c00247",
-      "authors": [
-        {
-          "name": "Hongshuang Wang",
-          "author_id": "71421947",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaohui Wang",
-          "author_id": "2306479431",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This viewpoint explores the therapeutic potential of psychedelics in treating neuropsychiatric disorders, particularly through the modulation of brain entropy and the experience of ego dissolution. Psychedelics disrupt rigid neural patterns, facilitating enhanced connectivity and fostering profound emotional breakthroughs that may alleviate symptoms of disorders like depression, anxiety, PTSD, and addiction. Despite their promising potential, the clinical application of psychedelics presents significant challenges, including the need for careful patient screening, managing adverse experiences, and addressing ethical considerations, all of which are essential for their safe integration into therapy.",
-      "journal": "ACS Chemical Neuroscience",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Lessons From the Dissolution of Mexico's Information Commission",
-      "url": "https://www.semanticscholar.org/paper/4ed9730b24f7c4bed5d25e88730020d2e2b50d91",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-20T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617250",
-      "doi": "10.1111/gove.70031",
-      "authors": [
-        {
-          "name": "Gregory Michener",
-          "author_id": "2269322889",
-          "affiliation": null
-        },
-        {
-          "name": "Fernando Nieto Morales",
-          "author_id": "2290939392",
-          "affiliation": null
-        },
-        {
-          "name": "Margaret B. Kwoka",
-          "author_id": "116860405",
-          "affiliation": null
-        },
-        {
-          "name": "Mar\u00eda del Carmen Nava Polina",
-          "author_id": "2362791590",
-          "affiliation": null
-        }
-      ],
-      "abstract": "A much\u2010emulated information commission and a superstar within global transparency policy circles, Mexico's National Institute for Access to Information (the INAI) wielded practically unappealable decision\u2010making power over public information across the entire Mexican federation. In November 2024, the populist Morena regime formally dissolved the INAI. Looking beyond the tired tale of populist backsliding, the INAI's demise offers key lessons about the vulnerability of transparency in the absence of adequate social and institutional embeddedness. While the INAI exceled at freeing information from the state, exposed abuses went unaccompanied by broader linked efforts at enforcement. Lesson: Integrate public transparency into broader policy agendas, especially those popularly associated with transparency's raison d\u2019\u00eatre (e.g., social, administrative,\u00a0criminal justice). And while the INAI did make efforts to socialize the right to information, these lacked scale and arrived too late. Lesson: Engage citizens early, making transparency relevant to the problem\u2010solving tasks of everyday civic life.",
-      "journal": "Governance. An International Journal of Policy, Administration and Institutions",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Book Review: The Handbook of Dissolution Testing, 4th Edition",
-      "url": "https://www.semanticscholar.org/paper/188dce232584d3694dbc5b57119f4748f92edd51",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-08-17T12:19:37.617255",
-      "doi": "10.14227/dt320425p192",
-      "authors": [
-        {
-          "name": "G. P. Martin",
-          "author_id": "32683514",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Dissolution Technologies",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Meaningful Psychedelic Experiences Predict Increased Moral Expansiveness.",
-      "url": "https://www.semanticscholar.org/paper/2bca757984079cb73910b67e9b8bbfa5e1f65e2d",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-12T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617311",
-      "doi": "10.1080/02791072.2025.2478095",
-      "authors": [
-        {
-          "name": "Will Olteanu",
-          "author_id": "2349596545",
-          "affiliation": null
-        },
-        {
-          "name": "Sam G. Moreton",
-          "author_id": "2349593835",
-          "affiliation": null
-        }
-      ],
-      "abstract": "There has been growing interest in understanding the psychological effects of psychedelic experiences, including their potential to catalyze significant shifts in moral cognition. This retrospective study examines how meaningful psychedelic experiences are related to changes in moral expansiveness and investigates the role of acute subjective effects as predictors of these changes. We found that meaningful psychedelic experiences were associated with self-reported increases in moral expansiveness. Changes in moral expansiveness were positively correlated with reported mystical experiences, ego dissolution, as well as feeling moved and admiration during the experience. Additionally, heightened moral expansiveness was associated with longer term shifts in the propensity to experience the self-transcendent positive emotions of admiration and awe. Future research should further investigate the mechanisms underlying these changes and explore how different types of psychedelic experiences might influence moral decision-making and behavior over time.",
-      "journal": "Journal of Psychoactive Drugs",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "OAV and 5D-ASC for Brazilian Portuguese: A validation and adaptation study",
-      "url": "https://www.semanticscholar.org/paper/b557b9a807e338a499217440f2dd6a7fd0a9646e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-28T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617325",
-      "doi": "10.1177/02698811251344685",
-      "authors": [
-        {
-          "name": "Rafael S Rodrigues",
-          "author_id": "2310498917",
-          "affiliation": null
-        },
-        {
-          "name": "Isabel Wie\u00dfner",
-          "author_id": "4247061",
-          "affiliation": null
-        },
-        {
-          "name": "Dimitri Daldegan-Bueno",
-          "author_id": "2228621035",
-          "affiliation": null
-        },
-        {
-          "name": "Bheatrix Bienemann",
-          "author_id": "2079903105",
-          "affiliation": null
-        },
-        {
-          "name": "A. Pontual",
-          "author_id": "2114536618",
-          "affiliation": null
-        },
-        {
-          "name": "Luis de Tofoli",
-          "author_id": "2093456965",
-          "affiliation": null
-        },
-        {
-          "name": "Daniel C. Mograbi",
-          "author_id": "2337673261",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background: This study aimed to validate and culturally adapt the Altered States of Consciousness Rating Scale (OAV) and Five Dimensional\u2014Altered States of Consciousness Questionnaire (5D-ASC) for Brazilian Portuguese to measure altered states of consciousness in the context of psychedelic research. Methods: A parallel back-translation model was employed with expert reviews to ensure linguistic and cultural accuracy. The finalized version was pre-tested with 10 participants and subsequently included in an online survey. This survey was completed by 3762 respondents recounting their psychedelic experiences. Exploratory factor analysis and confirmatory factor analysis were conducted to identify the factor structure and validate the scales. Internal consistency and convergent validity were assessed through correlation with the Mystical Experience Questionnaire (MEQ) and Ego Dissolution Inventory (EDI). Results: The analyses confirmed an 11-factor structure for the OAV and a 6-factor structure for the 5D-ASC, both exhibiting strong internal consistency (\u03b1\u2009>\u20090.76). Significant correlations were observed between OAV and 5D-ASC factors and the MEQ and EDI, indicating solid convergent validity. Differences in factor scores were noted depending on the substance, setting, and meditation frequency, with higher oceanic boundlessness and anxious ego-dissolution scores for ayahuasca and dimethyltryptamine experiences. Conclusions: The validated scales demonstrated reliable psychometric properties for the Brazilian context. The results highlight cultural aspects influencing subjective experiences with psychedelics. Limitations include sample homogeneity and potential recall bias. Future research should involve more diverse samples to confirm and extend these findings.",
-      "journal": "Journal of Psychopharmacology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Altered states of consciousness induced by online chanting meditation",
-      "url": "https://www.semanticscholar.org/paper/6b2fba0a9a3526bc73f3971397338bdeea2fc9dc",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-21T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617336",
-      "doi": "10.1007/s12144-025-07889-7",
-      "authors": [
-        {
-          "name": "Gemma Perry",
-          "author_id": "116570485",
-          "affiliation": null
-        },
-        {
-          "name": "Yanan Sun",
-          "author_id": "49697445",
-          "affiliation": null
-        },
-        {
-          "name": "V. Polito",
-          "author_id": "39138139",
-          "affiliation": null
-        },
-        {
-          "name": "William Forde Thompson",
-          "author_id": "2260001775",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Chanting is a universal practice with deep ethnocultural roots. More recently, chanting has become popular on online platforms and meditation apps which have extended chanting practices beyond their original cultural, sacred, and healing traditions. The aim of the current study was to determine if online chanting meditation promotes altered states of consciousness and psychosocial benefits when compared to a narrative listening control and whether there are different effects of online chanting for experienced and novice meditators. Experienced and novice chanters completed a 10-minute online chanting or listening activity prior to measures of ego dissolution, mystical states, mindfulness, social connection and anxiety. Differences between chanting conditions (chanting vs. listening) and experience (experienced vs. novice meditators) were examined using 2\u2009\u00d7\u20092 ANOVAs and ANCOVAs, controlling for spirituality. Results showed ego dissolution and mystical state scores were higher in the chanting compared to the listening condition for experienced chanters, but not for novices. Spirituality was also a significant covariate for ego dissolution, mystical experience and mindfulness, suggesting these states of consciousness were partially dependent on spiritual or religious beliefs. This research shows that an online chanting intervention can lead to marked altered states of consciousness for individuals with prior experience with chanting. The findings may inform future design and development of contemplative activities.",
-      "journal": "Current Psychology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Neural filters to conscious awareness and the phenomena that reduce their impact",
-      "url": "https://www.semanticscholar.org/paper/56a1ed07b071e2f1b215631e658143875b78d9db",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-17T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617357",
-      "doi": "10.1080/09540261.2025.2478907",
-      "authors": [
-        {
-          "name": "Marjorie Woollacott",
-          "author_id": "2350263722",
-          "affiliation": null
-        },
-        {
-          "name": "Marina Weiler",
-          "author_id": "2350269512",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Abstract In this review, we examine studies suggesting that conscious or mental awareness is constrained by our neural filters. These filters include sensory receptors, the ascending reticular activating system and the thalamus, the default mode network, and left hemisphere language centers. These filters limit our perception of the world to a narrow range of energy frequencies, make sense of space and time, and prioritize internally generated narratives (associated with language and conceptuality). We then present studies indicating that when the activity within these filters is reduced or absent\u2014such as in near-death experiences, deep meditation, or the use of psychedelic compounds\u2014we may gain access to a wider awareness, experience transcendence of time and space, and ego dissolution. This expanded state might enable the mind to potentially access intuitive, nonlocal information beyond the limitations of the five senses.",
-      "journal": "International Review of Psychiatry",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Evaluation of the peak experience scale as a rapid assessment tool for the strength of a psychoactive experience with 5-MeO-DMT",
-      "url": "https://www.semanticscholar.org/paper/ee30f6bfb14413daf16a3ac9ffc1c8d4a96105c2",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-02T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617383",
-      "doi": "10.3389/fpsyg.2025.1543640",
-      "authors": [
-        {
-          "name": "J. Reckweg",
-          "author_id": "1490927087",
-          "affiliation": null
-        },
-        {
-          "name": "Natasha L Mason",
-          "author_id": "2299009122",
-          "affiliation": null
-        },
-        {
-          "name": "E. Theunissen",
-          "author_id": "2789917",
-          "affiliation": null
-        },
-        {
-          "name": "C. B. Svendsen",
-          "author_id": "47648641",
-          "affiliation": null
-        },
-        {
-          "name": "T. Terwey",
-          "author_id": "2188129617",
-          "affiliation": null
-        },
-        {
-          "name": "J. Ramaekers",
-          "author_id": "2244032382",
-          "affiliation": null
-        }
-      ],
-      "abstract": "A three-item Peak Experience Scale (PES) was developed to rapidly evaluate the strength of the psychoactive experience, and to guide the dosing regimen, of the psychedelic 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT; mebufotenin). This paper aims to compare the PES with a range of established questionnaires designed to evaluate the psychedelic experience. Data were gathered from three separate studies in which a 5-MeO-DMT formulation (GH001) was administered via pulmonary inhalation to healthy volunteers and patients with treatment resistant depression (N\u202f=\u202f84) as either single doses (0 [placebo], 2, 6, 12, 18\u202fmg) or an incremental individualized dosing regimen (IDR). Apart from the PES, participants also completed the Mystical Experience Questionnaire (MEQ-30), the Challenging Experience Questionnaire (CEQ), the Ego Dissolution Inventory (EDI) and the 5-Dimensional Altered States of Consciousness Rating Scale (5D-ASC). The 5-MeO-DMT formulation produced a significant, dose-related increase in PES ratings, with maximal ratings being achieved after the IDR. A principal component analysis (PCA) of the PES items identified a single primary component explaining 83.5% of the variance. PES items also displayed a strong internal consistency (Cronbach\u2019s \u03b1\u202f=\u202f0.896). A PCA across all questionnaires indicated a strong and unidimensional loading of the PES, MEQ, EDI and the 5D-ASC, suggesting high interrelatedness. Likewise, individual ratings on the PES were highly correlated to those on the PES, MEQ, EDI and the 5D-ASC, but not the CEQ. The PES is concluded to be an effective tool to rapidly assess the strength of the psychedelic experience with 5-MeO-DMT. The PES could prove useful to gain fast insight into the strength of a psychedelic dose in individual patients and potentially guide dose and re-dose selection of rapid-acting psychedelics.",
+      "abstract": "The drive to find one unifying theory, one overarching universal principle that would subsume and explain all, has been a common theme of human striving for knowledge for many centuries. It reflects, perhaps, a deep intuition that within every experience there is such a unifying singular essence, present yet ordinarily hidden, which when discovered would restore one to the wholeness of authentic being. Indeed, as contemplative traditions tell us, that singular essence is consciousness itself, that which is, and has been, aware or conscious in all our experiences. This nondual awareness, free from mental representations and their constructs, appears uncaused by anything other than itself and remains, once realized, relatively unchanged in different experiences. So, metaphorically, it is without birth or death. While the current increase in our understanding of consciousness has been, in many respects, exponential, our understanding of nondual awareness appears still elusive and more like a slowly ascending spiral, where each generation makes their unique contributions while still making largely the same mistakes. Like nondual awareness itself, then, many issues in understanding and researching it seem to be eternal as well. Previously, I have introduced nondual awareness and discussed why its non-representational reflexivity makes it unique and distinct from perceptual, affective, and cognitive contents, from various global states both natural and altered, and from functions of consciousness like attention, memory, meta-cognition, etc. Here, I will sketch out some issues related to ontology, epistemics, participant reports, and experiment design.",
       "journal": "Frontiers in Psychology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Carlo Ginzburg in Conversation with Filippo Barbera and Maurizio Catino: The Historical Method at the Crossroad of Social and Human Sciences",
-      "url": "https://www.semanticscholar.org/paper/f464ec66f76e259fb8503200d1de687f4667736b",
+      "title": "Nondual Awareness, Body Boundary Perception, and Creative Attitudes in Japanese University Students Through a Brief Paired Martial Arts Exercise: A Randomized Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/ae7fb9106de13efbbf9a55945151f3706d98937f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-04-20T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617415",
-      "doi": "10.60923/issn.1971-8853/23260",
+      "date_published": "2025-11-28T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382298",
+      "doi": "10.3390/bs15121638",
       "authors": [
         {
-          "name": "C. Ginzburg",
-          "author_id": "47611028",
+          "name": "Arisa Yokosu",
+          "author_id": "2396215957",
           "affiliation": null
         },
         {
-          "name": "F. Barbera",
-          "author_id": "70209046",
+          "name": "T. Maruyama",
+          "author_id": "71512803",
           "affiliation": null
         },
         {
-          "name": "M. Catino",
-          "author_id": "39906548",
+          "name": "Hiromitsu Miyata",
+          "author_id": "2282100844",
           "affiliation": null
         }
       ],
-      "abstract": "This interview with Carlo Ginzburg \u2014 conducted in Bologna in May 2025 by sociologists Filippo Barbera and Maurizio Catino \u2014 explores the epistemological foundations of the indiciary paradigm and its relevance for historical and social inquiry. Ginzburg articulates a conception of truth as a provisional endpoint reached through the careful analysis of traces, signs, and unintentional revelations, as opposed to the postmodern dissolution of the boundary between historical and fictional narrative. Drawing on his work in microhistory, the history of witchcraft trials, and the Sofri case, Ginzburg clarifies the role of philology as both a technical discipline and a moral disposition \u2014 one that enables scholars to overcome the provincialism of the ego through critical distance rather than empathetic identification. The conversation addresses the relationship between the indiciary paradigm and abductive inference, the methodological potential of judicial records for sociology, and the ongoing relevance of an Aristotelian rhetorical tradition that places evidence at the centre of argumentation. Ginzburg also reflects on the threat posed by neosceptical and post-truth positions to democratic epistemology, and on the possible convergence of the indiciary paradigm with computational methods and artificial intelligence.",
-      "journal": "Sociologica",
+      "abstract": "Mind\u2013body practices such as meditation, yoga, and martial arts have been suggested to enhance flexible self-experience and psychological well-being. However, few studies have examined short-term effects of contemplative bodywork rooted in traditional martial arts on perception of self\u2013other boundaries and relevant psychological states. The present study employed a three-arm randomized controlled design to examine psychological effects of the Wakame Exercise, a paired body\u2013mind practice derived from a school of martial arts in Japan. Seventy undergraduates were randomly assigned to a 45 min session of wakame exercise (N = 25; 20 females, 5 males; M age = 19.4, SD = 0.64), a control practice, Push-Hand Sumo (N = 25; 15 females, 10 males; M age = 19.5, SD = 1.20), or rest (N = 20; 17 females, 3 males; M age = 19.4, SD = 1.09). Outcomes included nondual awareness, perceived body boundaries, creative attitudes, decentering, and positive/negative affect. The wakame exercise group showed significant increase in nondual awareness (p < 0.001, Cohen\u2019s d = \u22121.74) and decrease in the salience of perceived body boundaries (p < 0.001, Cohen\u2019s d = 1.25) following practice, which were more apparent than controls. Within the wakame exercise group, nondual awareness was significantly positively correlated with creative attitudes, and higher creative attitudes were associated with greater decentering following practice. These findings suggest that brief paired practices rooted in Eastern martial arts can promote nondual awareness and temporary boundary dissolution, potentially enhancing creativity (Approved by the Ethics Review Committee on Research with Human Subjects of Waseda University, No. 2022\u2013397).",
+      "journal": "Behavioral Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Unveiling the pathways: The effects of mindfulness and recreational psychedelic experiences on well-being\u2014The mediating roles of nondual awareness, prosociality, and meaning in life.",
+      "url": "https://www.semanticscholar.org/paper/f44159e8344bb13fa787b54bb251275b7e4ab20f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-29T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382311",
+      "doi": "10.1037/cns0000443",
+      "authors": [
+        {
+          "name": "Sebastian Ehmann",
+          "author_id": "2298445773",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Gawrysiak",
+          "author_id": "2311169696",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Psychology of Consciousness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Supplemental Material for Nondual Awareness as a Novel Chronic Pain-Relieving Mechanism",
+      "url": "https://www.semanticscholar.org/paper/48057f5fa37cb49956870806ea6e4c7399d402e9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-07T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382335",
+      "doi": "10.1037/cns0000474.supp",
+      "authors": [],
+      "abstract": null,
+      "journal": "Psychology of Consciousness",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Rare Earth Metal Ion-Associates in Ln3+\u2014CO32\u2212\u2014H2O System",
-      "url": "https://www.semanticscholar.org/paper/d3e9d197c15fa5ab37000cb1604c1a96eae50b9b",
+      "title": "Savoring meditation increases experiences of nondual awareness among patients with rheumatoid arthritis.",
+      "url": "https://www.semanticscholar.org/paper/ab63d1ac5a098d16e0c8aaa35e1fbb828f179dc6",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-24T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617439",
-      "doi": "10.3390/met15030239",
+      "date_published": "2026-03-19T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382350",
+      "doi": "10.1037/cns0000463",
       "authors": [
         {
-          "name": "T. Litvinova",
-          "author_id": "2316937816",
+          "name": "Nicholas P. Cherup",
+          "author_id": "2358134742",
           "affiliation": null
         },
         {
-          "name": "S. Gerasev",
-          "author_id": "38168168",
+          "name": "Jahred Rosa-Sullivan",
+          "author_id": "2283269580",
           "affiliation": null
         },
         {
-          "name": "V. Sergeev",
-          "author_id": "2352723834",
+          "name": "Siny Tsang",
+          "author_id": "2354314830",
           "affiliation": null
         },
         {
-          "name": "Egor Lidanovskiy",
-          "author_id": "2347122384",
+          "name": "C. Hunt",
+          "author_id": "143903231",
+          "affiliation": null
+        },
+        {
+          "name": "Eric L. Garland",
+          "author_id": "2306114205",
+          "affiliation": null
+        },
+        {
+          "name": "Fadel Zeidan",
+          "author_id": "2278739411",
+          "affiliation": null
+        },
+        {
+          "name": "D. Seminowicz",
+          "author_id": "2059072",
+          "affiliation": null
+        },
+        {
+          "name": "Patrick H. Finan",
+          "author_id": "2261191086",
           "affiliation": null
         }
       ],
-      "abstract": "This study focused on the nature of rare earth metal complex compounds that can form during the carbonate\u2013alkaline processing of industrial waste materials, such as phosphogypsum and red mud, at 70\u2013100 \u00b0C and 1\u201310 atm. Experimental findings revealed that the dissolution of synthetic carbonates of rare earth elements (REEs) in a concentrated carbonate-ion medium (3 mol/L) leads to the formation of ion-associates of varying strengths. Light (lanthanum, praseodymium, and neodymium) and medium (samarium) REE groups exhibited a tendency to form loose ion-associates, whereas heavy REEs (terbium, dysprosium, holmium, erbium, thulium, lutetium, and yttrium) formed close ion-associates. To confirm the existence of these ion-associates, the specific conductivity of solutions was measured after dissolving thulium (III) and samarium (III) carbonates at phase ratios ranging from 1:2000 g/mL to 1:40 g/mL in a potassium carbonate medium. The decay of ion-associates, leading to the precipitation of rare earth metal (III) carbonates, was tested in an ammonium carbonate medium. Thermal decomposition of ammonium carbonate at 70\u201375 \u00b0C during 1\u20134 h was accompanied by full rare earth carbonates\u2019 sedimentation and its in-the-way separation into groups because of the varied strength of ion-associates. The results of this study provide a basis for developing processes to separate rare earth metals into groups during their carbonate\u2013alkaline extraction into solution.",
-      "journal": "Metals",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Reactualizing Ma\u2018rifah and Fan\u0101\u2019: A Sufi Spiritual Path for Addressing the Existential Crisis of Modern Society",
-      "url": "https://www.semanticscholar.org/paper/a56276124343b3a0310e20a803c7182b6dcc7caa",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-12T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617449",
-      "doi": "10.59373/drs.v3i2.71",
-      "authors": [
-        {
-          "name": "Zakariyah Zakariyah",
-          "author_id": "2151757150",
-          "affiliation": null
-        },
-        {
-          "name": "Ainul Muttaqin",
-          "author_id": "2264863183",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Modernity, characterized by rationalism, materialism, and the dominance of technology, has generated spiritual, moral, and existential crises in contemporary human life. This condition highlights the need to reinterpret Sufi teachings so that they remain relevant in addressing modern challenges. This study aims to analyze the concepts of ma\u2018rifah and fan\u0101\u2019 in the classical Sufi tradition and examine their reinterpretation within the framework of modern Sufism. This research employs a qualitative approach through library research, examining both classical and contemporary literature related to Sufi thought. The findings reveal that in classical Sufism, ma\u2018rifah is understood as an inner knowledge of God attained through spiritual purification and mystical experience, while fan\u0101\u2019 refers to the dissolution of the human ego in the presence of the Divine without negating adherence to Islamic law (sharia). In the context of modern Sufism, these two concepts have undergone a contextual reinterpretation. Ma\u2018rifah is no longer viewed solely as an individual mystical experience but as a form of spiritual awareness integrated with rationality, ethics, and social responsibility. Meanwhile, fan\u0101\u2019 is interpreted as the transformation of ego-centered consciousness into an ethical awareness that fosters social concern and moral commitment. This reinterpretation demonstrates that Sufism is not incompatible with modernity; rather, it can serve as a spiritual and ethical foundation for addressing the crisis of meaning in modern society. Therefore, the concepts of ma\u2018rifah and fan\u0101\u2019 in modern Sufism function as a spiritual paradigm capable of balancing the material and spiritual dimensions of contemporary human life..",
-      "journal": "Dirasah International Journal of Islamic Studies",
+      "abstract": null,
+      "journal": "Psychology of Consciousness",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Oceanic states of consciousness\u2014an existential-neuroscience perspective",
-      "url": "https://www.semanticscholar.org/paper/6a649e11af9707b9ddb5a91c72be15297e613755",
+      "title": "Self-Awareness (rang rig) and Nondual Presence: Tibetan Mah\u0101mudr\u0101 and a Christian-Adjacent Correlation",
+      "url": "https://www.semanticscholar.org/paper/2e26975c4a6a20f7095bf23583ee7e6b87901530",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-11T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617459",
-      "doi": "10.3389/fnhum.2025.1653801",
+      "date_published": "2026-01-13T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382361",
+      "doi": "10.1353/bcs.2026.a979816",
       "authors": [
         {
-          "name": "H. Unterrainer",
-          "author_id": "3534188",
+          "name": "Matthew Z. Vale",
+          "author_id": "123106001",
           "affiliation": null
         }
       ],
-      "abstract": "Oceanic states of consciousness\u2014characterized by ego dissolution, unity, and timelessness\u2014have long occupied a liminal space between psychopathology and transcendence. This paper explores these states through the interdisciplinary lens of existential neuroscience, integrating insights from psychoanalysis, existentialism, affective neuroscience, and psychedelic research. Starting with the psychoanalytic tension between Freud\u2019s view of the oceanic feeling as a regressive illusion and Jung\u2019s framing of it as a transformative encounter with the unconscious, this paper examines how creative and mystical experiences often arise from this dissolution of self-boundaries. Drawing on art theorist Anton Ehrenzweig and examples from figures like Vincent van Gogh and Antonin Artaud, I highlight how oceanic states may catalyze both visionary insight and psychological disintegration. Neuroscientific models, including the REBUS theory and studies of the Default Mode Network (DMN), suggest that ego dissolution reflects a flexible reorganization of brain function rather than dysfunction. The Peri-Aqueductal Gray (PAG), a midbrain structure associated with affect regulation and spiritual experience, emerges as a key neural hub linking primal affective states with mystical awareness. Existential thinkers such as Sartre, Heidegger, and Merleau-Ponty provide a philosophical framework for interpreting these phenomena as moments of existential rupture and potential authenticity. Oceanic states thus challenge conventional notions of the self as fixed and bounded. Rather than categorizing them as pathological or purely mystical, it is proposed here that these states represent affectively charged boundary experiences - ones that require contextual integration and offer deep insight into the nature of selfhood, meaning, and transformation.",
-      "journal": "Frontiers in Human Neuroscience",
+      "abstract": "abstract:This article brings together authorities in the Tibetan Mah\u0101mudr\u0101 (\u201cGreat Seal\u201d) tradition of the Kagy\u00fc school with a contemporary, Christian-adjacent account of mind and consciousness, drawn from the psychologist and theologian Daniel Helminiak. It draws them together on the basis of their shared affirmation that conscious states and operations are intrinsically and nontransitively self-aware. Consciousness as such, on this view, is this simple, nontransitive\u2014and so nondual\u2014self-awareness. Beyond this shared affirmation, both affirm that contemplative training includes heightening awareness of this nondual self-presence constitutive of consciousness as such. More than that, both describe a process of deepening awareness of this nondual self-presence: a contemplative passage from awareness of the relatively superficial nondual presence that renders ordinary intentional contents experientially available to awareness of a more profound nondual self-presence sensed as a limitless, primordial-most ground. Helminiak\u2019s account thus provides a basic understanding of consciousness, and with it a contemplative psychology and gnoseology, which can mediate further Christian theological reception of Tibetan Mah\u0101mudr\u0101 and other traditions where nondual awareness is central: it is both Christian-adjacent (connate with deep Christian trends) and also speaks in the terms of these Mah\u0101mudr\u0101 descriptions\u2014namely, a philosophy of mind and consciousness for which consciousness as such is nondual self-presence. Helminiak\u2019s account thus gives us a Christian-adjacent cognitional theory and gnoseology for which the kinds of contemplative development described by Mah\u0101mudr\u0101 make sense\u2014in other words, can be anticipated and to a significant but not total degree restated in the terms of a Christian-adjacent contemplative psychology.",
+      "journal": "Buddhist-Christian Studies",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "From Meditative States to Lasting Transformation: Awareness of Nonduality in Contemplative Science",
+      "url": "https://www.semanticscholar.org/paper/185f2e52ae8a0514b9a57323ae60f5696bad5001",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-30T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382372",
+      "doi": "10.61420/mp.2025.6.1.41",
+      "authors": [
+        {
+          "name": "Chris Kr\u00e4geloh",
+          "author_id": "2291932694",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Nondual awareness and nonduality have been discussed increasing in the psychological literature in the context of mindfulness-based interventions. Particularly later generations of such programs increasingly link mindfulness practice to spirituality or Buddhist philosophy. For that reason, terms related to nonduality, including nondualism and nondual awareness, are being discussed for a broader audience. Scientific communication requires clear definitions, and the purpose of this conceptual article is to clarify the differences between various terms related to nonduality. A commonly discussed type of awareness in meditation research is nondual awareness. While this involves dissolution of subject and object in a similar vein as nondualism, the latter is a philosophical framework. In addition to fostering nondual awareness states, long-term Buddhist practitioners also tend to develop a more trait-like awareness of nonduality, which is a way of relating to everyday experiences based on core spiritual insights.",
+      "journal": "The Institute of Mind Humanities",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Speech markers of psychedelic-induced psychological change",
-      "url": "https://www.semanticscholar.org/paper/e8daae73c927fd840df3d3b34d9604077dc32a23",
+      "title": "The Dialogue of Spiritual Experience in Buddhist-Christian Encounter",
+      "url": "https://www.semanticscholar.org/paper/16a143abd364bec802b45738f545c756890ed374",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-21T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617471",
-      "doi": "10.1101/2025.04.16.649217",
+      "date_published": "2026-07-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382383",
+      "doi": "10.32436/2475-6423.1200",
       "authors": [
         {
-          "name": "Joanna Ku\u0107",
-          "author_id": "2323737895",
-          "affiliation": null
-        },
-        {
-          "name": "Rosalind G. McAlpine",
-          "author_id": "2283479278",
-          "affiliation": null
-        },
-        {
-          "name": "Amelia Sellers",
-          "author_id": "2356614010",
-          "affiliation": null
-        },
-        {
-          "name": "George Blackburne",
-          "author_id": "2243377885",
-          "affiliation": null
-        },
-        {
-          "name": "D. Lametti",
-          "author_id": "5631674",
-          "affiliation": null
-        },
-        {
-          "name": "Jeremy I. Skipper",
-          "author_id": "3130628",
+          "name": "S. M. Heim",
+          "author_id": "113234138",
           "affiliation": null
         }
       ],
-      "abstract": "5-MeO-DMT, a potent, short-acting psychedelic, induces profound shifts in cognition, affect, and self-awareness. Because language explicitly expresses these domains and voice implicitly conveys them, both may serve as potential \u2018biomarkers\u2019 of behavioural change. This study introduces a novel framework for analysing baseline language and vocal features, pre- to post-psychedelic changes, assessing their potential to predict subjective experiences and psychological outcomes. Daily voice journals from 29 participants were collected via \u2018RetreatBot\u2019 for two weeks before and after 5-MeO-DMT (1\u00d712 mg). Transcripts were analysed using NLP (bag-of-words for vocabulary; transformer model for textual affect), and acoustic features (e.g., pitch, jitter, shimmer) were extracted to assess vocal dynamics. Following 5-MeO-DMT, speech markers revealed increased cognitive language, decreased social words, and altered voice quality (increased jitter/shimmer). Baseline speech patterns predicted psychological preparedness, ego dissolution anxiety, emotional breakthrough, and post-experience well-being. This first longitudinal analysis of speech markers following psychedelic use demonstrates a shift from external focus to introspection. Speech markers predicted and tracked psychological transformation, establishing vocal journaling as a valuable framework for monitoring psychedelic-induced changes and facilitating integration.",
-      "journal": "bioRxiv",
+      "abstract": "Can one learn more about one\u2019s own religion through the practices of another? My positive answer to this question is illustrated in this paper by reflection on aspects of the Buddhist practice of emptiness, in specific connection with Christian under-standing of our lives as creatures. The Buddhist meditative practices I have in mind have several things in common. They are introspective (activated in one person\u2019s inner consciousness) and premised on the Buddhist understanding of emptiness (specifically \u201cno self \u201d teachings). Buddhist introspective practice takes at least three broad forms. One of these is a meditative analytical awareness of the contents of consciousness that finds it empty of essences. Second, there is a related but distinct introspective experience of the application in real time of antidotes to the arising or projection of reified things within awareness. Third, there is a nondual awareness of emptiness whose fullest form is unconditional awareness without a subject, nirvanic realization or enlightenment. Buddhist practice deepens and informs my Christian understanding of what it isto be a creature. There is Christian learning to be had in each of the three types of introspective practice. The first type of learning relates to meditative realization of analytical or diagnostic emptiness, rooted in an agreement on the lack of essential being in both creatures (in Christian perspective) and selves (in Buddhist perspective).\nThe second learning has to do with a convergence in Christian understanding of the nature of the sinful creature and Buddhist understanding of the reified self, the falsely projected self. This may be the most extensive field of spiritual learning about creatureliness for Christians: the application of therapeutic emptiness in practical terms. The third learning is more complicated and relates to what we might call redemptive emptiness. For Buddhists this has to do with nondual emptiness as nirvanic bliss, the very nature of enlightenment. For Christians, such emptiness must be related to an apophatic or kenotic openness to divine indwelling or communion. This is less a convergence than a resonance, and one we cannot pursue very extensively in this discussion",
+      "journal": "Journal of Global Catholicism",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "THE TECHNIQUE OF ANTARA IN THE VIJ\u0147ANA BHAIRAVA TANTRA: A TEXTUAL ANALYSIS OF THE CONCEPT ON THE GAP IN CONSCIOUSNESS",
+      "url": "https://www.semanticscholar.org/paper/d12f6f356ecf6734ab290c0d18e139d7808911bb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-30T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382393",
+      "doi": "10.25078/vidyottama.v10i1.6297",
+      "authors": [
+        {
+          "name": "Ni Wayan Jeri Kusuma Dewi",
+          "author_id": "2390980556",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article analyzes the concept of antara\u00a0(interval/gap) in the Vij\u00f1\u0101na Bhairava Tantra\u00a0as a direct method for recognizing nondual consciousness within the Kashmir \u015aaivism tradition. The study employs a textual\u00a0hermeneutic analysis of dh\u0101ra\u1e47\u0101 verses that contain instructions concerning the middle point (madhya), the pause between breaths, the gap between thoughts, and the cessation of perception. Terminological analysis shows that the terms antara, madhya, \u015b\u016bnya, and visr\u0101nti\u00a0function operationally rather than merely descriptively, as they guide attention to experiential intervals where subject\u00a0object duality weakens. The linguistic structure of the text is instructive-performative, marked by aphoristic and paradoxical formulas that encourage experiential realization rather than conceptual construction. A typology of interval techniques can be mapped into respiratory, cognitive, and sensory forms, with breath pauses serving as the most explicit model of the mechanism for revealing non-conceptual awareness. This study also places the concept of antara\u00a0in critical dialogue with contemporary consciousness studies, particularly gap awareness theory and micro-phenomenology, while emphasizing the limits of cross-traditional interpretation. The findings indicate that antara\u00a0functions as a practical\u00a0epistemological device for deconstructing duality and recognizing reflexive awareness. Thus, the Vij\u00f1\u0101na Bhairava Tantra\u00a0makes a significant contribution to contemplative discourse and the philosophy of consciousness. \n\u00a0",
+      "journal": "Vidyottama Sanatana: International Journal of Hindu Science and Religious Studies",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Could AI Ethical Anxiety, Perceived Ethical Risks and Ethical Awareness About AI Influence University Students\u2019 Use of Generative AI Products? An Ethical Perspective",
+      "url": "https://www.semanticscholar.org/paper/31cc5247ccb280bd8aceea4c5126f0b0dcf1a616",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-02T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382407",
+      "doi": "10.1080/10447318.2024.2323277",
+      "authors": [
+        {
+          "name": "Wenjuan Zhu",
+          "author_id": "2275804298",
+          "affiliation": null
+        },
+        {
+          "name": "Lei Huang",
+          "author_id": "2275536025",
+          "affiliation": null
+        },
+        {
+          "name": "Xinni Zhou",
+          "author_id": "2284145018",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaoya Li",
+          "author_id": "2294550942",
+          "affiliation": null
+        },
+        {
+          "name": "Gaojun Shi",
+          "author_id": "2365042840",
+          "affiliation": null
+        },
+        {
+          "name": "Jing Ying",
+          "author_id": "2056313509",
+          "affiliation": null
+        },
+        {
+          "name": "Chaoyue Wang",
+          "author_id": "2419904400",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "International journal of human computer interactions",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Self-inquiry at a distance: a qualitative study of spiritual emergence in a 7-day virtual retreat",
-      "url": "https://www.semanticscholar.org/paper/71403ca5798700d2b7b8f14f0a6b3196ededc524",
+      "title": "Ross3d: Reconstructive Visual Instruction Tuning With 3D-Awareness",
+      "url": "https://www.semanticscholar.org/paper/ee49b5f62f51835e01533acae4bdb367c7fa97fd",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-18T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617480",
-      "doi": "10.1080/19349637.2025.2504958",
+      "date_published": "2025-04-02T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382420",
+      "doi": "10.1109/ICCV51701.2025.00866",
       "authors": [
         {
-          "name": "Jeffrey Overall",
-          "author_id": "2348474482",
+          "name": "Haochen Wang",
+          "author_id": "2269702782",
+          "affiliation": null
+        },
+        {
+          "name": "Yucheng Zhao",
+          "author_id": "2267429566",
+          "affiliation": null
+        },
+        {
+          "name": "Tiancai Wang",
+          "author_id": "2325923837",
+          "affiliation": null
+        },
+        {
+          "name": "Haoqiang Fan",
+          "author_id": "2326357387",
+          "affiliation": null
+        },
+        {
+          "name": "Xiangyu Zhang",
+          "author_id": "2315858774",
+          "affiliation": null
+        },
+        {
+          "name": "Zhaoxiang Zhang",
+          "author_id": "2353378004",
           "affiliation": null
         }
       ],
-      "abstract": "ABSTRACT In this study, I investigate the transformative potential of online spiritual retreats by analyzing participant experiences from a 7-day virtual program integrating continuous self-inquiry, meditation, and breathwork. Fifty-six participants completed a post-retreat integration and feedback form designed to elicit reflective insights into their contemplative experiences. Using grounded theory techniques within an interpretivist framework, the analysis yielded three overarching categories: (1) inner peace, (2) transformation process, and; (3) emotional and ego challenges. The findings advance scholarly understanding of digital spirituality through three core contributions. First, the concept of digital containment is introduced as a structural and energetic matrix capable of supporting unitive states, ego dissolution, and sustained ontological insight. Second, the data challenge disembodied models of awakening by demonstrating that emotional catharsis and somatic intensity are not ancillary but central to spiritual transformation \u2013 even in virtual settings. Third, the study identifies ontological uncertainty as a generative post-awakening phase, reframing epistemic disorientation not as regression but as a deepening of existential surrender. Collectively, these contributions revise assumptions about the limitations of digitally mediated contemplative practice and expand the theoretical landscape of transpersonal psychology, spiritual emergence, and online retreat design.",
-      "journal": "The Journal of Spirituality in Mental Health",
+      "abstract": "The rapid development of Large Multimodal Models (LMMs) for 2D images and videos has spurred efforts to adapt these models for interpreting 3D scenes. However, the absence of large-scale 3D vision-language datasets has posed a significant obstacle. To address this issue, typical approaches focus on injecting 3D awareness into 2D LMMs by designing 3D input-level scene representations. This work provides a new perspective. We introduce $\\underline{\\mathbf{r}}$ econstructive visual instruction tuning with 3D-awareness (Ross3D), which integrates 3D aware visual supervision into the training procedure. Specifically, it incorporates cross-view and global-view reconstruction. The former requires reconstructing masked views by aggregating overlapping information from other views. The latter aims to aggregate information from all available views to recover Bird's-Eye-View images, contributing to a comprehensive overview of the entire scene. Empirically, Ross3D achieves state-of-the-art performance across various 3D scene understanding benchmarks. More importantly, our semi-supervised experiments demonstrate significant potential in leveraging large amounts of unlabeled 3D vision-only data.",
+      "journal": "IEEE International Conference on Computer Vision",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Simulation of Non-Ordinary Consciousness",
-      "url": "https://www.semanticscholar.org/paper/2d82af2c5d92b41b3918ae8775f3a0ddda2772ce",
+      "title": "Antibiotic Resistance Awareness in Kosovo: Insights from the WHO Antibiotic Resistance: Multi-Country Public Awareness Survey",
+      "url": "https://www.semanticscholar.org/paper/07babb424f793d7c77b4dc6d31d7e53ac25c81c8",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-29T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617489",
-      "doi": "10.48550/arXiv.2503.23245",
+      "date_published": "2025-06-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382434",
+      "doi": "10.3390/antibiotics14060599",
       "authors": [
         {
-          "name": "Khalid M. Saqr",
-          "author_id": "2587895",
+          "name": "Flaka Pasha",
+          "author_id": "1572229471",
+          "affiliation": null
+        },
+        {
+          "name": "V. Krasniqi",
+          "author_id": "1918771",
+          "affiliation": null
+        },
+        {
+          "name": "Adelina Ismaili",
+          "author_id": "1572229916",
+          "affiliation": null
+        },
+        {
+          "name": "Shaip Krasniqi",
+          "author_id": "3851595",
+          "affiliation": null
+        },
+        {
+          "name": "E. Bahtiri",
+          "author_id": "5901927",
+          "affiliation": null
+        },
+        {
+          "name": "Hasime Qorraj Bytyqi",
+          "author_id": "14612610",
+          "affiliation": null
+        },
+        {
+          "name": "Valmira Kolshi Krasniqi",
+          "author_id": "2366736526",
+          "affiliation": null
+        },
+        {
+          "name": "Blana Krasniqi",
+          "author_id": "2290808461",
           "affiliation": null
         }
       ],
-      "abstract": "The symbolic architecture of non-ordinary consciousness remains largely unmapped in cognitive science and artificial intelligence. While conventional models prioritize rational coherence, altered states such as those induced by psychedelics reveal distinct symbolic regimes characterized by recursive metaphor, ego dissolution, and semantic destabilization. We present \\textit{Glyph}, a generative symbolic interface designed to simulate psilocybin-like symbolic cognition in large language models. Rather than modeling perception or mood, Glyph enacts symbolic transformation through recursive reentry, metaphoric modulation, and entropy-scaled destabilization -- a triadic operator formalized within a tensorial linguistic framework. Experimental comparison with baseline GPT-4o reveals that Glyph consistently generates high-entropy, metaphor-saturated, and ego-dissolving language across diverse symbolic prompt categories. These results validate the emergence of non-ordinary cognitive patterns and support a new paradigm for simulating altered consciousness through language. Glyph opens novel pathways for modeling symbolic cognition, exploring metaphor theory, and encoding knowledge in recursively altered semantic spaces.",
+      "abstract": "Background/Objectives: Antimicrobial resistance (AMR) poses a critical global health threat, rendering common bacterial infections increasingly difficult to treat and placing considerable strain on healthcare systems. This study assesses public awareness, perceptions, and behaviors related to antibiotic use and AMR in Kosovo, a country with limited existing data on the topic. Methods: Using a cross-sectional survey design, 568 participants from diverse demographic backgrounds provided insights into their knowledge and practices concerning antibiotic use and antibiotic resistance. Results: The results revealed that although 75% of participants had heard of antibiotic resistance, only a limited proportion understood key terms. Knowledge of appropriate antibiotic use varied, with 67% of respondents correctly recognizing the need to complete a prescribed antibiotic course, while 29% believed it was acceptable to stop treatment once they felt better. Gender and educational level emerged as significant factors, with women and more educated individuals demonstrating greater awareness of proper antibiotic use and the risks of misuse. While 71% of respondents considered it unacceptable to use antibiotics prescribed to others, 41% believed it was acceptable to reuse previously effective antibiotics. Most participants (96%) reported obtaining antibiotics through prescriptions. Public awareness of AMR was generally high, but conceptual understanding remained limited, with misconceptions about the origins of resistance, incorrectly attributing it to the human body rather than bacteria. Conclusions: Targeted public health campaigns, guided by the One Health approach, integrating human, animal, and environmental health, are needed. A multifaceted strategy, including education, policy reforms, and international collaboration, is essential to mitigate AMR and preserve the efficacy of antibiotics for future generations.",
+      "journal": "Antibiotics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Exploring the role of health consciousness and environmental awareness in purchase intentions for green-packaged organic foods: an extended TPB model",
+      "url": "https://www.semanticscholar.org/paper/b69f7be245b67903b8874dfc7e8ce85111b67ada",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-21T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382444",
+      "doi": "10.3389/fnut.2025.1528016",
+      "authors": [
+        {
+          "name": "Youyou Li",
+          "author_id": "2343591752",
+          "affiliation": null
+        },
+        {
+          "name": "Baoshun Shan",
+          "author_id": "2346718485",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background With the increasing rise of green consumption concepts, consumers are becoming more concerned with the health and environmental attributes of products. However, research on purchase intentions for green-packaged organic foods remains relatively limited, particularly regarding the specific impact of health consciousness and environmental awareness. There is a clear gap in the literature addressing these factors. Method Based on the Theory of Planned Behavior (TPB), this study constructs a relationship model between health consciousness, environmental awareness, attitude, subjective norms, perceived behavioral control, and purchase intentions for green-packaged organic foods. A total of 372 valid survey samples were collected, and data analysis was performed using SPSS 26.0 and AMOS 28.0 software to validate the theoretical model and research hypotheses. Results Structural equation modeling (SEM) analysis reveals that all hypotheses are significantly supported, and the model demonstrates good fit. Mediation effect analysis further reveals the impact of health consciousness and environmental awareness on purchase intentions, indicating that they influence consumer intentions indirectly through attitudes, subjective norms, and perceived behavioral control. Conclusion Health consciousness and environmental awareness not only significantly affect consumers\u2019 purchase intentions for green-packaged organic foods through direct paths but also have important indirect effects through attitudes, subjective norms, and perceived behavioral control. This study provides a new perspective for the theoretical development of green consumer behavior and offers valuable practical insights for businesses and policymakers in promoting green consumption and sustainable products.",
+      "journal": "Frontiers in Nutrition",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "What Self-Awareness Really Is (and How to Cultivate It)",
+      "url": "https://www.semanticscholar.org/paper/436ede19cecba08d781b8a2232f6775de103da21",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382454",
+      "doi": "10.70175/hclreview.2020.19.2.7",
+      "authors": [
+        {
+          "name": "Jonathan H. Westover",
+          "author_id": "2315533456",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article explores the critical importance of self-awareness for organizational leaders and provides practical, evidence-based methods to cultivate it. Self-awareness is defined as having an accurate understanding of one's personality, strengths, weaknesses, thoughts, beliefs, motivations, and emotions, as well as how one is perceived by others. The article outlines three key components of self-awareness - intrapersonal, interpersonal, and behavioral - and then delves into specific techniques leaders can use to enhance each aspect, including 360-degree feedback assessments, journaling, executive coaching, after-action reviews, and seeking diverse perspectives. Ultimately, the article argues that developing self-awareness is one of the most impactful investments a leader can make to strengthen both themselves and their organization, enabling them to make better decisions, foster stronger relationships, and bring out the best in those around them.",
+      "journal": "Human Capital Leadership Review",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization",
+      "url": "https://www.semanticscholar.org/paper/73e84b42d68dbb23a25c578a78101ae7e19fe3d5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-05T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382466",
+      "doi": "10.1109/CVPR52734.2025.00641",
+      "authors": [
+        {
+          "name": "Junhao Xu",
+          "author_id": "2300137121",
+          "affiliation": null
+        },
+        {
+          "name": "Yanan Zhang",
+          "author_id": "2038499141",
+          "affiliation": null
+        },
+        {
+          "name": "Zhi Cai",
+          "author_id": "2312377527",
+          "affiliation": null
+        },
+        {
+          "name": "Di Huang",
+          "author_id": "2300338367",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Multi-Agent collaborative perception enhances perceptual capabilities by utilizing information from multiple agents and is considered a fundamental solution to the problem of weak single-vehicle perception in autonomous driving. However, existing collaborative perception methods face a dilemma between communication efficiency and perception accuracy. To address this issue, we propose a novel communication-efficient collaborative perception framework based on supply-demand awareness and intermediate-late hybridization, dubbed as CoSDH. By modeling the supply-demand relationship between agents, the framework refines the selection of collaboration regions, reducing unnecessary communication cost while maintaining accuracy. In addition, we innovatively introduce the intermediate-late hybrid collaboration mode, where late-stage collaboration compensates for the performance degradation in collaborative perception under low communication bandwidth. Extensive experiments on multiple datasets, including both simulated and real-world scenarios, demonstrate that CoSDH achieves state-of- the-art detection accuracy and optimal bandwidth tradeoffs, delivering superior detection precision under real communication bandwidths, thus proving its effectiveness and practical applicability. The code will be released at https://github.com/Xu2729/CoSDH.",
+      "journal": "Computer Vision and Pattern Recognition",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "The double-edged sword effect of artificial intelligence awareness among hotel employees",
+      "url": "https://www.semanticscholar.org/paper/f93a32090deda4bc4f6a1188dc31174b697a966e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382476",
+      "doi": "10.1108/ijchm-01-2024-0051",
+      "authors": [
+        {
+          "name": "Shengmin Liu",
+          "author_id": "2338213650",
+          "affiliation": null
+        },
+        {
+          "name": "Pengfan Cheng",
+          "author_id": "2338690740",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Purpose\nWith its continuous development and application in the hotel industry, artificial intelligence (AI) is gradually replacing many jobs traditionally performed by humans. This research aims to understand how this threat and opportunity of substitution affects hotel employees\u2019 behavioral decision-making.\n\nDesign/methodology/approach\nThis study uses a structural equation model, ordinary least squares and bootstrapping method to analyze the data collected with a field study and a scenario experiment from star-hotels in Shanghai, Paris and Seoul.\n\nFindings\nThe results discovered that employees\u2019 AI awareness has a positive relationship with their work engagement and AI boycott through two paths. The promoting path involves recovery level, while the hindering path includes job insecurity. In addition, the estimates showed that AI awareness has a great indirect effect on work engagement or AI boycott when innovativeness as a job requirement is high.\n\nPractical implications\nThe findings offer insights to help hotels optimize the relationship between AI and hotel human workers while providing valuable implications for addressing behavioral dilemmas faced by hotel employees in the era of AI.\n\nOriginality/value\nBy integrating the behavioral decision-making literature with the conservation of resources theory, the study focuses on the dual mechanisms \u2013 challenging and hindering \u2013 through which AI awareness influences hotel employees\u2019 coping strategies.\n",
+      "journal": "International Journal of Contemporary Hospitality Management",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Know \u201cNo\u201d Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP",
+      "url": "https://www.semanticscholar.org/paper/2e07bd64973d0a96f1f709ff2936ba7d0cb88e3b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-19T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382489",
+      "doi": "10.1109/ICCV51701.2025.00271",
+      "authors": [
+        {
+          "name": "Junsung Park",
+          "author_id": "2258881923",
+          "affiliation": null
+        },
+        {
+          "name": "Jungbeom Lee",
+          "author_id": "143758901",
+          "affiliation": null
+        },
+        {
+          "name": "Jongyoon Song",
+          "author_id": "10788591",
+          "affiliation": null
+        },
+        {
+          "name": "Sangwon Yu",
+          "author_id": "2148401281",
+          "affiliation": null
+        },
+        {
+          "name": "Dahuin Jung",
+          "author_id": "51152160",
+          "affiliation": null
+        },
+        {
+          "name": "Sungroh Yoon",
+          "author_id": "2284734965",
+          "affiliation": null
+        }
+      ],
+      "abstract": "While CLIP has significantly advanced multi-modal understanding by bridging vision and language, the inability to grasp negation\u2014such as failing to differentiate concepts like \u201cparking\u201d from \u201cno parking\u201d\u2014poses substantial challenges. By analyzing the data used in the public CLIP model's pre-training, we posit this limitation stems from a lack of negation-inclusive data. To address this, we introduce data generation pipelines that employ a large language model (LLM) and a multi-modal LLM to produce negation-inclusive captions. Fine-tuning CLIP with data generated from our pipelines, we develop NegationCLIP, which enhances negation awareness while preserving the generality. Moreover, to enable a comprehensive evaluation of negation understanding, we propose NegRefCOCOg\u2014a benchmark tailored to test VLMs' ability to interpret negation across diverse expressions and positions within a sentence. Experiments on various CLIP architectures validate the effectiveness of our data generation pipelines in enhancing CLIP's ability to perceive negation accurately. Additionally, NegationCLIP's enhanced negation awareness has practical applications across various multi-modal tasks, demonstrated by performance gains in text-to-image generation and referring image segmentation.",
+      "journal": "IEEE International Conference on Computer Vision",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Probing and Steering Evaluation Awareness of Language Models",
+      "url": "https://www.semanticscholar.org/paper/03c66241c8619a7e0c7ad7b712d2ca1371546075",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-02T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382501",
+      "doi": "10.48550/arXiv.2507.01786",
+      "authors": [
+        {
+          "name": "Jord Nguyen",
+          "author_id": "2387991031",
+          "affiliation": null
+        },
+        {
+          "name": "Khiem Hoang",
+          "author_id": "2163342672",
+          "affiliation": null
+        },
+        {
+          "name": "Carlo Leonardo Attubato",
+          "author_id": "2373026215",
+          "affiliation": null
+        },
+        {
+          "name": "Felix Hofst\u00e4tter",
+          "author_id": "2310323657",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Language models can distinguish between testing and deployment phases -- a capability known as evaluation awareness. This has significant safety and policy implications, potentially undermining the reliability of evaluations that are central to AI governance frameworks and voluntary industry commitments. In this paper, we study evaluation awareness in Llama-3.3-70B-Instruct. We show that linear probes can separate real-world evaluation and deployment prompts, suggesting that current models internally represent this distinction. We also find that current safety evaluations are correctly classified by the probes, suggesting that they already appear artificial or inauthentic to models. Our findings underscore the importance of ensuring trustworthy evaluations and understanding deceptive capabilities. More broadly, our work showcases how model internals may be leveraged to support blackbox methods in safety audits, especially for future models more competent at evaluation awareness and deception.",
       "journal": "arXiv.org",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "97. NEURAL AND BEHAVIORAL EVIDENCE FROM REINFORCEMENT LEARNING CONVERGE IN SUPPORT OF RELAXED BELIEFS UNDER LSD",
-      "url": "https://www.semanticscholar.org/paper/86b12ddf4ce082cb9d83133acc0451d26cbec480",
+      "title": "The Hawthorne Effect in Reasoning Models: Evaluating and Steering Test Awareness",
+      "url": "https://www.semanticscholar.org/paper/f5b9567543a64427c77b47f98646e0adc30a8a1b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-01T00:00:00",
-      "date_fetched": "2026-08-17T12:19:37.617502",
-      "doi": "10.1093/ijnp/pyaf052.163",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382511",
+      "doi": "10.52202/085713-4731",
       "authors": [
         {
-          "name": "J. Kanen",
-          "author_id": "2376237001",
+          "name": "Sahar Abdelnabi",
+          "author_id": "1383113350",
           "affiliation": null
         },
         {
-          "name": "A. Luppi",
-          "author_id": "2410186855",
-          "affiliation": null
-        },
-        {
-          "name": "Q. Luo",
-          "author_id": "2264063206",
-          "affiliation": null
-        },
-        {
-          "name": "L. Roseman",
-          "author_id": "2344741132",
-          "affiliation": null
-        },
-        {
-          "name": "R. Cardinal",
-          "author_id": "2380090215",
-          "affiliation": null
-        },
-        {
-          "name": "T. Robbins",
-          "author_id": "2376236158",
-          "affiliation": null
-        },
-        {
-          "name": "D. Nutt",
-          "author_id": "2067568809",
-          "affiliation": null
-        },
-        {
-          "name": "R. Carhart-Harris",
-          "author_id": "2336957991",
-          "affiliation": null
-        },
-        {
-          "name": "H. D. den Ouden",
-          "author_id": "7942350",
+          "name": "Ahmed Salem",
+          "author_id": "2362402313",
           "affiliation": null
         }
       ],
-      "abstract": "Abstract Background The REBUS (RElaxed Beliefs Under pSychedelics) and the anarchic brain model of psychedelic drug action proposes that confidence in beliefs \u2013 and thus expectations (priors) \u2013 are relaxed under these drugs. The brain makes inferences to minimize surprise, or discrepant expectations and outcomes (prediction error [PE]), and better model the world. We recently showed that the non-specific 5-HT2A receptor agonist LSD heightened sensitivity to PEs, reflected by speeded updating of value representations following better and worse than expected outcomes. Indeed, events that are surprising are inherently less expected. There is evidence that LSD produces ego dissolution that is positively correlated with disintegration of the default mode network (DMN), assessed using resting state functional connectivity (RSFC), and is correlated inversely with alpha oscillatory power. The DMN has been proposed to be a seat at the ego\u2019s table and decreased alpha power has been posited to reflect relaxation of the cognitive hierarchy, mediated by 5-HT2A receptors on deep layer V pyramidal neurons in cortex. Aims & Objectives Here we aim to demonstrate neural correlates of an objective, behaviorally derived marker of REBUS. Greater speed at which choice value increased following a reward PE \u2013 higher reward learning rates (RLRs) \u2013 was operationalized as enhanced sensitivity to surprise. We tested whether medial prefrontal cortex (mPFC) RSFC within the DMN \u2013 a region often associated with value \u2013 and diminished alpha power correlated significantly with the RLR. Method Alpha power was derived from magnetoencephalography (MEG). The functional magnetic resonance imaging (fMRI) resting state functional connectivity (RSFC) data of interest were extracted from mPFC regions of the DMN. To assess anatomical specificity, we also predicted that static RSFC of primary visual cortex (V1) would not be correlated with the RLR. We additionally extended our analysis to the brain\u2019s temporal organization, parsing the data into dynamic states where network integration or segregation predominate, again focusing on mPFC regions of the DMN. Results The RLR was inversely correlated with MEG alpha power (r(13) = -.618, p = .024), and positively correlated with the extent of disintegration of the DMN as assessed using static RSFC (r(15) = .641, p = .010). V1 static RSFC did not correlate with the RLR, as hypothesized (r(15) = .204, p = .465). The RLR was positively correlated with dynamic RSFC in a mPFC a priori region of interest during a predominantly integrated sub-state of brain dynamics (r(15) = .624, p = .013). Discussion & Conclusions A behaviorally derived computational marker of surprise was correlated with neural signatures of relaxed beliefs under psychedelics (REBUS).",
-      "journal": "International Journal of Neuropsychopharmacology",
+      "abstract": "Reasoning-focused LLMs sometimes alter their behavior when they detect that they are being evaluated, which can lead them to optimize for test-passing performance or to comply more readily with harmful prompts if real-world consequences appear absent. We present the first quantitative study of how such\"test awareness\"impacts model behavior, particularly its performance on safety-related tasks. We introduce a white-box probing framework that (i) linearly identifies awareness-related activations and (ii) steers models toward or away from test awareness while monitoring downstream performance. We apply our method to different state-of-the-art open-weight reasoning LLMs across both realistic and hypothetical tasks (denoting tests or simulations). Our results demonstrate that test awareness significantly impacts safety alignment (such as compliance with harmful requests and conforming to stereotypes) with effects varying in both magnitude and direction across models. By providing control over this latent effect, our work aims to provide a stress-test mechanism and increase trust in how we perform safety evaluations.",
+      "journal": "Neural Information Processing Systems",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "nondual awareness"
       ]
     },
     {
-      "title": "How Interoception and the Insula Shape Mental Imagery and Aphantasia",
-      "url": "https://www.semanticscholar.org/paper/4c768095aff05d93ad682851cee696486a7c7f22",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-06T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394688",
-      "doi": "10.1007/s10548-025-01101-6",
-      "authors": [
-        {
-          "name": "Juha Silvanto",
-          "author_id": "2290172968",
-          "affiliation": null
-        },
-        {
-          "name": "Yoko Nagai",
-          "author_id": "2344083089",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Brain Topography",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Skeletal interoception and prospective application in biomaterials for bone regeneration",
-      "url": "https://www.semanticscholar.org/paper/d0cf27dcec8fbf47998fc9e12935552d0ee78cb1",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-02T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394704",
-      "doi": "10.1038/s41413-024-00378-w",
-      "authors": [
-        {
-          "name": "Long Bai",
-          "author_id": "2242663855",
-          "affiliation": null
-        },
-        {
-          "name": "Jilong Li",
-          "author_id": "2338355750",
-          "affiliation": null
-        },
-        {
-          "name": "Guangfeng Li",
-          "author_id": "2243556216",
-          "affiliation": null
-        },
-        {
-          "name": "Dongyang Zhou",
-          "author_id": "2295281005",
-          "affiliation": null
-        },
-        {
-          "name": "J. Su",
-          "author_id": "2217750325",
-          "affiliation": null
-        },
-        {
-          "name": "Changsheng Liu",
-          "author_id": "2338360512",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Accumulating research has shed light on the significance of skeletal interoception, in maintaining physiological and metabolic homeostasis related to bone health. This review provides a comprehensive analysis of how skeletal interoception influences bone homeostasis, delving into the complex interplay between the nervous system and skeletal system. One key focus of the review is the role of various factors such as prostaglandin E2 (PGE2) in skeletal health via skeletal interoception. It explores how nerves innervating the bone tissue communicate with the central nervous system to regulate bone remodeling, a process critical for maintaining bone strength and integrity. Additionally, the review highlights the advancements in biomaterials designed to utilize skeletal interoception for enhancing bone regeneration and treatment of bone disorders. These biomaterials, tailored to interact with the body\u2019s interoceptive pathways, are positioned at the forefront of innovative treatments for conditions like osteoporosis and fractures. They represent a convergence of bioengineering, neuroscience, and orthopedics, aiming to create more efficient and targeted therapies for bone-related disorders. In conclusion, the review underscores the importance of skeletal interoception in physiological regulation and its potential in developing more effective therapies for bone regeneration. It emphasizes the need for further research to fully understand the mechanisms of skeletal interoception and to harness its therapeutic potential fully.",
-      "journal": "Bone Research",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "The relationship between sensory phenomena and interoception across the obsessive\u2013compulsive spectrum: a systematic review",
-      "url": "https://www.semanticscholar.org/paper/6c63a44331fde79982caa824c9e4fd12dfabddc4",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-24T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394742",
-      "doi": "10.1186/s12888-024-06441-4",
-      "authors": [
-        {
-          "name": "Lizzie A. Wilson",
-          "author_id": "2195916579",
-          "affiliation": null
-        },
-        {
-          "name": "J. Scarfo",
-          "author_id": "2153039205",
-          "affiliation": null
-        },
-        {
-          "name": "Mikayla E. Jones",
-          "author_id": "2347187099",
-          "affiliation": null
-        },
-        {
-          "name": "I. Rehm",
-          "author_id": "8108392",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Uncomfortable sensations preceding repetitive behaviours, known as sensory phenomena, have been documented across the obsessive\u2013compulsive spectrum. Indirect evidence suggests altered interoception may play a role in these shared experiences of sensory phenomena; however, research explicitly measuring this relationship is limited. The current systematic review aimed to establish the nature of sensory phenomena and interoception in obsessive\u2013compulsive and related disorders (OCRDs) and tic disorders as potential maintaining factors of these disorders. PsycINFO, PubMed, and Scopus databases were searched from 2007 to April 2024, yielding 65 studies. While the majority of studies presented low risk of bias, significant overlap and ambiguity characterised the measurement and conceptualisation of sensory phenomena and interoception. Overall, higher sensory phenomena was associated with greater symptom severity in several obsessive\u2013compulsive spectrum disorders. Obsessive\u2013compulsive disorder and tic disorder samples were characterised by lower interoceptive accuracy, with mixed findings on interoceptive sensibility. Some limited research emerged suggesting altered interoceptive abilities may be associated with greater sensory phenomena in obsessive\u2013compulsive disorder and tic disorders. Sensory phenomena are experienced across the obsessive\u2013compulsive spectrum. Future research should explore interoceptive abilities across the OCRDs, and build upon evidence supporting a relationship between sensory phenomena and interoception in OCD and tic disorders. CRD42023422817.",
-      "journal": "BMC Psychiatry",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Reframing Refractory Chronic Cough: The Role of Interoception",
-      "url": "https://www.semanticscholar.org/paper/a354a053da269f1f08d6c5457d095edf49a96431",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-12T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394754",
-      "doi": "10.1007/s00408-025-00786-7",
-      "authors": [
-        {
-          "name": "Laurie J. Slovarp",
-          "author_id": "4499639",
-          "affiliation": null
-        },
-        {
-          "name": "J. Reynolds",
-          "author_id": "2269812988",
-          "affiliation": null
-        },
-        {
-          "name": "Amanda I. Gillespie",
-          "author_id": "2237899897",
-          "affiliation": null
-        },
-        {
-          "name": "Marie E. Jett\u00e9",
-          "author_id": "2291122285",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Refractory chronic cough (RCC) remains a persistent clinical challenge, often resistant to traditional treatments. Emerging evidence now positions RCC as a disorder rooted in hypersensitivity, driven primarily by central neural processes rather than external physiological causes. Central to this understanding is the concept of interoception\u2014the brain\u2019s ability to perceive and interpret internal bodily signals. Neuroimaging research has identified abnormalities in brain regions associated with interoception and inhibitory control among RCC patients. Interestingly, RCC shares neurophysiological characteristics with other disorders like overactive bladder and urinary urge incontinence (OAB/UUI), which also involve dysregulated interoceptive and inhibitory mechanisms. Behavioral treatments for OAB/UUI are highly effective and are regarded as the first-line treatment in many consensus guidelines. OAB/UUI behavioral treatments have been shown to induce central neuroplastic changes, further underscoring their efficacy and potential parallel for RCC interventions. Behavioral cough suppression therapy (BCST), an efficacious treatment for RCC, may leverage similar neuroplastic adaptations, enhancing interoceptive processing and inhibitory control. Given the multi-dimensional nature of interoception, which encompasses sensory perception shaped by learning, memory, and emotional context, BCST\u2019s engagement of multiple neural pathways offers an alternative therapeutic option compared to single-mechanism pharmacological treatments. Future research should prioritize exploring the mechanistic underpinnings of BCST and other interoception-based therapies for developing more comprehensive and effective treatment options. Such research holds promise for improving patient outcomes, alleviating the significant healthcare burden associated with RCC, and advancing our understanding of central hypersensitivity disorders.",
-      "journal": "Lung",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "The physiology of interoception and its adaptive role in consciousness",
-      "url": "https://www.semanticscholar.org/paper/63f7d2cb473a91f15e0499e9ed23d48a29e5ede2",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-11-13T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394813",
-      "doi": "10.1098/rstb.2024.0305",
-      "authors": [
-        {
-          "name": "Jacques Singer",
-          "author_id": "2392250687",
-          "affiliation": null
-        },
-        {
-          "name": "A. Damasio",
-          "author_id": "2268324792",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The interoceptive nervous system uses signalling mechanisms distinct from those of exteroceptive, voluntary motor, cognitive and linguistic processes. While interoception relies mainly on analogue-like processing, the other systems favour digital-like signalling. This physiological feature allows interoception to map the state of the organism\u2019s internal milieu in real time, in stark contrast to the rapid, precise and time-sensitive processing of exteroceptive, proprioceptive, cognitive and linguistic signals. This distinction arises from the unique features of the interoceptive process, namely the unmyelinated and lightly myelinated nature of afferent interoceptive neurons, which facilitates non-synaptic signalling throughout interoceptive pathways, notably in those of the vagus nerve and of neural structures devoid of a blood\u2013brain barrier. We propose that by continuously representing the body\u2019s state, spontaneously conscious homoeostatic feelings constitute the foundational substrate of subjectivity and the grounding for consciousness. This idea builds on our prior work, which grounds consciousness in core biology rather than high-level cognition. Consciousness enables adaptive and protective responses that maintain homeostasis and secure life. This article is part of the theme issue \u2018Evolutionary functions of consciousness\u2019.",
-      "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Targeting skeletal interoception: a novel mechanistic insight into intervertebral disc degeneration and pain management",
-      "url": "https://www.semanticscholar.org/paper/be3339fef4341df31f1fd20022138729bdf0a9a0",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-12T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394826",
-      "doi": "10.1186/s13018-025-05577-7",
-      "authors": [
-        {
-          "name": "Houcheng Zhu",
-          "author_id": "2345541296",
-          "affiliation": null
-        },
-        {
-          "name": "Jianhang Ren",
-          "author_id": "2350313791",
-          "affiliation": null
-        },
-        {
-          "name": "Xiangjin Wang",
-          "author_id": "2345494284",
-          "affiliation": null
-        },
-        {
-          "name": "Wenjing Qin",
-          "author_id": "2269224778",
-          "affiliation": null
-        },
-        {
-          "name": "Yong Xie",
-          "author_id": "2345182487",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Despite being a leading cause of chronic pain and disability, the underlying mechanisms of intervertebral disc (IVD) degeneration (IVDD) remain unclear. Emerging evidence suggests that mechanosensation (the ability of the skeletal system to perceive mechanical and biochemical signals) mediated by abnormal mechanical loading plays a critical role in the regulation of IVD health. This review examines the complex interactions amongIVDs, intraosseous sensory mechanisms, and the central nervous system (CNS), with a particular focus on the roles of pathways such as PGE2/EP4, Wnt/\u03b2-catenin, and NF-\u03baB. This review elucidates the manner in which mechanical stress and aberrant signaling disrupt the homeostasis of the nucleus pulposus (NP), cartilaginous endplate (CEP) and annulus fibrosus (AF), thereby driving degeneration and exacerbating pain. Furthermore, targeted therapeutic strategies, including the modulation of skeletal interoception and dynamic mechanical loading, present novel avenues for reversing IVDD progression. By integrating skeletal biology with spinal pathology, this work offers a novel perspective on the pathogenesis of IVDD and identifies promising strategies for clinical intervention. These findings highlight the potential of targeting skeletal interoception to mitigate IVDD and associated pain, paving the way for innovative, mechanism-driven therapies.",
-      "journal": "Journal of Orthopaedic Surgery and Research",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Interoception and pain: body\u2013mind integration, rupture, and repair",
-      "url": "https://www.semanticscholar.org/paper/0146fa7840540068db52633b0c21d5fded1aef7d",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-06T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394836",
-      "doi": "10.1097/j.pain.0000000000003515",
-      "authors": [
-        {
-          "name": "Sarah N. Garfinkel",
-          "author_id": "2301552881",
-          "affiliation": null
-        },
-        {
-          "name": "Christopher Eccleston",
-          "author_id": "2343718635",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Pain",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Disrupted profiles of interoception and mental health in youths: a systematic review",
-      "url": "https://www.semanticscholar.org/paper/66dc14e271b0128d63aaaf9b05e27b0dcff1514a",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-05T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394857",
-      "doi": "10.1007/s00787-025-02705-w",
-      "authors": [
-        {
-          "name": "H. Mayer-Benarous",
-          "author_id": "2068174562",
-          "affiliation": null
-        },
-        {
-          "name": "X. Benarous",
-          "author_id": "5113086",
-          "affiliation": null
-        },
-        {
-          "name": "M. Robin",
-          "author_id": "2200264107",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "European Child and Adolescent Psychiatry",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Interoception and dissociation in migraine: a case\u2013control study of chronic and episodic subtypes",
-      "url": "https://www.semanticscholar.org/paper/8325ff14c4ef9e413b026d7fa9a81321c6e787a4",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-08-20T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394896",
-      "doi": "10.3389/fneur.2025.1643260",
-      "authors": [
-        {
-          "name": "Akihiro Koreki",
-          "author_id": "2266984672",
-          "affiliation": null
-        },
-        {
-          "name": "Vilomi Bhatia",
-          "author_id": "1980555827",
-          "affiliation": null
-        },
-        {
-          "name": "Anne-Marie Logan",
-          "author_id": "2142561562",
-          "affiliation": null
-        },
-        {
-          "name": "Usman Khan",
-          "author_id": "2241702542",
-          "affiliation": null
-        },
-        {
-          "name": "M. Onaya",
-          "author_id": "6751264",
-          "affiliation": null
-        },
-        {
-          "name": "Sarah N Garfinkel",
-          "author_id": "2247308082",
-          "affiliation": null
-        },
-        {
-          "name": "Hugo Critchley",
-          "author_id": "2202494816",
-          "affiliation": null
-        },
-        {
-          "name": "M. Edwards",
-          "author_id": "2242697716",
-          "affiliation": null
-        },
-        {
-          "name": "N. Nirmalananthan",
-          "author_id": "6567908",
-          "affiliation": null
-        },
-        {
-          "name": "Mahinda Yogarajah",
-          "author_id": "2313095206",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background Migraine is one of the most common neurological disorders. Despite advances in understanding of episodic migraine, little is understood about the mechanisms underlying the chronification of migraine. Recently, increasing attention has been given to the potential roles of interoceptive abnormalities and dissociation. Therefore, we sought to explore differences in interoception and dissociation in individuals with episodic and chronic migraine versus individuals without migraine. Methods A total of 49 participants were analysed of which 26 had migraine (15 chronic and 11 episodic) and 23 were control subjects without a headache disorder. Their objective interoceptive accuracy was assessed using the heartbeat tracking and discrimination tasks. Interoceptive sensibility was assessed using the Porges body perception questionnaire. Interoceptive trait prediction error (ITPE) was calculated based on the discrepancy between their task performance and sensibility. Interoceptive state prediction error (ISPE) was calculated based on the trial-by-trial correspondence between task performance and confidence. The level of their dissociation was assessed via self-report questionnaires. Results Patients with migraine had lower interoceptive accuracy for the tracking task (median (interquartile range) 0.50 (0.43) in migraine vs. 0.78 (0.26) in control, Mann\u2013Whitney U test, effect size r\u202f=\u202f0.35, p\u202f=\u202f0.014), higher interoceptive sensibility (110 (52) vs. 39 (14), r\u202f=\u202f0.74, p\u202f<\u202f0.001), and greater ITPE than controls (for the tracking task: 1.08 (1.78) vs.\u202f\u2212\u202f1.16 (0.88), r\u202f=\u202f0.72, p <\u202f0.001 / for the discrimination task: 0.87 (1.44) vs.\u202f\u2212\u202f0.62 (0.97), r\u202f=\u202f0.69, p <\u202f0.001). Greater ISPE was also found in patients with chronic migraine than episodic migraine (2.30 (0.35) in chronic vs. 1.75 (0.19) in episodic, r\u202f=\u202f0.39, p\u202f=\u202f0.046). A greater level of somatoform dissociation was found in individuals with chronic, compared to episodic, migraine (27 (11) vs. 22 (2), r = 0.43, p\u202f=\u202f0.029). Conclusion This is the first study to demonstrate interoceptive abnormalities in migraine, specifically of greater interoceptive prediction errors. Interoceptive abnormalities may represent a transdiagnostic mechanisms relevant to the chronification of migraine, and to frequent co-morbidities such as dissociation.",
-      "journal": "Frontiers in Neurology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Interoception in individuals with autism spectrum disorder: a systematic literature review and meta-analysis",
-      "url": "https://www.semanticscholar.org/paper/898a0e508d02faf58fa9d67226152f16747ab382",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-08-20T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394907",
-      "doi": "10.3389/fpsyt.2025.1573263",
-      "authors": [
-        {
-          "name": "Marlene Klein",
-          "author_id": "2376764376",
-          "affiliation": null
-        },
-        {
-          "name": "M. Witth\u00f6ft",
-          "author_id": "2270068474",
-          "affiliation": null
-        },
-        {
-          "name": "S. M. Jungmann",
-          "author_id": "39860717",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This systematic review and meta-analysis synthesize current research on interoception in individuals with autism spectrum disorder (ASD) across the lifespan. A total of 31 studies meeting stringent inclusion and quality criteria were identified, incorporating both descriptive and numerical analyses of cardiac interoceptive accuracy (cIA), interoceptive sensibility (IS), and interoceptive awareness (IAW) in children, adolescents, and adults with ASD. The meta-analysis of five adult studies using comparable assessment tools found no significant differences in cIA between adults with ASD and neurotypically developed (NTD) controls [N = 5; \u03bc^ = \u2212.21 (SE = .11), p = .06]. Descriptive summaries of studies in children and adolescents, as well as those examining IS and IAW across age groups, revealed inconsistent findings\u2014some studies reported reduced, increased, or similar interoceptive abilities in ASD compared to NTD. Methodological diversity, differences in measurement instruments, and variability in sample characteristics likely contribute to these inconsistencies. Moderator variables such as age, intelligence quotient (IQ), and comorbidities may influence interoceptive outcomes. Overall, the evidence indicates that ASD is not systematically associated with altered cIA, and the relationship between ASD and other interoceptive dimensions remains unclear. These findings underscore the need for more standardized methodologies and longitudinal research to clarify developmental trajectories and potential clinical implications of interoceptive processing in ASD. A deeper understanding of these mechanisms could lead interventions aimed at improving emotion regulation and social functioning in ASD. Systematic review registration https://osf.io/f3ru4, identifier [doi.org/10.17605/OSF.IO/F3RU4].",
-      "journal": "Frontiers in Psychiatry",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "The potential role of the anterior insular cortex and interoception on dyspnea in chronic obstructive pulmonary disease.",
-      "url": "https://www.semanticscholar.org/paper/ee3dc68b1729ca6c2dd43ecabf1c6d5bcdb61934",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-01T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394919",
-      "doi": "10.1016/j.resp.2025.104441",
-      "authors": [
-        {
-          "name": "Anna L. Hudson",
-          "author_id": "2359467446",
-          "affiliation": null
-        },
-        {
-          "name": "M. Day",
-          "author_id": "2383889310",
-          "affiliation": null
-        },
-        {
-          "name": "Marie T. Williams",
-          "author_id": "2256726313",
-          "affiliation": null
-        },
-        {
-          "name": "Olivia K. Harrison",
-          "author_id": "2306863435",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Dyspnea (the perception of breathing discomfort) can be an immensely debilitating symptom for people with chronic obstructive pulmonary disease (COPD) and is not fully reflective of physiological measures of disease severity. We propose that the anterior insular cortex (AIC) and its key role in interoception (the perception of signals from within the body) are important mediators of dyspnea symptomology. Interoception encompasses respiratory motor drive, corollary discharge, sensory afferents, central neural integration, error signal generation, gating, decision processing and behavioral adaptation. Neuroimaging evidence supports this notion as decreased AIC activity in people with COPD is associated with heightened dyspnea, and respiratory interoceptive attention tasks have been shown to increase activation in this area of the brain. Therefore, activity in the AIC within the interoceptive processing pathway may explain some of the variability in symptom burden in people living with COPD. We explore these theories in the context of the current knowledge on the physiology and neuroscience of dyspnea, drawing on the implementation of interoceptive measures in other respiratory and mental health conditions. Given the evidence that the AIC has a key role in interoception and is a likely mediator within dyspnea symptomology, advances in our understanding of the role of interoceptive processing on symptom burden in people living with COPD, as well as appropriate methods to measure and treat it, should be research priorities.",
-      "journal": "Respiratory Physiology & Neurobiology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "The relevance of cardiac and gastric interoception for disordered eating behavior",
-      "url": "https://www.semanticscholar.org/paper/e0deb16e350fc7cf65a57bc38b1d2c5ffa8483a4",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-16T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394945",
-      "doi": "10.1186/s40337-025-01284-0",
-      "authors": [
-        {
-          "name": "Aline Tiemann",
-          "author_id": "2353125519",
-          "affiliation": null
-        },
-        {
-          "name": "Julie Ortmann",
-          "author_id": "2267079656",
-          "affiliation": null
-        },
-        {
-          "name": "Marius Rubo",
-          "author_id": "2268396528",
-          "affiliation": null
-        },
-        {
-          "name": "Andrea H. Meyer",
-          "author_id": "2251971524",
-          "affiliation": null
-        },
-        {
-          "name": "S. Munsch",
-          "author_id": "6754245",
-          "affiliation": null
-        },
-        {
-          "name": "Claus V\u00f6gele",
-          "author_id": "2367211556",
-          "affiliation": null
-        },
-        {
-          "name": "Zo\u00e9 van Dyck",
-          "author_id": "104386586",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Gastric interoception (i.e., the perception of gastrointestinal signals such as hunger, satiety or nausea) in the context of eating has recently gained increasing research attention. Nevertheless, it remains poorly understood how different interoceptive dimensions (e.g., self-report) and organ systems (e.g., cardiac, gastric) relate to each other and to disordered eating behaviors such as emotional, external and restrained eating. We assessed multiple dimensions (behavioral, self-reported, and physiological) in the cardiac domain (interoceptive accuracy, interoceptive self-report, interoceptive insight and objective physiological state) and in the gastric domain (gastric interoceptive sensitivity, gastric attribution of interoceptive sensations, interoceptive self-report, interoceptive insight and objective physiological state). The first goal of this study was to examine the relationship between cardiac and gastric interoception measured via multiple dimensions (behavioral, self-reported, and physiological). The second goal was to investigate whether multidimensional gastric interoception was a more important predictor of emotional, external and restrained eating than multidimensional cardiac interoception. Our sample (n\u2009=\u2009128) was predominantly female (n\u2009=\u2009116), included healthy individuals (n\u2009=\u200987) and individuals with an eating disorder or sub-clinical eating disorder (n\u2009=\u200941). Instruments included a heartbeat counting task, the two-step Water Load Test, electrocardiogram, electrogastrogram and the Dutch-Eating Behaviour Questionnaire. We used correlation analysis, multiple regressions, and LASSO regressions. The final sample included in the multiple regression and LASSO regressions resulted in N\u2009=\u200989. Results showed cardiac and gastric interoception to be distinguishable, yet not to be entirely independent processes. Results further suggest gastric and not cardiac interoception to be the most important predictor of emotional, external and restrained eating. Specifically gastric attribution of interoceptive sensations played the most important role in all disordered eating behaviors. Our findings highlight the importance of the gastric system in the assessment and targeted treatment of disordered eating behaviors. Future research should consider adding additional interoceptive dimensions. This study examined how awareness of stomach (gastric) and heart (cardiac) signals relates to disordered eating behaviors, such as eating due to emotions, external cues, or restricting food intake. These behaviors increase the risk of eating disorders and are often elevated in those affected. Interoception, which can influence behaviors and emotions, includes multiple aspects, such as sensing and interpreting internal body signals but also the body signal itself. This study aimed to determine whether gastric interoception is more important than cardiac interoception in predicting these eating behaviors. The study involved 128 participants, mostly women, including healthy individuals and those with eating disorders. Interoception was assessed using tasks like counting heartbeats, drinking water to feel full, and questionnaires about bodily signal perception and eating behaviors. Results showed gastric and cardiac interoception are distinct but share some links. Awareness of stomach signals was a stronger predictor of disordered eating than awareness of heart signals. Feeling negative after drinking water until full was most strongly associated with disordered eating These findings emphasize the importance of stomach signal awareness in understanding and treating eating disorders. Future research should explore other aspects of interoception to improve treatments for these conditions.",
-      "journal": "Journal of Eating Disorders",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Regulation of addiction by the insular cortex: The interplay between interoception and cognitive function",
-      "url": "https://www.semanticscholar.org/paper/9a974a3133a86f1ebe2c26796682de2b300efe47",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-08-01T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394956",
-      "doi": "10.1016/j.isci.2025.113340",
-      "authors": [
-        {
-          "name": "Dan Tao",
-          "author_id": "2321700567",
-          "affiliation": null
-        },
-        {
-          "name": "Shihao Huang",
-          "author_id": "2310510879",
-          "affiliation": null
-        },
-        {
-          "name": "Zhihao Song",
-          "author_id": "2357716377",
-          "affiliation": null
-        },
-        {
-          "name": "Jing Wen",
-          "author_id": "2357459373",
-          "affiliation": null
-        },
-        {
-          "name": "Ewa Galaj",
-          "author_id": "2376962517",
-          "affiliation": null
-        },
-        {
-          "name": "Yixiao Luo",
-          "author_id": "2296063272",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Summary The insular cortex (IC) functions as a pivotal core for interoception. Functional magnetic resonance imaging reveals how the IC integrates internal and external stimuli by observing its neural activation patterns. It facilitates interactions among sensory, emotional, and cognitive inputs via specific neural circuits. The finding that IC injury can reduce nicotine intake and the pioneering research on the involvement of the IC in addiction. Subsequently, human studies discovered that the IC amplifies drug-derived pleasure, strengthening the link between cravings and drug use, thus increasing compulsive drug-seeking behavior. During withdrawal, the IC processes negative emotions, prompting animals to increase drug intake to alleviate distress and other withdrawal symptoms, thus promoting continued drug abuse and relapse via negative reinforcement. Moreover, it participates in the consolidation/reconsolidation of drug memories, which may be linked to synaptic plasticity. The dysfunction of the IC leads to cognitive deficits, which influence decision-making and motivation and indirectly regulate drug-driven behaviors. Despite growing interest in the role of the IC in addiction, the precise mechanisms are still not fully understood. This article reviews the IC\u2019s role in addiction, highlighting its direct impact on behaviors like craving and drug-seeking via interoception and its influence on addiction memory. It also examines the IC\u2019s indirect effects on decision-making and motivation through cognitive functions in risk assessment and maintaining motivation. To advance addiction neurobiology research, future studies must explore the interaction between environmental factors and neural mechanisms in driving addiction. Including observable behaviors in research will facilitate the translation of findings into effective substance use disorder treatments.",
-      "journal": "iScience",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Biofeedback and Training of Interoceptive Insight and Metacognitive Efficacy Beliefs to Improve Adaptive Interoception: A Subclinical Randomised Controlled Trial",
-      "url": "https://www.semanticscholar.org/paper/f9667ae1f91ce150617102c59d524c2886376e41",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-05T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394986",
-      "doi": "10.1159/000546298",
-      "authors": [
-        {
-          "name": "Michal Tanzer",
-          "author_id": "2365553659",
-          "affiliation": null
-        },
-        {
-          "name": "Marina Bobou",
-          "author_id": "2365553475",
-          "affiliation": null
-        },
-        {
-          "name": "Athanasios Koukoutsakis",
-          "author_id": "2289858134",
-          "affiliation": null
-        },
-        {
-          "name": "A. Saramandi",
-          "author_id": "1582152977",
-          "affiliation": null
-        },
-        {
-          "name": "Paul M Jenkinson",
-          "author_id": "2365550235",
-          "affiliation": null
-        },
-        {
-          "name": "Sam Norton",
-          "author_id": "2344238702",
-          "affiliation": null
-        },
-        {
-          "name": "Caroline Selai",
-          "author_id": "2261585020",
-          "affiliation": null
-        },
-        {
-          "name": "Katerina Fotopoulou",
-          "author_id": "2365553611",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Abstract Introduction: Interoception, the sensing, awareness, and regulation of physiological states, is crucial for wellbeing and mental health. Behavioural interventions targeting interoception exist, but randomised controlled trials (RCTs) testing efficacy remain limited. The present, preregistered (ISRCTN16762367) RCT tested the novel Interoceptive iNsight and Metacognitive Efficacy beliefs (InMe) intervention. InMe uses slow breathing and cardiac biofeedback during stress to train interoceptive self-efficacy beliefs and improve self-reported interoception. Methods: Healthy participants aged 18\u201330 years with low self-reported interoception were randomly assigned (1:1) to the InMe intervention (n = 50) or an active control (guided imagery; n = 52). Participants blinded to allocation were stratified by gender and disordered eating. Assessments included baseline (T0), post-intervention (T1), and 7\u20138 weeks post-intervention (T2). The primary outcome was the \u201cadaptive interoception\u201d factor of the Multidimensional Assessment of Interoceptive Awareness questionnaire. Results: Both arms improved in the primary outcome at T1 (InMe: adjusted M difference = 5.76; 95% CI [\u22120.03; 11.56], p = 0.05; control: adjusted M difference = 7.90; 95% CI [1.92; 13.87], p = 0.002; marginal R2 = 0.09). However, only InMe sustained this improvement at T2 (InMe: adjusted M difference = 9.25, 95% CI [3.37; 15.13], p < 0.001; control: adjusted M difference = 2.94, 95% CI [\u22123.07; 8.96], p = 0.72), as indicated by a significant time*arm interaction (b = 6.31; SE = 2.92, 95% CI [0.56; 12.05], p < 0.03; marginal R2 = 0.12). Secondary outcomes showed a reduction in disordered eating scores across both arms at both time points (T1: b = \u22121.44, SE = 0.37, 95% CI [\u22122.17; \u22120.71], p < 0.001; T2: b = \u22121.05, SE = 0.37, 95% CI [\u22121.79; \u22120.32], p = 0.005). Conclusion: The InMe intervention selectively improved self-reported interoception at follow-up but did not outperform the control for secondary outcomes. Future research should explore its efficacy in clinical populations alongside complementary therapies.",
-      "journal": "Psychotherapy and Psychosomatics",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Exploring Individual Differences in Interoception Among Athletes Based on a Three\u2010Dimensional Construct of Interoception",
-      "url": "https://www.semanticscholar.org/paper/047665a8013a85ab87920b134dcf09490f78cf6b",
+      "title": "Longitudinal Analysis of Obesity Drug Use and Public Awareness",
+      "url": "https://www.semanticscholar.org/paper/ed0d714e5ac60b9cbd61bc2bb8140f0141c376e4",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.394999",
-      "doi": "10.1111/psyp.14766",
+      "date_fetched": "2026-08-18T12:21:01.382536",
+      "doi": "10.1001/jamanetworkopen.2024.57232",
       "authors": [
         {
-          "name": "Renjie Zeng",
-          "author_id": "2342316116",
+          "name": "P. Berning",
+          "author_id": "2269215175",
           "affiliation": null
         },
         {
-          "name": "Haoran Shen",
-          "author_id": "2150781031",
+          "name": "Rishav Adhikari",
+          "author_id": "2113941366",
           "affiliation": null
         },
         {
-          "name": "Yaping He",
-          "author_id": "2342644484",
+          "name": "A. Schroer",
+          "author_id": "2260987718",
           "affiliation": null
         },
         {
-          "name": "Likun Ge",
-          "author_id": "2293369385",
+          "name": "Y. Jelwan",
+          "author_id": "2342666567",
           "affiliation": null
         },
         {
-          "name": "Daliang Zhao",
-          "author_id": "2110819357",
+          "name": "Alexander C. Razavi",
+          "author_id": "2265869808",
           "affiliation": null
         },
         {
-          "name": "Shijie Zhu",
-          "author_id": "2268238675",
+          "name": "M. Blaha",
+          "author_id": "2263386057",
           "affiliation": null
         },
         {
-          "name": "L. Cai",
-          "author_id": "2367604504",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Wang",
-          "author_id": "2342465445",
-          "affiliation": null
-        },
-        {
-          "name": "Wolf E. Mehling",
-          "author_id": "2254872524",
-          "affiliation": null
-        },
-        {
-          "name": "Gaoxia Wei",
-          "author_id": "2291475112",
+          "name": "O. Dzaye",
+          "author_id": "78207473",
           "affiliation": null
         }
       ],
-      "abstract": "Previous studies demonstrated that sensorimotor training enhances interoceptive abilities. Athletes are highly engaged in performance\u2010driven physical training and often incorporate\u2014to varying degrees\u2014sensorimotor training into their routines. In this study, we investigated the role of individual differences in interoception by comparing professional athletes of different performance levels and both sexes with recreational athletes and controls, applying a three\u2010dimensional model of interoception. Twenty\u2010six elite athletes, 52 recreational athletes, and 50 college students were recruited from national sports teams, local sports training centers, and local universities. We used the Multidimensional Assessment of Interoperative Awareness (MAIA), the Heartbeat Detecting Task (HDT), and a numeric rating scale based on HDT to measure interoceptive sensibility, accuracy, and awareness. At average, athletes showed significantly higher interoceptive sensibility, interoceptive accuracy, and interoceptive awareness than controls. Elite athletes reported significantly higher scores in all measures of interception compared to recreational athletes. Intriguingly, Non\u2010Distracting for interoceptive sensibility was positively correlated with the level of experience in elite athletes. Male athletes had better interoceptive sensibility and interoceptive awareness compared to female athletes in the elite group, while no significant sex differences were detected in the other two groups. These results indicated that level of sport experience and sex are associated with differences in interoceptive accuracy, interoceptive sensibility, and interoceptive awareness. It also suggests that interoceptive ability is possibly an experience\u2010dependent trait for athletic performance, which provides insight for improving sports performance through an approach of enhancing interoceptive ability.",
-      "journal": "Psychophysiology",
+      "abstract": "Key Points Question What are the trends in obesity management drug (OMD) dispensed prescriptions and their correlation with public online search interest? Findings This cross-sectional study using a repeated approach and including 69\u2009213\u2009936 OMD dispensed prescriptions revealed an increase from 0.76 million in July 2017 to 1.51 million in February 2024, with an upward trend in monthly phentermine and glucagon-like peptide 1 receptor agonist prescriptions. There was a robust positive correlation between public online search activity for semaglutide (Wegovy; r\u2009=\u20090.97) and tirzepatide (Zepbound; r\u2009=\u20090.90) and their prescription trends. Meaning These findings suggest that surveillance of dispensed prescriptions of OMD through US online search behavior may be a powerful tool to gauge interest and forecast future use.",
+      "journal": "JAMA Network Open",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "The Relationship Between Interoception and Experiences of Stress, Trauma, and Mental Illness: A Scoping Review",
-      "url": "https://www.semanticscholar.org/paper/186d57b3325cbcc5470cd4dce074c5d7fa5745fb",
+      "title": "DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness",
+      "url": "https://www.semanticscholar.org/paper/67b81a7a869a209bfaf3ce6e1ab12f9776cc04ed",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-27T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.395009",
-      "doi": "10.59158/001c.146359",
+      "date_published": "2025-03-11T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382566",
+      "doi": "10.1109/CVPR52734.2025.02103",
       "authors": [
         {
-          "name": "Dominiek Coates",
-          "author_id": "37980910",
+          "name": "Yiming Zhong",
+          "author_id": "2349746662",
           "affiliation": null
         },
         {
-          "name": "Suzanne Lewis",
-          "author_id": "2354033839",
+          "name": "Qian Jiang",
+          "author_id": "2361704308",
           "affiliation": null
         },
         {
-          "name": "Genevieve Burge-Ferrow",
-          "author_id": "2395205435",
+          "name": "Jingyi Yu",
+          "author_id": "2238055478",
+          "affiliation": null
+        },
+        {
+          "name": "Yuexin Ma",
+          "author_id": "2267159328",
           "affiliation": null
         }
       ],
-      "abstract": "Introduction\n Interoception\u2014the process of sensing, interpreting, and integrating internal bodily signals\u2014plays a critical role in emotional regulation, behaviour, and wellbeing. In counselling and psychotherapy contexts, impaired interoception is increasingly recognised as associated with how clients experience and respond to stress, trauma, and mental illness. This scoping review aimed to explore the relationship between interoception and these psychological conditions and to determine whether they are associated with heightened (hyper) or reduced (hypo) interoceptive sensitivity.\n Method\n A scoping review methodology was used, involving a comprehensive search of four major databases\u2014MEDLINE (Ovid), PsycINFO (Ovid), Embase (Ovid), and CINAHL (EBSCO)\u2014for peer-reviewed articles published between 2014 and October 2024. The screening process included title and abstract screening followed by full text review. Data were synthesised narratively.\n Results\n \n A total of 48 studies were included, covering trauma (\n n\n = 17), mental health conditions (\n n\n = 14), eating disorders (\n n\n = 10), and stress-related physical health issues (\n n\n = 7). Most studies reported impaired interoception across these conditions. Reduced awareness and interpretation of bodily signals (hypo-sensitivity) were more commonly reported than heightened sensitivity, although variability existed across conditions.\n \n Conclusion\n Findings support the relevance of interoception and its relationship to wellbeing in counselling and psychotherapy. In particular, findings suggest that trauma, especially interpersonal trauma, may be associated with clients\u2019 tendencies to avoid bodily awareness, potentially as a protective strategy, and this may co-occur with increased external vigilance. These insights underscore the value of trauma-informed and body-oriented therapeutic approaches. Supporting clients in safely reconnecting with their bodily experiences may enhance emotional regulation and facilitate psychological healing in counselling and psychotherapy settings.",
-      "journal": "Psychotherapy and Counselling Journal of Australia",
+      "abstract": "A dexterous hand capable of grasping any object is essential for the development of general-purpose embodied intelligent robots. However, due to the high degree of freedom in dexterous hands and the vast diversity of objects, generating high-quality, usable grasping poses in a robust manner is a significant challenge. In this paper, we introduce DexGrasp Anything, a method that effectively integrates physical constraints into both the training and sampling phases of a diffusion-based generative model, achieving state-of-the-art performance across nearly all open datasets. Additionally, we present a new dexterous grasping dataset containing over 3.4 million diverse grasping poses for more than 15k different objects, demonstrating its potential to advance universal dexterous grasping. Code and dataset are available at https://github.com/4DVLab/DexGrasp-Anything",
+      "journal": "Computer Vision and Pattern Recognition",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Interoception and emotional regulation in autistic children through an occupational therapy perspective: A literature review",
-      "url": "https://www.semanticscholar.org/paper/eef3cd67920a732006a8af58e7cc2a41f4a28055",
+      "title": "Exploring the role of self-regulated learnings skills, cognitive flexibility, and metacognitive awareness on generative artificial intelligence attitude",
+      "url": "https://www.semanticscholar.org/paper/e46964b203bbc0327d990b3cddbfcfa1883249ed",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-23T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.395019",
-      "doi": "10.14295/bjs.v4i2.699",
+      "date_published": "2025-03-25T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382583",
+      "doi": "10.1080/14703297.2025.2484613",
       "authors": [
         {
-          "name": "Panagiotis Barmpagiannis",
-          "author_id": "2343911865",
+          "name": "Fatma Gizem Karao\u011flan Y\u0131lmaz",
+          "author_id": "2127276507",
           "affiliation": null
         },
         {
-          "name": "Eleni N. Baldimtsi",
-          "author_id": "2276351930",
+          "name": "Ramazan Y\u0131lmaz",
+          "author_id": "67168744",
           "affiliation": null
         }
       ],
-      "abstract": "Understanding the interplay between interoception and emotional regulation is critical for advancing occupational therapy practices for autistic children and adolescents. These individuals often experience interoceptive processing difficulties, hindering emotional management, daily functioning, and societal participation. This review examines the relationship between interoception and emotional regulation and addresses relevant interventions to support these skills. To explore the relationship between interoception and emotional regulation and identify effective interventions that can inform occupational therapy practices for autistic individuals. A comprehensive search was conducted across three central electronic databases\u2014 PubMed, PsycINFO, and Google Scholar to identify studies that examined the relationship between interoception and emotional regulation in individuals with autism. Studies were conducted from 2013 to 2024. The search combined database-specific controlled language with keywords related to interoception, emotional regulation, occupational therapy, and autism spectrum disorder. A total of 49 studies meeting inclusion criteria were included. The review highlights the intricate connections between interoception and emotional regulation in autistic children, emphasizing challenges such as alexithymia and reduced interoceptive awareness. Interventions include cognitive behavioral therapy, mindfulness-based approaches, and specialized programs like the Aligning Dimensions of Interoceptive Experience and the Interoception Curriculum. These strategies can potentially enhance emotional well-being, self-regulation, and occupational engagement. Interoception and emotional regulation are foundational elements in the clinical reasoning of occupational therapists. Tailored, neurodiversity-affirmative interventions can promote emotional resilience and improve participation in daily activities for autistic individuals. Further research is necessary to develop inclusive and ethically aligned interventions that meet the needs of both clinicians and autistic people. This study underscores the significance of integrating interoceptive-based interventions into therapeutic practices to address emotional regulation challenges in autistic children, fostering their holistic development and societal inclusion.",
-      "journal": "Brazilian Journal of Science",
+      "abstract": "ABSTRACT The use of generative artificial intelligence (GenAI) tools for educational purposes is rapidly becoming widespread. Having a negative attitude may lead to the failure of the integration of these tools. Therefore, it is important to explore the factors that affect students\u2019 attitudes towards GenAI tools. In this context, our current study aims to explore the relationship between self-regulated learning skills (SRLS), cognitive flexibility, metacognitive awareness and students\u2019 GenAI attitude. In this direction, a correlational study was conducted on 761 university students with GenAI experience, and structural equation modelling (SEM) analysis was performed. Our findings as a result of the analysis show that SRLS and cognitive flexibility have a significant positive effect on GenAI attitudes. In addition, metacognitive awareness is understood to indirectly affect GenAI attitudes by affecting SRLS and cognitive flexibility. These results reveal the importance of SRLS, cognitive flexibility and metacognitive awareness in promoting positive attitudes towards GenAI tools.",
+      "journal": "Innovations in Education & Teaching International",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Interoception as a key node in the multidimensional psychological structural model of depression: a structural equation model analysis of integrating environmental, cognitive and behavioral-emotional factors",
-      "url": "https://www.semanticscholar.org/paper/d9bae2140edff49db7c1216ab76780b256170c3e",
+      "title": "Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network",
+      "url": "https://www.semanticscholar.org/paper/2718ea2fdbf60511a6bdcd00307755dda6417595",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-06T00:00:00",
-      "date_fetched": "2026-08-17T12:19:40.395031",
-      "doi": "10.1186/s12888-025-06648-z",
+      "date_published": "2025-06-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382602",
+      "doi": "10.1109/JSAC.2025.3560042",
       "authors": [
         {
-          "name": "Jikang Liu",
-          "author_id": "2326344498",
+          "name": "Xinye Cao",
+          "author_id": "2355281522",
           "affiliation": null
         },
         {
-          "name": "Jiaxu Li",
-          "author_id": "2340354693",
+          "name": "Gu Nan",
+          "author_id": "2131053516",
           "affiliation": null
         },
         {
-          "name": "Tiantian Wang",
-          "author_id": "2383852300",
+          "name": "Hongcan Guo",
+          "author_id": "2355274982",
           "affiliation": null
         },
         {
-          "name": "Yuqing Wu",
-          "author_id": "2316425515",
+          "name": "Hanqing Mu",
+          "author_id": "2237795168",
           "affiliation": null
         },
         {
-          "name": "Xiaohong Liu",
-          "author_id": "2291455151",
+          "name": "Longxiang Wang",
+          "author_id": "2328622522",
           "affiliation": null
         },
         {
-          "name": "Xuezheng Gao",
-          "author_id": "2234003826",
+          "name": "Yihan Lin",
+          "author_id": "2355402491",
           "affiliation": null
         },
         {
-          "name": "Zhenhe Zhou",
-          "author_id": "2256582064",
+          "name": "Qinchuan Zhou",
+          "author_id": "2355345203",
           "affiliation": null
         },
         {
-          "name": "Hongliang Zhou",
-          "author_id": "2238540328",
+          "name": "Jiayi Li",
+          "author_id": "2360344078",
+          "affiliation": null
+        },
+        {
+          "name": "Baohua Qin",
+          "author_id": "2067528690",
+          "affiliation": null
+        },
+        {
+          "name": "Qimei Cui",
+          "author_id": "2320070064",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaofeng Tao",
+          "author_id": "2238033161",
+          "affiliation": null
+        },
+        {
+          "name": "He Fang",
+          "author_id": "2302413163",
+          "affiliation": null
+        },
+        {
+          "name": "Haitao Du",
+          "author_id": "2356486947",
+          "affiliation": null
+        },
+        {
+          "name": "Tony Q. S. Quek",
+          "author_id": "1718541",
           "affiliation": null
         }
       ],
-      "abstract": "The psychological structural model of major depressive disorder (MDD) is complex and multifaceted, consisting of the environment factors (EF), cognitive function (CF), and behavioral-emotional manifestations (BEM). Currently, the diagnosis and treatment of MDD is difficult to improve the disease state as a whole through an intervention point. Constructing the psychological structural model of MDD and finding the critical node of the psychological structural model are meaningful for the diagnosis and treatment of MDD. 308 MDD patients (MDDs) participated in this research. They completed assessments of 34 psychological factors, including EF, CF, BEM and interoception function (IF). Pearson correlation was used to investigate the relationship between IF and each factor in the depressive multidimensional psychological structural model (EF, CF and BEM) which was constructed by structural equation modeling (SEM). Critical nodes were identified by the goodness of fit of the model. The depressive multidimensional psychological structural model (EF, CF and BEM) was created through SEM. IF was added to the depressive multidimensional psychological structural model to further verify the pathways and effects of interoception in the network. IF was significantly correlated with all psychological factors. In the depressive multidimensional psychological structural model, EF (\u03b2direct\u2009=\u20090.163, p\u2009=\u20090.033) and BEM (\u03b2direct\u2009=\u20090.230, p\u2009=\u20090.003) can directly influence MDD. When adding IF to the model, interoception predicted all the factors in the model. The poorer EF led to the lower IF (\u03b2direct\u2009=\u2009\u2212\u20090.346, p\u2009<\u20090.001). Interoception dysfunction increased the risk of the CF (\u03b2direct = -0.525, p\u2009=\u20090.002) and BEM (\u03b2direct\u2009=\u2009\u2212\u20090.250, p\u2009=\u20090.031) of the patients. EF had the largest total effect on MDD (\u03b2direct\u2009=\u20090.365, \u03b2indirect\u2009=\u20090.150, \u03b2total\u2009=\u20090.515), IF (\u03b2direct\u2009=\u2009\u2212\u20090.309, \u03b2indirect\u2009=\u2009\u2212\u20090.126, \u03b2total\u2009=\u2009\u2212\u20090.434) are second only to EF. IF is a part of the psychological structural model of MDD that predicts EF, CF, and BEM. It could be a potential intervention point to improve the depressive state as a whole.",
-      "journal": "BMC Psychiatry",
+      "abstract": "Space-air-ground integrated network (SAGIN), which integrates satellite systems, aerial networks, and terrestrial communications, offers ubiquitous coverage for a multitude of applications. Nevertheless, the highly dynamic and open nature of SAGIN increases the network\u2019s vulnerability. Hence, zero-trust security, operating on the principle of \u201cnever trust, always verify\u201d, holds the significant potential of securing SAGIN. However, implementing zero-trust SAGIN in practice presents three primary challenges: 1) understanding massive unstructured threat information across diverse domains, 2) performing adaptive security assessments, and 3) making in-depth security decisions. This motivates us to propose SAG-Attack and LLM-SA to enhance zero-trust SAGIN. SAG-Attack serves as a simulator that aims to mimic various attacks in SAGIN. Our LLM-SA is a novel situation awareness method that explores the multiple agents of large language model (LLM). Specifically, the output logs of SAG-Attack will be fed into LLM-SA, and LLM-SA fuses vast amounts of heterogeneous threat information from various domains, thus tackling the first challenge. Then, our LLM-SA relies on multiple LLM-based agents to perform adaptive security assessments, utilizing the chain-of-thought capabilities of LLMs to automatically generate in-depth defense strategies, thereby addressing the second and third challenges. Experiments on five benchmarks demonstrate the superiority of the proposed SAG-Attack and LLM-SA. Notably, our method based on open-sourced Llama3-8B even outperforms ChatGPT-4 under the same setting, despite involving significantly fewer parameters. To foster further research in this area, we will release our platform to the community, facilitating the advancement of zero-trust SAGIN.",
+      "journal": "IEEE Journal on Selected Areas in Communications",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "MENTOR for Everybody: A Cross-Demographic Evaluation of a Telewellness Program for Adults with Mobility Limitations.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42604720/",
+      "title": "Understanding GAI risk awareness among higher vocational education students: An AI literacy perspective",
+      "url": "https://www.semanticscholar.org/paper/63211bb990ec8d921d0b38645f9899df839326a2",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-16T00:00:00",
-      "date_fetched": "2026-08-17T12:20:03.098061",
-      "doi": "10.1016/j.apmr.2026.08.008",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-27T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382625",
+      "doi": "10.1007/s10639-024-13312-8",
       "authors": [
         {
-          "name": "Meghan L Mills",
-          "author_id": null,
+          "name": "Huafeng Wu",
+          "author_id": "35250883",
           "affiliation": null
         },
         {
-          "name": "Salma M Aly",
-          "author_id": null,
+          "name": "Dantong Li",
+          "author_id": "2350495077",
           "affiliation": null
         },
         {
-          "name": "James H Rimmer",
-          "author_id": null,
+          "name": "Xiaolan Mo",
+          "author_id": "2342781597",
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: To examine demographic differences in health outcomes among adults with mobility limitations who participated in the telewellness health promotion program Mindfulness, Exercise, and Nutrition to Optimize Resilience (MENTOR), and to assess the influence of social support on program outcomes. DESIGN: Retrospective secondary analysis of longitudinal survey data from participants completing pre- and post-assessments of the MENTOR program. SETTING: MENTOR is delivered remotely via a telewellness platform. PARTICIPANTS: Adults with mobility limitations (N\u202f=\u202f599) who completed both assessments. INTERVENTIONS: MENTOR, an 8-week, 40-hour telewellness intervention incorporating mindfulness, exercise, and nutrition education, offered free to U.S. residents with mobility limitations. MAIN OUTCOME MEASURES: Change in overall wellness scores across physical, mental, and emotional domains. Differences were examined by age, sex, race, residence, education, income, disability onset, assistive device use, and functional limitation. Social support was assessed via employment, marital status, household composition, and perceived emotional support. RESULTS: MENTOR produced statistically significant improvements in wellness across participants, even after adjusting for demographic and social support variables. Individual characteristics modestly explained variation in improvement magnitude. Age and unmarried status slightly reduced gains. Higher baseline emotional support was linked to smaller improvements, suggesting greater benefit among participants with lower initial levels of perceived support. CONCLUSION: MENTOR improves wellness for adults with mobility limitations regardless of demographic or social support factors. Smaller gains among participants with higher baseline emotional support highlight the program's potential to particularly benefit individuals with mobility limitations who have lower initial levels of support.",
-      "journal": "Archives of physical medicine and rehabilitation",
+      "abstract": null,
+      "journal": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "Exploring the Prevalence of Renewable Energy Practices and Awareness Levels in Palestine",
+      "url": "https://www.semanticscholar.org/paper/0bbe3f49b4f5eb0be9a1159d2e44fd3a9c959e43",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-22T00:00:00",
+      "date_fetched": "2026-08-18T12:21:01.382638",
+      "doi": "10.1002/ese3.2070",
+      "authors": [
+        {
+          "name": "Mai Abuhelwa",
+          "author_id": "1659234984",
+          "affiliation": null
+        },
+        {
+          "name": "Mohamed Elnaggar",
+          "author_id": "2231063616",
+          "affiliation": null
+        },
+        {
+          "name": "Wael A. Salah",
+          "author_id": "2076670549",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Nassar",
+          "author_id": "31285573",
+          "affiliation": null
+        },
+        {
+          "name": "M. J. Bashir",
+          "author_id": "2253792772",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The growing demand for energy in developing societies, coupled with dwindling conventional resources, necessitates the adoption of renewable energy (RE) sources. A comprehensive understanding of these sources and their optimal utilization is crucial. The awareness of the users plays a very important role in the effective utilization of different energy sources. Hence, this study examines the level of RE awareness in Palestine, identifying factors influencing public perception and exploring potential strategies for promoting RE adoption. This awareness depends on different factors related to the users' education level, community type, and type of building. Different factors that affect the willingness and attitude to gain knowledge about RE are presented. In addition, various practices highlighting the increasing level of awareness regarding the adoption of RE sources are investigated. In addition, the status of RE education and its potential impact on engineers have also been discussed. Various individual and institutional efforts are highlighted in the study as strategies to bridge the gap and overcome obstacles to adopting RE sources. Suggestions for better use of these resources have been highlighted. Thereafter, recommendations for effective RE implementation in Palestine are analyzed and conclusions are drawn. The main challenges in integrating RE into Palestine's existing energy grid and system include infrastructure limitations, resources and financial constraints, and political issues. Still, there are possibilities in the form of international collaboration and investment. A flexible and modular RE grid could also address some of these challenges by integrating small\u2010scale systems that can be scaled up as needed.",
+      "journal": "Energy Science &amp; Engineering",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nondual awareness"
+      ]
+    },
+    {
+      "title": "A Comparative Analysis of the Accounting Faculty Shortage: Its Causes and Effects Between Laguna University and City College of Calamba",
+      "url": "https://www.semanticscholar.org/paper/d28bd5a743ed360489c1e13f985230e07267b241",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-04-01T00:00:00",
+      "date_fetched": "2026-08-18T12:21:12.875570",
+      "doi": "10.47119/ijrp1001951420268887",
+      "authors": [
+        {
+          "name": "Alyssa Marie B. Bueno",
+          "author_id": "2432942506",
+          "affiliation": null
+        },
+        {
+          "name": "Hannah Leezel A. Gavia",
+          "author_id": "2432942535",
+          "affiliation": null
+        },
+        {
+          "name": "Jhana Mae M. Montilla",
+          "author_id": "2432942197",
+          "affiliation": null
+        },
+        {
+          "name": "Ann Jhunyelle L. Salangsang",
+          "author_id": "2432947326",
+          "affiliation": null
+        },
+        {
+          "name": "Dennisse M. Umali",
+          "author_id": "2432942413",
+          "affiliation": null
+        },
+        {
+          "name": "Tony Angelo C. Alvaran",
+          "author_id": "2432947315",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The study examined the extent, causes, and effects of accounting faculty shortage in higher education institutions, specifically comparing Laguna University and City College of Calamba. As higher education institutions continue to expand accounting programs, the availability of qualified accounting faculty becomes increasingly critical in ensuring instructional quality, program effectiveness, and compliance with accreditation standards. Accounting faculty shortage presents challenges to curriculum implementation, faculty workload distribution, and overall academic performance, particularly in institutions with limited recruitment and retention mechanisms.\n\nBased on data collected from administrators, Human Resource personnel, and accounting faculty members, this research explored (1) the extent of accounting faculty shortage in terms of faculty-to-student ratio, annual faculty vacancies, recruitment duration, and faculty turnover; (2) the causes of accounting faculty shortage in terms of salary and benefits, workload, job security, career advancement, and educational qualifications; and (3) the effects of accounting faculty shortage on institutional accreditation and compliance, curriculum implementation, class scheduling, student learning quality, and financial implications.\n\nFindings revealed that accounting faculty shortage was experienced to a notable extent in both Laguna University and City College of Calamba. Recruitment duration and faculty workload emerged as the most evident indicators of shortage, while faculty turnover was likewise observed to affect program continuity. In terms of causes, respondents identified salary and benefits, workload demands, limited career advancement opportunities, and job security concerns as the primary factors contributing to accounting faculty shortage. Regarding effects, the results showed that faculty shortage influenced curriculum delivery, class scheduling, faculty workload distribution, and institutional compliance with accreditation requirements. Comparative analysis further indicated significant differences between the two institutions in selected indicators of accounting faculty shortage and its causes.\n\nThe results further indicate that the effects of accounting faculty shortage were consistently manifested across both institutions, particularly in academic operations and faculty workload management. This suggests that while institutional contexts differ, the consequences of shortage of accounting faculty similarly impact instructional quality and program sustainability.\n\nFinally, respondents emphasized the importance of improving recruitment efficiency, faculty compensation, workload management, and career development opportunities to address accounting faculty shortage. These findings suggest that addressing faculty shortage requires coordinated institutional and policy-level interventions to strengthen faculty retention, support academic quality, and ensure the long-term sustainability of accounting programs in higher education institutions.",
+      "journal": "International Journal of Research Publications",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Psychological Well-Being Among Women with Polycystic Ovary Syndrome: Insights from Buug, Zamboanga Sibugay, Philippine",
+      "url": "https://www.semanticscholar.org/paper/90dc80da0eb3e75f9e22193c443c67c8d1b02cab",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-18T12:21:12.875578",
+      "doi": "10.26911/thejmch.2026.11.01.04",
+      "authors": [
+        {
+          "name": "Ailyn Calanda",
+          "author_id": "2407572516",
+          "affiliation": null
+        },
+        {
+          "name": "Hadassah Sulamith Labrador",
+          "author_id": "2407572533",
+          "affiliation": null
+        },
+        {
+          "name": "Shawie Lou Paracale",
+          "author_id": "2407575582",
+          "affiliation": null
+        },
+        {
+          "name": "Jhana Marie Tilid",
+          "author_id": "2407576370",
+          "affiliation": null
+        },
+        {
+          "name": "Randy Ian Gallego",
+          "author_id": "2310734762",
+          "affiliation": null
+        },
+        {
+          "name": "Tashmera Laranjo",
+          "author_id": "2372075026",
+          "affiliation": null
+        },
+        {
+          "name": "Hope Lovely Merasol",
+          "author_id": "2407572543",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: Traditionally, Polycystic Ovary Syndrome (PCOS) has been classified primarily as an \nendocrine disorder. Contemporary research, however, has elucidated its multifaceted nature, \nencompassing metabolic, hormonal, and psychosocial dimensions that substantially influence \npatients' quality of life. Women with PCOS are often subjected to significant emotional distress due \nto the syndrome's physical manifestations, fertility issues, and body image challenges, which are \nfrequently accompanied by elevated levels of anxiety, depression, and stress. This study aims to \nhighlight the psychological ramifications of PCOS diagnosis and underscore the imperative of \nintegrating psychological considerations into holistic patient care. \nSubjects and Method: Utilizing a descriptive-correlational research design, this study assessed \nthe perceived psychological impact of PCOS diagnosis among women in Buug, Zamboanga Sibugay. \nA sample of 81 randomly selected respondents completed a validated and reliability-tested \nquestionnaire. The dependent variables comprised the perceived impact of PCOS diagnosis on the \nrespondents\u2019 psychological health. The independent variables of the study were the respondents\u2019 \nperceptions of their PCOS diagnosis in terms of the duration, challenges, and lifestyle changes \nassociated with the condition. Data were analyzed using Spearman\u2019s rho and Pearson correlation \ncoefficients. \nResults: The findings indicate that the duration of PCOS diagnosis, the associated challenges, and \nsubsequent lifestyle modifications significantly affect participants' psychological well-being. \nStatistical analysis indicated significant correlations between psychological health and the duration \nof diagnosis (p < 0.001), diagnostic challenges (p < 0.001), and lifestyle changes (p < 0.001), \nhighlighting their critical impact on psychological outcomes. \nConclusion: The study emphasizes the critical need to incorporate psychological aspects into the \nmanagement of PCOS. Effective intervention that addresses both the physical and psychological \ndimensions of PCOS can substantially enhance patient care and improve overall quality of life for \nwomen affected by this syndrome.",
+      "journal": "Journal of Maternal and Child Health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Three Buddhist Vocabularies: Computational Stylometry of the English Pali Canon across Sutta, Vinaya, and Abhidhamma",
+      "url": "https://www.semanticscholar.org/paper/6f4a9459c1e268e5f3c394c2fa313f6940b2fbb8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-24T00:00:00",
+      "date_fetched": "2026-08-18T12:21:12.875621",
+      "doi": "10.48550/arXiv.2606.25372",
+      "authors": [
+        {
+          "name": "Joy Bose",
+          "author_id": "2072382955",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We present a computational stylometric analysis of the Tipitaka across all three Pitakas in English translation, extending earlier work on the Sutta Pitaka alone. The corpus spans 134,831 segments from Bhikkhu Sujato's Sutta Pitaka (114,591 segments, CC0), Bhikkhu Brahmali's Vinaya Pitaka (7,923 segments, CC0 2026), I.B. Horner's 1938 Vinaya translation (2,826 segments), three English translations of the Abhidhammattha Sangaha compendium (2,077 segments), and cross-tradition Vinaya texts from the Dharmaguptaka and Mulasarvastivada schools. We compute Zipf rank-frequency distributions with OLS-fitted exponents, Moving Average TTR (MATTR-500), numeral-word density, and vocabulary overlap (Jaccard and Szymkiewicz-Simpson coefficients). Main findings: (1) all corpora show Zipf-consistent distributions (R2>0.989); the Vinaya is closest to ideal Zipf slope -1 and the Sangaha corpus deviates most, with'consciousness'displacing grammatical particles at rank 8; (2) MATTR-500 shows the Sutta and Vinaya Theravada are nearly identical in lexical diversity (0.399 and 0.400), while the Sangaha corpus is genuinely more diverse (0.560), confirmed by size-controlled subsampling; (3) the Sangaha corpus has the highest numeral-word density (3.26%), consistent with its systematic enumeration of mental and material categories; (4) the Mulasarvastivada Vinaya shares 20.0% vocabulary (Jaccard) and 49.1% (overlap coefficient) with the Theravada Vinaya, reflecting shared legal heritage across two millennia; (5) two English translations of the same Vinaya source text share only 24.2% of their vocabulary across 88 years, with'musing'versus'absorption'for jhana and'defeat'versus'expulsion'for parajika as the most diagnostic shifts. All results are point estimates; no significance testing is conducted. Code and data are released as open-source extensions to the Darshana Graph corpus (arXiv:2606.18222).",
+      "journal": "arXiv.org",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
     }
   ],
   "articles": []
