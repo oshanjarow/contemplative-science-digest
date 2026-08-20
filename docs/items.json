@@ -1,63 +1,48 @@
 {
-  "generated_at": "2026-08-19T12:21:57.524812",
+  "generated_at": "2026-08-20T12:23:33.624211",
   "papers": [
     {
-      "title": "Synthesising evidence from decades of meditation-based research across populations, interventions, comparisons and outcomes: protocol for a meta-analytic database of randomised controlled trials via the MetaCIH Collaborative.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613121/",
+      "title": "Cancer-related cognitive impairment in adult cancer survivors: a clinical practice review for healthcare providers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42616177/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-18T00:00:00",
-      "date_fetched": "2026-08-19T12:21:46.178033",
-      "doi": "10.1136/bmjopen-2025-113883",
+      "date_published": "2026-08-19T00:00:00",
+      "date_fetched": "2026-08-20T12:23:32.727085",
+      "doi": "10.1007/s00520-026-11092-0",
       "authors": [
         {
-          "name": "Shufang Sun",
+          "name": "Jashmira K Bhinder",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Vedhalakshmi Rajasankar",
+          "name": "Malika Peera",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nikole Giovannone",
+          "name": "Samantha K F Kennedy",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Clara Miguel",
+          "name": "Nicolas H Hart",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mathias Harrer",
+          "name": "Darren Haywood",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Annemieke van Straten",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pim Cuijpers",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eric B Loucks",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Simon Goldberg",
+          "name": "Muna Al-Khaifi",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: The evidence base for meditation-based interventions has been growing significantly in the past decades, as well as other complementary and integrative health interventions. In parallel, meditation practices have become increasingly popular in the public and across various sectors (eg, education, workplace, healthcare). There is a need for rigorously conducted evidence synthesis in this growing area of literature. An expert-curated, publicly available data repository of randomised controlled trials with regular updates, coupled with built-in meta-analytic tools, could serve this purpose. METHODS AND ANALYSIS: This protocol describes the creation of a living review dataset stored in a publicly available platform to support systematic reviews and meta-analyses of randomised controlled trials of meditation-based interventions. To be included, studies need to use a randomised controlled trial design, include a meditation-based intervention that is two or more weeks/sessions in duration and report quantitative data that can be used in meta-analysis. There are no restrictions to study population, comparator or outcome. Search will be carried out across PubMed/MEDLINE, PsycINFO/PsycArticles, Cochrane Central Register of Controlled Trials (CENTRAL), Embase, CINAHL, SCOPUS and Web of Science. The database will be updated approximately every 6 months. Meta-analyses will be conducted using the 'metapsyTools' package (V.1.0.11 or higher) in R. Cochrane Risk of Bias tool V.2 will be used to evaluate risk of bias. Publication bias will be evaluated via funnel plots and trim-and-fill analyses, R\u00fccker's 'limit meta-analysis method' and the three-parameter selection model. ETHICS AND DISSEMINATION: Ethics approval is not applicable. The findings from this study will result in a public-facing meta-analytic database, which will be disseminated through open-access repositories, peer-reviewed manuscripts, presentations at relevant national and international conferences, social media and news media platforms and leveraging the study team's existing relationships with stakeholders in the integrative health field and the community advisory board. PROSPERO REGISTRATION NUMBER: CRD42024610197.",
-      "journal": "BMJ open",
+      "abstract": "PURPOSE: Cancer-related cognitive impairment (CRCI) is a decline in cognitive function associated with cancer and its treatments, affecting approximately 60-75% of individuals with cancer. This review provides an evidence-based overview of the causes, assessment, and management of CRCI across the cancer continuum. METHODS: A narrative literature review was conducted using peer-reviewed studies, clinical practice guidelines, systematic reviews, and expert consensus recommendations examining CRCI in adult cancer populations. The review focused on the biological and psychosocial contributors to CRCI, methods of assessment and diagnosis, and current evidence supporting pharmacological and non-pharmacological interventions. RESULTS: CRCI is a multifactorial condition associated with chemotherapy, endocrine therapy, radiotherapy, surgery, psychological distress, and lifestyle factors. Proposed mechanisms include neuroinflammation, oxidative stress, neurotoxicity, hormonal dysregulation, and psychosocial influences such as anxiety, depression, and fatigue. Assessment should incorporate both patient-reported cognitive concerns and objective neuropsychological testing, while also evaluating potentially reversible contributors including sleep disturbances, pain, medication effects, and emotional distress. Current evidence supports non-pharmacological interventions as first-line management, with physical activity and cognitive rehabilitation demonstrating the strongest benefits. Additional strategies including mindfulness-based interventions, psychoeducation, compensatory techniques, and healthy lifestyle modifications may further improve cognitive outcomes. Pharmacological therapies, including psychostimulants and neuroprotective agents, have shown inconsistent results and are not routinely recommended. CONCLUSION: CRCI is a prevalent and clinically significant survivorship issue that requires greater recognition within oncology care. Routine screening, comprehensive assessment, and individualized management strategies can help mitigate cognitive symptoms and improve functional outcomes. Further research is needed to develop standardized screening tools, establish evidence-based treatment pathways, and improve integration of CRCI care into routine oncology practice.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -65,32 +50,135 @@
       "matched_keywords": []
     },
     {
-      "title": "Erosion or protection? Testing directionality between problematic social media use and mindfulness over one year using a latent cross-lagged panel model.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612528/",
+      "title": "Evaluating smartphone-based interventions for anxiety and depressive symptoms: A randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617378/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-16T00:00:00",
-      "date_fetched": "2026-08-19T12:21:56.632816",
-      "doi": "10.1016/j.addbeh.2026.108836",
+      "date_published": "2026-08-14T00:00:00",
+      "date_fetched": "2026-08-20T12:23:32.727402",
+      "doi": "10.1016/j.brat.2026.105144",
       "authors": [
         {
-          "name": "Felix Kruse",
+          "name": "Michael J Zvolensky",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Arvid Nagel",
+          "name": "Lorra Garey",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Robin Nabi",
+          "name": "Matthew W Gallagher",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marshall K Cheney",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anka A Vujanovic",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Darla E Kendzor",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lancer D Stephens",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ashley B Cole",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bingjing Mao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Krista M Kezbers",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Audrey R Montgomery",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Justin M Shepherd",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Duckhyun Jo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brooke Y Redmond",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica M Thai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michael S Businelle",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Problematic social media use (PSMU) and mindfulness are consistently negatively associated, but longitudinal evidence on their directional relationship remains limited. This study examined whether mindfulness prospectively predicts lower later PSMU (protection pathway), whether PSMU predicts lower later mindfulness (erosion pathway), or whether their longitudinal association is bidirectional. METHODS: Participants were 246 early adolescents from German-speaking Switzerland (48.4\u00a0% girls), aged 10 to 13\u00a0years (M\u00a0=\u00a010.93, SD\u00a0=\u00a00.51), assessed approximately one year apart in spring 2024 and spring 2025. After establishing longitudinal measurement invariance, a two-wave latent cross-lagged panel model was estimated to examine temporal stability and prospective associations between the constructs. RESULTS: PSMU and mindfulness were moderately and negatively associated within both waves, and both constructs showed temporal stability. Cross-lagged effects were asymmetric: baseline mindfulness did not predict later PSMU, whereas higher baseline PSMU predicted lower mindfulness at follow-up (\u03b2\u00a0=\u00a0\u00a0-\u00a00.188). Supplementary analyses showed no evidence of sex differences, and sensitivity analyses supported the same directional pattern. CONCLUSIONS: Findings suggest that, in early adolescence, PSMU may be more likely to undermine later mindfulness than mindfulness is to protect against later PSMU. This pattern provides initial support for an erosion pathway during an early phase of social media uptake and highlights mindfulness as a possible outcome of digital behavior.",
-      "journal": "Addictive behaviors",
+      "abstract": "OBJECTIVE: The study evaluated the impact of two smartphone-based interventions on anxiety and depression symptoms during the COVID-19 pandemic. METHOD: Racially and ethnically diverse adults from the United States (US) with elevated anxiety and/or depression (N\u202f=\u202f822; 64.4% female; M RESULTS: There was a high degree of engagement for both groups. For our primary analysis, between-group differences at the 6-month primary endpoint were small and not statistically significant for anxiety and depression. Within-person effect sizes indicated decreases in anxiety, depression, probable clinical anxiety and/or depression disorder status, anxiety sensitivity, and COVID-19 fear through the follow-up. Exploratory subgroup analyses suggested variable patterns of within-condition change across racial and ethnic groups, but these analyses were not powered to test moderation or equivalence. CONCLUSIONS: Findings indicated that two low cost and highly disseminatable digital interventions that targeted distinct psychological processes offered clinical benefit among a diverse sample of adults in the US during the COVID-19 pandemic.",
+      "journal": "Behaviour research and therapy",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mental health distress among undergraduate nursing students in Egypt: associations with self-concealment, alexithymia, and personality traits in a cross-sectional study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613612/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-17T00:00:00",
+      "date_fetched": "2026-08-20T12:23:32.727489",
+      "doi": "10.1186/s12912-026-05175-w",
+      "authors": [
+        {
+          "name": "Mira Naguib Abdelrazek",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Laila Saad Mahmoud",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marwa Fouad Hanafy Mahmoud",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Heba Mohamed Abdelaal",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Psychological distress among nursing students is a major concern in nursing education. Difficulties in emotional processing and stable personality traits may be associated with depression, anxiety, and stress, yet self-concealment, alexithymia, and personality traits have rarely been examined together in undergraduate nursing students, particularly in Egypt. This study aimed to examine how self-concealment, alexithymia, and personality traits are associated with depression, anxiety, and stress among undergraduate nursing students. METHODS: A cross-sectional correlational study was conducted among 353 undergraduate nursing students at the Faculty of Nursing, Alexandria University, Egypt. Participants were recruited using proportionate stratified random sampling across the four academic years. Data were collected using a socio-demographic and academic questionnaire, the Self-Concealment Scale, the Toronto Alexithymia Scale-20, the NEO Five-Factor Inventory, and the Depression Anxiety Stress Scales-21. Data were analyzed using descriptive statistics, Pearson correlation coefficients, independent-samples t-tests, one-way analyses of variance, and multiple linear regression. RESULTS: Psychological distress symptoms were common on self-reported screening measures, and anxiety showed the greatest severity, with 53.8% of participants falling in the extremely severe symptom range. These classifications reflect screening scores rather than clinical diagnoses. Self-concealment and alexithymia were positively associated with depression, anxiety, and stress. The adjusted regression models explained 53.1% of the variance in depression, 48.9% in anxiety, and 47.5% in stress. Self-concealment and alexithymia remained significant correlates across all three adjusted models; self-concealment showed the largest standardized coefficient for anxiety and stress, whereas alexithymia showed the largest standardized coefficient for depression. CONCLUSIONS: Psychological distress symptoms in nursing students were associated with self-concealment, alexithymia, and selected personality traits. The findings support early confidential screening, timely access to counseling through clear referral pathways, and targeted resilience-, mindfulness-, peer-support-, and emotion-focused programs within nursing education. Because the design was cross-sectional, these associations should not be interpreted causally.",
+      "journal": "BMC nursing",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -98,31 +186,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "How Paying Attention to Pain Could Help You Heal Faster",
-      "url": "https://nautil.us/how-paying-attention-to-pain-could-help-you-heal-faster-1283936/",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-08-18T18:00:00",
-      "date_fetched": "2026-08-19T12:21:56.880275",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Kristen French",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Nautilus",
-      "excerpt": "Close attention might be part of your immune system The post How Paying Attention to Pain Could Help You Heal Faster appeared first on Nautilus.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
