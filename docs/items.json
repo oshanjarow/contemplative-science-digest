@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-08-20T12:23:33.624211",
+  "generated_at": "2026-08-21T12:23:21.754000",
   "papers": [
     {
-      "title": "Cancer-related cognitive impairment in adult cancer survivors: a clinical practice review for healthcare providers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42616177/",
+      "title": "Quantum\u2010Like Dynamics in Whole\u2010Brain Models of the Human Connectome",
+      "url": "https://www.semanticscholar.org/paper/6836d381ce7546caebe3efbd0b6b626fbc21bd06",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-19T00:00:00",
-      "date_fetched": "2026-08-20T12:23:32.727085",
-      "doi": "10.1007/s00520-026-11092-0",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-08-18T00:00:00",
+      "date_fetched": "2026-08-21T12:22:23.740809",
+      "doi": "10.1002/advs.77103",
       "authors": [
         {
-          "name": "Jashmira K Bhinder",
-          "author_id": null,
+          "name": "G. Deco",
+          "author_id": "2263750702",
           "affiliation": null
         },
         {
-          "name": "Malika Peera",
-          "author_id": null,
+          "name": "Y. Sanz Perl",
+          "author_id": "1945182919",
           "affiliation": null
         },
         {
-          "name": "Samantha K F Kennedy",
-          "author_id": null,
+          "name": "Natasha Greenstein",
+          "author_id": "2387283834",
           "affiliation": null
         },
         {
-          "name": "Nicolas H Hart",
-          "author_id": null,
+          "name": "S. Chandaria",
+          "author_id": "118775812",
           "affiliation": null
         },
         {
-          "name": "Darren Haywood",
-          "author_id": null,
+          "name": "G. Scholes",
+          "author_id": "2319999465",
           "affiliation": null
         },
         {
-          "name": "Muna Al-Khaifi",
-          "author_id": null,
+          "name": "Morten L. Kringelbach",
+          "author_id": "2237996910",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Cancer-related cognitive impairment (CRCI) is a decline in cognitive function associated with cancer and its treatments, affecting approximately 60-75% of individuals with cancer. This review provides an evidence-based overview of the causes, assessment, and management of CRCI across the cancer continuum. METHODS: A narrative literature review was conducted using peer-reviewed studies, clinical practice guidelines, systematic reviews, and expert consensus recommendations examining CRCI in adult cancer populations. The review focused on the biological and psychosocial contributors to CRCI, methods of assessment and diagnosis, and current evidence supporting pharmacological and non-pharmacological interventions. RESULTS: CRCI is a multifactorial condition associated with chemotherapy, endocrine therapy, radiotherapy, surgery, psychological distress, and lifestyle factors. Proposed mechanisms include neuroinflammation, oxidative stress, neurotoxicity, hormonal dysregulation, and psychosocial influences such as anxiety, depression, and fatigue. Assessment should incorporate both patient-reported cognitive concerns and objective neuropsychological testing, while also evaluating potentially reversible contributors including sleep disturbances, pain, medication effects, and emotional distress. Current evidence supports non-pharmacological interventions as first-line management, with physical activity and cognitive rehabilitation demonstrating the strongest benefits. Additional strategies including mindfulness-based interventions, psychoeducation, compensatory techniques, and healthy lifestyle modifications may further improve cognitive outcomes. Pharmacological therapies, including psychostimulants and neuroprotective agents, have shown inconsistent results and are not routinely recommended. CONCLUSION: CRCI is a prevalent and clinically significant survivorship issue that requires greater recognition within oncology care. Routine screening, comprehensive assessment, and individualized management strategies can help mitigate cognitive symptoms and improve functional outcomes. Further research is needed to develop standardized screening tools, establish evidence-based treatment pathways, and improve integration of CRCI care into routine oncology practice.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "abstract": "ABSTRACT Emerging research provides evidence for quantum\u2010like (QL) probability laws, including interference effects, in non\u2010quantum physical systems using coupled oscillators. In principle, such systems could produce QL states able to support QL computation in biological tissue. In this perspective, we propose a new avenue of research, namely to investigate if this is true in the human brain. Intriguingly, the special topology of human brain anatomy could promote the rich dynamical repertoire in human cognition. As a proof\u2010of\u2010principle, we investigated this by constructing two whole\u2010brain models with and without QL dynamics, where the QL regime is distinguished by a larger whole\u2010brain spectral gap. In accordance with our hypothesis, we found that the QL regime provides a significantly better fit to large\u2010scale human empirical neuroimaging data and exhibits a lower model\u2010derived energy cost than the non\u2010QL model. Furthermore, we constructed a whole\u2010brain model measuring the V\u00e4xj\u00f6 Interference term, a measure of functional quantum\u2010like interference showing a significant correlation with the size of the spectral gap. Overall, these results suggest that quantum\u2010like whole\u2010brain models may provide a useful description of large\u2010scale resting\u2010state brain dynamics, and we set out what would be required to test whether this description also carries explanatory value for brain function.",
+      "journal": "Advancement of science",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -50,97 +50,367 @@
       "matched_keywords": []
     },
     {
-      "title": "Evaluating smartphone-based interventions for anxiety and depressive symptoms: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617378/",
+      "title": "Cloud-based slope risk monitoring and early warning system for open-pit coal mines: a case study of Zhonglian Runshi",
+      "url": "https://www.semanticscholar.org/paper/cbedf2080c960ad60af07e0a692424208910f9d7",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-14T00:00:00",
-      "date_fetched": "2026-08-20T12:23:32.727402",
-      "doi": "10.1016/j.brat.2026.105144",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-01T00:00:00",
+      "date_fetched": "2026-08-21T12:22:46.409150",
+      "doi": "10.1038/s41598-025-28190-4",
       "authors": [
         {
-          "name": "Michael J Zvolensky",
+          "name": "Xiaoyong Dong",
+          "author_id": "2400554124",
+          "affiliation": null
+        },
+        {
+          "name": "Shuang Li",
+          "author_id": "2400700748",
+          "affiliation": null
+        },
+        {
+          "name": "Ran Ma",
+          "author_id": "2400870417",
+          "affiliation": null
+        },
+        {
+          "name": "Weihui Tian",
+          "author_id": "2404280504",
+          "affiliation": null
+        },
+        {
+          "name": "Keke Zhao",
+          "author_id": "2402489346",
+          "affiliation": null
+        },
+        {
+          "name": "Hui Xiang",
+          "author_id": "2400527560",
+          "affiliation": null
+        },
+        {
+          "name": "Jiongjiong Zhu",
+          "author_id": "2400602037",
+          "affiliation": null
+        },
+        {
+          "name": "Yang Qiu",
+          "author_id": "2320065256",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Slope landslides in open-pit coal mines critically threaten mining safety. Traditional early-warning systems face limitations, including data silos, false alarms, and an overemphasis on data collection over analysis. To overcome these challenges, this study develops a novel cloud-based Early Warning System (EWS) that integrates the Internet of Things (IoT) for multi-source data acquisition, Long Short-Term Memory (LSTM) networks for high-precision time-series prediction, and Dempster\u2013Shafer (D-S) evidence theory for uncertainty-based multi-indicator fusion. Unlike conventional EWSs relying on single-threshold rules, the proposed framework performs real-time, data-driven risk reasoning, significantly reducing false alarms and enhancing system robustness under heterogeneous monitoring conditions. Field deployment at the Zhonglian Runshi open-pit mine demonstrated that the proposed LSTM model achieved a prediction accuracy of R2\u2009=\u20090.91 (RMSE\u2009<\u20090.11 mm), while maintaining a tenfold lower computational cost than Transformer-based models. Through multi-source integration of 69 sensors, the system achieved continuous, real-time risk assessment with reliable multi-channel alerts. These results confirm the feasibility of lightweight, cloud-enabled intelligent EWSs for large-scale open-pit mines, providing a scalable paradigm for intelligent geohazard monitoring and early warning.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Effect of Traditional Meditation (Spiritual Techniques) on Metacognitive Abilities and Mindfulness in University Students: A Three-armed Controlled Trial",
+      "url": "https://www.semanticscholar.org/paper/8e33038494748f89b9428838f0588de790280448",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-31T00:00:00",
+      "date_fetched": "2026-08-21T12:22:59.380206",
+      "doi": "10.24193/cbb.2026.30.05",
+      "authors": [
+        {
+          "name": "Narottam Kumar",
+          "author_id": "143844318",
+          "affiliation": null
+        },
+        {
+          "name": "Udham Singh",
+          "author_id": "81063178",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Disturbance in mindfulness state and disability related to self-regulated cognitive abilities (metacognition) generally occur among higher education students. Many types of yoga and meditation techniques have been developed which show improvement in one\u2019s mindfulness, cognition, as well as metacognition. We carried out a three-armed empirical study to capture the effect of two spiritual techniques-vipassana meditation (VM) and pranav meditation (PM) on metacognitive abilities and mindfulness in university youths. A total of 140 students (aged 19-26 years) were screened, out of which 102 students met predetermined eligibility criteria and were randomly assigned into three groups: VM, PM, and control (CT). Metacognition and mindfulness state were assessed at baseline and after five months using Gurukula Kangri Metacognition Awareness Scale (Narottam Kumar and Udham Singh) and Mindfulness Attention Awareness Scale (Kirk Warren Brown and Richad Ryan) respectively. The findings of within-subject effects showed significant improvements in metacognitive abilities and mindfulness from pretest to posttest in both VM and PM group compared to CT group. Between-subject effects showed there were significant differences for post-test score of metacognition and mindfulness across three groups. Post-hoc Bonferroni-corrected test showed significant differences in the post mean score of dependent variables were found to be statistically significant between VM & PM, between VM & CT, and PM & CT. These findings suggest that VM and PM techniques can be beneficial for improving metacognitive abilities and mindfulness in students of higher education institutions.",
+      "journal": "Cognition Brain Behavior An Interdisciplinary Journal",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric\u2013Systematic Review Approach (2005\u20132025)",
+      "url": "https://www.semanticscholar.org/paper/1192e1968a26114ec854e2bb46ecbe4cbda8c238",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-01T00:00:00",
+      "date_fetched": "2026-08-21T12:22:59.380323",
+      "doi": "10.3390/jintelligence13110148",
+      "authors": [
+        {
+          "name": "Maria Tsakeni",
+          "author_id": "101745113",
+          "affiliation": null
+        },
+        {
+          "name": "S. C. Nwafor",
+          "author_id": "151216150",
+          "affiliation": null
+        },
+        {
+          "name": "Moeketsi Mosia",
+          "author_id": "72240891",
+          "affiliation": null
+        },
+        {
+          "name": "F. Egara",
+          "author_id": "103774179",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study comprehensively analyses how AI tools scaffold and share metacognitive processes, thereby facilitating students\u2019 learning in STEM classrooms through a mixed-method research synthesis combining bibliometric analysis and systematic review. Using a convergent parallel mixed-methods design, the study draws on 135 peer-reviewed articles published between 2005 and 2025 to map publication trends, author and journal productivity, keyword patterns, and theoretical frameworks. Data were retrieved from Scopus and Web of Science using structured Boolean searches and analysed using Biblioshiny and VOSviewer. Guided by PRISMA 2020 protocols, 24 studies were selected for in-depth qualitative review. Findings show that while most research remains grounded in human-centred conceptualisations of metacognition, there are emerging indications of posthumanist framings, where AI systems are positioned as co-regulators of learning. Tools like learning analytics, intelligent tutoring systems, and generative AI platforms have shifted the discourse from individual reflection to system-level regulation and distributed cognition. The study is anchored in Flavell\u2019s theory of metacognition, General Systems Theory, and posthumanist perspectives to interpret this evolution. Educational implications highlight the need to reconceptualise pedagogical roles, integrate AI literacy in teacher preparation, and prioritise ethical, reflective AI design. The review provides a structured synthesis of theoretical, empirical, and conceptual trends, offering insights into how human\u2013machine collaboration is reshaping learning by scaffolding and co-regulating students\u2019 metacognitive development in STEM education.",
+      "journal": "Journal of Intelligence",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Habit Predicting Higher Education EFL Students\u2019 Intention and Use of AI: A Nexus of UTAUT-2 Model and Metacognition Theory",
+      "url": "https://www.semanticscholar.org/paper/13885bfbe14c2160ba31dd9501cf3cdafc837262",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-16T00:00:00",
+      "date_fetched": "2026-08-21T12:22:59.380470",
+      "doi": "10.3390/educsci15060756",
+      "authors": [
+        {
+          "name": "Shaista Rashid",
+          "author_id": "2283755543",
+          "affiliation": null
+        }
+      ],
+      "abstract": "With the emergence of AI technology, its adoption in higher education has become an interesting field for researchers. The present study explores the acceptance of AI for learning the English language by Pakistani EFL students using the UTAUT-2 and Metacognition theory. The UTAUT-2 questionnaire was adapted with minor changes to make it suitable for the EFL context. Data were collected from the English departments of the top ten general universities in Pakistan to make the findings generalizable. Another step taken to ensure generalizability was the sampling of 611 students randomly from both undergraduate (BS and ADP) and postgraduate (MPhil and PhD) programs studying in different semesters. PLS-SEM was employed for data analysis. In the first step, the PLS algorithm was run for the measurement model, which confirmed the reliability, validity, and fitness of the model. Second, the bootstrapping method was used for hypothesis testing. The findings reveal that six of the ten hypotheses for direct relationships are supported. Habit (0.489) was found to be the strongest contributor to BI, followed by PE (0.141), SI (0.100), and FC (0.093). Moreover, actual use behaviour was predicted by habit (0.325) instead of BI and FC. These findings are supported by metacognition theory, as the habit of AI seems to shape the metacognitive knowledge of EFL learners in place of traditional learning methods, and other factors seem to reinforce the metacognitive experience of using AI language. The study suggests implications for EFL experts, academia, and policymakers to strategically integrate AI into language learning by informing them of its potential benefits and risks.",
+      "journal": "Education sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "AI-assisted feedback and reflection in vocal music training: effects on metacognition and singing performance",
+      "url": "https://www.semanticscholar.org/paper/0bf1cc491e63476d0dc6877315773c3a629c18a4",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-18T00:00:00",
+      "date_fetched": "2026-08-21T12:22:59.380481",
+      "doi": "10.3389/fpsyg.2025.1598867",
+      "authors": [
+        {
+          "name": "Wen Li",
+          "author_id": "2163052803",
+          "affiliation": null
+        },
+        {
+          "name": "Xuerong Cui",
+          "author_id": "2275364115",
+          "affiliation": null
+        },
+        {
+          "name": "Pravina Manoharan",
+          "author_id": "144178389",
+          "affiliation": null
+        },
+        {
+          "name": "Lu Dai",
+          "author_id": "2349394895",
+          "affiliation": null
+        },
+        {
+          "name": "Ke Liu",
+          "author_id": "2275296600",
+          "affiliation": null
+        },
+        {
+          "name": "Li Huang",
+          "author_id": "2302288383",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction Metacognition plays a vital role in enhancing learning outcomes and has received increasing attention in recent years. Studies have shown that accomplished musicians typically demonstrate high levels of metacognition, and that reflection and feedback are effective strategies for promoting metacognitive development. This study explores the impact of integrating artificial intelligence (AI) and e-learning tools into vocal music training. It focuses on feedback and reflection interventions aimed at enhancing the metacognitive abilities and singing performance of pre-service teachers. Methods An experimental design was employed over a six-week training period. Participants were randomly divided into a control group (N\u202f=\u202f42), which received conventional singing instruction, and an experimental group (N\u202f=\u202f38), which received additional interventions comprising: (a) self-assessment through the use of an audio comparison tool, (b) dialogic feedback through interaction with a large language model (Yuanbao, Tencent\u2019s generative AI chatbot), and (c) engagement in self-reflective journal writing. A two-way repeated measures ANOVA was employed to examine the interaction effects between time (pre-test vs. post-test) and group (experimental vs. control). In addition, linear mixed models were used to analyse the relationship between metacognitive abilities and singing performance. Results The results demonstrated that AI-assisted training significantly affects the development of metacognitive abilities. While both the experimental and control groups exhibited significant improvements in singing performance following the intervention, no significant interaction effect between the group and time was detected. No correlation was found between metacognition and singing performance. Discussion The significance of this study is its provision of an effective implementation framework for integrating AI and e-learning tools into music instructional practice. These technologies offer high-quality personalized feedback and foster deep reflective engagement, thereby supporting the metacognitive development process in music education contexts.",
+      "journal": "Frontiers in Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Effects of Self-Guided Digital Mindfulness Interventions on the Mental Health of Health Care Workers: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625454/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-21T00:00:00",
+      "date_fetched": "2026-08-21T12:23:10.674566",
+      "doi": "10.2196/74272",
+      "authors": [
+        {
+          "name": "Natsu Sasaki",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lorra Garey",
+          "name": "Akiomi Inoue",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Matthew W Gallagher",
+          "name": "Mako Iida",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marshall K Cheney",
+          "name": "Kazuhiro Watanabe",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anka A Vujanovic",
+          "name": "Yuka Kobayashi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Darla E Kendzor",
+          "name": "Asuka Sakuraya",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lancer D Stephens",
+          "name": "Hisashi Eguchi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ashley B Cole",
+          "name": "Kanami Tsuno",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Bingjing Mao",
+          "name": "Yu Komase",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Krista M Kezbers",
+          "name": "Yasumasa Otsuka",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Audrey R Montgomery",
+          "name": "Mai Iwanaga",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Justin M Shepherd",
+          "name": "Reiko Inoue",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Duckhyun Jo",
+          "name": "Kazuto Kuribayashi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Brooke Y Redmond",
+          "name": "Ayako Hino",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jessica M Thai",
+          "name": "Hiroki Asaoka",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michael S Businelle",
+          "name": "Satoru Kanamori",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuta Inagawa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Takenori Yamauchi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hiroki Ikeda",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Go Muto",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rika Kato",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Takuro Okuyama",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Naomichi Tani",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Noriko Kojimahara",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Takeshi Ebara",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Akihito Shimazu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Akizumi Tsutsumi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Norito Kawakami",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kotaro Imamura",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: The study evaluated the impact of two smartphone-based interventions on anxiety and depression symptoms during the COVID-19 pandemic. METHOD: Racially and ethnically diverse adults from the United States (US) with elevated anxiety and/or depression (N\u202f=\u202f822; 64.4% female; M RESULTS: There was a high degree of engagement for both groups. For our primary analysis, between-group differences at the 6-month primary endpoint were small and not statistically significant for anxiety and depression. Within-person effect sizes indicated decreases in anxiety, depression, probable clinical anxiety and/or depression disorder status, anxiety sensitivity, and COVID-19 fear through the follow-up. Exploratory subgroup analyses suggested variable patterns of within-condition change across racial and ethnic groups, but these analyses were not powered to test moderation or equivalence. CONCLUSIONS: Findings indicated that two low cost and highly disseminatable digital interventions that targeted distinct psychological processes offered clinical benefit among a diverse sample of adults in the US during the COVID-19 pandemic.",
-      "journal": "Behaviour research and therapy",
+      "abstract": "BACKGROUND: Mindfulness interventions are considered an effective strategy for preventing mental health problems among health care workers (HCWs). While prior reviews have often included facilitator-guided or multicomponent interventions, it is unclear whether self-guided digital mindfulness interventions can also be effective without professional or in-person support. OBJECTIVE: This systematic review aimed to investigate the effects of self-guided digital mindfulness interventions on the mental health and well-being of HCWs. METHODS: This work was conducted as part of the DeLiGHT project. We searched electronic databases, including PubMed (MEDLINE), Embase, Cochrane CENTRAL, PsycINFO, PsycARTICLES, and the Japan Medical Abstract Society database, from inception in 2010 to July 25, 2023. To ensure timeliness, we performed an updated search on December 27, 2025. Database searching yielded 37,851 abstracts and 145 studies that examined the effectiveness of digital health interventions for workers in the initial 2023 screen. In the present study, we limited the included studies to those that met the following criteria: randomized controlled trials (RCTs) using self-guided digital mindfulness interventions (eg, smartphone apps or web-based programs) delivered without face-to-face or professional support compared to waiting list controls or usual care among HCWs. The updated search in 2025 yielded 6328 additional records, of which 11 studies were examined. Study quality was assessed using the Cochrane Risk of Bias tool, with meta-analyses conducted using a random-effects model. RESULTS: A total of 9 RCTs with 3088 participants were included in the final analysis. The study populations were diverse, covering North America, Europe, Oceania, and Asia. Interventions were delivered via various digital platforms, including commercial mindfulness apps (n=3), social networking service tools (n=3), and web-based programs (n=3), with an average duration of 6.17 weeks (range: 1.5-18 wk). Five studies assessed outcomes only postintervention, and 4 included short-term follow-up (4-12 wk); no long-term effects were evaluated. The meta-analysis showed a significant beneficial effect on depression (standardized mean difference [SMD]=-0.44, 95% CI -0.88 to -0.00;  CONCLUSIONS: Overall, low to very low certainty evidence suggests that self-guided digital mindfulness interventions may have short-term beneficial effects on depression, anxiety, perceived stress, and well-being among HCWs. Future high-quality studies are needed to examine the long-term effects and cross-cultural generalizability of these interventions.",
+      "journal": "JMIR mHealth and uHealth",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -148,37 +418,80 @@
       "matched_keywords": []
     },
     {
-      "title": "Mental health distress among undergraduate nursing students in Egypt: associations with self-concealment, alexithymia, and personality traits in a cross-sectional study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613612/",
+      "title": "MindTS-Net: A multimodal mindfulness-based intervention framework for children with Tourette syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42472108/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-17T00:00:00",
-      "date_fetched": "2026-08-20T12:23:32.727489",
-      "doi": "10.1186/s12912-026-05175-w",
+      "date_published": "2026-08-21T00:00:00",
+      "date_fetched": "2026-08-21T12:23:20.885452",
+      "doi": "10.1016/j.isci.2026.116672",
       "authors": [
         {
-          "name": "Mira Naguib Abdelrazek",
+          "name": "Li Liping",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Laila Saad Mahmoud",
+          "name": "Fang Xiaoxia",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marwa Fouad Hanafy Mahmoud",
+          "name": "Zhang Huimin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Heba Mohamed Abdelaal",
+          "name": "Wang Jianping",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wu Haoyu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Li Qian",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Song Huimin",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Psychological distress among nursing students is a major concern in nursing education. Difficulties in emotional processing and stable personality traits may be associated with depression, anxiety, and stress, yet self-concealment, alexithymia, and personality traits have rarely been examined together in undergraduate nursing students, particularly in Egypt. This study aimed to examine how self-concealment, alexithymia, and personality traits are associated with depression, anxiety, and stress among undergraduate nursing students. METHODS: A cross-sectional correlational study was conducted among 353 undergraduate nursing students at the Faculty of Nursing, Alexandria University, Egypt. Participants were recruited using proportionate stratified random sampling across the four academic years. Data were collected using a socio-demographic and academic questionnaire, the Self-Concealment Scale, the Toronto Alexithymia Scale-20, the NEO Five-Factor Inventory, and the Depression Anxiety Stress Scales-21. Data were analyzed using descriptive statistics, Pearson correlation coefficients, independent-samples t-tests, one-way analyses of variance, and multiple linear regression. RESULTS: Psychological distress symptoms were common on self-reported screening measures, and anxiety showed the greatest severity, with 53.8% of participants falling in the extremely severe symptom range. These classifications reflect screening scores rather than clinical diagnoses. Self-concealment and alexithymia were positively associated with depression, anxiety, and stress. The adjusted regression models explained 53.1% of the variance in depression, 48.9% in anxiety, and 47.5% in stress. Self-concealment and alexithymia remained significant correlates across all three adjusted models; self-concealment showed the largest standardized coefficient for anxiety and stress, whereas alexithymia showed the largest standardized coefficient for depression. CONCLUSIONS: Psychological distress symptoms in nursing students were associated with self-concealment, alexithymia, and selected personality traits. The findings support early confidential screening, timely access to counseling through clear referral pathways, and targeted resilience-, mindfulness-, peer-support-, and emotion-focused programs within nursing education. Because the design was cross-sectional, these associations should not be interpreted causally.",
-      "journal": "BMC nursing",
+      "abstract": "Tourette syndrome affects children's daily functioning and creates a need for supervised support that responds to tic behaviors, emotional states, and interaction contexts. We developed MindTS-MMD, a Chinese multimodal dataset capturing emotion, tic-related behaviors, interaction context, and Valence-Arousal ratings, and MindTS-Net, a supervised digital adjunct linking multimodal emotion perception, mindfulness strategy planning, child-appropriate guidance generation, and dialogue-state tracking. Evaluation included dataset benchmarking, a 14-day primary clinical study with 60 children, and an independent external validation cohort of 57 children from a second clinical center. MindTS-Net improved emotion perception, strategy selection, and guidance quality compared with baseline approaches. In the primary study, children receiving MindTS-Net showed favorable Valence-Arousal changes and reduced tic burden. External validation showed consistent directions across perception, strategy, guidance, and intervention outcomes. These findings suggest that supervised multimodal digital support can complement pediatric tic management and provide a foundation for future multi-center research.",
+      "journal": "iScience",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A mindful approach to understanding Black mothers' psychological functioning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622844/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-20T00:00:00",
+      "date_fetched": "2026-08-21T12:23:20.885792",
+      "doi": "10.1037/cdp0000819",
+      "authors": [
+        {
+          "name": "Sophia Lamb",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fatima Varner",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: We examined associations between Black mothers' discrimination experiences and psychological functioning (i.e., anxiety, depressive symptoms, and psychological well-being). In addition, we explored mindfulness and meditation frequency as moderators of these associations. METHOD: We analyzed data from a 2015 cross-sectional online study of 305 Black American mothers ( RESULTS: Black mothers who experienced discrimination experienced higher levels of anxiety and depressive symptoms, and lower psychological well-being. Mindfulness was negatively associated with anxiety and depressive symptoms and positively associated with psychological well-being. Meditation frequency was negatively associated with anxiety and positively associated with psychological well-being. There were no significant moderating effects. CONCLUSION: Mindfulness and meditation can compensate for negative associations between discrimination and Black mothers' psychological functioning. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "journal": "Cultural diversity & ethnic minority psychology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
