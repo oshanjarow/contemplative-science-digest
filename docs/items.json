@@ -1,43 +1,68 @@
 {
-  "generated_at": "2026-08-25T12:24:33.701657",
+  "generated_at": "2026-08-26T12:27:23.206234",
   "papers": [
     {
-      "title": "Cost-Effectiveness of a Child and Parent Mindfulness-Based Training Versus Medication for Childhood ADHD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42635101/",
+      "title": "Towards an active inference account of deep meditative deconstruction.",
+      "url": "https://www.semanticscholar.org/paper/cee21116a89d47d67402e9516632b753d5c7d017",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-24T00:00:00",
-      "date_fetched": "2026-08-25T12:24:32.808427",
-      "doi": "10.1177/10870547261469623",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-26T12:26:50.678320",
+      "doi": "10.1093/nc/niag053",
       "authors": [
         {
-          "name": "Rachel T van der Meulen",
+          "name": "Shawn Prest",
+          "author_id": "2401950419",
+          "affiliation": null
+        },
+        {
+          "name": "Kevin Berryman",
+          "author_id": "47829154",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper explores the intersection of the deep meditative deconstruction resulting from Buddhist meditative practice, specifically through the defabrication process, with the active inference framework (AIF). We propose that defabrication, central to Buddhist meditation, can be understood as a computational process whereby the repeated release of mental tension-associated with clinging and aversion-drives inference progressively lower in an agent's hierarchical generative model. By casting the release of mental tension as a reduction in hierarchical level-specific precision over beliefs about hidden causes, we demonstrate how the phenomenology of defabrication naturally arises from the resultant system dynamics. This approach enables a computational interpretation of Buddhist meditative states, such as the jh\u0101nas, and core concepts like equanimity and stillness. More broadly, it advances a computational phenomenology of meditative deconstruction. Finally, we illustrate the deconstruction process under AIF by extending it to the cessation of phenomenal experience, suggesting this offers insight into core-knowledge structuring and the generation of experience.",
+      "journal": "Neuroscience of Consciousness",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "A curriculum-based program introducing mindfulness and reflection to GP trainees.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640175/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-20T00:00:00",
+      "date_fetched": "2026-08-26T12:27:12.263219",
+      "doi": null,
+      "authors": [
+        {
+          "name": "C M Steele",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Francisca J A van Steensel",
+          "name": "C Corbett",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Esther I de Bruin",
+          "name": "N McElroy",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wiebe Korf",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Susan M B\u00f6gels",
+          "name": "C Smyth",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: ADHD imposes substantial societal costs. This randomized controlled trial examined the cost-effectiveness of family mindfulness training (\"MYmind\") versus medication in childhood ADHD. METHOD: An economic evaluation with a 10-month time horizon was conducted from a societal perspective. Children ( RESULTS: At 10\u2009months, primary cost-effectiveness analyses indicated that MYmind was inferior to medication for inattention but had higher QALY gains at higher costs. Specifically, MYmind had a 27% probability of being cost-effective for inattention and a 30% probability for QALYs. Secondary analyses showed similar results with even lower chances for mindfulness being cost-effective in the shorter-term horizons. Notably, in the subgroup excluding crossover participants, MYmind was dominant over medication, with an 81% chance to be cost-effective for both outcomes. CONCLUSIONS: MYmind was less cost-effective than medication in the short and medium term. Long-term cost-effectiveness of MYmind remained low for the total group, but was high among participants who did not crossover to the alternative treatment.",
-      "journal": "Journal of attention disorders",
+      "abstract": "AIM: To explore participant's experience of a pilot, curriculum-based mindfulness and personal reflection program on the resilience levels and well-being of 3rd year trainee General Practitioners (GP's). METHODS: 3rd year trainee GP's were invited to participate in four morning sessions, plus one retreat day program which was incorporated into the trainees 3rd year curriculum. Volunteers from the intervention group were then invited to take part in a focus group aimed at exploring their experiences and perspectives in greater depth. The qualitative data gathered from the focus group was analysed using thematic analysis to identify common themes and insights. RESULTS: The focus group identified a number of themes including; quality of programme delivery and content, the experience of a safe space, the relevance of the content to the wider GP role, the uptake of skills such as mindfulness and the impact of these skills on stress management. Limitations and challenges to sustainable practice were also identified. DISCUSSION: Medical students are at high risk of psychological distress, depression, and suicidality. The health and well-being of doctors is key to supporting the quality and safety of patient care. More needs to be done to build a sustainable and resilience work force for the future.",
+      "journal": "Irish medical journal",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -45,75 +70,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Emotional awareness moderates the relationship between emotion recognition and emotion regulation: Exploratory and confirmatory evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636071/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-24T00:00:00",
-      "date_fetched": "2026-08-25T12:24:32.808636",
-      "doi": "10.1037/emo0001709",
-      "authors": [
-        {
-          "name": "Taylor Torres",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Richard D Lane",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David A Preece",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "James J Gross",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "William D S Killgore",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ryan Smith",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Effective emotion regulation plays a critical role in mental health. Identifying factors that contribute to this ability could have clinical relevance. Two candidate factors are emotion recognition and emotional awareness. Specifically, if one does not recognize emotions in the self or others-and does not have a fine-grained understanding (trait awareness) of those emotions-it may be difficult to identify effective regulation strategies. Here, we tested whether individual differences in awareness moderate the association between recognition and regulation. Two independent samples of participants (Sample 1: ",
-      "journal": "Emotion (Washington, D.C.)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Emotion Regulation is Associated with Symptoms of Racial Trauma Among Minoritized People.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638492/",
+      "title": "Group and online application of the Unified Protocol in Argentina: controlled pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639813/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-08-25T00:00:00",
-      "date_fetched": "2026-08-25T12:24:32.808755",
-      "doi": "10.1177/08862605261473542",
+      "date_fetched": "2026-08-26T12:27:22.526487",
+      "doi": "10.1080/16506073.2026.2720138",
       "authors": [
         {
-          "name": "Cossette A Canovas",
+          "name": "Marcela Kaplan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lorraine T Benuto",
+          "name": "Milagros Celleri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Florencia Klajner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Camila Cremades",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cristian Garay",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Race-based traumatic stress (RBTS) can develop after prolonged exposure to racial discrimination and shares similar symptoms to post-traumatic stress disorder (PTSD). However, there is a scarcity of research investigating specific psychological processes associated with RBTS that may inform intervention development. As PTSD and RBTS have shared symptomology, it is possible that psychological processes implicated in PTSD may also be implicated in RBTS. The current study examined if mindfulness, distress tolerance, and emotion regulation difficulties were significantly associated with RBTS symptoms in a sample of racially diverse participants. Both undergraduate (",
-      "journal": "Journal of interpersonal violence",
+      "abstract": "Emotional disorders (ED), including anxiety and depression, are highly prevalent in Argentina and share dysfunctional emotional regulation mechanisms. The Unified Protocol (UP) is a transdiagnostic intervention designed to address these common processes. This is the first randomized controlled trial (RCT) to evaluate its effectiveness on a group and online format in the Argentinian population. A parallel-group RCT was conducted with 39 participants (mean age\u2009=\u200933.54; 67% women) diagnosed with various EDs according to DSM-5 criteria. Subjects were randomly assigned to a treatment group (",
+      "journal": "Cognitive behaviour therapy",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -121,27 +113,37 @@
       "matched_keywords": []
     },
     {
-      "title": "Evaluation of interdisciplinary child exploitation training for children's nursing students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42634997/",
+      "title": "The Association Between Physical Exercise and Sleep Quality Among Junior Middle School Students: The Mediating Role of Social Support and the Moderating Role of Mindfulness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640833/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-24T00:00:00",
-      "date_fetched": "2026-08-25T12:24:32.809033",
-      "doi": "10.7748/ncyp.2026.e1594",
+      "date_published": "2026-08-25T00:00:00",
+      "date_fetched": "2026-08-26T12:27:22.527093",
+      "doi": "10.1080/00221325.2026.2716728",
       "authors": [
         {
-          "name": "Ioanna Mlundira",
+          "name": "Wenge Guo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sarah Bekaert",
+          "name": "Zilong Nie",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yang Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kelei Guo",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Child exploitation is a significant safeguarding concern and nurses have a crucial role in recognising and responding to it. Therefore, it is essential that children's nursing students are equipped with the knowledge, confidence and preparedness to recognise and act on safeguarding concerns. AIM: To evaluate the effectiveness of a police-led child exploitation awareness training session in enhancing children's nursing students' knowledge, confidence and application of safeguarding principles in practice. METHOD: A mixed-methods study design was used. Second-year children's nursing students ( n =35) attended a three-hour police-led child exploitation awareness training session. Quantitative data were collected via a pre-training ( n =35) and post-training ( n =30) questionnaire and analysed to assess changes in three domains: knowledge and confidence; attitudes and beliefs; and willingness to act. Qualitative data were collected through follow-up forms that explored participants' ( n =8) reflections on application of their learning in their practice placements and analysed using content analysis. FINDINGS: Significant improvements were identified across all three domains, with the greatest increases in participants' confidence and escalation of concerns. Qualitative findings indicated that the participants developed enhanced professional curiosity and increased willingness to act in safeguarding situations, suggesting the effective translation of learning into practice. CONCLUSION: Practice-oriented, interdisciplinary safeguarding education can improve children's nursing students' knowledge, confidence and behavioural readiness. Such interventions may enhance nurses' ability to recognise and respond to instances of child exploitation, thereby strengthening safeguarding practice.",
-      "journal": "Nursing children and young people",
+      "abstract": "This study explores the relationship between physical exercise and sleep quality, focusing on the mediating role of social support and the moderating role of mindfulness. The sample included 1,023 junior middle school students (51.22% females; mean age = 13.59\u2009\u00b1\u20090.84\u2009years). Participants completed measures of physical exercise, sleep quality, social support, and mindfulness. Data were analyzed using descriptive statistics, bias-corrected bootstrap procedures, and Hayes' PROCESS macro for SPSS (Models 4 and 59). The results showed that 24.73% of the participants screened positive for sleep problems (Pittsburgh Sleep Quality Index (PSQI) > 7), and physical exercise was significantly positively associated with sleep quality. Social support played a significant mediating role in the relationship between physical exercise and sleep quality. Mindfulness significantly moderated the association between social support and sleep quality and the residual direct association between physical exercise and sleep quality, but did not significantly moderate the association between physical exercise and social support. At higher levels of mindfulness, the positive associations of physical exercise and social support with sleep quality were stronger. These findings revealed the roles of social support and mindfulness in the association between physical exercise and sleep quality and provided a new perspective for sleep-health promotion among junior middle school students. Schools, families, and communities should coordinate efforts to promote physical exercise, strengthen social support, and cultivate mindfulness among junior middle school students.",
+      "journal": "The Journal of genetic psychology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -149,52 +151,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Learning to self-soothe, feel safe, and be connected: participant perspectives of a mindful self-compassion program for people with multiple sclerosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42635495/",
+      "title": "Mindfulness- and relaxation-based interventions for Premenstrual Syndrome: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642977/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-24T00:00:00",
-      "date_fetched": "2026-08-25T12:24:32.809160",
-      "doi": "10.1080/09638288.2026.2719953",
+      "date_published": "2026-08-25T00:00:00",
+      "date_fetched": "2026-08-26T12:27:22.527598",
+      "doi": "10.1080/03630242.2026.2719876",
       "authors": [
         {
-          "name": "Claire Zhang",
+          "name": "Adebimpe Obembe",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jillian Scandiffio",
+          "name": "Jasmine Ramos",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ashvene Sureshkumar",
+          "name": "Emily Reis",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marina Wasilewski",
+          "name": "Grace Souerdyke",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sarah J Donkers",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sarah Munce",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert Simpson",
+          "name": "Kristan Pilakowski",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: People with multiple sclerosis (PwMS) often experience high rates of stress, anxiety, and depression, with low quality of life. Mindful self-compassion (MSC) training may offer a promising approach to support mental health in this population. This study explored the experiences of PwMS participating in an online MSC course as part of a feasibility trial to assess its accessibility, perceived effects, and suggested areas for improvement. MATERIALS AND METHODS: Qualitative interpretive methods were used. Semi-structured Zoom interviews were completed with 17 PwMS and three MSC facilitators after the course. Transcripts underwent reflexive thematic analysis by a team of researchers. RESULTS: Four themes were constructed: (1) \"the ticking time bomb\": motivations for mindful self-compassion, (2) navigating the MSC course: benefits, challenges, and accessibility, (3) a community of trust: finding support and common humanity, and (4) wishing for more: filling the gap in MS care. CONCLUSIONS: PwMS found MSC to be a meaningful and acceptable intervention that supported emotional well-being, social connection, and daily coping. MSC may complement standard MS care by addressing psychosocial needs that are often overlooked. Tailored delivery and long-term accessibility could enhance its integration into supportive care pathways.",
-      "journal": "Disability and rehabilitation",
+      "abstract": "Premenstrual syndrome (PMS) affects many women of reproductive age, often disrupting daily activities. Mindfulness- and relaxation-based techniques, such as yoga and progressive muscle relaxation techniques, can alleviate both physical and psychosocial symptoms associated with PMS. This systematic review synthesized existing evidence on the effects of mindfulness and relaxation interventions on the physical and psychosocial functioning of women experiencing PMS. The searches were conducted across five databases (PubMed, CINAHL Complete, ProQuest, MasterFILE Complete, and JSTOR Life Sciences) and two publisher websites (Wiley and Mary Ann Liebert, Inc.). This review followed the PRISMA guidelines and evaluated the quality of individual studies. Included were reproductive-age women using mindfulness or relaxation techniques for premenstrual symptoms in peer-reviewed intervention studies published between December 2015 and December 2025. This review included 22 studies involving 1,598 participants, comprising 13 RCTs, 7 non-RCTs, and 2 studies without a control group. The interventions included yoga (4), guided imagery (2), mindfulness-based cognitive behavioral therapy (2), progressive muscle relaxation (6), and other programs (5). One study each used an occupational therapy intervention, meditation, and counseling. The interventions typically lasted 20-60\u2009minutes (18/22), and 19 studies evaluated PMS symptom severity. Mindfulness-and relaxation-based interventions decreased physical symptoms such as pain and fatigue, and psychosocial symptoms such as anxiety, depression, stress, and sexual function, resulting in an improved quality of life. Mindfulness- and relaxation-based interventions are associated with meaningful improvements in psychosocial, physical, and functional outcomes for PMS, although the evidence remains limited. These approaches may be considered as components of comprehensive, occupation-based care to support participation and overall well-being.",
+      "journal": "Women & health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -202,5 +194,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Adam Hamilton and Taking Back Religion from the Right",
+      "url": "https://www.newyorker.com/news/the-lede/adam-hamilton-and-taking-back-religion-from-the-right",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-08-26T10:00:00",
+      "date_fetched": "2026-08-26T12:27:22.838025",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Bill McKibben",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "Democratic socialists are getting more of the attention, but Democratic Christians may prove more influential this November.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
