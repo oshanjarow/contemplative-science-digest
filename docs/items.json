@@ -1,68 +1,1067 @@
 {
-  "generated_at": "2026-08-26T12:27:23.206234",
+  "generated_at": "2026-08-27T21:25:05.701008",
   "papers": [
     {
-      "title": "Towards an active inference account of deep meditative deconstruction.",
-      "url": "https://www.semanticscholar.org/paper/cee21116a89d47d67402e9516632b753d5c7d017",
+      "title": "A systematic review of mindfulness-based interventions to reduce ICU nurse burnout: global evidence and thematic synthesis",
+      "url": "https://www.semanticscholar.org/paper/9929a613419f34083347c36bf460006357817f7b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-08-26T12:26:50.678320",
-      "doi": "10.1093/nc/niag053",
+      "date_published": "2025-07-15T00:00:00",
+      "date_fetched": "2026-08-27T21:24:15.858115",
+      "doi": "10.1186/s12912-025-03507-w",
       "authors": [
         {
-          "name": "Shawn Prest",
-          "author_id": "2401950419",
+          "name": "Budur Ateeq A. Alharbi",
+          "author_id": "2372710590",
           "affiliation": null
         },
         {
-          "name": "Kevin Berryman",
-          "author_id": "47829154",
+          "name": "N. McKenna",
+          "author_id": "78799560",
           "affiliation": null
         }
       ],
-      "abstract": "This paper explores the intersection of the deep meditative deconstruction resulting from Buddhist meditative practice, specifically through the defabrication process, with the active inference framework (AIF). We propose that defabrication, central to Buddhist meditation, can be understood as a computational process whereby the repeated release of mental tension-associated with clinging and aversion-drives inference progressively lower in an agent's hierarchical generative model. By casting the release of mental tension as a reduction in hierarchical level-specific precision over beliefs about hidden causes, we demonstrate how the phenomenology of defabrication naturally arises from the resultant system dynamics. This approach enables a computational interpretation of Buddhist meditative states, such as the jh\u0101nas, and core concepts like equanimity and stillness. More broadly, it advances a computational phenomenology of meditative deconstruction. Finally, we illustrate the deconstruction process under AIF by extending it to the cessation of phenomenal experience, suggesting this offers insight into core-knowledge structuring and the generation of experience.",
-      "journal": "Neuroscience of Consciousness",
-      "year": 2026,
+      "abstract": "Burnout among ICU nurses remains a global concern due to their constant exposure to high-stress, high-stakes environments. Sustained psychological strain, ethical dilemmas, and workload intensity contribute to emotional exhaustion, reduced job satisfaction, and compromised patient outcomes. This review aimed to evaluate the effectiveness of mindfulness-based interventions (MBIs) in mitigating burnout and occupational stress among ICU nurses, and to examine how the duration and structure of these interventions influence their impact. Following PRISMA 2020 guidelines, a comprehensive search was conducted across PubMed, CINAHL, MEDLINE, PsycINFO, and EMBASE for peer-reviewed studies published between 2013 and 2025. Inclusion criteria were guided by the PICOT framework. Eight studies\u2014comprising randomized controlled trials, quasi-experimental, cohort, and cross-sectional designs\u2014met the eligibility criteria. Data were synthesized narratively, and methodological quality was assessed using appropriate Joanna Briggs Institute (JBI) critical appraisal tools. Thematic analysis revealed three major findings: (1) MBIs effectively reduced emotional exhaustion, depersonalization, and stress-related symptoms among ICU nurses; (2) longer and more structured interventions, such as the 8-week MBSR programs, demonstrated more sustained benefits compared to shorter MBIs; and (3) demographic and contextual factors\u2014including age, years of ICU experience, organizational support, and delivery format\u2014moderated the effectiveness of interventions. All included studies demonstrated medium to high methodological quality. Mindfulness-based interventions are effective and scalable tools for mitigating burnout among ICU nurses. Evidence supports their integration into wellness initiatives within hospital settings, with attention to program structure, duration, and organizational facilitation. Implementation of MBIs may improve nurse wellbeing, resilience, and retention in high-stress care environments. \u2022 Mindfulness-based interventions (MBIs) reduce burnout and stress in ICU nurses. \u2022 8-week programs show stronger and more sustained effects than shorter interventions. \u2022 Younger or early-career nurses show greater responsiveness to MBIs. \u2022 Organizational support and digital delivery enhance implementation. \u2022 Long-term outcomes and cost-effectiveness remain understudied.",
+      "journal": "BMC Nursing",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "jhana"
+        "mindfulness"
       ]
     },
     {
-      "title": "A curriculum-based program introducing mindfulness and reflection to GP trainees.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42640175/",
+      "title": "The curriculum planning and implementation for mindfulness education and diversified humanism based on big data",
+      "url": "https://www.semanticscholar.org/paper/f8a6a626621062cee354e6ffd4ac719d72270d85",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-27T00:00:00",
+      "date_fetched": "2026-08-27T21:24:15.858137",
+      "doi": "10.1038/s41598-025-95491-z",
+      "authors": [
+        {
+          "name": "Xiaolin Li",
+          "author_id": "2241006743",
+          "affiliation": null
+        }
+      ],
+      "abstract": "In modern education, balancing academic achievement and personal development is crucial. Traditional methods often focus more on academics, neglecting personal and social skills. To address this, the study combines mindfulness education with humanistic theory to improve curriculum design. Mindfulness education emphasizes attention control, self-awareness, and emotional management. Humanistic theory focuses on student-centered learning, creativity, and self-fulfillment. This study uses quantitative research to compare different teaching methods. The research findings show that traditional teaching methods, while effective in improving students\u2019 academic performance, have limited impact on the development of their personal and social skills. In contrast, the optimized curriculum not only significantly increases students\u2019 classroom participation and interest in learning but also greatly enhances their self-confidence, sense of responsibility, teamwork, and creativity. Particularly in terms of focus and empathy, students made more noticeable progress. This indicates that the optimized curriculum helps improve students\u2019 self-awareness, emotional management, and collaborative skills. Overall, the study highlights the potential of comprehensive curriculum planning in promoting students\u2019 holistic development and emphasizes the importance of student-centered teaching approaches in cultivating learners with more integrated qualities.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "The effectiveness of mindfulness-based cognitive therapy on rumination and related psychological indicators: a systematic review and meta-analysis",
+      "url": "https://www.semanticscholar.org/paper/486b3e69b758ece8a95cc757e373724f92a92917",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-26T00:00:00",
+      "date_fetched": "2026-08-27T21:24:15.858191",
+      "doi": "10.1186/s40359-025-03348-x",
+      "authors": [
+        {
+          "name": "Siyi Wei",
+          "author_id": "2315662512",
+          "affiliation": null
+        },
+        {
+          "name": "Weiqi Qin",
+          "author_id": "2315577236",
+          "affiliation": null
+        },
+        {
+          "name": "Zengyan Yu",
+          "author_id": "2174519517",
+          "affiliation": null
+        },
+        {
+          "name": "Yunhua Cao",
+          "author_id": "2321453507",
+          "affiliation": null
+        },
+        {
+          "name": "Ping Li",
+          "author_id": "2321349059",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The effectiveness of Mindfulness-Based Cognitive Therapy (MBCT) on rumination has been reviewed; however, the findings remain inconclusive. The present research will systematically evaluate the effectiveness of MBCT on rumination and related psychological indicators. We searched the Cochrane Library, EBSCO, Embase, LILACS, PubMed, Web of Science, China Biomedical Literature Database (CBM), China National Knowledge Infrastructure (CNKI), Wanfang Database, and China Science and Technology Journal Database (VIP) for all available records up until December 2024 to include randomized controlled trials (RCTs) examining MBCT on rumination. Rumination scores served as the primary outcome, and the mindfulness, self-compassion, decentering, depression, and anxiety scores served as the secondary outcomes. RevMan and Stata software were applied for data processing. Twenty-nine RCTs comprising 2535 subjects were ultimately selected for analysis. The results revealed that MBCT significantly reduced rumination (SMD = -0.51, 95% CI = [-0.64, -0.39], z\u2009=\u20098.30, P\u2009<\u20090.001), with sustained effectiveness during the follow-up period (SMD = -0.61, 95% CI = [-0.89, -0.32], z\u2009=\u20094.21, P\u2009<\u20090.001). Additionally, we also discovered that MBCT had significant effectiveness on mindfulness (SMD\u2009=\u20090.55, 95% CI = [0.46, 0.63], z\u2009=\u200912.04, P\u2009<\u20090.001), self-compassion (SMD\u2009=\u20090.59, 95% CI = [0.22, 0.96], z\u2009=\u20093.15, P\u2009=\u20090.002), decentering (SMD\u2009=\u20090.62, 95% CI = [0.45, 0.78], z\u2009=\u20097.24, P\u2009<\u20090.001), depressive (SMD = -0.57, 95% CI = [-0.79, -0.34], z\u2009=\u20094.95, P\u2009<\u20090.001) and anxiety symptoms (SMD = -0.37, 95% CI = [-0.56, -0.18], z\u2009=\u20093.78, P\u2009<\u20090.001). Funnel plot analysis and Egger\u2019s statistical test did not reveal any significant publication bias (t = -1.47, P\u2009=\u20090.154, 95% CI = [-2.20,0.37]). The present findings confirm the feasibility of MBCT in diminishing rumination and enhancing related psychological indicators. Furthermore, these effects were sustained throughout the follow-up period.",
+      "journal": "BMC Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Mindfulness vs Cognitive Behavioral Therapy for Chronic Low Back Pain Treated With Opioids",
+      "url": "https://www.semanticscholar.org/paper/f17bece403b4b12aa72db42d47ef43f40385fce7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-08-27T21:24:15.858472",
+      "doi": "10.1001/jamanetworkopen.2025.3204",
+      "authors": [
+        {
+          "name": "Aleksandra E. Zgierska",
+          "author_id": "2241383825",
+          "affiliation": null
+        },
+        {
+          "name": "Robert R. Edwards",
+          "author_id": "2239032694",
+          "affiliation": null
+        },
+        {
+          "name": "Bruce P. Barrett",
+          "author_id": "2241397413",
+          "affiliation": null
+        },
+        {
+          "name": "Cindy A. Burzinski",
+          "author_id": "7306821",
+          "affiliation": null
+        },
+        {
+          "name": "Robert N Jamison",
+          "author_id": "2241383375",
+          "affiliation": null
+        },
+        {
+          "name": "Yoshio Nakamura",
+          "author_id": "2241390226",
+          "affiliation": null
+        },
+        {
+          "name": "Mary Henningfield",
+          "author_id": "2332976292",
+          "affiliation": null
+        },
+        {
+          "name": "Wen-Jan Tuan",
+          "author_id": "2321290824",
+          "affiliation": null
+        },
+        {
+          "name": "Chan Shen",
+          "author_id": "2332690548",
+          "affiliation": null
+        },
+        {
+          "name": "N. Sehgal",
+          "author_id": "38113782",
+          "affiliation": null
+        },
+        {
+          "name": "Robert P. Lennon",
+          "author_id": "2241380539",
+          "affiliation": null
+        },
+        {
+          "name": "H. Dong",
+          "author_id": "2252372763",
+          "affiliation": null
+        },
+        {
+          "name": "Vernon M. Chinchilli",
+          "author_id": "2263803579",
+          "affiliation": null
+        },
+        {
+          "name": "Yuxin Liu",
+          "author_id": "2332674818",
+          "affiliation": null
+        },
+        {
+          "name": "Alyssa Turnquist",
+          "author_id": "2304986733",
+          "affiliation": null
+        },
+        {
+          "name": "Anthony Schiefelbein",
+          "author_id": "2069373672",
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth A Jacobs",
+          "author_id": "2332645636",
+          "affiliation": null
+        },
+        {
+          "name": "Christin Veasley",
+          "author_id": "3803138",
+          "affiliation": null
+        },
+        {
+          "name": "Penney Cowan",
+          "author_id": "2332976422",
+          "affiliation": null
+        },
+        {
+          "name": "Eric L Garland",
+          "author_id": "2313908131",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Key Points Question What is the comparative effectiveness of mindfulness-based therapy (MBT) and standard-of-care cognitive behavioral therapy (CBT) among adults with opioid-treated chronic low back pain (CLBP)? Findings In this randomized clinical trial of 770 adults with opioid-treated CLBP, although there were no differences between groups, both the MBT and CBT groups experienced improved pain, function, and health-related quality of life and reduced opioid dosage at 6 and 12 months. Meaning Results of the study suggest that both treatments have potential utility in treating adults with refractory CLBP and improving pain, function, and quality-of-life outcomes.",
+      "journal": "JAMA Network Open",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "mindfulness"
+      ]
+    },
+    {
+      "title": "Assessing the Efficacy of Security Awareness Training in Mitigating Phishing Attacks: A Review",
+      "url": "https://www.semanticscholar.org/paper/1b6828d72d4287747ef359775f4614f1fa45ae01",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-10T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053362",
+      "doi": "10.30534/ijatcse/2025/081432025",
+      "authors": [],
+      "abstract": "Phishing remains one of the most common and advanced forms of cybercrime with serious consequences for individuals, organizations, and national infrastructures. This article offers a comprehensive literature review of recent research (2021\u20132024) into phishing attack vectors and the impact of security awareness training (SAT) in mitigating such threats. Grounded in empirical studies, simulation-based experiments, personality-based vulnerability analysis, and AI-driven detection models, the research synthesizes evidence from 30+ peer-reviewed articles to assess the effectiveness, limitations, and best practices of awareness interventions. Key findings indicate that simulation-based SAT significantly reduces user susceptibility, particularly when training is adaptive, behavior-aware, and reinforced over time. Studies confirm that demographic variables such as age and gender, as well as personality traits like neuroticism and agreeableness, influence phishing vulnerability and training success. The most prominent topics analyzed include the lifecycle and anatomy of phishing attacks, psychological and behavioral drivers of risk, demographic influences, and the integration of technical and policy-based countermeasures. The research highlights gaps in training design, fatigue-related limitations, and the need for context-sensitive delivery. It concludes by proposing a multi-dimensional solution involving personalized simulation, leadership-driven security culture, and integration with emerging technologies. This paper offers practical insights for cybersecurity practitioners, educators, and policy-makers working to reinforce the human firewall.",
+      "journal": "International Journal of Advanced Trends in Computer Science and Engineering",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Generative AI for Cybersecurity Awareness Training",
+      "url": "https://www.semanticscholar.org/paper/6d476aff346cfc2fc7904989905e735a651dc8bb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-14T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053382",
+      "doi": "10.1109/IECON58223.2025.11221870",
+      "authors": [
+        {
+          "name": "A. Ahmed",
+          "author_id": "2309665240",
+          "affiliation": null
+        },
+        {
+          "name": "Mohamed Mejri",
+          "author_id": "2274009475",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Human errors remain one of the leading causes of cybersecurity breaches during the rapid growth of cyber-attack techniques recently, underscoring the need for adaptive and personalized training programs. Traditional Cybersecurity Awareness Training (CSAT) programs often rely on static content, lack of personalization, and struggle remain in the face of evolving threats. This study presents an AI driven CSAT framework that integrates Generative Artificial Intelligence (GAI), Online Machine Learning, and adaptive data processing to deliver personalized, scalable, and real-time training contents. The proposed model utilizes GAI to dynamically generate interactive training contents tailored to individual user profiles based on job roles, behavioural risk indicators, impact assessment scores, and the pre-assessment outcomes. An online Na\u00efve Bayes algorithm enables continuous risk profiling and content adaptation according to user performance, while windowing technique and integrated search engine ensure up-to-date and contextually relevant training materials. The proposed system aligns with Bloom\u2019s Taxonomy and MITRE ATT&CK framework to ensure cognitive depth and real-world attack vector relevance. The research demonstrates that the integration of GAI with adaptive learning technologies significantly improves knowledge retention, enhance user engagement, and delivers cost-effective training solution. Further this study highlights the potential of GAI in revolutionizing cybersecurity training, ensuring resilience against evolving cyber-threats.",
+      "journal": "Annual Conference of the IEEE Industrial Electronics Society",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Mitigating Social Engineering Attacks Through Cost-Effective Security Awareness Training Policy",
+      "url": "https://www.semanticscholar.org/paper/dbf581af76e68a9e346d31bf72b24284ea557393",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053398",
+      "doi": "10.1109/TNSE.2025.3556927",
+      "authors": [
+        {
+          "name": "Yang Qin",
+          "author_id": "2277689028",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaofan Yang",
+          "author_id": "2197159013",
+          "affiliation": null
+        },
+        {
+          "name": "Lu-xing Yang",
+          "author_id": "2266358605",
+          "affiliation": null
+        },
+        {
+          "name": "Kaifan Huang",
+          "author_id": "150172868",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Human beings are often considered the weakest link in cybersecurity. Social engineering attacks exploit this vulnerability, posing significant threats to the digital assets of organizations. A highly effective strategy to protect users from falling into traps set by attackers is to implement comprehensive security awareness training focused on social engineering. In this context, the organization needs to find a cost-effective policy of allocating the security awareness training cost. We refer to the problem of finding such a policy as the security awareness training (SAT) problem. This paper addresses the SAT problem. First, an opinion dynamics-based security awareness evolution model is introduced. On this basis, the SAT problem is reduced to an optimal control model (the SAT model). Second, by deriving the optimality system for the SAT problem, an algorithm of solving the SAT model is proposed. Next, the feasibility of the proposed algorithm is validated through numerical experiments. Additionally, further exploration of the SAT algorithm are conducted. Finally, for greater versatility, the problem is formulated as a discrete-time problem (the discrete SAT problem), and the discrete SAT algorithm is proposed to solve it. This work takes the first step toward the prevention of social engineering attack through optimal control approach.",
+      "journal": "IEEE Transactions on Network Science and Engineering",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Professionals Need Information Too: Exploratory Data From the Family Employment Awareness Training (FEAT) in Kansas",
+      "url": "https://www.semanticscholar.org/paper/6df321f051f951d0bf8450125c17f196d4056c12",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-21T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053415",
+      "doi": "10.1352/2326-6988-13.2.87",
+      "authors": [
+        {
+          "name": "J. Gross",
+          "author_id": "51351957",
+          "affiliation": null
+        },
+        {
+          "name": "Grace L. Francis",
+          "author_id": "2360924040",
+          "affiliation": null
+        },
+        {
+          "name": "Jeong Hoon Choi",
+          "author_id": "2112183680",
+          "affiliation": null
+        },
+        {
+          "name": "Jared L. Stanley",
+          "author_id": "2154040772",
+          "affiliation": null
+        },
+        {
+          "name": "Ellie Bowen",
+          "author_id": "2365016769",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n For this exploratory study, we investigated the perceptions of professionals who attended Family Employment Awareness Training (FEAT), a family-focused program about competitive employment for people with disabilities. We used a pre-/post-survey design with matched respondents. We used repeated measures ANOVA, descriptive statistics, and basic interpretive qualitative analysis to analyze data. Results indicated that participants significantly improved their general expectations for the job prospects and abilities of people with disabilities and, while not statistically significant, increased their knowledge of employment resources. Participants became more confident that they could use their knowledge to address barriers to employment. They reported on accessing employment resources, professional barriers they experienced, and their perceptions of FEAT. Results indicated that attending FEAT can positively influence expectations for and knowledge of competitive employment. Results also indicated that professionals found attending FEAT worthwhile and that it improved professional confidence in addressing barriers.",
+      "journal": "Inclusion",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Breaking the ice: How awareness training affects the treatment of domestic violence patients by health care professionals",
+      "url": "https://www.semanticscholar.org/paper/1b2ed6e0f38c17fa02b625a26e9d962c66003fe3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053463",
+      "doi": "10.1097/HMR.0000000000000431",
+      "authors": [
+        {
+          "name": "T. Beck",
+          "author_id": "32835407",
+          "affiliation": null
+        },
+        {
+          "name": "C. F\u00f6rster",
+          "author_id": "2061451444",
+          "affiliation": null
+        },
+        {
+          "name": "S. K\u00f6nig",
+          "author_id": "49359277",
+          "affiliation": null
+        },
+        {
+          "name": "Marion Pavlic",
+          "author_id": "2259917747",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background Domestic violence (DV) is a neglected topic in health care, resulting in delays in the identification of DV victims and suboptimal care. Purpose The attitudes of health care professionals (HCPs) toward stigmas associated with victims of DV can affect the care offered to the latter. The HCPs' attitude toward victims of DV is therefore an important but neglected topic in health care research. Therefore, the purpose of this study was to determine whether awareness training changes HCPs' attitudes toward victims of DV, especially with regard to their stigmatization. Methodology Problem-centered interviews were conducted with 12 health professionals (six women and six men, six with and six without previous awareness training) concerning their attitudes and approaches to DV and those affected by it. Results Our data analysis indicates a significant difference in HPC attitudes toward potential DV victims depending on whether or not HCPs have undergone awareness training. Conclusion Awareness training does not only improve theoretical knowledge about DV; it also changes staff attitudes toward DV victims, especially with regard to their stigmatization. Practice Implications Our study shows that awareness training changes the HCPs' attitudes toward victims of DV. This change in attitude might reduce pressure on both the HCP and the victim, which in turn might help the victim to accept the care offered. Therefore, awareness training can help to reduce barriers to helping victims of DV.",
+      "journal": "Health Care Management Review",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Minding Well-Being: Validation of the Mindfulness-Based Strategic Awareness Training (MBSAT) for Non-Clinical Populations",
+      "url": "https://www.semanticscholar.org/paper/6b313dc829af943e51e86c35c907b55752bda9f0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053477",
+      "doi": "10.1007/s12671-025-02581-0",
+      "authors": [
+        {
+          "name": "Eva K. Peters",
+          "author_id": "2131296504",
+          "affiliation": null
+        },
+        {
+          "name": "S. Sim",
+          "author_id": "2362814750",
+          "affiliation": null
+        },
+        {
+          "name": "J. Reb",
+          "author_id": "2347777423",
+          "affiliation": null
+        },
+        {
+          "name": "Juan Humberto Young",
+          "author_id": "2363498675",
+          "affiliation": null
+        },
+        {
+          "name": "Monika Elser Young",
+          "author_id": "2363304465",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This research assessed the effects of the Mindfulness-Based Strategic Awareness Training (MBSAT). MBSAT follows the 8-session structure of established mindfulness courses such as Mindfulness-Based Stress Reduction (MBSR) and Mindfulness-Based Cognitive Therapy (MBCT). However, it is a personal and professional development training for non-clinical contexts geared toward healthy individuals with the aim of improving their broadly defined well-being. We conducted an experimental intervention study with a waitlist control group with working adults in Switzerland. Most of the 43 participants were randomly assigned to participate either in the MBSAT (n\u2009=\u200923) or a waitlist (n\u2009=\u200920) for subsequent participation in the MBSAT after completion of the data collection. Compared to the control condition, the MBSAT training group participants scored lower on measures of negative well-being, such as stress, alexithymia, and worry, and higher on measures of positive well-being, such as sleep quality, non-attachment, psychological need satisfaction, flourishing, and work engagement after the intervention. Mediation analyses found that greater interoception in the training condition mediated these various well-being outcomes. The study provides quantitative evidence to validate MBSAT as an effective intervention for increasing well-being in a non-clinical setting with active working adult participants. The research highlights the role of interoception as a potential mediator of the benefits of mindfulness-based interventions. This study was not preregistered.",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "An Adaptive Phishing Awareness Training Environment Based on LLMs and Interactive Learning",
+      "url": "https://www.semanticscholar.org/paper/c948272240fd7a793554cf5f863994f241f9a6c2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-24T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053489",
+      "doi": "10.1109/RTSI64020.2025.11212360",
+      "authors": [
+        {
+          "name": "Kapischan Sriganthan",
+          "author_id": "2389331543",
+          "affiliation": null
+        },
+        {
+          "name": "Felix H\u00e4rer",
+          "author_id": "2389327345",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Phishing remains a major cybersecurity threat, exploiting human vulnerabilities through deceptive tactics. Traditional awareness training often involves simulated phishing campaigns via e-mail and similar channels, in addition to training materials for employees to complete. Prior work indicates limitations in effectiveness, highlighting the lack of interactivity and contextual factors. This paper explores an interactive, user-adaptive, LLM-based approach to phishing awareness training, combining simulated phishing campaigns with adaptive feedback mechanisms from interactive learning. A training environment was developed as a research prototype, supporting experiments on adaptive training methods, including modes of interaction, target customization, feedback, and adaptivity to user environments. The prototype demonstrates the potential of realizing these aspects with LLMs according to interactive learning principles, such as targeted user engagement and instantaneous feedback. It is intended to serve as a basis for studies on effectiveness, efficiency, and adaptive methods in corporate settings, education, or phishing prevention initiatives.",
+      "journal": "International Forum on Research and Technologies for Society and Industry Leveraging a better tomorrow",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "The Impact of Phonological Awareness Training on Reading Ability in Lower Primary Students",
+      "url": "https://www.semanticscholar.org/paper/d18545cdee7fd34732ac2523a2df54a3c283c9d0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-04T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053501",
+      "doi": "10.54254/2753-7064/2025.ht30274",
+      "authors": [
+        {
+          "name": "Y. Jiang",
+          "author_id": "2441866679",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Phonological awareness, also referred to as phonemic awareness, means that children are able to identify and manipulate the sound structure of words, which is the most reliable factor predicting the effectiveness of young childrens early reading learning. Because it is important to teach literacy, Chinese character recognition, and form consciousness during the primary school lower grades, the article summarizes the impact of phonological awareness teaching on students reading, and attempts to discover this through a literature overview and a comprehensive case study. According to the literature review part, the relationship between phonological awareness and acquisition of reading ability has been confirmed to be close; among them, training phoneme skills like separation and synthesis is especially helpful for the decoding ability and reading smoothness of students. It can be seen through the cases that students had experienced remarkable improvements after the intervention of phonological awareness training in decoding skills or reading fluency. This paper argues that the earliest stage of teaching children to read and write is Phonological awareness. The author proposes suggestions based on this article that teachers may give systematic phonological awareness training and teaching activities for students in normal lessons to help children learn to read better. This research can be extended to subject field in future investigations of phonological awareness interventions on the reading abilities of children.",
+      "journal": "Communications in Humanities Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "THE ROLE OF CYBERSECURITY AWARENESS TRAINING TO PREVENT PHISHING",
+      "url": "https://www.semanticscholar.org/paper/af4347185a639096530ac7ca561598dce98296fb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-24T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053513",
+      "doi": "10.46763/etima2531304m",
+      "authors": [
+        {
+          "name": "Hristijan Miceski",
+          "author_id": "2390738500",
+          "affiliation": null
+        },
+        {
+          "name": "Dimitar Bogatinov",
+          "author_id": "4779033",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Phishing remains one of the most common cyber threats today, with email being the primary attack vector. Cybersecurity awareness training plays a critical role in strengthening an organization's defence against persistent threats. This research paper examines the impact of cybersecurity awareness training on employees\u2019 \u201conline\u201d behavior. The analysis utilizes results from earlier research to evaluate baseline cyber hygiene and assess how training impacts employees\u2019 ability to recognize and respond to phishing threats. Following the results, a comprehensive cybersecurity awareness training program was implemented, focusing on recognizing and reporting phishing emails, safe browsing practices, and maintaining strong passwords. The results indicate a significant improvement in the organization's cyber hygiene post-training. The data reveals a substantial decrease in the number of employees\u2019 falling victim to phishing attempts, alongside a notable increase in the reporting of phishing emails to the IT department. These findings suggest that the training not only enhanced employees' ability to recognize phishing attempts but also encouraged them to stay alert and report suspicious activities. Furthermore, this study underscores the importance of continuous training and periodic phishing simulations to sustain high levels of cybersecurity awareness. Regular training programs equip employees with the necessary skills to identify and respond to cyber threats, ultimately creating a more secure and resilient digital environment.",
+      "journal": "Conference Proceedings of Third International Conference ETIMA 2025",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Community Health Worker Diabetes Prevention Awareness Training in an Immersive Virtual World Environment: Mixed Methods Pilot Study",
+      "url": "https://www.semanticscholar.org/paper/a88648965d0cceda2aea30092b128a4fcd03763d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-10T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053539",
+      "doi": "10.2196/64051",
+      "authors": [
+        {
+          "name": "Laurie Ruggiero",
+          "author_id": "2357590672",
+          "affiliation": null
+        },
+        {
+          "name": "Lauretta Quinn",
+          "author_id": "2366200086",
+          "affiliation": null
+        },
+        {
+          "name": "A. Castillo",
+          "author_id": "40626024",
+          "affiliation": null
+        },
+        {
+          "name": "Colleen Monahan",
+          "author_id": "4682532",
+          "affiliation": null
+        },
+        {
+          "name": "Leticia Boughton Price",
+          "author_id": "2366199041",
+          "affiliation": null
+        },
+        {
+          "name": "Wandy Hernandez",
+          "author_id": "35259645",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract Background The burden of diabetes and obesity are greater for some racial-ethnic minority groups in the United States, including non-Hispanic blacks, underscoring the importance of raising community awareness of diabetes prevention. Community health workers (CHWs) play a critical role in extending our reach into communities to raise awareness of diabetes prevention. Systematic training and support are central to their work. Remote approaches have been helpful in delivering training to overcome common participation barriers. One remote approach, immersive 3D virtual worlds (VW) offer a unique approach to providing remote training incorporating engaging interactive contextual learning opportunities. Objective This study aimed to implement and evaluate an internet-based 3D VW model to remotely deliver an adapted CHW training program on diabetes prevention awareness for racial-ethnic minority communities. Methods A sequential mixed methods design, including a pre-post pilot and explanatory phase, examined the feasibility, acceptability, and impact of the VW training. Female CHWs who self-identified as African American or Black or African Ancestry, between 21\u201065 years of age, fluent in English, and with risk factors for diabetes were recruited. CHW input was gathered to adapt a Centers for Disease Control and Prevention\u2019s CHW diabetes prevention awareness training and the VW environment for this study. The final adapted training was standardized for delivery over 10 weeks. Quantitative and qualitative data were collected to examine acceptability, feasibility, and impact of the training model. Primary quantitative pre-post outcomes included training content knowledge and confidence; and secondary behavioral outcomes included motivation for lifestyle change and eating habits. Focus group feedback was collected on acceptability and feasibility during the explanatory phase. Quantitative descriptive and qualitative thematic analysis approaches were used to examine the acceptability, feasibility, and impact of the VW training model. Results A total of 26 CHWs initiated the study and 22 completed the postassessment. The majority of participants reported that their expectations were met across all sessions and content topics. Participants generally reported satisfaction with the information provided (20/22, 91% rated very good-excellent) and high levels of interactivity in the training (17/22, 77% rated very good-excellent). Results of the posttraining acceptability and feasibility quantitative survey and qualitative feedback were generally positive. Mean pre-post values improved across all quantitative outcomes for the VW training group (eg, 92% [11/12] improved in knowledge; 62% [8/13]\u201077% [10/13] improved across eating habits measures). Explanatory focus group findings were generally positive, highlighting satisfaction with the overall training, its interactivity, and content. The main constructive feedback was related to providing more training and support in using the avatar. Conclusions Findings on the acceptability, feasibility, and preliminary impact of the VW training model are promising and support continued use, development, and research on this approach.",
+      "journal": "JMIR Formative Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Identifying situation awareness training needs in anesthesia residents: a qualitative study",
+      "url": "https://www.semanticscholar.org/paper/c1304282233495c4107e134b8ae880ae693343c3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-04T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053554",
+      "doi": "10.5554/22562087.e1154",
+      "authors": [
+        {
+          "name": "Carolina Daza-Beltr\u00e1n",
+          "author_id": "1448522363",
+          "affiliation": null
+        },
+        {
+          "name": "F. Olmos-Vega",
+          "author_id": "1402721947",
+          "affiliation": null
+        },
+        {
+          "name": "Martha P. Caro Guti\u00e9rrez",
+          "author_id": "2386321658",
+          "affiliation": null
+        },
+        {
+          "name": "Erika Mu\u00f1oz Larsson",
+          "author_id": "2129547718",
+          "affiliation": null
+        },
+        {
+          "name": "Daniel R. Su\u00e1rez Venegas",
+          "author_id": "2386324137",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction: Loss of situational awareness (SA) accounts for 82% of incidents due to human error in anesthesia. Despite its importance, SA training has traditionally been informal and inconsistent. Integrating SA into residency training is essential to enhance resident performance.\nObjective: This pilot study aimed to identify SA training needs for anesthesia residents.\nMethods: A three-level training needs analysis was conducted: 1. Organizational level: focus groups with faculty members were held to identify critical competencies. 2. Task level: five surgical procedures were observed using eye-tracking glasses to detect observable undesired events (OUEs). 3. Personal level: Interviews with residents and faculty were conducted to analyze the causes of OUEs and learning gaps.\nResults: A total of 17 training needs were identified. First-year residents require skill development in perception and comprehension, second-year residents need to improve attentional skills, and third-year residents should focus on projection skills.\nConclusions: This qualitative observational study enabled the identification of gaps in SA training among anesthesiology residents. A total of 17 specific training needs were identified, which can be implemented in SA training programs for anesthesiology across various institutions. To ensure continuous evaluation and adaptation, it is recommended that these programs be progressively developed through high-fidelity clinical simulations, utilizing tools such as eye-tracking glasses.",
+      "journal": "Colombian Journal of Anesthesiology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Addressing Disparities in Psychological First Aid Awareness, Training, and Practice Among First Repsonders in Nigeria",
+      "url": "https://www.semanticscholar.org/paper/7348412c8e1b5af6c9e996a3b01e4ce3a44b2bda",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-26T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053567",
+      "doi": "10.1017/dmp.2025.10101",
+      "authors": [
+        {
+          "name": "O. Adewunmi",
+          "author_id": "2354079845",
+          "affiliation": null
+        },
+        {
+          "name": "Takeo Fujiwara",
+          "author_id": "2328361626",
+          "affiliation": null
+        },
+        {
+          "name": "N. Nawa",
+          "author_id": "51103288",
+          "affiliation": null
+        },
+        {
+          "name": "Yu Par Khin",
+          "author_id": "2106390982",
+          "affiliation": null
+        },
+        {
+          "name": "Mojisola Celina Adewunmi",
+          "author_id": "2368439896",
+          "affiliation": null
+        },
+        {
+          "name": "E. Lawal",
+          "author_id": "2354080063",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract Objectives This study examined if and how first responders in Nigeria provide Psychological First Aid to emergency victims. Key objectives include assessing first responders\u2019 awareness of Psychological First Aid, determining their level of PFA training and level of PFA utilization with emergency treatment. Methods A descriptive cross-sectional survey that adopted a mixed-method approach was utilized. This study was carried out among first responders living in Lagos State, Nigeria. The quantitative aspect of the study consisted of 386 respondents. In contrast, for the qualitative study, 17 participants were selected using snowball sampling across various strata of first responders based on their diverse roles and experience in emergency response. Results Findings from this study deduced that 59.6% of respondents were aware of, 27.2% were trained, and 38.3% practiced PFA. However, findings noted a significant difference in awareness based on education, as persons with tertiary education were 4.21 times more likely to be aware than those without (OR = 1.73-10.23). Qualitative findings revealed that respondents lacked access to opportunities to practice PFA due to the absence of protocols in their learning and practice environments. Conclusions This study highlights varying levels of awareness and training in Psychological First Aid (PFA) among respondents, indicating both opportunities and challenges in preparedness for emergency response. Strategies that promote PFA awareness among older age groups should be developed, and entry-level first responders should also receive PFA training.",
+      "journal": "Disaster Medicine and Public Health Preparedness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "The Development of the CAIRDE General Awareness Training",
+      "url": "https://www.semanticscholar.org/paper/bb4c083ba5e68ec750867b2e12400bd946a8c7ac",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-01T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053594",
+      "doi": "10.3390/ijerph22081306",
+      "authors": [
+        {
+          "name": "Jack Sweeney",
+          "author_id": "2295492123",
+          "affiliation": null
+        },
+        {
+          "name": "N. Richardson",
+          "author_id": "2282030381",
+          "affiliation": null
+        },
+        {
+          "name": "P. Carroll",
+          "author_id": "2238550773",
+          "affiliation": null
+        },
+        {
+          "name": "P. J. White",
+          "author_id": "2324147747",
+          "affiliation": null
+        },
+        {
+          "name": "Emilie Roche",
+          "author_id": "2295488427",
+          "affiliation": null
+        },
+        {
+          "name": "Shane O\u2019Donnell",
+          "author_id": "2238550577",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Suicide is a leading cause of death among construction workers, particularly younger and lower-skilled employees. Barriers such as stigma, low mental health literacy, and traditional masculine norms hinder help-seeking in this male-dominated sector. Few mental health interventions are tailored to this context. This study developed a co-designed, theory-informed training to improve mental health literacy, reduce stigma, and increase help-seeking among construction workers in Ireland. Using the Medical Research Council\u2019s framework, the training was developed with the Theory of Planned Behavior (TPB), Behavior Change Techniques, and extensive stakeholder co-design. Two systematic reviews, a broad literature review, and focus groups with industry managers informed the content and structure. The training will be pilot-tested using validated measures: the Literacy of Suicide Scale (LOSS), the Stigma of Suicide Scale (SOSS), and the General Help-Seeking Questionnaire (GHSQ), the results of which will be the subject of a separate study. CAIRDE is a promising, evidence-based training that addresses key mental health barriers in Irish construction. Embedding the TPB within a co-design methodology has resulted in the development of a training program that is underpinned by theoretical fidelity and cultural relevance and provides a framework for other male-dominated industries to draw upon. Future work should address remaining challenges related to stigma and help-seeking, and explore broader implementation through integration into mandatory safety training.",
+      "journal": "International Journal of Environmental Research and Public Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Comparison of the effectiveness of radiation protection principles training through multimedia and instructional booklet on the awareness of operating room staff",
+      "url": "https://www.semanticscholar.org/paper/29ca257c69d7578fa929d0a2945f3cc5dab5f306",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-08-27T21:24:19.053737",
+      "doi": "10.4103/jehp.jehp_1885_23",
+      "authors": [
+        {
+          "name": "Raheleh Charmchi",
+          "author_id": "2352947718",
+          "affiliation": null
+        },
+        {
+          "name": "Parisa Moradimajd",
+          "author_id": "51238518",
+          "affiliation": null
+        },
+        {
+          "name": "A. Saei",
+          "author_id": "78266238",
+          "affiliation": null
+        },
+        {
+          "name": "Reza Paydar",
+          "author_id": "2352949616",
+          "affiliation": null
+        },
+        {
+          "name": "J. Abolghasemi",
+          "author_id": "7022645",
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Training and awareness regarding radiation protection is crucial for medical staff and operating room personnel to prevent potential hazards from radiation exposure. Various methods are employed to increase the awareness of operating room staff regarding radiation protection principles. This study aimed to evaluate the effectiveness of two training methods, multimedia presentations and instructional booklets, in enhancing the awareness of operating room staff toward radiation protection principles. MATERIALS AND METHODS: In this semi-experimental study, 60 anesthesia and operating room technologists, were purposefully selected and randomly (utilizing an engineering calculator) divided into two intervention groups and one control group. The first group received multimedia-based training, while the second group was provided training through an instructional booklet. Data was collected using a researcher-designed questionnaire before the intervention and again 30 days afterward. Subsequently, the data were analyzed using SPSS version 26, employing analysis of covariance) ANCOVA (and the Bonferroni post hoc test to compare the outcomes among the three groups. RESULTS: No significant difference in mean awareness scores was observed among the three groups before the intervention) P = 0.075(. After the intervention, both multimedia and instructional booklet-based education showed significant improvement in awareness scores compared to the control group) P < 0.001(. Furthermore, the differences between the mean awareness scores of the multimedia-based group and the instructional booklet-based group, as well as the multimedia-based group and the control group, were 26.25 and 40.95, respectively, both statistically significant (P < 0.001). DISCUSSION: The current research findings indicate the effectiveness of both educational methods. However, the multimedia-based education method proved to be more effective in increasing the awareness levels of the study participants compared to the other two groups which is important to increase compliance with standards and implement hospital accreditation criteria to ensure the safety of operating rooms personnel against radiation. Therefore, based on this study\u2019s results, this educational approach is recommended for teaching topics related to radiation protection principles.",
+      "journal": "Journal of Education and Health Promotion",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "The effectiveness of a Mindful Yoga and Common Yoga intervention on emotion regulation and well-being of adolescents; A nonrandomized quasi-experimental study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42647445/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-08-27T21:24:54.416620",
+      "doi": "10.1371/journal.pone.0355375",
+      "authors": [
+        {
+          "name": "Jobin K",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lena Ashok",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M Manjula",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Teddy Andrews J J",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vani Lakshmi R",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Soyuz John",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: Yoga programs have gained wide attention in school settings to promote adolescent mental health. However, comparative evaluations of distinct yoga-based approaches are limited. This study examined the effectiveness of a Mindful Yoga and Meditation (MYM) program and the Common Yoga Protocol (CYP) in reducing psychological distress and enhancing mindfulness, emotion regulation, and overall well-being among secondary school students in India. METHODS: The study employed a quasi-experimental design. A total of 147 students were assigned to three groups: MYM, CYP, and waitlist-control. Both interventions were conducted over 21 days, with assessments at baseline (T1), post-intervention (T2), and 3-month follow-up (T3). The outcome measures included psychological distress (K10), mindfulness (CAMM), emotion regulation (ERQ-CA), and well-being (WHO-5). A linear mixed model was employed to examine the main effects of group and time, as well as the group\u2009\u00d7\u2009time interaction, across all outcome measures. RESULTS: Both the MYM and CYP groups showed significant improvements compared to the control group. The MYM participants demonstrated greater and more sustained gains in mindfulness (p\u2009<\u2009.001), cognitive reappraisal (p\u2009=\u2009.026), and well-being (p\u2009<\u2009.001), along with larger reductions in distress (p\u2009<\u2009.001) and expressive suppression (p\u2009<\u2009.001). While CYP was effective, its benefits were comparatively smaller and less durable when compared to MYM. No significant changes were observed in the control group. CONCLUSION: The findings support the feasibility and effectiveness of brief school-based yoga interventions in promoting adolescent mental health. Importantly, integrating mindfulness into yoga practices (as in MYM) yielded superior outcomes, emphasizing the added value of mindful components.",
+      "journal": "PloS one",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Smartphone-Delivered MBRP and Quality of Life among Individuals With Opioid Use Disorder: A Pilot Before-After Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42656940/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-01T00:00:00",
+      "date_fetched": "2026-08-27T21:25:04.725438",
+      "doi": "10.1002/hsr2.73103",
+      "authors": [
+        {
+          "name": "Shadi Dashtbani",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hadi Ramesh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Narges Norouzkhani",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ali Saghebi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Atefeh Khoshkangin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mohammad Reza Mazaheri Habibi",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Mindfulness-Based Relapse Prevention (MBRP) combines mindfulness practice with relapse-prevention strategies and has demonstrated efficacy in improving psychological well-being among individuals with substance use disorders. This pilot study evaluated quality-of-life changes following an audio-based mobile MBRP application delivered as an adjunct to methadone maintenance treatment (MMT) among individuals with opioid use disorder (OUD). MATERIALS AND METHODS: This single-arm before-after study included 14 male participants with OUD receiving MMT at two addiction treatment clinics. Participants used the MBRP application for 8 weeks alongside routine care. Quality of life was assessed using the SF-36 at baseline, post-intervention, and 3-month follow-up. Session completion was monitored through weekly clinician-verified contacts. Substance use and relapse status were monitored descriptively as secondary clinical indicators. RESULTS: Mean SF-36 scores increased from 40.34\u2009\u00b1\u200911.26 at baseline to 66.57\u2009\u00b1\u200913.39 post-intervention and remained above baseline at follow-up (57.76\u2009\u00b1\u200910.89). Significant improvements were observed from baseline to post-intervention (mean difference = 26.23, 95% CI: 17.73-34.73,  CONCLUSION: Participation in the mobile MBRP application was associated with quality-of-life improvements remaining above baseline at 3-month follow-up, supporting feasibility in routine addiction-treatment settings. Randomized controlled trials with addiction-specific outcomes, standardized acceptability instruments, and objective engagement analytics are needed to establish effectiveness.",
+      "journal": "Health science reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "\"It Would Be a Program That is Made for Me and Sees Me\": Adapting an Online, Cognitive Behavioral and Mindfulness-Based Sexual Wellbeing Intervention for Transgender Women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648726/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-26T00:00:00",
+      "date_fetched": "2026-08-27T21:25:04.725846",
+      "doi": "10.1080/00224499.2026.2719853",
+      "authors": [
+        {
+          "name": "K E Kabel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "A J Barnett",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "V Riley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "M R Fertig",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "G Willner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "G Valera",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "C Vuong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S L Reisner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "K R Stephenson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "L A Brotto",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "A M Stanton",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "There are limited psychosocial interventions that address the unique sexual concerns of transgender women. We adapted ",
+      "journal": "Journal of sex research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Decreased accumbens-amygdala connectivity is associated with sleep improvement in late-life depression following mindfulness-based cognitive therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648548/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-26T00:00:00",
+      "date_fetched": "2026-08-27T21:25:04.725933",
+      "doi": "10.1016/j.jad.2026.122433",
+      "authors": [
+        {
+          "name": "Qianwen Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hui Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shichang Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xiao Lin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ximei Zhu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sizhen Su",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wei Sun",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Manqiu Sui",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lin Lu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiahui Deng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xinyu Sun",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Mindfulness-based cognitive therapy (MBCT) may improve sleep in major depressive disorder. This secondary analysis of a randomized controlled trial examined the effects of adjunctive MBCT on sleep quality and explored neural correlates of sleep improvement in late-life depression (LLD). METHODS: Sixty participants with LLD were randomized to 8-week MBCT plus Treatment as Usual (TAU) or TAU alone (ChiCTR1800017725). Subjective and objective sleep quality were assessed using the Pittsburgh Sleep Quality Index (PSQI) and cardiopulmonary coupling (CPC), respectively. In the MBCT+TAU group, post-treatment differences in functional connectivity between the meditation and resting states were examined, and associations with changes in sleep outcomes were analyzed. RESULTS: Global PSQI scores showed greater short-term improvement in the MBCT+TAU group than in the TAU group (p for interaction\u202f=\u202f0.02). At Week 8, the between-group difference in change in global PSQI scores was -3.80 (95% CI, -6.50 to -1.10), but was nonsignificant at 3-month follow-up. Stable sleep also increased more in the MBCT+TAU group (difference in change, 0.94\u202fh; 95% CI, 0.17 to 1.71). Reduced right nucleus accumbens-left amygdala functional connectivity during meditation relative to the resting state was associated with greater increases in stable sleep duration (r\u202f=\u202f0.45, p\u202f=\u202f0.013). CONCLUSION: Adjunctive MBCT was associated with greater short-term improvement in subjective and objective sleep quality in LLD. Reduced right nucleus accumbens-left amygdala functional connectivity during meditation relative to the resting state was associated with increased stable sleep duration. MBCT may represent a promising adjunctive non-pharmacological intervention for sleep disturbances in LLD.",
+      "journal": "Journal of affective disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effectiveness of mindfulness interventions for depressive symptoms in young people: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648550/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-26T00:00:00",
+      "date_fetched": "2026-08-27T21:25:04.726101",
+      "doi": "10.1016/j.jad.2026.122420",
+      "authors": [
+        {
+          "name": "E Meirelles",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "J F Gleeson",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "UNLABELLED: Depression is a leading contributor to global disease burden, with onset commonly occurring in young people. Mindfulness interventions (MIs) are an increasingly popular approach for addressing depressive symptoms in this population. This study aimed to evaluate the effectiveness of MIs in reducing depressive symptoms and to examine whether a range of variables, including MI type, potentially influence effectiveness. METHOD: This systematic review searched PsycINFO, MEDLINE, Web of Science, and Embase for controlled trials involving participants aged 14-27\u202fyears reporting depressive symptoms. Twenty-eight studies met inclusion criteria, of which 25 were included in a meta-analysis. A random-effects model was used to estimate pooled Hedges' g at end of treatment, and MI type was examined as a moderator. RESULTS: MIs were significantly more effective than control conditions in reducing depressive symptom severity, with a small pooled effect size (g\u202f=\u202f-0.32, p\u202f<\u202f.001). MI type did not significantly moderate outcomes, suggesting no single MI was superior in effectiveness. Despite moderate heterogeneity, effects were broadly consistent across populations, delivery modes, and comparator conditions. Narrative synthesis of follow-up data suggested that benefits may be maintained over time, although findings were mixed. LIMITATIONS: Follow-up outcomes were not meta-analysed due to inconsistent reporting, and residual heterogeneity remained. CONCLUSIONS AND IMPLICATIONS: MIs demonstrate reliable, small effectiveness in reducing depressive symptoms in young people and represent flexible, scalable interventions. Future research should examine key moderators and isolate the specific contribution of mindfulness within multi-component interventions.",
+      "journal": "Journal of affective disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Navigating Adversity in Older Age: An Integrative Review of Contemporary Resilience Concepts and Measurement Challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42645015/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-08-20T00:00:00",
-      "date_fetched": "2026-08-26T12:27:12.263219",
-      "doi": null,
+      "date_fetched": "2026-08-27T21:25:04.726279",
+      "doi": "10.3390/geriatrics11040111",
       "authors": [
         {
-          "name": "C M Steele",
+          "name": "Chonlakarn Songsri",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "C Corbett",
+          "name": "Pras Ramluggun",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "N McElroy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "C Smyth",
+          "name": "Pimwalunn Aryuwat",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "AIM: To explore participant's experience of a pilot, curriculum-based mindfulness and personal reflection program on the resilience levels and well-being of 3rd year trainee General Practitioners (GP's). METHODS: 3rd year trainee GP's were invited to participate in four morning sessions, plus one retreat day program which was incorporated into the trainees 3rd year curriculum. Volunteers from the intervention group were then invited to take part in a focus group aimed at exploring their experiences and perspectives in greater depth. The qualitative data gathered from the focus group was analysed using thematic analysis to identify common themes and insights. RESULTS: The focus group identified a number of themes including; quality of programme delivery and content, the experience of a safe space, the relevance of the content to the wider GP role, the uptake of skills such as mindfulness and the impact of these skills on stress management. Limitations and challenges to sustainable practice were also identified. DISCUSSION: Medical students are at high risk of psychological distress, depression, and suicidality. The health and well-being of doctors is key to supporting the quality and safety of patient care. More needs to be done to build a sustainable and resilience work force for the future.",
-      "journal": "Irish medical journal",
+      "abstract": null,
+      "journal": "Geriatrics (Basel, Switzerland)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -70,123 +1069,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Group and online application of the Unified Protocol in Argentina: controlled pilot study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42639813/",
+      "title": "Effects of mindfulness training on running performance in a tropical climate.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42648034/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-08-25T00:00:00",
-      "date_fetched": "2026-08-26T12:27:22.526487",
-      "doi": "10.1080/16506073.2026.2720138",
+      "date_published": "2026-08-26T00:00:00",
+      "date_fetched": "2026-08-27T21:25:04.726400",
+      "doi": "10.1016/j.actpsy.2026.107707",
       "authors": [
         {
-          "name": "Marcela Kaplan",
+          "name": "Nicolas Robin",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Milagros Celleri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Florencia Klajner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Camila Cremades",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cristian Garay",
+          "name": "Shelly Ruart",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Emotional disorders (ED), including anxiety and depression, are highly prevalent in Argentina and share dysfunctional emotional regulation mechanisms. The Unified Protocol (UP) is a transdiagnostic intervention designed to address these common processes. This is the first randomized controlled trial (RCT) to evaluate its effectiveness on a group and online format in the Argentinian population. A parallel-group RCT was conducted with 39 participants (mean age\u2009=\u200933.54; 67% women) diagnosed with various EDs according to DSM-5 criteria. Subjects were randomly assigned to a treatment group (",
-      "journal": "Cognitive behaviour therapy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Association Between Physical Exercise and Sleep Quality Among Junior Middle School Students: The Mediating Role of Social Support and the Moderating Role of Mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42640833/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-25T00:00:00",
-      "date_fetched": "2026-08-26T12:27:22.527093",
-      "doi": "10.1080/00221325.2026.2716728",
-      "authors": [
-        {
-          "name": "Wenge Guo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zilong Nie",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yang Wu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kelei Guo",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study explores the relationship between physical exercise and sleep quality, focusing on the mediating role of social support and the moderating role of mindfulness. The sample included 1,023 junior middle school students (51.22% females; mean age = 13.59\u2009\u00b1\u20090.84\u2009years). Participants completed measures of physical exercise, sleep quality, social support, and mindfulness. Data were analyzed using descriptive statistics, bias-corrected bootstrap procedures, and Hayes' PROCESS macro for SPSS (Models 4 and 59). The results showed that 24.73% of the participants screened positive for sleep problems (Pittsburgh Sleep Quality Index (PSQI) > 7), and physical exercise was significantly positively associated with sleep quality. Social support played a significant mediating role in the relationship between physical exercise and sleep quality. Mindfulness significantly moderated the association between social support and sleep quality and the residual direct association between physical exercise and sleep quality, but did not significantly moderate the association between physical exercise and social support. At higher levels of mindfulness, the positive associations of physical exercise and social support with sleep quality were stronger. These findings revealed the roles of social support and mindfulness in the association between physical exercise and sleep quality and provided a new perspective for sleep-health promotion among junior middle school students. Schools, families, and communities should coordinate efforts to promote physical exercise, strengthen social support, and cultivate mindfulness among junior middle school students.",
-      "journal": "The Journal of genetic psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness- and relaxation-based interventions for Premenstrual Syndrome: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42642977/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-08-25T00:00:00",
-      "date_fetched": "2026-08-26T12:27:22.527598",
-      "doi": "10.1080/03630242.2026.2719876",
-      "authors": [
-        {
-          "name": "Adebimpe Obembe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jasmine Ramos",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Emily Reis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Grace Souerdyke",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kristan Pilakowski",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Premenstrual syndrome (PMS) affects many women of reproductive age, often disrupting daily activities. Mindfulness- and relaxation-based techniques, such as yoga and progressive muscle relaxation techniques, can alleviate both physical and psychosocial symptoms associated with PMS. This systematic review synthesized existing evidence on the effects of mindfulness and relaxation interventions on the physical and psychosocial functioning of women experiencing PMS. The searches were conducted across five databases (PubMed, CINAHL Complete, ProQuest, MasterFILE Complete, and JSTOR Life Sciences) and two publisher websites (Wiley and Mary Ann Liebert, Inc.). This review followed the PRISMA guidelines and evaluated the quality of individual studies. Included were reproductive-age women using mindfulness or relaxation techniques for premenstrual symptoms in peer-reviewed intervention studies published between December 2015 and December 2025. This review included 22 studies involving 1,598 participants, comprising 13 RCTs, 7 non-RCTs, and 2 studies without a control group. The interventions included yoga (4), guided imagery (2), mindfulness-based cognitive behavioral therapy (2), progressive muscle relaxation (6), and other programs (5). One study each used an occupational therapy intervention, meditation, and counseling. The interventions typically lasted 20-60\u2009minutes (18/22), and 19 studies evaluated PMS symptom severity. Mindfulness-and relaxation-based interventions decreased physical symptoms such as pain and fatigue, and psychosocial symptoms such as anxiety, depression, stress, and sexual function, resulting in an improved quality of life. Mindfulness- and relaxation-based interventions are associated with meaningful improvements in psychosocial, physical, and functional outcomes for PMS, although the evidence remains limited. These approaches may be considered as components of comprehensive, occupation-based care to support participation and overall well-being.",
-      "journal": "Women & health",
+      "abstract": "Tropical climates can impair aerobic performance and alter psychological responses during exercise. Mindfulness-based intervention has been associated with improvements in sport performance; however, to our knowledge, no studies have examined their effects on running performance in a Tropical Climate (TC). The present study aimed to investigate whether a 6-week mindfulness intervention was associated with improved running performance and more favourable psychological responses during exercise in a TC. Thirty-two university students (M",
+      "journal": "Acta psychologica",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -196,16 +1099,16 @@
   ],
   "articles": [
     {
-      "title": "Adam Hamilton and Taking Back Religion from the Right",
-      "url": "https://www.newyorker.com/news/the-lede/adam-hamilton-and-taking-back-religion-from-the-right",
+      "title": "A \u2018Boring\u2019 Democrat the Party Wants to Emulate",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/roy-cooper-democrat-success/688441/?utm_source=feed",
       "item_type": "article",
       "source_type": "rss",
-      "date_published": "2026-08-26T10:00:00",
-      "date_fetched": "2026-08-26T12:27:22.838025",
+      "date_published": "2026-08-27T20:46:00",
+      "date_fetched": "2026-08-27T21:25:05.465835",
       "doi": null,
       "authors": [
         {
-          "name": "Bill McKibben",
+          "name": "David A. Graham",
           "author_id": null,
           "affiliation": null
         }
@@ -213,8 +1116,8 @@
       "abstract": null,
       "journal": null,
       "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "Democratic socialists are getting more of the attention, but Democratic Christians may prove more influential this November.",
+      "source_name": "The Atlantic",
+      "excerpt": "North Carolina Senate candidate Roy Cooper is getting a lot of national attention, but the lessons of his campaign may not be transferable.",
       "relevance_score": 1,
       "matched_keywords": [
         "attention"
