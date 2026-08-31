@@ -1,616 +1,947 @@
 {
-  "generated_at": "2026-08-30T15:40:27.773549",
+  "generated_at": "2026-08-31T18:22:37.916437",
   "papers": [
     {
-      "title": "A Novel Virtual Reality-Based Nature Meditation Program for Older Adults\u2019 Mental Health: Results from a Pilot Randomized Controlled Trial",
-      "url": "https://www.semanticscholar.org/paper/886eef38e9845a9b58e25ac93c23fc937ba946d8",
+      "title": "An Exploratory Functional Near-infrared Spectroscopy Study of Prefrontal Cortex Connectivity during Body Scan Meditation",
+      "url": "https://www.semanticscholar.org/paper/10dab5e37a759a96e421efe313ef809b630c13d9",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-28T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647054",
-      "doi": "10.1080/07317115.2025.2482089",
+      "date_published": "2025-05-13T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.895846",
+      "doi": "10.9758/cpn.25.1277",
       "authors": [
         {
-          "name": "I. Sadowski",
-          "author_id": "40910822",
+          "name": "Seungho Kim",
+          "author_id": "2144265130",
           "affiliation": null
         },
         {
-          "name": "Marianne Meilleur-B\u00e9dard",
-          "author_id": "2352426421",
+          "name": "Jihyun Nam",
+          "author_id": "2309378898",
           "affiliation": null
         },
         {
-          "name": "Bassam Khoury",
-          "author_id": "2248897878",
+          "name": "Sang Won Lee",
+          "author_id": "2152572171",
           "affiliation": null
         }
       ],
-      "abstract": "ABSTRACT Objectives The rapid aging of the global population necessitates innovative interventions to address older adults\u2019 mental health. This pilot study evaluated the feasibility, acceptability, and preliminary efficacy of a 4-week, 8-session nature-mindfulness-compassion program using immersive virtual reality (Embodied-and-Embedded-Mindfulness-Compassion-Framework \u2013 Virtual-Reality (EEMCF-VR)) for older adults\u2019 mental health. Methods Following a mixed-methods, two-arm, open-label RCT design, 24 older adults (Mage\u2009=\u200975.1, SD\u2009=\u20096.58) were randomly assigned to EEMCF-VR (n\u2009=\u200912) or a psychoeducational pamphlet control group (n\u2009=\u200912). Participants completed self-report assessments of stress, positive and negative emotions, coping self-efficacy, psychosocial well-being, mindfulness, and nature connectedness at baseline (T1), midpoint (T2), post-intervention (T3), and 4-week follow-up (T4). Additionally, the EEMCF-VR group completed program feedback (T3) and simulator sickness (T1-T3) questionnaires. Results EEMCF-VR met feasibility benchmarks (recruitment targets achieved, attrition\u2009<\u200915%) and was well-tolerated (minimal simulator sickness). Participant feedback indicated high acceptability. The EEMCF-VR group reported significantly lower stress and negative emotions at T2 and T4 compared to controls. Qualitative analysis highlighted perceived benefits and components to retain (e.g. video content) or refine (e.g. headset weight). Conclusions EEMCF-VR demonstrated feasibility and acceptability, with promising effects on stress and mood, warranting investigation in larger trials. Clinical Implications EEMCF-VR shows potential as a scalable intervention to reduce older adults\u2019 emotional distress.",
-      "journal": "Clinical Gerontologist",
+      "abstract": "Objective Body scan meditation is a popular mindfulness practice in which a person directs their attention toward internal bodily sensations. Although its neural mechanisms have been investigated using functional magnetic resonance imaging, few studies have used functional near-infrared spectroscopy (fNIRS) to directly measure prefrontal networks during body scan meditation. Methods In this study, symptoms of depression and anxiety were measured in 40 healthy young adults without prior meditation experience. Participants\u2019 prefrontal networks were evaluated using fNIRS during body scan meditation and resting with nature sounds. Results Analyses of fNIRS data revealed significant positive prefrontal network connectivity in both conditions, with greater connectivity between the dorsolateral prefrontal cortex and medial prefrontal cortex observed when participants were resting with nature sounds than during body scan meditation. Correlation analyses showed that the left dorsolateral superior frontal gyrus\u2013right medial superior frontal gyrus connectivity during body scan meditation was negatively associated with depressive and anxiety symptoms and positively associated with emotion regulation abilities. Conclusion Enhanced prefrontal networks induced by meditation may have therapeutic implications for mental health. The fNIRS findings, which measured direct changes in prefrontal networks during body scan meditation, could serve as a cornerstone for understanding the neural correlates.",
+      "journal": "Clinical Psychopharmacology and Neuroscience",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Effects of long-term mindfulness meditation training on attentional capacity in professional male fencer athletes",
-      "url": "https://www.semanticscholar.org/paper/0aab8449a620c2ea71fa9820fda2f024cd1dfc04",
+      "title": "The Effects of Mindfulness-Based Body Scan Meditation on Physical and Psychological Outcomes Following ACL-Reconstruction in an Adolescent Volleyball Player: A Case Report",
+      "url": "https://www.semanticscholar.org/paper/ebf2598d7b3acb43976ae27e583a2b777ffa2aa3",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-15T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647067",
-      "doi": "10.1038/s41598-025-97179-w",
+      "date_published": "2025-10-07T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.895872",
+      "doi": "10.2519/josptcases.2025.0156",
       "authors": [
         {
-          "name": "Hong Ding",
-          "author_id": "2356346019",
+          "name": "Stephanie M. Svoboda",
+          "author_id": "66019808",
           "affiliation": null
         },
         {
-          "name": "Lei Zhang",
-          "author_id": "2306199426",
-          "affiliation": null
-        },
-        {
-          "name": "Chao Ma",
-          "author_id": "2306373412",
-          "affiliation": null
-        },
-        {
-          "name": "Hebao Wen",
-          "author_id": "2306677426",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaojiang Zhao",
-          "author_id": "2191899261",
+          "name": "Jason R Kostrna",
+          "author_id": "151053509",
           "affiliation": null
         }
       ],
-      "abstract": "Attention is a crucial cognitive ability for sports performance. The current research aimed to investigate whether long-term mindfulness meditation (MM) intervention enhances male athletes\u2019 attentional function and alters the activity of brain regions related to attention. In this experiment, we recruited 47 professional male fencer athletes completed two main trials\u2014an MM trial and a control trial. In MM trial, the participants were provided with 3 sessions/wk (20 min/session) of mindfulness meditation training for 20 weeks. In control trial, the participants were instead assigned a mind-wandering related audio to listen to at that time. In each main trial, the five facets of mindfulness questionnaire (FFMQ), cognitive function (i.e. attention span, attention concentrativeness, attention stability, attentional network, distractibility and attentional blink), salivary cortisol, blood lactate and mental fatigue were measured at baseline (pretest) and after the intervention (posttest). The cerebral oxygenation status was recorded using functional near-infrared spectroscopy(fNIRS) during the cognitive function test. In cognition test, participants\u2019 attention span, attention concentrativeness, attention stability, attentional networks on task-relevant information (targets) were better in the MM group, supported by eliciting increased oxygenated haemoglobin (HbO) concentration in the prefrontal cortex of the brain. Conversely, there are no remarkable different of distractibility and attentional blink on task-irrelevant information in the MM group than in the Con group (p\u2009>\u20090.05). Moreover, a lower mental fatigue level and lower salivary cortisol concentration were observed in the MM group than in the Con group after the intervention at posttest. Overall, 20-week MM training interventions after physical training improve attentive capacity and cerebral oxygenation concentration, decrease salivary cortisol concentrations and mental fatigue. The findings suggest that long-term MM training interventions after physical training facilitates focus during competition and improves athletic performance.",
-      "journal": "Scientific Reports",
+      "abstract": "PURPOSE: This case report describes the use of a mindfulness-based body scan meditation (MBBSM) on self-knee flexion ROM following anterior cruciate ligament reconstruction (ACL-R) surgery in an adolescent female. Secondary goals were to describe pain, anxiety, mood, and overall physical functioning during the first six weeks following surgery. CASE DESCRIPTION: A mindfulness intervention was added to the rehabilitation of an adolescent volleyball player. OUTCOMES: Knee flexion ROM and physical function improved through the acute phase of physical therapy. Pain, anxiety, and mood all responded positively. The participant found the meditation helpful and enjoyable. The meditation required minimal time and training, and there was no added cost to the plan of care. WHAT THIS ADDS TO EVIDENCE: This case report describes the feasibility and effectiveness of MBBSM in an adolescent female participating in ACL-R rehabilitation to support physical and psychological well-being.",
+      "journal": "JOSPT Cases",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Meditation and complexity: a review and synthesis of evidence",
-      "url": "https://www.semanticscholar.org/paper/922c034a34e6ff906ba1ebbe75fe48e7fff301b9",
+      "title": "Comparing the Effects of Yoga Nidra and Body Scan Meditation on Pain Outcomes",
+      "url": "https://www.semanticscholar.org/paper/56da2eb6fc2139461d53886719bdc0f5fdb98dce",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-28T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647078",
-      "doi": "10.1093/nc/niaf013",
+      "date_published": "2025-09-01T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.895895",
+      "doi": "10.4103/ijoy.ijoy_2_25",
       "authors": [
         {
-          "name": "Daniel A Atad",
-          "author_id": "2339620253",
+          "name": "Violette Gibbs",
+          "author_id": "2341064794",
           "affiliation": null
         },
         {
-          "name": "P. Mediano",
-          "author_id": "7486237",
+          "name": "W. Hanney",
+          "author_id": "5039003",
           "affiliation": null
         },
         {
-          "name": "Fernando E. Rosas",
-          "author_id": "2345011194",
-          "affiliation": null
-        },
-        {
-          "name": "Aviva Berkovich-Ohana",
-          "author_id": "1403270222",
+          "name": "A. Anderson",
+          "author_id": "2403148280",
           "affiliation": null
         }
       ],
-      "abstract": "Abstract Recent years have seen growing interest in the use of metrics inspired by complexity science for the study of consciousness. Work in this field has shown remarkable results in discerning conscious from unconscious states, and in characterizing states of altered conscious experience following psychedelic intake as involving enhanced complexity. Here, we study the relationship between complexity and a different kind of altered state of consciousness: meditation. We provide a scoping review of the growing literature studying the complexity of neural activity in meditation, disentangling different families of measures, short-term (state) from long-term (trait) effects, and meditation styles. Beyond families of measures used, our review uncovers a convergence toward identifying higher complexity during the meditative state when compared to waking rest or mind-wandering and decreased baseline complexity as a trait following regular meditation practice. In doing so, this review contributes to guide current debates and provides a framework for understanding the complexity of neural activity in meditation, while suggesting practical guidelines for future research.",
-      "journal": "Neuroscience of Consciousness",
+      "abstract": "Background: Chronic pain significantly impacts quality of life. Mind\u2013body interventions (MBIs), such as yoga nidra and body scan, show promise in managing pain. Yoga nidra incorporates intention-setting, visualization, and relaxation, whereas body scan focuses on somatic awareness. While prior literature has applied meditation as a therapeutic intervention in individuals with chronic pain, limited literature has compared the effects of yoga nidra and body scan on pain outcomes. Aims: The aim of the study was to compare the immediate effects of yoga nidra and body scan on pain intensity, pain anxiety, well-being, and optimism in adults with chronic pain. Methods: A quasi-experimental study with 23 participants experiencing chronic pain was conducted. Participants underwent either a 45-min yoga nidra (n = 12) or body scan session (n = 11). Outcomes were assessed pre-, post-, and 24-h post intervention. Results: Both interventions significantly reduced pain intensity and pain-related anxiety over time (P < 0.01), with reductions observed regardless of group. Yoga nidra demonstrated greater improvements in well-being immediately post intervention compared to body scan (P = 0.01). No significant differences or main effects were found between groups for optimism (P = 0.60). Conclusion: Both yoga nidra and body scans reduce pain intensity and pain-related anxiety. Yoga nidra uniquely enhances well-being, supporting its use as a therapeutic MBI for chronic pain.",
+      "journal": "International Journal of Yoga",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Toward a Unified Model of Advanced Meditation, Human Development, Meditation Maps, and Transtradition Metaphors: Facing Impermanence, Suffering, and Death",
-      "url": "https://www.semanticscholar.org/paper/35fb5850f4da5a7273662a3d796a1e0d6bb362a2",
+      "title": "The Effects of Body Scan Meditation on Depression, Anxiety, Stress, and Impulsivity among Alcohol-Related Offenders",
+      "url": "https://www.semanticscholar.org/paper/7c7e262461f74e81059f3d87cea5a39cb58a8f43",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-07-29T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647121",
-      "doi": "10.1007/s12671-025-02632-6",
+      "date_published": "2026-04-30T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.895927",
+      "doi": "10.35422/cwsk.2026.91.51",
       "authors": [
         {
-          "name": "T. Sparby",
-          "author_id": "51294643",
+          "name": "Jiwoong Song",
+          "author_id": "2434782955",
           "affiliation": null
         },
         {
-          "name": "M. Sacchet",
-          "author_id": "2324309146",
+          "name": "Hyunsuk Han",
+          "author_id": "2115570180",
           "affiliation": null
         }
       ],
-      "abstract": "While there exists a large body of research on the possibility of measuring certain aspects of human development, what might be called inner development has mostly been neglected, in particular as it pertains to advanced meditation. A central aspect of this kind of development, which we call meditative development, is associated with access to bliss, peace, wisdom, and the reduction of suffering, which have been regarded as highly desirable or even ultimate aims of human life. The potential for such development is currently being scientifically studied and developmentally mapped. While the use of maps to guide meditation during practice has been criticized, the conceptualization of a transformative process involving a metaphorical death and rebirth, or the dissolution of an old identity and the emergence of a new one, is common across various wisdom traditions. In the meditative traditions, some maps, such as the one described by Mah\u0101s\u012b Say\u0101daw, describe this process in a way that is both highly detailed and grounded in experience. Here, we propose an outline of the process of metaphorical \u201cdeath and rebirth\u201d in advanced meditation, which may form a foundation for the scientific investigation of meditative development and support a deeper understanding of what it means to be human.",
+      "abstract": "This study aimed to examine the effects of body scan meditation on depression, anxiety, stress, and impulsivity among alcohol-related offenders. A total of 30 inmates from A correctional facility in Jeonbuk Province were randomly assigned to either an experimental group or a control group. The experimental group participated in six sessions of body scan meditation over a two-week period. The results indicated that the experimental group showed lower levels of depression, anxiety, stress, and impulsivity, and higher levels of interoceptive awareness compared to the control group. In particular, reductions in depression and stress, as well as improvements in interoceptive awareness, were statistically significant. Moreover, body scan meditation contributed to maintaining stable levels of anxiety and impulsivity. These findings suggest that body scan meditation can be effectively applied to reduce psychological distress and promote stable mental states among inmates with alcohol-related offenses. Despite the limitations of correctional settings, this intervention demonstrates potential as a practical approach to enhancing psychological well-being in incarcerated populations.",
+      "journal": "The Correction Welfare Society of Korea",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Exploring Visceral Body Scan, Somatosensory Body Scan, and External Meditation: A Randomized Controlled Pilot Study",
+      "url": "https://www.semanticscholar.org/paper/7527467c95cb778e4169ec180d3934aae8d88699",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-01T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.895956",
+      "doi": "10.1007/s12671-025-02631-7",
+      "authors": [
+        {
+          "name": "Lorena Desdentado",
+          "author_id": "2103784282",
+          "affiliation": null
+        },
+        {
+          "name": "M. Miragall",
+          "author_id": "4675713",
+          "affiliation": null
+        },
+        {
+          "name": "Ausi\u00e0s Cebolla",
+          "author_id": "2092669077",
+          "affiliation": null
+        },
+        {
+          "name": "R. Llorens",
+          "author_id": "2282803597",
+          "affiliation": null
+        },
+        {
+          "name": "Catherine I. Andreu",
+          "author_id": "2365114251",
+          "affiliation": null
+        },
+        {
+          "name": "Diana Burychka",
+          "author_id": "51188252",
+          "affiliation": null
+        },
+        {
+          "name": "Reneta Slavkova",
+          "author_id": "2380292305",
+          "affiliation": null
+        },
+        {
+          "name": "R. Ba\u00f1os",
+          "author_id": "2126397394",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study aimed to (1) investigate the feasibility of three online-delivered mindfulness practices that emphasize different types of attentional focus: visceral body scan (VBS), somatosensory body scan (SBS), and external (non-body) meditation (ECM), and (2) gain insight into the potential effects of these interventions on interoceptive and other psychological outcomes. A pilot randomized controlled trial was conducted in a community-based sample recruited from social networks. It consisted of a 1-week online intervention of either VBS, SBS, or ECM. Feasibility measures included the study retention rate, adherence, mindfulness practice quality, mindfulness-related adverse effects, and acceptability. Several questionnaires on interoceptive, mindfulness, and emotional outcomes were administered before and after the intervention. A total of 48 adult individuals were enrolled. The retention rate was 66.20% and the adherence to the meditation practice was 56.53%. Acceptability and quality of the mindfulness practice were moderate, and most participants reported no adverse effects. We found some preliminary effects related to specific conditions (e.g., VBS was related to a decrease in attention to unpleasant bodily sensations), while other trends were found to be common among several conditions (e.g., VBS and SBS were associated with a preliminary decrease in the level of dampening of positive emotions). Our findings suggest that improvements in feasibility are needed before this study design can be applied in larger-scale research. Hence, some refinements for the study protocol are proposed. Implications and future directions for this area of research are also discussed. Preregistration This study was retrospectively registered in ClinicalTrials.gov on 31 January 2024 (NCT06237530).",
       "journal": "Mindfulness",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "The Effects of an Online Yoga Nidra Meditation on Subjective Well\u2010Being and Diurnal Salivary Cortisol: A Randomised Controlled Trial",
-      "url": "https://www.semanticscholar.org/paper/d5a2611548fc6e59ad6fef8f479f2390ccb09a24",
+      "title": "Assessing willingness and preference for body scan practices in ADHD: a survey study",
+      "url": "https://www.semanticscholar.org/paper/8d8fecf442daa89ce045009bedf9a1a20b4ff37d",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-15T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647147",
-      "doi": "10.1002/smi.70049",
+      "date_published": "2025-03-29T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.895965",
+      "doi": "10.1186/s12906-025-04842-w",
       "authors": [
         {
-          "name": "Esther N. Moszeik",
-          "author_id": "115284174",
+          "name": "Burcu G\u00f6z Tebrizcik",
+          "author_id": "2194799351",
           "affiliation": null
         },
         {
-          "name": "Nicolas Rohleder",
-          "author_id": "2298373774",
+          "name": "Alexandra L. Georgescu",
+          "author_id": "2268652072",
           "affiliation": null
         },
         {
-          "name": "Karl-Heinz Renner",
-          "author_id": "2255380006",
+          "name": "E. Dommett",
+          "author_id": "5716271",
           "affiliation": null
         }
       ],
-      "abstract": "ABSTRACT Yoga Nidra meditation has been increasingly examined in recent years for its potential to enhance psychological well\u2010being. However, few studies have examined its biological effects\u2014such as diurnal cortisol patterns particularly in larger samples using pre\u2010post designs. The primary objective of this randomised controlled trial was to examine both the psychological (stress, anxiety, depression, rumination, sleep, satisfaction with life) and the biological effects (diurnal salivary cortisol) of Yoga Nidra. Participants were randomly assigned to 1 of 2 intervention groups (EG1: 11 min Yoga Nidra, n = 101; EG2: 30 min Yoga Nidra, n = 80), an active control group (AC: 10 min music, n = 74), or a waitlist control group (WC, n = 107). The intervention was delivered online via pre\u2010recorded audio files and practiced ideally daily over 2 months. Significant improvements were observed for the 11\u2010min Yoga Nidra group compared to the WC (effect sizes d = 0.08\u20130.16). Regular practice was associated with reductions in total cortisol and steeper diurnal slopes. Additionally, the short form significantly reduced depression compared to the AC (d = 0.13). The long form of Yoga Nidra showed an increase in acting with awareness (d = 0.10) compared to the short form. It also exceeded the effects of EG1 when compared to the AC and WC, including a flatter cortisol wake\u2010up reaction. The importance of small effects through economic interventions for health\u2010promoting behaviour is highlighted.",
-      "journal": "Stress and Health",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Effects of mindfulness meditation combined with progressive muscle relaxation on sleep disorders, anxiety, and depression in patients with sarcopenia undergoing hemodialysis",
-      "url": "https://www.semanticscholar.org/paper/a58736175d6cbf2b99e640c6fa37f4d73562f8f7",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-13T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647182",
-      "doi": "10.3389/fpsyt.2025.1542028",
-      "authors": [
-        {
-          "name": "Yongyao Wu",
-          "author_id": "2301953503",
-          "affiliation": null
-        },
-        {
-          "name": "Haojie Zhang",
-          "author_id": "2302033177",
-          "affiliation": null
-        },
-        {
-          "name": "Lei Jiang",
-          "author_id": "2112654888",
-          "affiliation": null
-        },
-        {
-          "name": "Zhiping Liu",
-          "author_id": "2382305779",
-          "affiliation": null
-        },
-        {
-          "name": "Xinfei Li",
-          "author_id": "93705625",
-          "affiliation": null
-        },
-        {
-          "name": "Bei Guo",
-          "author_id": "2334337872",
-          "affiliation": null
-        },
-        {
-          "name": "Junyuan Li",
-          "author_id": "2367000503",
-          "affiliation": null
-        },
-        {
-          "name": "Pengjie Xu",
-          "author_id": "2302703795",
-          "affiliation": null
-        },
-        {
-          "name": "Jiang Liu",
-          "author_id": "2302123708",
-          "affiliation": null
-        },
-        {
-          "name": "Rizhen Yu",
-          "author_id": "2302137747",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Objective Long-term physiological, psychological, economic, and lifestyle pressures make maintenance hemodialysis (MHD) patients prone to anxiety and depression. This study aims to evaluate the effects of mindfulness meditation combined with progressive muscle relaxation on sleep and emotional disorders in hemodialysis patients with sarcopenia. Methods Patients with uremic sarcopenia and sleep issues were randomly divided into a control group (n=24) and an intervention group (n=25), with an average age of 45.4 \u00b1 4.77 years and an average dialysis duration of 56.86 \u00b1 17.48 months. The control group received standard treatment (hemodialysis three times per week, medication, health education, dietary guidance, and exercise recommendations), while the intervention group additionally underwent home-based mindfulness and relaxation training for at least 0.5 hours daily over 12 weeks. Sleep quality, emotional states, and quality of life were assessed using the Pittsburgh Sleep Quality Index (PSQI), Self-Rating Depression Scale (SDS), Self-Rating Anxiety Scale (SAS), and 36-Item Short Form Health Survey (SF-36). Data analysis included descriptive statistics, t-tests, analysis of covariance, Mann-Whitney U tests, and chi-square tests. Results Before the intervention, there were no significant differences between the two groups in sleep, anxiety, depression, or quality of life (P>0.05). After the intervention, the intervention group showed significant improvements in all PSQI dimensions (e.g., sleep medication use, sleep quality, and sleep duration) (P<0.01), significant reductions in SAS and SDS scores (P<0.05), and significantly higher SF-36 scores compared to the control group (P<0.05). Conclusion Mindfulness and muscle relaxation training can alleviate psychological stress, reduce skeletal muscle tension, promote muscle anabolism, and significantly improve sleep quality, anxiety, and depression in hemodialysis patients with sarcopenia. This approach is simple, unrestricted, and widely applicable, making it worthy of clinical promotion. Limitations The study had a small sample size and a short follow-up period. Clinical trial registration https://register.clinicaltrials.gov/, identifier NCT06261372.",
-      "journal": "Frontiers in Psychiatry",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Effects of mindfulness breathing meditation on stress and cognitive functions: a heart rate variability and eye-tracking study",
-      "url": "https://www.semanticscholar.org/paper/1459c23c5fa8144f15c04a44070ce035047198fb",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-24T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647209",
-      "doi": "10.1038/s41598-025-23727-z",
-      "authors": [
-        {
-          "name": "LY Hooi",
-          "author_id": "2269398586",
-          "affiliation": null
-        },
-        {
-          "name": "P. Chen",
-          "author_id": "7778722",
-          "affiliation": null
-        },
-        {
-          "name": "Kok Wei Tan",
-          "author_id": "2305162465",
-          "affiliation": null
-        },
-        {
-          "name": "M. de Vries",
-          "author_id": "2239186612",
-          "affiliation": null
-        },
-        {
-          "name": "H. K. Wong",
-          "author_id": "115121016",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness meditation has been suggested to protect mental health and enhance cognitive functions. However, the effectiveness of mindfulness breathing meditation for the general population in Malaysia has not been well documented. This study investigated the effects of mindfulness breathing meditation on perceived stress levels and cognitive functions (i.e., visual attention, inhibitory control, and cognitive flexibility) using heart rate variability (HRV) and eye-tracking methods. Fifty Malaysian adults aged between 18 and 34 years participated in this study. Participants were randomly allocated to either mindfulness breathing meditation or active control (music therapy) groups. Participants underwent a four-week intervention consisting of 30 min of online classes once a week and 10 min of daily meditation self-practice or music listening. The results showed significant improvement in cognitive flexibility and reduction in perceived stress levels after the intervention in the mindfulness breathing meditation group compared to the active control group. Participants in the mindfulness breathing meditation group self-reported this intervention as highly acceptable and effective in promoting stress reduction, emotional regulation, and attentional control. However, no significant improvement was found in attention, inhibitory control, and HRV after the intervention, suggesting that the mindfulness breathing meditation had no effect on these variables. While short-term engagement with mindfulness breathing meditation practice is achievable, the three-month follow-up using the Mindfulness Adherence Questionnaire showed that sustaining long-term adherence remains a challenge. The approved Stage 1 protocol can be found under \u201cFiles\u201d, named \u201cSR_HLY_Manuscript_OSF\u201d, via this link: https://doi.org/10.17605/OSF.IO/P67EG.",
-      "journal": "Scientific Reports",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Rapid shift of gut microbiome and enrichment of beneficial microbes during arhatic yoga meditation retreat in a single-arm pilot study",
-      "url": "https://www.semanticscholar.org/paper/3c08408ab05fa35721ca73e66798fd7cce165394",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-02-13T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647223",
-      "doi": "10.1186/s12906-025-04783-4",
-      "authors": [
-        {
-          "name": "Sanjay Swarup",
-          "author_id": "2259052957",
-          "affiliation": null
-        },
-        {
-          "name": "Abhishek Gupta",
-          "author_id": "2299113371",
-          "affiliation": null
-        },
-        {
-          "name": "Marianne Chung",
-          "author_id": "6450059",
-          "affiliation": null
-        },
-        {
-          "name": "Vaishnavi Radhakrishnan",
-          "author_id": "2345157459",
-          "affiliation": null
-        },
-        {
-          "name": "V. Davis",
-          "author_id": "47619223",
-          "affiliation": null
-        },
-        {
-          "name": "M. D. Lynch",
-          "author_id": "2265590109",
-          "affiliation": null
-        },
-        {
-          "name": "Trevor C. Charles",
-          "author_id": "2265588327",
-          "affiliation": null
-        },
-        {
-          "name": "Jiujun Cheng",
-          "author_id": "2265685205",
-          "affiliation": null
-        },
-        {
-          "name": "Glenn Mendoza",
-          "author_id": "2345155340",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The human microbiome plays a vital role in human health, mediated by the gut\u2013brain axis, with a large diversity of functions and physiological benefits. The dynamics and mechanisms of meditations on oral and gut microbiome modulations are not well understood. This study investigates the short-term modulations of the gut and oral microbiome during an Arhatic Yoga meditation retreat as well as on the role of microbiome in improving well-being through a possible gut-brain axis. A single-arm pilot clinical trial was conducted in a controlled environment during a 9-day intensive retreat of Arhatic Yoga meditation practices with vegetarian diet. Oral and fecal samples of 24 practitioners were collected at the start (Day0: T1), middle (Day3: T2), and end (Day9:T3) of the retreat. Targeted 16S rRNA gene amplicon sequencing was performed for both oral and gut samples. Functional pathway predictions was identified using phylogenetic investigation of communities by reconstruction of unobserved states (PICRUSt2). DESeq2 was used to identify the differential abundant taxa. Various statistical analyses were performed to assess the significant changes in the data. Our findings revealed that Arhatic Yoga meditation together with a vegetarian diet led to changes in the oral and gut microbiome profiles within the 9-day retreat. Oral microbiome profile showed a significant (p\u2009<\u20090.05) difference in the species richness and evenness at the end of study, while non-metric multidimensional scaling (NMDS) confirmed the shift in the gut microbiome profile of the practitioners by T2 timepoint, which was further supported by PERMANOVA analysis (p\u2009<\u20090.05). Health-benefiting microbes known to improve the gastrointestinal and gut-barrier functions, immune modulation, and gut-brain axis were enriched. Gut microbiome of both beginner and advanced Arhatic Yoga practitioners showed similar trends of convergence by the end of study. This implies a strong selection pressure by Arhatic Yoga meditation together with a vegetarian diet on the beneficial gut microbiome. This pilot study demonstrates that Arhatic Yoga meditation practices combined with a vegetarian diet during a short intensive retreat resulted in enrichment of known health-promoting microbes. Such microbial consortia may be developed for potential health benefits and used as probiotics to improve the gastrointestinal and immune systems, as well as functions mediated by the gut-brain axis. Study was submitted in https://clinicaltrials.gov/on28-02-2024. Retrospective registered.",
+      "abstract": "Attention deficit hyperactivity disorder (ADHD) is a common neurodevelopmental condition, but current treatment options are limited. Although medication is widely used, it does not fully address all challenges and can result in considerable side effects. One approach showing promise in alleviating symptoms is mindfulness. However, typical mindfulness-based stress reduction programmes require a significant time commitment, resulting in high attrition. Researchers have therefore started to focus on discrete components on mindfulness, including the body scan meditation. Before embarking on large-scale trials, it is helpful to understand the willingness and preferences for body scan practice. Using an online survey, we examined current mindfulness exercises and preferences, willingness, belief that it was feasible to engage in body scan practices in 157 individuals with ADHD. We found that most were not currently practising mindfulness but were willing to do so and believed that it was feasible. Symptom severity and available space were predictors of willingness. Preferences were shown for professional classes and 1\u20132 body scan practices per week. These data indicate people with ADHD are willing to engage with body scan practices, supporting the implementation of large-scale studies. The result provides insights to support the co-development of an intervention based on body scan meditation to manage the difficulties and the design of future studies to investigate its efficacy.",
       "journal": "BMC Complementary Medicine and Therapies",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "An EEG-Based Positive Feedback Mechanism for VR Mindfulness Meditation to Improve Emotion Regulation",
-      "url": "https://www.semanticscholar.org/paper/db2efc392c5e1e4014522679a225186b0b46b549",
+      "title": "Embodiment in virtual reality: an experiment on how visual and aural First- and Third-person modes affect embodiment and mindfulness",
+      "url": "https://www.semanticscholar.org/paper/2d5cf3b1c1d98aed5ed924ecbf9d6b9dc120c07d",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647263",
-      "doi": "10.1109/TCSS.2025.3557711",
+      "date_published": "2025-03-14T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896012",
+      "doi": "10.1007/s10055-025-01129-w",
       "authors": [
         {
-          "name": "Qing Wang",
-          "author_id": "2145465010",
+          "name": "Isak de Villiers Bosman",
+          "author_id": "2388820225",
           "affiliation": null
         },
         {
-          "name": "Fang Liu",
-          "author_id": "2169252429",
+          "name": "Mila Buji\u0107",
+          "author_id": "147426531",
           "affiliation": null
         },
         {
-          "name": "Baorong Yang",
-          "author_id": "2298120",
+          "name": "L. Cosio",
+          "author_id": "2214623287",
           "affiliation": null
         },
         {
-          "name": "Zheyuan Yang",
-          "author_id": "2359667840",
+          "name": "O\u011fuz \u2018Oz\u2019 Buruk",
+          "author_id": "2388827705",
           "affiliation": null
         },
         {
-          "name": "Jingyang Huang",
-          "author_id": "2316855219",
+          "name": "Kristine J\u00f8rgensen",
+          "author_id": "2274638277",
           "affiliation": null
         },
         {
-          "name": "Yuxin Xu",
-          "author_id": "2322616562",
-          "affiliation": null
-        },
-        {
-          "name": "Chengcheng Zheng",
-          "author_id": "2363947759",
-          "affiliation": null
-        },
-        {
-          "name": "Yingying She",
-          "author_id": "2177481704",
-          "affiliation": null
-        },
-        {
-          "name": "Hanshu Cai",
-          "author_id": "2283089411",
-          "affiliation": null
-        },
-        {
-          "name": "Fuze Tian",
-          "author_id": "66417000",
+          "name": "Juho Hamari",
+          "author_id": "2095817",
           "affiliation": null
         }
       ],
-      "abstract": "Virtual reality (VR) mindfulness meditation has emerged as a prominent emotion regulation strategy in recent years. Current research often seeks to enhance meditation effectiveness through biofeedback and overlooks the trajectory of emotional changes and the changing needs during regulation. In this study, we propose an electroencephalography (EEG)\u2013based positive feedback mechanism for VR mindfulness meditation aimed at optimizing the effects of emotion regulation. This mechanism consists of three modules: 1) EEG-based emotional state computation; 2) process-based relaxation assessment; and 3) adaptive positive decision feedback. Collectively, these components form a computation-assessment-feedback closed-loop system that objectively quantifies emotions while enabling real-time decision adjustments based on emotional trends, thereby enhancing user engagement and emotion regulation efficacy through personalized feedback. The contribution of the proposed feedback mechanism was evaluated through a randomized controlled trial (N = 36). The results indicated that both physiological measures and self-reported relaxation significantly increased when compared to interventions without feedback. These findings validate that the EEG-based positive feedback mechanism effectively enhances emotion regulation while providing additional insights into improving both the engagement and effectiveness within digital mental health interventions.",
-      "journal": "IEEE Transactions on Computational Social Systems",
+      "abstract": "Immersion as an umbrella experience and embodiment are regarded as primary advantages of virtual reality and its capability to lead to other reflective experiences. Beyond the basis of stereoscopic head-mounted displays, however, there is paucity of research on altered ways of experiencing virtual reality with regards to the possibilities afforded by this medium. To address this gap, we explore the effects of perspective shifts, both in terms of the visual and aural modalities, on embodiment and embodied mindfulness. Using a virtual reality application that administers a body-scan meditation using different visual- and aural perspectives, we investigate the effects these perspectives have on embodiment and embodied mindfulness. Our results indicate that a first-person visual perspective positively influenced a change in perceived body schema, but not in acceptance of virtual body ownership or control/agency of a virtual body, nor do they suggest an effect of audio-based perspective on these outcomes. Investigation into the moderating effects of mindfulness- and immersive tendencies on these factors suggest that participants with low immersive tendencies experienced a greater change in their body schema in the visual first-person condition compared to the third-person condition. A qualitative content analysis on participants\u2019 experiences indicate that few participants were able to express their experience in terms of audio. Our results contribute to the body of work on altered self-representations for mindfulness and extends on this concept with the notion of listening perspective as well as more generally to the design of sound, perspective, and embodiment in virtual reality.",
+      "journal": "Virtual Reality",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Dose\u2013response effects of reported meditation practice on mental\u2010health and wellbeing: A prospective longitudinal study",
-      "url": "https://www.semanticscholar.org/paper/4711a3ae8ac891aa0ba25e2a6fbff9ec2659da1b",
+      "title": "Mindfulness\u2010Based Stress Reduction as a Treatment for Adolescent Social Media Addiction",
+      "url": "https://www.semanticscholar.org/paper/d2d59eedfc32b27c84170c2cc6e34c25c5a3f8d4",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-01T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647283",
-      "doi": "10.1111/aphw.70063",
+      "date_published": "2025-10-24T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896022",
+      "doi": "10.1002/jaoc.70006",
       "authors": [
         {
-          "name": "Nicholas I. Bowles",
-          "author_id": "2150133862",
+          "name": "Gina Sugiana Sugara",
+          "author_id": "2358951204",
           "affiliation": null
         },
         {
-          "name": "Nicholas T. Van Dam",
-          "author_id": "2346440983",
+          "name": "Salma Rachmawati",
+          "author_id": "2388288090",
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad Muhajirin",
+          "author_id": "2318404033",
+          "affiliation": null
+        },
+        {
+          "name": "Anandha Putri Rahimsyah",
+          "author_id": "2318408958",
+          "affiliation": null
+        },
+        {
+          "name": "Khairul Bariyyah",
+          "author_id": "2318403601",
+          "affiliation": null
+        },
+        {
+          "name": "Idat Muqodas",
+          "author_id": "2377202502",
           "affiliation": null
         }
       ],
-      "abstract": "Abstract The popularity of meditation has surged in recent years, driven by the accessibility of digital platforms. In this context, shorter sessions have become common, often accompanied by claims of substantial benefits. The vast differences in practice intensity\u2014from traditional monastic training and residential retreats to multi\u2010week Mindfulness\u2010Based Programs and infrequent digital home practice\u2014raise the question of how much practice is necessary to see meaningful benefits. Our previous analysis of lifetime practice history suggested that 160\u2009hours were required for clinically meaningful improvements in psychological distress and life satisfaction, with more needed for stable changes in affect. However, those findings could not address the effects of newly undertaken practice, the best ways to accumulate experience, or how these effects vary by practice history. This study fills these gaps by examining dose\u2013response relationships in a diverse sample of meditators engaging in self\u2010directed practice in ecologically valid settings, while testing the moderating effects of practice history, personality traits, and meditation goals. One thousand fifty\u2010three participants provided data across nine surveys over a two\u2010month period of prospectively monitored, self\u2010directed meditation practice, followed by a 2\u2010 to 4\u2010year follow\u2010up. Using a longitudinal design, we examined associations between meditation practice dose and outcomes including positive and negative affect, psychological distress, and life satisfaction. Meditation practice dose was significantly associated with improvements in well\u2010being, affect, and distress, with practice frequency being a stronger predictor of beneficial outcomes than session duration. During the 2\u2010month prospective period, after controlling for prior lifetime practice, 35 to 65\u2009minutes daily practice was required for meaningful improvements in well\u2010being, and 50 to 80\u2009minutes daily was needed for meaningful improvements in mental health outcomes. Dose\u2013response effects were moderated by lifetime practice experience across all outcomes, while negative emotionality moderated the relationship for mental health\u2010related outcomes. Additionally, valuing mental health as a practice goal moderated dose\u2013response effects for mental health outcomes, and cumulative practice from baseline to follow\u2010up predicted increased valuation of spiritual growth as a practice goal. Our findings indicate that practitioners with varied practice histories, personality traits, and practice goals/motivations benefit from meditation on outcomes measuring mental health and well\u2010being, with such benefits maintained over a 2\u20134 year follow\u2010up period.",
-      "journal": "Applied Psychology: Health and Well-Being",
+      "abstract": "\n \n This study evaluates the effectiveness of an 8\u2010week Mindfulness\u2010Based Stress Reduction (MBSR) intervention in reducing social media addiction among 22 adolescents. The program incorporated techniques such as body scan, sitting meditation, STOP, and RAIN meditation. Results indicated a significant reduction in social media addiction scores (\n p\n < 0.001,\n d\n = 1.68) and an increase in mindfulness levels (\n p\n < 0.001,\n d\n = 0.85). Specific dimensions, including mood modification, escape, and relapse, showed marked improvement, whereas withdrawal, deception, and conflict exhibited no notable changes. These findings underscore MBSR as a promising approach for addressing behavioral addictions and enhancing emotional regulation.\n",
+      "journal": "Journal of Addictions &amp; Offender Counseling",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Intracranial substrates of meditation-induced neuromodulation in the amygdala and hippocampus",
-      "url": "https://www.semanticscholar.org/paper/3f94ad206cb4f22e17b436c654e0a69c2f95b906",
+      "title": "The effect of mindfulness-based stress reduction on anxiety and sleep quality in informal family caregivers of cancer patients: a randomized controlled trial",
+      "url": "https://www.semanticscholar.org/paper/673a8257a13156c846e4ed21252f520f482d35df",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-04T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647299",
-      "doi": "10.1073/pnas.2409423122",
+      "date_published": "2025-11-06T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896033",
+      "doi": "10.1186/s12912-025-04063-z",
       "authors": [
         {
-          "name": "Christina Maher",
-          "author_id": "2298585333",
+          "name": "Sayedeh Farkhondeh Safavi",
+          "author_id": "2391045593",
           "affiliation": null
         },
         {
-          "name": "Lea Tortolero",
-          "author_id": "2301208846",
+          "name": "H. Vahedparast",
+          "author_id": "5244056",
           "affiliation": null
         },
         {
-          "name": "Soyeon Jun",
-          "author_id": "2343811483",
+          "name": "Batool Amiri",
+          "author_id": "2051163555",
           "affiliation": null
         },
         {
-          "name": "Daniel D. Cummins",
-          "author_id": "2287275203",
+          "name": "Taiebeh Gharibi",
+          "author_id": "2198619617",
           "affiliation": null
         },
         {
-          "name": "Adam E. Saad",
-          "author_id": "2233506051",
-          "affiliation": null
-        },
-        {
-          "name": "James Young",
-          "author_id": "2344580640",
-          "affiliation": null
-        },
-        {
-          "name": "Lizbeth Nunez Martinez",
-          "author_id": "2343808430",
-          "affiliation": null
-        },
-        {
-          "name": "Zachary Schulman",
-          "author_id": "2301208841",
-          "affiliation": null
-        },
-        {
-          "name": "L. Marcuse",
-          "author_id": "2268374228",
-          "affiliation": null
-        },
-        {
-          "name": "A. Waters",
-          "author_id": "2243428987",
-          "affiliation": null
-        },
-        {
-          "name": "Helen S. Mayberg",
-          "author_id": "2250509708",
-          "affiliation": null
-        },
-        {
-          "name": "R. Davidson",
-          "author_id": "2053411146",
-          "affiliation": null
-        },
-        {
-          "name": "F. Panov",
-          "author_id": "2282707340",
-          "affiliation": null
-        },
-        {
-          "name": "Ignacio Saez",
-          "author_id": "2281957039",
+          "name": "A. Hosseinnejad",
+          "author_id": "2313894776",
           "affiliation": null
         }
       ],
-      "abstract": "Significance We leverage rare chronic, invasive electrophysiology recordings while participants engage in loving-kindness meditation to demonstrate that meditation induces neural changes in beta and gamma activity in the amygdala and hippocampus of novice meditators. These results build on previous findings in experienced meditators and reveal meditation\u2019s potential for noninvasive neuromodulation of brain activity associated with emotional regulation and mood disorders.",
-      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "abstract": "Informal caregivers play a crucial supportive role throughout the course of illnesses, particularly in patients with cancer. Following a cancer diagnosis, informal caregivers often experience substantial psychological, physical, and social stress, which may lead to conditions such as anxiety and sleep disturbances. Therefore, implementing interventions aimed at reducing anxiety and improving sleep quality is essential. The present study aims to assess the impact of mindfulness-based stress reduction (MBSR) training on anxiety and sleep quality among informal caregivers of patients with cancer. This randomized controlled trial was conducted in 2024 on 66 informal caregivers of cancer patients in Bushehr, Iran. Participants were selected using convenience sampling method and then randomly assigned to either the intervention or control group. The intervention group received eight sessions of MBSR training, each lasting 120 min, which included mindfulness meditation, body scan, and mindful breathing exercises. The control group received no intervention. Data were collected using a demographic form, Spielberger State-Trait Anxiety Inventory (STAI), and Pittsburgh Sleep Quality Index (PSQI). Data were analyzed using SPSS 26.0 through descriptive statistics, independent t-test, paired t-test, and ANCOVA at a significance level of 0.05. The results indicated a statistically significant difference between the two groups regarding both anxiety and sleep quality after the intervention (anxiety: P\u2009<\u20090.001, \u03b7p\u00b2 = 0.22; sleep quality: P\u2009=\u20090.004, \u03b7p\u00b2 = 0.12). In the intervention group, the mean anxiety score decreased from 105.94\u2009\u00b1\u200911.73 (pretest) to 80.39\u2009\u00b1\u200913.68 (one-month follow-up), and the mean sleep quality score (PSQI) improved from 11.26\u2009\u00b1\u20092.65 to 9.94\u2009\u00b1\u20092.09. In contrast, the control group showed no significant improvement. The results of this study suggest that mindfulness-based interventions may help reduce anxiety and improve sleep quality in female informal caregivers of cancer patients. This intervention shows promise as a potentially effective approach for promoting caregivers\u2019 mental health. However, the findings are only applicable to women and cannot be generalized to male caregivers, who may experience different social and emotional burdens. In addition, the use of a passive control group and the dual role of the instructor (intervention delivery and homework monitoring) represent important limitations. Furthermore, due to the small sample size, use of convenience sampling, and partial blinding, the results should be interpreted with caution. Future research should include both genders, use active control conditions, and conduct larger long-term randomized trials to confirm these outcomes and assess their generalizability across different settings. IRCT, IRCT20240310061244N1, registered prospectively on 2024-04-30.",
+      "journal": "BMC Nursing",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
     },
     {
-      "title": "Meditation in Qualitative Research for Bracketing and Beyond",
-      "url": "https://www.semanticscholar.org/paper/c6821a9c0e9c9389b0492a1b94365448de2578d4",
+      "title": "The Role of Mindfulness in Reducing Academic Burnout Among University Students",
+      "url": "https://www.semanticscholar.org/paper/03a86aaf24106c73d82ca23988693c5df4ff39d4",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-15T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647339",
-      "doi": "10.1177/16094069241312826",
+      "date_published": "2025-05-29T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896042",
+      "doi": "10.23917/iseedu.v9i1.10381",
       "authors": [
         {
-          "name": "K. Grajzel",
-          "author_id": "15877013",
-          "affiliation": null
-        }
-      ],
-      "abstract": "In this study, I recounted my experience using mantra meditation during a phenomenological study for the purposes of bracketing. The efficacy and purpose of bracketing have been debated from Husserl (1931), whose aimed was to achieve objectivity, to Heidegger (1962) who advocated for immersion of the researcher, through the French school (Merleau-Ponty, 1964) of middle ground, by whom bracketing was seen as the process to unearth and suspend biases for the better understanding of participants\u2019 experiences (Arsel, 2017; Creswell & Creswell, 2017; Creswell & Poth, 2016; Fischer & Guzel, 2023). In this study, however, I propose another approach to bracketing that expands beyond phenomenology and the duality of objectivity or immersion. I propose that bracketing, with the aim of meditation is inseparable from qualitative research. Meditation, as a form of bracketing, provokes the researcher to be fully present ensuring that participants\u2019 experiences are heard and interpreted in a faithful manner. In this orientation, the goal of bracketing is not to rid one\u2019s subjectivity but to allow subjectivity to be diminished and the researcher to be fully present to the other.",
-      "journal": "International Journal of Qualitative Methods",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Beyond serenity: Adverse effects of meditation and mindfulness in clinical practice.",
-      "url": "https://www.semanticscholar.org/paper/a9d386aa6b5f720bbe06ef7996ea4b70c37728f0",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-08-30T15:39:32.647349",
-      "doi": "10.1016/j.copsyc.2025.102197",
-      "authors": [
-        {
-          "name": "Karin Matko",
-          "author_id": "2095279932",
+          "name": "Abil Fida Muhammad Qois Al Hadi Abil Fida Muhammad Qois Al Hadi",
+          "author_id": "2377222226",
           "affiliation": null
         },
         {
-          "name": "Nicholas T. Van Dam",
-          "author_id": "2346440983",
+          "name": "Mahasri Shobahiya Mahasri Shobahiya",
+          "author_id": "2377221766",
+          "affiliation": null
+        },
+        {
+          "name": "Syahrul Adam Salleh Ibrahim Syahrul Adam Salleh Ibrahim",
+          "author_id": "2377219199",
           "affiliation": null
         }
       ],
-      "abstract": "Despite the growing popularity of mindfulness, mindfulness-based programs (MBPs), and meditation, potential harms have largely been overlooked. Recent studies reveal that 25-87 % of those who engage in meditation report adverse effects (AEs), with 3-37 % experiencing functional impairment (e.g., inability to work). It remains unclear to what extent AEs reflect transitory discomfort vs. lasting harm. Common AEs include anxiety, depression, and traumatic re-experiencing. Factors such as retreat attendance and pre-existing mental health conditions may increase the risk of AEs, though causality remains unclear. The review emphasises the need for thorough screening, informed consent, and ongoing monitoring in clinical practice. Recommendations include setting clear expectations, offering psychoeducational support, and adapting interventions when necessary and where appropriate. By addressing these concerns, clinicians can better balance the potential benefits with the potential risks, ensuring more responsible implementation of mindfulness and meditation in mental health care and beyond.",
-      "journal": "Current Opinion in Psychology",
+      "abstract": "Academic burnout is one of the serious challenges faced by students as a result of high academic pressure, excessive workload, and complex social expectations. This study aims to explore the role of mindfulness in reducing academic burnout levels among students through a qualitative approach using a case study method. Data were collected through in-depth interviews with students who experienced burnout and applied mindfulness techniques in their academic lives. The findings reveal that mindfulness, through practices such as breathing meditation, body scan, mindful walking, and reflective journaling, is effective in reducing symptoms of emotional exhaustion, enhancing focus, and improving sleep quality and mental health. However, challenges such as time constraints, lack of consistency, and minimal environmental support hinder the implementation of these practices. Nevertheless, the participating students managed to overcome these obstacles by establishing regular practice schedules and forming support communities. This study concludes that mindfulness is an effective and adaptive strategy for managing academic burnout. Therefore, it is recommended that higher education institutions integrate mindfulness programs into counseling services, curricula, and student activities as both preventive and curative efforts to improve students\u2019 mental well-being and academic achievement.This research is expected to serve as a foundation for the development of broader, evidence-based psychological policies and interventions in university settings",
+      "journal": "Iseedu",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "body scan meditation"
       ]
+    },
+    {
+      "title": "Effectiveness of Mindfulness-based Approaches on Stress, Depression, and Serum Cortisol among Elderly in Old Age Homes",
+      "url": "https://www.semanticscholar.org/paper/0aa612f01d86910b0cfba142b0c4233b9ffaaeaa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-11T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896051",
+      "doi": "10.4103/jpbs.jpbs_655_25",
+      "authors": [
+        {
+          "name": "Jayalakshmi Lakshmanan",
+          "author_id": "2314612424",
+          "affiliation": null
+        },
+        {
+          "name": "Bhuvaneswari Gopalakrishnan",
+          "author_id": "2294268964",
+          "affiliation": null
+        },
+        {
+          "name": "S. Rajendran",
+          "author_id": "2310417347",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Background: Mental health issues, particularly stress and depression, are highly prevalent among the elderly, especially those residing in old age homes. Elevated serum cortisol levels are associated with prolonged stress and depression, leading to further health complications. This study evaluates the effectiveness of a mindfulness-based approach in reducing stress, depression, and serum cortisol levels among elderly individuals in institutional care. Materials and methodology: This quasi-experimental study was conducted in two old age homes in Chennai. A total of 48 elderly participants (aged 60\u201380 years) were selected using convenience sampling and divided into experimental (mindfulness intervention) and control (routine care) groups. The 12 weeks mindfulness intervention included techniques such as 5-Senses Grounding, Body Scan Meditation, mindfulness eating, Mindful Walking and breathing space meditation. Data were collected at baseline and 12 weeks post-intervention using the Perceived Stress Scale (PSS), Geriatric Depression Scale-Short Form (GDS-SF), and serum cortisol levels. Results: Post-intervention, 83.33% of the experimental group reported low stress compared to 12.50% in the control group (P = 0.001). Depression also significantly improved, with 41.67% achieving expected levels in the experimental group, while 70.83% in the control group remained moderately depressed (P = 0.001). However, serum cortisol levels showed no significant reduction (P = 0.21). Conclusion: Mindfulness-based interventions effectively reduced stress and depression but did not significantly impact serum cortisol levels. Future research should examine longer interventions and alternative biomarkers. Nurses are key in integrating mindfulness into elderly care to enhance mental well-being.",
+      "journal": "Journal of Pharmacy and Bioallied Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Mindfulness untuk Menurunkun Stres pada Dewasa Awal dengan Hipertensi",
+      "url": "https://www.semanticscholar.org/paper/5e30c971cc7206e8df7b26c6ebdc6fcbc3d7dd41",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-03T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896059",
+      "doi": "10.51849/j-p3k.v6i3.799",
+      "authors": [
+        {
+          "name": "A. Putri",
+          "author_id": "121752174",
+          "affiliation": null
+        },
+        {
+          "name": "Tiara Diah Sosialita",
+          "author_id": "97824576",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Hipertensi pada dewasa awal menjadi tantangan kesehatan yang semakin sering ditemukan, terutama dikaitkan dengan faktor stres akibat beban kerja, akademik, maupun tekanan keluarga. Penelitian ini bertujuan untuk mengevaluasi efektivitas Mindfulness-Based Stress Reduction (MBSR) dalam menurunkan stres pada dewasa awal dengan hipertensi. Penelitian menggunakan desain studi kasus kualitatif dengan tiga partisipan berusia 25\u201336 tahun. Intervensi dilakukan dalam lima sesi: psikoedukasi stres dan mindfulness, mindful check-in, body scan meditation, serta evaluasi. Instrumen yang digunakan mencakup DASS, PSS, SPM, dan tes proyektif (DAP, BAUM, HTP, WZT). Hasil menunjukkan adanya penurunan signifikan pada skor DASS Stres (AP: 27 ke lebih rendah, NAM: sangat parah ke menurun, DS: 32 ke menurun) dan skor PSS, serta peningkatan kualitas tidur, fokus, dan kontrol emosi. MBSR terbukti mendukung regulasi emosi dan kesadaran tubuh. Program ini layak dipertimbangkan sebagai intervensi komplementer dalam penanganan hipertensi pada dewasa awal.",
+      "journal": "JURNAL PENELITIAN PENDIDIKAN, PSIKOLOGI DAN KESEHATAN (J-P3K)",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Role of Mindfulness Practices on Academic Stress of College Students",
+      "url": "https://www.semanticscholar.org/paper/eb3721829dbfad5e815b158892f6269a95195754",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-08-31T18:22:01.896072",
+      "doi": "10.51584/ijrias.2025.100800018",
+      "authors": [
+        {
+          "name": "Anuradha Sharma",
+          "author_id": "2294894575",
+          "affiliation": null
+        },
+        {
+          "name": "Anuj Chauhan",
+          "author_id": "2402090030",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Academic stress has become a significant challenge for students across all educational levels, often resulting in anxiety, burnout, reduced motivation, and impaired cognitive performance. The pressure to meet academic expectations, manage heavy workloads, and sustain high performance underscores the urgent need for effective stress-reduction strategies in education. Mindfulness\u2014defined as purposeful, present-moment awareness without judgment\u2014has been recognized as a promising approach for enhancing emotional regulation, reducing stress, and promoting overall well-being.\n\nThis study examined the impact of mindfulness practices on reducing academic stress among 200 students aged 16\u201322, randomly assigned to experimental and control groups. The experimental group underwent an eight-week structured mindfulness program, including guided meditation, mindful breathing, reflective journaling, and body scan techniques. Standardized instruments, the Perceived Stress Scale (PSS) and the Five Facet Mindfulness Questionnaire (FFMQ), were administered pre- and post-intervention.\n\nResults demonstrated a statistically significant reduction in perceived stress among students who received mindfulness training compared to controls. Gender-based differences emerged, with female students showing higher mindfulness scores and slightly lower stress levels. Participants also reported improved concentration, time management, sleep quality, and a more balanced approach to academic challenges. These findings support the integration of mindfulness programs into academic institutions as a sustainable, evidence-based strategy to enhance student mental health and performance.",
+      "journal": "International journal  of research and innovation in applied science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "MindfulBreath: Every Breath You Take, Every Mind You Wake",
+      "url": "https://www.semanticscholar.org/paper/180a15908b4e8b093f8fc57aba9e1f4290a2abb5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-12T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896083",
+      "doi": "10.1145/3714394.3756158",
+      "authors": [
+        {
+          "name": "Hannah Cho",
+          "author_id": "2397994991",
+          "affiliation": null
+        },
+        {
+          "name": "Jingyeong Park",
+          "author_id": "2383674537",
+          "affiliation": null
+        },
+        {
+          "name": "Yeonjun Seong",
+          "author_id": "2401511673",
+          "affiliation": null
+        },
+        {
+          "name": "Hayoung Oh",
+          "author_id": "2244415430",
+          "affiliation": null
+        },
+        {
+          "name": "Jangwon Lee",
+          "author_id": "2397906195",
+          "affiliation": null
+        },
+        {
+          "name": "S. Sundar",
+          "author_id": "2246892011",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Breathing is a common entry point to mindfulness. But for beginners, simply observing the breath can feel vague and hard to follow. We present MindfulBreath, an interactive system that uses real-time respiratory data to recommend a personalized breathing pace and visualize each inhale and exhale as flowing movement through a human figure. Designed as a preparatory experience, MindfulBreath helps users rehearse attentional control and embodied focus before beginning body scan meditation. In a study with 15 participants, Initial findings suggest that MindfulBreath may improve focus, relaxation, and engagement over passive music or standard breathing apps. These preliminary results indicate the potential visually embodied breathing exercises effectively bridge to deeper mindfulness. Unlike conventional mindfulness apps and devices, which offer fixed timing or generic animations, MindfulBreath adapts in real time to each user's unique respiratory pattern, positioning breath not only as a target of observation, but as an accessible medium for embodied mental training.",
+      "journal": "UbiComp Companion",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Mindfulness-Based Counseling Techniques for Stress Management: Improving Self-Efficacy Among High School Students",
+      "url": "https://www.semanticscholar.org/paper/545c2d42ae71f95e1a438d512769ce6d4585b46f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-20T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896102",
+      "doi": "10.59784/7a66ys43",
+      "authors": [
+        {
+          "name": "Zainatus Salma Al Qolbi",
+          "author_id": "2458444439",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: High school students face increasing levels of academic stress, peer pressure, and future-related anxiety, which negatively impact their mental health and self-efficacy. Understanding effective interventions to address these psychological challenges is critical for supporting adolescent development and academic performance.Objective: This study examines the effectiveness of mindfulness-based counseling techniques in managing stress and improving self-efficacy among high school students.Method: Using a quasi-experimental design with a pretest-posttest control group, this research involved 120 students aged 15-17 years from two public high schools. The experimental group received eight weekly sessions of mindfulness-based counseling interventions, including breathing exercises, body scan meditation, mindful awareness practices, and cognitive restructuring techniques. Data were collected using the Perceived Stress Scale (PSS), General Self-Efficacy Scale (GSES), and Mindful Attention Awareness Scale (MAAS).Findings and Implications: Results revealed significant improvements in the experimental group compared to the control group, with decreased stress levels and increased self-efficacy scores. The intervention also enhanced students' emotional regulation, attention focus, and coping mechanisms. These findings suggest that mindfulness-based counseling techniques offer practical and effective tools for school counselors to address adolescent stress and promote psychological resilience.Conclusion: Mindfulness-based counseling interventions demonstrate significant effectiveness in reducing stress and enhancing self-efficacy among high school students, providing evidence-based strategies for school-based mental health support programs.",
+      "journal": "Asesment : Journal Of Counseling Guidance",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Fuzzy Delphi Identifies Key Crisis Coping Strategies for Psychological Distress Intervention",
+      "url": "https://www.semanticscholar.org/paper/214eade6fb0cd9dd59e12daf714e4f4985b648b5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-25T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896111",
+      "doi": "10.21834/e-bpj.v10isi24.6385",
+      "authors": [
+        {
+          "name": "Siti Nordarma Ab Rahman",
+          "author_id": "2318505690",
+          "affiliation": null
+        },
+        {
+          "name": "Nor Shafrin Ahmad",
+          "author_id": "2318712133",
+          "affiliation": null
+        },
+        {
+          "name": "Raras Sutatminingsih",
+          "author_id": "115472748",
+          "affiliation": null
+        },
+        {
+          "name": "Ahmad Saharrudin Mat Akir",
+          "author_id": "2318590207",
+          "affiliation": null
+        }
+      ],
+      "abstract": "A study using the Fuzzy Delphi method identified key coping strategies for graduate students during crises. Seven experts reviewed existing research, finding the most effective methods to be: body scan and relaxation, meditation and emotional regulation, acceptance of trauma symptoms, social support, and mindfulness with breathing and gratitude. These strategies offer a framework for targeted interventions to boost student well-being and resilience. Future research should empirically test these methods, explore their integration into programs, analyze technology's role, examine demographic differences, conduct longitudinal studies, and consider student perspectives. The aim is to develop comprehensive approaches for enhancing graduate students\u2019 well-being.",
+      "journal": "Environment-Behaviour Proceedings Journal",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Effectiveness of a Mindfulness-Based Stress Reduction Program on Quality of Life among Hemodialysis Patients: A Preliminary Study",
+      "url": "https://www.semanticscholar.org/paper/94b7d9cf63c7b1e49f65d7192ea909625d52a64b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-05T00:00:00",
+      "date_fetched": "2026-08-31T18:22:01.896146",
+      "doi": "10.47310/jpms2025141201",
+      "authors": [
+        {
+          "name": "C. C",
+          "author_id": "2401798063",
+          "affiliation": null
+        },
+        {
+          "name": "Nidhi Sharma",
+          "author_id": "2113525675",
+          "affiliation": null
+        },
+        {
+          "name": "P. Thenmozhi",
+          "author_id": "93693456",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Individuals receiving maintenance hemodialysis for Chronic Kidney Disease (CKD) frequently encounter complex physical, emotional and social challenges that substantially diminish their Quality of Life (QoL). Mindfulness-Based Stress Reduction (MBSR) has increasingly been recognized as a supportive, non-pharmacological strategy for enhancing well-being in populations with chronic illness. This pilot investigation examined the potential influence of an MBSR program on QoL outcomes among patients undergoing hemodialysis. A quasi-experimental pretest\u2013posttest framework was applied with ten participants recruited from a dialysis unit. The intervention cohort engaged in an eight-week structured MBSR program involving weekly one-hour sessions incorporating focused breathing, mindfulness meditation and body-scan practices, while the control cohort continued with standard clinical care. QoL was assessed before and after the intervention using the Kidney Disease Quality of Life Short Form (KDQOL-SF v1.3). Analytical procedures included paired and independent t-tests, in addition to correlational analyses exploring associations with demographic and treatment-related parameters. Notable improvements were observed in the intervention group across multiple domains Symptoms and Problems (p = 0.0018), Effects of Kidney Disease (p = 0.0284), Sleep (p = 0.0468), Physical Functioning (p = 0.0265) and Role Limitations due to Physical Health (p = 0.0211). Post-intervention patterns indicated that demographic attributes and dialysis-related variables influenced specific QoL dimensions. These preliminary findings suggest that MBSR may offer meaningful benefits for both physical and psychological dimensions of QoL among hemodialysis patients and merits further evaluation in larger controlled studies.",
+      "journal": "Journal of Pioneering Medical Sciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Serial mediating role of belonging and state mindfulness in the relationship between clinical learning environment and caring behaviors in nursing students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664907/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-25T00:00:00",
+      "date_fetched": "2026-08-31T18:22:36.936942",
+      "doi": "10.1016/j.nedt.2026.107366",
+      "authors": [
+        {
+          "name": "Cemal \u00d6zalp",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Metin Tuncer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Abdulsamed Kaya",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fatih \u015eahin",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM: The study aimed to examine the relationship between clinical learning environment and caring behaviors in nursing students and to test the serial mediating roles of belonging and state mindfulness in this relationship. BACKGROUND: The psychosocial mechanisms linking the clinical learning environment to caring behaviors remain unclear, particularly the combined roles of belonging and state mindfulness. DESIGN: The study had a cross-sectional design and was conducted in line with the STROBE guidelines. METHODS: The sample consisted of 452 undergraduate nursing students studying at a state university in Turkiye. The data were collected between December 2025 and January 2026 using the Personal Information Form, Clinical Learning Environment Scale, Nursing Department Belonging Scale, State Mindfulness Scale, and Caring Behaviors Inventory. RESULTS: The clinical learning environment was found to be positively correlated with sense of belonging (B\u00a0=\u00a00.412, p\u00a0<\u00a0.001). Sense of belonging significantly predicted both State Mindfulness (B\u00a0=\u00a00.607, p\u00a0<\u00a0.001) and caring behaviors (B\u00a0=\u00a00.857, p\u00a0<\u00a0.001). State mindfulness is also a significant predictor of caring behaviors (B\u00a0=\u00a00.734, p\u00a0<\u00a0.001). Indirect effects analyses indicated that the clinical learning environment was associated with caring behaviors through sense of belonging and through the sequential pathway involving both sense of belonging and state mindfulness. However, the direct effect of the clinical learning environment on caring behaviors was not significant. Additionally, the indirect effect of the clinical learning environment on caring behaviors through state mindfulness alone was not significant. CONCLUSIONS: The results of the study showed that the clinical learning environment is associated with nursing students' caring behaviors indirectly through sense of belonging and state mindfulness, rather than directly.",
+      "journal": "Nurse education today",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Effectiveness of Interoceptive-Based Interventions to Reduce Adult Anxiety Sensitivity: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664453/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-28T00:00:00",
+      "date_fetched": "2026-08-31T18:22:36.937075",
+      "doi": "10.1080/07380577.2026.2716742",
+      "authors": [
+        {
+          "name": "Victoria Riley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mia Tsukano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cindy Truong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica Johnson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Katlin Lee",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alison DeVries Hansen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karen Ratcliff",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Diane M Collins",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "April Cowan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Raquel Martinez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claudia Hilton",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: Anxiety sensitivity is defined as the fear of anxiety-related sensations and is linked to the top three preventable causes of disease and death in the US. Interoception is related to anxiety sensitivity and can be addressed by occupational therapists. Interoception encompasses sensing/feeling/noticing, understanding/interpreting, and acting upon one's internal bodily sensations. Interoceptive-based interventions are starting to be used to decrease adult anxiety sensitivity. This review examines the effectiveness of interoceptive-based interventions on adult anxiety sensitivity that can be used by occupational therapists. METHODS: Sources: Ovid, CINAHL (EBSCOhost), PsycInfo (Ovid), SCOPUS. Inclusion criteria: interoceptive interventions, persons over age 17\u2009years with anxiety symptoms, level 4 or higher studies, minimum of 14 participants. Exclusion criteria: written before 1999, qualitative, non-peer-reviewed, not available in English, comorbidities or subtypes of anxiety. RESULTS: Sixteen articles were reviewed, 10 level II studies, one level III-1 study, and four level III-2 studies examining the effect of interoceptive-based interventions on adult anxiety sensitivity. Interventions examined were mindfulness, interoceptive exposure, cognitive behavioral therapy (CBT), and combinations of those. All studies showed significant anxiety sensitivity reduction for participants identified with high anxiety sensitivity. Strong evidence supports the use of mindfulness alone and interoceptive exposure with CBT. Moderate evidence supports interoceptive exposure alone. Insufficient evidence currently supports the use of combinations of interoceptive exposure with mindfulness and of interoceptive exposure with CBT. CONCLUSION: Findings support certain interoceptive-based interventions as effective in reducing elevated anxiety sensitivity. More research is needed to examine the less studied combinations, dosages and types of exposures, inclusion of neurophysiological outcome measures, and assessment of long-term effects, and to explore the mechanisms behind this association and its impact on occupational performance and participation.",
+      "journal": "Occupational therapy in health care",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Genome characterization of two novel mitoviruses and a negative-sense single-stranded RNA mycovirus from the phytopathogenic fungus Clarireedia jacksonii.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663716/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-28T00:00:00",
+      "date_fetched": "2026-08-31T18:22:36.937115",
+      "doi": "10.1007/s00705-026-06719-w",
+      "authors": [
+        {
+          "name": "Kohei Sakuta",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tae Mabuchi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Syun-Ichi Urayama",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Osamu Netsu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tsutomu Arie",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hiromitsu Moriyama",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ken Komatsu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Clarireedia jacksonii is a phytopathogenic fungus responsible for dollar spot disease in turfgrass worldwide. In this study, we characterized the complete genome sequences of three novel mycoviruses isolated from C. jacksonii isolate MBCT-836 using next-generation sequencing and the fragmented and primer-ligated dsRNA sequencing (FLDS) method. Two of these viruses, designated Clarireedia jacksonii mitovirus 1 (CjMV1) and Clarireedia jacksonii mitovirus 2 (CjMV2), possess positive-sense single-stranded RNA genomes of 2,575 bp and 2,856 bp, respectively. Both viruses contain a single open reading frame that utilizes the mitochondrial genetic code and encodes an RNA-dependent RNA polymerase (RdRp). Phylogenetic analysis placed CjMV1 and CjMV2 within the genera Unuamitovirus and Duamitovirus, respectively, in the family Mitoviridae. The third virus, Clarireedia jacksonii negative-stranded RNA virus 1 (CjNSV1), features a bisegmented negative-sense RNA genome consisting of a large segment (7,961 nt) encoding an RdRp with a conserved Bunya_RdRp domain, and a small segment (1,444 nt) encoding a protein showing homology to bunyavirus nucleocapsid proteins. Phylogenetic analysis revealed that CjNSV1 clusters with members of the proposed family Sclerobunyaviridae within the order Bunyavirales. To our knowledge, this study provides the first report of complete genome sequences of mycoviruses infecting C. jacksonii, expanding our understanding of the mycovirosphere in economically significant turfgrass pathogens.",
+      "journal": "Archives of virology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Primary care brief mindfulness training for veterans with psychological distress: Protocol for a hybrid type I effectiveness-implementation randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667949/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-29T00:00:00",
+      "date_fetched": "2026-08-31T18:22:36.937686",
+      "doi": "10.1016/j.cct.2026.108451",
+      "authors": [
+        {
+          "name": "Dessa Bergen-Cico",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Abigail Ramon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Benjamin Felleman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kyle Possemato",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Psychological distress, encompassing PTSD, depression, and anxiety-is highly prevalent among Veterans receiving care in Veterans Health Administration (VHA) primary care settings, yet it frequently goes untreated or undertreated. Traditional psychotherapies and psychiatric medications are often misaligned with Veterans' preferences for self-reliance, low-stigma formats, and skill-based approaches. Primary Care Brief Mindfulness Training (PCBMT) was developed as a brief, transdiagnostic, group-based mindfulness intervention co-facilitated by licensed mental health providers and Veteran peer specialists in VHA primary care. Two preliminary randomized controlled trials (RCTs) demonstrated reductions in PTSD and depression severity relative to control conditions. An ongoing study extends this work through a Hybrid Type I effectiveness-implementation trial at three geographically and demographically diverse VHA sites (Phoenix, San Diego, St. Louis). Three hundred primary care patients with clinically significant psychological distress are being randomized 1:1 to PCBMT or Moving Forward (MF), a transdiagnostic problem-solving group that serves as an active comparison condition. The primary outcome is change in total psychological distress as measured by the Depression Anxiety and Stress Scale (DASS-21) from baseline to post-intervention (8\u202fweeks). Secondary aims will test transdiagnostic mediators (mindfulness, emotion regulation, psychological flexibility, thought suppression) and explore social determinants of health (SDOH) as potential moderators of initiation, completion, and clinical benefit. A qualitative implementation aim, guided by the Consolidated Framework for Implementation Research (CFIR), will characterize barriers and facilitators to support future scale-up. This protocol describes participant selection criteria, intervention conditions, facilitator training, outcome measurement, and analytic strategy. Trial Registration:ClinicalTrials.gov Identifier: NCT-06162741.",
+      "journal": "Contemporary clinical trials",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The Impact of Mindfulness as a Session-Introduction on Symptoms and Alliance in Individual Cognitive-Behavioral Therapy With Children and Adolescents: A Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667691/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-08-29T00:00:00",
+      "date_fetched": "2026-08-31T18:22:36.937902",
+      "doi": "10.1002/jclp.70216",
+      "authors": [
+        {
+          "name": "Julia Kalmar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ines Baumann",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elena Schleiting",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anne Gr\u00fcnert",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eva Vonderlin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Katajun Lindenberg",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andreas B Neubauer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Thomas Heidenreich",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Johannes Mander",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: Mindfulness is increasingly being implemented in child and adolescent therapy. However, little is known about its effectiveness in individual settings within a clinical outpatient context. We investigated the effects of session-introducing mindfulness interventions (IG-M) compared to session-introducing relaxation interventions (CG-R) and no standardized session-introduction (CG) on symptomatic outcome and therapeutic alliance in cognitive-behavioral therapy using a randomized controlled design. METHOD: One thousand four hundred and seventy-eight of 90 outpatient adolescents (11-19 years) diagnosed with depression, an anxiety disorder, or a hyperkinetic disorder were assessed. Symptomatic outcome was assessed by the German version of the Youth Self-Report 11-18R at five measurement time points (pre, 3rd, 10th, 17th therapy session, post), therapeutic alliance was assessed by the German version of the Therapeutic Alliance Scales for Children after every therapy session (1st-24th therapy session). Statistical analyses were conducted using multilevel modeling. The RCT was registered at ClinicalTrials.gov (NCT04034576). RESULTS: Multilevel modeling revealed a significant decrease of symptomatic outcome in IG-M compared to CG, but not compared to CG-R, over time. A significant increase in therapeutic alliance over time was observed from the therapists' perspective with no group differences. Therapeutic alliance from patients' perspective significantly increased in IG-M and significantly decreased in CG. There was no statistically meaningful change in therapeutic alliance from the patients' perspective in CG-R. CONCLUSION: IG-M had positive effects on symptomatic outcome and therapeutic alliance compared to CG, but did not outperform CG-R. Future studies that control confounding variables are highly relevant to understand the role of mindfulness in individual youth psychotherapy.",
+      "journal": "Journal of clinical psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "What Happened to Yoga?",
+      "url": "https://www.theatlantic.com/culture/2026/08/yoga-america-culture-decline/688461/?utm_source=feed",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-08-31T11:30:00",
+      "date_fetched": "2026-08-31T18:22:37.746912",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Rheana Murray",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The Atlantic",
+      "excerpt": "It used to be the peak symbol of wellness. Now many studios can barely stay open.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "yoga"
+      ]
+    }
+  ]
 }
