@@ -1,453 +1,383 @@
 {
-  "generated_at": "2026-09-05T14:09:37.762902",
+  "generated_at": "2026-09-06T14:33:53.706661",
   "papers": [
     {
-      "title": "Toward a multidisciplinary neurobiology of interoception and mental health.",
-      "url": "https://www.semanticscholar.org/paper/99398489c532c799709495aae13e89ad31b9e102",
+      "title": "Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs",
+      "url": "https://www.semanticscholar.org/paper/3a210fef392b2ac99f28d55115961266edd4f8f1",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-07-04T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916241",
-      "doi": "10.1016/j.conb.2025.103084",
+      "date_published": "2025-02-16T00:00:00",
+      "date_fetched": "2026-09-06T14:33:07.166319",
+      "doi": "10.48550/arXiv.2502.11184",
       "authors": [
         {
-          "name": "C. Verdonk",
-          "author_id": "1720780419",
+          "name": "Wenxuan Wang",
+          "author_id": "2301763363",
           "affiliation": null
         },
         {
-          "name": "O. Ajijola",
-          "author_id": "6891666",
+          "name": "Xiaoyuan Liu",
+          "author_id": "2325197824",
           "affiliation": null
         },
         {
-          "name": "Sahib S. Khalsa",
-          "author_id": "2355972792",
+          "name": "Kuiyi Gao",
+          "author_id": "2324794039",
+          "affiliation": null
+        },
+        {
+          "name": "Jen-Tse Huang",
+          "author_id": "2161306685",
+          "affiliation": null
+        },
+        {
+          "name": "Youliang Yuan",
+          "author_id": "2253848935",
+          "affiliation": null
+        },
+        {
+          "name": "Pinjia He",
+          "author_id": "2256989995",
+          "affiliation": null
+        },
+        {
+          "name": "Shuai Wang",
+          "author_id": "2324825352",
+          "affiliation": null
+        },
+        {
+          "name": "Zhaopeng Tu",
+          "author_id": "2253396717",
           "affiliation": null
         }
       ],
-      "abstract": "Interoception, the process by which the nervous system senses, interprets and integrates internal physiological signals, is fundamental to health, playing a key role in brain-body feedback loops that maintain homeostasis. Disruptions in interoceptive processing are common across psychiatric disorders, highlighting its relevance for diagnosis, prognosis, and treatment. This review examines recent translational advances in interoception research, with a focus on anxiety disorders, depression, eating disorders, and functional gastrointestinal disorders, where altered interoceptive signaling contributes to core symptoms. We discuss emerging cellular and molecular insights from animal models and address barriers to translating these findings to human psychopathology. To bridge this gap, we propose a \"roving lens\" approach, a multidisciplinary framework that dynamically integrates findings across biological scales, species, and methods. Here, multidisciplinary denotes team-based collaboration in which multiple fields contribute complementary expertise to a shared question, without fully dissolving disciplinary boundaries. By uniting mechanistic animal research with human clinical insight, this approach can advance interoceptive neuroscience and inform novel therapeutic strategies for psychiatric disorders.",
-      "journal": "Current Opinion in Neurobiology",
+      "abstract": "Multimodal Large Language Models (MLLMs) have expanded the capabilities of traditional language models by enabling interaction through both text and images. However, ensuring the safety of these models remains a significant challenge, particularly in accurately identifying whether multimodal content is safe or unsafe-a capability we term safety awareness. In this paper, we introduce MMSafeAware, the first comprehensive multimodal safety awareness benchmark designed to evaluate MLLMs across 29 safety scenarios with 1500 carefully curated image-prompt pairs. MMSafeAware includes both unsafe and over-safety subsets to assess models abilities to correctly identify unsafe content and avoid over-sensitivity that can hinder helpfulness. Evaluating nine widely used MLLMs using MMSafeAware reveals that current models are not sufficiently safe and often overly sensitive; for example, GPT-4V misclassifies 36.1% of unsafe inputs as safe and 59.9% of benign inputs as unsafe. We further explore three methods to improve safety awareness-prompting-based approaches, visual contrastive decoding, and vision-centric reasoning fine-tuning-but find that none achieve satisfactory performance. Our findings highlight the profound challenges in developing MLLMs with robust safety awareness, underscoring the need for further research in this area. All the code and data will be publicly available to facilitate future research.",
+      "journal": "Annual Meeting of the Association for Computational Linguistics",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Phase confusion: how inconsistent cardiac labeling obscures interoception research.",
-      "url": "https://www.semanticscholar.org/paper/665d3479c1b2d2ecc264015153a82a997d8221c8",
+      "title": "The effect of artificial intelligence awareness on frontline service employees\u2019 silence: the roles of psychological contract breach and moral identity",
+      "url": "https://www.semanticscholar.org/paper/70275a510df812d7a6a57c77fd79526ae7eb2c91",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-06-27T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916298",
-      "doi": "10.1016/j.biopsycho.2025.109078",
+      "date_published": "2025-03-04T00:00:00",
+      "date_fetched": "2026-09-06T14:33:07.166363",
+      "doi": "10.1108/ijchm-07-2024-0968",
       "authors": [
         {
-          "name": "Angelia Caparco",
-          "author_id": "2368548458",
+          "name": "Meng-Ting Cheng",
+          "author_id": "2349745602",
           "affiliation": null
         },
         {
-          "name": "Genaro L\u00f3pez-Mart\u00edn",
-          "author_id": "2258244815",
+          "name": "Long Zhang",
+          "author_id": "2269497253",
           "affiliation": null
         },
         {
-          "name": "Alejandro Galvez-Pol",
-          "author_id": "2328711815",
+          "name": "Haiqing Wang",
+          "author_id": "2269703249",
           "affiliation": null
         }
       ],
-      "abstract": "Research on the interaction between interoception and external sensory processing has expanded rapidly, particularly in how stimulus processing is influenced by concurrent cardiac phases (systole and diastole). However, definitions of these phases vary widely. Some studies follow biomedical conventions, defining systole as the period from the R-peak to the end of the T-wave in the electrocardiogram (ECG), with diastole encompassing the remainder of the cycle. Others adopt an estimated-latency approach, defining systole based on the estimated arrival of afferent cardiac signals in the brain. This approach assumes that baroreceptor activity plays a key role in cognition, though conclusive evidence for this is lacking. This variability leads to inconsistencies, where systole in one study may correspond partly or entirely to diastole in another. To address this, we review studies examining how cardiac phases modulate stimulus perception. Second, we highlight methodological inconsistencies in defining cardiac phases, particularly when using estimated latencies. Third, we discuss additional sources of variability, such as differences in recording equipment and measures of interoceptive ability. Rather than focusing on specific findings, we highlight broader challenges in replicability and interpretation. Additionally, we introduce the HEARTS framework, a set of guidelines for standardising methodologies in cardiac interoception research. This consists of six recommendations: Harmonizing physiological terms across fields, Establishing clear nomenclature, Avoiding selective reporting, Refining mechanistic understanding, Tailoring methods for precision, and Standardizing study comparability. Implementing these recommendations can improve methodological consistency, cross-study reliability, and interdisciplinary collaboration, ensuring a more accurate understanding of how interoceptive signals shape perception and cognition.",
-      "journal": "Biological Psychology",
+      "abstract": "\n\nThe widespread use of artificial intelligence (AI) technology in the hospitality industry has triggered concerns among frontline service employees about their future careers, namely, AI awareness. This study aims to explore whether AI awareness influences frontline service employees\u2019 silence through psychological contract breach and whether this process is contingent on frontline service employees\u2019 moral identity, drawing on social exchange theory and moral identity theory.\n\n\n\nThe data were collected from 355 frontline service employees in Chinese hotels using a two-wave survey. SPSS macro PROCESS Model 58 was used to test the proposed hypotheses.\n\n\n\nAI awareness increases frontline service employees\u2019 silence by prompting psychological contract breach. This process is moderated by frontline service employees\u2019 moral identity. Specifically, moral identity mitigates the effect of psychological contract breach on silence.\n\n\n\nOrganizations and managers should pay attention to the impact of AI on frontline service employees and take measures to help them better adapt to the rapidly changing work environment. In particular, it helps reduce frontline service employees\u2019 silence by fostering positive attitudes toward AI, maintaining their psychological contracts and developing their moral identities.\n\n\n\nThis study enriches the research on the outcomes of AI awareness by directing our attention to frontline service employees\u2019 silence. Moreover, this study not only explores the responses to AI awareness that frontline service employees make as \u201ceconomic persons\u201d but also examine whether they, as \u201cmoral persons,\u201d regulate their responses contingent on their moral identity under the impact of AI. Exploring frontline service employees\u2019 dual identities helps bring this research closer to the realities of managerial practice, thereby contributing to a better understanding and management of their complex responses to AI shocks.\n",
+      "journal": "International Journal of Contemporary Hospitality Management",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "Interoception and Mental Health in Middle-aged and Elderly Adults: A Systematic Review and Meta-analysis.",
-      "url": "https://www.semanticscholar.org/paper/65e9b44bd9283752ee76c466e74f17f49621e11f",
+      "title": "Integrating Eco-Theology In Islamic Education: A Case Study On Fostering Ecological Awareness Through Religious Pedagogy",
+      "url": "https://www.semanticscholar.org/paper/42be50284348fc2f04a00c2c49e506344fd53f8f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916342",
-      "doi": "10.1016/j.neubiorev.2025.106104",
+      "date_published": "2025-10-02T00:00:00",
+      "date_fetched": "2026-09-06T14:33:07.166397",
+      "doi": "10.20885/tarbawi.vol18.iss1.art1",
       "authors": [
         {
-          "name": "Meiling Qi",
-          "author_id": "2349453261",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaona Shen",
-          "author_id": "2274902516",
-          "affiliation": null
-        },
-        {
-          "name": "Yue Zeng",
-          "author_id": "2349459432",
-          "affiliation": null
-        },
-        {
-          "name": "Xiao-He Lin",
-          "author_id": "2349545072",
-          "affiliation": null
-        },
-        {
-          "name": "Muhammad Suliman",
-          "author_id": "2159169121",
-          "affiliation": null
-        },
-        {
-          "name": "Ping Li",
-          "author_id": "2244783665",
+          "name": "T. Taufikin",
+          "author_id": "2091569540",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND\nRecent studies have identified interoceptive dysfunction as a critical biomarker for emotional disorders. It is well-established that aging correlates with a deterioration in interoceptive capabilities, which consequently affects emotional processing dynamics.\n\n\nMETHODS\nThis study performed a systematic review and meta-analysis to evaluate the associations between interoceptive variants and mental health in middle-aged and elderly adults. Three English databases, including PubMed, Web of Science, and Medline (via EBSCO), were electronically searched from inception through December 2023. The study quality and meta-analysis were performed using the MMAT and RevMan 5.4 software.\n\n\nRESULTS\nA total of 21 studies were included in this systematic review, and data from 14 studies were used in the meta-analysis. Favorable associations were seen between interoception and depression (pooled r=-0.11 (95CI%: -0.19 to -0.03), z=2.72, p=0.006, I2=0%), alexithymia (pooled r=-0.25 (95CI%: -0.35 to -0.16), z=4.84, p<0.001, I2=31%), and emotion regulation (pooled r=0.30 (95CI%: 0.18 to 0.41), z=4.63, p<0.001, I2=33%). Interoception showed no significant correlation with other mental health outcomes.\n\n\nCONCLUSION\nThis systematic review and meta-analysis underscore the importance of interoception in understanding the underlying neural mechanisms of depression, alexithymia, and emotion regulation in middle-aged and older adults. Interoceptive training could also potentially serve as an effective strategy for promoting mental health within this demographic.",
-      "journal": "Neuroscience and Biobehavioral Reviews",
+      "abstract": "This study investigates the operationalization of eco-theology in Islamic education and its effects on students\u2019 environmental awareness and behavior. Anchored in the Qur\u2019anic principles of khil\u0101fah (vicegerency), am\u0101nah (trusteeship), and miz\u0101n (balance), the research employs a qualitative case-study design across three Islamic elementary schools in Demak that have instituted eco-theology\u2013based programs. Data were collected through semi-structured interviews, classroom and schoolyard observations, and document analysis. The analytic procedure involved iterative reduction, categorical coding, and interpretive synthesis, followed by source triangulation to enhance credibility. The findings show that integrating eco-theology into the curriculum substantially strengthens students\u2019 understanding of the connection between Islamic teachings and ecological responsibility while fostering tangible pro-environmental practices, including reforestation activities, structured waste management, and prudent energy use. Experiential learning and consistent teacher modeling emerged as decisive drivers of students\u2019 ecological conduct. Nonetheless, implementation is constrained by limited instructional materials, uneven teacher training, and the absence of systematic, school-wide eco-theological policies. Policy implications indicate the need for comprehensive eco-theology curricula, sustained professional development for teachers, and governance frameworks that institutionalize environmental stewardship. Schools should formalize supportive policies and cultivate partnerships among educational institutions, academics, and environmental organizations to build a more sustainable and integrated learning ecosystem.",
+      "journal": "el-Tarbawi",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "nondual awareness"
       ]
     },
     {
-      "title": "There is no such thing as interoception",
-      "url": "https://www.semanticscholar.org/paper/dafb0e8a5d36e64fcf9e36787255014ae0bf812e",
+      "title": "The Buddhist origins and modern adaptation of mindfulness meditation: The tradition of sati practice and its secular reinterpretation",
+      "url": "https://www.semanticscholar.org/paper/1bbecb4ab240e77c1c716957f1df17107182d3bd",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-10T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916364",
-      "doi": "10.3389/fpsyg.2025.1488415",
+      "date_published": "2026-08-31T00:00:00",
+      "date_fetched": "2026-09-06T14:33:18.849337",
+      "doi": "10.12972/mpca.2026.37.1",
       "authors": [
         {
-          "name": "F. Schoeller",
-          "author_id": "2276137093",
+          "name": "Pilwon Lee",
+          "author_id": "2278066547",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Purpose: This study aims to clarify the concept, structure, and soteriological purpose of sati practice in Early Buddhism on the basis of P\u0101li sources, and to analyze the core transformations that occur when sati is transposed into contemporary clinical mindfulness programs. It pays particular attention to the function of sati within jh\u0101na practice, an aspect largely neglected in existing scholarship. Methods: The study combines philological analysis of the P\u0101li Nik\u0101yas and the Visuddhimagga with a review of the manuals and outcome literature of five representative mindfulness-based programs (MBSR, MBCT, DBT, ACT, MSC), and then conducts a conceptual comparison across five axes: teleology, technique, secularization, the concept of self, and the sati-sam\u0101dhi linkage. Results: Canonical sati operates as a retentive and ethically discriminating faculty embedded in the Eightfold Path, and functions in jh\u0101na through access support, object retention, purification, and linkage to insight. Contemporary mindfulness selectively extracts present-moment observation and non-reactivity while detaching sati from s\u012bla, sam\u0101dhi, and the Four Noble Truths; the asubha dimension of body contemplation and the sati\u2013sam\u0101dhi linkage are the two elements most completely lost. Conclusion: The relation between the two traditions is best described neither as simple continuity nor as mere distortion, but as a selective extraction that yields demonstrable clinical benefit at the cost of the transformative depth secured by the original practice framework. The study further proposes a working definition of sati grounded in the canonical sources, and argues\u2014through an examination of the conditions under which the notion of up\u0101ya (skillful means) properly applies\u2014that this selective extraction constitutes an independent reconstruction serving a different telos, rather than either up\u0101ya or distortion.",
+      "journal": "Journal of Meditation based Psychological Counseling",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Moral Considerations and the Experience of Ego Dissolution: Insights from Psilocybin",
+      "url": "https://www.semanticscholar.org/paper/d340c3fd8467b31d8f04bbef5d07d76870b313b8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-09-06T14:33:26.415894",
+      "doi": "10.51847/ml10ckoxsw",
+      "authors": [
+        {
+          "name": "A. Karimov",
+          "author_id": "2307341084",
           "affiliation": null
         },
         {
-          "name": "Ben Zhang",
-          "author_id": "2344960518",
-          "affiliation": null
-        },
-        {
-          "name": "Teresa Garcia",
-          "author_id": "2344905198",
-          "affiliation": null
-        },
-        {
-          "name": "N. Reggente",
-          "author_id": "3435438",
+          "name": "D. Rasulov",
+          "author_id": "2100582973",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Frontiers in Psychology",
+      "journal": "Asian Journal of Ethics in Health and Medicine",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "ego dissolution"
       ]
     },
     {
-      "title": "A meta-analysis of the effects of mindfulness meditation training on self-reported interoception",
-      "url": "https://www.semanticscholar.org/paper/eb9d22f86ca770aaa7adc1dcb4ffad12217cd4e5",
+      "title": "Mesoscopic mechanisms of dicalcium silicate dissolution",
+      "url": "https://www.semanticscholar.org/paper/ebdb27a92275aa445a79bde91fb1a8fc099fd8e6",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-06T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916412",
-      "doi": "10.1038/s41598-025-22661-4",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-09-06T14:33:26.415947",
+      "doi": "10.1016/j.cemconres.2024.107660",
       "authors": [
         {
-          "name": "I. Treves",
-          "author_id": "2258723763",
+          "name": "Yong Tao",
+          "author_id": "2256318736",
           "affiliation": null
         },
         {
-          "name": "Ya-yun Chen",
-          "author_id": "2366511025",
+          "name": "Pablo Martin",
+          "author_id": "2338691525",
           "affiliation": null
         },
         {
-          "name": "Caitlyn L. Wilson",
-          "author_id": "2221213405",
+          "name": "H. Manzano",
+          "author_id": "4063500",
           "affiliation": null
         },
         {
-          "name": "C. Verdonk",
-          "author_id": "1720780419",
-          "affiliation": null
-        },
-        {
-          "name": "Joanne Qina`au",
-          "author_id": "2400370928",
-          "affiliation": null
-        },
-        {
-          "name": "James E. Pustejovsky",
-          "author_id": "2366446233",
-          "affiliation": null
-        },
-        {
-          "name": "Simon B. Goldberg",
-          "author_id": "2257975273",
-          "affiliation": null
-        },
-        {
-          "name": "Wolf E. Mehling",
-          "author_id": "2366446818",
-          "affiliation": null
-        },
-        {
-          "name": "Zev Schuman-Olivier",
-          "author_id": "1399070390",
-          "affiliation": null
-        },
-        {
-          "name": "Sahib S. Khalsa",
-          "author_id": "2355972792",
+          "name": "M. J. Qomi",
+          "author_id": "8913939",
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness meditation training may cultivate interoceptive awareness and provide therapeutic benefit when implemented within mental and physical health interventions. This pre-registered meta-analysis evaluated the impact of mindfulness interventions on self-reported interoception measures and associated relationships with psychological outcomes. Twenty-nine randomized controlled trials with 2,191 participants (77.8% female, mean age 32.8 years) were meta-analyzed using correlated and hierarchical effects models. Interventions included mindfulness-based programs (k\u2009=\u200915), body-based approaches (incorporating elements like massage, k\u2009=\u20098), and other variations (k\u2009=\u20096). Five SIMs were tested; the Multidimensional Assessment of Interoceptive Awareness was the most common (22 studies). Results showed a small-to-medium positive effect on interoception measures across all studies (g\u2009=\u20090.31, p\u2009<\u20090.001, 95% CI [0.21, 0.42]) with low-to-moderate heterogeneity (\u03c4\u2009=\u20090.16). Mindfulness-based programs demonstrated the largest effects (g\u2009=\u20090.41). No evidence of publication bias was found. No other moderators, such as practice dosage or clinical sample, were significant. Improvements in self-reported interoception were similar in size to improvements in self-reported mindfulness and were related to improvements in psychological distress. These meta-analytic findings provide evidence that mindfulness-based interventions lead to adaptive changes in the subjective experience of interoception, perhaps contributing to improved mental wellbeing.",
-      "journal": "Scientific Reports",
+      "abstract": null,
+      "journal": "Cement and Concrete Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "ego dissolution"
       ]
     },
     {
-      "title": "Under the surface: Low cardiac vagal tone and poor interoception in young adults with subclinical depressive symptoms.",
-      "url": "https://www.semanticscholar.org/paper/082a626dbb7216a4f237305f6ce55de97ee846f6",
+      "title": "Alienation and The Dissolution of The Self: A Psychoanalytic Approach to Franz Kafka\u2019s The Metamorphosis",
+      "url": "https://www.semanticscholar.org/paper/5e1e2ad2db5bc435c3a248bfbb0051bcd3f31ba8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-04-30T00:00:00",
+      "date_fetched": "2026-09-06T14:33:26.415958",
+      "doi": "10.35365/ejec.26.1.07",
+      "authors": [
+        {
+          "name": "G\u00f6k\u00e7e Bayram",
+          "author_id": "2410699442",
+          "affiliation": null
+        },
+        {
+          "name": "\u015e. Tun\u00e7ay",
+          "author_id": "2053716785",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study examines Franz Kafka's The Metamorphosis within the framework of Sigmund Freud's psychoanalytic theory. The aim is to reveal the psychodynamic relationships between Kafka's life story and the novel's protagonist, Gregor Samsa, and to discuss how the character structures in the work can be interpreted from a psychoanalytic perspective. To this end, Kafka's family relationships, particularly his conflicts with his father figure, and his bonds with his mother and sister, are examined. The Metamorphosis is analyzed through the lens of fundamental psychoanalytic concepts, including the Oedipus complex, repression, regression, melancholia, and sublimation. The study concludes that Gregor Samsa's transformation into an insect symbolizes not only a physical change but also the ego's defensive retreat in the face of unconscious conflicts. Furthermore, the conflict between Gregor and his father has strong parallels to Kafka's own life experiences. These parallels highlight the similarities between Kafka's internal conflicts with his father and those of Gregor Samsa, as well as his relationships with other family members. The novel The Metamorphosis highlights the similarities between Gregor Samsa's relationship with his sister, Grete, and Kafka's own relationship with his sister. The feelings of loneliness, fear, and guilt at work are influenced by Gregor's relationships with his mother and sister. The theme of death in Gregor's relationship with his father is examined in particular. In this respect, alienation and the uncertainty in Gregor's sense of self and values \u200b\u200bare addressed. In conclusion, The Metamorphosis is considered a literary representation of Kafka's internal conflicts and psychodynamic structure. This study aims to demonstrate the psychoanalytic approach's contribution to the multi-layered interpretation of literary texts.",
+      "journal": "European Journal of Education and Counselling",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "ego dissolution"
+      ]
+    },
+    {
+      "title": "Psychedelics and connectedness to natural and social worlds: An examination of the evidence and a proposed conceptual framework.",
+      "url": "https://www.semanticscholar.org/paper/89f036e63d3361b105b059349e47c73d90f239f8",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916440",
-      "doi": "10.1016/j.jad.2025.01.057",
+      "date_fetched": "2026-09-06T14:33:26.415968",
+      "doi": "10.1016/j.copsyc.2025.101992",
       "authors": [
         {
-          "name": "Vanessa Ruggiero",
-          "author_id": "2340613910",
+          "name": "Matthias Forstmann",
+          "author_id": "4358229",
           "affiliation": null
         },
         {
-          "name": "C. Dell\u2019Acqua",
-          "author_id": "1816719287",
-          "affiliation": null
-        },
-        {
-          "name": "Elisabetta Cremonese",
-          "author_id": "2340613972",
-          "affiliation": null
-        },
-        {
-          "name": "Matteo Giraldo",
-          "author_id": "2180446185",
-          "affiliation": null
-        },
-        {
-          "name": "Elisabetta Patron",
-          "author_id": "7143980",
+          "name": "Christina Sagioglou",
+          "author_id": "2386610",
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION\nDepressive symptoms are associated with alterations in central and autonomic nervous system activity, including misperception of bodily activity (e.g., low interoception), somatic symptoms and decreased vagally mediated heart rate variability (vmHRV). However, there is a lack of studies that examine both perception of bodily activity and autonomic function in depression. The present study investigated the association between interoception, vmHRV, and subclinical depressive symptoms.\n\n\nMETHOD\nEighty-eight students were enrolled and vmHRV was calculated from a 5-minute resting electrocardiogram. Interoceptive accuracy (heartbeat tracking task; heartbeat discrimination task), interoceptive sensibility (Body Perception Questionnaire), and depressive symptoms (Depression, Anxiety and Stress Scale - 21 Items) were assessed.\n\n\nRESULTS\nInteroceptive accuracy and sensibility positively correlated with vmHRV and negatively correlates with depressive symptoms. Cluster analysis performed on vmHRV, interoceptive accuracy, and sensibility provided two clusters: the first characterized by a pattern of low interoceptive accuracy, sensibility, and decreased resting vmHRV, the second characterized by an opposite pattern. Regression analyses showed that the first cluster was characterized by significantly higher depressive symptoms compared to the second (\u03b2\u202f=\u202f1.97; pBonferroni\u202f=\u202f0.04), even after controlling for sex, BMI, anxiety, and stress levels.\n\n\nCONCLUSIONS\nSubclinical depressive symptoms are associated with a consistent impairment in the perception and interpretation of bodily activity and altered regulatory function of the autonomic nervous system. The present results suggest that the alteration of brain-body communication could be involved in subclinical depressive symptoms. Early identification of such alterations could help with targeted preventive strategies.",
-      "journal": "Journal of Affective Disorders",
+      "abstract": "Recent research suggests that serotonergic psychedelics may simultaneously enhance connectedness to both social and natural worlds. This article synthesizes current evidence regarding psychedelics' effects on nature relatedness and social connectedness, examining underlying mechanisms through the framework of self-other overlap. Psychedelics appear to facilitate self-expansion through two complementary mechanisms: ego dissolution, which temporarily alters self-boundaries, and enhanced emotional processing, which increases empathic concern. While studies demonstrate promising effects, interpretation is complicated by methodological challenges including functional unblinding, reliance on self-reports, and small sample sizes. We propose a multidimensional model of connectedness that distinguishes between perceptual, emotional, and epistemic domains, each showing distinct patterns in acute and enduring effects. Future research would benefit from behavioral measures, active placebos, and careful consideration of contextual factors.",
+      "journal": "Current Opinion in Psychology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "ego dissolution"
       ]
     },
     {
-      "title": "Hypothalamus Regulates Anabolic Metabolism of Articular Cartilage Superficial Chondrocytes through PGE2 Skeletal Interoception",
-      "url": "https://www.semanticscholar.org/paper/d0829164d9903e966c5c59bc7eb5c0de6ce4ea53",
+      "title": "Dissolved Fe species enable a cooperative solid\u2013molecular mechanism for the oxygen evolution reaction on NiFe-based catalysts",
+      "url": "https://www.semanticscholar.org/paper/9189f06d9a14d1b4d5d6f71a729241eb3be90aaf",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-26T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916471",
-      "doi": "10.1002/advs.202501039",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-09-06T14:33:26.416018",
+      "doi": "10.1038/s41929-025-01342-5",
       "authors": [
         {
-          "name": "Ziyi Wang",
-          "author_id": "2353571815",
+          "name": "C. Kuai",
+          "author_id": "153710466",
           "affiliation": null
         },
         {
-          "name": "Xuequan Han",
-          "author_id": "2310658216",
+          "name": "Liping Liu",
+          "author_id": "2243460320",
           "affiliation": null
         },
         {
-          "name": "Jiawen Xu",
-          "author_id": "2249071700",
+          "name": "Anyang Hu",
+          "author_id": "95403257",
           "affiliation": null
         },
         {
-          "name": "Weixin Zhang",
-          "author_id": "2332587740",
+          "name": "Y. Zhang",
+          "author_id": "2152819159",
           "affiliation": null
         },
         {
-          "name": "Kalp Patel",
-          "author_id": "2265245360",
+          "name": "Yuxin Zhang",
+          "author_id": "2145067199",
           "affiliation": null
         },
         {
-          "name": "Jinjian Zheng",
-          "author_id": "2220799039",
+          "name": "Dawei Xia",
+          "author_id": "2280875459",
           "affiliation": null
         },
         {
-          "name": "Mei Wan",
-          "author_id": "2253407224",
+          "name": "Dennis Nordlund",
+          "author_id": "2342803091",
           "affiliation": null
         },
         {
-          "name": "Junying Zheng",
-          "author_id": "2254130587",
+          "name": "D. Sokaras",
+          "author_id": "6336977",
           "affiliation": null
         },
         {
-          "name": "Xu Cao",
-          "author_id": "2256587535",
+          "name": "Donato Decarolis",
+          "author_id": "2316557109",
+          "affiliation": null
+        },
+        {
+          "name": "D. Gianolio",
+          "author_id": "2264604201",
+          "affiliation": null
+        },
+        {
+          "name": "Hongliang Xin",
+          "author_id": "2146864459",
+          "affiliation": null
+        },
+        {
+          "name": "Luxi Li",
+          "author_id": "2258567728",
+          "affiliation": null
+        },
+        {
+          "name": "Feng Lin",
+          "author_id": "2152089108",
           "affiliation": null
         }
       ],
-      "abstract": "Degeneration of articular cartilage is the key underlying cause of most joint\u2010related diseases and yet little is known about its regeneration. Here, we report that skeletal interoception induces anabolic synthesis of superficial membrane by tuning down sympathetic norepinephrine (NE). Specifically, the superficial membrane is consumed during animal activity and anabolically renewed by the underneath chondrocytes in the superficial zone (SFZ). Notably, by stereotactic knockdown of sympathetic NE synthesis in the paraventricular nucleus, articular cartilage thickness increases. Moreover, deletion of the gene encoding the prostaglandin E2 (PGE2) receptor, EP4, in sensory nerves for ascending interoceptive pathway induces damage of superficial membrane and articular cartilage degeneration. In contrast, increase of interoceptive signaling by elevation of local PGE2 reduces sympathetic outflow to promote the anabolic renewal of superficial membrane. Importantly, inducible knockout of the \u03b2\u20102\u2010adrenergic\u2010receptor (Adrb2) in the SFZ chondrocytes damages superficial membrane and treadmill running aggravates the damage. Mechanistically, NE\u2010mediated activation of Adrb2 induces internalization of Adrb2 and TGF\u2010\u03b2 type II receptor as a complex, thereby regulating TGF\u2010\u03b2 activity for articular cartilage homeostasis regeneration. Together, physical activity induces an anabolic renewal of the superficial membrane by downregulation hypothalamic NE for optimized thickness and integrity of articular cartilage.",
-      "journal": "Advancement of science",
+      "abstract": null,
+      "journal": "Nature Catalysis",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "interoception contemplative"
+        "ego dissolution"
       ]
     },
     {
-      "title": "The role of subjective interoception in autobiographical deficits in aphantasia",
-      "url": "https://www.semanticscholar.org/paper/76c13f172b0d6ccbbd7bbeafc779076f96d73326",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-12-01T00:00:00",
-      "date_fetched": "2026-09-05T14:09:13.916571",
-      "doi": "10.1038/s41598-025-23270-x",
-      "authors": [
-        {
-          "name": "M. Monzel",
-          "author_id": "2080032396",
-          "affiliation": null
-        },
-        {
-          "name": "Yoko Nagai",
-          "author_id": "2344083089",
-          "affiliation": null
-        },
-        {
-          "name": "Juha Silvanto",
-          "author_id": "2290172968",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Autobiographical memory deficits are well-documented in aphantasia, yet the underlying mechanisms remain unclear. Emerging models suggest that interoception plays a crucial role in mental imagery, a key component of memory retrieval. In this study, we investigate the relationship between self-reported interoception, mental imagery, and autobiographical memory, with a specific focus on aphantasia. First, we examined whether interoceptive awareness and autobiographical memory differ between individuals with core aphantasia (n\u2009=\u200969), hypophantasia (n\u2009=\u2009266) and typical imagers (n\u2009=\u2009133). Our findings reveal that aphantasics report significantly lower autobiographical memory as well as subjective interoceptive awareness across key subscales, including emotional awareness and noticing. Secondly, a mediation analysis reveals that mental imagery mediates the relationship between the emotional awareness subscale of the Multidimensional Assessment of Interoceptive Awareness (MAIA) questionnaire and autobiographical memory, suggesting that subjective interoception may contribute to memory recall indirectly through its influence on imagery. These findings provide novel empirical support for the idea that interoception is linked to both mental imagery and memory retrieval. The reduced interoceptive awareness observed in aphantasia may contribute to their known deficits in autobiographical memory, positioning aphantasia as a condition that extends beyond a lack of mental imagery to include altered interoceptive processing.",
-      "journal": "Scientific Reports",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "interoception contemplative"
-      ]
-    },
-    {
-      "title": "Digital Mindfulness Intervention for Pregnant Women With Affective Disorders and Acute Stress Reactions: Prespecified Secondary Analysis of a Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42695336/",
+      "title": "Raja Yoga meditation: A personal spiritual experience and narrative inquiry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42259099/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-02T00:00:00",
-      "date_fetched": "2026-09-05T14:09:26.503132",
-      "doi": "10.2196/93811",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-09-06T14:33:41.919681",
+      "doi": "10.1016/j.explore.2026.103462",
       "authors": [
         {
-          "name": "Kathrin Ha\u00dfdenteufel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mitho M\u00fcller",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jan Multmeier",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Harald Abele",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sara Yvonne Brucker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stefan Zipfel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Johanna Graf",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Armin Bauer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Peter Jakubowski",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jan Pauluschke-Fr\u00f6hlich",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Markus Wallwiener",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stephanie Wallwiener",
+          "name": "Kamala Chandak",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Pregnant women with  OBJECTIVE: This study evaluated the effectiveness of an 8-week digital mindfulness-based intervention (eMBI) compared with treatment as usual (TAU) among pregnant women with  METHODS: This prespecified secondary analysis was conducted within a multicenter RCT in Baden-W\u00fcrttemberg, Germany. Pregnant women aged 18 years and older with elevated depressive symptoms (Edinburgh Postnatal Depression Scale [EPDS]>9) and  RESULTS: Of the 5299 screened women, 147 met the inclusion criteria for this subgroup analysis (intervention group [IG] had n=73 women and control group had n=74 women). Groups were comparable at baseline. The IG showed significantly greater reductions in EPDS scores at gestational week 34 (\u0394=-2.21,  CONCLUSIONS: In this prespecified subgroup of pregnant women with ",
-      "journal": "Journal of medical Internet research",
+      "abstract": "The COVID-19 pandemic catalysed widespread psychological distress, daily disruptions, and pervasive uncertainty. This paper presents a narrative inquiry exploring a personal spiritual journey with Raja Yoga meditation, initiated via an online course during the pandemic lockdown. The account investigates the interconnected roles of spiritual knowledge, meditation practice, and selfless service (Sewa) in enhancing psychological well-being and fostering profound inner transformation. Additionally, a unique subjective experience during a residential spiritual retreat is analysed through both spiritual and neuro-psychological frameworks. The findings highlight the potential of meditation-based spiritual practices to cultivate self-awareness, mental clarity, and emotional resilience. This study contributes to the expanding body of literature addressing the intersection of spirituality and mental health during global crises.",
+      "journal": "Explore (New York, N.Y.)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -455,27 +385,113 @@
       "matched_keywords": []
     },
     {
-      "title": "Effects of a Sound-Based Meditative Intervention on Anxiety, Depression, Salivary Cortisol Levels, and Blood Pressure: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694510/",
+      "title": "Awareness of being: a computational neurophenomenological model of mindfulness, mind-wandering, and meta-attentional control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701647/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-09-06T14:33:52.602109",
+      "doi": "10.1093/nc/niag046",
+      "authors": [
+        {
+          "name": "Hayato Idei",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Keisuke Suzuki",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuichi Yamashita",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindfulness has established psychological benefits, such as stress reduction and emotional regulation; however, the underlying computational mechanisms, particularly in relation to mind-wandering, remain unclear. This study aimed to present a hierarchical recurrent neural network-based agent model grounded in the free energy principle to explore these processes within the framework of allostasis. The model integrates interoceptive, proprioceptive, and exteroceptive predictive processing, which minimizes the variational free energy throughout past and future contexts. Simulations of the resting state showed that inferred (mentally simulated) homeostatic context modulated attentional shifts between a 'being' mode (focused on present interoceptive perception) and a 'doing' mode (involving mentally simulated proprioceptive and exteroceptive sensorimotor behaviors). Further, we identified a meta-attentional parameter that controls these shifts by influencing cognitive attitudes toward internally generated beliefs across network modules spanning from the past to the future. By manipulating this parameter, we replicated mindfulness states ('deep-being' mode) in which attention remained focused on the present interoceptive state, despite minimal sensory prediction errors. This study offers insights into the computational dynamics of mindfulness and mind-wandering, laying the groundwork for the future exploration of consciousness and pure awareness, which is a state of consciousness devoid of content.",
+      "journal": "Neuroscience of consciousness",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Weight Stigma, Body Trust, and Suicide Ideation Among Adolescents: A Longitudinal Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700472/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-05T00:00:00",
+      "date_fetched": "2026-09-06T14:33:52.602847",
+      "doi": "10.1002/jclp.70222",
+      "authors": [
+        {
+          "name": "Reza N Sahlan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marley G Billman Miller",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lauren E Pictor",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lauren Harris",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "April Smith",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Suicide is the fourth leading cause of death, with rates rising during adolescence. In the United States, suicide deaths rose among 15-24-year-olds and more than doubled among 10-14-year-olds from 2008 to 2018, with one in six reporting suicidal ideation (SI) annually. Weight stigma (WS), both experienced and internalized, is a significant suicide risk factor. WS fosters shame, self-doubt, and reduced body trust, or feeling unsafe in one's body-all of which are linked to SI. This study tested whether body trust mediated the relation between WS and SI among Iranian adolescents. Participants (N\u2009=\u20091243) completed online measures at three timepoints (baseline, 1-month, 3 months). Cross-lagged panel models were tested in MPlus to examine relations between constructs. Higher internalized WS predicted lower body trust at 1-month follow-up, but body trust at 1-month follow-up did not significantly predict SI at 3-month follow-up. Experienced WS and SI demonstrated reciprocal relations such that experienced WS and SI at baseline predicted one another at 1-month follow-up. Higher body trust at baseline predicted lower experienced WS, Internalized WS, and SI at 3-month follow-up, as well as lower internalized WS at 1-month follow-up. WS was not indirectly associated with SI through low body trust. These findings show independent links between WS, body trust, and SI, underscoring the need for targeted interventions. Clinicians should assess and address these factors in adolescents at risk. Approaches that challenge weight-biased beliefs and build body trust, such as mindfulness or acceptance-based strategies, may reduce distress.",
+      "journal": "Journal of clinical psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Comparative efficacy of interventions for transdiagnostic anhedonia: a network meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42700486/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-01T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.110726",
-      "doi": "10.7759/cureus.115693",
+      "date_fetched": "2026-09-06T14:33:52.602982",
+      "doi": "10.1016/j.psychres.2026.117435",
       "authors": [
         {
-          "name": "Hemachandran Ravikumar",
+          "name": "Yong-Ming Wang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Suresh Sathyanarayanan",
+          "name": "Fei Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yun-Wu Hou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meng Zhang",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Background Psychological stress contributes to mental health symptoms and cardiovascular risk through pathways involving anxiety, depression, cortisol secretion, autonomic dysregulation, and elevated blood pressure. Sound-based meditation is a nonpharmacological approach that may support stress management, but randomized controlled trial evidence remains limited. Objective The objective was to evaluate whether a structured sound-based meditation intervention was associated with lower post-intervention anxiety symptoms, measured using the Hospital Anxiety and Depression Scale-Anxiety subscale (HADS-A), than a remotely delivered music-control condition after four weeks. Depressive symptoms, salivary cortisol concentration, systolic blood pressure, and exploratory diastolic blood pressure were also assessed. Methodology This parallel-group randomized controlled trial enrolled 100 adults aged 21-65 years from meditation centers and surrounding communities in Tamil Nadu, India. Participants were randomly assigned in a 1:1 ratio to a sound-based meditation intervention group (",
-      "journal": "Cureus",
+      "abstract": "Anhedonia is a transdiagnostic disturbance of reward processing, yet the comparative efficacy and certainty of available interventions remain unclear. We searched PubMed, Embase, Web of Science, and MEDLINE for controlled trials reporting quantitative anhedonia outcomes. The protocol was registered in PROSPERO under CRD42025630784. Random-effects frequentist network meta-analyses were conducted overall and by population, including major depressive disorder, schizophrenia, and healthy individuals with trait anhedonia. Randomized trials were assessed with the Cochrane Risk of Bias 2 (RoB 2) tool, and the single non-randomized trial was assessed with the Risk of Bias in Non-randomized Studies of Interventions (ROBINS-I) tool. Certainty of evidence was assessed using the Confidence in Network Meta-Analysis framework. Sixty reports representing 61 independent trials, 5794 participants, and 80 contrasts were included. The primary network comprised 35 trials, 39 contrasts, and 17 treatment nodes. In the overall transdiagnostic network, estimates versus the pooled control node favoured vortioxetine 10 mg/day, left dorsolateral prefrontal cortex-targeted transcranial magnetic stimulation (left DLPFC-targeted TMS), behavioural activation, and meditation. The corresponding standardized mean differences were -0.90, -0.55, -0.52, and -0.49. Heterogeneity was substantial at I\u00b2 = 71.90%, but the design-by-treatment test did not indicate global inconsistency. Left DLPFC-targeted TMS showed the most consistent evidence pattern across the overall and major depressive disorder networks, supported by five direct trials in the overall network and stable leave-one-trial-out estimates. These findings clarify the comparative evidence across pharmacological, neuromodulatory, and psychological approaches and provide a structured basis for future diagnosis-specific trials and treatment development.",
+      "journal": "Psychiatry research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -483,37 +499,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Supporting mental health during pregnancy: The feasibility of a combined peer support and mindfulness intervention, a quasi-experimental pre-post feasibility study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694511/",
+      "title": "Evidence-Based Perspectives on Complementary and Alternative Medicine in Cancer Treatment: Current Advances and Clinical Relevance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699264/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.111163",
-      "doi": "10.18332/ejm/226733",
+      "date_fetched": "2026-09-06T14:33:52.603638",
+      "doi": "10.2147/JMDH.S629362",
       "authors": [
         {
-          "name": "Sudjit Liblub",
+          "name": "Adil Farooq Wali",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Karen McLaughlin",
+          "name": "Sirajunisa Talath",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kirsty Pringle",
+          "name": "Nawar Nezar Alaani",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Allison Cummins",
+          "name": "Omnia Ibrahim Mohamed",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tiba Humam Alhamadani",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Pregnancy is a critical period of heightened vulnerability to mental health challenges. Peer support and mindfulness have individually shown promise as non-pharmacological perinatal mental health strategies, yet their combined potential remains underexplored. This study evaluated the feasibility of a novel intervention integrating peer support with a mindfulness application. METHODS: A quasi-experimental pre-post feasibility design was conducted between April 2024 and January 2025 at an antenatal clinic in a public hospital in New South Wales, Australia, using convenience sampling across two sequential recruitment phases. The 4-week intervention combined mutual peer support sessions with guided mindfulness practice via the Headspace app, enrolling pregnant women at elevated risk of anxiety and depression (priority group) and those from the general pregnant population. Validated self-report measures (DASS-21, FFMQ-15, MSPSS) and salivary cortisol samples were collected pre- and post-intervention. Wilcoxon signed-rank and Mann-Whitney U tests examined within- and between-group changes; open-ended post-intervention survey responses were analyzed using content analysis. RESULTS: Thirteen pregnant women participated, achieving a 100% retention rate despite recruitment challenges. A statistically significant reduction in stress was observed in the general group compared to the priority group (median [IQR]: 22 [14-30] vs 8 [2-20]; p<0.050). No significant pre-to-post changes were found in anxiety, depression, mindfulness, or perceived social support in either group (p>0.05). Qualitative findings highlighted that the intervention fostered emotional support, connectedness, and mindfulness engagement, with participants expressing willingness to recommend the program. CONCLUSIONS: Combining peer support with a mindfulness application appears feasible and acceptable for pregnant women and warrants evaluation in adequately powered randomized controlled trials.",
-      "journal": "European journal of midwifery",
+      "abstract": "Cancer is a leading cause of death worldwide with considerable physical, psychological and socioeconomic impact. In parallel to traditional treatments such as chemotherapy, radiotherapy, surgery and immunotherapy, patients with cancer have increasingly turned towards Complementary and Alternative Medicine (CAM) in their quest for better quality of life, symptom relief and whole-person oriented approaches. In this review, we provide a comprehensive overview of the role of CAM therapies in cancer management, including Ayurvedic medicine, Traditional Chinese Medicine (eg, acupuncture), naturopathy, homeopathy, yoga and tai chi, dietary interventions and mind-body therapies. Available literature indicates that several CAM modalities may alleviate the side effects of treatment including pain, fatigue, anxiety and insomnia while decreasing nausea and depression as well as lymphedema, improving emotional health and clinical trial overall satisfaction. Positive supportive effects through symptom relief have been shown for herbal medicines and acupuncture while yoga, meditation as well as relaxation therapies show benefits related to psychological resilience and stress reduction. The evidence for the effectiveness of individual interventions (homeopathy, certain dietary therapies, etc.) are inconsistent and controversial. Adverse herb-drug interactions, non-adherence to curative treatment schedules and safety issues further emphasise the need for clinical oversight and evidence-informed incorporation of CAM into cancer care. Global prevalence, the state of CAM in the UAE, together with obstacles related to regulation and clinical practice are also reviewed. Recent advances in complementary and alternative medicine (CAM) have increasingly focused on evidence-based integrative oncology, where selected CAM interventions are incorporated alongside conventional cancer therapies to improve patient outcomes. Growing clinical evidence supports the use of acupuncture, standardized herbal formulations, yoga, mindfulness-based interventions, and nutritional approaches for managing cancer-related symptoms, reducing treatment-associated toxicities, and enhancing quality of life. Furthermore, advances in phytochemical research, molecular pharmacology, and systems biology have improved the understanding of the mechanisms underlying CAM therapies, facilitating their rational integration into multidisciplinary cancer care. Despite these promising developments, further well-designed clinical trials and standardized treatment protocols are required to establish their long-term efficacy and safety. Although several complementary and alternative medicine (CAM) interventions have demonstrated encouraging clinical outcomes, the quality of the available evidence varies considerably. While randomized controlled trials support the use of acupuncture, yoga, and mindfulness-based interventions for symptom management and quality-of-life improvement, many studies evaluating herbal medicines are limited by small sample sizes, heterogeneous methodologies, and inadequate long-term follow-up. Therefore, additional well-designed multicenter clinical trials are required to establish the efficacy and safety of these interventions.In summary, as long as CAM therapies are used appropriately and in conjunction with healthcare professionals, they may be beneficial adjuncts to standard cancer therapy. The role of these agents in integrative oncology care will require additional well-designed clinical trials and mechanistic studies to determine efficacy and safety profiles.",
+      "journal": "Journal of multidisciplinary healthcare",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -521,209 +542,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Visceral states and social transmission bias: A social psychological perspective on financial decision-making.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696903/",
+      "title": "Current perspectives on the psychological stress-immune axis in asthma: Pathophysiology, interventions, and significance for patient care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699749/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-04T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.111763",
-      "doi": "10.1016/j.actpsy.2026.107752",
+      "date_published": "2026-09-01T00:00:00",
+      "date_fetched": "2026-09-06T14:33:52.604959",
+      "doi": "10.1016/j.waojou.2026.101453",
       "authors": [
         {
-          "name": "Shreya",
+          "name": "KaKa L Adams",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Harsimran Sandhu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hardeep Singh Mundi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Aariz Faizan Javed",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sachin Choudhry",
+          "name": "Gailen D Marshall",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Financial decisions are shaped by the body as much as by the mind. This paper links transient visceral states, such as hunger, thirst, fatigue, and pain, to the influence of socially transmitted signals. Existing work treats these as independent influences. We argue that they interact. By degrading the capacity for independent evaluation, visceral states raise reliance on the evaluations of others. Drawing on constructionist accounts of emotion, social decision neuroscience, and dual-process models, we explain why this amplification is specific to social cues rather than to salient cues in general. Five propositions follow, each with a discriminating prediction. Mindfulness and self-regulation enter as tests of the mechanism, not as remedies.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Hypnosis-based intervention for mystical experiences: a qualitative analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696518/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-04T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.112202",
-      "doi": "10.1080/00029157.2026.2704105",
-      "authors": [
-        {
-          "name": "Chris Corlett",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jesse J Norris",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sharika Majeti",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cameron Alldredge",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gary Elkins",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mystical experiences or peak spiritual experiences have been shown to be of potential benefit in facilitating personal growth and ameliorating anxiety and depression. A pilot study demonstrated the feasibility of hypnotically induced mystical experiences. Althrough participants' qualitative experiences were recorded and analyzed, they have yet to be reported. Although participants' qualitative experiences were recorded and analyzed, they have yet to be reported. The present study presents a thematic analysis of findings from semi-structured interviews about individuals' subjective experiences following the hypnosis-based intervention for a mystical experience. Results revealed that participants described their experiences as personally significant, marked by intense emotion (crying, compassion, perceived release), hallucination-like phenomena (vivid imagery, synesthesia, sensed presence of deceased relatives), and insight regarding self-love, values, and life decisions. Additional themes included feelings of divine love, unity, and ego dissolution. These experiences closely resembled those reported in psychedelic contexts, while also featuring elements, such as spontaneous feelings of being loved, not fully captured by existing instruments. Future research on hypnosis, mental imagery, and guided exercises for mystical experience should include both standardized measures as well as subjective reports.",
-      "journal": "The American journal of clinical hypnosis",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Illness perceptions and symptom burden in chemotherapy-induced peripheral neuropathy: a moderated mediation analysis from a self-regulatory perspective.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696072/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-04T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.112420",
-      "doi": "10.1007/s11764-026-02081-7",
-      "authors": [
-        {
-          "name": "Qingchun Geng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xiang Gao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qian Zhao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hongwen Ma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ruoyi Xu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jun Luo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chulei Tang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yanfei Jin",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE: Chemotherapy-induced peripheral neuropathy (CIPN) is a prevalent and often persistent adverse effect that contributes to substantial symptom burden and psychological distress among cancer survivors. However, the self-regulatory mechanisms linking patients' illness perceptions to these outcomes remain poorly understood. Guided by the Common-Sense Model of self-regulation, this study examined whether positive coping mediates the associations between illness perceptions and CIPN-related symptom burden and psychological distress, and whether mindfulness moderates these pathways. METHODS: A two-center cross-sectional survey enrolled 563 adults receiving platinum-based chemotherapy who reported CIPN symptoms. Validated questionnaires assessed CIPN symptom severity, psychological distress, illness perceptions, positive coping, mindfulness, and physical activity. Structural equation modeling with bootstrapping tested mediation and moderated mediation, adjusting for covariates. RESULTS: More threatening illness perceptions were significantly associated with greater CIPN symptom burden and higher psychological distress. Positive coping partially mediated these associations, accounting for 51% of the total association with symptom burden and 37% with psychological distress. Mindfulness moderated key pathways, indicating that the strength of associations between illness perceptions, coping, and outcomes varied according to mindfulness levels. CONCLUSIONS: These findings support a self-regulatory framework in which illness perceptions influence CIPN-related physical and psychological outcomes partly through coping processes, while mindfulness shapes vulnerability across pathways. IMPLICATIONS FOR CANCER SURVIVORS: Interventions targeting illness perceptions, coping skills, and mindfulness may help cancer survivors better manage CIPN symptoms and psychological distress, thereby supporting more comprehensive survivorship care.",
-      "journal": "Journal of cancer survivorship : research and practice",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Quality of Life Measurement Tools in Interventions for Anxiety and Depressive Disorders: A Systematic Literature Review in Global Settings.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694966/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.113489",
-      "doi": "10.2147/NDT.S614122",
-      "authors": [
-        {
-          "name": "Fredrick Dermawan Purba",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Farah Fadilah Hasyim",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hari Setyowibowo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ralph De Vries",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Anxiety and depression Disorders play a crucial role in the global disease burden and impose significant effects. Depression markedly impacts psychosocial functioning and quality of life. Nevertheless, the effectiveness of mental health interventions is generally assessed through symptom reduction, the use of QoL as a patient-centered outcome is still not standardized. This systematic review aims to identify QoL instruments used in anxiety and depression interventions and analyze variations in their application in various global contexts. A systematic literature review was conducted in accordance with PRISMA 2020 guidelines and prospectively registered in PROSPERO (CRD420251109799). Literature searches were performed in PubMed, Embase.com, Scopus, and APA PsycInfo. Following screening and eligibility assessment, 17 studies were included in the final review. Interventions included psychotherapy, mindfulness, and body-based therapy, digital interventions, pharmacotherapy, and combined approaches. The most frequently used QoL instruments were SF-36/SF-12, EQ-5D, and WHOQOL-BREF. In general, interventions showed that physical activity has a positive impact on QoL, particularly in the psychological and social domains. However, instrument heterogeneity, the dominance of self-reports, and cultural context limitations were major challenges. Standardization of culturally sensitive QoL measurements is needed to improve the validity and comparability of global findings.",
-      "journal": "Neuropsychiatric disease and treatment",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Childhood Psychological Maltreatment and Romantic Relationship Satisfaction: The Roles of Relationship Mindfulness and Emotional Intelligence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696658/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-04T00:00:00",
-      "date_fetched": "2026-09-05T14:09:37.113667",
-      "doi": "10.1177/00332941261488352",
-      "authors": [
-        {
-          "name": "Ya\u011fmur Kaya",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ceren \u00d6zt\u00fcrk",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Childhood psychological maltreatment may be associated with difficulties in attaining satisfaction in adult romantic relationships. The present study aimed to examine the indirect associations between childhood psychological maltreatment and romantic relationship satisfaction involving relationship mindfulness and emotional intelligence. A total of 459 Turkish individuals (308 women and 151 men), all currently involved in a romantic relationship, participated in the study. Structural equation modeling indicated significant indirect associations between childhood psychological maltreatment and romantic relationship satisfaction involving relationship mindfulness and emotional intelligence. Higher levels of childhood psychological maltreatment were associated with lower levels of relationship mindfulness, emotional intelligence, and romantic relationship satisfaction. Longitudinal and experimental studies are needed to clarify the temporal ordering of these variables and determine whether interventions addressing mindfulness and emotional competencies can improve romantic relationship satisfaction.",
-      "journal": "Psychological reports",
+      "abstract": "Psychological stress and psychiatric comorbidities are highly prevalent in patients with asthma, with evidence supporting bidirectional links. Excessive psychological stress is associated with immune dysregulation, hypothalamic-pituitary-adrenal (HPA) axis dysfunction, and neuroimmune crosstalk that increases Type 2 inflammation associated with poorly controlled asthma. Anxiety and depression worsen asthma control and quality of life through complex and bidirectional mechanisms. Both cognitive-behavioral therapy (CBT) and mindfulness-based stress reduction (MBSR) can help reduce distress and increase quality of life for people with asthma. However, their effects on lung function and exacerbation rates remain inconsistent. Integrating interventions that address stress and mental health factors into asthma care is essential for optimal care. Distinguishing formal psychiatric illness from stress-related emotional distress allows for specific interventions to be utilized. Embedding validated screening tools and behavioral health into routine clinical practice can address the value of managing psychosocial burden while complementing pharmacologic therapy.",
+      "journal": "The World Allergy Organization journal",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -731,5 +570,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "A Political Operative on the Verge of Self-Deportation",
+      "url": "https://www.newyorker.com/news/the-lede/a-political-operative-on-the-verge-of-self-deportation",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-09-06T10:00:00",
+      "date_fetched": "2026-09-06T14:33:53.166011",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jes\u00fas Rodr\u00edguez",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "Daysi Gonz\u00e1lez, who works to elect Democrats, is gearing up to leave the U.S. as soon as this month. She wants her own party to pay attention.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
