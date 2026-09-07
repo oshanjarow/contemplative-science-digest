@@ -1,383 +1,723 @@
 {
-  "generated_at": "2026-09-06T14:33:53.706661",
+  "generated_at": "2026-09-07T16:48:47.247962",
   "papers": [
     {
-      "title": "Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs",
-      "url": "https://www.semanticscholar.org/paper/3a210fef392b2ac99f28d55115961266edd4f8f1",
+      "title": "Breath of Knowledge: A Cross-Sectional Assessment of Lung Cancer Awareness in Johor Bahru District, Malaysia",
+      "url": "https://www.semanticscholar.org/paper/3da5bd7b28bdb4c6978ebd579a331fd788369fe8",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-16T00:00:00",
-      "date_fetched": "2026-09-06T14:33:07.166319",
-      "doi": "10.48550/arXiv.2502.11184",
+      "date_published": "2025-06-30T00:00:00",
+      "date_fetched": "2026-09-07T16:48:03.665721",
+      "doi": "10.66590/ijcmr2025020102",
       "authors": [
         {
-          "name": "Wenxuan Wang",
-          "author_id": "2301763363",
+          "name": "Ahmad Firdaus bin Zulkifli",
+          "author_id": "2403896316",
           "affiliation": null
         },
         {
-          "name": "Xiaoyuan Liu",
-          "author_id": "2325197824",
+          "name": "N. A. B. Rahman",
+          "author_id": "9499834",
           "affiliation": null
         },
         {
-          "name": "Kuiyi Gao",
-          "author_id": "2324794039",
-          "affiliation": null
-        },
-        {
-          "name": "Jen-Tse Huang",
-          "author_id": "2161306685",
-          "affiliation": null
-        },
-        {
-          "name": "Youliang Yuan",
-          "author_id": "2253848935",
-          "affiliation": null
-        },
-        {
-          "name": "Pinjia He",
-          "author_id": "2256989995",
-          "affiliation": null
-        },
-        {
-          "name": "Shuai Wang",
-          "author_id": "2324825352",
-          "affiliation": null
-        },
-        {
-          "name": "Zhaopeng Tu",
-          "author_id": "2253396717",
+          "name": "Muhammad Hassan",
+          "author_id": "2387816711",
           "affiliation": null
         }
       ],
-      "abstract": "Multimodal Large Language Models (MLLMs) have expanded the capabilities of traditional language models by enabling interaction through both text and images. However, ensuring the safety of these models remains a significant challenge, particularly in accurately identifying whether multimodal content is safe or unsafe-a capability we term safety awareness. In this paper, we introduce MMSafeAware, the first comprehensive multimodal safety awareness benchmark designed to evaluate MLLMs across 29 safety scenarios with 1500 carefully curated image-prompt pairs. MMSafeAware includes both unsafe and over-safety subsets to assess models abilities to correctly identify unsafe content and avoid over-sensitivity that can hinder helpfulness. Evaluating nine widely used MLLMs using MMSafeAware reveals that current models are not sufficiently safe and often overly sensitive; for example, GPT-4V misclassifies 36.1% of unsafe inputs as safe and 59.9% of benign inputs as unsafe. We further explore three methods to improve safety awareness-prompting-based approaches, visual contrastive decoding, and vision-centric reasoning fine-tuning-but find that none achieve satisfactory performance. Our findings highlight the profound challenges in developing MLLMs with robust safety awareness, underscoring the need for further research in this area. All the code and data will be publicly available to facilitate future research.",
-      "journal": "Annual Meeting of the Association for Computational Linguistics",
+      "abstract": "Background: Lung cancer represents a major global health challenge, highlighting the need for a comprehensive understanding of awareness and knowledge levels to support effective prevention and early detection strategies. This study explores lung cancer awareness within the specific context of District Johor Bahru, Malaysia, where regional and socio-cultural variations may influence awareness patterns. Materials and Methods: This cross-sectional survey study included 400 adult participants residing in District Johor Bahru. Data were collected using a Google Form\u2013based questionnaire comprising socio-demographic variables and 20 knowledge-related questions on lung cancer. Based on predefined scoring criteria, participants were categorized into very good, good, fair, and poor knowledge levels. Data collection was conducted from August to October 2023 using online platforms. Results: The analysis demonstrated a diverse distribution of participants, with 33% from urban areas and 67% from rural areas. Overall, 25.5% of participants exhibited very good knowledge, 36% demonstrated good knowledge, while 38.25% showed fair to poor knowledge levels. Notable knowledge gaps were observed, particularly regarding lung cancer screening methods, types, and stages. These findings are consistent with global trends and emphasize the necessity for context-specific awareness interventions. Conclusion: This study provides valuable insights into lung cancer awareness in District Johor Bahru, identifying both existing strengths and areas requiring improvement. The findings support the implementation of targeted health communication strategies and community-based educational programs to address identified knowledge gaps. Strengthening awareness initiatives may contribute to earlier detection, improved clinical outcomes, and a reduced burden of lung cancer within this unique socio-cultural setting.",
+      "journal": "International Journal of Clinical and Medical Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "nondual awareness"
+        "breath awareness"
       ]
     },
     {
-      "title": "The effect of artificial intelligence awareness on frontline service employees\u2019 silence: the roles of psychological contract breach and moral identity",
-      "url": "https://www.semanticscholar.org/paper/70275a510df812d7a6a57c77fd79526ae7eb2c91",
+      "title": "A phenomenological investigation into the experience of deep breath-hold diving",
+      "url": "https://www.semanticscholar.org/paper/18b2a72870b674553646b397a307afc4cb17d2e5",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-04T00:00:00",
-      "date_fetched": "2026-09-06T14:33:07.166363",
-      "doi": "10.1108/ijchm-07-2024-0968",
+      "date_published": "2025-06-10T00:00:00",
+      "date_fetched": "2026-09-07T16:48:03.665835",
+      "doi": "10.1080/14729679.2025.2517046",
       "authors": [
         {
-          "name": "Meng-Ting Cheng",
-          "author_id": "2349745602",
+          "name": "Bilguun Choimaa",
+          "author_id": "2366394131",
           "affiliation": null
         },
         {
-          "name": "Long Zhang",
-          "author_id": "2269497253",
+          "name": "Simeon Herchenhan",
+          "author_id": "2366392590",
           "affiliation": null
         },
         {
-          "name": "Haiqing Wang",
-          "author_id": "2269703249",
+          "name": "Oliver Leis",
+          "author_id": "1473401220",
+          "affiliation": null
+        },
+        {
+          "name": "A. Elbe",
+          "author_id": "31804211",
           "affiliation": null
         }
       ],
-      "abstract": "\n\nThe widespread use of artificial intelligence (AI) technology in the hospitality industry has triggered concerns among frontline service employees about their future careers, namely, AI awareness. This study aims to explore whether AI awareness influences frontline service employees\u2019 silence through psychological contract breach and whether this process is contingent on frontline service employees\u2019 moral identity, drawing on social exchange theory and moral identity theory.\n\n\n\nThe data were collected from 355 frontline service employees in Chinese hotels using a two-wave survey. SPSS macro PROCESS Model 58 was used to test the proposed hypotheses.\n\n\n\nAI awareness increases frontline service employees\u2019 silence by prompting psychological contract breach. This process is moderated by frontline service employees\u2019 moral identity. Specifically, moral identity mitigates the effect of psychological contract breach on silence.\n\n\n\nOrganizations and managers should pay attention to the impact of AI on frontline service employees and take measures to help them better adapt to the rapidly changing work environment. In particular, it helps reduce frontline service employees\u2019 silence by fostering positive attitudes toward AI, maintaining their psychological contracts and developing their moral identities.\n\n\n\nThis study enriches the research on the outcomes of AI awareness by directing our attention to frontline service employees\u2019 silence. Moreover, this study not only explores the responses to AI awareness that frontline service employees make as \u201ceconomic persons\u201d but also examine whether they, as \u201cmoral persons,\u201d regulate their responses contingent on their moral identity under the impact of AI. Exploring frontline service employees\u2019 dual identities helps bring this research closer to the realities of managerial practice, thereby contributing to a better understanding and management of their complex responses to AI shocks.\n",
-      "journal": "International Journal of Contemporary Hospitality Management",
+      "abstract": "ABSTRACT Freediving, an extreme and adventure sport characterized by prolonged breath-holding underwater, involves navigating pressure, hypoxia, and the urge to breathe at great depths. This study explores the lived experiences of deep breath-hold diving. Eight experienced divers (minimum depth 60 meters) were interviewed, and their responses analyzed using interpretative phenomenological analysis. Key findings include the importance of being present and relaxed, akin to a meditative state, for successful dives. Divers reported a profound sense of immersion, deep relaxation, and intense focus, facilitating optimal performance. Memory deficits, especially during descent and freefall phases of the dive, were noted. Time perception varied, with enjoyable dives seeming shorter. Mental preparation, regulation of negative thoughts, and reflexivity were crucial for dive experience and success. Trust in diving partners, shared experiences, communication, and mutual support were significant. Freediving was seen as a tool for self-awareness and personal growth, with potential benefits extending beyond the activity itself.",
+      "journal": "Journal of Adventure Education and Outdoor Learning",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "nondual awareness"
+        "breath awareness"
       ]
     },
     {
-      "title": "Integrating Eco-Theology In Islamic Education: A Case Study On Fostering Ecological Awareness Through Religious Pedagogy",
-      "url": "https://www.semanticscholar.org/paper/42be50284348fc2f04a00c2c49e506344fd53f8f",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-02T00:00:00",
-      "date_fetched": "2026-09-06T14:33:07.166397",
-      "doi": "10.20885/tarbawi.vol18.iss1.art1",
-      "authors": [
-        {
-          "name": "T. Taufikin",
-          "author_id": "2091569540",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigates the operationalization of eco-theology in Islamic education and its effects on students\u2019 environmental awareness and behavior. Anchored in the Qur\u2019anic principles of khil\u0101fah (vicegerency), am\u0101nah (trusteeship), and miz\u0101n (balance), the research employs a qualitative case-study design across three Islamic elementary schools in Demak that have instituted eco-theology\u2013based programs. Data were collected through semi-structured interviews, classroom and schoolyard observations, and document analysis. The analytic procedure involved iterative reduction, categorical coding, and interpretive synthesis, followed by source triangulation to enhance credibility. The findings show that integrating eco-theology into the curriculum substantially strengthens students\u2019 understanding of the connection between Islamic teachings and ecological responsibility while fostering tangible pro-environmental practices, including reforestation activities, structured waste management, and prudent energy use. Experiential learning and consistent teacher modeling emerged as decisive drivers of students\u2019 ecological conduct. Nonetheless, implementation is constrained by limited instructional materials, uneven teacher training, and the absence of systematic, school-wide eco-theological policies. Policy implications indicate the need for comprehensive eco-theology curricula, sustained professional development for teachers, and governance frameworks that institutionalize environmental stewardship. Schools should formalize supportive policies and cultivate partnerships among educational institutions, academics, and environmental organizations to build a more sustainable and integrated learning ecosystem.",
-      "journal": "el-Tarbawi",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "nondual awareness"
-      ]
-    },
-    {
-      "title": "The Buddhist origins and modern adaptation of mindfulness meditation: The tradition of sati practice and its secular reinterpretation",
-      "url": "https://www.semanticscholar.org/paper/1bbecb4ab240e77c1c716957f1df17107182d3bd",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-08-31T00:00:00",
-      "date_fetched": "2026-09-06T14:33:18.849337",
-      "doi": "10.12972/mpca.2026.37.1",
-      "authors": [
-        {
-          "name": "Pilwon Lee",
-          "author_id": "2278066547",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Purpose: This study aims to clarify the concept, structure, and soteriological purpose of sati practice in Early Buddhism on the basis of P\u0101li sources, and to analyze the core transformations that occur when sati is transposed into contemporary clinical mindfulness programs. It pays particular attention to the function of sati within jh\u0101na practice, an aspect largely neglected in existing scholarship. Methods: The study combines philological analysis of the P\u0101li Nik\u0101yas and the Visuddhimagga with a review of the manuals and outcome literature of five representative mindfulness-based programs (MBSR, MBCT, DBT, ACT, MSC), and then conducts a conceptual comparison across five axes: teleology, technique, secularization, the concept of self, and the sati-sam\u0101dhi linkage. Results: Canonical sati operates as a retentive and ethically discriminating faculty embedded in the Eightfold Path, and functions in jh\u0101na through access support, object retention, purification, and linkage to insight. Contemporary mindfulness selectively extracts present-moment observation and non-reactivity while detaching sati from s\u012bla, sam\u0101dhi, and the Four Noble Truths; the asubha dimension of body contemplation and the sati\u2013sam\u0101dhi linkage are the two elements most completely lost. Conclusion: The relation between the two traditions is best described neither as simple continuity nor as mere distortion, but as a selective extraction that yields demonstrable clinical benefit at the cost of the transformative depth secured by the original practice framework. The study further proposes a working definition of sati grounded in the canonical sources, and argues\u2014through an examination of the conditions under which the notion of up\u0101ya (skillful means) properly applies\u2014that this selective extraction constitutes an independent reconstruction serving a different telos, rather than either up\u0101ya or distortion.",
-      "journal": "Journal of Meditation based Psychological Counseling",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "jhana"
-      ]
-    },
-    {
-      "title": "Moral Considerations and the Experience of Ego Dissolution: Insights from Psilocybin",
-      "url": "https://www.semanticscholar.org/paper/d340c3fd8467b31d8f04bbef5d07d76870b313b8",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-09-06T14:33:26.415894",
-      "doi": "10.51847/ml10ckoxsw",
-      "authors": [
-        {
-          "name": "A. Karimov",
-          "author_id": "2307341084",
-          "affiliation": null
-        },
-        {
-          "name": "D. Rasulov",
-          "author_id": "2100582973",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Asian Journal of Ethics in Health and Medicine",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Mesoscopic mechanisms of dicalcium silicate dissolution",
-      "url": "https://www.semanticscholar.org/paper/ebdb27a92275aa445a79bde91fb1a8fc099fd8e6",
+      "title": "Some of the Dhwani: Translating Geetanjali Shree's Ret-Sam\u0101dhi/Tomb of Sand",
+      "url": "https://www.semanticscholar.org/paper/607515f3defa8af2f7f63dd6e45f36d4daf1a96b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:26.415947",
-      "doi": "10.1016/j.cemconres.2024.107660",
+      "date_fetched": "2026-09-07T16:48:13.645307",
+      "doi": "10.3366/tal.2025.0614",
       "authors": [
         {
-          "name": "Yong Tao",
-          "author_id": "2256318736",
-          "affiliation": null
-        },
-        {
-          "name": "Pablo Martin",
-          "author_id": "2338691525",
-          "affiliation": null
-        },
-        {
-          "name": "H. Manzano",
-          "author_id": "4063500",
-          "affiliation": null
-        },
-        {
-          "name": "M. J. Qomi",
-          "author_id": "8913939",
+          "name": "Hans-Georg Erney",
+          "author_id": "116556152",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Cement and Concrete Research",
+      "abstract": "Following its 2022 Booker International Prize, Geetanjali Shree's Tomb of Sand has enjoyed considerable scholarly attention, but not always for the best reasons. While critics have discussed the novel through a variety of familiar lenses (feminism, postmodernism, Partition studies), surprisingly few have paid attention to its Hindi original \u0930\u0947\u0924 \u0938\u092e\u093e\u093f\u0927 ( Ret-Sam\u0101dhi). This paper undertakes to correct this imbalance by reading the novel's original version against its French and English translations. By analysing how, and to what extent, two translators have succeeded in rendering Shree's unique dhwani (or tone) in their respective target languages, the paper seeks to demonstrate how literary translation can entail gains as well as losses.",
+      "journal": "Translation and Literature",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "samadhi"
       ]
     },
     {
-      "title": "Alienation and The Dissolution of The Self: A Psychoanalytic Approach to Franz Kafka\u2019s The Metamorphosis",
-      "url": "https://www.semanticscholar.org/paper/5e1e2ad2db5bc435c3a248bfbb0051bcd3f31ba8",
+      "title": "A Multi-Site, Randomized, Parallel-Group, Controlled Trial of Virtually-Delivered Sahaj Samadhi Meditation for the Management of Moderate Depressive Symptoms in Chronic Pain",
+      "url": "https://www.semanticscholar.org/paper/9700406c5d94044183b14b49266b020e9aafee8a",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-04-30T00:00:00",
-      "date_fetched": "2026-09-06T14:33:26.415958",
-      "doi": "10.35365/ejec.26.1.07",
+      "date_published": "2025-06-01T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645332",
+      "doi": "10.2147/JPR.S515229",
       "authors": [
         {
-          "name": "G\u00f6k\u00e7e Bayram",
-          "author_id": "2410699442",
+          "name": "Darren K. Cheng",
+          "author_id": "80558544",
           "affiliation": null
         },
         {
-          "name": "\u015e. Tun\u00e7ay",
-          "author_id": "2053716785",
+          "name": "Robert Simpson",
+          "author_id": "2366889566",
+          "affiliation": null
+        },
+        {
+          "name": "R. Moineddin",
+          "author_id": "2257319826",
+          "affiliation": null
+        },
+        {
+          "name": "J. Katz",
+          "author_id": "2239633421",
+          "affiliation": null
+        },
+        {
+          "name": "Benoit H. Mulsant",
+          "author_id": "2366882093",
+          "affiliation": null
+        },
+        {
+          "name": "A. Vasudev",
+          "author_id": "144671002",
+          "affiliation": null
+        },
+        {
+          "name": "M. Greiver",
+          "author_id": "2288120109",
+          "affiliation": null
+        },
+        {
+          "name": "F. Hosseiny",
+          "author_id": "1612993549",
+          "affiliation": null
+        },
+        {
+          "name": "M. Inzitari",
+          "author_id": "2280746476",
+          "affiliation": null
+        },
+        {
+          "name": "Ronnie I. Newman",
+          "author_id": "32786855",
+          "affiliation": null
+        },
+        {
+          "name": "Leon Rivlin",
+          "author_id": "1612993570",
+          "affiliation": null
+        },
+        {
+          "name": "Kirk Foat",
+          "author_id": "1612996938",
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Furlan",
+          "author_id": "2361160868",
+          "affiliation": null
+        },
+        {
+          "name": "John Flannery",
+          "author_id": "2279632595",
+          "affiliation": null
+        },
+        {
+          "name": "Deanna Telner",
+          "author_id": "2297349781",
+          "affiliation": null
+        },
+        {
+          "name": "R. Bosma",
+          "author_id": "2366881911",
+          "affiliation": null
+        },
+        {
+          "name": "Michelle Naimer",
+          "author_id": "2366882946",
+          "affiliation": null
+        },
+        {
+          "name": "Chadwick Chung",
+          "author_id": "2368399806",
+          "affiliation": null
+        },
+        {
+          "name": "Andrew D. Pinto",
+          "author_id": "2367286037",
+          "affiliation": null
+        },
+        {
+          "name": "Michelle Nelson",
+          "author_id": "2354836389",
+          "affiliation": null
+        },
+        {
+          "name": "R. Upshur",
+          "author_id": "2257462179",
+          "affiliation": null
+        },
+        {
+          "name": "Abhimanyu Sud",
+          "author_id": "11489228",
           "affiliation": null
         }
       ],
-      "abstract": "This study examines Franz Kafka's The Metamorphosis within the framework of Sigmund Freud's psychoanalytic theory. The aim is to reveal the psychodynamic relationships between Kafka's life story and the novel's protagonist, Gregor Samsa, and to discuss how the character structures in the work can be interpreted from a psychoanalytic perspective. To this end, Kafka's family relationships, particularly his conflicts with his father figure, and his bonds with his mother and sister, are examined. The Metamorphosis is analyzed through the lens of fundamental psychoanalytic concepts, including the Oedipus complex, repression, regression, melancholia, and sublimation. The study concludes that Gregor Samsa's transformation into an insect symbolizes not only a physical change but also the ego's defensive retreat in the face of unconscious conflicts. Furthermore, the conflict between Gregor and his father has strong parallels to Kafka's own life experiences. These parallels highlight the similarities between Kafka's internal conflicts with his father and those of Gregor Samsa, as well as his relationships with other family members. The novel The Metamorphosis highlights the similarities between Gregor Samsa's relationship with his sister, Grete, and Kafka's own relationship with his sister. The feelings of loneliness, fear, and guilt at work are influenced by Gregor's relationships with his mother and sister. The theme of death in Gregor's relationship with his father is examined in particular. In this respect, alienation and the uncertainty in Gregor's sense of self and values \u200b\u200bare addressed. In conclusion, The Metamorphosis is considered a literary representation of Kafka's internal conflicts and psychodynamic structure. This study aims to demonstrate the psychoanalytic approach's contribution to the multi-layered interpretation of literary texts.",
-      "journal": "European Journal of Education and Counselling",
+      "abstract": "Background Chronic pain (CP) often co-occurs with depression, but promising scalable interventions have been under-investigated. We assessed the effectiveness of the virtually-delivered Sahaj Samadhi Meditation (SSM) program in reducing depressive symptoms in people with CP and moderate depressive symptoms. Methods We conducted a randomized controlled trial comparing SSM to the Health Enhancement Program (HEP), an active control. Participants were recruited from multiple sites in the Greater Toronto Area and virtually. Both 12-week programs were delivered virtually in groups by appropriately trained facilitators. Depressive symptoms were assessed using the Patient Health Questionnaire (PHQ-9) at baseline, 12 weeks, and 24 weeks. ClinicalTrials.gov registration number: NCT04039568. Results Of 108 participants enrolled, 89 were randomized to SSM (n=43) or HEP (n=46). Between-group differences for the PHQ-9 were not significant. Within-group mean differences for SSM were significant and greater than the minimal clinically important difference at both 12 weeks and 24 weeks (\u22123.97 (95% CI \u22126.69 to \u22121.24) and \u22124.96 (\u22128.36 to \u22121.56), respectively), while within-group mean differences were not significant for HEP. Conclusion This study suggests potential benefits of SSM for individuals with comorbid CP and depression. Future trials should include larger sample sizes in non-pandemic conditions to better evaluate the effectiveness of SSM. Further research should also explore pragmatic trial designs and the integration of mind-body interventions in clinical settings.",
+      "journal": "Journal of Pain Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "PA\u00d1\u00d1\u0100 AND S\u012aLA\u2013SAM\u0100DHI INTEGRATION: A FUNCTIONAL TRIAD IN KEY SUTTAS",
+      "url": "https://www.semanticscholar.org/paper/ace28430e9fcef853e2e697767d7bb4837d4c90e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-27T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645345",
+      "doi": "10.36948/ijfmr.2025.v07i05.58503",
+      "authors": [
+        {
+          "name": "Pannasiha",
+          "author_id": "2390026882",
+          "affiliation": null
+        },
+        {
+          "name": "Yeshpal Sharma",
+          "author_id": "2403782248",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper contends that s\u012bla (ethical discipline), sam\u0101dhi (collectedness), and pa\u00f1\u00f1\u0101 (knowledge) in early Buddhist scriptures function not as a linear progression but as an interdependent system that evolves through repeated cycles. This study conducts close readings of key suttas MN 117 (Mah\u0101catt\u0101r\u012bsaka), MN 44 (C\u016b\u1e37avedalla), selections from SN 45 (Maggasa\u1e43yutta), and AN 3 (Tika Nip\u0101ta), along with the narrative arc of DN 2 (S\u0101ma\u00f1\u00f1aphala) to demonstrate how ethical integrity alleviates remorse and stabilizes attention; how collectedness enhances perception, facilitating yath\u0101bh\u016bta-\u00f1\u0101\u1e47adassana; and how emerging insight refines both conduct and concentration, advancing them in the subsequent phase of training. Doctrinal synthesis emphasizes inter-component cross-referencing (e.g., right view influencing proper focus). It introduces a \"triadic spiral\" model, wherein each element serves as both a requirement and an outcome of the others across time. The findings contest pedagogical approaches that isolate procedures or favor a singular factor, advocating for curricula that facilitate training while promoting micro-cycles of feedback among s\u012bla, sam\u0101dhi, and pa\u00f1\u00f1\u0101. The outcome is a pragmatic account of the trajectory that is textually substantiated, practically implementable, and attuned to the dynamic of early Buddhist soteriology.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "\u201cSamadhi Parama\u201d Analogi Arsitektur Goa Garba Desa Pejeng Kelod Sebagai Pemantik Rancangan Busana Edgy Gothic Style",
+      "url": "https://www.semanticscholar.org/paper/b46ee94b697d382d78400bf212f9cfc6e1790752",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-14T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645357",
+      "doi": "10.59997/bhumidevi.v5i2.6046",
+      "authors": [
+        {
+          "name": "Putu Iga Widania",
+          "author_id": "2385942372",
+          "affiliation": null
+        },
+        {
+          "name": "I. A. W. Ruspawati",
+          "author_id": "119314894",
+          "affiliation": null
+        },
+        {
+          "name": "Ni Putu Darmara Pradnya Paramita",
+          "author_id": "2205683670",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Arsitektur Goa Garba merupakan situs peninggalan bersejarah pada abad ke 12 Masehi di daerah aliran Sungai (DAS) Pakerisan berfungsi sebagai tempat pemujaan dan pertapaan. Pembangunan ceruk-ceruk pertapaan pada masa itu lebih menekankan pada daerah tepian Sungai karena Sungai Pakerisan merupakan daerah sumber aliran Sungai utama yang harus dijaga kesuciannya. Visual bangunan yang tampak kokoh memiliki konsep Pembangunan Bali yaitu sake pat dan konsep bebaturan. Kata Goa Garba memiliki arti yaitu \u201cGoa\u201d berarti pintu dan \u201cGarba\u201d berarti Perut atau kandungan. Goa Garba memiliki berbagai relief disekitarnya seperti ukiran aksara kuno Kadiri Kwadrat, artefak kendi air dan patung kala, serta bekas pijakan tapak kaki milik Ki Patih Kebo Iwa. Area pertapaan Goa Garba juga terdapat patithaan\u00a0 suci yang mengalir dari atas tebing menuju ke bawah. Fungsi patirthaan sebagai tempat pemandian pada jaman Kerajaan. Arsitektur Goa Garba menjadi inspirasi dalam penciptaan karya busana tugas akhir yang berjudul \u201cSamadhi Parama\u201d. Visual dan fungsi goa garba akan dianalogikan menjadi sebuah karya busana dengan style edgy gothic.",
+      "journal": "BHUMIDEVI: Journal of Fashion Design",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "The eschatological traces in the cult of maharsi markandeya an interpretation of sam\u0101dhi at Pura Pucak Payogan, Bali",
+      "url": "https://www.semanticscholar.org/paper/f0d576640f9edf021109ceb788c9a1ef7cf1fb58",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-31T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645379",
+      "doi": "10.61511/lad.v3i1.2025.2120",
+      "authors": [
+        {
+          "name": "Anak Agung Raka Asmariani",
+          "author_id": "2161213080",
+          "affiliation": null
+        },
+        {
+          "name": "Ni Wayan Sukma Taraning Rahayu",
+          "author_id": "122019704",
+          "affiliation": null
+        },
+        {
+          "name": "Arhana Lochan",
+          "author_id": "2374857458",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: This study explores the eschatological dimensions embedded in the veneration of Maharsi Markandeya at Pura Pucak Payogan Bali, particularly through the interpretation of his sam\u0101dhi (spiritual absorption) as a culmination of sacred life and transcendence. The aim is to analyze how the notion of moksha (liberation) is ritualized, spatialized, and narrated through cultic practices and collective memory within Balinese Hindu communities. Previous studies on Balinese religiosity have primarily focused on ritual systems, ancestral worship, and temple networks, but little attention has been paid to eschatological interpretations of sam\u0101dhi shrines as sites of spiritual transcendence. Methods: This article adopts a qualitative approach using ethnographic fieldwork, textual interpretation of Hindu philosophical sources (particularly Ved\u0101nta and Yoga S\u016btra), and spatial-symbolic analysis of the temple architecture and rituals associated with Pura Pucak Payogan. Findings: The findings reveal that Maharsi Markandeya\u2019s sam\u0101dhi is perceived not merely as a memorial site but as an eschatological axis where the duality between life and death dissolves. This perception is enacted through pilgrimage practices, offerings, and narratives that position the site as a symbolic gateway to liberation. The integration of eschatological doctrine into living religious practices reflects a dynamic fusion of textual philosophy and local ontology. Conclusions: The study concludes that Pura Pucak Payogan functions as a liminal sacred space encoding the ideal of divine union, and that the cult of Maharsi Markandeya offers a living model of eschatological embodiment in the Hindu-Balinese tradition. Novelty/Originality of this article: The novelty of this study lies in its interdisciplinary interpretation of sam\u0101dhi as an eschatological site and in highlighting the fusion of theological vision with ritual practice in contemporary Balinese spirituality.",
+      "journal": "Life and Death: Journal of Eschatology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Aspects of \u2018Sam\u0101dhi\u2019 Utilized in Classical Literature",
+      "url": "https://www.semanticscholar.org/paper/fd91c87d62fd0532b9415cebd065271a73913ff8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-30T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645399",
+      "doi": "10.21794/ddhm.2025.82.289",
+      "authors": [
+        {
+          "name": "Sang-Bong Lee",
+          "author_id": "102851064",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper analyzes the utilization of the term \u2018Sam\u0101dhi\u2019 in classical literature, based on the doctrines and practices of Early Buddhism. To achieve this, it elucidates the nature of sam\u0101dhi by referencing Early Buddhist scriptures and explanations from contemporary Sam\u0101dhi practitioners, and explores the aspects of Sam\u0101dhi's utilization in classical literature using 164 examples extracted from the Korean Classical Literature Database. \nIn classical literature, \u2018Sam\u0101dhi\u2019 was used more often metaphorically (114 cases) than in its doctrinal Buddhist sense (50 cases). In particular, \u2018Sam\u0101dhi\u2019 was actively used to describe artistic states or skills, reflecting how writers effectively utilized Sam\u0101dhi's characteristics of deep immersion and concentration to express excellence in artistic activities. In addition, in areas such as scholarship, character, lecturing, and reading, \u2018Sam\u0101dhi\u2019 was used as a metaphorical expression to denote an exceptional state or deep immersion in the respective domain. \nThis indicates that as Buddhism became deeply rooted in Korean culture, the Buddhist term \u2018Sam\u0101dhi\u2019 was utilized in everyday life and the artistic realm, beyond its original religious meaning. Writers seem to have borrowed the depth and mystery of the term \u2018Sam\u0101dhi\u2019 to enhance their artistic inspiration and creative activities, and to convey a more vivid and powerful impression to readers. \nThis study was limited to materials from the Database of Korean Classics and does not encompass all classical literary works. However, one of the strengths of this paper is its attempt to understand the meaning of Sam\u0101dhi using early Buddhist scriptures and meditation methods, and to conduct a literary analysis on a topic that was difficult to approach in previous research. Similarly, if we analyze Buddhist content in Korean literature using early Buddhist scriptures and meditation techniques, we can expect to achieve a literary analysis closer to the fundamental concepts of Buddhism.",
+      "journal": "Daedong Hanmun Association",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Effects of Sahaj Samadhi Meditation on health-related quality of life of glaucoma patients: a feasibility study",
+      "url": "https://www.semanticscholar.org/paper/02f66b2e3edfe3662d5e8adaa92ca268f251b5f2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645411",
+      "doi": "10.1016/j.jfop.2025.100164",
+      "authors": [
+        {
+          "name": "M. Malvankar-Mehta",
+          "author_id": "1400857914",
+          "affiliation": null
+        },
+        {
+          "name": "Hyunsoo Jang",
+          "author_id": "2237130520",
+          "affiliation": null
+        },
+        {
+          "name": "B. Yu",
+          "author_id": "1845876919",
+          "affiliation": null
+        },
+        {
+          "name": "Cindy M L Hutnik",
+          "author_id": "2270543473",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "JFO Open Ophthalmology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Samadhi Ing Nirmala Metafora Tradisi Siat Sampian Dalam Busana Classic Elegant",
+      "url": "https://www.semanticscholar.org/paper/50a8ee2f9fe4a7ac206a0000f519c937f4bc6bb9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-14T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645431",
+      "doi": "10.59997/bhumidevi.v5i2.6041",
+      "authors": [
+        {
+          "name": "Cokorda Bagus Eka Aditya Pramana",
+          "author_id": "2385886007",
+          "affiliation": null
+        },
+        {
+          "name": "A. N. A. M. K. Tenaya",
+          "author_id": "2385885850",
+          "affiliation": null
+        },
+        {
+          "name": "Ni Luh Ayu Pradnyani Utami",
+          "author_id": "2385878562",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Tradisi Siat Sampian yang berasal dari Desa Bedulu, Gianyar, merupakan sebuah ritual upacara sekaligus pertunjukan yang menggambarkan perang dalam suasana sakral, diadakan empat hari setelah pujawali. Dalam ritual ini, senjata yang digunakan adalah rangkaian janur yang dikenal sebagai sampian. Filosofi di balik pertunjukan perang ini adalah melawan \"Dharma\" yang berarti kebaikan, melawan \"Adharma\" yang berarti kejahatan. Proyek ini bertujuan untuk menyelesaikan studi independen tentang penciptaan busana sebagai sebuah karya tugas akhir. Proses kreatif ini dilakukan melalui metode frangipani yang terbagi dalam sepuluh tahap, dengan fokus utama pada penciptaan busana Ready to Wear, Ready to Wear Deluxe, dan Semi Couture. Karya busana ini diilhami oleh Tradisi Siat Sampian yang mencerminkan kekayaan budaya Bali dan dikembangkan bekerja sama dengan CV. De Galuh Boutique. Studi independen ini tidak hanya mengeksplorasi proses penciptaan karya busana, tetapi juga memeriksa pengaruh budaya dalam desain fashion, serta meningkatkan kemampuan mahasiswa untuk berkomunikasi secara efektif dengan industri. Diharapkan, hasil dari penciptaan ini dapat memberikan wawasan mengenai potensi elemen tradisional di dunia fashion. Melalui sepuluh tahapan penciptaan ini, diharapkan akan dihasilkan tiga karya busana tugas akhir yang terinspirasi oleh konsep \"samadhi ing nirmala,\" yang diambil dari implementasi Tradisi Siat Sampian dan dituangkan dalam judul karya busana tugas akhir tersebut.",
+      "journal": "BHUMIDEVI: Journal of Fashion Design",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Geetanjali Shree\u2019s A Tomb of Sand (Ret Samadhi): Translating/Traversing the Borders of Home and Exile",
+      "url": "https://www.semanticscholar.org/paper/99f006049f69e3b19c9f4e6bf8a83b5cb41b5e4d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-04T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645481",
+      "doi": "10.24113/smji.v14i5.11763",
+      "authors": [
+        {
+          "name": "Asha Balachandran",
+          "author_id": "2477249955",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Geetanjali Shree\u2019s A Tomb of Sand follows the odyssey of an octogenarian Ma slipping into depression after her husband\u2019s demise. It highlights several issues concerning gender roles, class, nationality religion and many others. This article brings forth how the tragic story is juxtaposed with magical realism using a playful tone. The work is a part of Partition literature diasporic experience of alienation and nostalgia is addressed in the intricate storytelling and intense characterization. The paper tries to explore how the physical and emotional travels turn as metaphors to reconcile fragmented identities in a world of loss and change.",
+      "journal": "SMART MOVES JOURNAL IJELLH",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "samadhi"
       ]
     },
     {
-      "title": "Psychedelics and connectedness to natural and social worlds: An examination of the evidence and a proposed conceptual framework.",
-      "url": "https://www.semanticscholar.org/paper/89f036e63d3361b105b059349e47c73d90f239f8",
+      "title": "Avata\u1e43saka Meditation in Khotan: Sam\u0101dhi, Visualization, and the Cult of Buddha Images",
+      "url": "https://www.semanticscholar.org/paper/a2b63a7a37cc12ce787ade80247c5aafb314303b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:26.415968",
-      "doi": "10.1016/j.copsyc.2025.101992",
+      "date_published": "2026-01-25T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645490",
+      "doi": "10.3390/rel17020135",
       "authors": [
         {
-          "name": "Matthias Forstmann",
-          "author_id": "4358229",
-          "affiliation": null
-        },
-        {
-          "name": "Christina Sagioglou",
-          "author_id": "2386610",
+          "name": "Imre Hamar",
+          "author_id": "103501762",
           "affiliation": null
         }
       ],
-      "abstract": "Recent research suggests that serotonergic psychedelics may simultaneously enhance connectedness to both social and natural worlds. This article synthesizes current evidence regarding psychedelics' effects on nature relatedness and social connectedness, examining underlying mechanisms through the framework of self-other overlap. Psychedelics appear to facilitate self-expansion through two complementary mechanisms: ego dissolution, which temporarily alters self-boundaries, and enhanced emotional processing, which increases empathic concern. While studies demonstrate promising effects, interpretation is complicated by methodological challenges including functional unblinding, reliance on self-reports, and small sample sizes. We propose a multidimensional model of connectedness that distinguishes between perceptual, emotional, and epistemic domains, each showing distinct patterns in acute and enduring effects. Future research would benefit from behavioral measures, active placebos, and careful consideration of contextual factors.",
-      "journal": "Current Opinion in Psychology",
-      "year": 2025,
+      "abstract": "This article examines Khotan\u2019s role in the transmission and reception of Avata\u1e43saka/Huayan Buddhism, arguing that the Buddh\u0101vata\u1e43saka-s\u016btra\u2019s exceptional prestige and royal protection in Khotan provided favourable conditions for the circulation\u2014and possibly the redaction\u2014of large Mah\u0101y\u0101na compilations. It then analyses two Avata\u1e43saka-group meditation texts translated by the Khotanese monk Devendrapraj\u00f1\u0101 (The Section on the Cultivation of Loving-Kindness and The Section on the Inconceivable Buddha-Realm), showing how they combine Huayan cosmology and non-obstruction with visualization-based contemplative techniques. Finally, by reading these texts alongside The Mah\u0101y\u0101na S\u016btra on the Merits of Creating Images Spoken by the Buddha, the article highlights a functional differentiation within Khotanese practice: the meditation texts prioritise cognitive and visionary transformation and largely omit formal repentance, whereas the image-making s\u016btra explicitly requires repentance as a precondition for karmic purification, promising the elimination or mitigation of karmic consequences through the making of Buddha images.",
+      "journal": "Religions",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "samadhi"
       ]
     },
     {
-      "title": "Dissolved Fe species enable a cooperative solid\u2013molecular mechanism for the oxygen evolution reaction on NiFe-based catalysts",
-      "url": "https://www.semanticscholar.org/paper/9189f06d9a14d1b4d5d6f71a729241eb3be90aaf",
+      "title": "From Sth\u0101na to Sam\u0101dhi: Reframing N\u1e5btta in the N\u0101\u1e6dya\u015b\u0101stra through Yogic and Tantric Frameworks, with Extensions to South-east Asian Dance Traditions",
+      "url": "https://www.semanticscholar.org/paper/16722d1781342c24bf49902edc2c46c1090a6bf7",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-20T00:00:00",
-      "date_fetched": "2026-09-06T14:33:26.416018",
-      "doi": "10.1038/s41929-025-01342-5",
+      "date_published": "2026-08-15T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645500",
+      "doi": "10.63752/pijcace.0201s03",
       "authors": [
         {
-          "name": "C. Kuai",
-          "author_id": "153710466",
-          "affiliation": null
-        },
-        {
-          "name": "Liping Liu",
-          "author_id": "2243460320",
-          "affiliation": null
-        },
-        {
-          "name": "Anyang Hu",
-          "author_id": "95403257",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Zhang",
-          "author_id": "2152819159",
-          "affiliation": null
-        },
-        {
-          "name": "Yuxin Zhang",
-          "author_id": "2145067199",
-          "affiliation": null
-        },
-        {
-          "name": "Dawei Xia",
-          "author_id": "2280875459",
-          "affiliation": null
-        },
-        {
-          "name": "Dennis Nordlund",
-          "author_id": "2342803091",
-          "affiliation": null
-        },
-        {
-          "name": "D. Sokaras",
-          "author_id": "6336977",
-          "affiliation": null
-        },
-        {
-          "name": "Donato Decarolis",
-          "author_id": "2316557109",
-          "affiliation": null
-        },
-        {
-          "name": "D. Gianolio",
-          "author_id": "2264604201",
-          "affiliation": null
-        },
-        {
-          "name": "Hongliang Xin",
-          "author_id": "2146864459",
-          "affiliation": null
-        },
-        {
-          "name": "Luxi Li",
-          "author_id": "2258567728",
-          "affiliation": null
-        },
-        {
-          "name": "Feng Lin",
-          "author_id": "2152089108",
+          "name": "Ashwini Srivatsan",
+          "author_id": "2458104645",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Nature Catalysis",
+      "journal": "Poorvam International Journal of Creative Arts and Cultural Expressions",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Enhancing the Nutritional Quality and Concentration of Noni, Pineapple, and Dragon Fruit Juice Mixture using Osmotic Membrane Distillation",
+      "url": "https://www.semanticscholar.org/paper/3a90fc338d9bf195c6d94fcd62dcb68a1344a189",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645542",
+      "doi": "10.1016/j.jafr.2025.101823",
+      "authors": [
+        {
+          "name": "Mochamad Nur Jalil Aripin",
+          "author_id": "2350970467",
+          "affiliation": null
+        },
+        {
+          "name": "Muh. Umar Thoriq",
+          "author_id": "2447806592",
+          "affiliation": null
+        },
+        {
+          "name": "Helen Julian",
+          "author_id": "2261192996",
+          "affiliation": null
+        },
+        {
+          "name": "H. Nimitkeatkai",
+          "author_id": "10325818",
+          "affiliation": null
+        },
+        {
+          "name": "A. Jarerat",
+          "author_id": "12634801",
+          "affiliation": null
+        },
+        {
+          "name": "T. Samadhi",
+          "author_id": "91189882",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of Agriculture and Food Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "ego dissolution"
+        "samadhi"
       ]
     },
     {
-      "title": "Raja Yoga meditation: A personal spiritual experience and narrative inquiry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42259099/",
+      "title": "THE ROLE OF BUDDHIST EDUCATION IN MONASTIC PRIMARY SCHOOLS: A CASE STUDY OF WAT PREY SPEU, CAMBODIA",
+      "url": "https://www.semanticscholar.org/paper/f6adbd40cfca516abaf53d8aa3b1844b71643df2",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:41.919681",
-      "doi": "10.1016/j.explore.2026.103462",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-17T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645573",
+      "doi": "10.56943/jmr.v4i4.831",
       "authors": [
         {
-          "name": "Kamala Chandak",
+          "name": "By Loeung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sophoeun Phal",
+          "author_id": "2474575209",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Cambodia's educational system is deeply rooted in Buddhist tradition, with monasteries historically serving as learning centers that prioritize moral development and cultural preservation alongside academic subjects. This qualitative case study investigates the role of Buddhist education at Wat Prey Speu Buddhist Primary School, exploring how it integrates traditional precepts within the national curriculum. Thematic analysis was used to interpret data from in-depth interviews with 59 stakeholders, including students, teachers, and administrators. The findings reveal the school's primary strength is its holistic approach, which develops students' moral conduct (S\u012bla), concentration (Sam\u0101dhi), and wisdom (Pa\u00f1\u00f1\u0101). The institution also plays a vital role in preserving Khmer culture and providing affordable education to underserved communities. Key recommendations include formalizing the curriculum, addressing a significant gender imbalance, and seeking formal recognition and support from the Ministry of Education to promote this valuable educational model.",
+      "journal": "Journal of Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Religious Subjectivity in the Age of Artificial Intelligence:The Reshaping of Religious Experience under Technological Rationality from a Buddhist Perspective",
+      "url": "https://www.semanticscholar.org/paper/256cb72258591c876ad06e6c23fb13802ff7d00b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-31T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645594",
+      "doi": "10.71204/j8shvv59",
+      "authors": [
+        {
+          "name": "Wan Xing",
+          "author_id": "2409587487",
+          "affiliation": null
+        },
+        {
+          "name": "Lei Chuan",
+          "author_id": "2392091328",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) has moved from being an external instrument to an environment that increasingly mediates attention, interpretation, and judgment. In religious life, this shift is not merely practical; it is structural. It reconfigures how religious experience is organized, how authority is distributed, and how religious subjectivity is formed. This article examines these transformations through a Buddhist philosophical lens, arguing that the rise of \u201calgorithmic rationality\u201d (a data-driven, predictive, optimizing mode of reason) reshapes the experiential conditions presupposed by Buddhist practice\u2014especially the cultivation of mindfulness (sm\u1e5bti), concentration (sam\u0101dhi), and wisdom (praj\u00f1\u0101). Drawing on core Buddhist doctrines\u2014dependent origination (prat\u012btyasamutp\u0101da), non-self (an\u0101tman), the dynamics of craving and grasping (t\u1e5b\u1e63\u1e47\u0101/up\u0101d\u0101na), and the ethical primacy of intention (cetan\u0101)\u2014the paper analyzes how AI reorganizes the field of experience by: (1) externalizing and commodifying attention, (2) delegating hermeneutic labor to machine mediation, (3) accelerating temporality and weakening the pedagogical value of \u201cslow practice,\u201d (4) introducing a new form of authority that is opaque yet persuasive, and (5) intensifying subtle forms of attachment to metrics, personalization, and cognitive convenience. The article distinguishes the legitimate instrumental use of AI from its deeper tendency to colonize meaning-making and proposes a Buddhist-informed normative framework: \u201ctechnological non-appropriation,\u201d \u201cdigital restraint,\u201d and \u201ccontemplative accountability.\u201d It concludes that Buddhism can engage AI constructively only by reasserting the irreducibility of liberation to optimization and by safeguarding the soteriological structure of practice against the reification and outsourcing of subjectivity.",
+      "journal": "Studies on Religion and Philosophy",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Sustaining Feminist Mnemonics: A Study of Temporal and Spatial Ecology of Memory in Geetanjali Sree\u2019s \u201cThe Tomb of Sand\u201d",
+      "url": "https://www.semanticscholar.org/paper/f36700a37ae967d9f94d0716156c8f0d7ae5d44f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-24T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645603",
+      "doi": "10.52783/cana.v32.5105",
+      "authors": [
+        {
+          "name": "Ananya Dasghosh",
+          "author_id": "2364773188",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Geetanjali Shree\u2019s Tomb of Sand (originally Ret Samadhi) intricately explores the interconnection of spatial memory, trauma and identity against the backdrop of the 1947 Partition of India. This research investigates the novel\u2019s portrayal of memory as a collective of spatial and temporal ecology, with a distinct focus on its feminine perspective and its potential for fostering sustainability by reimagining historical narratives. Employing Aleida Assmann\u2019s theory of \u2018cultural memory\u2019 and Homi K. Bhabha\u2019s concept of \u2018hybridity\u2019, the study positions the novel as a transformative text that transcends linear historiography, constructing a multi-voiced narrative that intertwines personal and collective recollections. Assmann\u2019s framework of cultural memory illuminates how the novel preserves and revitalises Partition\u2019s traumatic legacy within a shared cultural consciousness. The protagonist\u2019s cross-border journey- both literal and symbolic embodies an ecology of memory that transcends geopolitical demarcations, fostering a collective ethos of reconciliation. This underscores the critical role of feminine agency in curating and transmitting intergenerational memories. By creating a \"third space,\" Bhabha's idea of \"hybridity\" simultaneously highlights the novel's dismantling of dichotomies and \"Tomb of Sand\" reconfigures and negotiates fractured identities. Partition's lasting effects are critiqued by the protagonist's feministic assertion of agency and subversive interaction with patriarchal and patriotic tropes. This study posits \u201cTomb of Sand\u201d as a reimagined Partition narrative, functioning as a dynamic memory ecology that champions sustainability and inclusivity. By centring feminist voices and cross-border solidarity, the novel highlights the resilience of feminine perspectives in reconstructing collective spatial memory and envisioning a reconciliatory future.",
+      "journal": "Communications on Applied Nonlinear Analysis",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "The combined impact of yoga and dietary changes on mental health: A Holistic Approach to Well-Being",
+      "url": "https://www.semanticscholar.org/paper/98ae7d778011200ad6919a5401d405b50e482fc1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-23T00:00:00",
+      "date_fetched": "2026-09-07T16:48:13.645614",
+      "doi": "10.58914/ijyesspe.2025-10.2.5",
+      "authors": [
+        {
+          "name": "Ruchi Tripathi",
+          "author_id": "2274293442",
+          "affiliation": null
+        },
+        {
+          "name": "Bhola Nath Maurya",
+          "author_id": "2148621873",
+          "affiliation": null
+        },
+        {
+          "name": "Km Megha",
+          "author_id": "2401599152",
+          "affiliation": null
+        },
+        {
+          "name": "Vijay Shanker Yadav",
+          "author_id": "2369462656",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Yoga, an ancient Vedic technique, promotes health, well-being, and consciousness by focusing on the mind\u2019s role and functioning. It involves various activities and techniques, including ethical, behavioural, and relational values (Yama and niyama), physical postures and movements (asana), breathing regulation (pranayama), sensory control and inner awareness (pratyahara), mental concentration (dharana), meditation (dhyana), and merging of individual consciousness with a greater consciousness (samadhi). Yoga and other yogic practices play a crucial role in achieving, maintaining, and promoting mental health.\nMental health is a global concern, with around 10% of the population affected by mental disorders and nearly 50% projected to encounter a mental problem at some point in their lives. The Lancet Psychiatry Commission highlighted the urgent need for enhanced lifestyle treatments and corresponding implementation techniques. Yogic diets, also known as satvika diets, are essential for maintaining optimal health in individuals. The diet should consist of nourishing, sweet foods combined with ghee and milk, supporting the dhatus (fundamental body elements) and being palatable and appropriate. It is possible for the time of day that you consume food to have an impact on your health by influencing your circadian rhythm, which in turn influences the way that your body absorbs nutrients.\nIn conclusion, diet and yogic practices play a significant role in promoting mental health, emotional regulation, and overall well-being. A vegetarian and Satvik diet can greatly benefit those leading inactive lifestyles, adhering to the principles of mitahara and sattavik ahara.",
+      "journal": "Indian Journal of YOGA Exercise &amp; Sport Science and Physical Education",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "samadhi"
+      ]
+    },
+    {
+      "title": "Mindfulness Matters: Enhancing Mental Health and Reducing Stress in Nursing Students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704211/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-07T00:00:00",
+      "date_fetched": "2026-09-07T16:48:46.225049",
+      "doi": "10.1097/01.NEP.0000000000001601",
+      "authors": [
+        {
+          "name": "Christine H Kaford",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stephanie Vaughn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Deanna Jung",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Justine Gonzalez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Portia A Jackson Preston",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "The COVID-19 pandemic catalysed widespread psychological distress, daily disruptions, and pervasive uncertainty. This paper presents a narrative inquiry exploring a personal spiritual journey with Raja Yoga meditation, initiated via an online course during the pandemic lockdown. The account investigates the interconnected roles of spiritual knowledge, meditation practice, and selfless service (Sewa) in enhancing psychological well-being and fostering profound inner transformation. Additionally, a unique subjective experience during a residential spiritual retreat is analysed through both spiritual and neuro-psychological frameworks. The findings highlight the potential of meditation-based spiritual practices to cultivate self-awareness, mental clarity, and emotional resilience. This study contributes to the expanding body of literature addressing the intersection of spirituality and mental health during global crises.",
-      "journal": "Explore (New York, N.Y.)",
+      "abstract": "This phenomenological study explored undergraduate nursing students' experiences in a critical care course, focusing on mindfulness and stress management. Reflections over 15 weeks were analyzed using the Sort and Sift, Think and Shift method. Findings revealed initial high stress and poor mental health, followed by gradual development of coping strategies. Students demonstrated a shift in tone and mindset, gaining deeper insights as they processed emotions. Three themes emerged: goal setting, coping, and mindfulness. Mindfulness practices fostered resilience and well-being, highlighting their value as an educational strategy to prepare nurses for high-stress clinical environments.",
+      "journal": "Nursing education perspectives",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -385,32 +725,37 @@
       "matched_keywords": []
     },
     {
-      "title": "Awareness of being: a computational neurophenomenological model of mindfulness, mind-wandering, and meta-attentional control.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701647/",
+      "title": "Effectiveness of mindfulness meditation on balance, cognitive functions, quality of life, and falls prevention in Parkinson's disease: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704301/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:52.602109",
-      "doi": "10.1093/nc/niag046",
+      "date_published": "2026-09-07T00:00:00",
+      "date_fetched": "2026-09-07T16:48:46.225190",
+      "doi": "10.1080/09602011.2026.2725697",
       "authors": [
         {
-          "name": "Hayato Idei",
+          "name": "Purani Bogahawatta",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Keisuke Suzuki",
+          "name": "Ashan Wijekoon",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yuichi Yamashita",
+          "name": "Thameesha Harini",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Asha H Wettasinghe",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness has established psychological benefits, such as stress reduction and emotional regulation; however, the underlying computational mechanisms, particularly in relation to mind-wandering, remain unclear. This study aimed to present a hierarchical recurrent neural network-based agent model grounded in the free energy principle to explore these processes within the framework of allostasis. The model integrates interoceptive, proprioceptive, and exteroceptive predictive processing, which minimizes the variational free energy throughout past and future contexts. Simulations of the resting state showed that inferred (mentally simulated) homeostatic context modulated attentional shifts between a 'being' mode (focused on present interoceptive perception) and a 'doing' mode (involving mentally simulated proprioceptive and exteroceptive sensorimotor behaviors). Further, we identified a meta-attentional parameter that controls these shifts by influencing cognitive attitudes toward internally generated beliefs across network modules spanning from the past to the future. By manipulating this parameter, we replicated mindfulness states ('deep-being' mode) in which attention remained focused on the present interoceptive state, despite minimal sensory prediction errors. This study offers insights into the computational dynamics of mindfulness and mind-wandering, laying the groundwork for the future exploration of consciousness and pure awareness, which is a state of consciousness devoid of content.",
-      "journal": "Neuroscience of consciousness",
+      "abstract": "Scientific interest in mindfulness meditation as complementary therapy for Parkinson's disease (PD) has grown significantly. This systematic review examined mindfulness meditation effects on PD motor, cognitive, falls-related (fear of falling (FoF), freezing of gait (FoG), falls prevention), psychological (anxiety and depression), physical (balance, mobility, gait velocity), and quality of life (QoL) outcomes. A comprehensive search of PubMed, Web of Science, PEDro, Scopus, Cochrane Library, and ClinicalTrials.gov was conducted from database inception to May 2026. Data extraction and risk of bias assessment were performed independently by two reviewers. Fourteen studies met inclusion criteria: nine randomized controlled trials and five pre-post design studies. Following mindfulness meditation interventions: (1) Robust improvements were observed in anxiety symptoms; (2) Significant improvements were reported in depression and QoL; (3) Motor symptom improvements were inconsistent with limited evidence; (4) Findings on physical function outcomes, including balance and mobility, provided limited evidence of benefit, while one study demonstrated reduced gait speed; (5) Cognitive function improvements were mixed with benefits in specific domains but inconsistent general results; (6) Falls, FoF, and FoG were not evaluated despite clinical significance. There is a critical need for rigorously designed studies emphasizing motor outcomes and falls prevention to inform clinical practice.",
+      "journal": "Neuropsychological rehabilitation",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -418,42 +763,65 @@
       "matched_keywords": []
     },
     {
-      "title": "Weight Stigma, Body Trust, and Suicide Ideation Among Adolescents: A Longitudinal Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700472/",
+      "title": "Burnout, Engagement and Resilience as Predictors of Students' Academic Achievement Among Secondary Students in Amhara Region, Ethiopia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703212/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-01T00:00:00",
+      "date_fetched": "2026-09-07T16:48:46.225531",
+      "doi": "10.1007/s40653-025-00763-5",
+      "authors": [
+        {
+          "name": "Yordanos Yibeltal Yedemie",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Burnout negatively impacts academic achievement, while high engagement and resilience promote better performance among secondary students. Targeted interventions can enhance these factors for improved student success. The study explored how burnout, engagement and resilience influenced the academic achievement of secondary school students. A cross-sectional survey was conducted. From the total population, 395 students were selected by using a stratified sampling method and Pearson correlations and multiple regression analysis were employed to determine whether burnout, engagement, and resilience significantly predicted students' academic achievement. The findings showed that burnout and resilience were important predictors of academic achievement. Students who were less cynical and more emotionally and mentally engaged in their learning tended to do better. Interestingly, Feeling emotionally drained can push students to work harder, which may briefly improve their academic performance. Furthermore, the coping strategies they cultivate can boost their focus and critical thinking skills, which further enhance their learning experiences. The study revealed that religion, a resilience factor, exerted the most substantial positive influence on academic performance (\u03b2\u2009=\u20090.12, t\u2009=\u20093.71, ",
+      "journal": "Journal of child & adolescent trauma",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mapping Workplace Mental Health Practices: A Scoping Review and Preliminary Conceptual Synthesis for the Brazilian Context.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702011/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-05T00:00:00",
-      "date_fetched": "2026-09-06T14:33:52.602847",
-      "doi": "10.1002/jclp.70222",
+      "date_fetched": "2026-09-07T16:48:46.226209",
+      "doi": "10.47626/1516-4446-2026-5059",
       "authors": [
         {
-          "name": "Reza N Sahlan",
+          "name": "Jos\u00e9 Jonas de Oliveira",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marley G Billman Miller",
+          "name": "Luciano de Vasconcelos",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lauren E Pictor",
+          "name": "Matheus Milani Muniz de Souza",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lauren Harris",
+          "name": "Pedro Henrique Costa Mendes",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "April Smith",
+          "name": "Luciano Magalh\u00e3es Vitorino",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Suicide is the fourth leading cause of death, with rates rising during adolescence. In the United States, suicide deaths rose among 15-24-year-olds and more than doubled among 10-14-year-olds from 2008 to 2018, with one in six reporting suicidal ideation (SI) annually. Weight stigma (WS), both experienced and internalized, is a significant suicide risk factor. WS fosters shame, self-doubt, and reduced body trust, or feeling unsafe in one's body-all of which are linked to SI. This study tested whether body trust mediated the relation between WS and SI among Iranian adolescents. Participants (N\u2009=\u20091243) completed online measures at three timepoints (baseline, 1-month, 3 months). Cross-lagged panel models were tested in MPlus to examine relations between constructs. Higher internalized WS predicted lower body trust at 1-month follow-up, but body trust at 1-month follow-up did not significantly predict SI at 3-month follow-up. Experienced WS and SI demonstrated reciprocal relations such that experienced WS and SI at baseline predicted one another at 1-month follow-up. Higher body trust at baseline predicted lower experienced WS, Internalized WS, and SI at 3-month follow-up, as well as lower internalized WS at 1-month follow-up. WS was not indirectly associated with SI through low body trust. These findings show independent links between WS, body trust, and SI, underscoring the need for targeted interventions. Clinicians should assess and address these factors in adolescents at risk. Approaches that challenge weight-biased beliefs and build body trust, such as mindfulness or acceptance-based strategies, may reduce distress.",
-      "journal": "Journal of clinical psychology",
+      "abstract": "OBJECTIVE: To map evidence on workplace mental health practices for promotion, prevention, screening, and management of mental health and psychosocial risks, with attention to their potential relevance to the Brazilian occupational context. METHODS: A scoping review followed JBI guidance and was reported according to PRISMA-ScR. Searches were performed in PubMed/MEDLINE, Scopus, Web of Science, PsycINFO and Cochrane Library. Studies, protocols, and institutional documents published between 2020 and 2025 addressing workplace mental health practices in occupational settings were included. RESULTS: Sixty-eight records were included. Relatively stronger evidence for short-term psychological outcomes came from moderate-robustness randomized studies of ACT and resilience training. Mindfulness was more frequently studied but showed heterogeneous and mostly short-term effects. Evidence for exercise, CBT-based self-care, coaching, and leadership interventions was preliminary or mixed. Effect sizes, sustained benefits, and organizational outcomes were inconsistently reported. CONCLUSION: The mapped literature was heterogeneous and concentrated on individual-level approaches, with limited assessment of organizational outcomes. Five recurring domains were organized as a hypothesis-generating conceptual synthesis to support future consensus development, contextual adaptation, feasibility assessment, and implementation research in Brazil. This synthesis is not a validated model or recommendation for routine practice.",
+      "journal": "Revista brasileira de psiquiatria (Sao Paulo, Brazil : 1999)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -461,37 +829,145 @@
       "matched_keywords": []
     },
     {
-      "title": "Comparative efficacy of interventions for transdiagnostic anhedonia: a network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700486/",
+      "title": "Implementation of nurse onboarding multi-user virtual reality training on recognition of pediatric shock.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703039/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-06T00:00:00",
+      "date_fetched": "2026-09-07T16:48:46.226373",
+      "doi": "10.1002/jhm.70460",
+      "authors": [
+        {
+          "name": "Matthew W Zackoff",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jacob Fleck",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kelly Collins",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kyesha James",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Meisman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kelly Ely",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "John Forbes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amy Mattingly",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rashmi Sahay",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bin Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jennifer Saupe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Melissa Kimball",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Beth Mayer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amiee Gardner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maya Dewan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Francis J Real",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Pediatric sepsis remains a major cause of mortality, with persistent emergency transfers despite standardization. Limited situation awareness may underlie prior failures, and virtual reality (VR) may improve situation awareness by enhancing team recognition and communication of impending sepsis-related decompensation. OBJECTIVES: The study assessed the effectiveness and implementation of a VR curriculum, MUVR_Shock, embedded in nurse orientation to improve recognition and escalation of pediatric shock in acute care settings. METHODS: Effectiveness outcomes included changes in institutional serious safety event rates and emergency transfers during the 18 months pre- and post-implementation. Self-perceived comfort verbalizing concern for shock and implementation outcomes, including acceptability, appropriateness, and feasibility, were assessed via surveys. Outcomes were analyzed with descriptive statistics and paired t-tests as applicable. Cost feasibility was assessed using a cost analysis of the MUVR_Shock intervention. RESULTS: A total of 463 nurses participated in MUVR-Shock, with 351 nurses (75.8%) completing the post survey. Following implementation, there were no SSEs nor an increase in the rate of emergent transfers for sepsis/shock. Participant self-reported comfort with verbalizing a concern for sepsis/shock increased following exposure to MUVR_Shock (p\u2009<\u2009.001). The intervention was found highly acceptable and appropriate among participating nurses, although VR facilitators reported that 70% of sessions required technical troubleshooting. Costs were determined to be $178/participant, primarily reflecting personnel and equipment costs. CONCLUSIONS: MUVR_Shock improved nurses' confidence in recognizing pediatric shock during onboarding. VR may offer an acceptable modality for situation awareness training, though improvements in usability and cost reduction are required.",
+      "journal": "Journal of hospital medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Association between Bullying Victimization and Child Abuse and Muscle Dysmorphic Disorder among Lebanese Adolescents: the Co-moderating Effect of Social Support and Mindfulness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703205/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:52.602982",
-      "doi": "10.1016/j.psychres.2026.117435",
+      "date_fetched": "2026-09-07T16:48:46.226544",
+      "doi": "10.1007/s40653-026-00829-y",
       "authors": [
         {
-          "name": "Yong-Ming Wang",
+          "name": "Myriam El Khoury-Malhame",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fei Chen",
+          "name": "Diana Malaeb",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yun-Wu Hou",
+          "name": "Mariam Dabbous",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Meng Zhang",
+          "name": "Feten Fekih-Romdhane",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Souheil Hallit",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sahar Obeid",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Anhedonia is a transdiagnostic disturbance of reward processing, yet the comparative efficacy and certainty of available interventions remain unclear. We searched PubMed, Embase, Web of Science, and MEDLINE for controlled trials reporting quantitative anhedonia outcomes. The protocol was registered in PROSPERO under CRD42025630784. Random-effects frequentist network meta-analyses were conducted overall and by population, including major depressive disorder, schizophrenia, and healthy individuals with trait anhedonia. Randomized trials were assessed with the Cochrane Risk of Bias 2 (RoB 2) tool, and the single non-randomized trial was assessed with the Risk of Bias in Non-randomized Studies of Interventions (ROBINS-I) tool. Certainty of evidence was assessed using the Confidence in Network Meta-Analysis framework. Sixty reports representing 61 independent trials, 5794 participants, and 80 contrasts were included. The primary network comprised 35 trials, 39 contrasts, and 17 treatment nodes. In the overall transdiagnostic network, estimates versus the pooled control node favoured vortioxetine 10 mg/day, left dorsolateral prefrontal cortex-targeted transcranial magnetic stimulation (left DLPFC-targeted TMS), behavioural activation, and meditation. The corresponding standardized mean differences were -0.90, -0.55, -0.52, and -0.49. Heterogeneity was substantial at I\u00b2 = 71.90%, but the design-by-treatment test did not indicate global inconsistency. Left DLPFC-targeted TMS showed the most consistent evidence pattern across the overall and major depressive disorder networks, supported by five direct trials in the overall network and stable leave-one-trial-out estimates. These findings clarify the comparative evidence across pharmacological, neuromodulatory, and psychological approaches and provide a structured basis for future diagnosis-specific trials and treatment development.",
-      "journal": "Psychiatry research",
+      "abstract": "Childhood abuse is still a prevalent problem in modern societies. Adolescents with a history of harm become increasingly susceptible to being bullied. One of the overlooked physical and mental damage seems centered around altered perception of one's body such as muscle dysmorphia. This study assesses the correlation between abuse, bullying victimization and dysmorphia, taking into consideration the co-moderating role of mindfulness and social support among Lebanese adolescents. A convenient sample of 403 participants aged 15 to 18 was included in the study. Adolescents filled demographic questions as well as standardized questionnaires for childhood abuse (Child Abuse Self-Report Scale), bullying victimization (The Illinois Bully scale",
+      "journal": "Journal of child & adolescent trauma",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -499,70 +975,22 @@
       "matched_keywords": []
     },
     {
-      "title": "Evidence-Based Perspectives on Complementary and Alternative Medicine in Cancer Treatment: Current Advances and Clinical Relevance.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699264/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:52.603638",
-      "doi": "10.2147/JMDH.S629362",
-      "authors": [
-        {
-          "name": "Adil Farooq Wali",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sirajunisa Talath",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nawar Nezar Alaani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Omnia Ibrahim Mohamed",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tiba Humam Alhamadani",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Cancer is a leading cause of death worldwide with considerable physical, psychological and socioeconomic impact. In parallel to traditional treatments such as chemotherapy, radiotherapy, surgery and immunotherapy, patients with cancer have increasingly turned towards Complementary and Alternative Medicine (CAM) in their quest for better quality of life, symptom relief and whole-person oriented approaches. In this review, we provide a comprehensive overview of the role of CAM therapies in cancer management, including Ayurvedic medicine, Traditional Chinese Medicine (eg, acupuncture), naturopathy, homeopathy, yoga and tai chi, dietary interventions and mind-body therapies. Available literature indicates that several CAM modalities may alleviate the side effects of treatment including pain, fatigue, anxiety and insomnia while decreasing nausea and depression as well as lymphedema, improving emotional health and clinical trial overall satisfaction. Positive supportive effects through symptom relief have been shown for herbal medicines and acupuncture while yoga, meditation as well as relaxation therapies show benefits related to psychological resilience and stress reduction. The evidence for the effectiveness of individual interventions (homeopathy, certain dietary therapies, etc.) are inconsistent and controversial. Adverse herb-drug interactions, non-adherence to curative treatment schedules and safety issues further emphasise the need for clinical oversight and evidence-informed incorporation of CAM into cancer care. Global prevalence, the state of CAM in the UAE, together with obstacles related to regulation and clinical practice are also reviewed. Recent advances in complementary and alternative medicine (CAM) have increasingly focused on evidence-based integrative oncology, where selected CAM interventions are incorporated alongside conventional cancer therapies to improve patient outcomes. Growing clinical evidence supports the use of acupuncture, standardized herbal formulations, yoga, mindfulness-based interventions, and nutritional approaches for managing cancer-related symptoms, reducing treatment-associated toxicities, and enhancing quality of life. Furthermore, advances in phytochemical research, molecular pharmacology, and systems biology have improved the understanding of the mechanisms underlying CAM therapies, facilitating their rational integration into multidisciplinary cancer care. Despite these promising developments, further well-designed clinical trials and standardized treatment protocols are required to establish their long-term efficacy and safety. Although several complementary and alternative medicine (CAM) interventions have demonstrated encouraging clinical outcomes, the quality of the available evidence varies considerably. While randomized controlled trials support the use of acupuncture, yoga, and mindfulness-based interventions for symptom management and quality-of-life improvement, many studies evaluating herbal medicines are limited by small sample sizes, heterogeneous methodologies, and inadequate long-term follow-up. Therefore, additional well-designed multicenter clinical trials are required to establish the efficacy and safety of these interventions.In summary, as long as CAM therapies are used appropriately and in conjunction with healthcare professionals, they may be beneficial adjuncts to standard cancer therapy. The role of these agents in integrative oncology care will require additional well-designed clinical trials and mechanistic studies to determine efficacy and safety profiles.",
-      "journal": "Journal of multidisciplinary healthcare",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Current perspectives on the psychological stress-immune axis in asthma: Pathophysiology, interventions, and significance for patient care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699749/",
+      "title": "Culturally Responsive Mindfulness for Trauma Recovery in Foster Youth.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703229/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-01T00:00:00",
-      "date_fetched": "2026-09-06T14:33:52.604959",
-      "doi": "10.1016/j.waojou.2026.101453",
+      "date_fetched": "2026-09-07T16:48:46.227980",
+      "doi": "10.1007/s40653-026-00840-3",
       "authors": [
         {
-          "name": "KaKa L Adams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gailen D Marshall",
+          "name": "Tyton S Brunner",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Psychological stress and psychiatric comorbidities are highly prevalent in patients with asthma, with evidence supporting bidirectional links. Excessive psychological stress is associated with immune dysregulation, hypothalamic-pituitary-adrenal (HPA) axis dysfunction, and neuroimmune crosstalk that increases Type 2 inflammation associated with poorly controlled asthma. Anxiety and depression worsen asthma control and quality of life through complex and bidirectional mechanisms. Both cognitive-behavioral therapy (CBT) and mindfulness-based stress reduction (MBSR) can help reduce distress and increase quality of life for people with asthma. However, their effects on lung function and exacerbation rates remain inconsistent. Integrating interventions that address stress and mental health factors into asthma care is essential for optimal care. Distinguishing formal psychiatric illness from stress-related emotional distress allows for specific interventions to be utilized. Embedding validated screening tools and behavioral health into routine clinical practice can address the value of managing psychosocial burden while complementing pharmacologic therapy.",
-      "journal": "The World Allergy Organization journal",
+      "abstract": "Foster youth often experience complex trauma, instability, and systematic inequities that contribute to long-term mental health challenges. This conceptual review synthesizes evidence from randomized controlled trials, systematic reviews, and applied practice to examine how Mindfulness-Based Interventions (MBIs) can support trauma recovery among foster youth. Drawing from recent Randomized Controlled Trials (RCTs) and applied practice, this conceptual review synthesizes evidence showing that MBIs reduce Post-Traumatic Stress Disorder (PTSD) symptoms, improve emotional regulation, and strengthen relational trust. The paper highlights the need for culturally responsive adaptations that align mindfulness practices with the lived experiences and values of racially and ethnically diverse foster youth. Evidence from school-based, digital, and community programs demonstrates that integrating mindfulness into child welfare and educational systems can promote self-awareness, empowerment, and psychological well-being. Attention is given to long-term outcomes, including the potential for sustained improvements in self-concept, coping, and relational functioning. The article concludes with implementation strategies and policy directions to embed trauma-informed, culturally grounded MBIs within foster care settings. By investing in training, community engagement, and longitudinal research, stakeholders can strengthen resilience and promote healing for youth with histories of trauma.",
+      "journal": "Journal of child & adolescent trauma",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -570,31 +998,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "A Political Operative on the Verge of Self-Deportation",
-      "url": "https://www.newyorker.com/news/the-lede/a-political-operative-on-the-verge-of-self-deportation",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-09-06T10:00:00",
-      "date_fetched": "2026-09-06T14:33:53.166011",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Jes\u00fas Rodr\u00edguez",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "Daysi Gonz\u00e1lez, who works to elect Democrats, is gearing up to leave the U.S. as soon as this month. She wants her own party to pay attention.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
