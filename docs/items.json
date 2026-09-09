@@ -1,401 +1,598 @@
 {
-  "generated_at": "2026-09-08T15:35:40.787971",
+  "generated_at": "2026-09-09T15:30:04.156339",
   "papers": [
     {
-      "title": "Interbrain synchronization in classroom during high-entropy music listening and meditation: a hyperscanning EEG study",
-      "url": "https://www.semanticscholar.org/paper/bbdf22f3031e4d506da3cf3fdac07ddd0e43b276",
+      "title": "Forgetting, Nirodha, and Liberation",
+      "url": "https://www.semanticscholar.org/paper/708b17785f404f1e06f53d3d26e25dd907303659",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-01T00:00:00",
-      "date_fetched": "2026-09-08T15:34:41.547164",
-      "doi": "10.3389/fnins.2025.1557904",
+      "date_published": "2026-02-10T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181735",
+      "doi": "10.3390/rel17020207",
       "authors": [
         {
-          "name": "Junling Gao",
-          "author_id": "2280289738",
-          "affiliation": null
-        },
-        {
-          "name": "H. Leung",
-          "author_id": "32608545",
-          "affiliation": null
-        },
-        {
-          "name": "K. Lee",
-          "author_id": "2304555516",
-          "affiliation": null
-        },
-        {
-          "name": "C. Poon",
-          "author_id": "2252008751",
-          "affiliation": null
-        },
-        {
-          "name": "Gan Huang",
-          "author_id": "2357023586",
-          "affiliation": null
-        },
-        {
-          "name": "Junhao Liao",
-          "author_id": "2355100932",
-          "affiliation": null
-        },
-        {
-          "name": "B. W. Wu",
-          "author_id": "49814324",
-          "affiliation": null
-        },
-        {
-          "name": "T. Thach",
-          "author_id": "144526137",
-          "affiliation": null
-        },
-        {
-          "name": "R. Ho",
-          "author_id": "2276101458",
-          "affiliation": null
-        },
-        {
-          "name": "H. Sik",
-          "author_id": "143742500",
+          "name": "Sthaneshwar Timalsina",
+          "author_id": "67153978",
           "affiliation": null
         }
       ],
-      "abstract": "Introduction Social interaction is a vital source of human development, yet neuroscientific research delineating its neural correlates in large groups is scarce. Music as a rhythmic signal, and meditation, have been shown to induce group synchronization and pro-social behavior. However, their impact on adolescents may vary, and the related brain functions remain underexplored. This study investigates the effects of mindfulness meditation and 6\u202fHz high-entropy music on brain synchronization and complexity in high school students. Methods Twenty-eight adolescents underwent single-channel EEG at the forehead during three 5-minute conditions: rest, meditation, and 6\u202fHz high-entropy music. Alpha band power correlations assessed synchronization. Graph analyses quantified network properties. Results Mean correlation was highest during music, then meditation, and lowest during rest, with significant differences between music and both rest and meditation. Meditation had the highest clustering coefficient and small-world index, suggesting more integrated and efficient networks. Music demonstrated the largest information cascades and synergy, indicating extensive information integration. Conclusion 6\u202fHz high-entropy music induced the strongest synchronization. While meditation and music altered brain dynamics compared to rest, they worked distinctly. Meditation yielded more integrated connectivity; music yielded the greatest element-wise correlation. Future research with larger samples is recommended to optimize interventions for adolescent well-being and social connectedness.",
-      "journal": "Frontiers in Neuroscience",
-      "year": 2025,
+      "abstract": "Current research in the field of memory and forgetting has reshaped our understanding in psychology and cognitive science. Philosophical research, particularly a systematic investigation into non-Western modes of thinking, is still lagging. Common themes in popular culture today, such as memory editing or selective forgetting, are not limited to fantasies alone, as they are becoming increasingly prevalent in reality. This invites questions on the morality of such practices. The focus of this paper is the classical Pata\u00f1jalian approach to memory and forgetting. By engaging classical Indian philosophies and relating the arguments to contemporary research, I explore the core issues of memory and forgetting in Pata\u00f1jali\u2019s philosophy.",
+      "journal": "Religions",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "nirodha"
       ]
     },
     {
-      "title": "TMS-EEG Shows Mindfulness Meditation Is Associated With a Different Excitation/Inhibition Balance in the Dorsolateral Prefrontal Cortex",
-      "url": "https://www.semanticscholar.org/paper/b8c6686e93de94882ef422823010de1d1f2872b7",
+      "title": "Citta-Vritti-Nirodha: The Psychology of Yoga in Modern Stress Management",
+      "url": "https://www.semanticscholar.org/paper/b30ed146a1a09be8b8ed1f4ae671ed49ac12a0f7",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-01T00:00:00",
-      "date_fetched": "2026-09-08T15:34:41.547179",
-      "doi": "10.1007/s12671-025-02519-6",
+      "date_published": null,
+      "date_fetched": "2026-09-09T15:29:35.181747",
+      "doi": "10.56975/ijcrt.v14i3.304426",
       "authors": [
         {
-          "name": "Gregory Humble",
-          "author_id": "2084263368",
-          "affiliation": null
-        },
-        {
-          "name": "Harry Geddes",
-          "author_id": "2085036414",
-          "affiliation": null
-        },
-        {
-          "name": "Oliver Baell",
-          "author_id": "113705373",
-          "affiliation": null
-        },
-        {
-          "name": "Jake Elijah Payne",
-          "author_id": "2205693935",
-          "affiliation": null
-        },
-        {
-          "name": "Aron T. Hill",
-          "author_id": "2237219558",
-          "affiliation": null
-        },
-        {
-          "name": "SungWook Chung",
-          "author_id": "2109447053",
-          "affiliation": null
-        },
-        {
-          "name": "Melanie R L Emonson",
-          "author_id": "51894959",
-          "affiliation": null
-        },
-        {
-          "name": "Melissa Osborn",
-          "author_id": "2094934067",
-          "affiliation": null
-        },
-        {
-          "name": "Bridget Caldwell",
-          "author_id": "2189758458",
-          "affiliation": null
-        },
-        {
-          "name": "Paul B Fitzgerald",
-          "author_id": "2237285274",
-          "affiliation": null
-        },
-        {
-          "name": "R. Cash",
-          "author_id": "2265498835",
-          "affiliation": null
-        },
-        {
-          "name": "Neil W. Bailey",
-          "author_id": "2241862275",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness meditation is associated with functional brain changes in regions subserving higher order cognitive processes such as attention. However, no research to date has probed these areas in meditators using combined transcranial magnetic stimulation (TMS) and electroencephalography (EEG). This study aimed to investigate whether cortical reactivity to TMS differs in a community sample of experienced mindfulness meditators when compared to matched controls. TMS was applied to the left and right dorsolateral prefrontal cortices (DLPFC) of 19 controls and 15 meditators while brain responses were measured using EEG. TMS-evoked potentials (P60 and N100) were compared between the groups using repeated measures ANOVAs and Mann\u2013Whitney U tests where appropriate, and exploratory analyses using the whole EEG scalp field were performed to test whether TMS-evoked global neural response strength or the distribution of neural activity differed between groups. Meditators were found to have statistically larger P60/N100 ratios in response to both left and right hemisphere DLPFC stimulation compared to controls (both left and right pFDR\u2009<\u20090.01, BF10\u2009>\u200939). No differences were observed in P60 or N100 amplitudes when examined independently. We also found preliminary evidence for differences in the spatial distribution of neural activity 269\u2013332 ms post stimulation. These differences in the distribution of neural activity around 300 ms after stimulation suggest that meditators may have differences in connectivity between cortical and subcortical brain regions, potentially reflecting greater inhibitory activity in frontal regions. This research contributes to our current understanding of the neurophysiology of mindfulness and highlights opportunities for further exploration into the mechanisms underpinning the benefits of mindfulness meditation. This study is not preregistered.",
-      "journal": "Mindfulness",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "From contemplation to serenity: how yoga meditation improves the mental health of female college students?",
-      "url": "https://www.semanticscholar.org/paper/37de2f384ade4aeed207ce47e98717967d896fc5",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-10T00:00:00",
-      "date_fetched": "2026-09-08T15:34:41.547191",
-      "doi": "10.3389/fpsyg.2025.1545943",
-      "authors": [
-        {
-          "name": "Lanjuan Liu",
-          "author_id": "2215375605",
-          "affiliation": null
-        },
-        {
-          "name": "Cheng Liu",
-          "author_id": "2306788105",
-          "affiliation": null
-        },
-        {
-          "name": "Lijun Tang",
-          "author_id": "2153720672",
-          "affiliation": null
-        },
-        {
-          "name": "Xing Wang",
-          "author_id": "2379873973",
-          "affiliation": null
-        },
-        {
-          "name": "Qiangming Feng",
-          "author_id": "2367762019",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Objective This study aims to investigate the impact of yoga meditation on the mental health of female college students, focusing on how meditation improves emotional regulation, alleviates stress and strengthens psychological resilience. Methods Employing a combination of quantitative assessment and qualitative analysis, the study measured participants\u2019 emotional states, stress levels, and psychological resilience across multiple time points to track participants\u2019 mental health changes dynamically. In-depth interviews and analysis of meditation journals were also conducted. Results Yoga meditation significantly reduced anxiety, depression, and perceived stress while enhancing emotional regulation and self-awareness. Meditation positively influenced neuroplasticity, inducing beneficial changes in brain regions associated with emotional control and cognitive flexibility. Additionally, improved autonomic nervous system function was observed, with increased parasympathetic activity and reduced sympathetic response. Meditation strengthened psychological resilience in female college students, improved stress-coping strategies, and sustained positive mental health benefits even after the intervention. Conclusion Yoga meditation is an effective mental health intervention, bolstering emotional regulation and reducing stress among female college students. Integrating yoga meditation into campus mental health programs is recommended to provide students with greater practice opportunities and personalized guidance.",
-      "journal": "Frontiers in Psychology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "ASUHAN KEPERAWATAN PADA PASIEN FRAKTUR MAXILA DENGAN INTERVENSI MINDFULNESS-BASED STRESS REDUCTION (MBSR) UNTUK MENGURANGI NYERI AKUT DI RSUP KANDOU MANADO",
-      "url": "https://www.semanticscholar.org/paper/5fe73f0955c15149afa437161ab607207cd3df69",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-12-31T00:00:00",
-      "date_fetched": "2026-09-08T15:34:51.047497",
-      "doi": "10.31004/jkt.v6i4.52111",
-      "authors": [
-        {
-          "name": "Vandri D. Kallo",
-          "author_id": "52020383",
-          "affiliation": null
-        },
-        {
-          "name": "J. Legi",
-          "author_id": "147100444",
-          "affiliation": null
-        },
-        {
-          "name": "O. Manengkey",
-          "author_id": "66331949",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Kaligis",
-          "author_id": "2414872275",
-          "affiliation": null
-        },
-        {
-          "name": "Helda Fatrisia Sosinggi",
-          "author_id": "2414853957",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Nyeri akut merupakan salah satu masalah utama pada pasien dengan trauma wajah, khususnya fraktur maksila. Penanganan nyeri yang efektif diperlukan melalui kombinasi terapi farmakologis dan nonfarmakologis. Salah satu teknik nonfarmakologis yang terbukti efektif adalah Mindfulness-Based Stress Reduction (MBSR), yang dapat menurunkan persepsi nyeri sekaligus meningkatkan kenyamanan pasien. Penelitian ini bertujuan untuk mendeskripsikan penerapan manajemen nyeri melalui teknik MBSR pada pasien dengan fraktur maksila di RSUP Prof. Dr. R. D. Kandou Manado. Penelitian menggunakan pendekatan studi kasus keperawatan terhadap seorang pasien laki-laki berusia 19 tahun dengan diagnosis fraktur maksila. Diagnosa keperawatan yang ditegakkan meliputi nyeri akut berhubungan dengan agen pencedera fisik, gangguan rasa nyaman akibat efek terapi, dan risiko infeksi terkait tindakan invasif. Intervensi keperawatan yang diterapkan mencakup manajemen nyeri, pengaturan posisi, dan pencegahan infeksi, dengan teknik MBSR dilakukan 2\u20133 kali sehari selama dua hari. Hasil penelitian menunjukkan penurunan intensitas nyeri dari NRS 6 menjadi NRS 4, ekspresi wajah pasien lebih rileks, mobilitas rahang membaik, dan pasien mampu melaksanakan MBSR secara mandiri. Tidak ditemukan komplikasi tambahan selama intervensi. Kesimpulannya, penerapan manajemen nyeri berbasis kombinasi farmakologis dan nonfarmakologis, khususnya MBSR, efektif menurunkan nyeri akut, meningkatkan kenyamanan, dan mendukung adaptasi pasien terhadap trauma wajah. Intervensi ini dapat dijadikan strategi keperawatan komplementer pada pasien dengan nyeri maksilofasial.",
-      "journal": "Jurnal Kesehatan Tambusai",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBSR"
-      ]
-    },
-    {
-      "title": "From Doctrine to Practice: Applied Buddhism in Socio-Cultural, Educational, and Economic Institutions Modern across Asia",
-      "url": "https://www.semanticscholar.org/paper/244b4edaac69f90ff5955cde547bf9ef8f05048a",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-21T00:00:00",
-      "date_fetched": "2026-09-08T15:35:09.299345",
-      "doi": "10.1007/s42087-026-00578-2",
-      "authors": [
-        {
-          "name": "Tri Yatno",
-          "author_id": "2314624032",
-          "affiliation": null
-        },
-        {
-          "name": "Hesti Sadtyadi",
-          "author_id": "2085354881",
-          "affiliation": null
-        },
-        {
-          "name": "Hariyanto",
-          "author_id": "9341480",
+          "name": "Paheli Maiti",
+          "author_id": "2409381554",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Human Arenas",
+      "journal": "International journal of creative research thoughts",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "samadhi"
+        "nirodha"
       ]
     },
     {
-      "title": "Manajemen Peserta Didik Berbasis Nilai-Nilai Buddhis Dalam Mewujudkan Pendidikan Holistik",
-      "url": "https://www.semanticscholar.org/paper/0062d7ba8d345d0a503cf67f59706ac216502d5f",
+      "title": "Brain criticality and advanced meditation \u201ccessation\u201d events: An intensively sampled electroencephalography case study",
+      "url": "https://www.semanticscholar.org/paper/d88915c7819b4b8d920d490d9bf5597be635a285",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-06-20T00:00:00",
-      "date_fetched": "2026-09-08T15:35:09.299410",
-      "doi": "10.57235/jerumi.v3i1.6429",
+      "date_published": "2026-07-01T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181784",
+      "doi": "10.1016/j.ibneur.2026.07.011",
       "authors": [
         {
-          "name": "Putriana M",
-          "author_id": "2369028399",
+          "name": "Remko van Lutterveld",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yanti Yanti",
-          "author_id": "67070492",
+          "name": "Thomas Cahaly",
+          "author_id": "2453794401",
           "affiliation": null
         },
         {
-          "name": "Munisah Munisah",
-          "author_id": "73800990",
+          "name": "Lukas van Herk",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kabri Kabri",
-          "author_id": "2309188239",
+          "name": "Daniel M. Ingram",
+          "author_id": "2214935866",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "1838231",
           "affiliation": null
         }
       ],
-      "abstract": "Manajemen peserta didik dalam lembaga pendidikan Buddhis berperan penting dalam membentuk karakter holistik peserta didik melalui integrasi nilai-nilai moralitas (s\u012bla), konsentrasi (sam\u0101dhi), dan kebijaksanaan (pa\u00f1\u00f1\u0101) dalam lingkungan belajar yang harmonis dan bermakna. Penelitian ini menggunakan metode studi kepustakaan dengan mengumpulkan, mengolah, dan menyimpulkan data dari berbagai sumber yang relevan guna menemukan jawaban atas permasalahan yang dikaji. Penelitian ini mengkaji manajemen peserta didik berbasis nilai-nilai Buddhis dalam mewujudkan pendidikan holistik yang menekankan pengembangan akademik, moral, dan spiritual secara seimbang. Hasil menunjukkan bahwa pendekatan ini mencakup kepemimpinan spiritual, pembelajaran interaktif, serta keterlibatan guru, siswa, dan orang tua dalam membangun budaya sekolah yang harmonis. Nilai-nilai Buddhis seperti etika, konsentrasi, dan kebijaksanaan menjadi dasar pembentukan karakter dan pengalaman belajar yang bermakna.",
-      "journal": "Journal of Education Religion Humanities and Multidiciplinary",
+      "abstract": "Advanced meditation includes meditative endpoints that are outcomes of meditation practice and occur with time and mastery of meditation. The \u201ccessation\u201d event (c.f. nirodha in Theravada Buddhism) is a meditative endpoint characterized by a loss of consciousness followed by a sense of mental reset and deep clarity. In general, organization of brain activity exists along a \u201ccriticality\u201d spectrum: order and disorder occupy the extremes, and the critical point, which is thought to represent optimal information processing, is in between. In this exploratory, hypothesis-generating case study, we assessed brain criticality in the 39.9\u202fs pre-cessation to 39.9\u202fs post-cessation window by applying detrended fluctuation analysis (DFA) to electroencephalography (EEG) data in relation to 37 cessations in a single advanced meditator. Changepoint analysis and linear mixed effects modeling revealed a spike in the whole-brain DFA exponent starting from 11.3 to 3.1\u202fs pre-cessation, suggesting a strengthening of long-range temporal correlations (LRTC) and movement towards the critical point. In addition, a sustained elevation was observed from 3.1 to 23.6\u202fs post-cessation. Linear changepoint analysis effects were most pronounced in central, right frontal, and posterior EEG channels, while frontal channels Fp1, F3, and F7 incurred into supercritical territory surrounding cessations. Additional analysis revealed a temporary drop in the mean DFA exponent around cessation onset relative to immediately surrounding segments. For most channels, the mean DFA exponent reached a time series maximum at 1.0\u20133.1\u202fs following cessation onset, often near the critical point or just into the supercritical range. These preliminary findings in a single case study, which are consistent with reported phenomenology of cessations, show large-scale modulation in criticality related to cessations.",
+      "journal": "IBRO Neuroscience Reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "From Suffering to Enlightenment: Echoes of the Four Noble Truths in Hermann Hesse\u2019s Siddhartha",
+      "url": "https://www.semanticscholar.org/paper/12b22acbf0a200d33dcff0ecc13329d0dbb79596",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-13T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181818",
+      "doi": "10.3126/jrdn.v8i1.85143",
+      "authors": [
+        {
+          "name": "Basu Dev Ghimire",
+          "author_id": "2385707876",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Hermann Hesse\u2019s Siddhartha (1951) is a profound literary exploration of human suffering and the quest for spiritual fulfillment. Rooted in Buddhist philosophy, the novel dramatizes the journey from ignorance and desire to wisdom and enlightenment. This study examines the novel through the lens of the Four Noble Truths: Dukkha (suffering), Samudaya (the cause of suffering), Nirodha (the cessation of suffering), and Magga (the path to liberation)\u2014as articulated in canonical Buddhist texts such as the Dhammacakkappavattana Sutta. The research demonstrates how Hesse preserves the essence of Buddhist doctrine while transforming it for a Western audience, emphasizing individual experience, existential reflection, and personal intuition. Close textual analysis of Siddhartha\u2019s encounters with the Samanas, his life with Kamala, and his awakening by the river with Vasudeva reveals both adherence to and divergence from traditional Buddhist principles. This study further explores how the novel reflects the tensions of Western modernity, including alienation and individualism, and how these elements reshape the Four Noble Truths in Hesse\u2019s literary vision. Ultimately, the article argues that Siddhartha serves as a bridge between Eastern spirituality and Western existential thought, offering a universal meditation on suffering, desire, and liberation.",
+      "journal": "Journal of Research and Development",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "samadhi"
+        "nirodha"
       ]
     },
     {
-      "title": "Adaptation of the Mindful Eating Scale to Turkish for the adolescent population: A validity and reliability study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42302445/",
+      "title": "Yoga Philosophy And Mental Wellness In Post-Menopausal Women: A Theoretical Integration Based On The Yoga Sutras Of Patanjali",
+      "url": "https://www.semanticscholar.org/paper/bb609613638f5d5e3019037b442c427ced89ef84",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-08T15:35:29.437462",
-      "doi": "10.1016/j.pedn.2026.06.010",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-08-01T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181833",
+      "doi": "10.67440/ahj.v21i5s.1345",
       "authors": [
         {
-          "name": "Nurten Arslan",
-          "author_id": null,
+          "name": "Lincy George",
+          "author_id": "2455906804",
           "affiliation": null
         },
         {
-          "name": "Meltem K\u00fcrt\u00fcnc\u00fc",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Melike Yava\u015f \u00c7elik",
-          "author_id": null,
+          "name": "B. Shalini",
+          "author_id": "2429289597",
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: This study aimed to examine the psychometric properties of the Turkish version of the Mindful Eating Scale among adolescents. METHOD: The research was conducted methodologically with a sample of 800 adolescents. Data were collected using a Sociodemographic Information Form and the Mindful Eating Scale. Statistical analyses included language, content, and construct validity (Confirmatory Factor Analysis), as well as internal consistency and test-retest reliability. RESULTS: The mean age of the adolescents participating in the study was 15.72\u00a0\u00b1\u00a00.87. the final scale consisted of 24 item and six sub-dimensions. Of the adolescents, 94.3% did not have any nutrition-related diseases, 58.1% had knowledge about mindful eating, and 83.3% had not received nutrition education. Factor loadings of the scale were found to range between 0.317 and 0.846. All items significantly contributed to their respective factors. Fit indices were found to be \u03c72/df\u00a0=\u00a03.489, GFI\u00a0=\u00a00.91, IFI\u00a0=\u00a00.90, CFI\u00a0=\u00a00.90, RMSEA\u00a0=\u00a00.05, and SRMR\u00a0=\u00a00.06. These values indicate that the scale's fit is acceptable and at a good level. Cronbach's alpha coefficient of the scale was 0.78, indicating good internal consistency. CONCLUSION: The Mindful Eating Scale, presented in its Turkish version, is a valid and reliable tool. It can be effectively used by school counselors, dietitians, pediatric nurses and healthcare providers and researchers to assess nutritional behaviors in adolescent populations and develop mindful awareness-based interventions.",
-      "journal": "Journal of pediatric nursing",
+      "abstract": "Post-menopause is a complex transition of a biopsychosocial nature that has a marked effect on the psychological balance, subjective well-being and mental health in women. Although a large body of empirical evidence has emerged highlighting the therapeutic potential of yoga, there is little progress in the development of a compelling theory that would help establish the psychological effectiveness of the practice within the classical Indian philosophies as Yoga or Hinduism. This paper suggests a theoretical move to combine two of Patanjali's concepts, the cessation of chitta-vritti-nirodha (cessation of mind-wandering or fluctuation of mind) with the ashtanga path (the 8 path steps of yoga) and the concept of viveka-khyati (discriminative wisdom) with modern models of mental wellness such as the allostatic load framework, the cognitive regulatory theory, and positive psychology flourishing. The paper suggests that the post-menopausal psycho-neuroendocrine milieu is a \"chitta-vikara state\" (also called chitta-akulu state), which is characterised by an increased state of Mental perturbation; is directly addressed by Patanjali's sutras through a systematic psychophysical discipline. Based on the integrative theoretical analysis five areas of convergence have been recognized: One area of convergence is that of hormonal-emotional dysregulation and chitta vikara. The second area is that of attentional disruption and pratyahara, the third area is that of cognitive ageing and dharana, the fourth area is that of seeing sleep and mood dysphoria as connecting. The yoga nidra principles, the fifth is the area of existential re-calibration and ishvara pranidhana.",
+      "journal": "Adolesc\u00eancia e Sa\u00fade",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "nirodha"
+      ]
     },
     {
-      "title": "Maternal parasympathetic functioning during pregnancy and infant parasympathetic functioning at 7 months: Evidence for intergenerational continuity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42706995/",
+      "title": "Yoga Dar\u015bana in the Modern Perspective: A Philosophical Study",
+      "url": "https://www.semanticscholar.org/paper/90484a61cb4897a7eb23018e263449799f4c2f09",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-04-15T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181872",
+      "doi": "10.31305/rrijm.2026.v11.n04.005",
+      "authors": [
+        {
+          "name": "Soumen Saha",
+          "author_id": "2153552153",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Yoga Dar\u015bana is one of the most significant systems of Indian philosophy, which primarily aims at the cessation of the modifications of the mind (citta-v\u1e5btti-nirodha) and the realization of the true nature of the self. The term \u2018Yoga\u2019 is derived from the Sanskrit root yuj, meaning union, concentration, or discipline. However, in the philosophical sense, Yoga refers to the control and restraint of the mental modifications. Maharshi Pata\u00f1jali systematized the Yoga Dar\u015bana in his renowned text, the Yoga S\u016btra, which is divided into four chapters: Sam\u0101dhi P\u0101da, S\u0101dhana P\u0101da, Vibh\u016bti P\u0101da, and Kaivalya P\u0101da. These chapters respectively deal with the nature of Yoga, the methods of practice, the yogic powers (vibh\u016bti), and the final liberation known as Kaivalya. In Yoga Dar\u015bana, citta (mind) and its modifications play a central role. The modifications of the mind are five in number: Pram\u0101\u1e47a (valid knowledge), Viparyaya (misconception), Vikalpa (imagination), Nidr\u0101 (sleep), and Sm\u1e5bti (memory). The control of these mental modifications is the main objective of Yoga. This control can be achieved through practice (abhy\u0101sa) and detachment (vair\u0101gya). The disturbances of the mind are caused by five afflictions (kle\u015bas), namely Avidy\u0101, Asmit\u0101, R\u0101ga, Dve\u1e63a, and Abhinive\u015ba, which are responsible for human suffering. The attainment of Sam\u0101dhi is the ultimate goal of Yoga practice. For this purpose, Pata\u00f1jali prescribed the eightfold path of Yoga known as A\u1e63\u1e6d\u0101\u1e45ga Yoga, which includes Yama, Niyama, \u0100sana, Pr\u0101\u1e47\u0101y\u0101ma, Praty\u0101h\u0101ra, Dh\u0101ra\u1e47\u0101, Dhy\u0101na, and Sam\u0101dhi. Through the practice of these eight limbs, mental purification, concentration, and self-realization become possible. In the present age, Yoga Dar\u015bana is highly relevant as it helps in reducing mental stress, developing self-control, and attaining mental peace and spiritual upliftment. Therefore, Yoga Dar\u015bana is not only a philosophical system but also a practical path of life.",
+      "journal": "RESEARCH REVIEW International Journal of Multidisciplinary",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Buddhist Jurisprudence: A synthesis of religious morality and secular legal models",
+      "url": "https://www.semanticscholar.org/paper/d75f0bc7a668b952b7acba580367a6d7bc6b56de",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-20T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181886",
+      "doi": "10.36948/ijfmr.2025.v07i06.61155",
+      "authors": [
+        {
+          "name": "P. Pham",
+          "author_id": "2393681145",
+          "affiliation": null
+        },
+        {
+          "name": "Prof (Dr.) Vaibhav Goel Bharti",
+          "author_id": "2393683410",
+          "affiliation": null
+        },
+        {
+          "name": "Dr. Champalal Mandrele",
+          "author_id": "2393668432",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract\nModern legal systems worldwide are increasingly faced with a perceived crisis of legitimacy and effectiveness. Critics point to its all-encompassing punitiveness, procedural detachment, and lack of engagement with the causes of social and ecological misery. This study argues for a reconsideration of Buddhist philosophy, often neglected in the category of personal ethics, as a rich and, surprisingly, marketable theory of law. The analysis goes beyond a comparative study and establishes a coherent theory of Buddhist Jurisprudence by aligning core doctrinal propositions with the functional implications of modern secular law.\n Analysis begins to uncover the jurisprudential potential in Buddhist foundational teachings. It suggests the Four Noble Truths as a diagnostic and prescriptive model for a legal system, and it theorizes law as not an instrument of sovereign fiat, but as a force for the end of systemic suffering (dukkha-nirodha). The central teachings of interdependence (pa\u1e6dicca-samupp\u0101da) and non-self (anatt\u0101) are scrutinized solely to reframe ideas of legal responsibility, personhood, and rights. Moreover, the early monastic law of the Vinaya is investigated not simply as an interesting historical tidbit but as a subtle proto-legal system, critiquing its focus on intent, due process, and reparation.\n Based on this theoretical foundation, the study establishes a hybrid legal model. It examines in some depth how a Dhamma approach would transform core areas, such as penal theory, where physical rehabilitation and moral rehabilitation are more critical than punishment; the law of obligations, basing tort and contract in relation-based responsibility and right livelihood; and environmental law, basing a rigorous egocentric jurisprudence on the law of interdependence. The final part addresses the challenges of practical implementation, examining possibilities for incorporating these values through experiments in restorative justice, legislative \u201cDhamma impact assessments,\u201d and redesigned legal education, apparently adeptly balancing a transformative vision with political pragmatism. Finally, Buddhist Jurisprudence presents a critical and timely model, one that envisions a legal system capable of promoting collective flourishing through compassion, wisdom, and a steadfast commitment to repairing harm.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Memutus Lingkaran Penderitaan: Telaah Mendalam atas Empat Kebenaran Mulia dalam Buddhisme",
+      "url": "https://www.semanticscholar.org/paper/3f936608a449e5a542d361136dda2861398e16d5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-20T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181900",
+      "doi": "10.46799/syntaxidea.v7i9.13532",
+      "authors": [
+        {
+          "name": "Heru Syahputra",
+          "author_id": "97633088",
+          "affiliation": null
+        },
+        {
+          "name": "Nazwa Alfira Hsb",
+          "author_id": "2382243951",
+          "affiliation": null
+        },
+        {
+          "name": "Aziddin Muhammad",
+          "author_id": "2382347416",
+          "affiliation": null
+        },
+        {
+          "name": "Muh. Tamimi",
+          "author_id": "107904776",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Makalah ini membahas integrasi antara analisis transaksional sebuah pendekatan psikologi yang menelaah dinamika interaksi sosial dan kondisi batin manusia dengan ajaran Buddhisme sebagai tradisi spiritual kuno yang menawarkan pemahaman mendalam tentang eksistensi, penderitaan, dan pembebasan. Studi ini menguraikan sejarah perkembangan Buddhisme sejak kemunculannya pada abad ke-6 SM, transformasinya melalui berbagai aliran utama seperti Theravada, Mahayana,Vajrayana, serta adaptasinya dengan budaya lokal di berbagai wilayah. Pembahasan difokuskan pada inti ajaran Buddhisme, yaitu Empat Kebenaran Mulia Dukkha, Samudaya, Nirodha, Magga dan Jalan Mulia Berunsur Delapan sebagai pedoman moral, meditasi, kebijaksanaan yang bertujuan membebaskan manusia dari penderitaan siklus kelahiran kembali (samsara). Selain itu, makalah ini menyoroti pentingnya etika dalam Buddhisme yang bersumber dari kitab Tipitaka, serta peran praktik dan ritual dalam memperkaya pengalaman spiritual kepada umat Buddha.",
+      "journal": "Syntax Idea",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "The Cessation of Craving as the Path to Liberation: an Interdisciplinary Analysis of the Four Noble Truths and the Noble Eightfold Path",
+      "url": "https://www.semanticscholar.org/paper/4639344bad3758a06ef4271412b33ad305070a87",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-06T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181913",
+      "doi": "10.36948/ijfmr.2025.v07i06.62683",
+      "authors": [
+        {
+          "name": "Vo Quang Vinh",
+          "author_id": "2397268370",
+          "affiliation": null
+        },
+        {
+          "name": "Dr. Champalal Mandrele",
+          "author_id": "2393668432",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract \nIn the Buddhist conceptualization of tanh\u0101 (a form of craving), it is seen as the main reason for suffering, the undermining of morals, and instability in existence. The goal of tanh\u0101-nirodha (the cessation of craving) is Buddhist soteriology, but the goal is not limited to monastic practices and touches on many aspects of modern ethics, psychology, and social issues. In this paper, tanh\u0101 and the cessation of suffering will be examined jointly and inter-disciplined through the Buddhist philosophical tools of the Four Noble Truths and the Noble Eightfold Path, integrating moral psychology, contemplative science, and cognitive neuroscience. The paper examines deeply-rooted craving in the socio-cultural system through the unconditioned process of perception, appraisal, affective reactivity, and cognitive bias, and identity construction. The study aims to identify craving as not simply an individual issue, but as a deeply interlaced issue in both the social and cultural structures as well as the individual.\nThis article attempts to show how the Eightfold Path works systematically to deconstruct the dissatisfaction in life through ethical change, cognitive restructuring, and attention retraining, using P\u0101li canonical sources and contemporary empirical studies of attention. emotion regulation, reinforcement learning, and behavioral conditioning. The article further explores how Buddhist dissatisfaction relates to contemporary global concerns such as digital addiction, consumptive desire, environmental degradation and, polarized identity politics. The article seeks to enhance the field of Buddhist studies in the modern world by offering a detailed and complex system for the cessation of desire, to show the relevance of Buddhist wisdom in contemporary life.\nKeywords: craving; tanh\u0101; cessation; Four Noble Truths; Eightfold Path; Buddhist ethics; moral psychology; cognitive science; mindfulness.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Evaluation of biodiverse Sorghum bicolor and related genotypes for root exudation, sorgoleone production and potential carbon capture",
+      "url": "https://www.semanticscholar.org/paper/07694cecb339f158795edc1becec7cb916a82d41",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-01T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181941",
+      "doi": "10.1016/j.phytol.2025.103084",
+      "authors": [
+        {
+          "name": "Leslie A. Weston",
+          "author_id": "2238057616",
+          "affiliation": null
+        },
+        {
+          "name": "Paul A Weston",
+          "author_id": "2338372999",
+          "affiliation": null
+        },
+        {
+          "name": "J. Aktar",
+          "author_id": "90355410",
+          "affiliation": null
+        },
+        {
+          "name": "N. Weeraratne",
+          "author_id": "1447066946",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Phytochemistry Letters",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Proposal for a National Cryptocurrency Token in Sri Lanka: Framework for Inclusive Ownership and Government Reserve Management",
+      "url": "https://www.semanticscholar.org/paper/eafd5402648ba1a65c0ed79c92666c363e215404",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-05T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181956",
+      "doi": "10.38124/ijisrt/25oct1383",
+      "authors": [
+        {
+          "name": "Senarath Mudiyanselage Nirodha Rupasinghe",
+          "author_id": "2390981540",
+          "affiliation": null
+        },
+        {
+          "name": "J. Tissera",
+          "author_id": "2390981581",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper proposes the creation of a Sri Lankan national cryptocurrency (LKR Coin) as a state-backed digital\nasset designed to promote inclusive ownership, financial inclusion, and long-term economic stability. The framework\nemphasizes a balanced distribution model that allocates coins to citizens while simultaneously building a government\nreserve, enabling strategic monetary management and potential foreign currency generation. By linking coin ownership to\nnational identification, the model ensures transparency, equitable access, and controlled supply, supporting both individual\nwealth accumulation and national financial sovereignty. The study highlights the policy, regulatory, and technological\nconsiderations necessary for implementing a secure, phased rollout without delving into specific numerical issuance\ncalculations, thereby providing a conceptual blueprint for a sustainable national cryptocurrency.",
+      "journal": "International Journal of Innovative Science and Research Technology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Cemiplimab in advanced periocular conjunctival and cutaneous squamous cell carcinoma: a United Kingdom case series",
+      "url": "https://www.semanticscholar.org/paper/140b14a3cf46b86460d67d7e07670aecdb22419e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-03T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.181972",
+      "doi": "10.1080/01676830.2025.2551617",
+      "authors": [
+        {
+          "name": "Mumta Kanda",
+          "author_id": "1580550983",
+          "affiliation": null
+        },
+        {
+          "name": "Nirodha Jayawickrema",
+          "author_id": "2189897601",
+          "affiliation": null
+        },
+        {
+          "name": "I. Davagnanam",
+          "author_id": "4653263",
+          "affiliation": null
+        },
+        {
+          "name": "Emma Samia-Aly",
+          "author_id": "1398239063",
+          "affiliation": null
+        },
+        {
+          "name": "T. Gupta",
+          "author_id": "2061278160",
+          "affiliation": null
+        },
+        {
+          "name": "C. Daniel",
+          "author_id": "32465308",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Purpose To evaluate the real-world efficacy, safety, and outcomes of cemiplimab for advanced periocular conjunctival and cutaneous squamous cell carcinoma (SCC). Methods Retrospective case series of adults treated with cemiplimab for periocular conjunctival or cutaneous SCC at Moorfields Eye Hospital (2021\u20132025). Results We included 9 patients (mean age 66, range 43\u201379; 56% female; 78% Caucasian). Prior treatments included surgery (44%), radiotherapy (22%), and one exenteration. Tumour origin was conjunctival (56%), cutaneous (33%), or unknown (11%). 8 (89%) showed orbital invasion, including 2 with intracranial spread. Cemiplimab was indicated when surgery was refused or as palliative treatment in cases not amenable to localized treatment. Mean cemiplimab duration was 12.3\u2009months (range 2.1\u201336.4). Immune-related adverse events included grade 2 hypothyroidism (n\u2009=\u20092, continued therapy) and grade 2 hepatitis (n\u2009=\u20091, discontinued). Complete and partial responses were seen in 22% and 33%, respectively; 44% progressed. No significant difference in response was observed between conjunctival and cutaneous SCC (p\u2009=\u20091.00). 2 patients (22%) underwent exenteration after starting treatment. Average total follow-up was 50.8\u2009months (range 17.4\u2013130.6). One recurrence occurred 12\u2009months after treatment cessation; no new metastases were reported during follow-up. Two patients died from unrelated causes. Conclusion To our knowledge, this is the largest single case series of cemiplimab used in conjunctival SCC. Our results underscore the potential of cemiplimab as globe-sparing and vision-preserving treatment in advanced periocular conjunctival and cutaneous SCC, including more aggressive and complex cases with intracranial involvement or perineural spread, both as primary treatment and after previous surgery in recurrent cases.",
+      "journal": "Orbit",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "The Full-Stack Software Developer as a System Cohesion Architect: A Definitive Competency-Based Redefinition based on the K72T004 National Standard (Sri Lanka)",
+      "url": "https://www.semanticscholar.org/paper/94c5a5420bea8e23312acc3337de349c94e95215",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-24T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.182002",
+      "doi": "10.38124/ijisrt/25nov808",
+      "authors": [
+        {
+          "name": "W. A. L. P. Weerasuriya",
+          "author_id": "2394813259",
+          "affiliation": null
+        },
+        {
+          "name": "Senarath Mudiyanselage Nirodha Rupasinghe",
+          "author_id": "2390981540",
+          "affiliation": null
+        },
+        {
+          "name": "J. Tissera",
+          "author_id": "2390981581",
+          "affiliation": null
+        },
+        {
+          "name": "K. Lakshan",
+          "author_id": "2394808352",
+          "affiliation": null
+        },
+        {
+          "name": "M. A. T. P. Sankalpa",
+          "author_id": "2394819200",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The role of the Full-Stack Software Developer (FSD) is often ambiguously defined, primarily focusing on broad\nimplementation skills across front-end and back-end development. This report addresses this definitional crisis by rigorously\nanalyzing the Sri Lankan National Competency Standard for Full Stack Software Development (K72T004). The K72T004\nstandard mandates a two-tiered progression: NVQ Level 5 (Implementation Baseline) and NVQ Level 6 (Governance). Our\nanalysis reveals that Level 6 competencies, encompassing comprehensive system integration management, holistic security\nownership, and robust process governance, elevate the FSD beyond a mere generalist coder. We assert that the FSD, as\ndefined by K72T004, functions as a System Cohesion Architect, responsible for designing and governing the integrity of data\nflow, security models, and quality pipelines across the entire application stack. This redefinition, grounded in a nationally recognized vocational standard, provides a clear framework for professionalization, mitigating architectural friction and\naligning global industry expectations with the strategic value of an FSD possessing both deep implementation empathy and\ncrucial architectural oversight.",
+      "journal": "International Journal of Innovative Science and Research Technology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Satvavajaya - An Emerging Boon to Combat Stress",
+      "url": "https://www.semanticscholar.org/paper/301bc57da70aad4890316bdf71f155ef7dabd8fc",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-06T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.182032",
+      "doi": "10.21760/jaims.9.10.16",
+      "authors": [
+        {
+          "name": "Anjnee Bijlwan",
+          "author_id": "2339785876",
+          "affiliation": null
+        },
+        {
+          "name": "Sharad Karande",
+          "author_id": "2339785566",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The unforgiving pace and complexity in today\u2019s life is greatly challenging our ability to live healthier and fully in the present era. Today the world we live is full of competition and frustration to achieve the desired, leading to emotional stress and strain which adversely affects our physical, mental, social and spiritual health too. As per Acharya Charaka, Chinta (stress) and Ati-Chintanam (overthinking) are the causes of Rasovaha Srotodushti which ultimately become the aetiological factor for many of the diseases. Prolonged or inadequate response to stressors can impair the growth and development of the human body resulting in endocrine, metabolic, autoimmune, and psychological disorders. Number of research shows that untreated chronic stress results in serious health conditions, while finding positive and healthy means to manage it, may reduce the risks. In Ayurveda along with Panchakarma techniques like Shirodhara, Abhyanga etc., Medhya Rasayanas like Shankhpushpi, Brahmi etc., Satvavjaya Chikitsa plays an important role in the management of many mental ailments including stress. The word Satvavjaya constitutes of two words Satva meaning consciousness or mind and Avjaya meaning to conquer or win over. It aims to control mind (Manonigraha) and to restrain it from unwholesome thoughts or perceptions (Ahita Arthas). It is a unique non pharmacological treatment modality which adopts a comprehensive psychosomatic-spiritual approach to maintain the normalcy of mental health. Among all available techniques prevailing for control over mind, yoga offers one of the best methods as it stresses over Chittavritti Nirodha (control of mind from stressful thoughts).",
+      "journal": "Journal of Ayurveda and Integrated Medical Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Yoga and Music - The Synergy",
+      "url": "https://www.semanticscholar.org/paper/52e83b22e8c70c241cf921d6d7bfecce8f151f52",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-07-07T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.182044",
+      "doi": "10.48165/irjay.2026.9.04.03",
+      "authors": [
+        {
+          "name": "Yogesh Sadashiv Prabhudesai",
+          "author_id": "2458884228",
+          "affiliation": null
+        },
+        {
+          "name": "S. Kale",
+          "author_id": "2442423478",
+          "affiliation": null
+        }
+      ],
+      "abstract": "In the modern quest for holistic well-being, there remains a significant gap in the comprehensive understanding of the synergistic relationship between Yoga and Music. Most existing literature and contemporary practices treat these disciplines in strict isolation, overlooking their philosophical underpinnings and shared methodologies as interconnected paths to mental tranquility and spiritual realization. This white paper seeks to bridge that gap by utilizing a comparative qualitative methodology to systematically explore the profound intersections between Yogic science and ancient Indian musicology. Historically, Yoga and music were completely integrated during the Vaidika period, viewed collectively as a holistic art of living designed to elevate social, artistic, and spiritual life simultaneously. However, a historical divergence over centuries fractured this union, rendering Yoga an ascetic spiritual pursuit and relegating music primarily to public entertainment. This paper argues that despite this historical separation, the two disciplines are fundamentally unified. They share a divine origin rooted in the mythology of Lord \u015aiva, who serves as both the first Yog\u012b (\u0100diyog\u012b) and the Lord of Dance and Music (Na\u1e6dar\u0101ja). They also share core operational concepts, relying entirely on Pr\u0101\u1e47a (vital life energy) and N\u0101da (vibrations). Ultimately, both Yoga and Music converge on the exact same end goal: Sam\u0101dhi, achieved through the cessation of mental modifications (Citta V\u1e5btti Nirodha). By illustrating how the eight limbs of A\u1e63\u1e6d\u0101\u1e45ga Yoga are actively utilized by music practitioners, and how music acts as an active instrument for entering and sustaining meditative states, this paper demonstrates that music is not an accessory to meditation, but a Ha\u1e6dha Yoga S\u0101dhana in its own right.\u00a0\n\u00a0",
+      "journal": "International Research Journal of Ayurveda & Yoga",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "A Study of Awareness of Patanjali Yoga Sutra Among Certified Yoga Teachers of Iran",
+      "url": "https://www.semanticscholar.org/paper/2f59fc1c554f190be7a9d714080d9fab516e53e3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-31T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.182083",
+      "doi": "10.36018/dsiij.25.352",
+      "authors": [
+        {
+          "name": "Ghazale Adampour",
+          "author_id": "2343433431",
+          "affiliation": null
+        },
+        {
+          "name": "Chinmay Pandya",
+          "author_id": "2343433896",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Yoga, with its roots in ancient Indian philosophy, has become a widely practiced discipline around the world. One of the most significant texts in the yoga tradition is the Patanjali Yoga Sutra, which outlines the philosophy, ethics, and techniques of yoga. Despite its historical and philosophical importance, the awareness and understanding of the Yoga Sutra among contemporary yoga instructors remain underexplored, particularly in regions like Iran, where yoga is a relatively new phenomenon. This study aims to investigate the level of awareness, understanding, and application of the Patanjali Yoga Sutra among certified yoga instructors in Iran. A quantitative research design was employed, utilizing a structured survey (16 questions) to assess the knowledge of key principles, philosophical teachings, and practices from the Yoga Sutra. The sample included 115 yoga practitioners who were certified by recognized institutions and had at least one year of teaching experience. A structured survey of 115 certified yoga instructors in Iran revealed a surprising familiarity with core concepts such as \u201cChitta Vritti Nirodha,\u201d understood by 73% of participants, and \u201cAhimsa,\u201d correctly identified by 92%. However, broader knowledge of the Yoga Sutras was notably lacking. For instance, 67.8% of participants were unable to distinguish the Sutras from other classical yoga texts, and 61.7% were unaware of the number of chapters in the text. These findings highlight that while certain foundational concepts have been well integrated into practice, a deeper understanding of the Sutras\u2019 structure, broader topics, and historical context remains limited. The study underscores the importance of enhanced educational initiatives to equip yoga instructors with a more comprehensive grasp of Patanjali\u2019s philosophy, enriching their teaching and practice.",
+      "journal": "Dev Sanskriti Interdisciplinary International Journal",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "Concept of Nirvana in Hinayana and Mahayana Sects in Buddhism: A Comparative Study",
+      "url": "https://www.semanticscholar.org/paper/a147c9fad5ea1b7954d3446f37cb182056b3b26c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-17T00:00:00",
+      "date_fetched": "2026-09-09T15:29:35.182095",
+      "doi": "10.36948/ijfmr.2025.v07i06.60871",
+      "authors": [
+        {
+          "name": "Pabitra Sabar",
+          "author_id": "2393690231",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The Indian philosophy is separated into two types Orthodox and Heterodox. The orthodox schools are the Nyaya, the Vaisheshika, the Mimamsa and the Vedanta, the Samkya, the yoga. The Heterodox schools are the Carvak, the Buddhism and the Jainism. Orthodox schools are accepted the existence of God and Vedas but Heterodox schools are not accepted the existence of God and Vedas. The Asia is enlightenment by the legend of the Gautam Buddha, and He is founder of the school of Buddhism. Buddhism school has been divided into two categories schools as named Hinayana and Mahayana. According to Buddhism fourth Nobel truth talk about Liberation. \n Noble Truths (Arya Satya):\nThere is suffering\nThere is cause of suffering\nThere is cessation of suffering\nThere is a way of leading to this cessation of suffering\n1. There is Suffering (duhkha):\nHuman life is full of Misery and pain. Even the so-called pleasures are really present with pain. Enjoyment also results in pain. That there is suffering in this universe is a fact of common experience. Poverty, dwsesa, meanness, old age, hatred, greed, conflicts are fraught in this world. Human Life is full of suffering no one can deny to it.\n2. There is a Cause of Suffering (duhkha samudaya):\nEverything is a cause and Nothing comes out of nothing ex nihilo nihil fit. The existence of whole event depends on its condition and causes. According to Buddhism, in this world everything is relative, limited and conditional. Every suffering is a fact; it must have a cause and it arises from some conditions. 'This being, that arise', 'the cause being present, the effect arises', is causal law of dependent origination.\n3. There is a Cessation of Suffering (duhkha nirodha) \n Everything originates from some causes and conditions, hence if we are these conditions and causes are removed the effect must also cease. The cause being is removed, the effect causes is to be exist. We are known everything being is conditional and relative is necessarily momentary and what momentary must be decay. If I am born then I am must be die. Every production implies destruction.\n4. There is a Way of Leading to this Cessation of Suffering (duhka nirodha gamini pratipat)\n This is an ethical and spiritual pathway by following which suffering may be removed and liberation attained. It is the Noble Eight-fold Path: The Noble Eight-Fold Pathway consists of eight steps which are: Right faith (samyag drsti), Right resolve (sankalpa), 3 Right speech (vak), Right Action (karmanta), Right living (ajiva), Right effort (vyayama), Right thought (smrti), Right concentration (samadhi). In the old books we also perceive the mention of a three-pathway consisting of Shila or Right conduct, Samadhi or right concentration and Prajna or right knowledge. They also called to Darshana, Jnana and Charitra of Jainism. This triple pathway is lead to direct cause of liberation.\n The fourth noble Truth established down that there is a pathway (marga) which is Buddha obey and others can alike follow to obtain a state liberate from suffering. Clues considering this pathway are acquired from the knowledge important conditions that cause suffering. The pathway illustrates by Buddha's conduct of eight steps and accordingly called the eightfold noble pathway (astangika marag). Hinayana alike Jainism, is a belief God, Karma introduction the assign of God. Believe on the opinion of Buddha: 'be a Light unto thyself (atmadipo bhava), and Buddha's last opinion: 'and now brethren I catch my decline of you: whole the Constituents of being are momentary; Solve your salvation with Diligence'. Hinayana's seriousness liberation for and by, the personal himself. It is the illiberal path of self-help. Its aim is Arhathod or the expressed of the spiritual believer who acquired personal salvation, Nibbana, which is view as the annihilation of suffering. Mahayana school is also known for his great vehicle and Hinayana is known for his small vehicle. The purpose of liberation in Hinayana is said to be unreal and egoist. Mahayana trusts that Nirvana is not a negative in action of suffering but a unconditional state of bliss. Its moral believer is Bodhisattva who put off his own salvation in order to appearance for the salvation of others. Buddhism is here change into Divinity and an adore such. Buddhism is identified with superior reality and is said to occupy the ability of reincarnation. The Buddha is the certain self prevalent through whole the so-called personal selves. Buddha is the nominal following all phenomena. \n The Buddisattva is he who reaches absolute wisdom, always stay in it, and inspired by the love of all beings everlasting works for their salvation which is to be acquire here in this universe. The Mahayana is willing to permit reality so that eager Buddha is may liberate others. The word is 'Liberated' is moderate from term 'Liberates' means 'to release or to set free' someone from the sensation or state that create his vitality sorrowful or hard. Conditions of liberation is that create one's life painful, hence the case of Independence or free from servitude, bondage, serfdom, need, and separately other makes suffering, whereas the feelings of the liberation are that create one's life sorrowful is the state of liberation is from inner fight or difficulty one's own mind or thinking. A religion of misery necessarily known by Buddhism. Buddha did not assert to be an adept metaphysics and he did not claim to device substantial solutions of the most terrible metaphysical problems. Buddha had to philosophies in so distant as he was concerned with finding of the ways of destruction of suffering and sorrow in human life. Buddha did not seek knowledge and truth for their own sake but knowledge was a means of obtaining complete freedom from suffering and misery according to the Buddha. The most important thing that occupied his mind forever was the existence of evil and sorrow in life and he most seriously used himself to discover the ways leading to the final cessation of sorrow. The ultimate end that he always views, was Nirvana which means the total abolition of sorrow and destruction of all consciousness. All the epistemological, ontologically, and metaphysical seeks of Buddhism were conducive to the primary end of them, which enjoyment of perfection of life in the form of Nirvana. Buddha's goal of life was not to manifest truth but to aid men to free themselves from the all-diffuse sorrow and pain of life. It is essential to deeply understand the nature of sorrow. Buddhism believes in the universal transient of things. It is possible to infer the evanescence of things as the cause of sorrow. Thus, Misery is another term for transiency of life. Every human experience is only a passing view of human life and possesses only a limited period. The duration of the lives of things may vary but nothing stays forever. As every experience complete after a very short period, one loses the happiness with the resultant result of despair, which fills the mind with misery. Thus, Life becomes a continuous sequence of moments of despair and sorrow. The Buddhist concept of Nirvana (Nibbana) is equal to that of moksa in the other systems. The necessary nature of Nibbana consists in one's becoming perfectly from every kind of desire. Nibbana or Nirvana is a state of entire desire lessness.\n Nirvana thus means eternal freedom from all kinds of devotion which are generated by desires. All sorrows are root cause from Desires. According to the sorrow is caused by ignorance. Ignorance is the cause of all desire, madness and all the sorrow of the universe. It is said in the Buddhist Mahayana texts-- \"The idea of ignorance is what gives root to the huge poison tree of mundana existence with its trunk of pain.\" He accepted at fact that nearly in all Indian philosophical opinion knowledge has been viewed as the ultimate means of the obtaining of salvation. He writes--\" The center point of Indian salvation theories was \"knowledge\", by which man acquires the power to cessation misery and to lead empiric reality back to its origin.\" True knowledge of the causes of sorrow leads to the cessation of sorrows. As man's bondage is a creation of his mind and is based on knowledge, the Buddhist importantly argument that liberation can be obtained by power knowledge which brings to an end ignorance and illusion.\n According to Buddhism most importantly maintains that to obtain the joy of Nirvana we must radically separate this illusion, this ignorance, this origin of all evil and suffering in this life. Ignorance of Avidya according to Buddhism is a positive entity. It is the innate tendency of the mind, the subconscious influences and drives (vasanas) which make the mind hold to false ideas and notions. Thus, ignorance acts as the primary cause of all Klesas and their resultant sorrow. The Buddhists give a long causal series of misery. Commonly called the twelve Nidanas or Pratyasamutpada, that is to say chain of Dependence. (1) There is Ignorance (Avidya) in the beginning (2) after ignorance comes Action (3) after action comes consciousness (4) after consciousness comes Name and form (5) after name and form comes six organs (6) after six organs comes touch (7) after touch comes sensation vedana (8) after Sensation comes desire (9) after desire comes clinging (10) after clinging comes being (11) after being comes birth (12) after birth comes pain dukkha which causes grief and sorrow. It is a psychological cause chain in which the preceding experience causes the succeeding one.\n\nArhat and Bodhisattva:\nThe word of Arhat is called in Sanskrit language or Arahat is called in Pali language and Bodhisattva is called in Sanskrit language or Bodhisatta is called in Pali language are well recognized by in Budha teaching and this ideals to which the Buddhist should follow it. Budhha talks about attains to liberation either by Arhat or Bodhisatta pathway. The Arhat idea and Bodhisattva Idea are frequently ",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "nirodha"
+      ]
+    },
+    {
+      "title": "The relationship between trait mindfulness and problematic smartphone use: the serial mediation role of difficulties with emotion regulation and fear of missing out.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710007/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-08T00:00:00",
-      "date_fetched": "2026-09-08T15:35:40.023006",
-      "doi": "10.1093/chidev/aacag170",
+      "date_fetched": "2026-09-09T15:30:03.334565",
+      "doi": "10.1080/13548506.2026.2731629",
       "authors": [
         {
-          "name": "Miranda Mengyu Gao",
+          "name": "Sergio Hidalgo-Fuentes",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anna M Zhou",
+          "name": "Isabel Mart\u00ednez-\u00c1lvarez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yijia Li",
+          "name": "Elisa Gonz\u00e1lez-P\u00e9rez",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Dylan Neff",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "K Lee Raby",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elisabeth Conradt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sheila E Crowell",
+          "name": "F\u00e1tima Llamas-Salguero",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "This Registered Report tested perinatal predictors of infant resting respiratory sinus arrhythmia (RSA), an index of parasympathetic functioning. Maternal RSA was collected at a resting state during the third trimester of pregnancy (N = 385, 56.9% of the pregnant mothers were White, non-Hispanic/Latina). Newborn attention and arousal were assessed shortly after birth. When infants (48% are male, and 50.7% are White, non-Hispanic/Latino) were 7 months old, their resting RSA was measured, and maternal sensitivity during a free-play interaction was coded. Greater maternal prenatal RSA was found to be associated with greater infant resting RSA. This longitudinal and intergenerational association was not significantly moderated or mediated by newborn neurobehavior or maternal sensitivity. Findings suggest that infant RSA may have roots in mothers' parasympathetic functioning during pregnancy.",
-      "journal": "Child development",
+      "abstract": "Problematic smartphone use (PSU) has emerged as a widespread behavioural concern, particularly among university students. The present study employed a preregistered design to ensure analytic transparency and confirmatory hypothesis testing, examining a serial mediation model under which difficulties with emotion regulation and fear of missing out (FOMO) explain the association between trait mindfulness and PSU in a sample of 406 Spanish university students. Participants completed validated self-report measures of trait mindfulness, emotion-regulation difficulties, FOMO and PSU. Data were analysed using correlation analyses and serial mediation modelling with bootstrapping procedures. The results reveal a negative association between trait mindfulness and PSU, supporting its role as a protective factor. FOMO emerged as a significant mediator in this relationship, whereas difficulties with emotion regulation did not have a significant direct mediating effect. However, a significant serial mediation pathway was identified: Higher levels of trait mindfulness were associated with fewer emotion-regulation difficulties, which, in turn, predicted lower FOMO, ultimately giving way to reduced PSU. This study contributes to a more integrative understanding of PSU by identifying key mediating mechanisms and supporting the development of interventions targeting mindfulness, emotion regulation, and FOMO in university populations.",
+      "journal": "Psychology, health & medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -403,72 +600,168 @@
       "matched_keywords": []
     },
     {
-      "title": "[The new S3 guideline on schizophrenia (living) 2025].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41627392/",
+      "title": "The interplay between interoceptive sensibility and mindfulness in eating behaviors and psychological distress: A person-centered study in a French community sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710441/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-01T00:00:00",
-      "date_fetched": "2026-09-08T15:35:40.024646",
-      "doi": "10.1007/s00115-026-01946-7",
+      "date_published": "2026-09-03T00:00:00",
+      "date_fetched": "2026-09-09T15:30:03.334618",
+      "doi": "10.1016/j.jpsychires.2026.09.001",
       "authors": [
         {
-          "name": "Theresa Halms",
+          "name": "L Marinelli",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Wolfgang Gaebel",
+          "name": "S Berthoz",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Stefan Leucht",
+          "name": "G D\u00e9camps",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Peter Falkai",
+          "name": "L Bourdier",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tania Lincoln",
+          "name": "M Fatseas",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Andreas Bechdolf",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christoph U Correll",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stefanie J Schmidt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Martin Lambert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Thomas Wobrock",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alkomiet Hasan",
+          "name": "C Dantzer",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: On 15 October 2025, the revised S3 guideline on schizophrenia (living) was published and transferred to the MAGICapp evidence ecosystem and will be updated annually in the future. OBJECTIVE: This narrative review summarizes essential innovations and explains their development. MATERIAL AND METHODS: New and revised recommendations and MAGICapp background information were extracted and summarized. RESULTS AND CONCLUSION: The guideline is now fully integrated into MAGICapp and annually updated. Key changes include a\u00a0downgrading of the recommendation for antipsychotic monotherapy, a\u00a0substantial expansion of guidance on adverse effect monitoring and management and a\u00a0strengthened emphasis on evidence-based psychotherapeutic interventions, such as metacognitive training and systemic therapy. Additionally, 4 new recommendations (digital/technology-assisted interventions, mindfulness-based procedures, acceptance and commitment therapy [ACT], trauma-focussed therapy for post-traumatic stress disorder [PTSD]) were implemented and 12 were removed. All chapters were comprehensively revised.",
-      "journal": "Der Nervenarzt",
+      "abstract": "This study examined interoception and mindfulness as related processes in eating behaviors in a non-clinical population. The aim was to identify interoceptive sensibility and mindfulness clusters using a person-centered approach and to examine their associations with eating behaviors, eating disorder risk, body mass index, and psychological distress. An online survey was conducted in a French community sample of 381 adults. Participants completed validated self-report measures assessing interoceptive sensibility, mindfulness, eating behaviors, and psychological distress. Cluster analysis identified four distinct groups reflecting different combinations of interoceptive sensibility and mindfulness. Profiles characterized by higher mindfulness consistently showed more adaptive eating patterns, including lower emotional and external eating and greater reliance on internal cues, regardless of interoceptive levels. In contrast, clusters with lower mindfulness showed higher levels of emotional eating and psychological distress. Within these low mindfulness profiles, high interoception was associated with lower depressive symptoms, lower eating disorder risk, and normal-weight status. These findings suggest that mindfulness was consistently associated with adaptive eating and psychological outcomes across profiles, whereas interoceptive sensibility further differentiated outcomes among profiles characterized by lower mindfulness. Overall, the results highlight the importance of considering both interoceptive sensibility and mindfulness jointly to better understand variability in eating behaviors and psychological distress.",
+      "journal": "Journal of psychiatric research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A Smartphone-Based Ecological Momentary Intervention for Workplace Mental Health: Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710031/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-08T00:00:00",
+      "date_fetched": "2026-09-09T15:30:03.334664",
+      "doi": "10.2196/72435",
+      "authors": [
+        {
+          "name": "Sisi Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lik Hang Lincoln Lo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Chiu Yi Charlie Lau",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Megan Lam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meanne Chan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Work-related stress has been widely associated with an increased risk of various mental disorders and poor mental well-being. The fast-growing mobile health services industry has provided new opportunities for workplace mental health. OBJECTIVE: This randomized controlled trial examined the effectiveness of  METHODS: A total of 201 working adults were recruited for a 4-week smartphone-based intervention that incorporated cognitive behavioral therapy, mindfulness exercises, and self-regulation exercises delivered on  RESULTS: The intervention group consisted of 102 participants, while the control group consisted of 99 participants. More participants dropped out from the intervention group (n=21) than from the control group (n=2;  CONCLUSIONS: This study primarily established the effectiveness of ",
+      "journal": "JMIR mHealth and uHealth",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Stress, coping profiles and anxiety among French final-year medical students in a high-stakes national ranking examination: a cross-sectional study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711088/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-08T00:00:00",
+      "date_fetched": "2026-09-09T15:30:03.334986",
+      "doi": "10.1136/bmjopen-2026-125171",
+      "authors": [
+        {
+          "name": "Amandine Math\u00e9",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fran\u00e7ois Tison",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fran\u00e7ois Sztark",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Emmanuel Mellet",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alexandre Ouattara",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Didier Gruson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claire Roubaud-Baudron",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Igor Sibon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Damien Roux",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Patrick Dehail",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pierre Merville",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Etienne Riviere",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: To describe stress, coping behaviours, anxiety, psychological support and benzodiazepine use among French final-year medical students sitting a high-stakes national ranking examination and to explore how these patterns relate to exam ranking when interpreted through transactional stress and coping and 'coping reservoir' models. DESIGN: Cross-sectional questionnaire survey. SETTING: Single university medical faculty in France; final-year students sitting the national  PARTICIPANTS: All 387 sixth-year students present for the 2025 nOSCE were invited; 192 (50%) completed the questionnaire (69%\u2009women; median age 25 years). INCLUSION: registered for the national exam and attending nOSCE; exclusion: non-attendance or incomplete questionnaire. INTERVENTIONS: None. PRIMARY AND SECONDARY OUTCOME MEASURES: Primary outcomes were self-rated stress for EDN and nOSCE and  RESULTS: 92% of respondents reported that stress impacted their daily life, particularly attention (83%), sleep (79%) and learning capacity (64%). Overall, 32% had consulted a psychologist/psychiatrist and 15% used benzodiazepines. Most reported regular sport (86%; \u22652 sports 69%) and breathing exercises (61%). Median nOSCE stress was 8/10; median STAI-Y state and trait scores were 45 and 46. Comparing very low versus high/very high trait-anxiety subgroups, ranking did not differ significantly, but low-anxiety students reported more sport (p=0.04), less benzodiazepine use (1/24 vs 10/37; p=0.003) and far less psychological follow-up (1/24 vs 19/46; p<0.0001). Self-reported coping strategies were not associated with better ranking. CONCLUSIONS: Final-year medical students preparing for a high-stakes national ranking examination report pervasive stress, substantial functional impairment and frequent professional and pharmacological coping, with only limited linkage between anxiety and performance. Within transactional and coping reservoir frameworks, these results highlight the need for reflection on structural assessment practices and for longitudinal institutional strategies to protect learner well-being.",
+      "journal": "BMJ open",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
