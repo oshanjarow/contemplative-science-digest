@@ -1,376 +1,613 @@
 {
-  "generated_at": "2026-09-13T15:14:55.275387",
+  "generated_at": "2026-09-14T17:11:59.384963",
   "papers": [
     {
-      "title": "Spiritual competency training in mental health and multicultural orientation and contemplative awareness: An evaluation of two training approaches with psychotherapists.",
-      "url": "https://www.semanticscholar.org/paper/974ba828cc041dd04afa0256578ed932054e548c",
+      "title": "Monitoring Slope Stability: A Comprehensive Review of UAV Applications in Open-Pit Mining",
+      "url": "https://www.semanticscholar.org/paper/97e9298c9a9f82a627e98f2f846671c2a1e7752f",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-17T00:00:00",
-      "date_fetched": "2026-09-13T15:14:06.922634",
-      "doi": "10.1037/pst0000578",
+      "date_published": "2025-06-03T00:00:00",
+      "date_fetched": "2026-09-14T17:11:23.667447",
+      "doi": "10.3390/land14061193",
       "authors": [
         {
-          "name": "Daniel Gutierrez",
-          "author_id": "2178475600",
+          "name": "Stephanos Tsachouridis",
+          "author_id": "2365239206",
           "affiliation": null
         },
         {
-          "name": "S. Dorais",
-          "author_id": "1580414881",
+          "name": "Francis Pavloudakis",
+          "author_id": "2273441981",
           "affiliation": null
         },
         {
-          "name": "Jennifer K. Niles",
-          "author_id": "2084619688",
+          "name": "Constantinos C. Sachpazis",
+          "author_id": "2365236441",
+          "affiliation": null
+        },
+        {
+          "name": "V. Tsioukas",
+          "author_id": "5209084",
           "affiliation": null
         }
       ],
-      "abstract": "The current literature for the various mental health professions is replete with studies demonstrating the critical importance of addressing spiritual and religious concerns in mental health treatment, yet many clinicians remain untrained in spiritual and religious competence. In recent years, researchers have developed training programs to support clinicians' understanding of how spirituality influences mental health and provided resources for how clinicians can address it with clients. The present study investigates the effectiveness of two online training programs, Spiritual Competency Training in Mental Health (SCT-MH) and a contemplative pedagogy-based program called Multicultural Orientation and Contemplative Awareness (MOCA), in enhancing spiritual and religious competence among counselors. We conducted a three-parallel-arm randomized controlled trial with a sample of practicing counselors to compare the SCT-MH (n = 10), MOCA (n = 15), and a wait-list control group (n = 29). We recruited our sample from state licensure boards for mental health practitioners, alumni listservs for counseling programs, and social media marketing. Additionally, the study examined the explanatory role of cultural humility on spiritual competence over time. Linear mixed modeling revealed a significant interaction between group and time, demonstrating that the SCT-MH group had a large effect and MOCA had a moderate effect in improving clinicians' total spiritual competence score compared with the control group. The findings suggest that both SCT-MH and MOCA can effectively enhance spiritual competence in counselors and cultural humility plays a significant role in this development. Implications and recommendations for implementation are discussed. (PsycInfo Database Record (c) 2025 APA, all rights reserved).",
-      "journal": "Psychotherapy",
+      "abstract": "Unmanned aerial vehicles (UAVs) have increasingly proven to be flexible tools for mapping mine terrain, offering expedient and precise data compared to alternatives. Photogrammetric outputs are particularly beneficial in open pit operations and waste dump areas, since they enable cost-effective and reproducible digital terrain models. Meanwhile, UAV-based LiDAR has proven invaluable in situations where uniform ground surfaces, dense vegetation, or steep slopes challenge purely photogrammetric solutions. Recent advances in machine learning and deep learning have further enhanced the capacity to distinguish critical features, such as vegetation and fractured rock surfaces, thereby reducing the likelihood of accidents and ecological damage. Nevertheless, scientific gaps remain to be researched. Standardization around flight practices, sensor selection, and data verification persists as elusive, and most mining sites still rely on limited, multi-temporal surveys that may not capture sudden changes in slope conditions. Complexity lies in devising strategies for rehabilitated dumps, where post-mining restoration efforts involve vegetation regrowth, erosion mitigation, and altered land use. Through expanded sensor integration and refined automated analysis, approaches could shift from information gathering to ongoing hazard assessment and environmental surveillance. This evolution would improve both safety and environmental stewardship, reflecting the emerging role of UAVs in advancing a more sustainable future for mining.",
+      "journal": "Land",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "contemplative"
+        "open monitoring"
       ]
     },
     {
-      "title": "Dwelling With: Centering Care and Contemplative Practice in Museum Education",
-      "url": "https://www.semanticscholar.org/paper/64bcc24ec82966884e03afd83887ec7c190f4ede",
+      "title": "A generalizable and open-source algorithm for real-life monitoring of tremor in Parkinson\u2019s disease",
+      "url": "https://www.semanticscholar.org/paper/1355d7d5226b591565b4e9d2d9839f280173098a",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-02T00:00:00",
-      "date_fetched": "2026-09-13T15:14:06.922673",
-      "doi": "10.1080/10598650.2025.2604337",
+      "date_published": "2025-07-10T00:00:00",
+      "date_fetched": "2026-09-14T17:11:23.667555",
+      "doi": "10.1038/s41531-025-01056-2",
       "authors": [
         {
-          "name": "B. Galuban",
-          "author_id": "2123290277",
+          "name": "N. A. Timmermans",
+          "author_id": "2370904531",
           "affiliation": null
         },
         {
-          "name": "Jenna S. Green",
-          "author_id": "2346481132",
+          "name": "Roberta Terranova",
+          "author_id": "101273815",
+          "affiliation": null
+        },
+        {
+          "name": "D. C. Soriano",
+          "author_id": "2266759320",
+          "affiliation": null
+        },
+        {
+          "name": "H. Cagnan",
+          "author_id": "2893181",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Raykov",
+          "author_id": "3455218",
+          "affiliation": null
+        },
+        {
+          "name": "I. G. Bucur",
+          "author_id": "10728610",
+          "affiliation": null
+        },
+        {
+          "name": "B. Bloem",
+          "author_id": "1819487",
+          "affiliation": null
+        },
+        {
+          "name": "R. Helmich",
+          "author_id": "2402763679",
+          "affiliation": null
+        },
+        {
+          "name": "L. Evers",
+          "author_id": "16631943",
           "affiliation": null
         }
       ],
-      "abstract": "ABSTRACT What can an experience of joy look like for museum educators? This question propelled an inquiry into contemplative practice and care in museum education. An exploratory pilot project \u2013 a personal postcard exchange \u2013 between two educators in North America took place throughout 2022 and 2023. This exchange became the model for creating a one-time workshop program for museum educators at the Nasher Sculpture Center in Dallas, Texas. In this workshop, we invited fellow museum educators to consider how contemplative writing, and reflection could help us to slow down and find joy. In this article, we unpack, analyze and explore findings from this contemplative writing workshop and adjoining research study. We explore whether mindfulness programs can allow people in a museum to experience empathy and to contemplate in meaningful ways. We also discuss how such a program is significant for museum educators as we deal with burnout and isolation in the field.",
-      "journal": "Journal of Museum Education",
+      "abstract": "Wearable sensors can objectively and continuously monitor daily-life tremor in Parkinson\u2019s Disease (PD). We developed an open-source algorithm for real-life monitoring of PD tremor which achieves generalizable performance across different wrist-worn devices. We achieved this using a unique combination of two independent, complementary datasets. The first was a small, but extensively video-labeled gyroscope dataset collected during unscripted activities at home (n\u2009=\u200924 PD; n\u2009=\u200924 controls). We used this to train and validate a logistic regression tremor detector based on cepstral coefficients. The second was a large, unsupervised dataset (n\u2009=\u2009517 PD; n\u2009=\u200950 controls, data collected for 2 weeks with a different device), used to externally validate the algorithm. Results show that our algorithm can reliably quantify real-life PD tremor (sensitivity of 0.61 (0.20) and specificity of 0.97 (0.05)). Weekly aggregated tremor time and power showed excellent test-retest reliability and moderate correlation to MDS-UPDRS rest tremor scores. This opens possibilities to support clinical trials and individual tremor management with wearable technology.",
+      "journal": "npj Parkinson's Disease",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "contemplative"
+        "open monitoring"
       ]
     },
     {
-      "title": "Using contemplative nature engagement practices to address ecological distress",
-      "url": "https://www.semanticscholar.org/paper/f319dab5efdd46c32a1f55132cee32a1f2cd93be",
+      "title": "Real-Time Paddle Stroke Classification and Wireless Monitoring in Open Water Using Wearable Inertial Nodes",
+      "url": "https://www.semanticscholar.org/paper/5839da0c8f40c2c9b40b569a4940a13e4c40bf23",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-10-07T00:00:00",
-      "date_fetched": "2026-09-13T15:14:06.922699",
-      "doi": "10.1002/pan3.70172",
+      "date_published": "2025-08-26T00:00:00",
+      "date_fetched": "2026-09-14T17:11:23.667564",
+      "doi": "10.3390/s25175307",
       "authors": [
         {
-          "name": "R. Macaulay",
-          "author_id": "2283867187",
+          "name": "V. Dobra",
+          "author_id": "1790000557",
           "affiliation": null
         },
         {
-          "name": "Cullan Joyce",
-          "author_id": "2282571213",
+          "name": "I. Dobra",
+          "author_id": "1789958592",
           "affiliation": null
         },
         {
-          "name": "Katherine A. Johnson",
-          "author_id": "38194579",
-          "affiliation": null
-        },
-        {
-          "name": "D. Vella\u2010Brodrick",
-          "author_id": "1401767589",
-          "affiliation": null
-        },
-        {
-          "name": "Iain Walker",
-          "author_id": "2384533397",
-          "affiliation": null
-        },
-        {
-          "name": "Kathryn Williams",
-          "author_id": "2265486679",
+          "name": "S. Folea",
+          "author_id": "1709915",
           "affiliation": null
         }
       ],
-      "abstract": "Worsening impacts of climate and ecological change have led to a rise in eco\u2010distress and related psychological impacts of these crises. Interventions, including both nature\u2010based activities and contemplative practices, have been developed to help individuals experiencing eco\u2010distress. However, the integration of contemplation and nature engagement remains unexplored. In this study we explore how these two practices support adaptive outcomes concerning eco\u2010distress. We conducted 11 semi\u2010structured interviews and two workshops with teachers and leaders of contemplative nature engagement practices, to understand the practices and pathways linking practices to outcomes related to eco\u2010distress. Thematic analysis of interview data identified four key pathways to adaptive change: (1) restoration and reduced stress through presence; (2) facing and working with difficult emotions; (3) shifting and expanding self\u2010boundaries; and (4) strengthening values and commitments to action. These insights build on theoretical work in both contemplative studies and environmental psychology literature by proposing a layered and reciprocal set of mechanisms that build on and reinforce each other over time. Analysis of workshop data identified intervention design recommendations to inform the practical design and implementation of contemplative nature engagement practices for individuals experiencing eco\u2010distress.",
-      "journal": "People and Nature",
+      "abstract": "This study presents a low-cost wearable system for monitoring and classifying paddle strokes in open-water environments. Building upon our previous work in controlled aquatic and dryland settings, the proposed system consists of ESP32-based embedded nodes equipped with MPU6050 accelerometer\u2013gyroscope sensors. These nodes communicate via the ESP-NOW protocol in a master\u2013slave architecture. With minimal hardware modifications, the system implements gesture classification using Dynamic Time Warping (DTW) to distinguish between left and right paddle strokes. The collected data, including stroke type, count, and motion similarity, are transmitted in real time to a local interface for visualization. Field experiments were conducted on a calm lake using a paddleboard, where users performed a series of alternating strokes. In addition to gesture recognition, the study includes empirical testing of ESP-NOW communication range in the open lake environment. The results demonstrate reliable wireless communication over distances exceeding 100 m with minimal packet loss, confirming the suitability of ESP-NOW for low-latency data transfer in open-water conditions. The system achieved over 80% accuracy in stroke classification and sustained more than 3 h of operational battery life. This approach demonstrates the feasibility of real-time, wearable-based motion tracking for water sports in natural environments, with potential applications in kayaking, rowing, and aquatic training systems.",
+      "journal": "Italian National Conference on Sensors",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "contemplative"
+        "open monitoring"
       ]
     },
     {
-      "title": "Contemplative Superalignment",
-      "url": "https://www.semanticscholar.org/paper/4131671c5beb0c531bf8cf4a89c11e5595dd918f",
+      "title": "Ultra-broadband coherent open-path spectroscopy for multi-gas monitoring in wastewater treatment",
+      "url": "https://www.semanticscholar.org/paper/12b2eccd32b240dd5558c831b9d187bb39b60ea0",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-09-13T15:14:06.922762",
-      "doi": "10.1007/978-3-032-00686-8_31",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-09-14T17:11:23.667575",
+      "doi": "10.1016/j.ese.2025.100554",
       "authors": [
         {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
+          "name": "R. Krebbers",
+          "author_id": "49576765",
           "affiliation": null
         },
         {
-          "name": "Fionn Inglis",
-          "author_id": "2356551998",
-          "affiliation": null
-        },
-        {
-          "name": "S. Chandaria",
-          "author_id": "118775812",
-          "affiliation": null
-        },
-        {
-          "name": "L. Sandved-Smith",
-          "author_id": "2122078176",
-          "affiliation": null
-        },
-        {
-          "name": "Edmundo Lopez-Sola",
-          "author_id": "2047957413",
-          "affiliation": null
-        },
-        {
-          "name": "Jakob Hohwy",
-          "author_id": "2356551701",
-          "affiliation": null
-        },
-        {
-          "name": "Jonathan Gold",
-          "author_id": "2356552612",
-          "affiliation": null
-        },
-        {
-          "name": "Adam Elwood",
-          "author_id": "2170301220",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Artificial General Intelligence",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "contemplative"
-      ]
-    },
-    {
-      "title": "The Qur\u2019anic Reflection on Hedonism: Contemplative Study of the Stories of Saba\u2019 and Qarun in the Qur\u2019an",
-      "url": "https://www.semanticscholar.org/paper/d059bc6e431a1dea6e08b3e3c51cbba72e55962e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-12-01T00:00:00",
-      "date_fetched": "2026-09-13T15:14:06.922781",
-      "doi": "10.28918/aqwal.v6i2.12436",
-      "authors": [
-        {
-          "name": "Fikri Alfani Hakim",
-          "author_id": "2483739074",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Background and Objectives: The phenomenon of modern hedonism is increasingly widespread, characterized by consumerist culture, displays of wealth, and the pursuit of material possessions as the ultimate source of happiness. The Qur\u2019an firmly criticizes such a lifestyle through the stories of past nations that faced destruction due to their neglect of spiritual values. Therefore, this study aims to reflect on hedonistic behavior through the stories of Qarun and the people of Saba\u2019, as presented in Q.S. al-Qasas: 76\u201381 and Q.S. Saba\u2019: 15\u201316. Method: This research employs a qualitative method based on library research with a tafsir tahlili approach, analyzing the verses systematically and in depth by referring to contemporary tafsir works.\nMain Results: The study reveals that the story of Qarun illustrates arrogance and denial of God\u2019s blessings, accompanied by a low level of spiritual awareness. The people of Saba\u2019 represent a prosperous society that failed to show gratitude, ultimately leading to their downfall. Contributions: This research contributes by linking the two Qur\u2019anic stories with modern social realities concerning human psychological conditions and offers Qur\u2019anic solutions to confront consumerist and materialistic lifestyles. Conclusions: The stories of Qarun and the people of Saba\u2019 in the Qur\u2019an serve as moral lessons that remain highly relevant to today\u2019s realities, such as the hedonistic phenomena of \"flexing\" on social media and excessive consumption. Islam does not prohibit the use of wealth but emphasizes the importance of wisdom and moderation in its use.",
-      "journal": "Aqwal: Journal of Qur'an and Hadis Studies",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "contemplative"
-      ]
-    },
-    {
-      "title": "Compassionatomy: Can Compassion Contemplative Practices Foster Student Connection with Body Donors and Enhance Empathy in Anatomy Labs?",
-      "url": "https://www.semanticscholar.org/paper/1e45f4f4cf2b2aedb846d5b39deca0a2a0e02af3",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-25T00:00:00",
-      "date_fetched": "2026-09-13T15:14:06.922804",
-      "doi": "10.1007/s40670-025-02522-5",
-      "authors": [
-        {
-          "name": "Geoffroy Noel",
-          "author_id": "2164489027",
-          "affiliation": null
-        },
-        {
-          "name": "F. Klaus",
-          "author_id": "1601453792",
-          "affiliation": null
-        },
-        {
-          "name": "Jenna Tutjer",
-          "author_id": "2164552559",
-          "affiliation": null
-        },
-        {
-          "name": "Jane M. Chun",
-          "author_id": "2164553179",
-          "affiliation": null
-        },
-        {
-          "name": "Thupten Jinpa",
-          "author_id": "114057674",
-          "affiliation": null
-        },
-        {
-          "name": "Madison A. Chakoumakos",
-          "author_id": "2382670844",
-          "affiliation": null
-        },
-        {
-          "name": "Lisa T. Eyler",
-          "author_id": "2237255193",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "The journal of the International Association of Medical Science Educators : JIAMSE",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "contemplative"
-      ]
-    },
-    {
-      "title": "Contemplating Justice: Proposing a Role for Contemplative Prayer in Justice Education",
-      "url": "https://www.semanticscholar.org/paper/8a328857251ace7283f544f0ab356e2000606783",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-15T00:00:00",
-      "date_fetched": "2026-09-13T15:14:06.922814",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Lincoln Rice",
-          "author_id": "2289524583",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "contemplative"
-      ]
-    },
-    {
-      "title": "Development of a brief mindfulness-based intervention to improve well-being: A theory-, evidence- and person-based approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730614/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-11T00:00:00",
-      "date_fetched": "2026-09-13T15:14:54.151425",
-      "doi": "10.1111/papt.70110",
-      "authors": [
-        {
-          "name": "Kelly Birtwell",
+          "name": "Kees van Kempen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tim Duerden",
-          "author_id": null,
+          "name": "Yue-Yu Lin",
+          "author_id": "2350761164",
           "affiliation": null
         },
         {
-          "name": "Rebecca Morris",
-          "author_id": null,
+          "name": "J. Meurs",
+          "author_id": "48101683",
           "affiliation": null
         },
         {
-          "name": "Christopher J Armitage",
-          "author_id": null,
+          "name": "Lisanne Hendriks",
+          "author_id": "2221996167",
+          "affiliation": null
+        },
+        {
+          "name": "R. Aben",
+          "author_id": "46711207",
+          "affiliation": null
+        },
+        {
+          "name": "J. Parana\u00edba",
+          "author_id": "31499772",
+          "affiliation": null
+        },
+        {
+          "name": "C. Fritz",
+          "author_id": "2266986836",
+          "affiliation": null
+        },
+        {
+          "name": "A. Veraart",
+          "author_id": "5099437",
+          "affiliation": null
+        },
+        {
+          "name": "A. Khodabakhsh",
+          "author_id": "2283414325",
+          "affiliation": null
+        },
+        {
+          "name": "S. M. Cristescu",
+          "author_id": "2345842996",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Brief mindfulness-based interventions (MBIs) are shorter and less intensive than standard 8-week courses and could provide health and well-being benefits to participants while requiring fewer resources to implement at scale. However, brief MBIs are typically developed ad hoc and lack a clear rationale for the components they include. Our aim was to develop a brief person-centred MBI to improve well-being using a theory-, evidence- and person-based approach. METHODS: Mindfulness teachers and mindfulness course attendees were recruited to a mixed-methods online survey (N\u2009=\u200942) and an 'INDIGO' study (N\u2009=\u200921). INDIGO (INtervention DesIGn with stakehOlders) is a novel mixed method that combines timelining and storyboarding. Data were collected regarding attitudes to brief MBIs and MBI components. Data were analysed using qualitative and quantitative methods and combined with the Mindfulness-to-Meaning Theory to create a prototype intervention plan. This plan was displayed using INDIGO and presented to focus group participants (N\u2009=\u200912) for discussion and feedback. The intervention was then refined. RESULTS: The resulting brief MBI comprises five 90-min sessions and includes focused attention practice, informal mindfulness, the three-step breathing space, group discussion and psychoeducation. The intervention is person-centred as it promotes flexibility and participant choice, including different options for mindfulness practice. CONCLUSIONS: The present study describes the systematic development of a brief MBI to improve well-being that could be deployed in diverse settings including primary care, public health and higher education. Further work is required to test the feasibility of delivering this novel brief MBI in these settings.",
-      "journal": "Psychology and psychotherapy",
+      "abstract": "Wastewater treatment plants significantly contribute to greenhouse gas emissions, including nitrous oxide (N2O), carbon dioxide (CO2), and methane (CH4). Current methods to measure these emissions typically target specific molecular compounds, providing limited scope and potentially incomplete emissions profiles. Here, we show an innovative ultra-broadband coherent open-path spectroscopy (COPS) system capable of simultaneously monitoring multiple greenhouse gases. This novel approach combines Fourier transform spectroscopy with a coherent, ultra-broadband mid-infrared light source spanning 2\u201311.5 \u03bcm at approximately 3 W power. Positioned above an aeration tank, the COPS system selectively detected absorption signatures for CH4, CO2, N2O, ammonia (NH3), carbon monoxide (CO), and water vapor (H2O), enabling real-time, path-integrated concentration measurements with a temporal resolution of 40 s. Elevated concentrations of CH4 and CO2 were clearly identified within emission plumes traversing the beam path above the aeration tank. Additionally, CH4 emission patterns closely tracked variations in ammonium loading from incoming wastewater, whereas CO2 emissions correlated strongly with oxygen concentrations introduced during aeration. Measurements of N2O, NH3, and CO were stable and aligned closely with traditional point-based measurements from commercial gas analyzers. Our findings demonstrate that COPS offers a robust, comprehensive solution for the simultaneous real-time monitoring of multiple gases in complex and heterogeneous emission environments. This capability significantly enhances atmospheric and industrial emission assessments, potentially transforming the approach to emissions quantification and environmental management.",
+      "journal": "Environmental Science and Ecotechnology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "SINERGI BODY SCAN MEDITATION DAN TERAPI SINGING BOWL UNTUK MENINGKATKAN REGULASI EMOSI DAN FLOURISHING DEWASA AWAL",
+      "url": "https://www.semanticscholar.org/paper/5e87c3b08cf56d5f646b7180447ac6b71ad2f41b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-09-07T00:00:00",
+      "date_fetched": "2026-09-14T17:11:24.653533",
+      "doi": "10.51878/academia.v6i4.15289",
+      "authors": [
+        {
+          "name": "Ferihana Ferihana",
+          "author_id": "2189289630",
+          "affiliation": null
+        },
+        {
+          "name": "F. Widiantoro",
+          "author_id": "2083941569",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Latar belakang: Fase dewasa awal ditandai oleh transisi kritis yang rentan memicu mental fatigue dan penurunan kapasitas regulasi emosi, sehingga menghambat pencapaian kesehatan mental positif (flourishing). Tujuan: Penelitian ini bertujuan untuk menguji efektivitas intervensi terintegrasi melalui sinergi body scan meditation dan terapi singing bowl dalam meningkatkan regulasi emosi adaptif pada dewasa awal. Metode: Penelitian kuasi-eksperimen ini menggunakan rancangan Non-equivalent Pretest-Posttest Control Group Design. Partisipan berjumlah 60 individu dewasa awal (usia 18\u201325 tahun) yang dipilih melalui teknik purposive sampling dan dibagi ke dalam kelompok eksperimen (n = 30) dan kelompok kontrol wait-list (n = 30). Data dikumpulkan menggunakan skala Emotion Regulation Questionnaire (ERQ) adaptasi bahasa Indonesia dan dianalisis menggunakan Analysis of Covariance (ANCOVA) dengan mengontrol skor pretest sebagai kovariat. Hasil: Uji ANCOVA menunjukkan adanya perbedaan skor posttest regulasi emosi yang sangat signifikan antara kelompok eksperimen dan kelompok kontrol (F(1,57) = 153,63; p < 0,001). Kelompok eksperimen menunjukkan lonjakan rata-rata skor regulasi emosi yang tajam (dari M = 28,40 menjadi M = 42,15). Nilai Partial Eta Squared (\u03b7p2= 0,729) mengindikasikan bahwa intervensi hibrida ini memberikan kontribusi sebesar 72,9% terhadap peningkatan regulasi emosi. Implikasi: Sinergi antara stimulasi auditori-somatik ganda terbukti efektif menjembatani hambatan kognitif individu yang mengalami distres, sekaligus bertindak sebagai motor penggerak utama menuju fungsi psikologis yang optimal (flourishing). Model integratif non-farmakologis ini dapat diadopsi sebagai program kesehatan mental preventif dan kuratif yang inovatif.",
+      "journal": "ACADEMIA Jurnal Inovasi Riset Akademik",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "body scan meditation"
+      ]
     },
     {
-      "title": "A scoping review of nonpharmacologic strategies for use with Mediterranean youth with mixed chronic pain conditions: a culturally adapted approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731818/",
+      "title": "Learning to attenuate myself: a predictive processing account of body-scan meditation and the dissolution of bodily boundaries",
+      "url": "https://www.semanticscholar.org/paper/5750e03daa2932823ea13cc77d9d0c1d48d14464",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-12T00:00:00",
-      "date_fetched": "2026-09-13T15:14:54.151938",
-      "doi": "10.1093/jpepsy/jsag064",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-19T00:00:00",
+      "date_fetched": "2026-09-14T17:11:24.653542",
+      "doi": "10.1093/nc/niag001",
       "authors": [
         {
-          "name": "Natoshia R Cunningham",
+          "name": "V. Becattini",
+          "author_id": "2388289859",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Lifshitz",
+          "author_id": "2334546490",
+          "affiliation": null
+        },
+        {
+          "name": "Mark Miller",
+          "author_id": "2270963774",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract Meditation practices often involve sustaining attention on the body. Typically, attention is understood to enhance both neural resource allocation and the subjective salience of the attended target. However, in deep meditative states, practitioners sometimes report a dissolution of bodily boundaries, a phenomenon known in Pali as bha\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{upgreek} \\usepackage{mathrsfs} \\setlength{\\oddsidemargin}{-69pt} \\begin{document} ${\\dot{\\textrm{n}}}$\\end{document}ga. This presents a paradox: why does focused attention, which typically heightens sensory perception, instead lead to its dissolution? This article addresses this apparent contradiction by integrating computational, phenomenological, and empirical perspectives on attention, interoception, and meditation. We focus on the body-scan technique, as practiced in Theravada Buddhist traditions, and its powerful capacity to produce experiences of the dissolution of bodily boundaries. Working within the predictive processing framework, we propose that this \u201cdissolution\u201d of bodily boundaries results from the body-scan\u2019s impact on attentional processes. We argue that by optimizing low-level predictions over somatosensory signals, the body-scan effectively attenuates these signals, thereby diminishing perception of the body\u2019s boundaries. In support of this claim, we first describe the body-scan technique and its phenomenological outcomes. We then introduce key concepts from the predictive processing framework and provide a detailed analysis of attentional processes during the body-scan. We conclude that the attenuation of somatosensory signals during the body-scan not only contributes to the experience of bha\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{upgreek} \\usepackage{mathrsfs} \\setlength{\\oddsidemargin}{-69pt} \\begin{document} ${\\dot{\\textrm{n}}}$\\end{document}ga but also suggests a broader potential of this practice for enhancing well-being. With appropriate therapeutic integration, this attentional modulation offers promising applications in addressing conditions characterized by disrupted self-regulation, such as addiction and emotional dysregulation.",
+      "journal": "Neuroscience of Consciousness",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Neural Mechanisms of a Brief, Short Body Scan Meditation and the Influence on Cognitive Performance & Perceived Stress",
+      "url": "https://www.semanticscholar.org/paper/754e9152782d9c819c469d6b0e0e024f9733cfd1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-27T00:00:00",
+      "date_fetched": "2026-09-14T17:11:24.653549",
+      "doi": "10.21428/8e6ba8ef.300d4afc",
+      "authors": [
+        {
+          "name": "Elizabeth M. Key",
+          "author_id": "2427257149",
+          "affiliation": null
+        },
+        {
+          "name": "James Houston",
+          "author_id": "2402685932",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "JoCN Forum",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Comparing the effects of sitting meditation and body scan on working memory in undergraduate healthcare students: a single-blind randomised trial",
+      "url": "https://www.semanticscholar.org/paper/95ac336751813d6b871b91391539d88b0c30395d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-04T00:00:00",
+      "date_fetched": "2026-09-14T17:11:24.653579",
+      "doi": "10.1186/s40359-026-04923-6",
+      "authors": [
+        {
+          "name": "W. Yaemrattanakul",
+          "author_id": "84621578",
+          "affiliation": null
+        },
+        {
+          "name": "Kanokwan Manachamni",
+          "author_id": "2441070516",
+          "affiliation": null
+        },
+        {
+          "name": "Jutharat Ruangrattanapong",
+          "author_id": "2441076963",
+          "affiliation": null
+        },
+        {
+          "name": "Worawadee Supajumroon",
+          "author_id": "2441072725",
+          "affiliation": null
+        },
+        {
+          "name": "Worravat Intarapakdee",
+          "author_id": "2441076978",
+          "affiliation": null
+        },
+        {
+          "name": "Kanokwalin Klangkhong",
+          "author_id": "2441070730",
+          "affiliation": null
+        },
+        {
+          "name": "Kanjanaporn Wannasangthong",
+          "author_id": "2441072065",
+          "affiliation": null
+        },
+        {
+          "name": "Nureeda Madhay",
+          "author_id": "2441073300",
+          "affiliation": null
+        },
+        {
+          "name": "Patchanee Kaewkeaw",
+          "author_id": "2441073550",
+          "affiliation": null
+        },
+        {
+          "name": "Korawat Paphatarinan",
+          "author_id": "2441070704",
+          "affiliation": null
+        },
+        {
+          "name": "Lalita Khuna",
+          "author_id": "16209829",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Healthcare undergraduate students often face high cognitive and emotional stress, negatively affecting their working memory and well-being. Mindfulness-based practices, such as sitting meditation and body scan, are proposed to enhance cognitive function and reduce stress in this population. This study compared the effects of brief sitting meditation and body scan on working memory, mindfulness, and stress among undergraduate healthcare students. In this assessor-blind randomised trial conducted at a tertiary university in southern Thailand, 56 healthcare undergraduates (aged 18\u201325) were randomised to either a sitting meditation group (n\u2009=\u200928) or a body scan group (n\u2009=\u200928). Fifty-four participants completed the study and were included in the final analysis (n\u2009=\u200927 per group). Participants practised their assigned mindfulness exercise via audio recordings for 10 min daily, five days a week, for four weeks. Outcomes were measured pre- and post-intervention using the Automated Operation Span Task for working memory, Mindful Attention Awareness Scale for mindfulness, and Thai Perceived Stress Scale-10 for stress. Both groups showed significant changes in working memory and mindfulness over time. No statistically significant differences were observed between the two interventions. Stress scores changed slightly over time; however, no significant difference was observed between the sitting meditation and body scan groups. Overall, no significant between-group differences were found in any outcome. Both sitting meditation and body scan were associated with changes in working memory and mindfulness over time among undergraduate healthcare students. However, no statistically significant differences were observed between the groups.",
+      "journal": "BMC Psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Mindful Chair Yoga in Parkinson's Disease: A Pilot Study Exploring Motor, Cognitive, and Affective Outcomes",
+      "url": "https://www.semanticscholar.org/paper/d0ef75e3548262308d36c5dba0c0f49b42c5cdea",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-01T00:00:00",
+      "date_fetched": "2026-09-14T17:11:24.653671",
+      "doi": "10.1002/mdc3.70378",
+      "authors": [
+        {
+          "name": "H. Onder",
+          "author_id": "5091956",
+          "affiliation": null
+        },
+        {
+          "name": "Ahmet Ozsimsek",
+          "author_id": "66226544",
+          "affiliation": null
+        },
+        {
+          "name": "Aycan Cemil Ulker",
+          "author_id": "2307595296",
+          "affiliation": null
+        },
+        {
+          "name": "Merve Yurekli",
+          "author_id": "2383133408",
+          "affiliation": null
+        },
+        {
+          "name": "Ceyda Bildik",
+          "author_id": "2383136615",
+          "affiliation": null
+        },
+        {
+          "name": "Helin Tunc",
+          "author_id": "2383136599",
+          "affiliation": null
+        },
+        {
+          "name": "Zehra Yavuz",
+          "author_id": "2377072569",
+          "affiliation": null
+        },
+        {
+          "name": "S. Comoglu",
+          "author_id": "34726298",
+          "affiliation": null
+        },
+        {
+          "name": "Ismet Melek",
+          "author_id": "5227100",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindful Chair Yoga (MCY) is a mind \u2013 body intervention designed for individuals with Parkinson \u2019 s disease (PD). 1 This pilot study evaluated an 8-week, telehealth-delivered MCY program \u2014 consisting of twice-weekly online sessions (60 min each) integrating seated joint-release exercises, breathing techniques, and body-scan meditation \u2014 on motor, cognitive, and affective outcomes in patients with mild-to-moderate PD. Sixteen patients completed the program. Outcomes were assessed pre-and post-intervention by a movement disorders neurologist blinded to the intervention status, using validated clinical scales (Supplement 1). Improvements were observed across multiple domains.",
+      "journal": "Movement Disorders Clinical Practice",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "The effect of an adjunct psychosomatic intervention on perceived pain in patients with musculoskeletal disorders: protocol for a randomized controlled trial",
+      "url": "https://www.semanticscholar.org/paper/db8c3935a284cb0358633628958c50ad03604ff0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-03-05T00:00:00",
+      "date_fetched": "2026-09-14T17:11:24.653714",
+      "doi": "10.1186/s13063-026-09593-8",
+      "authors": [
+        {
+          "name": "N. Walter",
+          "author_id": "31935457",
+          "affiliation": null
+        },
+        {
+          "name": "Melvin Mohokum",
+          "author_id": "2276044489",
+          "affiliation": null
+        },
+        {
+          "name": "Thomas Loew",
+          "author_id": "2357545669",
+          "affiliation": null
+        },
+        {
+          "name": "Christian Heiss",
+          "author_id": "2364145711",
+          "affiliation": null
+        },
+        {
+          "name": "Markus Rupp",
+          "author_id": "2374230757",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background Musculoskeletal disorders, including chronic back pain, osteoarthritis, rheumatoid arthritis, and fibromyalgia, are leading causes of chronic pain and reduced quality of life. Standard treatment approaches often focus on physical symptoms, while psychosomatic factors are sometimes overlooked. This study aims to evaluate the effectiveness of adjunct psychosomatic interventions\u2014guided meditation and aromatherapy\u2014on pain perception, stress levels, and quality of life in patients with musculoskeletal disorders. Methods This is a three-arm, prospective, randomized controlled trial conducted in Germany. A total of 90 participants aged 18 to 90 with chronic musculoskeletal disorders will be randomized into one of three groups: (1) guided meditation, (2) aromatherapy, or (3) control receiving standard care. The intervention groups will receive either body-scan meditation (23 min, twice weekly) or aromatherapy (5\u201310 min daily) for one week. The primary outcomes include pain intensity (measured using the Numerical Rating Scale), perceived stress (measured using the Perceived Stress Questionnaire), and quality of life (measured using the EQ-5D). Secondary outcomes will include pain medication consumption. Follow-up assessments will be conducted at 3-, 6-, and 12-month post-intervention. Data will be analyzed using an intention-to-treat approach with ANCOVA for primary endpoints. Discussion This trial will provide valuable insights into the effectiveness of psychosomatic interventions as adjunct therapies for managing chronic pain and stress in musculoskeletal disorders. If successful, these interventions could be implemented as cost-effective and non-invasive strategies to improve quality of life and pain management for patients with musculoskeletal conditions. The findings may also inform future studies on integrative treatment approaches for chronic pain conditions. Trial registration The trial is registered at the German Clinical Trials Register (https://www.drks.de), registration number DRKS00034506.",
+      "journal": "Trials",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "body scan meditation"
+      ]
+    },
+    {
+      "title": "Evidence for Limited Metacognition in LLMs",
+      "url": "https://www.semanticscholar.org/paper/7499a02069ced46ed3bf35549c8df056ef1ea7ab",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-25T00:00:00",
+      "date_fetched": "2026-09-14T17:11:36.516225",
+      "doi": "10.48550/arXiv.2509.21545",
+      "authors": [
+        {
+          "name": "Christopher M. Ackerman",
+          "author_id": "2324060760",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The possibility of LLM self-awareness and even sentience is gaining increasing public attention and has major safety and policy implications, but the science of measuring them is still in a nascent state. Here we introduce a novel methodology for quantitatively evaluating metacognitive abilities in LLMs. Taking inspiration from research on metacognition in nonhuman animals, our approach eschews model self-reports and instead tests to what degree models can strategically deploy knowledge of internal states. Using two experimental paradigms, we demonstrate that frontier LLMs introduced since early 2024 show increasingly strong evidence of certain metacognitive abilities, specifically the ability to assess and utilize their own confidence in their ability to answer factual and reasoning questions correctly and the ability to anticipate what answers they would give and utilize that information appropriately. We buttress these behavioral findings with an analysis of the token probabilities returned by the models, which suggests the presence of an upstream internal signal that could provide the basis for metacognition. We further find that these abilities 1) are limited in resolution, 2) emerge in context-dependent manners, and 3) seem to be qualitatively different from those of humans. We also report intriguing differences across models of similar capabilities, suggesting that LLM post-training may have a role in developing metacognitive abilities.",
+      "journal": "arXiv.org",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Harnessing Metacognition for Safe and Responsible AI",
+      "url": "https://www.semanticscholar.org/paper/aacdf3f94bfb3aace878c75deb1a33759d3b8a22",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-06T00:00:00",
+      "date_fetched": "2026-09-14T17:11:36.516240",
+      "doi": "10.3390/technologies13030107",
+      "authors": [
+        {
+          "name": "P. Walker",
+          "author_id": "2068733521",
+          "affiliation": null
+        },
+        {
+          "name": "Jonathan J. Haase",
+          "author_id": "2267649709",
+          "affiliation": null
+        },
+        {
+          "name": "Melissa L. Mehalick",
+          "author_id": "5163978",
+          "affiliation": null
+        },
+        {
+          "name": "Christopher T. Steele",
+          "author_id": "2348968075",
+          "affiliation": null
+        },
+        {
+          "name": "Dale W. Russell",
+          "author_id": "2167367781",
+          "affiliation": null
+        },
+        {
+          "name": "Ian N. Davidson",
+          "author_id": "2253689211",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The rapid advancement of artificial intelligence (AI) technologies has transformed various sectors, significantly enhancing processes and augmenting human capabilities. However, these advancements have also introduced critical concerns related to the safety, ethics, and responsibility of AI systems. To address these challenges, the principles of the robustness, interpretability, controllability, and ethical alignment framework are essential. This paper explores the integration of metacognition\u2014defined as \u201cthinking about thinking\u201d\u2014into AI systems as a promising approach to meeting these requirements. Metacognition enables AI systems to monitor, control, and regulate the system\u2019s cognitive processes, thereby enhancing their ability to self-assess, correct errors, and adapt to changing environments. By embedding metacognitive processes within AI, this paper proposes a framework that enhances the transparency, accountability, and adaptability of AI systems, fostering trust and mitigating risks associated with autonomous decision-making. Additionally, the paper examines the current state of AI safety and responsibility, discusses the applicability of metacognition to AI, and outlines a mathematical framework for incorporating metacognitive strategies into active learning processes. The findings aim to contribute to the development of safe, responsible, and ethically aligned AI systems.",
+      "journal": "Technologies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "metacognition meditation"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence at the Boundary of Spiritual Experience and Psychopathology: A Scoping Review of Evidence from T\u00fcrkiye, the USA, the UK, Poland, South Korea, and Israel.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732530/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-13T00:00:00",
+      "date_fetched": "2026-09-14T17:11:58.503647",
+      "doi": "10.1007/s10943-026-02777-1",
+      "authors": [
+        {
+          "name": "Rohman Hikmat",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jocelyn S Zuckerman",
+          "name": "Muntazhar Nur Syabana",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Manasi Kulkarni",
+          "name": "Ade Kosasih",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Audrey Searles",
+          "name": "Eka Kurnia Firmansyah",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Adri\u00e1n Fern\u00e1ndez-Gonz\u00e1lez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elena R Serrano-Ib\u00e1\u00f1ez",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Iris Kovar-Gough",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Roc\u00edo de la Vega",
+          "name": "Roxsana Devi Tumanggor",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Chronic pain in youth is common, affecting over 20% worldwide. While effective nonpharmacologic interventions are available, including psychological therapies and physical interventions, it is critical to ensure available interventions are culturally relevant. The objective of this scoping review is to understand nonpharmacologic interventional strategies used for youth with chronic pain conditions in Mediterranean countries and rate the quality of the evidence. METHODS: Search terms to identify nonpharmacologic treatments for youth with chronic pain in Mediterranean countries (e.g., Spain, Portugal, France, and Italy) were run in six databases on March 11, 2025, including Medline (PubMed), Embase (Elsevier), SciELO (Web of Science), and PsycInfo (ProQuest). Covidence software was used to screen abstracts and then full texts by two independent reviewers. RESULTS: Of the 6,158 abstracts screened, 35 articles were identified for inclusion in the review. They included (1) psychological/educational interventions (n\u2009=\u200918), (2) physical interventions (n\u2009=\u20099), including pain neuroscience with targeted muscular exercises, (3) dietary interventions (n\u2009=\u20097), including a low FODMAP diet and dietary supplements, and 4) a mixed (cognitive behavioral therapy, diet, and exercise) intervention. CONCLUSIONS: A comprehensive skill-based approach, including psychological strategies (e.g., cognitive behavioral and mindfulness meditation) and healthy lifestyle recommendations (e.g., dietary modification and sleep hygiene), may be a culturally relevant approach to care of Mediterranean youth with chronic pain.",
-      "journal": "Journal of pediatric psychology",
+      "abstract": "The rapid integration of artificial intelligence (AI) into everyday life has created new intersections among digital technology, spirituality, mystical experience, and psychopathology. This scoping review aimed to map evidence on how AI mediates, reinforces, detects, predicts, or interprets religious and spiritual experiences at the boundary with psychosis and dissociation. PubMed, Web of Science, Embase, the Cochrane Library, and Scopus were searched through June 30, 2026, with supplementary reference-list screening and forward citation tracking. Study selection followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews. Nine studies from T\u00fcrkiye, the USA, the UK, Poland, South Korea, and Israel were included. The evidence comprised clinical case reports, retrospective electronic health record analyses, qualitative studies, machine-learning investigations, and conceptual modeling. Conversational AI was reported as a catalyst, amplifier, co-author, or object of spiritually framed delusions, particularly in the presence of psychosis, mania, sleep disruption, substance exposure, or impaired reality testing. Conversely, natural language processing and machine-learning models showed preliminary potential for identifying documented psychotic episodes and predicting relapse. AI may therefore contribute to the reinforcement of psychopathological experiences while also offering preliminary support for psychiatric screening and risk prediction. Prospective, culturally diverse, and externally validated research is needed to clarify causal mechanisms and establish clinical, ethical, and technological safeguards.",
+      "journal": "Journal of religion and health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -378,5 +615,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "The Promise and Peril of Toad Smoking, the Everest of Psychedelics",
+      "url": "https://nautil.us/the-promise-and-peril-of-toad-smoking-the-everest-of-psychedelics-1284999/",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-09-14T14:00:00",
+      "date_fetched": "2026-09-14T17:11:58.819947",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Kristen French",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "Nautilus",
+      "excerpt": "A conversation with author Kimon de Greef about his new book \u201cThe Ego Trip\u201d The post The Promise and Peril of Toad Smoking, the Everest of Psychedelics appeared first on Nautilus.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "psychedelics"
+      ]
+    }
+  ]
 }
