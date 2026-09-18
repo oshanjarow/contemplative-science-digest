@@ -1,118 +1,313 @@
 {
-  "generated_at": "2026-09-17T15:49:59.263835",
+  "generated_at": "2026-09-18T15:23:25.640643",
   "papers": [
     {
-      "title": "A Comparative Study of Mindfulness of Breathing (\u0100n\u0101p\u0101nasati) in the \u300eP\u0101liNik\u0101ya\u300fand the \u300eVisuddhimagga\u300f: - Focusing on Jh\u0101na and Sammasana Meditation -",
-      "url": "https://www.semanticscholar.org/paper/b12e54eee366c81d881315686b00b862b7bf9989",
+      "title": "Physiological assessment of the psychological flow state using wearable devices",
+      "url": "https://www.semanticscholar.org/paper/c5c492caa9c2792200ae05364c8d055e3744b826",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-03-31T00:00:00",
-      "date_fetched": "2026-09-17T15:49:26.116117",
-      "doi": "10.20539/deadong.2026.114.012",
+      "date_published": "2025-04-07T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325595",
+      "doi": "10.1038/s41598-025-95647-x",
       "authors": [
         {
-          "name": "Sun-Hee Lee",
-          "author_id": "121944624",
+          "name": "Melinda R\u00e1cz",
+          "author_id": "1389854632",
+          "affiliation": null
+        },
+        {
+          "name": "M. Becske",
+          "author_id": "2140003935",
+          "affiliation": null
+        },
+        {
+          "name": "T\u00edmea Magyar\u00f3di",
+          "author_id": "6931580",
+          "affiliation": null
+        },
+        {
+          "name": "Gergely Kitta",
+          "author_id": "1997317992",
+          "affiliation": null
+        },
+        {
+          "name": "M\u00e1rton Szuromi",
+          "author_id": "2354206661",
+          "affiliation": null
+        },
+        {
+          "name": "G. Marton",
+          "author_id": "83203887",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Flow is the state of optimal experience which can lead to outstanding performance. Our study demonstrates the feasibility of detecting and monitoring flow using wearable devices. Twenty-eight Hungarian adults participated in the experiment. They played a game at different levels to induce flow and anti-flow states, which was tested with questionnaires. We measured electroencephalography (EEG), heart rate (HR), blood oxygen saturation (SpO2) and galvanic skin response (GSR) signals as well as head and hand motion. We isolated EEG delta, theta, alpha and beta band power, HR, SpO2 and GSR average and standard deviation, as well as acceleration and angular velocity standard deviation. In flow condition, alpha and theta power were the dominant components, in accordance with the transient hypofrontality hypothesis. We also replicated the U-shaped characteristic of the heart rate variability; in addition, we propose an inverse U-shaped and a U-shaped characteristic for SpO2 and SpO2 variability, respectively. On the basis of motion tracking, subjects were the least physically active in flow, signifying a focused state, and the most active in boredom. Our results support the applicability of lightweight, wearable devices for monitoring mental state that can be utilized to improve well-being at work or in everyday situations.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
+    },
+    {
+      "title": "Generative Zero-Shot Learning Model for Industrial Gas-Liquid Two-Phase Flow State Identification",
+      "url": "https://www.semanticscholar.org/paper/9ef5c6adc4d4fe1529b7c206210a4f805cea538c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-28T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325799",
+      "doi": "10.23919/CCC64809.2025.11178623",
+      "authors": [
+        {
+          "name": "Xinyi Han",
+          "author_id": "2304069750",
+          "affiliation": null
+        },
+        {
+          "name": "Ling-Han Li",
+          "author_id": "1391198644",
+          "affiliation": null
+        },
+        {
+          "name": "Feng Dong",
+          "author_id": "2321552986",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Gas-liquid two-phase flow is widely prevalent in industrial production. Because of safety and cost constraints, the lack of sufficient training samples for certain flow states in real industrial environments makes traditional data-driven flow state identification methods no longer feasible. To address this issue, a generative zero-shot learning model for industrial gas-liquid two-phase flow state identification is proposed. This approach leverages generative models to learn the relationship between semantic descriptions and data distributions, thereby enabling the recognition of invisible classes through the classifier trained by pseudo-data or pseudo-features generated through their semantic representations. In addition, for reducing the impact caused by domain shift problem when performing the generalized zero-shot learning task, the gating model is trained by using visible flow state samples and invisible flow state pseudo-samples to distinguish between the visible and invisible classes, so that recognition can be achieved respectively. Experiments were implemented on gas-liquid two-phase flow state data collected in the laboratory, and the results demonstrated the effectiveness of the proposed method.",
+      "journal": "Cybersecurity and Cyberforensics Conference",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
+    },
+    {
+      "title": "Designing Audience Flow State in Narrative Media",
+      "url": "https://www.semanticscholar.org/paper/a12cd2199913714a8626f22b44c7c6a45a94c686",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-08T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325810",
+      "doi": "10.54097/yepbwa12",
+      "authors": [
+        {
+          "name": "Jiuzhen Deng",
+          "author_id": "2361894450",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Narrative media emerges its flow state model from a relationship between audience relatability and narrative continuity. When viewers engage with a story, their cognitive abilities and emotional investment interact with the coherence of the narrative, which determines the depth of immersion. Existing research highlights that textual cohesion, probabilistic continuity, and emotional transitions are key to sustaining flow when receiving stories through media. However, cultural background and audience familiarity with storytelling conventions also influence the interpretation of story content and, therefore, cause different degrees of immersive experiences. This study proposes a Two-Dimensional Flow Framework, categorizing factors for flow state into relatability\u2014how much the viewer identifies with the story\u2014and continuity\u2014the logical progression of the narrative. Misalignment in these dimensions can lead to disengagement through negative emotions. This framework allows creators to craft narratives that sustain audience engagement without overwhelming or under-stimulating them through curating the relationship between audience relatability and narrative continuity. The findings suggest that cognitive compatibility and emotional resonance deepen audience connection and sustained participation, so future storytellers should consider these factors when designing narrative media.",
+      "journal": "Journal of Education, Humanities and Social Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
+    },
+    {
+      "title": "Gamification and re-attendance at festivals: a sequential mediation model with flow state and memorable festival experience",
+      "url": "https://www.semanticscholar.org/paper/1805a4a1183d6de841ccc10441577380d7bb7495",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-08-15T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325821",
+      "doi": "10.1108/ijefm-11-2024-0149",
+      "authors": [
+        {
+          "name": "Haoran Chen",
+          "author_id": "2276200171",
+          "affiliation": null
+        },
+        {
+          "name": "Ce Guo",
+          "author_id": "2284220294",
+          "affiliation": null
+        },
+        {
+          "name": "Luebin Sun",
+          "author_id": "2366442478",
+          "affiliation": null
+        },
+        {
+          "name": "C. Pai",
+          "author_id": "2276114511",
+          "affiliation": null
+        }
+      ],
+      "abstract": "\n \n This study aims to investigate the mechanisms by which festival gamification influences tourists\u2019 re-attendance intentions through the mediating effect of tourists\u2019 flow state and memorable festival experiences.\n \n \n \n The 26th Macau Lusofonia Festival (MLF) was held from October 27 to 29, 2023, and convenience sampling was used to collect the questionnaires. A total of 335 valid questionnaires were collected from tourists who participated in festival gamification at the 26th MLF.\n \n \n \n The research findings indicate that festival gamification influences tourists\u2019 re-attend intention through the sequential mediating effects of flow state and memorable festival experiences.\n \n \n \n To improve future festivals, such as the MLF, organizers should focus on the flow state and memorable festival experiences to enhance tourists' re-attend intention through gamification by designing competitive activities with varying levels of difficulty, feedback mechanisms, and thematic storytelling. In addition, loyalty rewards via apps can encourage re-attend.\n \n \n \n This study innovatively integrates model of gamification within the framework of self-determination theory (SDT) and cognitive appraisal theory (CAT). It empirically tests the sequential mediating effect of the \u201cgamification \u2192 flow state \u2192 memory \u2192 intention\u201d chain, revealing how gamification facilitates the psychological mechanism by which tourists move from cognitive appraisal process and emotional experiences to behavioral outcomes.\n",
+      "journal": "International Journal of Event and Festival Management",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
+    },
+    {
+      "title": "Mental Toughness dan Achievement Goals: Faktor Psikologis Pembentuk Flow State Atlet Beladiri di Jawa Barat",
+      "url": "https://www.semanticscholar.org/paper/cd260c20a37a42881b32971c2c0384dfbb196de2",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-20T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325832",
+      "doi": "10.47467/edu.v5i2.9689",
+      "authors": [
+        {
+          "name": "Gilang Arrasyid",
+          "author_id": "2387686362",
+          "affiliation": null
+        },
+        {
+          "name": "Nuram Mubina",
+          "author_id": "90478491",
+          "affiliation": null
+        },
+        {
+          "name": "R. Pratomo",
+          "author_id": "2346582663",
+          "affiliation": null
+        }
+      ],
+      "abstract": "To meet the demand for high-achieving martial arts athletes in West Java, mental toughness and achievement goals are essential for athletes to achieve optimal performance. This study aims to investigate the influence of mental toughness and achievement goals on the flow state among martial arts athletes in West Java Province. The method used is quantitative with a causal design. The participants consisted of 158 athletes aged between 13 and 35 years, from various martial arts disciplines such as Pencak Silat, Taekwondo, Karate, and others. The data analysis methods used include normality tests, linearity tests, multiple regression analysis, coefficient of determination tests, and categorization tests. All data analyses were conducted using SPSS Statistics version 25.0. The instruments used in this study include the Flow State Scale (FSS), the Mental Toughness Index, and the 2 x 2 Achievement Goals Questionnaire. The regression analysis results show that mental toughness has a significant influence on the flow state, while achievement goals do not have a significant partial effect. However, simultaneously, both variables significantly influence the flow state, with a contribution of 59.8%. These findings emphasize the importance of mental strength and achievement-oriented behavior in shaping the optimal performance conditions of athletes during competition. This study is expected to serve as a foundation for the development of psychological training programs aimed at enhancing the performance of martial arts athletes by strengthening mental toughness and managing achievement goals to produce outstanding athletes.",
+      "journal": "EduInovasi Journal of Basic Educational Studies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
+    },
+    {
+      "title": "Examining Flow in Adaptive Sport and Recreation: Validating the Flow State Scale-2",
+      "url": "https://www.semanticscholar.org/paper/ad95d3e011a60613c77a277b4896be14e8017fce",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-23T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325859",
+      "doi": "10.18666/trj-2025-v59-i3-12629",
+      "authors": [
+        {
+          "name": "D. Loy",
+          "author_id": "2361635294",
+          "affiliation": null
+        },
+        {
+          "name": "C. Autry",
+          "author_id": "66339495",
+          "affiliation": null
+        },
+        {
+          "name": "Emily G. Warner",
+          "author_id": "2276930348",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Optimal experience, or \u201cflow,\u201d is considered a positive psychological state frequently evident in leisure, sports, and recreation (Csikszentmihalyi, 1975, 1990; Jackson, 1995; Kleiber, 1999). According to Csikszentmihalyi, flow is experienced similarly by everyone, regardless of gender, age, culture, or activity (Nakamura & Csikszentmihalyi, 2012). However, very few researchers have examined how the concept of flow is measured and experienced in the context of disability. More recently, disability has become a focus for research using the Flow State Scale-2, but psychometric data are lacking overall (Ottiger et al., 2021; Swaine et al. 2020). This study provides evidence that individuals with disabilities do experience components for flow and the Flow State Scale-2 may provide a valid method of capturing potential outcomes of adaptive sport and recreation programs. Further conceptual determinants and challenges to the flow experience within the context of disability are also mentioned.",
+      "journal": "Therapeutic Recreation Journal",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
+    },
+    {
+      "title": "Relationship between flow state and mental skills in young elite Tunisian soccer players",
+      "url": "https://www.semanticscholar.org/paper/9ce5fdcba26d5f7ab4fef98801866d3ea09a78a3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-27T00:00:00",
+      "date_fetched": "2026-09-18T15:23:00.325871",
+      "doi": "10.1007/s11332-025-01443-5",
+      "authors": [
+        {
+          "name": "A. Dridi",
+          "author_id": "6250023",
+          "affiliation": null
+        },
+        {
+          "name": "Achraf Hammami",
+          "author_id": "2281566246",
+          "affiliation": null
+        },
+        {
+          "name": "Walid Selmi",
+          "author_id": "39710015",
+          "affiliation": null
+        },
+        {
+          "name": "R. Hammami",
+          "author_id": "40646914",
+          "affiliation": null
+        },
+        {
+          "name": "M. Duncan",
+          "author_id": "2311945725",
+          "affiliation": null
+        },
+        {
+          "name": "Amira Ben Moussa Zouita",
+          "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of the Daedong Philosophical Association",
-      "year": 2026,
+      "journal": "Sport Sciences for Health",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "jhana"
+        "flow state contemplative"
       ]
     },
     {
-      "title": "An algorithmic agent model of pure awareness and minimal experiences",
-      "url": "https://www.semanticscholar.org/paper/2b3038024e68993c5c4c7c1e028506ccfe14eb71",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-05-29T00:00:00",
-      "date_fetched": "2026-09-17T15:49:26.116139",
-      "doi": "10.33735/phimisci.2026.12136",
-      "authors": [
-        {
-          "name": "Edmundo Lopez-Sola",
-          "author_id": "2047957413",
-          "affiliation": null
-        },
-        {
-          "name": "R. Sanchez-Todo",
-          "author_id": "1435231767",
-          "affiliation": null
-        },
-        {
-          "name": "J. Vohryzek",
-          "author_id": "52033010",
-          "affiliation": null
-        },
-        {
-          "name": "G. Ruffini",
-          "author_id": "2274943456",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The phenomenon of \u201cpure awareness\u201d, central to many contemplative traditions, has recently attracted scientific interest for its relevance to the study of consciousness. In this paper, we investigate pure awareness through the algorithmic agent model, a computational framework with roots in algorithmic information theory. This framework proposes that agents build compressive models of the world, and that structured experience arises from running such models. By linking phenomenology, dynamical systems theory, and computation, the algorithmic agent model offers a useful framework for investigating experiences with minimal structure or phenomenal content. We propose that pure awareness, as a stand-alone phenomenon, may correspond to experiences with minimal structure achieved through meditation, psychedelics, or other deconstructive practices. To illustrate this, we explore how such experiences may arise through jh\u0101na meditation. A key hypothesis is that the phenomenology of pure awareness arises from a specific model: the agent's model of its own modeling process. We argue that the agent's recognition of the modeling process can occur alongside other phenomenal content, as in non-dual awareness. We also outline how these ideas can be explored through whole-brain computational models based on predictive processing theory, and empirically grounded in meditation and psychedelic research.",
-      "journal": "Philosophy and the Mind Sciences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "jhana"
-      ]
-    },
-    {
-      "title": "Assessing the effect of Loving-Kindness Meditation on pain and social well-being using a randomized controlled trial design.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748179/",
+      "title": "Effect of a School-Based Yoga Intervention on Behavioral Intention and Yoga Practice Among Secondary School Students: A Quasi-Experimental Study in Kirtipur, Kathmandu, Nepal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751134/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-09-17T15:49:47.840905",
-      "doi": "10.1371/journal.pone.0357888",
+      "date_published": "2026-09-01T00:00:00",
+      "date_fetched": "2026-09-18T15:23:24.792205",
+      "doi": "10.1002/hsr2.73263",
       "authors": [
         {
-          "name": "Olivia Young",
+          "name": "Savyata Panthi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Katherine O'Connell",
+          "name": "Rahi Bikram Thapa",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Naomi Nero",
+          "name": "Khem Bahadur Karki",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Melinda C Somers",
+          "name": "Ramhari Regmi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Paige A Freeburg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mary Ann Dutton",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Abigail A Marsh",
+          "name": "Chet Kant Bhusal",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Loving-Kindness Meditation (LKM), a contemplative practice that aims to promote social well-being, has also been linked to lower self-reported pain symptoms. However, it remains unknown whether LKM can reduce pain through having a positive impact on social well-being, as well as whether LKM can improve self-reported acute pain and objectively measured acute pain tolerance among a general, healthy population. In this study (ClinicalTrials.gov; NCT04632875), participants (n\u2009=\u200969) completed either a 4-week online LKM training or an active control meditation training (Progressive Muscle Relaxation; PMR), followed by a novel, remote pain induction task: the wall sit test administered over video conference. This study used a two-arm, parallel-group randomized controlled trial design with stratified block randomization and a double-blind baseline session. We hypothesized that, relative to the PMR active control, LKM would improve social well-being, reduce subjective pain reports, and improve acute pain tolerance. Contrary to our hypotheses, the PMR active control training increased perceived social support relative to LKM (p\u2009=\u2009.028), and neither meditation decreased subjective pain or increased acute pain tolerance over time. Our data were collected during the unique circumstance of the early COVID-19 pandemic, and it is important to interpret our results with consideration of widespread restrictions on in-person social contact and elevated stress during this period. This context may have constrained participants' opportunities for social connection and influenced reports of social support and pain. Nevertheless, our findings add to the current understanding of how meditation, social wellness, and pain may be related.",
-      "journal": "PloS one",
+      "abstract": "BACKGROUND AND AIMS: School-based yoga interventions may provide an opportunity to promote healthy behaviors among adolescents by improving yoga-related knowledge, motivation, and engagement in regular practice. However, evidence regarding changes in yoga-related behavioral outcomes following school-based interventions among Nepalese secondary school students remains unexplored. So, this study aims to evaluate whether a 4-week structured school-based yoga intervention changes yoga-related knowledge, behavioral intention to practice yoga, and self-reported yoga practice among secondary school students, compared with a non-intervention group. METHODS: A quasi-experimental pre-post study used multistage random sampling to select one intervention school ( RESULTS: Groups were comparable at baseline on ever-practiced status and intention ( CONCLUSION: A structured, instructor-led school yoga program can shift short-term yoga knowledge and intention in school settings; whether this translates into sustained practice or broader health benefits requires further study.",
+      "journal": "Health science reports",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -120,57 +315,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Seriously Considering Humor as a Therapeutic Support for Addiction Recovery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742578/",
+      "title": "Designing scalable micro\u2011interventions for student wellbeing in higher education: a comparative study of digital and paper colouring.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755287/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-14T00:00:00",
-      "date_fetched": "2026-09-17T15:49:58.166263",
-      "doi": "10.15288/jsad.26-00224",
+      "date_published": "2026-09-18T00:00:00",
+      "date_fetched": "2026-09-18T15:23:24.792258",
+      "doi": "10.1080/09638237.2026.2732896",
       "authors": [
         {
-          "name": "Samuel W Stull",
+          "name": "Emma C Palmer-Cooper",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Thomas K Gregoire",
+          "name": "Hannah Walmsley",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Katie Witkiewitz",
+          "name": "Caitlin Foster",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Andy Gold",
+          "name": "Evie Woodford",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Susan A Murphy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicholas C Jacobson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Willibald Ruch",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lisa A Marsch",
+          "name": "Rose Seneviratne",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Humor interventions can increase happiness and reduce mental health symptoms such as depression and anxiety. Several authors have direct lived experience of these benefits, with humor being transformative early and throughout their addiction recovery. Yet the scientific study of humor as a support for recovery remains largely unexamined. We argue this is a missed opportunity and offer a rationale for advancing this area of research. We propose that humor aligns with putative therapeutic processes central to recovery: cognitive (i.e., psychological flexibility), reward (i.e., non-substance reward), and social processes (i.e., peer support, stigma reduction). Humor-based interventions could take many forms, including humor-focused cognitive reframing, digital comedy content, and delivery by counselors, peer recovery coaches, or other providers. Humor may strengthen treatment engagement and may also have synergistic benefits with established approaches such as CBT and mindfulness-based relapse prevention. Here, we present a humor-based intervention that integrates humor-focused cognitive reframing in group therapy and daily life, diaries to savor humorous experiences, and stand-up comedy content, including material from comedians in recovery. Our intervention example corresponds to mechanisms linking humor and outcomes (e.g., psychological flexibility, increased substance-free enjoyment, and reductions in craving via distraction). We also describe the exciting potential for humor interventions to serve as engagement and retention approaches as part of treatment. We then identify three main areas-relevant across putative processes and intervention approaches-for advancing the science of humor and addiction. This includes (1) heterogeneity in comedy preferences (e.g., comedy about addiction), (2) individual differences (e.g., anhedonia and fear of being laughed at \"gelotophobia\"), and (3) dynamic aspects of humor and recovery (e.g., humor across stages of recovery, humor in relation to changes in mood and social context). We conclude that research on humor in addiction should maintain a bi-directional relationship with lived experience: we should always be \"in on the joke.\"",
-      "journal": "Journal of studies on alcohol and drugs",
+      "abstract": "BACKGROUND: Mindful colouring is a low-effort intervention that improves student wellbeing and mindfulness. However, the effectiveness of different colouring formats remains unclear. AIMS: This study evaluated a self-guided mindful colouring intervention for university student wellbeing, comparing outcomes between paper and digital formats. METHODS: In this quasi-experimental study (non-random time-based allocation), 297 participants between 18-26\u2009years of age completed \u22656 colouring sessions over two weeks in their allocated format (paper:  RESULTS: Across both groups, mindful colouring was associated with significant improvements in stress (\u03b7 CONCLUSIONS: Mindful colouring is a feasible, low-cost, scalable intervention that is associated with improved student wellbeing over two weeks. Digital colouring may therefore be suitable to enhance accessibility and portability of intervention materials in resource-limited settings.",
+      "journal": "Journal of mental health (Abingdon, England)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -178,22 +358,32 @@
       "matched_keywords": []
     },
     {
-      "title": "There and back again: Biological naturalism provides no new scientific progress on the matter of AI consciousness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42750494/",
+      "title": "Research Trends in Publications on Yoga and Meditation Interventions for Nurses' Mental Well-Being and Work Productivity: A Bibliometric Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755014/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-17T00:00:00",
-      "date_fetched": "2026-09-17T15:49:58.166536",
-      "doi": "10.1017/S0140525X25103543",
+      "date_fetched": "2026-09-18T15:23:24.792477",
+      "doi": "10.1177/08980101261486553",
       "authors": [
         {
-          "name": "Morten Storm Overgaard",
+          "name": "Shivani Badonia",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rajni Nautiyal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vinod Nautiyal",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Seth presents several arguments for why multiple realization is not necessarily true. However, this is not a common opinion in consciousness research. He fails to provide arguments why we should believe in biological naturalism over multiple realization, which is the actual challenge to create progress.",
-      "journal": "The Behavioral and brain sciences",
+      "abstract": "ObjectiveTo map publication trends and the thematic, geographical, and collaborative structure of research on yoga, meditation, and related contemplative practices among nurses.MethodsA bibliometric analysis was conducted using the Scopus database. The search combined terms relating to mental well-being, stress, burnout, quality of life, productivity, yoga, meditation, mindfulness, mind-body interventions, and nursing personnel, with publication years restricted to 2015-2024 and English-language records. Data were analyzed using Microsoft Excel and VOSviewer to examine annual publication trends, leading journals and authors, geographical distribution, co-occurrence patterns, and collaboration networks. Screening and data extraction were conducted by the first author using predefined eligibility criteria, with multiple rounds of verification during data cleaning. The absence of independent dual-reviewer screening is acknowledged as a limitation.ResultsA total of 382 articles met the inclusion criteria and were published in 63 peer-reviewed journals from 46 countries. About 15% of the studies were randomized controlled trials (RCTs); the rest were quasi-experimental, pre-experimental, reviews, and conceptual/theoretical papers. In 14 of these articles, the names of countries were not mentioned, although some authors were contacted by mail for this information; however, they declined to provide it. The primary result is a threefold increase in publications over the last 10 years across all study designs, with the major ones being controlled studies, RCTs, cross-sectional studies, and meta-analyses. Most publications originated from the United States (",
+      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -201,37 +391,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Emotion regulation strategies and their associations with social and emotional loneliness: A network approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42741821/",
+      "title": "Hitting and missing on consciousness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751830/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-15T00:00:00",
-      "date_fetched": "2026-09-17T15:49:58.166576",
-      "doi": "10.1080/02699931.2026.2731384",
+      "date_published": "2026-09-17T00:00:00",
+      "date_fetched": "2026-09-18T15:23:24.792601",
+      "doi": "10.1111/pcn.70136",
       "authors": [
         {
-          "name": "Pawe\u0142 Grygiel",
+          "name": "Tomoya Nakamura",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sylwia Opozda-Suder",
+          "name": "Matthias Michel",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "S\u0142awomir R\u0119bisz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Roman Dolata",
+          "name": "Hakwan Lau",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Cognition & emotion",
+      "abstract": "Disturbances of conscious experience are central features of many psychiatric and mental health disorders. Experimental studies of conscious perception are therefore increasingly cited in clinical and translational work under the assumption that they identify neural mechanisms specific to subjective experience. Over the past decades, recording and analysis techniques have advanced substantially and many candidate neural markers of consciousness have been proposed; however, these markers may not genuinely reflect consciousness per se unless the underlying experimental paradigms are sufficiently stringent. We focus on one of the most widely used paradigms in basic and clinical research on consciousness: contrasting successful and unsuccessful detection of near-threshold sensory stimuli (\"Hit & Miss\" paradigms). Reporting stimulus presence depends not only on subjective experience but also on decision criteria that can vary independently of any genuine conscious threshold, as well as on fluctuations in perceptual processing capacity and prestimulus cognitive states. We explain why proposed refinements, such as the Perceptual Awareness Scale, binocular rivalry, and no-report paradigms, do not fully resolve these problems, and why many putative \"neural correlates of consciousness\" may instead index more general cognitive/perceptual capacities. These confounds have important implications for how basic consciousness research is interpreted in relation to hallucinations, flashbacks, and other disorders of experience. We outline alternative experimental strategies, inspired in part by blindsight and related dissociation paradigms, that more cleanly separate conscious perception from decision criteria and perceptual capacity, and may therefore provide a more reliable foundation for linking neural data to subjective experience in psychiatry and clinical neuroscience.",
+      "journal": "Psychiatry and clinical neurosciences",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -239,62 +424,110 @@
       "matched_keywords": []
     },
     {
-      "title": "Mindfulness and Tai Chi for Sleep, Fatigue, and Pain in Distressed People After Cancer Treatment: A Partially Randomized Patient-Preference Comparative Effectiveness Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748380/",
+      "title": "Deaf-led Deaf Awareness Training in the Emergency Department: A Pre-Post Evaluation of Staff Knowledge, Confidence, and Communication Preparedness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752063/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-16T00:00:00",
-      "date_fetched": "2026-09-17T15:49:58.166821",
-      "doi": "10.1200/JCO-25-01967",
+      "date_published": "2026-09-17T00:00:00",
+      "date_fetched": "2026-09-18T15:23:24.792688",
+      "doi": "10.1016/j.jen.2026.08.005",
       "authors": [
         {
-          "name": "Yan Ma",
+          "name": "Sarah Hazelwood",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Linda E Carlson",
+          "name": "Jennifer Dermer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jennifer M Jones",
+          "name": "Neil Wood",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Oluwaseyi A Lawal",
+          "name": "Faye Jordan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Devesh Oberoi",
+          "name": "Karen Hay",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Katherine-Ann Piedalue",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daniel Santa Mina",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Michael Speca",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Peter M Wayne",
+          "name": "Stephen Neville",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Sleep, fatigue, and pain are common symptoms in cancer survivors. Mindfulness-based cancer recovery (MBCR) and Tai Chi/Qigong (TCQ) are beneficial for these conditions, but have not been studied together. The Mindfulness and Tai Chi for Cancer Health (MATCH) study was designed to incorporate innovative design features, including patient choice, while evaluating two interventions for distressed cancer survivors with predefined secondary outcomes, including sleep, fatigue, and pain. METHODS: Participants chose one of the two interventions or chose to be randomly assigned into either intervention, then were further randomly assigned into immediate intervention or waitlist groups. We evaluated the efficacy of MBCR and TCQ, whether participants' choices affected intervention effects, and correlations among changes in sleep, fatigue, and pain. RESULTS: Participants (N = 587) were on average 60.7 years, with multiple types and stages of cancer. At postintervention, compared with waitlist controls, the TCQ group had an average improvement of 1.9 points on the sleep quality scale, which remained statistically significant compared with controls after adjustment for age, sex, cancer stage, and preference ( CONCLUSION: Compared with waitlist controls, MBCR and TCQ both improved fatigue and pain interference at post-intervention, and TCQ also improved sleep quality. Correlations across outcomes highlight the importance of addressing clusters of cancer symptoms within a whole-person health framework.",
-      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "abstract": "INTRODUCTION: Communication access is essential for safe emergency care, but D/deaf patients (D/deaf used here to include people identifying as culturally Deaf and those with audiological difference) frequently experience barriers that limit their ability to participate in decision-making. Emergency clinicians often lack formal training in Deaf cultural and linguistic needs, interpreter use, and visually accessible communication strategies. This study evaluated whether a brief deaf awareness training session could improve emergency department staff's self-rated knowledge and confidence in caring for D/deaf patients. METHODS: This study used a 1-group pre-post survey design. A total of 36 emergency department staff members completed matched surveys immediately before and immediately after a single 30-minute Deaf-led training session. Surveys included 5-point Likert items assessing self-rated knowledge, confidence, and preparedness. Of note, 7 prespecified paired items were analyzed using Wilcoxon signed-rank tests, and a summed composite score (range 7-35) was analyzed using a paired t test. Additional analyses examined differences in composite scores by experience, sex, and cultural background and assessed whether experience level moderated the change from pre- to posttraining. RESULTS: All 7 outcomes improved after training (all P < .001). Median responses increased from 1-2 at baseline to 4-5 after the training. The composite score increased from a mean of 13.0 to 32.0 (mean change, +19.0). Improvements were consistent across experience, sex, and cultural background categories at posttraining (all P \u2265 .25 for posttraining group differences). Most participants (97%) wanted further Deaf culture education, and 100% supported integrating the training into routine staff development. DISCUSSION: Deaf-led deaf awareness training was associated with statistically significant improvements in ED staff's self-rated knowledge, confidence, and preparedness to care for D/deaf patients. Findings suggest that brief Deaf community-led education is a feasible and scalable strategy for strengthening staff-reported capacity to provide accessible communication in emergency care. NOTE: Terminology: In this paper, Deaf refers to culturally Deaf Auslan users, and deaf to those with audiological difference who may or may not use Auslan as their preferred communication method; D/deaf is used where both groups are included.",
+      "journal": "Journal of emergency nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mind-Body Nursing for Postoperative Pain and Well-Being in Hemophilia Knee Arthroplasty.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754423/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-17T00:00:00",
+      "date_fetched": "2026-09-18T15:23:24.793071",
+      "doi": "10.1016/j.pmn.2026.08.009",
+      "authors": [
+        {
+          "name": "Aiping Feng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hua Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shenmin Song",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yajun Song",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shuang Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xinyu Zhu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Liyun Zhu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lin Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yan Zhang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: Hemophilic arthropathy is a debilitating condition characterized by recurrent hemarthroses, leading to severe joint pain and eventual need for total knee arthroplasty (TKA). Postoperative pain management in this population is highly complex as the result of inherent bleeding risks, intense perioperative anxiety, and a frequently observed \"pain-fear-immobility\" cycle. The growing need for holistic pain management underscores the potential of mind-body nursing interventions (MBNIs). This study aimed to evaluate the impact of an MBNI on postoperative pain intensity, analgesic consumption, and related psychological and functional outcomes in patients after hemophilia TKA. DESIGN: A single-center retrospective observational study was conducted at Peking Union Medical College Hospital in which we reviewed electronic medical records and prospectively maintained specialist nursing logs from 2020 to 2025. METHODS: A total of 62 male patients undergoing TKA were included and were categorized into an intervention group (n = 29, receiving MBNI including relaxation, guided imagery, and mindfulness) and a control group (n = 33, receiving routine perioperative care). Allocation to the MBNI group was determined on the basis of the primary specialist nurse's clinical workload and availability rather than patient preference. Pain was measured using the visual analog scale and opioid/nonsteroidal anti-inflammatory drug consumption, alongside assessments for anxiety (State-Trait Anxiety Inventory), depression (Hospital Anxiety and Depression Scale), and functional recovery. RESULTS: Baseline characteristics and preoperative pain levels were comparable between groups. Postoperatively, the MBNI group showed lower resting pain (visual analog scale at postoperative day 1: 3.2 \u00b1 0.9 vs. 4.6 \u00b1 1.1) and activity-related pain (4.8 \u00b1 1.2 vs. 6.3 \u00b1 1.4) and lower cumulative analgesic consumption (185.4 \u00b1 32.6 vs. 238.2 \u00b1 45.1 mg oral morphine equivalents; all p < .001) compared with the control group. Furthermore, the intervention group showed greater improvement in anxiety (State-Trait Anxiety Inventory at discharge: 38.5 \u00b1 5.2 vs. 47.6 \u00b1 6.4), sleep quality (Pittsburgh Sleep Quality Index: 5.4 \u00b1 1.5 vs. 7.9 \u00b1 1.8; both p < .001), and nurse-patient trust, facilitating better rehabilitation adherence without increasing bleeding complications. CONCLUSIONS: In this retrospective cohort, MBNI was associated with lower acute postoperative pain and analgesic requirements and with improved psychological well-being in patients hemophilia with undergoing TKA. CLINICAL IMPLICATIONS: These preliminary findings suggest that such accessible, patient-centered psychophysiological strategies warrant evaluation in a prospective randomized controlled trial before integration into routine pain management protocols for high-risk surgical populations.",
+      "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -304,16 +537,16 @@
   ],
   "articles": [
     {
-      "title": "When Meditation Has a Dark Side",
-      "url": "https://www.theatlantic.com/podcasts/2026/09/meditation-dark-side-mindfulness/688628/?utm_source=feed",
+      "title": "Pay No Attention to the Russian Oligarch at My Wedding Weekend",
+      "url": "https://www.theatlantic.com/newsletters/2026/09/russian-oligarch-wedding-donald-trump-jr/688678/?utm_source=feed",
       "item_type": "article",
       "source_type": "rss",
-      "date_published": "2026-09-17T13:00:00",
-      "date_fetched": "2026-09-17T15:49:58.968770",
+      "date_published": "2026-09-17T21:11:00",
+      "date_fetched": "2026-09-18T15:23:25.456798",
       "doi": null,
       "authors": [
         {
-          "name": "Hanna Rosin",
+          "name": "Alexandra Petri",
           "author_id": null,
           "affiliation": null
         }
@@ -322,11 +555,10 @@
       "journal": null,
       "year": null,
       "source_name": "The Atlantic",
-      "excerpt": "Could there really be such a thing as too much mindfulness?",
-      "relevance_score": 2,
+      "excerpt": "He\u2019s just a dear friend we know nothing about!",
+      "relevance_score": 1,
       "matched_keywords": [
-        "meditation",
-        "mindfulness"
+        "attention"
       ]
     }
   ]
