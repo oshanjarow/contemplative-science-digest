@@ -1,199 +1,104 @@
 {
-  "generated_at": "2026-09-20T15:02:54.865570",
+  "generated_at": "2026-09-21T17:21:06.394610",
   "papers": [
     {
-      "title": "Microstate Dynamics of Focused Attention Meditation",
-      "url": "https://www.semanticscholar.org/paper/58cb4f1ff9b083605f58b2637bd13fe89cf394df",
+      "title": "The Meditation App Revolution",
+      "url": "https://www.semanticscholar.org/paper/526ae7fef550bc11fdbf91851669282eb99d1442",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-01-22T00:00:00",
-      "date_fetched": "2026-09-20T15:02:18.552702",
-      "doi": "10.64898/2026.01.19.700274",
+      "date_published": "2025-08-07T00:00:00",
+      "date_fetched": "2026-09-21T17:20:17.392088",
+      "doi": "10.1037/amp0001576",
       "authors": [
         {
-          "name": "C. Ngo",
-          "author_id": "2087835",
+          "name": "J. D. Creswell",
+          "author_id": "144712087",
           "affiliation": null
         },
         {
-          "name": "Erkin Bek",
-          "author_id": "2331970567",
-          "affiliation": null
-        },
-        {
-          "name": "Monika Stasytyte",
-          "author_id": "2406812831",
-          "affiliation": null
-        },
-        {
-          "name": "Lionel Newman",
-          "author_id": "2290255305",
-          "affiliation": null
-        },
-        {
-          "name": "R. Elizalde",
-          "author_id": "2059196944",
-          "affiliation": null
-        },
-        {
-          "name": "Amit Kanthi",
-          "author_id": "2157415714",
-          "affiliation": null
-        },
-        {
-          "name": "N. K. Manjunath",
-          "author_id": "34889600",
-          "affiliation": null
-        },
-        {
-          "name": "Christoph M. Michel",
-          "author_id": "2406813054",
+          "name": "Simon B. Goldberg",
+          "author_id": "2247746656",
           "affiliation": null
         }
       ],
-      "abstract": "Focused-attention meditation provides a tractable model for examining how large-scale brain dynamics support attention and self-regulation. Using high-density EEG microstate analysis, we investigated how focused-attention meditation on the breath (\u0100n\u0101p\u0101nasati) modulates intrinsic brain activity in 22 experienced practitioners, compared with baseline rest and deliberate mental imagery. Five canonical microstate classes (A-E) were identified. Meditation produced a robust reduction of Microstate C across coverage, duration, and occurrence, accompanied by increased presence of Microstates D and E (all Microstate x Condition interactions p < 0.0001). Source localization revealed that Microstate C was generated primarily in medial and lateral temporal regions including the hippocampus and parahippocampal cortex, whereas Microstate D involved posterior midline regions including the posterior cingulate cortex and precuneus, and Microstate E engaged frontoparietal and orbitolimbic networks. Together, these results indicate that focused-attention meditation reorganizes the temporal architecture of large-scale brain dynamics by downregulating microstate patterns associated with self-referential and memory-based processing while enhancing neural states supporting attentional stability and internal monitoring.",
-      "journal": "bioRxiv",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
-    },
-    {
-      "title": "Neurofluid circulation changes during a focused attention style of mindfulness meditation",
-      "url": "https://www.semanticscholar.org/paper/c4f41eba70aaab84474bb9d49da985460f2a73a6",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-12T00:00:00",
-      "date_fetched": "2026-09-20T15:02:18.552830",
-      "doi": "10.1073/pnas.2504961122",
-      "authors": [
-        {
-          "name": "B. A. Keating",
-          "author_id": "2368518323",
-          "affiliation": null
-        },
-        {
-          "name": "David Vago",
-          "author_id": "2317619250",
-          "affiliation": null
-        },
-        {
-          "name": "K. Hett",
-          "author_id": "2253410403",
-          "affiliation": null
-        },
-        {
-          "name": "C. Considine",
-          "author_id": "49253535",
-          "affiliation": null
-        },
-        {
-          "name": "Maria Garza",
-          "author_id": "2320332248",
-          "affiliation": null
-        },
-        {
-          "name": "Caleb Han",
-          "author_id": "2242410086",
-          "affiliation": null
-        },
-        {
-          "name": "Colin D. McKnight",
-          "author_id": "2318042946",
-          "affiliation": null
-        },
-        {
-          "name": "D. Claassen",
-          "author_id": "3332599",
-          "affiliation": null
-        },
-        {
-          "name": "M. Donahue",
-          "author_id": "2318030219",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Neurofluids, including cerebrospinal fluid (CSF) and interstitial fluid, circulate through regulated central nervous system pathways to clear cerebral waste and support brain health, with elevated CSF flow hyperdynamicity and regurgitation through the cerebral aqueduct associating with aging and neurodegeneration. Sleep exerts state-dependent effects on neurofluid circulation, yet similar modulation during unique waking states, such as meditation, remains underexplored. Notably, mindfulness meditation shares several regulatory features with sleep, with core meditation practices representing distinct arousal states. We investigated whether the focused attention (FA) style of mindfulness meditation modulates neurofluid dynamics directionally opposite to aging and consistent with sleep. Using phase-contrast MRI, we assessed absolute CSF flow and velocity through the aqueduct, and using blood-oxygenation-level-dependent (BOLD) MRI, we assessed CSF fluctuations near the cervicomedullary junction together with total supratentorial gray matter fluctuations. Assessments were repeated in meditation-naive adults during mind wandering (MW) without (n=13; repeatability controls) and with (n=14; breath controls) respiration rate modulation, and in adept meditators (n=23) during MW and FA meditation. No aqueduct CSF flow changes were observed in control groups. In meditators, absolute aqueduct absolute CSF flow decreased from MW to FA meditation (4.60+/-2.27 mL/min to 4.17+/-2.10 mL/min, p=0.005) owing to reduced regurgitant cranially-directed CSF velocity. On BOLD, this paralleled increased low frequency (0.0614-0.0887 Hz) CSF fluctuations (p=0.0138), which were inversely correlated with gray matter fluctuations during FA. Findings suggest that mindfulness meditation may represent a non-pharmacological, waking state capable of modulating neurofluid dynamics in a directionally similar manner to sleep and opposite to aging and neurodegeneration.",
-      "journal": "medRxiv",
+      "abstract": "Smartphone-based meditation training has jumped onto the world stage, shifting how millions of people learn and practice meditation. This review examines the rapid proliferation of meditation apps and synthesizes current scientific findings on their usage patterns, efficacy, mechanisms of action, and safety. Though research lags well behind public adoption, recent randomized controlled trials and meta-analyses reveal that app-based meditation interventions produce modest but consistent reductions in depression and anxiety. Initial mechanistic studies further suggest that improvements in worry, repetitive negative thinking, and self-reported mindfulness skills may underpin these effects, alongside early findings on blood pressure reduction and pro-inflammatory gene expression. This review describes some of the similarities and differences between meditation apps and traditional, in-person mindfulness programs. Meditation apps often differ in the relative absence of interpersonal support, briefer practice sessions, lower sustained engagement rates, and greater opportunities for personalization and large-scale data capture. We discuss opportunities based on these issues, including hybrid models that combine app-based content with human support, just-in-time interventions, and advanced trial designs that harness app analytics. With thoughtful development and rigorous evaluation, meditation apps have potential to expand the reach of evidence-based meditation training, offering a unique platform for advancing translational research on meditative practices.",
+      "journal": "American Psychologist",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     },
     {
-      "title": "[Multi-source adversarial adaptation with calibration for electroencephalogram-based classification of meditation and resting states].",
-      "url": "https://www.semanticscholar.org/paper/d9a9f3e98ed95a2f91b30c47ed72bb56af37aeab",
+      "title": "Functional connectivity-related changes underlying mindfulness meditation for internet gaming disorder: a randomized clinical trial",
+      "url": "https://www.semanticscholar.org/paper/b6e9d56753bd7bdee86df1e43ebdf5203e8022ca",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-25T00:00:00",
-      "date_fetched": "2026-09-20T15:02:18.553050",
-      "doi": "10.7507/1001-5515.202504044",
+      "date_published": "2025-07-31T00:00:00",
+      "date_fetched": "2026-09-21T17:20:17.392295",
+      "doi": "10.1038/s44184-025-00154-6",
       "authors": [
         {
-          "name": "Mingyu Gou",
-          "author_id": "2335889203",
+          "name": "Xue-Feng Xu",
+          "author_id": "2299427815",
           "affiliation": null
         },
         {
-          "name": "Hao-Long Yin",
-          "author_id": "2336053755",
+          "name": "Haosen Ni",
+          "author_id": "2278316775",
           "affiliation": null
         },
         {
-          "name": "Tian-Zhen Chen",
-          "author_id": "10264973",
+          "name": "HuaBin Wang",
+          "author_id": "2299482218",
           "affiliation": null
         },
         {
-          "name": "Fei Cheng",
-          "author_id": "2339480275",
+          "name": "Tongtong Wang",
+          "author_id": "2293658435",
           "affiliation": null
         },
         {
-          "name": "Jiang Du",
-          "author_id": "2379959741",
+          "name": "Chang Liu",
+          "author_id": "2299910812",
           "affiliation": null
         },
         {
-          "name": "Baoliang Lyu",
-          "author_id": "2378824969",
+          "name": "Xiaolan Song",
+          "author_id": "2299530334",
           "affiliation": null
         },
         {
-          "name": "Weilong Zheng",
-          "author_id": "2379213115",
+          "name": "Guang-Heng Dong",
+          "author_id": "2236700422",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi",
+      "abstract": "Internet gaming disorder (IGD) is recognized as a mental health issue. Traditional interventions have limitations, but mindfulness meditation (MM) shows promise due to its flexibility and social acceptance. Study 1, fMRI data from 61 IGD patients and 60 healthy controls (HCs) were compared to assess functional connectivity (FC). Study 2- a randomized clinical trial, 80 IGD patients underwent either an MM intervention (twice-weekly for 8 sessions) or progressive muscle relaxation (PMR) as a control (pre-registered-Chinese clinical trial registry, ChiCTR2300075869, September 18, 2023). Study 1 revealed abnormal FC within the executive control network (ECN) and between the ECN and reward network in IGD patients. Study 2 showed that MM enhanced FC within the ECN and frontostriatal pathway. MM refining the coupling between brain regions involved in executive control and reward processing. This enhancement improves top-down control over game craving. These findings suggest that MM can effectively treat IGD.",
+      "journal": "npj Mental Health Research",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "focused attention meditation"
+        "meditation"
       ]
     }
   ],
   "articles": [
     {
-      "title": "The Pinball President",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-attention-presidents/688712/?utm_source=feed",
+      "title": "Could AI Have Consciousness That Isn\u2019t Human-Like?",
+      "url": "https://nautil.us/could-ai-have-consciousness-that-isnt-human-like-1285156/",
       "item_type": "article",
       "source_type": "rss",
-      "date_published": "2026-09-20T11:00:00",
-      "date_fetched": "2026-09-20T15:02:54.624911",
+      "date_published": "2026-09-21T14:00:00",
+      "date_fetched": "2026-09-21T17:21:05.960176",
       "doi": null,
       "authors": [
         {
-          "name": "John Dickerson",
+          "name": "Kristen French",
           "author_id": null,
           "affiliation": null
         }
@@ -201,11 +106,11 @@
       "abstract": null,
       "journal": null,
       "year": null,
-      "source_name": "The Atlantic",
-      "excerpt": "No commander in chief has been better at seizing public attention than Donald Trump. But there is a difference between getting attention and doing something with it.",
+      "source_name": "Nautilus",
+      "excerpt": "Philosopher Peter Godfrey-Smith on AI consciousness and existential risk The post Could AI Have Consciousness That Isn\u2019t Human-Like? appeared first on Nautilus.",
       "relevance_score": 1,
       "matched_keywords": [
-        "attention"
+        "consciousness"
       ]
     }
   ]
