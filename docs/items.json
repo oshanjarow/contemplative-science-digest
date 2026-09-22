@@ -1,117 +1,493 @@
 {
-  "generated_at": "2026-09-21T17:21:06.394610",
+  "generated_at": "2026-09-22T15:54:20.828914",
   "papers": [
     {
-      "title": "The Meditation App Revolution",
-      "url": "https://www.semanticscholar.org/paper/526ae7fef550bc11fdbf91851669282eb99d1442",
+      "title": "Meditation styles are highly discriminable from EEG at the subject level with limited generalization across the population: a machine-learning study",
+      "url": "https://www.semanticscholar.org/paper/a136de4a12052e131898eedff62e0c7398635f93",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-07T00:00:00",
-      "date_fetched": "2026-09-21T17:20:17.392088",
-      "doi": "10.1037/amp0001576",
+      "date_published": "2026-05-19T00:00:00",
+      "date_fetched": "2026-09-22T15:53:39.285940",
+      "doi": "10.3389/frai.2026.1876322",
       "authors": [
         {
-          "name": "J. D. Creswell",
-          "author_id": "144712087",
+          "name": "Saqib Hayat",
+          "author_id": "2088634704",
           "affiliation": null
         },
         {
-          "name": "Simon B. Goldberg",
-          "author_id": "2247746656",
+          "name": "Francesco Goretti",
+          "author_id": "2300959661",
+          "affiliation": null
+        },
+        {
+          "name": "Rachele Fabbri",
+          "author_id": "1820762479",
+          "affiliation": null
+        },
+        {
+          "name": "C. Noferini",
+          "author_id": "2198248369",
+          "affiliation": null
+        },
+        {
+          "name": "Elena Cravero",
+          "author_id": "2308364702",
+          "affiliation": null
+        },
+        {
+          "name": "P. Mori",
+          "author_id": "144614644",
+          "affiliation": null
+        },
+        {
+          "name": "A. Scaglione",
+          "author_id": "152150043",
+          "affiliation": null
+        },
+        {
+          "name": "F. Pavone",
+          "author_id": "2273558239",
           "affiliation": null
         }
       ],
-      "abstract": "Smartphone-based meditation training has jumped onto the world stage, shifting how millions of people learn and practice meditation. This review examines the rapid proliferation of meditation apps and synthesizes current scientific findings on their usage patterns, efficacy, mechanisms of action, and safety. Though research lags well behind public adoption, recent randomized controlled trials and meta-analyses reveal that app-based meditation interventions produce modest but consistent reductions in depression and anxiety. Initial mechanistic studies further suggest that improvements in worry, repetitive negative thinking, and self-reported mindfulness skills may underpin these effects, alongside early findings on blood pressure reduction and pro-inflammatory gene expression. This review describes some of the similarities and differences between meditation apps and traditional, in-person mindfulness programs. Meditation apps often differ in the relative absence of interpersonal support, briefer practice sessions, lower sustained engagement rates, and greater opportunities for personalization and large-scale data capture. We discuss opportunities based on these issues, including hybrid models that combine app-based content with human support, just-in-time interventions, and advanced trial designs that harness app analytics. With thoughtful development and rigorous evaluation, meditation apps have potential to expand the reach of evidence-based meditation training, offering a unique platform for advancing translational research on meditative practices.",
-      "journal": "American Psychologist",
-      "year": 2025,
+      "abstract": "Meditation has been associated with improvements in attention, emotional regulation, and mental well-being, motivating increasing interest in objective methods for assessing meditative states. In this study, we investigate whether EEG-based machine learning can reliably distinguish between multiple meditation styles and mind-wandering states. EEG data were recorded from experienced meditators performing three meditation styles, Shamatha, Vipassana, and Metta, together with an eyes-closed mind-wandering condition. EEG signals were preprocessed to remove artifacts, and features were extracted from frequency, time-frequency, and time domains. Classification was evaluated using both intra-subject and inter-subject strategies with multiple machine learning classifiers. Results demonstrate high intra-subject classification accuracy across meditation-versus-mind-wandering and meditation-style comparisons, indicating strongly discriminative subject-specific neural signatures. In contrast, inter-subject performance decreased substantially, particularly for distinguishing meditation styles, suggesting considerable inter-individual variability in meditation-related EEG patterns. Furthermore, temporal analysis revealed that classification performance increase over time, indicating that the neural distinctions between meditation states become increasingly pronounced over time. Additionally, t-SNE visualization showed clear within-subject clustering but increased overlap across subjects, explaining the reduced inter-subject generalization. Overall, these findings highlight the potential of EEG-based machine learning for personalized assessment and monitoring of meditative states while emphasizing the challenges of developing subject-independent meditation classification systems.",
+      "journal": "bioRxiv",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "shamatha"
       ]
     },
     {
-      "title": "Functional connectivity-related changes underlying mindfulness meditation for internet gaming disorder: a randomized clinical trial",
-      "url": "https://www.semanticscholar.org/paper/b6e9d56753bd7bdee86df1e43ebdf5203e8022ca",
+      "title": "Three Stages of Understanding: Assimilation as a Way of Comprehending Buddhist Thought",
+      "url": "https://www.semanticscholar.org/paper/c2bd9109c032fce13079f7c32aa5e70cb2c6e3ed",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-07-31T00:00:00",
-      "date_fetched": "2026-09-21T17:20:17.392295",
-      "doi": "10.1038/s44184-025-00154-6",
+      "date_published": "2026-01-21T00:00:00",
+      "date_fetched": "2026-09-22T15:53:39.285957",
+      "doi": "10.21146/0042-8744-2026-1-158-163",
       "authors": [
         {
-          "name": "Xue-Feng Xu",
-          "author_id": "2299427815",
-          "affiliation": null
-        },
-        {
-          "name": "Haosen Ni",
-          "author_id": "2278316775",
-          "affiliation": null
-        },
-        {
-          "name": "HuaBin Wang",
-          "author_id": "2299482218",
-          "affiliation": null
-        },
-        {
-          "name": "Tongtong Wang",
-          "author_id": "2293658435",
-          "affiliation": null
-        },
-        {
-          "name": "Chang Liu",
-          "author_id": "2299910812",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaolan Song",
-          "author_id": "2299530334",
-          "affiliation": null
-        },
-        {
-          "name": "Guang-Heng Dong",
-          "author_id": "2236700422",
+          "name": "Pavel Anuchin",
+          "author_id": "2348411029",
           "affiliation": null
         }
       ],
-      "abstract": "Internet gaming disorder (IGD) is recognized as a mental health issue. Traditional interventions have limitations, but mindfulness meditation (MM) shows promise due to its flexibility and social acceptance. Study 1, fMRI data from 61 IGD patients and 60 healthy controls (HCs) were compared to assess functional connectivity (FC). Study 2- a randomized clinical trial, 80 IGD patients underwent either an MM intervention (twice-weekly for 8 sessions) or progressive muscle relaxation (PMR) as a control (pre-registered-Chinese clinical trial registry, ChiCTR2300075869, September 18, 2023). Study 1 revealed abnormal FC within the executive control network (ECN) and between the ECN and reward network in IGD patients. Study 2 showed that MM enhanced FC within the ECN and frontostriatal pathway. MM refining the coupling between brain regions involved in executive control and reward processing. This enhancement improves top-down control over game craving. These findings suggest that MM can effectively treat IGD.",
-      "journal": "npj Mental Health Research",
-      "year": 2025,
+      "abstract": "The paper suggests to consider the three-stage scheme of understanding, praj\u00f1\u0101, proposed by Buddhists in the Digha-nikaya: \u015brutamay\u012b \u2013 cint\u0101may\u012b \u2013 bh\u0101van\u0101\u00admay\u012b. We find it in Vasubandhu\u2019s Abhidharmako\u015ba (4th century) and Ka\u00admalashila\u2019s Bhavanakrama (8th century). Having a place in the mainstreams of Buddhism (Shravakayana and Mahayana), this scheme largely retained its sig\u00adnificance and played a fundamental role as a methodology for mastering know\u00adledge. Passing through the three stages is a necessary condition for a person to function in the role of a Buddhist, which is conditioned by the need to under\u00adstand the logical structure of the teachings proposed by the Buddha and master this material as part of the ontological picture. The study of Buddhist philosophy thus points not only to the need to understand the content of the teaching, but also to a special activity whose task is to remove the linguistic mediation from the content and assimilate it as the reality of the researcher. Special attention is paid to the third stage \u2013 bh\u0101van\u0101may\u012b. A study on a related term was done by Vladimir P. Ivanov, where he comes to understand bhavana as \u2018an urge to being\u2019 or cultivation. Consideration of the constituent parts of the content of this con\u00adcept \u2013 shamatha and vipashyana \u2013 leads us to the connection of bhavana with the third stage of understanding.",
+      "journal": "Voprosy filosofii",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "shamatha"
       ]
-    }
-  ],
-  "articles": [
+    },
     {
-      "title": "Could AI Have Consciousness That Isn\u2019t Human-Like?",
-      "url": "https://nautil.us/could-ai-have-consciousness-that-isnt-human-like-1285156/",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-09-21T14:00:00",
-      "date_fetched": "2026-09-21T17:21:05.960176",
-      "doi": null,
+      "title": "The mediating role of self-compassion in the relationship between negative menstrual attitudes and premenstrual syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766207/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-21T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832606",
+      "doi": "10.1007/s00737-026-01761-8",
       "authors": [
         {
-          "name": "Kristen French",
+          "name": "\u00d6zlem Ak\u0131n Yamak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hilal G\u00fcl Boyraz Yan\u0131k",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "N\u00fcl\u00fcfer Erbil",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Nautilus",
-      "excerpt": "Philosopher Peter Godfrey-Smith on AI consciousness and existential risk The post Could AI Have Consciousness That Isn\u2019t Human-Like? appeared first on Nautilus.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "consciousness"
-      ]
+      "abstract": "PURPOSE: Self-compassion, an important component of mindfulness, may influence experiences related to menstruation and the severity of premenstrual syndrome (PMS). This study aimed to determine the mediating role of self-compassion in the relationship between negative menstrual attitudes and premenstrual syndrome in women. METHODS: A total of 261 women were recruited via social media platforms and completed an online survey developed using Google Forms in this descriptive and correlational cross-sectional design study. Data were collected using a Personal Information Form, Premenstrual Syndrome Scale (PMSS), Self-Compassion Scale Short Form (SCS-SF), and Negative Menstrual Attitudes Assessment Scale (NMAS). RESULTS: The mean age of the women participating in the study was 26.87\u2009\u00b1\u20097.92, 76.3% were university graduates, and 29.1% were married. It was determined that 74.7% of the women had PMS, and 29.5% had a high level of negative menstrual attitude. According to the cut-off scores of the PMSS subscales, 83.9% of women experienced fatigue, 81.6% swelling, 78.9% depressive moods, 78.9% changes in appetite, 79.3% irritability, 68.6% pain, 65.5% changes in sleeping habits, 59.4% depressive thoughts, and 43.3% experienced anxiety above the moderate level. Regression analysis revealed that the predictors of premenstrual syndrome were self-compassion and negative menstrual attitudes (p\u2009<\u20090.05). Furthermore, the findings were statistically consistent with a partial mediation model involving self-compassion in the relationship between negative menstrual attitudes and premenstrual syndrome (p\u2009<\u20090.001). DISCUSSION: The findings were statistically consistent with a partial mediation model in which self-compassion was associated with the relationship between negative menstrual attitudes and premenstrual syndrome. Negative menstrual attitudes were associated with premenstrual syndrome both directly and indirectly through self-compassion. Healthcare professionals are in a key position to assess attitudes towards menstruation and provide supportive interventions. Incorporating self-compassion-based approaches and menstrual health education into routine care can help reduce PMS-related distress and improve overall well-being.",
+      "journal": "Archives of women's mental health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Accelerated TMS is associated with changes of subgenual cingulate-default mode network coupling in depression: an observational 7 Tesla fMRI study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762242/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-19T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832771",
+      "doi": "10.1007/s00406-026-02355-2",
+      "authors": [
+        {
+          "name": "Tobias Bracht",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pascal Borel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stefan Dendorfer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Leila M Soravia",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kristina Adorjan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sebastian Walther",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andrea Federspiel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Roland Wiest",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gianluca A Florineth",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Niklaus Denier",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Accelerated transcranial magnetic stimulation (aTMS) is an effective treatment for depression, but its neurobiological mechanisms of action remain to be elucidated. This study used high-resolution 7-Tesla MRI to investigate changes in resting-state functional connectivity (rs-FC) of the subgenual anterior cingulate cortex (sgACC) following a treatment series of aTMS. We hypothesized a decrease in sgACC rs-FC with key cortical regions of the default mode network (DMN), reflecting a downregulation of a network that is overactive in depression. METHODS: Twenty-two patients with current depression underwent 7-Tesla MRI scans before and after a two-week aTMS treatment series (24,000 pulses) targeting the left dorsolateral prefrontal cortex. Fourteen healthy participants were also scanned twice as a control group. Longitudinal changes in sgACC seed-based rs-FC were compared between groups. Furthermore, group differences were assessed at baseline and at follow-up. Exploratory correlations between longitudinal changes in sgACC rs-FC, depression severity, mindfulness, and affect were also evaluated. RESULTS: There was a reduction in rs-FC between the sgACC and bilateral precunei, and between sgACC and left frontal pole in patients receiving aTMS. At baseline, patients had increased rs\u2011FC between the sgACC and a cluster including the left precuneus and a cluster in the right superior frontal gyrus. Exploratory correlations suggest an association between sgACC-precunei rs-FC changes and mindfulness (p\u2009=\u20090.008, uncorrected for multiple comparisons), while no associations were found with depression severity or affect. CONCLUSIONS: Treatment with aTMS is associated with a reduction in rs\u2011FC between the sgACC and the DMN. Exploratory correlations with mindfulness warrant replication in larger, independent samples.",
+      "journal": "European archives of psychiatry and clinical neuroscience",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Virtual mindfulness-based wellness coaching to support mental health during the COVID-19 pandemic: Thematic analysis of participants' experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765463/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-21T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832795",
+      "doi": "10.1002/ajcp.70110",
+      "authors": [
+        {
+          "name": "Slobodan Stojanovic",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Meysam Pirbaglou",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Carolyn Tyner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Erin Smith",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Camrie Kerry",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Paul Ritvo",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "The COVID-19 pandemic and associated disruptions adversely impacted physical and mental health. The shift to remote delivery of medical and psychological services provided opportunities to disseminate effective community interventions, unimpeded by needs for local in-person meetings. This study focuses on the responses of older adults to the virtual community Mindfulness-based Wellness Coaching (MBWC) intervention that was delivered by the YMCA of Greater Toronto. We focus on the thematic analysis of semi-structured interviews of 23 participants who were regular attendees. Themes identified pertain to participants perspectives on reasons for attendance, key intervention practices, and benefits. In relation to reasons for attendance, responses indicated the influence of (1) pandemic-related coping difficulties, and (2) prior experiences with meditation-based practices. Responses highlighted in key intervention practices were: (1) regular practice, (2) open and nonprescriptive guidance, and (3) group dialogue. Participants found the intervention effective in supporting mindful attitudes which manifested in increased: (1) interpersonal awareness, (2) intrapersonal awareness, and (3) effective coping. Given the consistent enrolment during the pandemic and participants' perspectives, virtual MBWC is a feasible and scalable mental health intervention.",
+      "journal": "American journal of community psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Social Support in Group Medical Visits for Chronic Pain in Primary Care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767945/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-21T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832820",
+      "doi": "10.1370/afm.250684",
+      "authors": [
+        {
+          "name": "Hee Joo Ko",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jhia L N Jackson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ariana Thompson-Lastad",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jesse Wennik",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pamela Swedlow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria T Chao",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: Social support is associated with improved outcomes for people with chronic pain and is an important but understudied component of biopsychosocial pain care. We sought to explore how group medical visits facilitate 4 distinct types of social support-emotional, appraisal, informational, and instrumental-among primary care patients with chronic pain. METHODS: We collected qualitative data within a randomized trial of integrative group medical visits for chronic pain, focusing on 2 cohorts of English-speaking patients randomized to group medical visits. Data came from 16 observed group medical visits, 2 focus groups, and 12 semistructured interviews. The group medical visit intervention entailed 12 weekly sessions combining clinical care, pain education, mindfulness meditation, therapeutic movement, and facilitated discussion. We analyzed data using team-based flexible coding and codebook thematic analysis. RESULTS: The 26 participating patients were predominantly low-income (80.8% had an annual household income of less than $50,000); 50.0% identified as Black or African American, 15.4% as Hispanic or Latine, and 23.1% as White. On average, they had severe pain with a mean intensity rating of 7.7 out of 10. All 4 social support types emerged through structured program components (curriculum, facilitation strategies, program structure) and interactions among peers and facilitators. Emotional support fostered belonging and countered isolation and stigma. Appraisal support normalized struggles and fostered self-compassion. Informational support combined interactive education with peer-to-peer knowledge exchange. Instrumental support provided concrete assistance. CONCLUSIONS: Our findings illustrate how group medical visits for chronic pain mobilize 4 interwoven and reinforcing forms of social support as core therapeutic processes. They also highlight group medical visits as a potential model for biopsychosocial chronic pain management among primary care patients.",
+      "journal": "Annals of family medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A daily diary study of reciprocal associations between young adults' loneliness and problematic social media use through psychological distress symptoms: The buffering roles of mindfulness and self-compassion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765979/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-21T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832913",
+      "doi": "10.1037/dev0002276",
+      "authors": [
+        {
+          "name": "Hongjian Cao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kunru Song",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yao Zheng",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yue Liang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuan-Wei Yao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nan Zhou",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Loneliness and problematic social media use (PSMU) are two modern epidemics worldwide, which are often comorbid and prevalent among young adults. The design of everyday interventions calls for scientific endeavors that address how they may reciprocally influence each other on microtimescales and identify modifiable mechanisms. Using a 30-day daily diary design, this study examined the link between loneliness and PSMU among 209 Chinese young adults (",
+      "journal": "Developmental psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A digital mindfulness application for African American caregivers of people living with HIV/AIDS: feasibility trial findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42764478/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-20T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832934",
+      "doi": "10.1080/09540121.2026.2731765",
+      "authors": [
+        {
+          "name": "K Alexander",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "S B Carswell",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "R Woolworth",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "A Simpson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "J Gryczynski",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "As people living with HIV/AIDS (PLWHA) live longer, they increasingly rely on informal caregivers. African American caregivers of PLWHA may face elevated risk for stress-related health problems from caregiving demands, HIV-related stigma, racial discrimination, and limited access to culturally responsive services. Mindfulness-based interventions can reduce caregiver stress, but in-person delivery may not be feasible. This study evaluated the feasibility of an enhanced digital mindfulness app for these caregivers, addressing recruitment, engagement, retention, and acceptability. A sequential mixed-methods design included qualitative interviews (",
+      "journal": "AIDS care",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Embodied Transformation: Psychedelic Therapy Through the Lens of Merleau-Ponty's Phenomenology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766211/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-21T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832955",
+      "doi": "10.1007/s12124-026-10029-w",
+      "authors": [
+        {
+          "name": "Zinet Ritschel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brady Wagoner",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper develops a phenomenological account of the therapeutic significance of psychedelic-induced mystical experience, drawing on the philosophy of Maurice Merleau-Ponty. The central argument holds that the enduring therapeutic benefits of psychedelics emerge through a radical transformation in the structure of lived experience. Two prominent objections to the therapeutic value of mystical experience are examined and shown to rest on implicit Cartesian assumptions that obscure the embodied, situated character of human experience. Using Merleau-Ponty's concepts of the body-subject and the intentional arc, depression is analysed as a collapse of perceptual attunement and engagement with the world, while psychedelic-induced mystical experience is shown to instantiate the opposite structure, recalibrating the intentional arc and restoring pre-reflective meaning. A phenomenological analysis of the acute mystical experience substantiates this claim, before a final response to the objection that psychedelic experiences are merely hallucinatory, arguing, via Merleau-Ponty's account of perception as irreducible to passive reflection, that such experiences may still disclose meaningful dimensions of the world.",
+      "journal": "Integrative psychological & behavioral science",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Visual snow syndrome as a neuropsychiatric network disorder: clinical features, mechanisms, and therapeutic perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763835/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-20T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.832977",
+      "doi": "10.1007/s00415-026-14137-w",
+      "authors": [
+        {
+          "name": "Qing Huang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jing Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lichao Zhao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xuanyue Yu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Weina Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Zeyuan Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yi Liu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Visual Snow Syndrome (VSS) is a neurological condition characterized by the persistent perception of dynamic, flickering, dot-like visual disturbances across the entire visual field, resembling television static. Increasing evidence indicates that VSS is frequently accompanied by a broad spectrum of psychiatric symptoms, including anxiety, depression, depersonalization, fatigue, and sleep disturbances, all of which substantially impair quality of life. Although the pathogenesis of VSS remains incompletely understood, Current evidence increasingly suggests that VSS may represent a multisystem neuropsychiatric network disorder involving visual cortical hyperexcitability, thalamocortical dysrhythmia, widespread abnormalities in functional connectivity, and limbic system dysfunction. Psychiatric symptoms may partly reflect intrinsic neurobiological mechanisms of the syndrome rather than being solely secondary psychological reactions to chronic visual disturbances. Current pharmacological therapies generally show limited efficacy. Preliminary evidence suggests that non-pharmacological approaches, including neuromodulation, tinted lenses, and mindfulness-based interventions, may offer therapeutic potential with relatively favorable tolerability, although larger controlled studies are still required. Future research should adopt multidisciplinary strategies integrating neurology, psychiatry, neuroimaging, and genetics to further elucidate the mechanisms underlying VSS and facilitate the development of precision diagnostic and therapeutic approaches.",
+      "journal": "Journal of neurology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Can a mindful medicine workshop improve healthcare professional well-being? A quasi-experimental study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767797/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-22T00:00:00",
+      "date_fetched": "2026-09-22T15:54:19.833066",
+      "doi": "10.1071/HC26126",
+      "authors": [
+        {
+          "name": "Kendall Crossen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brigitte Eastwood",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jeremy Rossaak",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Burnout and psychological distress are common among healthcare professionals. Mindfulness-based strategies delivered over several weeks have been shown to improve well-being and reduce burnout. AIM: This study aimed to assess whether a brief mindfulness intervention could improve well-being in a heterogeneous healthcare workforce across primary and secondary care settings. METHOD: Healthcare professionals attending a 3-day Mindful Medicine Workshop (teaching participants to apply mindfulness principles to medicine) were invited to complete an online survey 1 week before the workshop and 3 months afterwards. Well-being was assessed using the Perceived Stress Scale (PSS) and Maslach Burnout Inventory (MBI). Participants were also asked about engagement in mindfulness practices. RESULTS: At baseline, 80% of participants reported moderate to high stress, with a mean PSS score of 19.6. This decreased to 14.0 at 3 months (P < 0.001). Baseline MBI scores indicated high emotional exhaustion (EE) (21.2) and depersonalisation (DP) (12.4). At 3 months, EE decreased to 16.4 (P = 0.036) and DP to 9.9 (P = 0.20). Personal accomplishment increased from 37.5 to 40.6 (P = 0.033). Participants engaging in mindfulness practices weekly or more frequently increased from 43% at baseline to 71% at 3 months (P = 0.012). DISCUSSION: Participation in a 3-day Mindful Medicine Workshop was associated with reduced perceived stress and emotional exhaustion, and increased personal accomplishment and engagement in mindfulness practices at 3 months. These findings suggest that a brief, intensive mindfulness-based intervention may be a feasible approach to supporting the well-being of healthcare professionals working across primary and secondary care in Aotearoa New Zealand.",
+      "journal": "Journal of primary health care",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
     }
-  ]
+  ],
+  "articles": []
 }
