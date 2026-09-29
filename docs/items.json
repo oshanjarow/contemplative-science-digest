@@ -1,391 +1,22 @@
 {
-  "generated_at": "2026-09-28T18:54:33.491492",
+  "generated_at": "2026-09-29T17:12:22.729832",
   "papers": [
     {
-      "title": "The Mindful Scientist: How Meditation Could Support Ethical Scientific Practice",
-      "url": "https://www.semanticscholar.org/paper/272cd77a1fed3d4b201bf72b3a029667357106bc",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-02T00:00:00",
-      "date_fetched": "2026-09-28T18:53:43.586007",
-      "doi": "10.1007/s12671-025-02646-0",
-      "authors": [
-        {
-          "name": "Kevin Berryman",
-          "author_id": "47829154",
-          "affiliation": null
-        },
-        {
-          "name": "Yan-Li Lin",
-          "author_id": "2284229956",
-          "affiliation": null
-        },
-        {
-          "name": "Sara W. Lazar",
-          "author_id": "2291000668",
-          "affiliation": null
-        },
-        {
-          "name": "D. C. Parra",
-          "author_id": "2385896358",
-          "affiliation": null
-        },
-        {
-          "name": "Amit Bernstein",
-          "author_id": "2278599523",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Ethical principles and societal regulations are critical to scientific integrity, but individual human factors greatly influence adherence to them. Personal virtues may play a significant role in reinforcing adherence to communal ethical scientific practices but remain largely unexplored. This paper examines how cultivating mindful ethical virtues through meditation could support scientific ethical principles. We propose that when practiced as skillful mental cultivation, meditation may help develop new personal virtues and strengthen or attune those already present\u2014such as conscience, regard for consequence, harmlessness, or equanimity. These virtues conceptually align with scientific ethical principles like accountability, intellectual humility, social good, and objectivity, suggesting that meditation could help bridge a gap between external collective ethical frameworks and the internal personal motivations that drive scientific conduct. In this sense, meditation could be in service of promoting good science. We outline a framework mapping this conceptual alignment and propose contemplative scientists are key to advancing empirical investigation into this connection. To support this, we recommend developing and evaluating Mindfulness-Based Ethical Development Interventions (MBED). These programs could integrate secular ethical instruction with meditation practices, providing a non-sectarian approach to cultivating ethical behaviors relevant to the scientific community. We hope to generate discussion on the potential role of meditation in enhancing ethical scientific conduct, and the significance of personal virtues in driving scientific progress. By focusing on the intersection of personal virtues and communal principles, we highlight the need for meta-scientific initiatives that prioritize and train undeveloped ethical virtues and strengthen those already present among scientists.",
-      "journal": "Mindfulness",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditation"
-      ]
-    },
-    {
-      "title": "Learning dual-scale context with overlap awareness for keypoint-driven partial-overlap medical image registration",
-      "url": "https://www.semanticscholar.org/paper/50e366b3f37484ccb636c024eaa0e0162cb4792e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-24T00:00:00",
-      "date_fetched": "2026-09-28T18:53:49.727818",
-      "doi": "10.1016/j.media.2026.104100",
-      "authors": [
-        {
-          "name": "Jia Mi",
-          "author_id": "2057694311",
-          "affiliation": null
-        },
-        {
-          "name": "Caiwen Jiang",
-          "author_id": "2136180304",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaosong Xiong",
-          "author_id": "2248117687",
-          "affiliation": null
-        },
-        {
-          "name": "Yulin Wang",
-          "author_id": "2322813387",
-          "affiliation": null
-        },
-        {
-          "name": "Kaicong Sun",
-          "author_id": "2239081204",
-          "affiliation": null
-        },
-        {
-          "name": "Xiaohuan Cao",
-          "author_id": "3379159",
-          "affiliation": null
-        },
-        {
-          "name": "Dinggang Shen",
-          "author_id": "2266841430",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Aligning medical images with partial anatomical overlap presents a significant challenge for various clinical applications that involve comparison of images with varying Fields of View. However, most existing registration methods implicitly assume full anatomical overlap and rely on local similarity measures, which limits their effectiveness when non-overlapping conditions exist. In this paper, we present a keypoint-driven registration framework for partial-overlap medical images, which builds robust cross-image correspondences by embedding anatomical contextual information directly into keypoint descriptors. The framework first detects sparse but anatomically representative keypoints and encodes each with a learned descriptor. These descriptors are then iteratively enhanced through a Dual-scale Context Aggregation Module (DualCAM), which jointly models global structures and local details to enhance descriptor discriminability. This process produces descriptors enriched with anatomical context for more reliable correspondence matching. Furthermore, we introduce an overlap-aware guidance mechanism that encourages the model to focus on the most reliable and anatomically consistent overlapping regions, mitigating interference from irrelevant non-overlapping regions and improving overall alignment accuracy. Extensive experiments conducted on two public multi-organ abdominal CT datasets demonstrate that our method surpasses state-of-the-art approaches across a wide range of overlap ratios, highlighting its robustness and strong generalization capability.",
-      "journal": "Medical Image Anal.",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "non-dual awareness"
-      ]
-    },
-    {
-      "title": "Non-coronagraphic PSF engineering for space domain awareness",
-      "url": "https://www.semanticscholar.org/paper/bf59c51040feccbc821cc8a25045b72c06481cf7",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-08-19T00:00:00",
-      "date_fetched": "2026-09-28T18:53:49.727841",
-      "doi": "10.1117/12.3104177",
-      "authors": [
-        {
-          "name": "Douglas A. Hope",
-          "author_id": "2307674492",
-          "affiliation": null
-        },
-        {
-          "name": "Fabien R. Baron",
-          "author_id": "2266799571",
-          "affiliation": null
-        },
-        {
-          "name": "Stuart M. Jefferies",
-          "author_id": "2246489653",
-          "affiliation": null
-        },
-        {
-          "name": "Dmitriy V. Shcherbik",
-          "author_id": "2266801851",
-          "affiliation": null
-        },
-        {
-          "name": "Jeff Kuhn",
-          "author_id": "2307672827",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The detection of planets orbiting other stars is an active area of research. Because host stars are vastly brighter than their planets, coronagraphs, together with computational imaging, are commonly used to suppress stellar light and enable direct detection; detailed characterization typically requires follow-up spectroscopy and careful post-processing. We propose non-coronagraphic PSF engineering to address an analogous problem in imaging satellites from large ground-based telescopes. In this scenario the goal is to image the satellite, characterize its surface materials and detect any potential debris in proximity to the satellite. This dual characterization and detection problem is a key requirement in space domain awareness (SDA) where an awareness of spacecraft and their environment is crucial for maintaining space access. The ability of PSF engineering to enhance simultaneous characterization of the main satellite and source detection near it is investigated.",
-      "journal": "Astronomical Telescopes + Instrumentation",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "non-dual awareness"
-      ]
-    },
-    {
-      "title": "AHP-Based Evaluation of Core Non-Technical Skills for Seafarers in Maritime Operations",
-      "url": "https://www.semanticscholar.org/paper/af9f22e0c7bf7a5ffab34dba83e43d365ee1d56a",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-09T00:00:00",
-      "date_fetched": "2026-09-28T18:53:49.728057",
-      "doi": "10.52998/trjmms.1703538",
-      "authors": [
-        {
-          "name": "A. Kuzu",
-          "author_id": "2078986174",
-          "affiliation": null
-        },
-        {
-          "name": "Umut Ta\u00e7",
-          "author_id": "2377105599",
-          "affiliation": null
-        }
-      ],
-      "abstract": "As digital technologies and automation continue to reshape the maritime industry, the focus is gradually shifting from technical to non-technical skills among seafarers. With machines increasingly taking over routine operational tasks, competencies such as communication, decision-making, and situational awareness are becoming essential for safe and effective shipboard operations. This study investigates the role of non-technical skills in maritime transportation by drawing on insights from expert consultations and a systematic review of academic literature. Through this dual approach, five core competencies were identified as particularly relevant to safe and effective shipboard operations: teamwork, communication, situational awareness, decision-making, and leadership. To assess the relative importance of these competencies, the Analytic Hierarchy Process (AHP) was employed, enabling structured prioritization based on expert judgments. This method provided a clear understanding of which non-technical skills are most critical in contemporary maritime contexts. Results highlight situational awareness as the most critical non-technical skill, underlining its importance in dynamic and high-risk environments. The findings offer practical guidance for maritime training providers and organizations aiming to improve crew development, recruitment, and operational safety through a more targeted focus on non-technical skills. \n \nKeywords: AHP, Human factor, Multi criteria decision making, Non-technical skills",
-      "journal": "Turkish Journal of Maritime and Marine Sciences",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "non-dual awareness"
-      ]
-    },
-    {
-      "title": "Improving Flourishing Through Utilization of Group Dynamics and Lifestyle Education: A Case Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42801038/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-25T00:00:00",
-      "date_fetched": "2026-09-28T18:54:32.416301",
-      "doi": "10.1177/15598276261491713",
-      "authors": [
-        {
-          "name": "Anna Dysart",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Minu Sara Thomas",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Healthcare workers show higher rates of burnout and lower rates of flourishing (overall well-being). Many interventions target healthcare workers already in the field or graduate students. This group-dynamics based intervention targeted undergraduate healthcare students to promote flourishing. The intervention targeted physical activity, mindfulness, nutrition, and self-care as foundational ways to support overall flourishing. Participants were recruited from an undergraduate population to attend 4 educational and activity sessions. Surveys were completed pre-, post- and 6-months post intervention. Surveys included the validated Standford Leisure-Time Activity Categorical Item (L-Cat) to measure physical activity, the Short Healthy Eating Index Survey (sHEI) to measure healthy eating, and Secure Flourishing Index (SFI) to measure flourishing. During the 4 weekly intervention meetings, participants learned about ways to promote health and flourishing and participated in hands-on activities and active discussions. There was no statistical improvement in physical activity or healthy eating, but flourishing was statistically improved post-intervention (",
-      "journal": "American journal of lifestyle medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Exploring the Feasibility and Acceptability of Compassion and Mindfulness Training for Adolescents With Type 1 Diabetes and Their Caregivers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803678/",
+      "title": "Corrigendum to \"Complementary therapies for chronic knee pain: A placebo-controlled RCT of Reiki and mindfulness\" [Complement Ther Med 95 (2025) 103278].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805879/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-28T00:00:00",
-      "date_fetched": "2026-09-28T18:54:32.416836",
-      "doi": "10.1111/apa.70777",
+      "date_fetched": "2026-09-29T17:12:21.189991",
+      "doi": "10.1016/j.ctim.2026.103440",
       "authors": [
         {
-          "name": "Emilie Bundgaard Lindkvist",
+          "name": "Adam W Hanley",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Steffen U Thorsen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cecilie Paulsrud",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stine M\u00f8ller Sildorf",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annette Korsholm Mouritsen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lone Fjorback",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nanja Holland Hansen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jannet Svensson",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "AIM: To examine the feasibility and acceptability of mindfulness training for adolescents with Type 1 diabetes (T1D) and compassion training for caregivers. METHODS: Adolescents aged 12-17\u2009years with T1D, and their caregivers were recruited from two diabetes centres between 2022 and 2023 to participate in an eight-week, online, open-label course (Mindfulness training for adolescents; compassion training for parents). Patient-reported outcomes, glycaemic outcomes and stress measures were collected during pre-specified in-clinic visits. The changes over the course of the study were assessed descriptively. RESULTS: Thirteen adolescents (age 13.6\u2009\u00b1\u20091.2\u2009years; 62% female) and 30 caregivers (age 46.8\u2009\u00b1\u20094.7\u2009years; 65% female; 83% with medium- or long-term education) were enrolled; nine adolescents and 21 parents completed this feasibility study. Interventions were delivered in two rounds. After introducing a face-to-face pre-meeting before the second round, adherence and retention improved, particularly among adolescents. Completers reported positive experiences and showed improvements in diabetes distress (PAID) and well-being (WHO-5). Qualitative findings suggested that increased parental calmness and kindness reduced parent-adolescent conflicts, and parents valued peer support and community. CONCLUSION: Compassion and mindfulness training appear feasible and may support mental well-being in families with T1D; however, broader reach requires integration into routine clinical care.",
-      "journal": "Acta paediatrica (Oslo, Norway : 1992)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Bolstering Reach: Tailoring Perinatal Mental Health Digital Care for Black and Native American Communities.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802509/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-27T00:00:00",
-      "date_fetched": "2026-09-28T18:54:32.416923",
-      "doi": "10.1111/birt.70114",
-      "authors": [
-        {
-          "name": "Roberta Suzette Hunte",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Taylor Shank",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maria Hayes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Veronica Eyo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David Starr",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "S M Blajeski",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kristen Mackiewicz Seghete",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ellen Tilden",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Perinatal depression is a leading cause of maternal mortality in the US. Center M, a Mindfulness-Based Cognitive Behavioral Therapy intervention, seeks to prevent perinatal depression through the development of a digital app to complement its' therapeutic intervention. The Center M app is used in conjunction with four, weekly, one-hour, telehealth group-based psychoeducational sessions facilitated by a mental health professional. The app facilitates home practice delivery, tracks mental health symptomatology, and provides additional mental health resources. Black and Native American communities are often underrepresented in perinatal mental health intervention research despite experiencing greater risk for perinatal depression. This qualitative study included seven 60-min semi-structured group and individual interviews to gather feedback from 21 Black and Native American women on the clickable app prototype. Participants were asked to provide feedback on acceptability and user experience, content relevancy and meaning, and recommendations for improvement to support greater acceptability. The Consolidated Framework for Implementation Research (CFIR) 2.0 was used to organize participants' perceptions of the Innovation domain [characteristics of the intervention being implemented and how these intervention characteristics shape implementation success], with a focus on app design and packaging; and the Individual domain [characteristics of individuals involved in implementation (e.g., individual beliefs, knowledge, identities) and how these individual characteristics shape implementation success], with a focus on groups' potential engagement as product end users. Identified themes include: (1) Innovation domain: inclusive app-specific structural recommendations for app development; (2) Individual Recipient domain: recommendations for culturally responsive approaches to mental health in app development; and cultural considerations to facilitate engagement of Native American and Black end users. Discussion addresses how recommendations from this study informed wider Center M app development and general recommendations for digital health development that is responsive to Black and Native American women's preferences.",
-      "journal": "Birth (Berkeley, Calif.)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mentalizing & InteRpersonal Recognition of Others' Relational States (MIRROR): a patient-directed intervention for navigating clinical encounters in chronic pain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803703/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-28T00:00:00",
-      "date_fetched": "2026-09-28T18:54:32.417140",
-      "doi": "10.1080/17581869.2026.2740677",
-      "authors": [
-        {
-          "name": "Jolin B Yamin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arvina Grahl",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alessandra Anzolin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Thi Dieu Ni Doan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Seneca Ellis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lara Gardiner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Isabella Hewardt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Soo Ahn Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jeungchan Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "John M Kelley",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ted Kaptchuk",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vitaly Napadow",
+          "name": "Yoshio Nakamura",
           "author_id": null,
           "affiliation": null
         },
@@ -393,10 +24,207 @@
           "name": "Robert R Edwards",
           "author_id": null,
           "affiliation": null
+        },
+        {
+          "name": "Ayaka Lingard",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kennedi Childs",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jim Faulkner",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ruthie Schnitt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Samantha Vaca-St Claire",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth Bridge",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric L Garland",
+          "author_id": null,
+          "affiliation": null
         }
       ],
-      "abstract": "INTRODUCTION: Chronic pain can lead to challenges in social functioning that extend into healthcare. The Mentalizing & InteRpersonal Recognition of Others' Relational States (MIRROR) intervention was developed to support patients' relational and communication skills in healthcare by targeting mentalizing (the ability to understand mental states of oneself and others). This paper describes MIRROR and reports preliminary findings regarding feasibility and acceptability across two pain samples. METHODS: Eleven patients with chronic low back pain (cLBP, mean age 39.64\u2009\u00b1\u200916.37) and 12 patients with fibromyalgia (FM, mean age 38.83\u2009\u00b1\u200915.25) completed the four-session intervention. Questionnaires assessed session value and applicability, perceived benefit and generalization, and Perceived Efficacy in Patient-Physician Interactions (PEPPI). RESULTS: Session ratings reflected moderate-to-high value and applicability (mean over 4 sessions: cLBP 1.22\u2009\u00b1\u20090.46, FM 1.45\u2009\u00b1\u20090.46; scale: -2 to 2), and perceived benefit and generalization (mean cLBP 0.88\u2009\u00b1\u20090.77, FM 0.71\u2009\u00b1\u20090.58; scale: -2 to 2). Exploratory pre-post changes in PEPPI scores indicated a medium effect observed in cLBP (Hedges' g\u2009=\u20090.52) and a small effect in FM (Hedges' g\u2009=\u20090.10). Open-ended feedback supported acceptability and feasibility. CONCLUSIONS: MIRROR appears feasible and acceptable as an intervention engaging mentalizing methods for enhancing patients' ability to navigate clinical interactions. Further research should evaluate whether engaging mentalizing abilities improves subsequent healthcare communication and outcomes. CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov identifier is NCT06157866.",
-      "journal": "Pain management",
+      "abstract": null,
+      "journal": "Complementary therapies in medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Comment on \"Correlation study of nutritional status, mental health, sleep quality, and prognosis in patients with acute myeloid leukemia: Construction of early warning combined with mindfulness awareness countermeasures\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805487/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-28T00:00:00",
+      "date_fetched": "2026-09-29T17:12:21.190382",
+      "doi": "10.1016/j.clnesp.2026.105154",
+      "authors": [
+        {
+          "name": "Yogesh Muthuraj",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sukumaran Clementswami",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Clinical nutrition ESPEN",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The lost physiology of consciousness: Ernst Gellhorn and the origins of homeostatic neuroscience.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42808207/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-29T00:00:00",
+      "date_fetched": "2026-09-29T17:12:21.190509",
+      "doi": "10.1080/0964704X.2026.2731934",
+      "authors": [
+        {
+          "name": "Emmanuel Drouin",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Contemporary neuroscience often presents modern theories of consciousness as products of the cognitive revolution and computational neuroscience. Yet several neurophysiologists before and during the early cybernetic period had already developed sophisticated physiological models of conscious states grounded in bodily regulation, autonomic integration, hypothalamic function and global neural activation. Among these figures, Ernest Gellhorn (1935-2005) occupies a remarkable place. In ",
+      "journal": "Journal of the history of the neurosciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Hypnosis Using Cognitive Rehabilitation Versus Mindfulness Suggestions on Working Memory and Therapeutic Alliance in Patients in Alcohol Treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804666/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-28T00:00:00",
+      "date_fetched": "2026-09-29T17:12:21.190573",
+      "doi": "10.1080/00207144.2026.2728581",
+      "authors": [
+        {
+          "name": "Timo L Kvamme",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jonas Lindel\u00f8v",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Susanne Bollerup Overgaard",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mads Uffe Pedersen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kristine R\u00f8mer Thomsen",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Excessive alcohol use can impair working memory, potentially hindering treatment outcomes. Suggestion-Based Cognitive Rehabilitation (SBCR), a hypnotic technique of potential benefit for restoring working memory in brain injury patients, may hold promise for alcohol use disorder (AUD). This randomized controlled trial compared SBCR-hypnosis to mindfulness-based hypnosis among individuals in AUD treatment. Forty-one participants who were at an inpatient facility were randomized to four weekly sessions of either intervention. Pre- and post-intervention assessments included working memory, well-being, alexithymia, abstinence confidence, and therapeutic alliance. Three-month follow-ups assessed relapse, abstinence confidence, and mental health. Analyses included repeated measures ANOVA, recurrent event regression, and structural equation modeling informed by factor analysis. No significant between-group differences emerged. However, both groups showed improved well-being. Exploratory analysis identified a latent therapeutic improvement factor influenced by trait absorption. Structural equation modeling revealed that SBCR-hypnosis predicted greater therapeutic alliance improvement, which further predicted reduced relapse, enhanced abstinence confidence, and improved mental health. Although SBCR-hypnosis was not superior on clinical AUD outcomes, it may uniquely enhance therapeutic alliance, a potential mechanism worth exploring in future studies.",
+      "journal": "The International journal of clinical and experimental hypnosis",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806363/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-28T00:00:00",
+      "date_fetched": "2026-09-29T17:12:21.190616",
+      "doi": "10.1186/s12916-026-05129-8",
+      "authors": [
+        {
+          "name": "Zihang Tong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Guancheng Ye",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shun Fan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yusheng Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiacheng Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Haining Zhang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qiaoling Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hongyi Wang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Huanan Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jingui Wang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Insomnia is a prevalent global sleep disorder. Digital therapeutics, delivered via online platforms, offer novel intervention options. However, existing systematic reviews largely focus on validating individual digital therapeutics, with limited comparative evidence across different types within a unified network. This network meta-analysis aims to evaluate the comparative effectiveness of various digital therapeutics on sleep quality, thereby providing evidence-based guidance for clinical decision-making in insomnia management. METHODS: PubMed, Cochrane Library, Embase, and Web of Science were systematically searched and included eligible randomized controlled trials (RCTs). Outcomes included the Insomnia Severity Index (ISI), the Pittsburgh Sleep Quality Index (PSQI), sleep diary and objective sleep parameters. Sleep diary parameters included subjective total sleep time (sTST), subjective wake after sleep onset (sWASO), subjective sleep onset latency (sSOL), and subjective sleep efficiency (sSE); objective sleep parameters included total sleep time (TST), wake after sleep onset (WASO), sleep efficiency (SE), and sleep onset latency (SOL). Furthermore, the minimal clinically important difference (MCID) was employed to evaluate the clinical relevance of all outcomes. RESULTS: A total of 96 RCTs comprising 18,419 participants were included, assessing 6 digital therapeutics: digital cognitive behavioral therapy (dCBT), digital brief behavioral therapy (dBBT), digital mindfulness-based therapy (dMBT), circadian rhythm support (CRS), virtual reality (VR), and tele-neurofeedback (NFB). Quality assessment of the included studies revealed that 2 low risk, 79 some concerns, 15 high risk. Network meta-analysis indicated that, compared with control treatment (CT), dCBT likely resulted in a significant decrease in ISI score (MD: -4.24 points, 95% CI: -4.83 to -\u20093.65; moderate-certainty evidence), a reduction in PSQI score (MD: -2.28 points, 95% CI: -2.88 to -\u20091.68; low-certainty evidence), shortened sSOL (MD: -12.57\u00a0min, 95% CI: -15.14 to -\u200910.00; low-certainty evidence), improved sSE (MD: 7.27%, 95% CI: 5.77 to 8.77; low-certainty evidence), and reduced sWASO (MD: -17.19\u00a0min, 95% CI: -20.96 to -\u200913.41; low-certainty evidence). dMBT significantly reduced ISI score (MD: -2.28 points, 95% CI: -4.00 to -\u20090.55; low-certainty evidence) and shortened SOL (MD: -7.96\u00a0min, 95% CI: -15.50 to -\u20090.42; moderate-certainty evidence). Based on an inconsistency model, VR substantially reduced WASO (MD: -13.38\u00a0min, 95% CI: -24.40 to -\u20092.36; moderate-certainty evidence). Of these findings, only dCBT reached the MCID for ISI improvement. NFB, dBBT, and CRS did not demonstrate statistically significant effects relative to CT for any of the outcomes. Given the constraints in the number of studies and sample sizes, the findings derived from objective outcomes warrant cautious interpretation. CONCLUSIONS: Digital therapeutics constitute a promising intervention for enhancing sleep quality. dCBT optimally reduces insomnia severity; other outcomes are statistically significant but fail to reach the MCID, leaving their clinical significance uncertain. Moreover, the majority of effect estimates derived from head-to-head comparisons among different digital therapeutics remain insufficiently precise. Future studies are warranted to confirm and expand upon these findings through large-scale, high-quality RCTs. TRIAL REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251269932.",
+      "journal": "BMC medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -404,5 +232,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "How Pawe\u0142 Pawlikowski Learned to Film Europe\u2019s Fractures",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/pawel-pawlikowski-profile",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-09-28T10:00:00",
+      "date_fetched": "2026-09-29T17:12:21.897492",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Anthony Lane",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "The Polish director has made a career out of examining the mysteries of borders, both spiritual and political.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "spiritual"
+      ]
+    }
+  ]
 }
