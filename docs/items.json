@@ -1,68 +1,88 @@
 {
-  "generated_at": "2026-09-29T17:12:22.729832",
+  "generated_at": "2026-09-30T17:10:24.445399",
   "papers": [
     {
-      "title": "Corrigendum to \"Complementary therapies for chronic knee pain: A placebo-controlled RCT of Reiki and mindfulness\" [Complement Ther Med 95 (2025) 103278].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805879/",
+      "title": "From cacophony to hierarchy: a principled framework for assessing AI consciousness",
+      "url": "https://www.semanticscholar.org/paper/d325ddee4a157c69c4c17da7290bf5edbd316854",
       "item_type": "paper",
-      "source_type": "pubmed",
+      "source_type": "semantic_scholar",
       "date_published": "2026-09-28T00:00:00",
-      "date_fetched": "2026-09-29T17:12:21.189991",
-      "doi": "10.1016/j.ctim.2026.103440",
+      "date_fetched": "2026-09-30T17:09:26.438094",
+      "doi": null,
       "authors": [
         {
-          "name": "Adam W Hanley",
-          "author_id": null,
+          "name": "S. Chandaria",
+          "author_id": "118775812",
           "affiliation": null
         },
         {
-          "name": "Yoshio Nakamura",
-          "author_id": null,
+          "name": "Arvo Mu\u00f1oz Mor\u00e1n",
+          "author_id": "2324627222",
           "affiliation": null
         },
         {
-          "name": "Robert R Edwards",
-          "author_id": null,
+          "name": "Fernando E. Rosas",
+          "author_id": "2354179964",
           "affiliation": null
         },
         {
-          "name": "Ayaka Lingard",
-          "author_id": null,
+          "name": "Anil K. Seth",
+          "author_id": "2323507711",
           "affiliation": null
         },
         {
-          "name": "Kennedi Childs",
-          "author_id": null,
+          "name": "Henry Shevlin",
+          "author_id": "66652934",
           "affiliation": null
         },
         {
-          "name": "Jim Faulkner",
-          "author_id": null,
+          "name": "Marcus Hutter",
+          "author_id": "2285283690",
           "affiliation": null
         },
         {
-          "name": "Ruthie Schnitt",
-          "author_id": null,
+          "name": "T. Graepel",
+          "author_id": "1686971",
           "affiliation": null
         },
         {
-          "name": "Samantha Vaca-St Claire",
-          "author_id": null,
+          "name": "Adam Bales",
+          "author_id": "8388596",
           "affiliation": null
         },
         {
-          "name": "Elizabeth Bridge",
-          "author_id": null,
+          "name": "I. Comsa",
+          "author_id": "30134687",
           "affiliation": null
         },
         {
-          "name": "Eric L Garland",
-          "author_id": null,
+          "name": "M. Shanahan",
+          "author_id": "1757629",
+          "affiliation": null
+        },
+        {
+          "name": "R. Laukkonen",
+          "author_id": "8103511",
+          "affiliation": null
+        },
+        {
+          "name": "M. Kringelbach",
+          "author_id": "2277456007",
+          "affiliation": null
+        },
+        {
+          "name": "C. Frith",
+          "author_id": "114708807",
+          "affiliation": null
+        },
+        {
+          "name": "Shane Legg",
+          "author_id": "2265490154",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Complementary therapies in medicine",
+      "abstract": "The question of AI consciousness is one of the most urgent pre-emptive problems in philosophy and computer science, yet progress is hampered by a cacophony of competing theories that often talk past each other. Separating the hard problem from the mapping problem allows the deepest metaphysical disagreements to be set aside: granting that experience supervenes on a system's organisation, the tractable question becomes at which grain of description that supervenience base sits. We extend Marr's three levels of analysis into a five-level hierarchy of functional descriptions (behavioural, computational, intrinsic causal-structural, organismic, and organism-environment) grounded in supervenience, coarse-graining, and multiple realisability. The major theories of consciousness are positioned within this hierarchy according to which level they take to be critical, and for each level we develop operationalisable indicators and assess current AI systems against them. A Bayesian model then combines theoretical credences with indicator evidence into an overall credence in a system's capacity for consciousness. In illustrative assessments, the verdict for current LLMs is driven as much by where theoretical credence is placed as by how the evidence is read: under different stipulated readings and credence distributions, assessments range from below 0.01 to roughly 0.8, showing sensitivity to assumptions. Finally, the consciousness indicators at each level closely overlap with the architectural features needed for general intelligence, suggesting that increasingly capable AI may become a stronger candidate for consciousness. The framework supports a structured agnosticism, in which theoretical commitments are made explicit, credences are updated as evidence accumulates, and assessments take the form of aggregated probabilities rather than verdicts.",
+      "journal": "",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -70,27 +90,102 @@
       "matched_keywords": []
     },
     {
-      "title": "Comment on \"Correlation study of nutritional status, mental health, sleep quality, and prognosis in patients with acute myeloid leukemia: Construction of early warning combined with mindfulness awareness countermeasures\".",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805487/",
+      "title": "Transformative Effects of Mindfulness Meditation Training on the Dynamic Reconfiguration of Executive and Default Mode Networks in Internet Gaming Disorder",
+      "url": "https://www.semanticscholar.org/paper/7af4c10b4826af934bac8c4c8c614776d3eac6a8",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-09-28T00:00:00",
-      "date_fetched": "2026-09-29T17:12:21.190382",
-      "doi": "10.1016/j.clnesp.2026.105154",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-09-30T17:09:34.805367",
+      "doi": "10.1016/j.bpsgos.2025.100485",
       "authors": [
         {
-          "name": "Yogesh Muthuraj",
+          "name": "Shuang Li",
+          "author_id": "2279021926",
+          "affiliation": null
+        },
+        {
+          "name": "Anhang Jiang",
+          "author_id": "2294543667",
+          "affiliation": null
+        },
+        {
+          "name": "Xuefeng Ma",
+          "author_id": "2278387304",
+          "affiliation": null
+        },
+        {
+          "name": "Zheng-Jie Zhang",
+          "author_id": "2236893348",
+          "affiliation": null
+        },
+        {
+          "name": "Haosen Ni",
+          "author_id": "2278316775",
+          "affiliation": null
+        },
+        {
+          "name": "HuaBin Wang",
+          "author_id": "2299482218",
+          "affiliation": null
+        },
+        {
+          "name": "Chang Liu",
+          "author_id": "2299910812",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaolan Song",
+          "author_id": "2299530334",
+          "affiliation": null
+        },
+        {
+          "name": "Guang-Heng Dong",
+          "author_id": "2236700422",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background Internet gaming disorder (IGD) is a pervasive global mental health issue, and finding effective treatments for the disorder has been challenging. Mindfulness meditation (MM), recognized for its holistic approach that involves integrating mental and physical facets, holds promise for addressing the multifaceted nature of addiction. Nevertheless, the effect of MM on IGD and its associated neural networks, particularly in terms of their dynamic characteristics, remains elusive. Methods A total of 61 eligible participants with IGD (30 in the MM group, 31 in the progressive muscle relaxation [PMR] group) completed the experimental protocol, which involved pretest, an 8-session MM/PMR training regimen, and posttests. The 142 brain regions of interest were categorized into 5 brain networks using dynamic network reconfiguration analysis based on Shen\u2019s functional template. A comparative analysis of network dynamic features, including recruitment and integration coefficients, was performed across different groups and tests using resting-state functional magnetic resonance imaging data. Results While clinically nonspecific effects were observed in the PMR group, the MM group exhibited a significant reduction in addiction severity and cravings. In the dynamic brain network, MM training increased the recruitment coefficient within the frontoparietal network (FPN) and basal ganglia network (BGN) but decreased it within the default mode network (DMN). Furthermore, MM training increased the integration coefficient in the FPN-DMN and DMN\u2013limbic network (LN). Conclusions MM has demonstrated pronounced efficacy in treating IGD. MM may enhance top-down control functions, cognitive and emotional functions, and reward-system processing, potentially through the reconfiguration of the FPN-DMN pathway, DMN-LN pathway, and BGN.",
+      "journal": "Biological Psychiatry Global Open Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditation"
+      ]
+    },
+    {
+      "title": "Understanding the psycho-neuro-endocrine-immunology pathways in glaucoma and their modulation by mindfulness meditation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809248/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-01T00:00:00",
+      "date_fetched": "2026-09-30T17:10:13.162681",
+      "doi": "10.4103/IJO.IJO_15_26",
+      "authors": [
+        {
+          "name": "Hemlata Udenia",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sukumaran Clementswami",
+          "name": "Nitika Beri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aafreen Bari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tanuj Dada",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Clinical nutrition ESPEN",
+      "abstract": "Glaucoma is among the leading causes of irreversible blindness worldwide. It is increasingly being recognized as a complex and multifactorial disease with diverse pathogenesis. Elevated intraocular pressure (IOP) remains the primary modifiable risk factor and continues to be the cornerstone of current glaucoma management. The accumulating evidence provided clinical insights that factor beyond IOP may also influence disease onset and progression. In the recent era, chronic stress has emerged out to be one such factor and has been linked to alteration in neuroendocrine, autonomic, and inflammatory pathways. The evolving concept of Psycho-Neuro-Endocrine-Immunology (PNEI) provides an integrative framework to examine these interactions and their possible relevance to glaucoma pathophysiology. The narrative review was carried out on existing evidence that relates biology of stress to glaucoma within the framework of \"PNEI\" and \"Allostatic load.\" In addition, it will also explore the potential role of mindfulness meditation to serve as a nonpharmacological adjunct capable of modulating key PNEI pathways, which include cortisol regulation, autonomic balance, neuroinflammation, and oxidative stress. The evidence available to date is encouraging regarding the effects of mindfulness-based interventions. However, the current literature is limited by considerable variability in study designs, intervention protocol, outcome measures, and duration of follow-up. Larger prospective studies with standardized intervention and longer follow-up are needed to clarify the role of mindfulness-based intervention in glaucoma care. Integration of PNEI-based approaches may offer a conceptual framework for future research in holistic glaucoma care, pending validation of long-term clinical outcomes.",
+      "journal": "Indian journal of ophthalmology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -98,22 +193,42 @@
       "matched_keywords": []
     },
     {
-      "title": "The lost physiology of consciousness: Ernst Gellhorn and the origins of homeostatic neuroscience.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42808207/",
+      "title": "Mental Health Support and Educational Programs for New Graduate Nurses: A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809098/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-09-29T00:00:00",
-      "date_fetched": "2026-09-29T17:12:21.190509",
-      "doi": "10.1080/0964704X.2026.2731934",
+      "date_fetched": "2026-09-30T17:10:23.486969",
+      "doi": "10.1177/10784535261491856",
       "authors": [
         {
-          "name": "Emmanuel Drouin",
+          "name": "Mariko Nagai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fumiko Okuno",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nozomi Setoya",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Edward Barroga",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Erika Ota",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Contemporary neuroscience often presents modern theories of consciousness as products of the cognitive revolution and computational neuroscience. Yet several neurophysiologists before and during the early cybernetic period had already developed sophisticated physiological models of conscious states grounded in bodily regulation, autonomic integration, hypothalamic function and global neural activation. Among these figures, Ernest Gellhorn (1935-2005) occupies a remarkable place. In ",
-      "journal": "Journal of the history of the neurosciences",
+      "abstract": "AimTo explore studies on mental health support and educational programs for new graduate nurses to enhance their workplace adaptation, job satisfaction, and well-being.BackgroundNew graduate nurses face significant mental health challenges during the transition to practice, contributing to high turnover rates.MethodsThis scoping review used Arksey and O'Malley's framework and Joanna Briggs Institute's methodology to identify quantitative and mixed-methods studies in English or Japanese, published between January 2014 and July 2024, involving new graduate nurses within 12 months of graduation.ResultsOf 1,024 records, 14 studies were included. The analysis identified three categories of mental health support programs (clinical nurse educator-led mentorship, mindfulness-based interventions, and workplace environment support) and four types of educational programs (resilience education, communication skills training, positive psychology interventions, and stress management education). Research gaps included limited evidence regarding long-term effectiveness and the lack of standardized measurement tools.ConclusionExisting programs show promise; however, researchers need to conduct rigorous, longitudinal, multisite studies using standardized measurement tools, along with research that evaluates program sustainability, cost-effectiveness, and cultural adaptability.",
+      "journal": "Creative nursing",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -121,42 +236,47 @@
       "matched_keywords": []
     },
     {
-      "title": "Hypnosis Using Cognitive Rehabilitation Versus Mindfulness Suggestions on Working Memory and Therapeutic Alliance in Patients in Alcohol Treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42804666/",
+      "title": "Interoception in psychiatry: A systematic scoping review on concepts, methods and clinical impact.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810105/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-28T00:00:00",
-      "date_fetched": "2026-09-29T17:12:21.190573",
-      "doi": "10.1080/00207144.2026.2728581",
+      "date_published": "2026-09-25T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487035",
+      "doi": "10.1016/j.comppsych.2026.152747",
       "authors": [
         {
-          "name": "Timo L Kvamme",
+          "name": "Lisa Klein Haneveld",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jonas Lindel\u00f8v",
+          "name": "Luuk Lans",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Susanne Bollerup Overgaard",
+          "name": "Yvonne H A Bouman",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mads Uffe Pedersen",
+          "name": "Youri Derks",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kristine R\u00f8mer Thomsen",
+          "name": "Saskia M Kelders",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hanneke Kip",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Excessive alcohol use can impair working memory, potentially hindering treatment outcomes. Suggestion-Based Cognitive Rehabilitation (SBCR), a hypnotic technique of potential benefit for restoring working memory in brain injury patients, may hold promise for alcohol use disorder (AUD). This randomized controlled trial compared SBCR-hypnosis to mindfulness-based hypnosis among individuals in AUD treatment. Forty-one participants who were at an inpatient facility were randomized to four weekly sessions of either intervention. Pre- and post-intervention assessments included working memory, well-being, alexithymia, abstinence confidence, and therapeutic alliance. Three-month follow-ups assessed relapse, abstinence confidence, and mental health. Analyses included repeated measures ANOVA, recurrent event regression, and structural equation modeling informed by factor analysis. No significant between-group differences emerged. However, both groups showed improved well-being. Exploratory analysis identified a latent therapeutic improvement factor influenced by trait absorption. Structural equation modeling revealed that SBCR-hypnosis predicted greater therapeutic alliance improvement, which further predicted reduced relapse, enhanced abstinence confidence, and improved mental health. Although SBCR-hypnosis was not superior on clinical AUD outcomes, it may uniquely enhance therapeutic alliance, a potential mechanism worth exploring in future studies.",
-      "journal": "The International journal of clinical and experimental hypnosis",
+      "abstract": "BACKGROUND: Interoception - the perception and interpretation of internal bodily signals - is increasingly recognized as a transdiagnostic mechanism underlying emotion regulation and psychopathology. Although many psychiatric interventions implicitly or explicitly target interoceptive processes, there is limited clarity regarding how interoception is defined, measured, and applied in mental healthcare, as well as how effective interoception-focused interventions are across psychiatric populations. METHODS: A systematic scoping review was conducted of peer-reviewed studies published up to September 1, 2025, using Scopus, PsycINFO, and Web of Science. Studies were included if they evaluated interventions targeting interoception or related constructs in individuals with psychiatric disorders. Studies focusing on emotional awareness, emotion regulation, or alexithymia were excluded. Data were synthesized to map definitions, measurements, intervention types, effectiveness, and reported benefits and barriers. RESULTS: Forty-seven studies were included (37 quantitative; 13 qualitative/mixed). There was substantial heterogeneity in conceptualization and measurement, with most studies focusing on interoceptive awareness using self-report measures, particularly the Multidimensional Assessment of Interoceptive Awareness (MAIA). Interventions included mindfulness-based approaches, body-oriented therapies, structured protocols, and technology-supported methods. Of 37 (quasi-)experimental studies, 34 reported significant improvements in interoceptive outcomes. Qualitative findings highlighted benefits such as improved body awareness and emotion regulation, alongside barriers including skepticism, difficulty engaging with bodily focus, and feelings of being overwhelmed. CONCLUSIONS: Interoception-focused interventions show consistent positive effects across psychiatric populations and represent a promising avenue for clinical practice. However, variability in definitions and measurement currently limits translation into standardized care. Future research should prioritize clearer conceptualization, multi-method assessment strategies, and greater attention to individual differences to support more personalized and effective interoception-based treatments.",
+      "journal": "Comprehensive psychiatry",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -164,67 +284,275 @@
       "matched_keywords": []
     },
     {
-      "title": "The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42806363/",
+      "title": "A Rapid Review of Conventional and Strengths-Based Interventions to Support Recovery for Adult Female Survivors of Sexual Assault.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42811506/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-09-28T00:00:00",
-      "date_fetched": "2026-09-29T17:12:21.190616",
-      "doi": "10.1186/s12916-026-05129-8",
+      "date_published": "2026-09-29T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487126",
+      "doi": "10.1177/15248380261476694",
       "authors": [
         {
-          "name": "Zihang Tong",
+          "name": "Shanae Theunissen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Guancheng Ye",
+          "name": "Hayley Walker-Willams",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Shun Fan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yusheng Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiacheng Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Haining Zhang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qiaoling Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hongyi Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Huanan Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jingui Wang",
+          "name": "Ansie Fouch\u00e9",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Insomnia is a prevalent global sleep disorder. Digital therapeutics, delivered via online platforms, offer novel intervention options. However, existing systematic reviews largely focus on validating individual digital therapeutics, with limited comparative evidence across different types within a unified network. This network meta-analysis aims to evaluate the comparative effectiveness of various digital therapeutics on sleep quality, thereby providing evidence-based guidance for clinical decision-making in insomnia management. METHODS: PubMed, Cochrane Library, Embase, and Web of Science were systematically searched and included eligible randomized controlled trials (RCTs). Outcomes included the Insomnia Severity Index (ISI), the Pittsburgh Sleep Quality Index (PSQI), sleep diary and objective sleep parameters. Sleep diary parameters included subjective total sleep time (sTST), subjective wake after sleep onset (sWASO), subjective sleep onset latency (sSOL), and subjective sleep efficiency (sSE); objective sleep parameters included total sleep time (TST), wake after sleep onset (WASO), sleep efficiency (SE), and sleep onset latency (SOL). Furthermore, the minimal clinically important difference (MCID) was employed to evaluate the clinical relevance of all outcomes. RESULTS: A total of 96 RCTs comprising 18,419 participants were included, assessing 6 digital therapeutics: digital cognitive behavioral therapy (dCBT), digital brief behavioral therapy (dBBT), digital mindfulness-based therapy (dMBT), circadian rhythm support (CRS), virtual reality (VR), and tele-neurofeedback (NFB). Quality assessment of the included studies revealed that 2 low risk, 79 some concerns, 15 high risk. Network meta-analysis indicated that, compared with control treatment (CT), dCBT likely resulted in a significant decrease in ISI score (MD: -4.24 points, 95% CI: -4.83 to -\u20093.65; moderate-certainty evidence), a reduction in PSQI score (MD: -2.28 points, 95% CI: -2.88 to -\u20091.68; low-certainty evidence), shortened sSOL (MD: -12.57\u00a0min, 95% CI: -15.14 to -\u200910.00; low-certainty evidence), improved sSE (MD: 7.27%, 95% CI: 5.77 to 8.77; low-certainty evidence), and reduced sWASO (MD: -17.19\u00a0min, 95% CI: -20.96 to -\u200913.41; low-certainty evidence). dMBT significantly reduced ISI score (MD: -2.28 points, 95% CI: -4.00 to -\u20090.55; low-certainty evidence) and shortened SOL (MD: -7.96\u00a0min, 95% CI: -15.50 to -\u20090.42; moderate-certainty evidence). Based on an inconsistency model, VR substantially reduced WASO (MD: -13.38\u00a0min, 95% CI: -24.40 to -\u20092.36; moderate-certainty evidence). Of these findings, only dCBT reached the MCID for ISI improvement. NFB, dBBT, and CRS did not demonstrate statistically significant effects relative to CT for any of the outcomes. Given the constraints in the number of studies and sample sizes, the findings derived from objective outcomes warrant cautious interpretation. CONCLUSIONS: Digital therapeutics constitute a promising intervention for enhancing sleep quality. dCBT optimally reduces insomnia severity; other outcomes are statistically significant but fail to reach the MCID, leaving their clinical significance uncertain. Moreover, the majority of effect estimates derived from head-to-head comparisons among different digital therapeutics remain insufficiently precise. Future studies are warranted to confirm and expand upon these findings through large-scale, high-quality RCTs. TRIAL REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251269932.",
-      "journal": "BMC medicine",
+      "abstract": "Sexual violence remains a major public health issue with serious consequences for adult female survivors of sexual assault (AFSSA). This review examined recent evidence on conventional and strengths-based therapies for AFSSA and identified key intervention components that aid recovery. Guided by Cochrane Rapid Review Procedures and PRISMA standards, nine databases and reference lists were searched for peer-reviewed studies in English from 2012 to 2022 that met eligibility criteria for interventions targeting AFSSA. Two reviewers independently screened titles, abstracts, and full texts using the Rayyan tool, resolving discrepancies with a third reviewer. Data were extracted, appraised using JBI tools, and findings were synthesized using a narrative approach. Nineteen studies from eight countries met the inclusion criteria, representing four intervention approaches: cognitive trauma restructuring interventions (",
+      "journal": "Trauma, violence & abuse",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mindfulness and cognitive-based interventions show promise for university students, but evidence certainty remains limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810844/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-29T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487162",
+      "doi": "10.1136/ebnurs-2026-104742",
+      "authors": [
+        {
+          "name": "Mohammad Al Qadire",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hanan Abdelrahman",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Evidence-based nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Characterizing eating behavioral phenotypes in mood disorders: A cross-sectional investigation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813267/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-30T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487299",
+      "doi": "10.1017/S1092852926101230",
+      "authors": [
+        {
+          "name": "Elena Koning",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jill A Jacobson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elisa Brietzke",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Maladaptive eating behaviors in mood disorders are diverse and clinically relevant but have only been characterized into phenotypes based on theoretical evidence. The objective of the current study is to assess the prevalence of maladaptive eating behavior phenotypes (EBP) in mood disorders based on empirical evidence. METHODS: An online survey package including five questionnaires was administered to assess the prevalence and proportion of maladaptive eating behaviors in a mood disorder population ( RESULTS: Numerous maladaptive eating behaviors were identified in MDD and BD, including poor dietary quality, emotional eating, binge eating, and night eating behaviors. Differences between diagnostic groups are discussed. Three EBPs were characterized according to the PCA: (1) food impulsivity; (2) emotional eating; and (3) mindfulness in eating, with a significant influence of age and medication on the characterizations according to the mANOVA. CONCLUSIONS: Maladaptive eating behaviors occur in mood disorders and can be characterized into distinct EBPS. These findings should be interpreted as preliminary and hypothesis-generating given the sample size, absence of a healthy comparator group, and potential confounds. As psychiatry moves toward a more comprehensive, personalized approach to diagnosis and treatment, EBPs require prospective validation in larger, controlled investigations to determine clinical relevance.",
+      "journal": "CNS spectrums",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "A Short Spirituality Scale Grounded in the Bhagavad Gita: Development and Validation in India.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802191/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-27T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487800",
+      "doi": "10.1007/s10943-026-02805-0",
+      "authors": [
+        {
+          "name": "Kiran Bhagwandas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Latha Satish",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jayaraman Mahadevan",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Spirituality is increasingly recognized for its association with emotional and physical health. However, many existing measures conflate it with general well-being or religiosity, making it difficult to examine spirituality as a distinct construct. The present study introduces the Short Spirituality Scale (SSS) to address this problem. It consists of a ten-item spirituality measure grounded in the Bhagavad Gita's four paths of spiritual growth-karma (selfless action), j\u00f1\u0101na (discernment), dhy\u0101na (meditation), and bhakti (devotion). Textual analysis, expert input, and cognitive interviewing were used to develop the items to enhance clarity, inclusiveness, and cultural sensitivity. Although items were written to represent the four yogic paths, psychometric analyses consistently supported a stable two-factor structure-Acceptance of Divine Presence and Abidance in the Absolute. Exploratory (N = 204) and confirmatory (N = 277) factor analyses showed strong model fit. Reliability analyses demonstrated good internal consistency, high test-retest stability, and moderate inter-rater agreement. Validity testing (N = 417) found that higher spirituality correlated with better life satisfaction and flourishing. Higher spirituality scores were also negatively associated with burnout, depression, stress, anxiety, and neuroticism, supporting strong concurrent, convergent, divergent, and discriminant validity. Preliminary percentile-based reference values from an adult sample (N = 1,682) provide age- and gender-specific interpretation. The SSS fills a critical methodological gap by offering one of the few spirituality measures grounded in a coherent philosophical framework rather than fragmented or atheoretical item pools. It assesses spirituality as an orientation toward transcendence rather than as well-being and is potentially useful in mental health practice, public health programs, and spiritual care.",
+      "journal": "Journal of religion and health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Feasibility and Preliminary Outcomes of the \"Naru\" Program, a Reiki-Informed Meditative Intervention for First-Year Nursing Students: A Single-Group Pilot Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813884/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-30T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487918",
+      "doi": "10.1177/08980101261488093",
+      "authors": [
+        {
+          "name": "Nuno Filipe De Oliveira Gil Salgado",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tereza Maria Mendes Diniz De Andrade Barroso",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria Isabel Dias Marques",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maria Ang\u00e9lica De Almeida Peres",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PurposeTo assess the feasibility and acceptability of the \"",
+      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Protocol for a Multimodal Investigation of Interoception in Adolescence and Testing Virtual Reality Interventions to Improve Interoceptive Impairments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814090/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-09-29T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.487967",
+      "doi": "10.2196/103785",
+      "authors": [
+        {
+          "name": "Nathan M Boyle",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sarah H Guo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Madison M Angelo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ann S Choe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Liuyi Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Martin A Lindquist",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Angela S Guarda",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kellie Lk Tamashiro",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kimberly R Smith",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Joseph F McGuire",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Psychiatric conditions predominantly emerge in adolescence and represent a leading cause of disability and morbidity worldwide. Interoceptive dysfunction has been implicated in the development and maintenance of several psychiatric conditions and is characterized by disruptions in the perception and interpretation of internal bodily signals. Despite its recognized importance, interoception has not been well-characterized in adolescence-a key developmental period marked by profound neurobiological, physiological, and psychosocial change. Consequently, the precise role of interoceptive dysfunction in the onset and progression of psychiatric disorders remains unclear. Thus, research is needed to characterize interoception in adolescence, elucidate its contributions to psychiatric conditions, and determine interventions that effectively address interoceptive impairments. Importantly, such interventions should be designed with future dissemination in mind-prioritizing accessibility, scalability, and standardization. Virtual reality (VR) represents one promising approach to deliver therapeutic skills that target interoception, which also engages multiple sensory systems (e.g., visual, auditory, bodily signals) during intervention delivery. These immersive and controllable experiences provide a unique platform to systematically target interoceptive processes when delivering evidence-based therapeutic strategies such as mindfulness and relaxation training. By enabling standardized delivery and precise manipulation of multisensory experiences, VR may overcome key barriers to the dissemination and scalability of traditional approaches to intervention. OBJECTIVE: This project conducts a multimodal assessment of interoception and related learning processes in adolescence and tests whether two single session interventions (SSI) delivered in VR improve interoceptive functioning. METHODS: Ninety adolescents (60 with psychiatric disorders associated with interoceptive impairments and 30 unaffected healthy controls) between 12 and 17 years of age will complete a structured diagnostic clinical interview and an assessment battery of questionnaires to characterize the presence of psychiatric disorders, severity of psychiatric symptoms, interoceptive awareness, and related constructs (e.g., sleep, distress tolerance, mindfulness, self-efficacy). Youth will complete validated tasks to assess interoceptive functioning (e.g., cardiac interoceptive accuracy, interoceptive awareness of heart rate) and two associative learning mechanisms (e.g., aversive conditioning and reward learning). While cardiac interoception will serve as the primary outcome measure of interoceptive functioning, secondary outcomes of other systems will be explored (e.g., temporal coupling between gastric rhythms and neural activity). Finally, participants will complete two SSIs in VR (i.e., mindfulness, relaxation training) to examine effects on interoceptive accuracy and awareness. RESULTS: Participant enrollment began in December 2024. Currently, 45 participants have enrolled in study protocol. Participants are 15.3 \u00b1 1.7 years of age on average with a nearly equal distribution of boys and girls. At this time, there are no differences in demographic characteristics between adolescents with and without psychiatric conditions. CONCLUSIONS: Findings will provide novel insights about interoception in adolescence and clarify its role in the development and maintenance of psychiatric disorders. It will provide preliminary evidence on the feasibility and effectiveness of brief VR-based mindfulness and relaxation interventions targeting interoception, helping to inform future early intervention strategies for at-risk youth. CLINICALTRIAL: Open Science Foundation: 9s48q; https://osf.io/9s48q (registered May 4, 2024).",
+      "journal": "JMIR research protocols",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cognitive impairment in glaucoma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809251/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-01T00:00:00",
+      "date_fetched": "2026-09-30T17:10:23.488091",
+      "doi": "10.4103/IJO.IJO_3157_25",
+      "authors": [
+        {
+          "name": "Hemlata Udenia",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Neha Midha",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rohit Verma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Aafreen Bari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tanuj Dada",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Glaucoma, while regarded as an isolated ocular disorder, is now increasingly recognized as a component of a wider neurological spectrum. An accumulating body of neuroimaging-based studies have revealed structural and functional changes in the brain that are analogous to those observed in Parkinson's and Alzheimer's disease. These changes are further associated with systemic disturbances, including autonomic dysfunction, neuroinflammation, and elevated cortisol levels. This mounting evidence may elucidate the increased susceptibility of cognitive impairment and dementia observed in individuals with glaucoma. This article presents a narrative review of the existing literature. A thorough search was conducted across various databases, including PubMed, Scopus, and the Embase Library, without restriction on year of publication. This review consolidates various lines of evidence that underscore the common characteristic between glaucomatous optic neuropathy and neurodegenerative disorders. A range of pharmacological (anti-dementia medication, nootropic agent, cerebral metabolizers, and neutraceuticals) and nonpharmacological strategies (regular physical activity, meditation, sleep optimization, and dietary modification) and emerging modalities-including noninvasive brain stimulation, nanotechnology-based drug delivery systems, and artificial intelligence-guided therapeutic models-are broadening the scope of management beyond traditional approaches that not only target intraocular pressure reduction but also may support overall neuro-cognitive wellbeing. The establishment of a multidisciplinary framework is also vital, wherein an ophthalmologist works in collaboration with neurologists, psychologists, and rehabilitation specialists to facilitate thorough cognitive evaluation and timely treatment. This review underscores the need of safeguarding both visual and cognitive functions by recognizing glaucoma as an ocular disorder and neurodegenerative condition, aiming to improve long-term outcomes and quality of life.",
+      "journal": "Indian journal of ophthalmology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -232,31 +560,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "How Pawe\u0142 Pawlikowski Learned to Film Europe\u2019s Fractures",
-      "url": "https://www.newyorker.com/magazine/2026/10/05/pawel-pawlikowski-profile",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-09-28T10:00:00",
-      "date_fetched": "2026-09-29T17:12:21.897492",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Anthony Lane",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "The Polish director has made a career out of examining the mysteries of borders, both spiritual and political.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "spiritual"
-      ]
-    }
-  ]
+  "articles": []
 }
