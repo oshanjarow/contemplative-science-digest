@@ -1,344 +1,68 @@
 {
-  "generated_at": "2026-10-03T15:23:09.068777",
+  "generated_at": "2026-10-04T16:07:17.270853",
   "papers": [
     {
-      "title": "A Coherence\u2013Dissipation Framework for Brain Dynamics and Consciousness",
-      "url": "https://www.semanticscholar.org/paper/da2ddd5106eabaec6f3690aaad918b44271144c5",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-09-30T00:00:00",
-      "date_fetched": "2026-10-03T15:22:09.969235",
-      "doi": "10.3390/e28101074",
-      "authors": [
-        {
-          "name": "A. Ali",
-          "author_id": "2295594021",
-          "affiliation": null
-        },
-        {
-          "name": "Nader Inan",
-          "author_id": "2300369770",
-          "affiliation": null
-        },
-        {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
-          "affiliation": null
-        },
-        {
-          "name": "P. Mikheenko",
-          "author_id": "2241276028",
-          "affiliation": null
-        }
-      ],
-      "abstract": "We develop a theoretical proposal linking vacuum stability and brain dynamics through superconductivity-inspired coherence, symmetry reduction, and the thermodynamic stabilization of low-entropy regimes. We take an unbroken SU(3) structure as a candidate stable residue of the low-temperature vacuum. At the neural level, we formulate a coarse-grained analog in which a two-fluid model with dissipative and coherence-supporting components describes brain dynamics. Specifically, the coherence-supporting component is proposed as a possible basis for the efficient binding and integration required to sustain a stable, unified conscious state. The proposal offers a common geometric language for relating physics and neuroscience with falsifiable signatures in coherence and state-dependent transitions. The main technical contribution is a computational algebraic model of conscious-state dynamics, where neural data are mapped to reconstructed state trajectories. Effective generators are inferred from those trajectories, and the two-fluid split is tested as a Cartan\u2013root decomposition of su(3), with a rank-two commuting sector for coherence-preserving balance and six root directions for state transitions. This structure can be tested on neural data and contrasted with alternative dynamical models.",
-      "journal": "Entropy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Comparative effectiveness of small group practice and 3D VR simulation on nursing students' PIVC skills, flow state, and learning satisfaction: A quasi-experimental study.",
-      "url": "https://www.semanticscholar.org/paper/ffb9ac9d8096a7d604b733deec4b3c91e8d51a91",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-10-03T15:22:43.201713",
-      "doi": "10.1016/j.nedt.2025.106683",
-      "authors": [
-        {
-          "name": "Hyeongyeong Yoon",
-          "author_id": "2258941429",
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND\nPIVC (Peripheral intravenous catheterization) skills are highly challenging techniques frequently used in clinical settings. To prevent complications from intravenous catheterisation and to ensure patient safety, it is necessary to identify effective training methods.\n\n\nAIM\nThis study aimed to evaluate the educational effects of 3D VR simulation practice versus small group practice on nursing students' skill performance, learning satisfaction, and flow state.\n\n\nDESIGN\nA quasi-experimental study was conducted using a nonequivalent control group time-lagged design.\n\n\nPARTICIPANTS\nA total of 158 fourth-year undergraduate nursing students participated, with 75 students assigned to the 3D VR group and 83 students to the small group practice group.\n\n\nMETHODS\nPre- and post-assessments were conducted to measure PIVC skills, and flow state, while learning satisfaction was compared only in the post-assessment. The study was conducted over three weeks. The 3D VR group participated in virtual reality practice sessions, completing a total of three 30-minute sessions. Meanwhile, the small group practice group conducted mannequin-based practice sessions, with a student-to-instructor ratio of 8-9 students per instructor, completing two 45-minute sessions. Statistical analysis was performed using SPSS 28.0, and ANCOVA and the Mann-Whitney U test were used to compare the effects between the two groups.\n\n\nRESULTS\nThe small group practice showed significantly higher PIVC skill performance (F\u00a0=\u00a05.367, p\u00a0=\u00a0.022), while the 3D VR simulation group demonstrated significantly higher flow state (F\u00a0=\u00a06.002, p\u00a0=\u00a0.015). However, there was no significant difference in learning satisfaction between the two groups (z\u00a0=\u00a0-0.169, p\u00a0=\u00a0.866).\n\n\nCONCLUSION\nSmall group practice was more effective for skill performance in PIVC, while flow state was higher with 3D VR. There was no difference in learning satisfaction between the two groups. These findings provide valuable evidence for selecting optimal teaching methods in nursing education based on learning objectives and educational outcomes.",
-      "journal": "Nurse Education Today",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "\u201cThe One Place Where I Don\u2019t Feel Frustrated\u201d: An Interpretative Phenomenological Analysis of Art Students\u2019 Experiences and Emotional Responses to the Flow State",
-      "url": "https://www.semanticscholar.org/paper/472a5b6a8a179036a4687b0826b33488013e1723",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-17T00:00:00",
-      "date_fetched": "2026-10-03T15:22:43.201848",
-      "doi": "10.1177/00221678251325392",
-      "authors": [
-        {
-          "name": "M. Green",
-          "author_id": "2301256454",
-          "affiliation": null
-        },
-        {
-          "name": "Patrick Rosenkranz",
-          "author_id": "2291790809",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Flow theory describes the highly focused state of being absorbed into an activity, causing a loss of self-consciousness and track of time. Research has suggested that this can lead to a happier and more fulfilling life. This study used interpretative phenomenological analysis (IPA) to understand art students\u2019 experiences of flow while making art and to acknowledge any emotional responses they have to this experience. Semi-structured interviews (conducted in 2021) were used to gain an enriched understanding of flow in six art students. The analysis found that all participants experienced flow while making art, and this experience was incredibly similar for all participants. In addition, no emotions were reported while the participants were in the flow state, yet positive emotions were associated with the experience of flow afterward. Interestingly, the participants reported negative emotions toward art without flow, suggesting that flow could be the incentive for wanting to produce art. These findings point to the importance of flow for experiencing happiness, and, unlike previous research, suggest that flow states can play a role in the motivation to make art. Future research should attempt to replicate these finding using other qualitative methods, such as event sampling, and explore the flow state in other activities.",
-      "journal": "Journal of humanistic psychology",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Quantifying Flow State Dynamics: A Prefrontal Cortex EEG-Based Model Validation Study. Unveiling the Prefrontal Cortex's Role in Flow State Experience: An Empirical EEG Analysis",
-      "url": "https://www.semanticscholar.org/paper/96ade87c7cd65a5db268891cd33b2b37618eca65",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-06-20T00:00:00",
-      "date_fetched": "2026-10-03T15:22:43.201889",
-      "doi": null,
-      "authors": [
-        {
-          "name": "G. Rosso",
-          "author_id": "2276704078",
-          "affiliation": null
-        },
-        {
-          "name": "Raffaella Ricci",
-          "author_id": "2380018625",
-          "affiliation": null
-        },
-        {
-          "name": "L. Pia",
-          "author_id": "2239073617",
-          "affiliation": null
-        },
-        {
-          "name": "Giovanni Rebaudo",
-          "author_id": "89919290",
-          "affiliation": null
-        },
-        {
-          "name": "Michele Guindani",
-          "author_id": "2385416920",
-          "affiliation": null
-        },
-        {
-          "name": "A. Marocchino",
-          "author_id": "50089552",
-          "affiliation": null
-        },
-        {
-          "name": "G. De Pieri",
-          "author_id": "2490539276",
-          "affiliation": null
-        },
-        {
-          "name": "Andrea Rosso",
-          "author_id": "2073473651",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This article aims to explore the optimization of mental performance through the analysis of metrics associated with the psychological state known as flow. Several clinical studies have shown a correlation between the mental state of flow (characterized by deep and relaxed concentration and high psychophysical efficiency) and brain activity measured through electroencephalography (EEG). This study confirms such a correlation, focusing in particular on the sports field, where the flow state tends to occur more frequently. To conduct the study, Sporthype developed proprietary software that integrates several predictive models, in particular the Flow State Index (FSI), implemented within the Holytics system. An analytical protocol was established, including mental exercises and data collection sessions using the portable EEG device Muse, accompanied by a questionnaire to gather athletes'subjective perceptions of their mental state. The results revealed a significant alignment between the EEG data and the subjective experiences reported in the questionnaires, confirming the feasibility of detecting the flow state through prefrontal cortex activity. Furthermore, the psychological exercises included in the study protocol showed a tangible positive effect in enhancing flow during athletic performance. Flow improves performance through a more harmonious synchronization between mind and body. Although golf was the main context of the experimentation, the mathematical models developed within Holytics were designed to be applicable to a wide range of sports. In addition to golf, preliminary tests have been conducted in other sports such as tennis, as well as in non-sport contexts, including gaming and mental training practices such as mindfulness, concentration, and visualization.",
-      "journal": "",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Flow state and autonomic response patterns during sensory rejection tasks using the Uchida-Kraepelin Test",
-      "url": "https://www.semanticscholar.org/paper/ed27afc07ba9204f788c53b32499d7e54aa40bd7",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-30T00:00:00",
-      "date_fetched": "2026-10-03T15:22:43.201975",
-      "doi": "10.1371/journal.pone.0335711",
-      "authors": [
-        {
-          "name": "Hiroyuki Kuraoka",
-          "author_id": "65909740",
-          "affiliation": null
-        },
-        {
-          "name": "Mitsuo Hinoue",
-          "author_id": "2273074196",
-          "affiliation": null
-        },
-        {
-          "name": "Chikamune Wada",
-          "author_id": "2292323844",
-          "affiliation": null
-        },
-        {
-          "name": "Shinji Miyake",
-          "author_id": "2267133972",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigated the relationship between flow state and autonomic nervous system activity indices in 18 healthy male participants using a mental arithmetic task (Uchida-Kraepelin [U-K] test)\u2014known as a sensory rejection task. The experiment consisted of two sets, each comprising a 5-minute rest period, followed by a 15-minute task period with varying task conditions of self-paced, to be performed at own pace, and competitive, as per the instruction \u201cAlways do as many calculations as possible, aiming to exceed the preceding performance.\u201d In the subjective assessment, the flow, time perception, subjective mental workload, and feelings of fatigue were evaluated. Autonomic nervous system activity indices were continuously monitored. The results indicate that the U-K test, which is a low-difficulty, monotonous task, failed to induce a flow state. Physiological responses to mental tasks showed an increased heart rate, suggesting a Pattern 1 response. The participants who entered a flow state, based on their flow and time perception scores, had a decreased heart rate immediately after the task, supporting the association between the flow state and Pattern 2 responses. Considering the relationship between flow and Pattern 2 responses, it is recommended to assess flow using multiple physiological markers, including blood pressure.",
-      "journal": "PLoS ONE",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Effect of duct quantity on the magnetohydrodynamic flow state through multiple electrically coupled ducts",
-      "url": "https://www.semanticscholar.org/paper/6a1bcd7ef2a85221c6b469807a93c189362a2bb5",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-01T00:00:00",
-      "date_fetched": "2026-10-03T15:22:43.201986",
-      "doi": "10.1063/5.0292120",
-      "authors": [
-        {
-          "name": "Xin-Ting Lv",
-          "author_id": "2306759141",
-          "affiliation": null
-        },
-        {
-          "name": "Lei Wang",
-          "author_id": "2268433551",
-          "affiliation": null
-        },
-        {
-          "name": "Xiujie Zhang",
-          "author_id": "2306389755",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The magnetohydrodynamic (MHD) flow state in multiple electrically coupled ducts for liquid metal blankets is investigated to accurately predict the effect of duct quantity on pressure distribution, with further consideration of duct aspect ratio and arrangement. We conducted three-dimensional numerical simulations to analyze 1\u2009\u00d7\u2009n and m\u2009\u00d7\u2009n matrix of duct systems in both co-flow and counter-flow configurations. For 1\u2009\u00d7\u2009n duct systems, the pressure drop (\u0394p) can be reduced to 60% of that observed in a single duct when n\u2009=\u200910 under co-flow configurations. We further propose a mathematical model that accurately predicts the pressure gradient as a function of n for co-flow systems. In counter-flow cases, \u0394pmax decreases with increasing odd n greater than 2, whereas an opposite trend is observed when n is even for b/a\u2009\u2264\u20091. When b/a\u2009>\u20091, the coupling pressure drops increase with n. \u0394pmax reaches over 60 times that of a single duct among all cases in this study. In order to mitigate excessive MHD coupling pressure drop in counter-flow configurations, we design a new structure with different slot layouts on each coupling Hartmann wall, which is effective in reducing the pressure drop within multi-coupled ducts. We analyze the results of m\u2009\u00d7\u2009n matrix duct systems, indicating that placing the inlet on opposite sides can prevent an increase in pressure drop caused by adding n perpendicular to the magnetic field in counter-flow configurations when n is even. These findings will provide valuable physical insights for the application of multi-coupled ducts in liquid blanket systems.",
-      "journal": "The Physics of Fluids",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Flow state and differentiated learning for students",
-      "url": "https://www.semanticscholar.org/paper/044347a87e774c0fb1cf1f7915eef1142da865b9",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-03T15:22:43.201990",
-      "doi": "10.46727/c.15-05-2025.p155-161",
-      "authors": [
-        {
-          "name": "Violeta Vrabii",
-          "author_id": "2339029946",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Promoting mechanisms that emphasize strategies leading to well-being and happiness in school is a foundational premise of education. Happiness, as a state that can be prepared for, cultivated, and protected, belongs to each individual.Mihaly Csikszentmihalyi posits that the level of happiness and well-being can be expressed through the degree of human potential realization. The American psychologist uses the concept of flow state to describe an enhanced state of well-being in which individuals are so deeply engaged in the enjoyment of a task that they are carried into and maintained within a flow\u2014a state he defines as the optimal experience of the present moment. The use of multiple intelligences in learning is an essential tool that allows students to enter the state of flow through meaningful action. Differentiated instruction, tailored to students\u2019 individual needs, fosters continuous learning motivation and supports the development of the learner's full potential. Attention, viewed as vital energy, represents the ability to focus on a goal precisely when and for as long as necessary.The promotion of differentiated learning within the educational process serves as an effective premise for inducing the flow state, enabling students to both experience and contribute to a sense of well-being.",
-      "journal": "Valorificarea st\u0103rii de bine \u00een sistemul educa\u021bional: oportunit\u0103\u021bi \u0219i perspective: Materialele conferin\u021bei \u015ftiin\u021bifice na\u021bionale cu participare interna\u021bional\u0103, 15 mai 2025",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Communication Access and Emergency Care for D/deaf People: A Reflexive Thematic Analysis of Patient Experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42827035/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-02T00:00:00",
-      "date_fetched": "2026-10-03T15:23:08.285853",
-      "doi": "10.1111/jocn.70578",
-      "authors": [
-        {
-          "name": "Sarah Hazelwood",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jennifer Dermer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Neil Wood",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stephen Neville",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "AIM: To examine how D/deaf people experience communication access during emergency department visits and identify changes they consider most important for accessible and safe emergency care. DESIGN: Interpretive qualitative survey study using reflexive thematic analysis. METHODS: Written responses to open-ended questions in an accessible bilingual Auslan-English survey were analysed within a critical, system-oriented framework. Interpretation was informed by Deaf Elder and D/deaf advisory perspectives. RESULTS: Accounts described widespread communication barriers, including absent or delayed interpreters, limitations of video remote interpreting and expectations to lip-read, write or rely on family members. These reflected hearing-centred emergency care that shifted communicative responsibility onto patients. Fear, confusion and frustration were particularly evident during urgent or painful presentations. Positive experiences were associated with early interpreter engagement, visual communication strategies and staff familiarity with sign language. Participants identified system-level changes, including on-call interpreter pathways, Deaf awareness training and improved visual and non-auditory communication systems. CONCLUSION: Communication access was uncertain and inconsistently supported for D/deaf patients. Improving care requires organisational approaches that embed interpreter access, visual communication systems and Deaf-informed training within routine practice. IMPLICATIONS FOR THE PROFESSION AND/OR PATIENT CARE: Communication access should be embedded within routine emergency care through reliable interpreter pathways, visual communication systems and Deaf-informed staff education. IMPACT: This study identifies communication barriers that can affect safety, understanding and participation for D/deaf patients in emergency care and highlights the need for organisational approaches to communication access. REPORTING METHOD: Reporting was guided by the Consensus-Based Checklist for Reporting of Survey Studies (CROSS). PATIENT OR PUBLIC CONTRIBUTION: D/deaf people contributed to study design, recruitment, analysis and interpretation. Survey items were refined with Deaf Elders and a D/deaf advisory team. A Deaf Elder co-author contributed to recruitment and manuscript development, while advisory input informed theme refinement and challenged hearing-centred interpretations.",
-      "journal": "Journal of clinical nursing",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Postoperative Physical Therapy After Breast Reconstruction: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42827398/",
+      "title": "Acceptance and commitment therapy for schizophrenia and psychosis inpatients with recovery and experience orientation (ASPIRE): A qualitative study of participant experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828504/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-03T00:00:00",
-      "date_fetched": "2026-10-03T15:23:08.285901",
-      "doi": "10.1093/asj/sjag211",
+      "date_fetched": "2026-10-04T16:07:16.087210",
+      "doi": "10.1111/papt.70113",
       "authors": [
         {
-          "name": "Sevasti Panagiota Glynou",
+          "name": "Henrik Vo\u00df",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Annie Fritsch",
+          "name": "Lennard Telschow",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fedra Britvic",
+          "name": "Andreas Bechdolf",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Dimple K Gajjar",
+          "name": "Anne Bergh\u00f6fer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Rebecca Knackstedt",
+          "name": "Friederike Sachsenheimer",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tae Chong",
+          "name": "Stefan Wagler",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "George Kokosis",
+          "name": "Berenike Lehmann",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dorothea J\u00e4ckel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yona P\u00f6\u00dfnecker",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Felicitas Ehlen",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Postoperative physical therapy (PT) is well established after mastectomy to reduce upper-limb dysfunction, pain, and quality-of-life impairment. However, its role following breast reconstruction remains less clearly defined, largely due to concerns regarding reconstruction-specific complications. OBJECTIVES: To evaluate the effects of PT on functional shoulder range of motion (ROM), pain, upper-limb function, and quality of life (QoL) after breast reconstruction. METHODS: A systematic review was conducted in accordance with PRISMA 2020 guidelines and registered with PROSPERO (CRD420251025047). PubMed/MEDLINE, Embase, Scopus, CINAHL, and CENTRAL were searched from inception to July 2025. Eligible studies included adults undergoing implant-based or autologous reconstruction receiving preoperative or postoperative PT interventions. Quality was assessed via RoB 2 and ROBINS-I. Due to heterogeneity, a narrative synthesis was conducted. RESULTS: Fifteen studies (n = 1,020) were included. Early and structured physiotherapy consistently improved short-term shoulder ROM, upper-limb function, and quality-of-life outcomes without increasing surgical complications. Initiating rehabilitation within two weeks postoperatively accelerated flexion and abduction recovery compared with traditional four-week immobilization protocols. Functional outcomes varied by reconstruction type, suggesting differing rehabilitation needs following implant-based versus autologous procedures. Massage-based interventions showed limited additional benefit from adjunctive therapies such as acupuncture or meditation. Evidence regarding optimal intervention type, delivery mode, and long-term benefit was limited by heterogeneity and variable study quality. CONCLUSIONS: Postoperative PT is probably associated with earlier functional recovery and does not appear to compromise surgical safety, although certainty in this evidence is low across outcomes. However, the current evidence base is limited. High-quality, powered randomized controlled trials with standardized measures and longer follow-up are necessary to establish definitive clinical guidelines.",
-      "journal": "Aesthetic surgery journal",
+      "abstract": "OBJECTIVES: This uncontrolled study aims to gather a comprehensive understanding of participants' experiences during an inpatient intervention specialized in the treatment of psychotic disorders, embedded in a holistic therapeutic ward-concept rooted in acceptance and commitment therapy (ACT), extending its isolated delivery in group therapies. Particular attention was paid to participants' perceptions of the concept, the mechanisms of impact they described and the transfer of therapy-related experiences into daily life. DESIGN: A qualitative study design was used to evaluate experiences. METHODS: Thirty semi-structured interviews were conducted with inpatients with psychosis upon completing the intervention. Following a later protocol amendment, 11 complementary follow-up interviews were conducted. All were audio-recorded and transcribed. A Straussian grounded theory-informed content structuring analysis was carried out to create a comprehensive coding scheme. RESULTS: Participants regarded the general concept as fostering for their personal development, emphasizing positive interactions with staff and other inpatients, while pointing out structural barriers. Group therapies were perceived as highly relevant, engaging and practical in nature. Reported impacts represent the established ACT-domains 'open', 'aware' and 'active'. Meaningful transfers to daily life were prevalent at both times of interviews, and participants generally displayed an optimistic and life-oriented attitude half a year upon completion. CONCLUSIONS: The holistic therapeutic concept appears to succeed in impactfully conveying the principles of ACT. Findings suggest that through including the entire ward staff as ACT-therapists, it promotes therapeutic alliance and interpersonal connectedness to a particular degree. Participants highlighted the hands-on and guiding nature of therapy contents as especially motivating, leading to meaningful change.",
+      "journal": "Psychology and psychotherapy",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -346,42 +70,77 @@
       "matched_keywords": []
     },
     {
-      "title": "Validation of the French and English Versions of the Need Crafting Scale Among Emerging Adults From France and Canada.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42827294/",
+      "title": "Effect of interventions for stress management on blood pressure changes in healthy adults: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829395/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-02T00:00:00",
-      "date_fetched": "2026-10-03T15:23:08.287336",
-      "doi": "10.1177/10731911261488746",
+      "date_published": "2026-10-03T00:00:00",
+      "date_fetched": "2026-10-04T16:07:16.088938",
+      "doi": "10.1038/s41371-026-01236-4",
       "authors": [
         {
-          "name": "William A Gilbert",
+          "name": "Juna Kamijima",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alexandre J S Morin",
+          "name": "Ai Ikeda",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Catherine F Ratelle",
+          "name": "Hadrien Charvat",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Marion Petipr\u00e9",
+          "name": "Tetsuya Ohira",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Aurore Ghetti",
+          "name": "Isao Muraki",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tomonori Okamura",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shiho Sato",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Moemi Miura",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Qisheng Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shiori Ikeda",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kazumasa Yamagishi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Takeshi Tanigawa",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Need crafting refers to intentional and self-initiated attempts that individuals undertake to foster their own sense of autonomy, competence, and relatedness. This study assessed the psychometric properties of the English version and of the French adaptation of the Need Crafting Scale (NCS) among emerging adults. One sample from France (Sample 1: ",
-      "journal": "Assessment",
+      "abstract": "Non-pharmacological therapy or lifestyle modification is recommended as a first-line approach to hypertension management. Chronic stress is a modifiable risk factor of hypertension through behavioral change. However, no prior studies have conducted a meta-analysis of stress management aimed at the primary prevention of hypertension in normotensive general population. We systematically searched PubMed, Web of Science, Scopus, and Cochrane library for eligible trials, limited to English-language articles published up to October 2025. Studies involving healthy adults without hypertension that used interventions for stress management and reported blood pressure outcomes were included. Effect sizes were calculated as between-group mean differences in systolic and diastolic blood pressures change, and were pooled using a random-effects model. Twenty-two randomized controlled trials with a maximal total sample of 3089 individuals were included in the meta-analysis. Among the different types of intervention considered, a consistent reduction in systolic blood pressure (between-group mean difference (mmHg) [95% confidence interval]) compared with the control was found for mind-body exercise (-2.17 [-3.29, -1.05]); for meditation (-1.49 [-2.67, -0.31]); and for relaxation (-4.76 [-8.48, -1.04]). Similarly, reductions in diastolic blood pressure were found with values of -1.69 [-2.81, -0.56]; -1.00 [-1.84, -0.15]; and -1.71 [-3.99, 0.56], respectively. Interventions for stress management may lower systolic and diastolic blood pressures in normotensive general population. It is possible that stress management contributes to reduce future cardiovascular risk.",
+      "journal": "Journal of human hypertension",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -389,128 +148,32 @@
       "matched_keywords": []
     },
     {
-      "title": "\"I see my body the way people see me\": A qualitative study on the acceptability and cultural adaptation of the mind.body.voice curriculum for Latina youth.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826450/",
+      "title": "Cognitive Strategy Use for Functional Compensation in Multiple Sclerosis: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41997443/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-01T00:00:00",
-      "date_fetched": "2026-10-03T15:23:08.287377",
-      "doi": "10.1016/j.bodyim.2026.102202",
+      "date_fetched": "2026-10-04T16:07:16.089401",
+      "doi": "10.1016/j.apmr.2026.04.007",
       "authors": [
         {
-          "name": "Anahi Collado",
+          "name": "Rachel Nicholson",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Antonella Onofrietti Magrassi",
+          "name": "Aaron P Turner",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Desiree Bauer",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sona Dimidjian",
+          "name": "Elizabeth S Gromisch",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Latina adolescents and emerging adults navigate conflicting appearance ideals, balancing the \"Latina curvy ideal\" with Eurocentric thinness standards that contribute to body dissatisfaction, disordered eating, and emotional distress. Few culturally tailored interventions have been developed or evaluated specifically for Latina youth, particularly in ways that directly center their lived experiences and adaptation priorities. The mind.body.voice (m.b.v.) curriculum is a near-peer-led program integrating cognitive dissonance, contemplative practices, and community action to counter harmful appearance ideals and foster body acceptance. To examine the acceptability and cultural resonance of this approach, we engaged 17 Latina adolescents and young adults (ages 13-22) in virtual focus groups and administered self-report measures of body image, discrimination, acculturation, and ethnic identity. Thematic analysis identified five key domains: 1) body image and identity are shaped by intersecting cultural and societal expectations; 2) appearance biases arise from family influences, cultural norms, media exposure, and internalized pressures; 3) practices such as self-acare, physical activity, mindfulness, and a sense of strength drawn from cultural and familial roots promote body appreciation; 4) empowerment develops through peer support, safe spaces, and shared voice; and 5) culturally congruent, linguistically flexible facilitators enhance engagement. Participants viewed m.b.v. as acceptable and culturally resonant and identified both surface- and deep-structure adaptation priorities to inform future refinement and evaluation.",
-      "journal": "Body image",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Distinct affective neural phenotypes in breast cancer survivors: implications for personalized supportive care after chemotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42825919/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-02T00:00:00",
-      "date_fetched": "2026-10-03T15:23:08.288226",
-      "doi": "10.1007/s00520-026-11271-z",
-      "authors": [
-        {
-          "name": "Chenyi Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Hao-Jin Chiang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yu-Chun Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yang-Teng Fan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tsai-Tsen Liao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chin-Yau Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yawei Cheng",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE: Anxiety and emotional dysregulation remain among the most prevalent unmet supportive care needs in breast cancer survivorship, yet reported affective outcomes are strikingly inconsistent, with some survivors showing elevated distress and others displaying resilience or post-traumatic growth. Because distress screening in survivorship relies almost exclusively on self-report, the neural mechanisms shaping how chemotherapy-exposed survivors perceive and report emotional experience remain poorly understood, limiting mechanism-informed psychosocial support. METHODS: Forty female breast cancer survivors (27 chemotherapy-treated, 13 non-chemotherapy) and 30 age-matched healthy controls completed a validated face-word emotional Stroop task during functional MRI to probe emotional attention and conflict regulation. Standardized cognitive and affective questionnaires were aggregated into composite indices characterizing each survivor's neurobehavioral profile. RESULTS: Chemotherapy-treated survivors showed poorer Stroop accuracy for faces normatively categorized as fearful and hypoactivation of the dorsomedial prefrontal cortex, yet reported lower affective symptoms than non-chemotherapy survivors, who instead showed heightened negative attentional bias and greater incongruency-related interference in the parahippocampal gyrus and insula. A normative inverse coupling between dorsal anterior cingulate cortex activation and affective symptom severity was present only in healthy controls. CONCLUSION: Breast cancer survivors exhibit distinct neurobehavioral phenotypes with potential supportive care implications. Lower self-reported distress in chemotherapy-treated survivors paralleled reduced salience network engagement, a configuration compatible with emotional blunting rather than genuine well-being; because emotional blunting was not measured directly, this remains an interpretive hypothesis. These findings caution against relying solely on self-report screening and motivate the hypothesis that treatment-history-informed survivorship care may be beneficial-affective re-engagement strategies for chemotherapy-exposed survivors, and attention-bias modification or mindfulness-based approaches for non-chemotherapy survivors-a proposal that now requires testing in intervention trials.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Potential Outcomes Effects in Mediation Designs with Three Experimental Conditions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42825875/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-02T00:00:00",
-      "date_fetched": "2026-10-03T15:23:08.288596",
-      "doi": "10.1007/s11121-026-01983-3",
-      "authors": [
-        {
-          "name": "Diana Alvarez-Bartolo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heather L Smyth",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ahnalee M Brincks",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David P MacKinnon",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Causal mediation analysis, based on the potential outcomes framework, is an important new tool for prevention research. Causal mediation analysis is a non-parametric, general technique for estimating causal effects in mediation analysis with explicit emphasis on the identification of assumptions necessary for causal inference. Causal mediation analysis is generally described for the simplest case of two experimental conditions (e.g., treatment and control), which limits researchers to splitting their study into pairwise contrasts when they have more than two experimental conditions. This paper expands causal mediation analysis based on the potential outcomes framework to include the definition, identification, and estimation of causal effects when there are three experimental conditions. Interpretations of the causal effects are illustrated with synthetic data, based on a three-arm mindfulness study. The analytical approach for calculating the causal effects with three experimental conditions is described and implemented in various software, including SAS, Mplus and the R package. The implications of this new approach to mediation analysis are discussed, including the method's clear focus on meeting the assumptions for estimating causal effects and making causal claims.",
-      "journal": "Prevention science : the official journal of the Society for Prevention Research",
+      "abstract": "OBJECTIVE: To examine the evidence supporting the use of specific compensatory cognitive strategies in people with multiple sclerosis (PwMS). DATA SOURCES: PubMed, MEDLINE, PsycINFO, and CINAHL were queried using an optimized string with Medical Subject Headings search terms to identify English language articles published through December 31, 2024. STUDY SELECTION: Clinical trials and observations studies (eg, cohort and case-control studies) were eligible if they included adults with PwMS who underwent an intervention with one or more defined cognitive strategies. Included studies had at least one subjective or objective quantifiable cognitive outcome. Screening and eligibility checks were independently done by the first author and then reviewed by the senior author. DATA EXTRACTION: Study demographics, cognitive strategy information, and cognitive outcome data were extracted by one author and then verified by a second author. Studies were summarized using established evidence grading criteria and effect size estimates were calculated for each cognitive domain where a strategy was assessed. DATA SYNTHESIS: The most frequently used cognitive strategy in the 64 identified studies (n=3759) was visualization/imagery-based mnemonics (34.9%), followed by planning/organization strategies (28.6%), analog memory aids (19.0%), mental rehearsal strategies (15.9%), and mindfulness (15.9%). Small-to-medium improvements in objective and subjective learning and memory were observed with several attentional, internal memory, and external memory strategies that were used alone and in combination. Attentional and relaxation-based strategies were also associated with significant small effects on processing speed. CONCLUSIONS: Several cognitive strategies have been examined in PwMS, with visualization/imagery-based mnemonics having the highest usage and subsequent supporting evidence. These findings can support clinicians when determining which approaches to include in a cognitive rehabilitation program for PwMS.",
+      "journal": "Archives of physical medicine and rehabilitation",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
