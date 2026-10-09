@@ -1,362 +1,603 @@
 {
-  "generated_at": "2026-10-08T18:07:26.888948",
+  "generated_at": "2026-10-09T17:40:57.433910",
   "papers": [
     {
-      "title": "Meditation Depth Enhances the Functional Signal-to-Noise Ratio of the Brain",
-      "url": "https://www.semanticscholar.org/paper/1f2ecc4143e08591c323b428ccdf6d746e9ac488",
+      "title": "Machine Learning-Based Classification of Jhana Advanced Concentrative Absorption Meditation (ACAM-J) using 7T fMRI",
+      "url": "https://www.semanticscholar.org/paper/599179d1020f145a3017f7c501fca38308c28110",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-10-05T00:00:00",
-      "date_fetched": "2026-10-08T18:06:27.749343",
-      "doi": "10.64898/2026.06.30.735351",
+      "date_published": "2026-02-13T00:00:00",
+      "date_fetched": "2026-10-09T17:40:27.102972",
+      "doi": "10.48550/arXiv.2602.13008",
       "authors": [
         {
-          "name": "M. Nath",
-          "author_id": "100633018",
+          "name": "Puneet Kumar",
+          "author_id": "2291199974",
           "affiliation": null
         },
         {
-          "name": "N. Reggente",
-          "author_id": "3435438",
+          "name": "W. F. Yang",
+          "author_id": "2300816450",
           "affiliation": null
         },
         {
-          "name": "Neil W. Bailey",
-          "author_id": "2241862275",
+          "name": "Alakhsimar Singh",
+          "author_id": "2322617111",
           "affiliation": null
         },
         {
-          "name": "M. Kringelbach",
-          "author_id": "1988969",
+          "name": "Xiao-Bai Li",
+          "author_id": "2266423066",
           "affiliation": null
         },
         {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "Across contemplative traditions, deeper states of meditation are described as states of heightened clarity, vividness, and stillness of mind, yet what this clarity corresponds to in the brain has remained difficult to specify. The functional signal-to-noise ratio (f-SNR) framework frames mental clarity as a measurable property of neural signals: the degree to which brain activity tracks the causes of sensory signals rather than task-irrelevant endogenous activity. It predicts that deepening meditation should raise f-SNR, expressing sensory events more faithfully in neural signals against ongoing background activity. We tested this prediction across different levels of meditative depth. Twenty-nine experienced Vipassana practitioners meditated while auditory tones were presented, periodically reporting their depth of meditation. f-SNR was quantified from event-related potentials (ERPs) in a fronto-central P3 window and from single-trial decodability of auditory tone-evoked activity against no-tone background EEG. High-depth states were associated with greater ERP signal-to-noise ratio, stronger single-trial signal consistency, and improved decodability of sound tones. These results suggest that meditative depth is expressed in the reproducibility and stimulus-background separability of sensory responses, consistent with deep meditation enhancing the brain\u2019s functional signal-to-noise ratio by improving the clarity of sensory signals and reducing task-irrelevant endogenous processes.",
-      "journal": "bioRxiv",
+      "abstract": "Jhana advanced concentration absorption meditation (ACAM-J) is related to profound changes in consciousness and cognitive processing, making the study of their neural correlates vital for insights into consciousness and well-being. This study evaluates whether functional MRI-derived regional homogeneity (ReHo) can be used to classify ACAM-J using machine-learning approaches. We collected group-level fMRI data from 20 advanced meditators to train the classifiers, and intensive single-case data from an advanced practitioner performing ACAM-J and control tasks to evaluate generalization. ReHo maps were computed, and features were extracted from predefined brain regions of interest. We trained multiple machine learning classifiers using stratified cross-validation to evaluate whether ReHo patterns distinguish ACAM-J from non-meditative states. Ensemble models achieved 66.82% (p<0.05) accuracy in distinguishing ACAM-J from control conditions. Feature-importance analysis indicated that prefrontal and anterior cingulate areas contributed most to model decisions, aligning with established involvement of these regions in attentional regulation and metacognitive processes. Moreover, moderate agreement reflected in Cohen's kappa supports the feasibility of using machine learning to distinguish ACAM-J from non-meditative states. These findings advocate machine-learning's feasibility in classifying advanced meditation states, future research on neuromodulation and mechanistic models of advanced meditation.",
+      "journal": "arXiv.org",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "Trait mindfulness and psychological distress in college students: indirect associations via experiential avoidance.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42268645/",
+      "title": "Comprehensive Review of Jalandhara Bandha",
+      "url": "https://www.semanticscholar.org/paper/cced8ef370fc8842df554c2e31fd58dde713cd7e",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-01T00:00:00",
-      "date_fetched": "2026-10-08T18:07:15.640835",
-      "doi": "10.1080/07448481.2026.2673432",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-10-09T17:40:27.103010",
+      "doi": "10.55552/ayuscript.2025.4320",
       "authors": [
         {
-          "name": "Gabriel Simerly",
-          "author_id": null,
+          "name": "Gosavi S",
+          "author_id": "2410604444",
           "affiliation": null
         },
         {
-          "name": "Joshua Broman-Fulks",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rose Mary Webb",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lisa Emery",
-          "author_id": null,
+          "name": "S. G",
+          "author_id": "2338107543",
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: This cross-sectional study examined whether the associations between trait mindfulness and psychological distress were consistent with indirect associations involving experiential avoidance (EA) among college students. PARTICIPANTS: The sample consisted of 289 undergraduate students ( METHODS: Participants completed the Five Facet Mindfulness Questionnaire, Acceptance and Action Questionnaire-II, Multidimensional Experiential Avoidance Questionnaire, and Depression Anxiety Stress Scales-21. Indirect effect models were estimated with bootstrapped confidence intervals. RESULTS: Higher trait mindfulness was associated with lower EA, and higher EA was associated with greater depression, anxiety, and stress. Bootstrapped 95% confidence intervals for indirect effect estimates did not include zero across outcomes and EA measures, and direct associations between mindfulness and distress remained. CONCLUSIONS: These findings are consistent with psychological flexibility theory and suggest that EA is a relevant correlate of mindfulness-distress associations in college students. Longitudinal and experimental studies are needed to test temporal precedence and causal mechanisms.",
-      "journal": "Journal of American college health : J of ACH",
-      "year": 2026,
+      "abstract": "Jalandhar Bandha, traditionally described as the \u201cthroat lock,\u201d is a key practice in Ha\u1e6dha Yoga that integrates musculoskeletal, respiratory, and subtle energetic mechanisms. Classical yogic texts such as the Ha\u1e6dha Yoga Pradipika, Ghera\u1e47\u1e0da Samhita, and Shiva Samhita emphasize its role in regulating Pra\u1e47ic flow, safeguarding the practitioner during Pranayama, and facilitating meditative absorption. Anatomically, the practice involves flexion of the cervical spine and compression at the throat region, which may influence blood circulation, vagal stimulation, and endocrine function, particularly at the thyroid and parathyroid glands. Contemporary research suggests potential benefits of Jalandhara Bandha in autonomic regulation, stress reduction, respiratory efficiency, and management of thyroid and cardiovascular conditions. However, contraindications include cervical spondylosis, uncontrolled hypertension, glaucoma, and other conditions requiring cautious application. This review integrates scriptural descriptions, anatomical and physiological interpretations, therapeutic potentials, and available research evidence to provide a comprehensive understanding of Jalandhara Bandha. It highlights both the enduring relevance of this yogic technique in modern health care and the need for further clinical validation.",
+      "journal": "Ayuscript",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "Comparative efficacy of neurofeedback and traditional mindfulness meditation on undergraduates' stress and mindfulness: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42096451/",
+      "title": "Cactus-like architecture for synergistic microwave absorption and thermal management",
+      "url": "https://www.semanticscholar.org/paper/675ae420314b79ebe749daf67920aff6de328b47",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-01T00:00:00",
-      "date_fetched": "2026-10-08T18:07:15.641178",
-      "doi": "10.1080/07448481.2026.2667451",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-17T00:00:00",
+      "date_fetched": "2026-10-09T17:40:27.103066",
+      "doi": "10.1093/nsr/nwaf394",
       "authors": [
         {
-          "name": "Shiva Jahani",
-          "author_id": null,
+          "name": "Jia-Min Qi",
+          "author_id": "2320769221",
           "affiliation": null
         },
         {
-          "name": "Steve Haberlin",
-          "author_id": null,
+          "name": "Chao-Bo Liang",
+          "author_id": "40952890",
           "affiliation": null
         },
         {
-          "name": "William Carter",
-          "author_id": null,
+          "name": "Kunpeng Ruan",
+          "author_id": "113076877",
           "affiliation": null
         },
         {
-          "name": "Terrie Bradshaw",
-          "author_id": null,
+          "name": "Mukun Li",
+          "author_id": "2187551172",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Guo",
+          "author_id": "2283510223",
+          "affiliation": null
+        },
+        {
+          "name": "Mu-Kun He",
+          "author_id": "2303246295",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Qiu",
+          "author_id": "2281464768",
+          "affiliation": null
+        },
+        {
+          "name": "Yong-Qiang Guo",
+          "author_id": "1390575053",
+          "affiliation": null
+        },
+        {
+          "name": "Jun-Wei Gu",
+          "author_id": "2240841764",
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: This randomized controlled trial (RCT) investigated the comparative efficacy of two active mindfulness interventions, neurofeedback-assisted meditation and traditional guided meditation. METHODS: A total of 137 undergraduates were recruited and randomly assigned to one of three, 8-week conditions: neurofeedback meditation ( RESULTS: One-Way ANOVA revealed no statistically significant differences between the three groups on post-intervention mindfulness scores,  CONCLUSIONS: These findings suggest that the 8-week intervention, regardless of the method, was ineffective in producing statistically meaningful group differences. While acceptability was high, the inclusion of consumer-grade neurofeedback provided no measurable advantage over traditional guided meditation.",
-      "journal": "Journal of American college health : J of ACH",
-      "year": 2026,
+      "abstract": "ABSTRACT As electronic devices evolve toward miniaturization, integration and diversification, developing composites with thermal management and broadband microwave absorption has become critical for addressing electromagnetic compatibility and heat-dissipation challenges. Inspired by the multilevel thorny structure of a cactus, this study proposes a biomimetic 3D network structure via a \u2018direction-decoupling\u2019 design to enhance thermal conductivity and microwave absorption. Boron nitride nanosheets (BNNS) form horizontal thermal pathways, while cobalt-catalysed nitrogen-doped carbon nanotube arrays (Co@NCNTs) are vertically grown in the interlayer for cactus-like heterostructure fillers. Finally, composites are obtained by combining the solid\u2013solid phase-change polyethylene glycol matrix with the directional assembly process. At a mass fraction of 30 wt% for (Co@NCNTs)@BNNS, the composites exhibit the best microwave absorption and thermal conductivity at a thickness of 2.5 mm. The maximum effective absorption bandwidth reaches 6.72 GHz, with in-plane and through-plane thermal conductivity coefficients reaching 2.55 and 0.94 W\u00b7m\u20131\u00b7K\u20131, realizing simultaneous improvements in thermal conductivity and microwave-absorption performance. Moreover, density functional theory analysis confirms the interfacial bonding between Co@NCNTs and BNNS systems and verifies the advantages of a unique electronic structure for microwave absorption between Co- and nitrogen-doped carbon nanotubes. This study provides new strategies for integrated thermal\u2013electromagnetic management materials in next-generation high-density electronics.",
+      "journal": "National Science Review",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "Impacts of mindfulness- and cognitive behavior-based interventions on psychological and physiological health outcomes in females with polycystic ovary syndrome: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42845001/",
+      "title": "Anionic high-entropy doping engineering for electromagnetic wave absorption",
+      "url": "https://www.semanticscholar.org/paper/08771b7c757c3c60ee0583da6abc17812a518f04",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-07T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.065083",
-      "doi": "10.1177/13591053261489860",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-02T00:00:00",
+      "date_fetched": "2026-10-09T17:40:27.103088",
+      "doi": "10.1038/s41467-025-58448-4",
       "authors": [
         {
-          "name": "Alicia Duval",
-          "author_id": null,
+          "name": "Jiaqi Tao",
+          "author_id": "1947726903",
           "affiliation": null
         },
         {
-          "name": "Danielle E Berbrier",
-          "author_id": null,
+          "name": "Yi Yan",
+          "author_id": "2295766130",
           "affiliation": null
         },
         {
-          "name": "Arielle Crestol",
-          "author_id": null,
+          "name": "Jin-Tang Zhou",
+          "author_id": "15022705",
           "affiliation": null
         },
         {
-          "name": "Brittany K Schwende",
-          "author_id": null,
+          "name": "Jin Wang",
+          "author_id": "2272076063",
           "affiliation": null
         },
         {
-          "name": "Blaine Ditto",
-          "author_id": null,
+          "name": "Ping Chen",
+          "author_id": "2278777006",
           "affiliation": null
         },
         {
-          "name": "Charlotte W Usselman",
-          "author_id": null,
+          "name": "Ruiyang Tan",
+          "author_id": "2633451",
+          "affiliation": null
+        },
+        {
+          "name": "Linling Xu",
+          "author_id": "2152895618",
+          "affiliation": null
+        },
+        {
+          "name": "Hong-Bao Zhu",
+          "author_id": "2307474828",
+          "affiliation": null
+        },
+        {
+          "name": "Wenhui Zhu",
+          "author_id": "2307651262",
+          "affiliation": null
+        },
+        {
+          "name": "He-xia Huang",
+          "author_id": "2255816434",
+          "affiliation": null
+        },
+        {
+          "name": "Xuewei Tao",
+          "author_id": "2278313408",
+          "affiliation": null
+        },
+        {
+          "name": "Zheng-Jun Yao",
+          "author_id": "2238328190",
           "affiliation": null
         }
       ],
-      "abstract": "This review synthesized the effects of mindfulness-based (MBIs) and cognitive behavior-based (CBIs) interventions on psychological and physiological outcomes in females with polycystic ovary syndrome (PCOS). Searches across PsycINFO, MEDLINE, Scopus, and ProQuest identified randomized and non-randomized controlled trials. Twelve studies (",
-      "journal": "Journal of health psychology",
-      "year": 2026,
+      "abstract": "High-entropy doping (HED) engineering surpasses conventional methods for optimizing atomic configurations and electronic structures, opening new paths for developing advanced electromagnetic wave absorbing (EWA) materials. However, the application of anionic HED engineering to tailor EWA mechanisms remains unexplored. Herein, we employ in situ pyrolysis combined with a three-stage solvent thermal doping procedure to systematically induce anion multibody interactions, thereby facilitating the inheritance and accumulation of beneficial EWA properties. The research shows that anions with various electronegativities precisely balance free charges and create a significant localized charge imbalance, triggering the \u2018directional cocktail effect\u2019. This effect induces an optimal dielectric loss mechanism and enhances the EWA performance. With only 7.5\u2009wt% filling, the effective absorption bandwidth and minimum reflection loss are 7.05\u2009GHz and \u221260 dB, respectively. Overall, we report an anionic HED engineering within thin a graphite framework, which may be conceptually extendable for electromagnetic modulation of other two-dimensional van der Waals EWA materials. This study presents an anionic high-entropy doping strategy, elucidating the intricate charges state regulation to drive dipole polarization-dominated dielectric loss and efficient electromagnetic wave absorption in thin graphite framework.",
+      "journal": "Nature Communications",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "The gentle grip of beauty: Neural bases of motor inhibition during aesthetic appreciation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42841755/",
+      "title": "Effects of Moisture Absorption on the Mechanical and Fatigue Properties of Natural Fiber Composites: A Review",
+      "url": "https://www.semanticscholar.org/paper/181062c815bc168a75a9c5f3282f6ab6817d0067",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-07T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.065920",
-      "doi": "10.1093/scan/nsag084",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-01T00:00:00",
+      "date_fetched": "2026-10-09T17:40:27.103143",
+      "doi": "10.3390/polym17141996",
       "authors": [
         {
-          "name": "Paolo Barbieri",
-          "author_id": null,
+          "name": "Ana Pavlovic",
+          "author_id": "2300732765",
           "affiliation": null
         },
         {
-          "name": "Jacopo Frascaroli",
-          "author_id": null,
+          "name": "L. Valzania",
+          "author_id": "31723266",
           "affiliation": null
         },
         {
-          "name": "Greta Varesio",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Francesca Piovesan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ludovico Bechis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pietro Sarasso",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Irene Ronga",
-          "author_id": null,
+          "name": "G. Minak",
+          "author_id": "50975919",
           "affiliation": null
         }
       ],
-      "abstract": "A century-old tradition characterizes aesthetic experiences as intense contemplative moments in which we suspend practical concerns and devote our full attention to the object at hand. In line with this tradition, recent theories suggest that aesthetic experiences involve heightened sensory processing accompanied by a suppression of motor activity. Yet, while the link between aesthetic appreciation and perceptual enhancement has received considerable attention, the role of motor inhibition remains largely unexplored. The present study addressed this gap by investigating whether the aesthetic appreciation of images can modulate behavioral and electrophysiological markers of motor inhibition. In Experiment 1, significantly slower reaction times following the observation of preferred images were found. In Experiment 2, EEG responses associated with motor preparation and execution were significantly reduced in trials involving preferred compared with non-preferred images. Time-frequency analysis revealed significantly decreased alpha power (associated with attentional engagement toward visual perception) and increased beta power (associated with inhibited motor preparation) for preferred than non-preferred images. Overall, our results provide new evidence for the existence of a relationship between aesthetic appreciation and motor inhibition and position aesthetic experience as a valuable case study for exploring the adaptive coordination of sensory and motor systems in response to environmental demands.",
-      "journal": "Social cognitive and affective neuroscience",
-      "year": 2026,
+      "abstract": "This review critically examines the effects of moisture absorption on the mechanical and fatigue properties of natural fiber composites (NFCs), with a focus on tensile strength, elastic modulus, and long-term durability. Moisture uptake can cause reductions in tensile strength of up to 40% and in elastic modulus by 20\u201330% depending on fiber type, mass fraction (typically in the range of 30\u201360%), and surface treatments. The review highlights Ithat while surface modifications (e.g., alkaline and silane treatments) significantly mitigate moisture-induced degradation, their effectiveness is highly sensitive to the processing conditions. Additionally, hybridization strategies and optimized fiber orientations show promise in enhancing fatigue resistance under humid environments. Despite substantial progress, major challenges remain, including the lack of standardized testing protocols and the limited understanding of multiscale aging mechanisms. Future research directions include developing predictive models that couple moisture diffusion and mechanical deterioration, implementing advanced in situ monitoring of damage evolution, and exploring novel bio-based treatments. By addressing these gaps, NFCs can become more reliable and widely adopted as sustainable alternatives in structural applications.",
+      "journal": "Polymers",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "Understanding time as a predictor of mental health, academic performance, and help-seeking behavior among undergraduates: a mixed methods analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42391524/",
+      "title": "A remarkable ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a little red dot at z\u2004=\u20043.5",
+      "url": "https://www.semanticscholar.org/paper/d04f988cd007b7a201a894cc18e19ddc3143a7d9",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-01T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.066100",
-      "doi": "10.1080/07448481.2026.2681092",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-20T00:00:00",
+      "date_fetched": "2026-10-09T17:40:27.103181",
+      "doi": "10.1051/0004-6361/202554681",
       "authors": [
         {
-          "name": "Caitlin McKimmy",
-          "author_id": null,
+          "name": "A. de Graaff",
+          "author_id": "2120232762",
           "affiliation": null
         },
         {
-          "name": "Robert J Gallop",
-          "author_id": null,
+          "name": "H. Rix",
+          "author_id": "2229752118",
           "affiliation": null
         },
         {
-          "name": "Sona Dimidjian",
-          "author_id": null,
+          "name": "R. Naidu",
+          "author_id": "144183696",
+          "affiliation": null
+        },
+        {
+          "name": "I. Labb\u00e9",
+          "author_id": "2282137160",
+          "affiliation": null
+        },
+        {
+          "name": "Bing-Jie Wang",
+          "author_id": "2155840220",
+          "affiliation": null
+        },
+        {
+          "name": "J. Leja",
+          "author_id": "3822997",
+          "affiliation": null
+        },
+        {
+          "name": "J. Matthee",
+          "author_id": "88648446",
+          "affiliation": null
+        },
+        {
+          "name": "H. Katz",
+          "author_id": "80763133",
+          "affiliation": null
+        },
+        {
+          "name": "J. Greene",
+          "author_id": "2267337855",
+          "affiliation": null
+        },
+        {
+          "name": "R. Hviding",
+          "author_id": "103123679",
+          "affiliation": null
+        },
+        {
+          "name": "J. Baggen",
+          "author_id": "2128828175",
+          "affiliation": null
+        },
+        {
+          "name": "R. Bezanson",
+          "author_id": "6095805",
+          "affiliation": null
+        },
+        {
+          "name": "L. Boogaard",
+          "author_id": "88617185",
+          "affiliation": null
+        },
+        {
+          "name": "G. Brammer",
+          "author_id": "2304953390",
+          "affiliation": null
+        },
+        {
+          "name": "P. Dayal",
+          "author_id": "28237020",
+          "affiliation": null
+        },
+        {
+          "name": "P. V. van Dokkum",
+          "author_id": "2079223909",
+          "affiliation": null
+        },
+        {
+          "name": "A. Goulding",
+          "author_id": "2348475277",
+          "affiliation": null
+        },
+        {
+          "name": "M. Hirschmann",
+          "author_id": "30020592",
+          "affiliation": null
+        },
+        {
+          "name": "M. Maseda",
+          "author_id": "51500798",
+          "affiliation": null
+        },
+        {
+          "name": "I. McConachie",
+          "author_id": "2085793366",
+          "affiliation": null
+        },
+        {
+          "name": "T. Miller",
+          "author_id": "144658643",
+          "affiliation": null
+        },
+        {
+          "name": "Erica J. Nelson",
+          "author_id": "2266841754",
+          "affiliation": null
+        },
+        {
+          "name": "P. Oesch",
+          "author_id": "3200683",
+          "affiliation": null
+        },
+        {
+          "name": "D. Setton",
+          "author_id": "104512008",
+          "affiliation": null
+        },
+        {
+          "name": "I. Shivaei",
+          "author_id": "103325036",
+          "affiliation": null
+        },
+        {
+          "name": "A. Weibel",
+          "author_id": "120611225",
+          "affiliation": null
+        },
+        {
+          "name": "K. Whitaker",
+          "author_id": "2280977681",
+          "affiliation": null
+        },
+        {
+          "name": "C. Williams",
+          "author_id": "40398007",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The origin of the rest-optical emission of compact, red, high-redshift sources known as little red dots (LRDs) poses a major puzzle. If interpreted as starlight, it would imply that LRDs constitute the densest stellar systems in the Universe. However, alternative models suggest active galactic nuclei (AGN) may instead power the rest-optical continuum. Here, we present JWST/NIRSpec, NIRCam, and MIRI observations from the RUBIES and PRIMER programs of The Cliff: a bright LRD at z\u2004=\u20043.55 with an exceptional Balmer break, twice as strong as that of any high-redshift source previously observed. The spectra also reveal broad hydrogen (H\u03b1 FWHM\u2004\u223c\u20041500\u2006km\u2006s\u22121) and He\u202fI emission, but no significant metal lines. We demonstrate that massive evolved stellar populations cannot explain the observed spectrum, even when considering unusually steep and strong dust attenuation or reasonable variations in the initial mass function. Moreover, the formally best-fit stellar mass and compact size (M*\u2004\u223c\u20041010.5\u2006M\u2299,\u2006 re\u2004\u223c\u200440\u2006pc) would imply densities at which near-monthly stellar collisions might lead to significant X-ray emission. We argue that the Balmer break, emission lines, and H\u03b1 absorption line are instead most plausibly explained by a black hole star (BH*) scenario, in which dense gas surrounds a powerful ionising source. In contrast to recently proposed BH* models of dust-reddened AGN, we show that spectral fits in the rest UV to near-infrared favour an intrinsically redder continuum over strong dust reddening. This may point to a super-Eddington accreting massive black hole or, possibly, the presence of (super)massive stars in a nuclear star cluster. The Cliff is the clearest evidence to date that at least some LRDs are not ultra-dense massive galaxies, and are instead powered by a central ionising source embedded in dense, absorbing gas.",
+      "journal": "Astronomy &amp; Astrophysics",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Zero-shot Learning Model with Dynamic and Static Feature Fusion for Industrial Gas-liquid Two-phase Flow State Identification",
+      "url": "https://www.semanticscholar.org/paper/6e1dce1d6789f125fe49709e80f01481370c1601",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-19T00:00:00",
+      "date_fetched": "2026-10-09T17:40:32.001864",
+      "doi": "10.1109/I2MTC62753.2025.11079015",
+      "authors": [
+        {
+          "name": "Xinyi Han",
+          "author_id": "2304069750",
+          "affiliation": null
+        },
+        {
+          "name": "Ling-Han Li",
+          "author_id": "1391198644",
+          "affiliation": null
+        },
+        {
+          "name": "Shumei Zhang",
+          "author_id": "2145893870",
+          "affiliation": null
+        },
+        {
+          "name": "Feng Dong",
+          "author_id": "2321552986",
+          "affiliation": null
+        },
+        {
+          "name": "Feng Dong",
+          "author_id": "2374158480",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
-      "year": 2026,
+      "journal": "International Instrumentation and Measurement Technology Conference",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "flow state contemplative"
+      ]
     },
     {
-      "title": "Latent profiles of emotion coping behaviors among college students with suicidal thinking.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42018963/",
+      "title": "Computational neurophenomenology meets\n MuSe\n : A Commentary on \u015eerife Tekin\u2019s\n Reclaiming the self in psychiatry",
+      "url": "https://www.semanticscholar.org/paper/d205f3e171153a46b28883de8cbeb86e8438dfbb",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-01T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.066178",
-      "doi": "10.1080/07448481.2026.2655965",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-27T00:00:00",
+      "date_fetched": "2026-10-09T17:40:35.532398",
+      "doi": "10.1080/09515089.2026.2638967",
       "authors": [
         {
-          "name": "Qingqing Yin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annabelle M Mournet",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shireen L Rizvi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Evan M Kleiman",
-          "author_id": null,
+          "name": "Jos\u00e9 M. Araya",
+          "author_id": "115969460",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of American college health : J of ACH",
+      "journal": "Philosophical Psychology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Risks of Burnout Among Mobile Crisis Team Workers in a Southern U.S. State: A Pilot Study of Work Climate and Mindfulness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842172/",
+      "title": "Empatiyaning psixologik reabilitatsiya mexanizmi sifatidagi roli: konsepsiyaning nazariy rekonstruksiyasi",
+      "url": "https://www.semanticscholar.org/paper/e27486242b0eda34a18ec5052d8559c5872f8eda",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-07T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.066846",
-      "doi": "10.1007/s10597-026-01736-0",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-08-10T00:00:00",
+      "date_fetched": "2026-10-09T17:40:35.532477",
+      "doi": "10.67547/fanistiqbollari.2026.354",
       "authors": [
         {
-          "name": "Junfei Lu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karen A Johnson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Paige Parish",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shanna McIntosh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "David L Albright",
-          "author_id": null,
+          "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0420\u0443\u0441\u0442\u0430\u043c\u043e\u0432\u0438\u0447 \u042f\u0433\u0443\u0434\u0438\u043d",
+          "author_id": "2487798458",
           "affiliation": null
         }
       ],
-      "abstract": "The present pilot study examined burnout symptoms among frontline mental health workers in Mobile Crisis Teams (MCTs) and explored their associations with perceived work climate (an indicator of organizational resources) and individual mindfulness (an indicator of personal resources) after controlling for sex, race, and work experience, based on the Job Demands-Resources model. Survey data were collected from 50 participants offering mobile crisis services across 11 community mental health centers in a southern U.S. state, representing the full set of centers that had received funding to provide mobile crisis services statewide. Findings showed that 31.3% and 14.6% of participants disclosed moderate to high degrees of exhaustion and depersonalization - two key burnout symptoms. Also, the results of regression analyses indicated that individual mindfulness and work climate specifically helped predict participants' exhaustion and depersonalization, respectively, after controlling for sex, race, and work experience. Implications were discussed for burnout prevention among workers in MCTs.",
-      "journal": "Community mental health journal",
+      "abstract": "The article is devoted to the revision of the conceptual boundaries of empathy in the context of its application in psychological rehabilitation. The study substantiates the need for differentiation between empathy as a background condition of therapeutic contact and as an operationalized mechanism that initiates neuroplastic and regulatory changes. Based on an integrative analysis of foreign and domestic approaches (cognitive-behavioral tradition, neurophenomenology, attachment theory), a three-component model of rehabilitation empathy is reconstructed, including affective contagion, perspective-taking, and regulatory feedback. It is concluded that the integration of empathy into rehabilitation protocols requires not simply a recommendation to \u00abbe empathic\u00bb, but the systematic formation of a meta-skill of empathic responding in the rehabilitant and his environment. Special attention is paid to the psychology of rehabilitation of the empathy mechanism as an independent research field that accumulates data from neuroscience and clinical psychology.",
+      "journal": "Zamonaviy jamiyat va innovatsiyalar ilmiy-nazariy jurnali",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
     },
     {
-      "title": "Perception of Special Needs Dentistry Amongst Allied Dental Professionals in Australia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42845013/",
+      "title": "Totemic Mediation and Visual Praj\u00f1\u0101: How Lotus and Dharma Wheel Motifs Generate Embodied \u015a\u016bnyat\u0101 Experience in the Dunhuang Mogao Caves",
+      "url": "https://www.semanticscholar.org/paper/054c36115862e270dcc57b3b82c46333200a9a57",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-12T00:00:00",
+      "date_fetched": "2026-10-09T17:40:35.532485",
+      "doi": "10.3390/rel17060707",
+      "authors": [
+        {
+          "name": "Yu Wang",
+          "author_id": "2405446236",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article argues that lotus and dharma wheel motifs in the Dunhuang Mogao Caves function not merely as decorative symbols but as active visual apparatuses that generate embodied religious experience through a mechanism we term \u201ctotemic mediation.\u201d Drawing on L\u00e9vi-Strauss\u2019s structuralist reading of totemism, Descola\u2019s ontological framework, Gell\u2019s theory of art as agency, Meyer\u2019s \u201csensational form,\u201d and Varela\u2019s neurophenomenology, we define totemic mediation as a triadic mechanism encompassing material\u2013spatial arrangement, ontological transformation of experiential states, and value structure generation. We analyze motifs from Mogao Caves 285, 329, and 361 using a five-step analytic framework: formal\u2013visual description, reconstructed embodied viewing, doctrinal identification, mediation mechanism analysis, and evaluative assessment. The analysis demonstrates that the lotus mediates ontologically along a spatial axis, building a vertical channel between the worldly and the divine through ceiling configurations and upward gazes, while the dharma wheel mediates teleologically across the temporal axis, neutralizing linear temporality through rotational dynamics. Together, these motifs constitute \u201cvisual praj\u00f1\u0101\u201d\u2014a nonconceptual, embodied cognitive effect that bypasses discursive reasoning to enable direct apprehension of \u015b\u016bnyat\u0101 (emptiness). This article offers a replicable analytic framework for examining how religious images operate simultaneously as visual apparatuses and ontological mediators.",
+      "journal": "Religions",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
+    },
+    {
+      "title": "St Thomas\u2019 tactile visionary experiences from a neurophenomenological perspective",
+      "url": "https://www.semanticscholar.org/paper/f446dc029057d6f4f63e719d4f1416b7bf9f7462",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-09-23T00:00:00",
+      "date_fetched": "2026-10-09T17:40:35.532492",
+      "doi": "10.17570/stj.2026.vn1.a10",
+      "authors": [
+        {
+          "name": "Thomas KL Vaidyan",
+          "author_id": "2503422873",
+          "affiliation": null
+        }
+      ],
+      "abstract": "A neurophenomenological perspective postulates the aspects of perception and cognition to understand visionary experiences. St Thomas\u2019 immediate reaction when he heard about other disciples\u2019 visions of Jesus was not to believe it until he put his finger on the wounds of Jesus when crucified, suffered bleeding and died. After a week, his experiences of seeing, hearing and touching Jesus in a locked room after his crucifixion, death and resurrection are investigated here as natural phenomena due to certain neural processes. The neuronal functions are embedded in the constant interaction of bodily movement, reaction and influences of the cultural environment, resulting in kinaesthetic, tactile and visual perceptions. The explanations in neurophenomenology add value to them as natural phenomena. I compare these with hallucinations in cognitivism and synaesthetic perceptions in physiology and psychology, where sensory information through multiple sensory pathways simultaneously brings experiences from more than one sense.",
+      "journal": "Stellenbosch theological journal",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "neurophenomenology"
+      ]
+    },
+    {
+      "title": "Why can't they stop playing? Relative deprivation and problematic Otome game behavior among adult women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849133/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-08T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.067049",
-      "doi": "10.1111/adj.70075",
+      "date_fetched": "2026-10-09T17:40:56.714776",
+      "doi": "10.1016/j.actpsy.2026.107968",
       "authors": [
         {
-          "name": "Jessica Francis",
+          "name": "Yongxuan Gao",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Gelsomina Lucia Borromeo",
+          "name": "Zhengkai Wei",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ruiting Shi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Puteri Nuraqidah Abdul Razak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fakir Mohamad Md Nor",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: In Australia, Dental Therapists (DTs), Dental Hygienists (DHs) and Oral Health Therapists (OHTs) encounter Special Needs (SN) patients in their clinical practice. This study investigates their perception, training, working experience and referral patterns within Special Needs Dentistry (SND). MATERIALS AND METHODS: Paper-based questionnaire was distributed to a systematically selected sample of 1000 registered DHs, DTs and OHTs who were members of professional bodies in Australia. Respondents were included irrespective of age, gender, length of working experience and country of graduation. Data analysis consisted of Chi-squared regression analysis (p\u2009<\u20090.05) using IBM SPSS Windows Version 29.0 (Melbourne, Victoria, Australia). RESULTS: A response rate of 49.8% (215 DTs, 107 DHs and 163 OHTs) was obtained. A significantly larger proportion of OHTs (59.5%) was aware of SND as a specialty compared to DHs (45%) and DTs (41.9%) (p\u2009<\u20090.05) and hence OHTs referred to SND specialists more often than other groups. In addition, 73.6% of OHTs, 63.6% of DHs and 40% of DTs had both didactic and clinical training in SND (p\u2009<\u20090.05). All the categories stated lack of training and continuing professional development (CPD) in SND as the main reasons for not treating SN patients. They therefore expressed interest in attending related CPD training (OHTs: 90.2%, DHs: 88.8% and DTs: 88.3%). CONCLUSIONS: OHTs demonstrated greater awareness, training, working experience and referral in SND than DHs and DTs; however, training gaps across all groups highlight the need for strengthened undergraduate education and accessible CPD in SND. CLINICAL RELEVANCE: Understanding the perception of allied dental professionals regarding SND is crucial for improving access to and the quality of care for patients with special needs. Prior research has highlighted gaps in training and confidence levels amongst general practitioners; however, little is known about the perspectives of allied professionals. This study provides valuable insights into their awareness, perceived roles and educational needs, emphasizing the importance of inclusive team-based care.",
-      "journal": "Australian dental journal",
+      "abstract": "OBJECTIVE: To examine the associations between relative deprivation and problematic Otome game behavior among adult female players, test the parallel mediating roles of player-character attachment and maladaptive cognition, and examine the separate moderating role of trait mindfulness. METHOD: An online cross-sectional survey was conducted among 433 Chinese adult female Otome gamers recruited through snowball sampling on Xiaohongshu and Weibo. RESULTS: Relative deprivation was positively associated with problematic Otome game behavior, and both player-character attachment and maladaptive cognition showed significant indirect associations. Trait mindfulness was positively correlated with maladaptive cognition (r\u00a0=\u00a00.417) and problematic Otome game behavior (r\u00a0=\u00a00.510), whereas negative RD\u00a0\u00d7\u00a0TM interactions indicated that the positive RD-related associations with player-character attachment, maladaptive cognition, and problematic Otome game behavior became weaker as trait mindfulness increased. CONCLUSION: The findings suggest that problematic Otome game behavior may be associated with both player-character involvement and maladaptive gaming cognition. The mindfulness interactions indicate attenuation of RD-related slopes rather than a generally protective association of higher mindfulness. Given the cross-sectional and non-probability sampling design, causal interpretations should be avoided.",
+      "journal": "Acta psychologica",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -364,42 +605,249 @@
       "matched_keywords": []
     },
     {
-      "title": "Unsupervised functional stage detection from EEG using topological data analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842085/",
+      "title": "Reducing Stress in Caregivers of People With Dementia in Psychiatric Care: A Proof-of-Concept Evaluation of an Emotion-Focused Group Intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852931/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-07T00:00:00",
-      "date_fetched": "2026-10-08T18:07:26.067519",
-      "doi": "10.1007/s11517-026-03683-0",
+      "date_published": "2026-10-09T00:00:00",
+      "date_fetched": "2026-10-09T17:40:56.714988",
+      "doi": "10.1177/07334648261492966",
       "authors": [
         {
-          "name": "Aleksandr Abramov",
+          "name": "Laura Muehlich",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ekaterina Mikhaylets",
+          "name": "Emanuel Wiese",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Vsevolod Chernyshev",
+          "name": "Alexander Lassner",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Alexander Kaplan",
+          "name": "Jan Haeckert",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fedor Ratnikov",
+          "name": "Giulia Zerbini",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Philipp Reicherts",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Miriam Kunz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alkomiet Hasan",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Benjamin Pross",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Electroencephalogram (EEG) segmentation is still largely performed manually by specialists. Recent studies have proposed the state-detecting algorithm (SDA) - an automated technique for detecting functional stages with minimal human intervention - which has proven effective using spectral features. This paper introduces an alternative feature engineering approach that explores the spatial structure of data using the emerging field of topological data analysis (TDA). We propose an algorithm to extract a comprehensive topological description of EEG with tens of thousands of features and introduce the quick state-detecting algorithm (QSDA), a feature selection framework based on SDA performance. Next, we apply the procedure to EEG recordings from two distinct domains - Guhyasamaja Tantra meditation and whole-night polysomnographic sleep - and observe well-separated stage boundaries across most recordings, suggesting that TDA may complement or outperform spectral features in some settings. We also observed encouraging performance on noisy data, whereas shuffled epochs produced substantially weaker boundaries, supporting the robustness of the technique within the settings examined. Overall, the algorithm appears to be a promising feature engineering approach for SDA and suggests that the spatial structure of EEG may contain informative patterns. These findings motivate further investigation of their possible physiological interpretation, as well as an assessment across broader EEG paradigms.",
-      "journal": "Medical & biological engineering & computing",
+      "abstract": "BackgroundCaregivers of people with dementia (CPwD) are at higher risk for psychological stress and mental health issues.ObjectiveThis study evaluated the effectiveness of a brief, four-session group intervention combining socio-medical education, mindfulness and emotion-focused support in reducing stress and improving psychological outcomes in an acute psychiatric hospital setting.MethodsA within-subject waiting-period control design with repeated measures was conducted with ",
+      "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Beyond the 'Big Three': Prospective Associations Between Cumulative Lifestyle Protective Factors and Subsequent Adolescent Wellbeing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847471/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-08T00:00:00",
+      "date_fetched": "2026-10-09T17:40:56.715242",
+      "doi": "10.1002/jad.70290",
+      "authors": [
+        {
+          "name": "Kassie Bromley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Taliah Prince",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amanda Boyes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Paul E Schwenn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christina Driver",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcella J Parker",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michelle F Kennedy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dashiell D Sacks",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nikki Gunatilake",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Daniel F Hermens",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Lifestyle factors are increasingly recognized as important correlates of adolescent mental health and wellbeing. However, existing research has largely focused on sleep, nutrition, and physical activity in isolation, with less attention to cumulative multidomain lifestyle protective factors and their prospective associations with subsequent wellbeing beyond prior mental health. METHODS: Data were drawn from 163 adolescents (55.2% female; aged 12-17 years) participating in the Australian Longitudinal Adolescent Brain Study between 2018 and 2025. Lagged generalized estimating equation models examined associations between cumulative lifestyle protective factors and wellbeing at the subsequent assessment after adjustment for prior wellbeing, age, and sex. Two lifestyle protective factor indices were examined: a Base Index comprising nutrition, sleep, and physical activity, and an Extended Index additionally incorporating mindfulness and social connectedness. Outcomes were positive wellbeing measured using the COMPAS-W and low psychological distress measured using the Kessler Psychological Distress Scale (K10). RESULTS: Lifestyle protective factors commonly co-occurred across behavioral and psychosocial domains. Higher scores on both the Base and Extended lifestyle protective factor indices were associated with greater odds of subsequent positive wellbeing and low psychological distress after adjustment for prior wellbeing, age, and sex. CONCLUSIONS: Cumulative lifestyle protective factors were prospectively associated with subsequent adolescent wellbeing after accounting for prior levels of wellbeing, highlighting multidomain lifestyle protection as a potentially important contributor to mental health across adolescence.",
+      "journal": "Journal of adolescence",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Strengthening the Carer Without Shifting the Burden: Mindfulness-Based Stress Reduction Alongside Social Support.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847675/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-08T00:00:00",
+      "date_fetched": "2026-10-09T17:40:56.715271",
+      "doi": "10.1111/jpm.70212",
+      "authors": [
+        {
+          "name": "Andi Ratu Boelqiah Assaad",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Retno Putri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Faa'iz Mu'aafii Hibatullah",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Annisa Ramadhana Apparesya",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Raup Padillah",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Journal of psychiatric and mental health nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The effect of an integrated application-supported mindfulness-based cognitive therapy programme on depression among adolescents with non-suicidal self-injury: A randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852592/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-09T00:00:00",
+      "date_fetched": "2026-10-09T17:40:56.715369",
+      "doi": "10.1111/bjc.70101",
+      "authors": [
+        {
+          "name": "Russunan Jantarapakdee",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ratchaneekorn Upasen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Penpaktr Uthis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jojo Yan Yan Kwok",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVES: This study evaluated the effectiveness of an integrated, application-supported mindfulness-based cognitive therapy (MBCT) programme in reducing depressive symptoms among adolescents with non-suicidal self-injury (NSSI). METHODS: An open-label, two-arm randomized controlled trial was conducted in two public secondary schools in Thailand. The schools were randomly allocated to the intervention or usual-care control condition, with eligible participants pair-matched by sex and baseline depressive symptom severity (n\u2009=\u200948 persons/group). The blended school-based and application-supported MBCT programme was evaluated at baseline, 2\u2009weeks post-intervention, and 1-month follow-up using repeated-measures ANOVA. RESULTS: There was a significant time \u00d7 group interaction, F (1.73, 162.17)\u2009=\u200962.59, p\u2009<\u2009.001, \u03b7p CONCLUSIONS: The integrated application-supported MBCT programme effectively reduced depressive symptoms among adolescents with NSSI. NSSI was used to define the target population and was not a treatment outcome; therefore, effects on NSSI cannot be interpreted.",
+      "journal": "The British journal of clinical psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Supporting children with ADHD and their parents: A scoping review of psychoeducational strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849353/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-08T00:00:00",
+      "date_fetched": "2026-10-09T17:40:56.715433",
+      "doi": "10.1016/j.ridd.2026.105389",
+      "authors": [
+        {
+          "name": "Mouna Chebli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lucie Pisella",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Susanne Th\u00fcmmler",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vanessa Douet Vannucci",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "INTRODUCTION: Attention-Deficit/Hyperactivity Disorder (ADHD) affects around 6.6% of children worldwide and significantly impacts academic, social, and family functioning. Psychoeducation, providing support for a better understanding with illness, is recommended as a first-line intervention for children and their caregivers, yet its scope remains conceptually broad. A comprehensive overview is needed to clarify psychoeducation supporting children with ADHD and their families. METHODS: Following the PRISMA-ScR method, a systematic search was conducted using PubMed and Web-of-Science in April and May 2025 without date restriction eligible interventions (i) included psychoeducational content combining information and practical adaptive strategies, (ii) targeted parents and/or children with ADHD, and (iii) supported daily management and functioning, including routines (e.g., homework, bedtime, school preparation), organization, emotional regulation, and parent-child interactions. RESULTS: Of 3627 records screened, 70 studies met inclusion criteria, ranging from pilot studies to programs implemented in clinical practice. Interventions targeted parents (43%), both parents and children (37%), or children alone (10%); few included teachers (6%). Approaches were primarily behavioral (33%) or parenting-based (24%), with others grounded in educational (20%), family-centered (12%), or mindfulness (11%) frameworks. Most interventions were delivered in person (83%), while 17% were digital. Despite methodological heterogeneity, findings consistently reported reductions in ADHD symptoms and parenting stress, along with improvements in family relationships. CONCLUSION: Regardless of intervention type, psychoeducational interventions demonstrated positive effects on parental beliefs, and on both parental and child behaviors that facilitate the daily management of ADHD and improving family well-being and quality of life.",
+      "journal": "Research in developmental disabilities",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
