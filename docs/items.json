@@ -1,777 +1,108 @@
 {
-  "generated_at": "2026-10-09T17:40:57.433910",
+  "generated_at": "2026-10-10T16:32:25.998726",
   "papers": [
     {
-      "title": "Machine Learning-Based Classification of Jhana Advanced Concentrative Absorption Meditation (ACAM-J) using 7T fMRI",
-      "url": "https://www.semanticscholar.org/paper/599179d1020f145a3017f7c501fca38308c28110",
+      "title": "Religious Moderation of The Manager of Vipassana Kusalacita Temple in Social Interaction with The Residents of Bojong Menteng, Bekasi City",
+      "url": "https://www.semanticscholar.org/paper/ed941d642cca5e9ea4258c23e85a84309934a3e3",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-13T00:00:00",
-      "date_fetched": "2026-10-09T17:40:27.102972",
-      "doi": "10.48550/arXiv.2602.13008",
+      "date_published": "2026-03-25T00:00:00",
+      "date_fetched": "2026-10-10T16:31:44.056564",
+      "doi": "10.58631/jtus.v4i3.257",
       "authors": [
         {
-          "name": "Puneet Kumar",
-          "author_id": "2291199974",
+          "name": "Reza Cahaya Hermawan",
+          "author_id": "2443728327",
           "affiliation": null
         },
         {
-          "name": "W. F. Yang",
-          "author_id": "2300816450",
+          "name": "Uwes Fatoni",
+          "author_id": "2091815699",
           "affiliation": null
         },
         {
-          "name": "Alakhsimar Singh",
-          "author_id": "2322617111",
-          "affiliation": null
-        },
-        {
-          "name": "Xiao-Bai Li",
-          "author_id": "2266423066",
-          "affiliation": null
-        },
-        {
-          "name": "M. Sacchet",
-          "author_id": "2324309146",
+          "name": "Cecep Suryana",
+          "author_id": "2154049589",
           "affiliation": null
         }
       ],
-      "abstract": "Jhana advanced concentration absorption meditation (ACAM-J) is related to profound changes in consciousness and cognitive processing, making the study of their neural correlates vital for insights into consciousness and well-being. This study evaluates whether functional MRI-derived regional homogeneity (ReHo) can be used to classify ACAM-J using machine-learning approaches. We collected group-level fMRI data from 20 advanced meditators to train the classifiers, and intensive single-case data from an advanced practitioner performing ACAM-J and control tasks to evaluate generalization. ReHo maps were computed, and features were extracted from predefined brain regions of interest. We trained multiple machine learning classifiers using stratified cross-validation to evaluate whether ReHo patterns distinguish ACAM-J from non-meditative states. Ensemble models achieved 66.82% (p<0.05) accuracy in distinguishing ACAM-J from control conditions. Feature-importance analysis indicated that prefrontal and anterior cingulate areas contributed most to model decisions, aligning with established involvement of these regions in attentional regulation and metacognitive processes. Moreover, moderate agreement reflected in Cohen's kappa supports the feasibility of using machine learning to distinguish ACAM-J from non-meditative states. These findings advocate machine-learning's feasibility in classifying advanced meditation states, future research on neuromodulation and mechanistic models of advanced meditation.",
-      "journal": "arXiv.org",
+      "abstract": "Religious intolerance in Indonesia\u2019s urban areas, documented by the Setara Institute\u00a0 and the WAHID Foundation, underscores the urgency of understanding how minority religious institutions navigate interfaith relations. Despite growing scholarship on religious moderation, empirical studies examining it as a practice of Intercultural Communication Competence (ICC) in majority-minority religious settings remain scarce. This study aims to analyze how the management of Vipassana Kusalacita Vihara a minority Buddhist institution enacts religious moderation through daily social interaction with the predominantly Muslim community of Bojong Menteng, Bekasi City, using the ICC framework of Spitzberg and Cupach. A qualitative case study approach within an interpretive paradigm was employed. Three key informants (the head of vihara management and two senior administrators) were selected through purposive sampling. Data were collected over two months via semi-structured in-depth interviews, non-participant observation, and document analysis, and analyzed thematically according to the ICC dimensions of motivation, knowledge, and skills. Findings reveal that motivation is grounded in humanistic values and social responsibility; knowledge is reflected in contextual understanding of local norms (RT/RW structures) and interfaith sensitivities; and skills are enacted through polite interpersonal communication, conflict-preventive dialogue, and non-discriminatory social assistance. This study extends ICC scholarship to majority\u2013minority religious relations and offers a replicable grassroots model for fostering interfaith trust in pluralistic urban communities.",
+      "journal": "Journal Transnational Universal Studies",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "vipassana"
       ]
     },
     {
-      "title": "Comprehensive Review of Jalandhara Bandha",
-      "url": "https://www.semanticscholar.org/paper/cced8ef370fc8842df554c2e31fd58dde713cd7e",
+      "title": "Vipassana Meditation Technique by Satya Narayan Goenka at Dhamma Java Bogor",
+      "url": "https://www.semanticscholar.org/paper/544b514d29ea6708154415c7b7298722f122ff5c",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-09T17:40:27.103010",
-      "doi": "10.55552/ayuscript.2025.4320",
+      "date_published": "2026-03-04T00:00:00",
+      "date_fetched": "2026-10-10T16:31:44.056609",
+      "doi": "10.46799/adv.v4i2.543",
       "authors": [
         {
-          "name": "Gosavi S",
-          "author_id": "2410604444",
+          "name": "Eko Susiono",
+          "author_id": "2426107559",
           "affiliation": null
         },
         {
-          "name": "S. G",
-          "author_id": "2338107543",
+          "name": "I. W. Yasa",
+          "author_id": "2484882573",
+          "affiliation": null
+        },
+        {
+          "name": "Ida Ayu Komang Arniati",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Jalandhar Bandha, traditionally described as the \u201cthroat lock,\u201d is a key practice in Ha\u1e6dha Yoga that integrates musculoskeletal, respiratory, and subtle energetic mechanisms. Classical yogic texts such as the Ha\u1e6dha Yoga Pradipika, Ghera\u1e47\u1e0da Samhita, and Shiva Samhita emphasize its role in regulating Pra\u1e47ic flow, safeguarding the practitioner during Pranayama, and facilitating meditative absorption. Anatomically, the practice involves flexion of the cervical spine and compression at the throat region, which may influence blood circulation, vagal stimulation, and endocrine function, particularly at the thyroid and parathyroid glands. Contemporary research suggests potential benefits of Jalandhara Bandha in autonomic regulation, stress reduction, respiratory efficiency, and management of thyroid and cardiovascular conditions. However, contraindications include cervical spondylosis, uncontrolled hypertension, glaucoma, and other conditions requiring cautious application. This review integrates scriptural descriptions, anatomical and physiological interpretations, therapeutic potentials, and available research evidence to provide a comprehensive understanding of Jalandhara Bandha. It highlights both the enduring relevance of this yogic technique in modern health care and the need for further clinical validation.",
-      "journal": "Ayuscript",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Cactus-like architecture for synergistic microwave absorption and thermal management",
-      "url": "https://www.semanticscholar.org/paper/675ae420314b79ebe749daf67920aff6de328b47",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-09-17T00:00:00",
-      "date_fetched": "2026-10-09T17:40:27.103066",
-      "doi": "10.1093/nsr/nwaf394",
-      "authors": [
-        {
-          "name": "Jia-Min Qi",
-          "author_id": "2320769221",
-          "affiliation": null
-        },
-        {
-          "name": "Chao-Bo Liang",
-          "author_id": "40952890",
-          "affiliation": null
-        },
-        {
-          "name": "Kunpeng Ruan",
-          "author_id": "113076877",
-          "affiliation": null
-        },
-        {
-          "name": "Mukun Li",
-          "author_id": "2187551172",
-          "affiliation": null
-        },
-        {
-          "name": "Hua Guo",
-          "author_id": "2283510223",
-          "affiliation": null
-        },
-        {
-          "name": "Mu-Kun He",
-          "author_id": "2303246295",
-          "affiliation": null
-        },
-        {
-          "name": "Hua Qiu",
-          "author_id": "2281464768",
-          "affiliation": null
-        },
-        {
-          "name": "Yong-Qiang Guo",
-          "author_id": "1390575053",
-          "affiliation": null
-        },
-        {
-          "name": "Jun-Wei Gu",
-          "author_id": "2240841764",
-          "affiliation": null
-        }
-      ],
-      "abstract": "ABSTRACT As electronic devices evolve toward miniaturization, integration and diversification, developing composites with thermal management and broadband microwave absorption has become critical for addressing electromagnetic compatibility and heat-dissipation challenges. Inspired by the multilevel thorny structure of a cactus, this study proposes a biomimetic 3D network structure via a \u2018direction-decoupling\u2019 design to enhance thermal conductivity and microwave absorption. Boron nitride nanosheets (BNNS) form horizontal thermal pathways, while cobalt-catalysed nitrogen-doped carbon nanotube arrays (Co@NCNTs) are vertically grown in the interlayer for cactus-like heterostructure fillers. Finally, composites are obtained by combining the solid\u2013solid phase-change polyethylene glycol matrix with the directional assembly process. At a mass fraction of 30 wt% for (Co@NCNTs)@BNNS, the composites exhibit the best microwave absorption and thermal conductivity at a thickness of 2.5 mm. The maximum effective absorption bandwidth reaches 6.72 GHz, with in-plane and through-plane thermal conductivity coefficients reaching 2.55 and 0.94 W\u00b7m\u20131\u00b7K\u20131, realizing simultaneous improvements in thermal conductivity and microwave-absorption performance. Moreover, density functional theory analysis confirms the interfacial bonding between Co@NCNTs and BNNS systems and verifies the advantages of a unique electronic structure for microwave absorption between Co- and nitrogen-doped carbon nanotubes. This study provides new strategies for integrated thermal\u2013electromagnetic management materials in next-generation high-density electronics.",
-      "journal": "National Science Review",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Anionic high-entropy doping engineering for electromagnetic wave absorption",
-      "url": "https://www.semanticscholar.org/paper/08771b7c757c3c60ee0583da6abc17812a518f04",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-02T00:00:00",
-      "date_fetched": "2026-10-09T17:40:27.103088",
-      "doi": "10.1038/s41467-025-58448-4",
-      "authors": [
-        {
-          "name": "Jiaqi Tao",
-          "author_id": "1947726903",
-          "affiliation": null
-        },
-        {
-          "name": "Yi Yan",
-          "author_id": "2295766130",
-          "affiliation": null
-        },
-        {
-          "name": "Jin-Tang Zhou",
-          "author_id": "15022705",
-          "affiliation": null
-        },
-        {
-          "name": "Jin Wang",
-          "author_id": "2272076063",
-          "affiliation": null
-        },
-        {
-          "name": "Ping Chen",
-          "author_id": "2278777006",
-          "affiliation": null
-        },
-        {
-          "name": "Ruiyang Tan",
-          "author_id": "2633451",
-          "affiliation": null
-        },
-        {
-          "name": "Linling Xu",
-          "author_id": "2152895618",
-          "affiliation": null
-        },
-        {
-          "name": "Hong-Bao Zhu",
-          "author_id": "2307474828",
-          "affiliation": null
-        },
-        {
-          "name": "Wenhui Zhu",
-          "author_id": "2307651262",
-          "affiliation": null
-        },
-        {
-          "name": "He-xia Huang",
-          "author_id": "2255816434",
-          "affiliation": null
-        },
-        {
-          "name": "Xuewei Tao",
-          "author_id": "2278313408",
-          "affiliation": null
-        },
-        {
-          "name": "Zheng-Jun Yao",
-          "author_id": "2238328190",
-          "affiliation": null
-        }
-      ],
-      "abstract": "High-entropy doping (HED) engineering surpasses conventional methods for optimizing atomic configurations and electronic structures, opening new paths for developing advanced electromagnetic wave absorbing (EWA) materials. However, the application of anionic HED engineering to tailor EWA mechanisms remains unexplored. Herein, we employ in situ pyrolysis combined with a three-stage solvent thermal doping procedure to systematically induce anion multibody interactions, thereby facilitating the inheritance and accumulation of beneficial EWA properties. The research shows that anions with various electronegativities precisely balance free charges and create a significant localized charge imbalance, triggering the \u2018directional cocktail effect\u2019. This effect induces an optimal dielectric loss mechanism and enhances the EWA performance. With only 7.5\u2009wt% filling, the effective absorption bandwidth and minimum reflection loss are 7.05\u2009GHz and \u221260 dB, respectively. Overall, we report an anionic HED engineering within thin a graphite framework, which may be conceptually extendable for electromagnetic modulation of other two-dimensional van der Waals EWA materials. This study presents an anionic high-entropy doping strategy, elucidating the intricate charges state regulation to drive dipole polarization-dominated dielectric loss and efficient electromagnetic wave absorption in thin graphite framework.",
-      "journal": "Nature Communications",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Effects of Moisture Absorption on the Mechanical and Fatigue Properties of Natural Fiber Composites: A Review",
-      "url": "https://www.semanticscholar.org/paper/181062c815bc168a75a9c5f3282f6ab6817d0067",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-01T00:00:00",
-      "date_fetched": "2026-10-09T17:40:27.103143",
-      "doi": "10.3390/polym17141996",
-      "authors": [
-        {
-          "name": "Ana Pavlovic",
-          "author_id": "2300732765",
-          "affiliation": null
-        },
-        {
-          "name": "L. Valzania",
-          "author_id": "31723266",
-          "affiliation": null
-        },
-        {
-          "name": "G. Minak",
-          "author_id": "50975919",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This review critically examines the effects of moisture absorption on the mechanical and fatigue properties of natural fiber composites (NFCs), with a focus on tensile strength, elastic modulus, and long-term durability. Moisture uptake can cause reductions in tensile strength of up to 40% and in elastic modulus by 20\u201330% depending on fiber type, mass fraction (typically in the range of 30\u201360%), and surface treatments. The review highlights Ithat while surface modifications (e.g., alkaline and silane treatments) significantly mitigate moisture-induced degradation, their effectiveness is highly sensitive to the processing conditions. Additionally, hybridization strategies and optimized fiber orientations show promise in enhancing fatigue resistance under humid environments. Despite substantial progress, major challenges remain, including the lack of standardized testing protocols and the limited understanding of multiscale aging mechanisms. Future research directions include developing predictive models that couple moisture diffusion and mechanical deterioration, implementing advanced in situ monitoring of damage evolution, and exploring novel bio-based treatments. By addressing these gaps, NFCs can become more reliable and widely adopted as sustainable alternatives in structural applications.",
-      "journal": "Polymers",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "A remarkable ruby: Absorption in dense gas, rather than evolved stars, drives the extreme Balmer break of a little red dot at z\u2004=\u20043.5",
-      "url": "https://www.semanticscholar.org/paper/d04f988cd007b7a201a894cc18e19ddc3143a7d9",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-03-20T00:00:00",
-      "date_fetched": "2026-10-09T17:40:27.103181",
-      "doi": "10.1051/0004-6361/202554681",
-      "authors": [
-        {
-          "name": "A. de Graaff",
-          "author_id": "2120232762",
-          "affiliation": null
-        },
-        {
-          "name": "H. Rix",
-          "author_id": "2229752118",
-          "affiliation": null
-        },
-        {
-          "name": "R. Naidu",
-          "author_id": "144183696",
-          "affiliation": null
-        },
-        {
-          "name": "I. Labb\u00e9",
-          "author_id": "2282137160",
-          "affiliation": null
-        },
-        {
-          "name": "Bing-Jie Wang",
-          "author_id": "2155840220",
-          "affiliation": null
-        },
-        {
-          "name": "J. Leja",
-          "author_id": "3822997",
-          "affiliation": null
-        },
-        {
-          "name": "J. Matthee",
-          "author_id": "88648446",
-          "affiliation": null
-        },
-        {
-          "name": "H. Katz",
-          "author_id": "80763133",
-          "affiliation": null
-        },
-        {
-          "name": "J. Greene",
-          "author_id": "2267337855",
-          "affiliation": null
-        },
-        {
-          "name": "R. Hviding",
-          "author_id": "103123679",
-          "affiliation": null
-        },
-        {
-          "name": "J. Baggen",
-          "author_id": "2128828175",
-          "affiliation": null
-        },
-        {
-          "name": "R. Bezanson",
-          "author_id": "6095805",
-          "affiliation": null
-        },
-        {
-          "name": "L. Boogaard",
-          "author_id": "88617185",
-          "affiliation": null
-        },
-        {
-          "name": "G. Brammer",
-          "author_id": "2304953390",
-          "affiliation": null
-        },
-        {
-          "name": "P. Dayal",
-          "author_id": "28237020",
-          "affiliation": null
-        },
-        {
-          "name": "P. V. van Dokkum",
-          "author_id": "2079223909",
-          "affiliation": null
-        },
-        {
-          "name": "A. Goulding",
-          "author_id": "2348475277",
-          "affiliation": null
-        },
-        {
-          "name": "M. Hirschmann",
-          "author_id": "30020592",
-          "affiliation": null
-        },
-        {
-          "name": "M. Maseda",
-          "author_id": "51500798",
-          "affiliation": null
-        },
-        {
-          "name": "I. McConachie",
-          "author_id": "2085793366",
-          "affiliation": null
-        },
-        {
-          "name": "T. Miller",
-          "author_id": "144658643",
-          "affiliation": null
-        },
-        {
-          "name": "Erica J. Nelson",
-          "author_id": "2266841754",
-          "affiliation": null
-        },
-        {
-          "name": "P. Oesch",
-          "author_id": "3200683",
-          "affiliation": null
-        },
-        {
-          "name": "D. Setton",
-          "author_id": "104512008",
-          "affiliation": null
-        },
-        {
-          "name": "I. Shivaei",
-          "author_id": "103325036",
-          "affiliation": null
-        },
-        {
-          "name": "A. Weibel",
-          "author_id": "120611225",
-          "affiliation": null
-        },
-        {
-          "name": "K. Whitaker",
-          "author_id": "2280977681",
-          "affiliation": null
-        },
-        {
-          "name": "C. Williams",
-          "author_id": "40398007",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The origin of the rest-optical emission of compact, red, high-redshift sources known as little red dots (LRDs) poses a major puzzle. If interpreted as starlight, it would imply that LRDs constitute the densest stellar systems in the Universe. However, alternative models suggest active galactic nuclei (AGN) may instead power the rest-optical continuum. Here, we present JWST/NIRSpec, NIRCam, and MIRI observations from the RUBIES and PRIMER programs of The Cliff: a bright LRD at z\u2004=\u20043.55 with an exceptional Balmer break, twice as strong as that of any high-redshift source previously observed. The spectra also reveal broad hydrogen (H\u03b1 FWHM\u2004\u223c\u20041500\u2006km\u2006s\u22121) and He\u202fI emission, but no significant metal lines. We demonstrate that massive evolved stellar populations cannot explain the observed spectrum, even when considering unusually steep and strong dust attenuation or reasonable variations in the initial mass function. Moreover, the formally best-fit stellar mass and compact size (M*\u2004\u223c\u20041010.5\u2006M\u2299,\u2006 re\u2004\u223c\u200440\u2006pc) would imply densities at which near-monthly stellar collisions might lead to significant X-ray emission. We argue that the Balmer break, emission lines, and H\u03b1 absorption line are instead most plausibly explained by a black hole star (BH*) scenario, in which dense gas surrounds a powerful ionising source. In contrast to recently proposed BH* models of dust-reddened AGN, we show that spectral fits in the rest UV to near-infrared favour an intrinsically redder continuum over strong dust reddening. This may point to a super-Eddington accreting massive black hole or, possibly, the presence of (super)massive stars in a nuclear star cluster. The Cliff is the clearest evidence to date that at least some LRDs are not ultra-dense massive galaxies, and are instead powered by a central ionising source embedded in dense, absorbing gas.",
-      "journal": "Astronomy &amp; Astrophysics",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "meditative absorption"
-      ]
-    },
-    {
-      "title": "Zero-shot Learning Model with Dynamic and Static Feature Fusion for Industrial Gas-liquid Two-phase Flow State Identification",
-      "url": "https://www.semanticscholar.org/paper/6e1dce1d6789f125fe49709e80f01481370c1601",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-05-19T00:00:00",
-      "date_fetched": "2026-10-09T17:40:32.001864",
-      "doi": "10.1109/I2MTC62753.2025.11079015",
-      "authors": [
-        {
-          "name": "Xinyi Han",
-          "author_id": "2304069750",
-          "affiliation": null
-        },
-        {
-          "name": "Ling-Han Li",
-          "author_id": "1391198644",
-          "affiliation": null
-        },
-        {
-          "name": "Shumei Zhang",
-          "author_id": "2145893870",
-          "affiliation": null
-        },
-        {
-          "name": "Feng Dong",
-          "author_id": "2321552986",
-          "affiliation": null
-        },
-        {
-          "name": "Feng Dong",
-          "author_id": "2374158480",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "International Instrumentation and Measurement Technology Conference",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "flow state contemplative"
-      ]
-    },
-    {
-      "title": "Computational neurophenomenology meets\n MuSe\n : A Commentary on \u015eerife Tekin\u2019s\n Reclaiming the self in psychiatry",
-      "url": "https://www.semanticscholar.org/paper/d205f3e171153a46b28883de8cbeb86e8438dfbb",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-02-27T00:00:00",
-      "date_fetched": "2026-10-09T17:40:35.532398",
-      "doi": "10.1080/09515089.2026.2638967",
-      "authors": [
-        {
-          "name": "Jos\u00e9 M. Araya",
-          "author_id": "115969460",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Philosophical Psychology",
+      "abstract": "In the modern era, many individuals experience spiritual emptiness and mental health disorders due to the pressures of life and loss of meaning in life. S.N. Goenka's technique of Vipassana meditation is present as an alternative to spiritual practice that emphasizes the observation of bodily sensations without ritual and is non-sectarian, thus attracting the interest of lay practitioners from various backgrounds.This research examines one of the rapidly growing practices in Indonesia today: the vipassana meditation technique used by S.N. Goenka. This technique is unique and interesting to study in depth because it uses direct observation of bodily sensations, without rituals, without note-taking, and without jhana requirements, thus attracting modern lay practitioners. This study integrates the reasons why vipassana meditation has not been beneficial for physical and mental health. Based on holistic theory, yoga sutra theory, and Buddhist meditation, it compares, aligns, and analyzes SN Goenka's Vipassana Meditation technique. This study uses data collection techniques including participant observation, direct interviews, and document studies. Data analysis is carried out through data reduction, presentation, and conclusion drawing. Based on data analysis, the following findings were obtained: Holistically, physical and mental causes are not obstacles but rather means to realize bodily sensations, not absolute causes. In sutra yoga theory, sila is in harmony with yama and niyama, emphasizing internal self-discipline. In conclusion, S.N. Goenka's Vipassana meditation technique is a spiritual path to self-transformation that is relevant to physical and mental health today.",
+      "journal": "Advances In Social Humanities Research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "neurophenomenology"
+        "vipassana"
       ]
     },
     {
-      "title": "Empatiyaning psixologik reabilitatsiya mexanizmi sifatidagi roli: konsepsiyaning nazariy rekonstruksiyasi",
-      "url": "https://www.semanticscholar.org/paper/e27486242b0eda34a18ec5052d8559c5872f8eda",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-08-10T00:00:00",
-      "date_fetched": "2026-10-09T17:40:35.532477",
-      "doi": "10.67547/fanistiqbollari.2026.354",
-      "authors": [
-        {
-          "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0420\u0443\u0441\u0442\u0430\u043c\u043e\u0432\u0438\u0447 \u042f\u0433\u0443\u0434\u0438\u043d",
-          "author_id": "2487798458",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The article is devoted to the revision of the conceptual boundaries of empathy in the context of its application in psychological rehabilitation. The study substantiates the need for differentiation between empathy as a background condition of therapeutic contact and as an operationalized mechanism that initiates neuroplastic and regulatory changes. Based on an integrative analysis of foreign and domestic approaches (cognitive-behavioral tradition, neurophenomenology, attachment theory), a three-component model of rehabilitation empathy is reconstructed, including affective contagion, perspective-taking, and regulatory feedback. It is concluded that the integration of empathy into rehabilitation protocols requires not simply a recommendation to \u00abbe empathic\u00bb, but the systematic formation of a meta-skill of empathic responding in the rehabilitant and his environment. Special attention is paid to the psychology of rehabilitation of the empathy mechanism as an independent research field that accumulates data from neuroscience and clinical psychology.",
-      "journal": "Zamonaviy jamiyat va innovatsiyalar ilmiy-nazariy jurnali",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "neurophenomenology"
-      ]
-    },
-    {
-      "title": "Totemic Mediation and Visual Praj\u00f1\u0101: How Lotus and Dharma Wheel Motifs Generate Embodied \u015a\u016bnyat\u0101 Experience in the Dunhuang Mogao Caves",
-      "url": "https://www.semanticscholar.org/paper/054c36115862e270dcc57b3b82c46333200a9a57",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-12T00:00:00",
-      "date_fetched": "2026-10-09T17:40:35.532485",
-      "doi": "10.3390/rel17060707",
-      "authors": [
-        {
-          "name": "Yu Wang",
-          "author_id": "2405446236",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This article argues that lotus and dharma wheel motifs in the Dunhuang Mogao Caves function not merely as decorative symbols but as active visual apparatuses that generate embodied religious experience through a mechanism we term \u201ctotemic mediation.\u201d Drawing on L\u00e9vi-Strauss\u2019s structuralist reading of totemism, Descola\u2019s ontological framework, Gell\u2019s theory of art as agency, Meyer\u2019s \u201csensational form,\u201d and Varela\u2019s neurophenomenology, we define totemic mediation as a triadic mechanism encompassing material\u2013spatial arrangement, ontological transformation of experiential states, and value structure generation. We analyze motifs from Mogao Caves 285, 329, and 361 using a five-step analytic framework: formal\u2013visual description, reconstructed embodied viewing, doctrinal identification, mediation mechanism analysis, and evaluative assessment. The analysis demonstrates that the lotus mediates ontologically along a spatial axis, building a vertical channel between the worldly and the divine through ceiling configurations and upward gazes, while the dharma wheel mediates teleologically across the temporal axis, neutralizing linear temporality through rotational dynamics. Together, these motifs constitute \u201cvisual praj\u00f1\u0101\u201d\u2014a nonconceptual, embodied cognitive effect that bypasses discursive reasoning to enable direct apprehension of \u015b\u016bnyat\u0101 (emptiness). This article offers a replicable analytic framework for examining how religious images operate simultaneously as visual apparatuses and ontological mediators.",
-      "journal": "Religions",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "neurophenomenology"
-      ]
-    },
-    {
-      "title": "St Thomas\u2019 tactile visionary experiences from a neurophenomenological perspective",
-      "url": "https://www.semanticscholar.org/paper/f446dc029057d6f4f63e719d4f1416b7bf9f7462",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-09-23T00:00:00",
-      "date_fetched": "2026-10-09T17:40:35.532492",
-      "doi": "10.17570/stj.2026.vn1.a10",
-      "authors": [
-        {
-          "name": "Thomas KL Vaidyan",
-          "author_id": "2503422873",
-          "affiliation": null
-        }
-      ],
-      "abstract": "A neurophenomenological perspective postulates the aspects of perception and cognition to understand visionary experiences. St Thomas\u2019 immediate reaction when he heard about other disciples\u2019 visions of Jesus was not to believe it until he put his finger on the wounds of Jesus when crucified, suffered bleeding and died. After a week, his experiences of seeing, hearing and touching Jesus in a locked room after his crucifixion, death and resurrection are investigated here as natural phenomena due to certain neural processes. The neuronal functions are embedded in the constant interaction of bodily movement, reaction and influences of the cultural environment, resulting in kinaesthetic, tactile and visual perceptions. The explanations in neurophenomenology add value to them as natural phenomena. I compare these with hallucinations in cognitivism and synaesthetic perceptions in physiology and psychology, where sensory information through multiple sensory pathways simultaneously brings experiences from more than one sense.",
-      "journal": "Stellenbosch theological journal",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "neurophenomenology"
-      ]
-    },
-    {
-      "title": "Why can't they stop playing? Relative deprivation and problematic Otome game behavior among adult women.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849133/",
+      "title": "Correction to: Mindfulness programs for problematic usage of the internet: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853615/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-08T00:00:00",
-      "date_fetched": "2026-10-09T17:40:56.714776",
-      "doi": "10.1016/j.actpsy.2026.107968",
+      "date_fetched": "2026-10-10T16:32:25.008952",
+      "doi": "10.1556/2006.2024.11124",
       "authors": [
         {
-          "name": "Yongxuan Gao",
+          "name": "Johannes C Fendel",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zhengkai Wei",
+          "name": "Annika Vogt",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ruiting Shi",
+          "name": "Annika Brandtner",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Puteri Nuraqidah Abdul Razak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fakir Mohamad Md Nor",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: To examine the associations between relative deprivation and problematic Otome game behavior among adult female players, test the parallel mediating roles of player-character attachment and maladaptive cognition, and examine the separate moderating role of trait mindfulness. METHOD: An online cross-sectional survey was conducted among 433 Chinese adult female Otome gamers recruited through snowball sampling on Xiaohongshu and Weibo. RESULTS: Relative deprivation was positively associated with problematic Otome game behavior, and both player-character attachment and maladaptive cognition showed significant indirect associations. Trait mindfulness was positively correlated with maladaptive cognition (r\u00a0=\u00a00.417) and problematic Otome game behavior (r\u00a0=\u00a00.510), whereas negative RD\u00a0\u00d7\u00a0TM interactions indicated that the positive RD-related associations with player-character attachment, maladaptive cognition, and problematic Otome game behavior became weaker as trait mindfulness increased. CONCLUSION: The findings suggest that problematic Otome game behavior may be associated with both player-character involvement and maladaptive gaming cognition. The mindfulness interactions indicate attenuation of RD-related slopes rather than a generally protective association of higher mindfulness. Given the cross-sectional and non-probability sampling design, causal interpretations should be avoided.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Reducing Stress in Caregivers of People With Dementia in Psychiatric Care: A Proof-of-Concept Evaluation of an Emotion-Focused Group Intervention.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852931/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-09T00:00:00",
-      "date_fetched": "2026-10-09T17:40:56.714988",
-      "doi": "10.1177/07334648261492966",
-      "authors": [
-        {
-          "name": "Laura Muehlich",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Emanuel Wiese",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alexander Lassner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jan Haeckert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Giulia Zerbini",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Philipp Reicherts",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Miriam Kunz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alkomiet Hasan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Benjamin Pross",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BackgroundCaregivers of people with dementia (CPwD) are at higher risk for psychological stress and mental health issues.ObjectiveThis study evaluated the effectiveness of a brief, four-session group intervention combining socio-medical education, mindfulness and emotion-focused support in reducing stress and improving psychological outcomes in an acute psychiatric hospital setting.MethodsA within-subject waiting-period control design with repeated measures was conducted with ",
-      "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Beyond the 'Big Three': Prospective Associations Between Cumulative Lifestyle Protective Factors and Subsequent Adolescent Wellbeing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42847471/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-08T00:00:00",
-      "date_fetched": "2026-10-09T17:40:56.715242",
-      "doi": "10.1002/jad.70290",
-      "authors": [
-        {
-          "name": "Kassie Bromley",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Taliah Prince",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amanda Boyes",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Paul E Schwenn",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christina Driver",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marcella J Parker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Michelle F Kennedy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Dashiell D Sacks",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nikki Gunatilake",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daniel F Hermens",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Lifestyle factors are increasingly recognized as important correlates of adolescent mental health and wellbeing. However, existing research has largely focused on sleep, nutrition, and physical activity in isolation, with less attention to cumulative multidomain lifestyle protective factors and their prospective associations with subsequent wellbeing beyond prior mental health. METHODS: Data were drawn from 163 adolescents (55.2% female; aged 12-17 years) participating in the Australian Longitudinal Adolescent Brain Study between 2018 and 2025. Lagged generalized estimating equation models examined associations between cumulative lifestyle protective factors and wellbeing at the subsequent assessment after adjustment for prior wellbeing, age, and sex. Two lifestyle protective factor indices were examined: a Base Index comprising nutrition, sleep, and physical activity, and an Extended Index additionally incorporating mindfulness and social connectedness. Outcomes were positive wellbeing measured using the COMPAS-W and low psychological distress measured using the Kessler Psychological Distress Scale (K10). RESULTS: Lifestyle protective factors commonly co-occurred across behavioral and psychosocial domains. Higher scores on both the Base and Extended lifestyle protective factor indices were associated with greater odds of subsequent positive wellbeing and low psychological distress after adjustment for prior wellbeing, age, and sex. CONCLUSIONS: Cumulative lifestyle protective factors were prospectively associated with subsequent adolescent wellbeing after accounting for prior levels of wellbeing, highlighting multidomain lifestyle protection as a potentially important contributor to mental health across adolescence.",
-      "journal": "Journal of adolescence",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Strengthening the Carer Without Shifting the Burden: Mindfulness-Based Stress Reduction Alongside Social Support.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42847675/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-08T00:00:00",
-      "date_fetched": "2026-10-09T17:40:56.715271",
-      "doi": "10.1111/jpm.70212",
-      "authors": [
-        {
-          "name": "Andi Ratu Boelqiah Assaad",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Retno Putri",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Faa'iz Mu'aafii Hibatullah",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annisa Ramadhana Apparesya",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Raup Padillah",
+          "name": "Stefan Schmidt",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of psychiatric and mental health nursing",
+      "journal": "Journal of behavioral addictions",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -779,75 +110,42 @@
       "matched_keywords": []
     },
     {
-      "title": "The effect of an integrated application-supported mindfulness-based cognitive therapy programme on depression among adolescents with non-suicidal self-injury: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852592/",
+      "title": "Feasibility of a Mindfulness-Based Intervention for Children With High Grade/High Risk Cancer and Their Caregivers: Lessons Learned From a Pilot Randomized Control Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856035/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-09T00:00:00",
-      "date_fetched": "2026-10-09T17:40:56.715369",
-      "doi": "10.1111/bjc.70101",
+      "date_published": "2026-10-10T00:00:00",
+      "date_fetched": "2026-10-10T16:32:25.009339",
+      "doi": "10.1177/10499091261496433",
       "authors": [
         {
-          "name": "Russunan Jantarapakdee",
+          "name": "Taryn Allen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ratchaneekorn Upasen",
+          "name": "Paige Little",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Penpaktr Uthis",
+          "name": "Melissa Baker",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jojo Yan Yan Kwok",
+          "name": "Mary Anne Toledo-Tamula",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Staci Martin",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVES: This study evaluated the effectiveness of an integrated, application-supported mindfulness-based cognitive therapy (MBCT) programme in reducing depressive symptoms among adolescents with non-suicidal self-injury (NSSI). METHODS: An open-label, two-arm randomized controlled trial was conducted in two public secondary schools in Thailand. The schools were randomly allocated to the intervention or usual-care control condition, with eligible participants pair-matched by sex and baseline depressive symptom severity (n\u2009=\u200948 persons/group). The blended school-based and application-supported MBCT programme was evaluated at baseline, 2\u2009weeks post-intervention, and 1-month follow-up using repeated-measures ANOVA. RESULTS: There was a significant time \u00d7 group interaction, F (1.73, 162.17)\u2009=\u200962.59, p\u2009<\u2009.001, \u03b7p CONCLUSIONS: The integrated application-supported MBCT programme effectively reduced depressive symptoms among adolescents with NSSI. NSSI was used to define the target population and was not a treatment outcome; therefore, effects on NSSI cannot be interpreted.",
-      "journal": "The British journal of clinical psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Supporting children with ADHD and their parents: A scoping review of psychoeducational strategies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849353/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-08T00:00:00",
-      "date_fetched": "2026-10-09T17:40:56.715433",
-      "doi": "10.1016/j.ridd.2026.105389",
-      "authors": [
-        {
-          "name": "Mouna Chebli",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lucie Pisella",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Susanne Th\u00fcmmler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Vanessa Douet Vannucci",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "INTRODUCTION: Attention-Deficit/Hyperactivity Disorder (ADHD) affects around 6.6% of children worldwide and significantly impacts academic, social, and family functioning. Psychoeducation, providing support for a better understanding with illness, is recommended as a first-line intervention for children and their caregivers, yet its scope remains conceptually broad. A comprehensive overview is needed to clarify psychoeducation supporting children with ADHD and their families. METHODS: Following the PRISMA-ScR method, a systematic search was conducted using PubMed and Web-of-Science in April and May 2025 without date restriction eligible interventions (i) included psychoeducational content combining information and practical adaptive strategies, (ii) targeted parents and/or children with ADHD, and (iii) supported daily management and functioning, including routines (e.g., homework, bedtime, school preparation), organization, emotional regulation, and parent-child interactions. RESULTS: Of 3627 records screened, 70 studies met inclusion criteria, ranging from pilot studies to programs implemented in clinical practice. Interventions targeted parents (43%), both parents and children (37%), or children alone (10%); few included teachers (6%). Approaches were primarily behavioral (33%) or parenting-based (24%), with others grounded in educational (20%), family-centered (12%), or mindfulness (11%) frameworks. Most interventions were delivered in person (83%), while 17% were digital. Despite methodological heterogeneity, findings consistently reported reductions in ADHD symptoms and parenting stress, along with improvements in family relationships. CONCLUSION: Regardless of intervention type, psychoeducational interventions demonstrated positive effects on parental beliefs, and on both parental and child behaviors that facilitate the daily management of ADHD and improving family well-being and quality of life.",
-      "journal": "Research in developmental disabilities",
+      "abstract": "BackgroundChildren and young adults diagnosed with a high-grade/relapsed-refractory cancer face a poor prognosis given limited curative options. Recent research has indicated that this population of children and adolescents/young adults (AYAs), alongside their parents, experience elevated stress and poorer health-related quality of life (HRQoL) relative to normative samples. Despite this, minimal research has examined supportive care interventions for these populations. The primary objective of this pilot study was to assess the feasibility (primary outcome) and acceptability of an 8-week mindfulness-based intervention (MBI) in this population.MethodsEligible participants included individuals aged 5-24\u00a0years diagnosed with a high-risk cancer characterized by poor prognosis, with an adult caregiver willing to participate in the parallel caregiver arm. A random number generator was used to assign dyads to the MBI (n = 2 dyads) or psychoeducation control group (n = 3 dyads).ResultsFive dyads (",
+      "journal": "The American journal of hospice & palliative care",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
