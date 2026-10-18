@@ -1,43 +1,162 @@
 {
-  "generated_at": "2026-10-17T14:35:44.662056",
+  "generated_at": "2026-10-18T15:03:04.381501",
   "papers": [
     {
-      "title": "An Evidence-Based Approach to Nonpharmacological Blood Pressure Management Among African Americans.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880878/",
+      "title": "The Philosophy of Microsurgery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42890384/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-01T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.345778",
+      "doi": "10.1097/GOX.0000000000008183",
+      "authors": [
+        {
+          "name": "Jeremy V Lynn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christine S W Best",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Theodore A Kung",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "A philosophy is defined as a set of guiding principles that informs thought and behavior. In some cases, the expression of a philosophy and its specific tenets can be experienced through the practice and perfection of a skill. We believe that microsurgery should be appreciated not only as a technical expertise used to help solve complex reconstructive problems but also as a philosophy that can be applied to both microsurgical and nonmicrosurgical situations. This article conceptualizes microsurgery as a philosophy using 5 principal tenets: mindfulness, vascularity, improvisation, unconscious competence, and devotion to habit. These principles establish a unique way of thinking that can influence how plastic surgeons operate, solve problems, and teach.",
+      "journal": "Plastic and reconstructive surgery. Global open",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Is digital detox and mindfulness a game-changing combination for Instagram use and body image outcomes? Results from an experimental intervention study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892278/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-17T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.345947",
+      "doi": "10.1016/j.bodyim.2026.102209",
+      "authors": [
+        {
+          "name": "Kriti Kelkar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Annika P C Lutz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anna E Kornadt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Andr\u00e9 Melzer",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Instagram use has been linked to body image concerns. However, voluntarily abstaining from social media (\"digital detox\") as a strategy to mitigate this association has yielded mixed results. This raises the question of whether a complementary problem-focused intervention can strengthen the benefits of abstinence on body image outcomes. Building on this premise, the present one-week experimental pre-post intervention study examined the potential synergistic effect of a digital detox from Instagram, combined with a mindfulness intervention, on three outcomes-body shape concerns, drive for muscularity, and appearance evaluation-among young adults aged 18-34. Mindfulness was selected as an intentional action-based strategy that has previously shown benefits for body image satisfaction. Participants (N\u202f=\u202f120; 59.8% female) were randomly assigned to one of three conditions: mindfulness plus detox, detox only, or control. Unlike the control group, participants in both intervention groups refrained from Instagram use for one week, while those in the mindfulness group additionally engaged in daily mindfulness meditations. Significant Time \u00d7 Group interactions emerged for body shape concerns and drive for muscularity. The mindfulness group showed reductions in both outcomes, whereas the detox-only group showed reductions in body shape concerns alone. Within-group analyses further indicated significant changes across all body image outcomes in the mindfulness condition. As anticipated, the control group showed no changes over time. Overall, these findings provide promising evidence for the added value of combining digital detox and mindfulness as feasible lifestyle interventions to promote healthier body image among young people.",
+      "journal": "Body image",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Psychological determinants of pain, fatigue, and symptom burden in breast cancer survivorship.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892304/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-17T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.346082",
+      "doi": "10.1016/j.ctarc.2026.101488",
+      "authors": [
+        {
+          "name": "Nigora Madaminova",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nurova Shokhsanam",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rabbimova Dilfuza",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sulaymanova Dildora",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Isakov Shuxrat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Musayeva Dilfuza",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kurbanova Gulnoz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Turakulov Ibrokhim",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Breast cancer survivors frequently experience persistent pain, cancer-related fatigue, and interconnected symptom clusters that impair quality of life, functional status, and treatment adherence. Psychological factors, including pain catastrophizing, anxiety, depression, fear-avoidance behaviors, and maladaptive cognitive appraisals, are associated with the amplification and maintenance of these symptoms through proposed mechanisms involving central sensitization, HPA axis dysregulation, inflammatory signaling, and behavioral deconditioning. This narrative overview, rather than a systematic review, examines these determinants primarily in post-treatment survivorship, defined as the period following completion of surgery, chemotherapy, and radiotherapy and including patients continuing adjuvant endocrine therapy; evidence from active treatment and metastatic disease is identified by treatment phase where drawn upon. Persistent pain is reported by an estimated 25-60% of survivors, and pooled severe post-treatment fatigue by 26.9%, with estimates varying substantially by case definition. Persistent pain has multiple clinically distinct causes, including post-mastectomy pain syndrome, shoulder and myofascial disorders, lymphedema, radiation fibrosis, chemotherapy-induced neuropathy, and endocrine therapy-associated musculoskeletal pain; several of these are correctable, and their evaluation should precede psychological attribution. Psychological predictors are consistently identified but modest in magnitude and operate alongside rather than in place of surgical and disease-stage determinants. Cognitive behavioral therapy for insomnia shows large effects on insomnia severity with concurrent fatigue and mood benefit; mindfulness-based interventions show small pooled effects on distress. Symptom burden and access to intervention remain disproportionately worse among younger patients, those with metastatic disease, and underserved populations.",
+      "journal": "Cancer treatment and research communications",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Mediators and Moderators of Treatment Outcome Following Online Mindfulness and Cognitive-Behavioral Treatment for Female Sexual Interest/Arousal Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878326/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-15T00:00:00",
-      "date_fetched": "2026-10-17T14:35:43.715650",
-      "doi": "10.1891/JDNP-2025-0094",
+      "date_fetched": "2026-10-18T15:03:03.346111",
+      "doi": "10.1080/00224499.2026.2743644",
       "authors": [
         {
-          "name": "Whitney Caples",
+          "name": "Lori A Brotto",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jeffery Wade Forehand",
+          "name": "Kyle R Stephenson",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kristen Williams",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jacquelyn Lyon Smith",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rebecca Allen-Jones",
+          "name": "Elizabeth A Mahar",
           "author_id": null,
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Journal of doctoral nursing practice",
+      "journal": "Journal of sex research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -45,52 +164,32 @@
       "matched_keywords": []
     },
     {
-      "title": "Implementing a Parental Anxiety Reduction Protocol (PARP) in the Perioperative Period.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42878716/",
+      "title": "Managing and Preventing Placement-Based Fatigue in Radiography and Allied Health Students: A Narrative Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879184/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-15T00:00:00",
-      "date_fetched": "2026-10-17T14:35:43.715808",
-      "doi": "10.1016/j.jopan.2026.09.007",
+      "date_fetched": "2026-10-18T15:03:03.346173",
+      "doi": "10.1002/jmrs.70131",
       "authors": [
         {
-          "name": "Kailey Beckett",
+          "name": "Yalindi Binduhewa",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Grace Flaherty",
+          "name": "Vicki Braithwaite",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kendra Thompson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Cynthia Dabney",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kenneth Wofford",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lauren Freedman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Karla Maldonado",
+          "name": "Therese Gunn",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Parents and children often experience anxiety when a child undergoes a surgical procedure. Parental anxiety may influence the child's perioperative experience and has been associated with increased child anxiety, which is linked to adverse postoperative outcomes, including an increased incidence of postoperative delirium, higher pain scores, and a greater need for intraoperative analgesia. The effects of untreated preoperative anxiety may extend beyond the immediate perioperative period and contribute to maladaptive behaviors at home. The purpose of this project was to implement and evaluate a structured protocol designed to reduce parental anxiety during the pediatric perioperative period. DESIGN: An evidence-based quality improvement project guided by the Knowledge-to-Action model was conducted over a 3-month period at a Level I pediatric trauma hospital. The project targeted parents of children aged 2 to 10 years undergoing outpatient surgical procedures. METHODS: A Parental Anxiety Reduction Protocol was developed using three evidence-based interventions implemented across the perioperative continuum. The protocol included an educational pamphlet provided to parents at registration, play therapy for children in the preoperative setting, and a meditation video provided to parents during the intraoperative phase. Parental anxiety was measured before and after implementation of the protocol using the State-Trait Anxiety Inventory-6 (STAI-6). Pre- and postintervention anxiety scores were statistically analyzed to evaluate the effectiveness of the protocol. FINDINGS: Implementation of the Parental Anxiety Reduction Protocol resulted in a statistically significant reduction in parental anxiety scores. Postintervention STAI-6 scores were significantly lower than preintervention scores (P < .001), demonstrating that the multimodal perioperative intervention was effective in reducing parental anxiety. CONCLUSIONS: A structured, evidence-based perioperative protocol incorporating parental education, pediatric play therapy, and parental meditation significantly reduced parental anxiety among parents of children undergoing outpatient surgery. Reducing parental anxiety may also help mitigate pediatric perioperative anxiety and contribute to improved perioperative experiences and outcomes for children and their families.",
-      "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+      "abstract": "Clinical placement plays a key role in the education of allied health students by providing real-world experiences required to develop professional competence and confidence. For radiography students, extensive unpaid clinical placements form a substantial component of professional training. Despite their educational value, clinical placements expose students to physical, emotional, and financial stressors that may contribute to fatigue. This narrative review aimed to investigate current and potential support systems, alternatives to placement, and healthy coping strategies available to radiography and allied health students to assist in the prevention and management of placement-based fatigue. A structured literature search of PubMed, EMBASE, ScienceDirect, and CINAHL databases was undertaken, supplemented by grey literature searching. The limited literature supports that mindfulness and resilience workshops as well as exercise and therapeutic touch are potential interventions for managing placement-based fatigue. These practices were found to decrease fatigue along with fatigue-related symptoms such as stress and emotional exhaustion. The availability of appropriate financial aid systems was also identified as a solution to preventing placement-based fatigue. Integrated simulated placement was additionally found to be a possible alternative to placement, but potentially difficult to implement. The limited evidence suggests that the management and prevention of placement-based fatigue in allied health students have several potential interventions. However, more research needs to be conducted to study the effects of these interventions, particularly on radiography students and third- and fourth-year allied health students to gain a more comprehensive understanding of the impact of these interventions.",
+      "journal": "Journal of medical radiation sciences",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -98,27 +197,259 @@
       "matched_keywords": []
     },
     {
-      "title": "From illness to stillness: on becoming (a) patient.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42886430/",
+      "title": "\"A Better Way of Just Being Free\": Exploring How Stroke Survivors With Aphasia Experienced an Intervention Combining Communication Strategy Training With Acceptance and Commitment Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42229409/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-16T00:00:00",
-      "date_fetched": "2026-10-17T14:35:43.716139",
-      "doi": "10.1007/s11019-026-10411-w",
+      "date_published": "2026-10-15T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.346210",
+      "doi": "10.1044/2026_AJSLP-25-00434",
       "authors": [
         {
-          "name": "Drew Leder",
+          "name": "June Bracken",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kevin Aho",
+          "name": "Alyssa Kelly",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric C Meyer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rachael Hass",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eva Xiao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tyson G Harmon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elizabeth R Skidmore",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rebecca Hunting Pompon",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "William S Evans",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Illness is often understood as a disruption of ordinary temporality, fracturing narrative continuity, constricting horizons of possibility, and immersing sufferers in the slow, uncertain rhythms of waiting. Drawing on phenomenology, existential philosophy, pathography, and East Asian wisdom traditions, this article examines the relationship between growing ill and growing still, being a patient and developing patience. While contemporary accounts of illness have richly described experiences of temporal distortion, boredom, loss, and desynchronization, less attention has been given to the possibility that illness may also cultivate forms of composure, attentiveness, and moral endurance. We argue that the temporal disruptions associated with illness, disability, and aging, by interrupting the accelerated rhythms of late modern life, can create opportunities for stillness, presence, and renewed responsiveness. For this we coin the term st/illness. We also distinguish between being a\u00a0patient, insofar as it connotes passivity and dependence, and being patient, an active virtue that allows one to meet the temporal demands imposed by bodily limitation and breakdown. While not minimizing or romanticizing the physical and emotional suffering often associated with illness, the article explores how illness can also function as a pharmakon in the Greek sense-both poison and remedy-revealing possibilities for resonance, contemplative presence, and existential transformation. This offers a framework for understanding how patients may sometimes flourish within, rather than despite the altered temporalities of illness.",
-      "journal": "Medicine, health care, and philosophy",
+      "abstract": "PURPOSE: Depression, anxiety, and social isolation are prevalent among stroke survivors with aphasia (SSwA). However, evidence-based mental health interventions for SSwA are limited. The Acceptance and Commitment Therapy (ACT) for Aphasia Phase I clinical trial (NCT04984239) sought to bridge this gap by adapting and piloting an intervention combining ACT with communication strategy training to improve mental health and functional communication in SSwA. Here, we present the qualitative findings of this study to characterize experiential outcomes and inform intervention refinement. METHOD: Following a content analysis approach, we examined the posttreatment interviews of participants who received a refined version of the intervention ( RESULTS: Participants reported satisfaction with the intervention, positive changes in mood and behavior, and increased acceptance of their aphasia. Findings supported the utility of all core intervention components and highlighted the importance of mindfulness practice, forming a therapeutic alliance, and supporting patient autonomy. Findings were consistent with hypothesized mechanisms of change regarding psychological flexibility and treatment generalization. CONCLUSION: This study provides qualitative support for further evaluation of ACT for Aphasia and contributes to an emerging evidence base for adapted psychological interventions developed specifically for SSwA. SUPPLEMENTAL MATERIAL: https://doi.org/10.23641/asha.32316024.",
+      "journal": "American journal of speech-language pathology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "[The Use of Dialectical-Behavior Therapy in the Treatment of Substance Use Disorders].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42887553/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-16T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.346275",
+      "doi": "10.1055/a-2954-0980",
+      "authors": [
+        {
+          "name": "Beatrix Marth",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elke Humer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Human Unterrainer",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: The treatment of substance use disorders (SUD) remains a persistent challenge. Dialectical behavior therapy (DBT) is a multimodal cognitive-behavioral treatment approach that integrates acceptance- and change-oriented strategies and was originally developed to address severe emotion dysregulation. In the context of SUD, DBT-based adaptations and skills-oriented formats are particularly used to target emotion regulation, distress tolerance, mindfulness and relapse prevention. Aim: The aim of this review was to synthesize the current state of research in order to explore and evaluate the use and effectiveness of DBT-based interventions for SUD. METHODS: A systematic literature search in databases, Google Scholar and Semantic Scholar identified 13 relevant studies from the period 2010 to 2024, which were narratively synthesized. RESULTS: Despite methodological limitations, the findings suggested that the DBT-based formats used, in particular DBT skills training (DBT-ST), might improve emotion regulation, distress tolerance and adaptive coping strategies. Additionally, there was evidence for beneficial effects on substance use, abstinence and craving. Furthermore, several findings suggested promising treatment acceptance and adherence, although these results depended on the context and study design. CONCLUSIONS: Overall, it can be concluded that DBT-ST, in particular, may be a suitable intervention option for individuals with SUD. However, further robust studies with standardized diagnostic procedures, longer follow-up periods and active control groups are needed to more precisely determine its specific efficacy and indications.",
+      "journal": "Fortschritte der Neurologie-Psychiatrie",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Cultural adaptation of a digital health intervention for smoking cessation among Hispanic/Latino adults in Atlanta, Georgia, United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880548/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-15T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.346420",
+      "doi": "10.1016/j.ypmed.2026.108679",
+      "authors": [
+        {
+          "name": "Claire A Spears",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Camelia Gonzalez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shirley E Bella Borghi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Virmarie Correa-Fern\u00e1ndez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Leesly Fraire",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Caitlyn Chilito",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mary Wangen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rafael Bernal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Daniela Benavides Ramirez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shannon Self-Brown",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mary Helen O'Connor",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rodney Lyn",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Hispanic/Latino (\"H/L\") communities experience high levels of tobacco-related morbidity and mortality. Accessible, culturally appropriate interventions are needed to address barriers to smoking cessation. This qualitative study informed the linguistic and cultural adaptation of a mindfulness-based text messaging intervention for smoking cessation among H/L adults. METHODS: Individual interviews were conducted with H/L adults who currently smoke (n\u202f=\u202f7), H/L adults who formerly smoked (n\u202f=\u202f11), and other key informants (e.g., healthcare providers, medical translators, n\u202f=\u202f8) in Atlanta, Georgia, United States in 2025-2026. Participants were asked about barriers/facilitators to tobacco cessation, intervention acceptability, suggestions for increasing accessibility and cultural relevance, and suggestions for implementation in healthcare and community settings. RESULTS: Key barriers to smoking cessation among H/L communities include stress, low healthcare access, and inadequate focus on smoking cessation in routine healthcare. Facilitators for smoking cessation include family and social support. Participants gave positive feedback about the intervention materials, including text messages and mindfulness content. They provided suggestions for refining Spanish-language wording and optimizing implementation. CONCLUSIONS: Findings reveal important community insights to improve access to culturally appropriate smoking cessation support for H/L adults. The intervention is being further refined to reflect cultural values and use relevant and accessible Spanish terms to increase impact.",
+      "journal": "Preventive medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Self-report measures of mindfulness for children: convergent validity, predictive validity, and impacts of social desirability bias.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892216/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-17T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.346449",
+      "doi": "10.1016/j.jecp.2026.106598",
+      "authors": [
+        {
+          "name": "Winnie Zhuang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Laura E Michaelson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuko Munakata",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sona Dimidjian",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindfulness-based interventions have shown promise in supporting psychological well-being in children. However, mindfulness is commonly measured using self-report questionnaires, a method that might be problematic due to its reliance on children's accurate self-perceptions of their own mindfulness and the potential influence of social desirability bias. In the current study, we examined the convergent validity, the predictive validity, and the influence of social desirability bias on three mindfulness self-report measures for children ages 9-13\u00a0\u00a0years (N\u00a0=\u00a0109). Results showed that children's self-reported mindfulness demonstrated good convergent validity and predictive validity, as higher levels of self-reported mindfulness were positively associated with higher levels of parent-reported executive functioning. Self-reported mindfulness also covaried with social desirability bias. However, controlling for this bias did not substantively affect the convergent validity nor the predictive validity of self-reported mindfulness. These findings suggest that children's self-reported mindfulness also captures social desirability bias, but this bias may not affect conclusions about mindfulness when assessed as a latent factor across multiple measures. Future work measuring children's mindfulness with self-reports should account for social desirability bias when possible, as well as explore objective methods of assessing mindfulness in children.",
+      "journal": "Journal of experimental child psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Embodied Inter-Hand Sensory Experiences (\"Prana\" Perception): A Randomized Controlled Trial of Affective, Environmental, and Physiological Correlates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891959/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-17T00:00:00",
+      "date_fetched": "2026-10-18T15:03:03.346516",
+      "doi": "10.1159/cmr/acfag016",
+      "authors": [
+        {
+          "name": "Vinu Vijayakumar",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mahesh A Padukudru",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Srikanth N Jois",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sandhya T",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nagendra Prasad Krishnamurthy",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Roopa Nanjunda Swamy",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Contemplative traditions describe inter-hand sensations as \"prana,\" yet these remain underexplored experimentally. This study examined whether a structured embodied attention practice elicits higher reproducible inter-hand sensory experiences and investigated their associations with affective state, environmental context, and physiological parameters in healthy individuals. METHODS: In this participant-blinded randomized controlled trial, 107 healthy young adults (mean age 20.7 \u00b1 1.3 years) were allocated to either an embodied attention intervention derived from pranic healing practices or a structurally matched sham condition across four standardized sessions. Intensity and spatial extent of perceived inter-hand sensations, mood introspection, nature connectedness, and physiological parameters were measured. Data were analyzed using descriptive and inferential statistics, including linear mixed-effects models, correlation and regression analyses, and qualitative content analysis of participant-reported experiences. RESULTS: Intervention group reported significantly higher inter-hand sensory intensity across sessions (p \u2264 0.05) and greater spatial extent in three sessions (p \u2264 0.05). Sensory measures showed large treatment effects (\u03b7p\u00b2 = .145-.155) and good internal consistency (\u03b1 = .74-.81). Both groups indicating increased calmness. A small but significant decrease in forehead temperature was observed post-intervention (p \u2264 0.001). Hierarchical regression showed positive affect (\u03b2 = 0.37, p = 0.005) and nature connectedness (\u03b2 = 0.26, p = 0.043) predicted perceived sensory intensity, explaining 21% variance. Qualitative findings revealed recurring sensations like attraction, pressure, and vibration, more frequent in the intervention group. CONCLUSIONS: Focused embodied attention practice in pranic healing consistently enhanced inter-hand sensory intensity and spatial extent, accompanied by mild forehead temperature reduction. Mood state and nature connectedness influenced these experiences, suggesting interactions among attentional, interoceptive, affective, and psychophysiological processes.",
+      "journal": "Complementary medicine research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
