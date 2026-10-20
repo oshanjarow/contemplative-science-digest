@@ -1,543 +1,172 @@
 {
-  "generated_at": "2026-10-19T17:54:48.402027",
+  "generated_at": "2026-10-20T15:58:58.812551",
   "papers": [
     {
-      "title": "\u0641\u0627\u0639\u0644\u064a\u0629 \u0628\u0631\u0646\u0627\u0645\u062c \u0625\u0631\u0634\u0627\u062f\u064a \u0645\u0639\u0631\u0641\u064a \u0642\u0627\u0626\u0645 \u0639\u0644\u0649 \u0627\u0644\u064a\u0642\u0638\u0629 \u0627\u0644\u0630\u0647\u0646\u064a\u0629 (MBCT) \u0641\u064a \u062a\u062d\u0633\u064a\u0646 \u0643\u0644 \u0645\u0646 \u0645\u062a\u0639\u0629 \u0641\u0648\u0627\u062a \u0627\u0644\u0623\u0634\u064a\u0627\u0621 (JOMO) \u0648\u0627\u0644\u0635\u0645\u0648\u062f \u0627\u0644\u0631\u0642\u0645\u064a \u0644\u062f\u0649 \u0639\u064a\u0646\u0629 \u0645\u0646 \u0637\u0644\u0627\u0628 \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a.",
-      "url": "https://www.semanticscholar.org/paper/bd189ba6e1da420d638dbad1dea532c8e2ad01df",
+      "title": "Beyond psychedelic exceptionalism: how people combine meditation with psychoactive substances, and how this relates to well-being.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891832/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-01T00:00:00",
-      "date_fetched": "2026-10-19T17:54:06.527660",
-      "doi": "10.21608/jfeps.2025.486774",
+      "source_type": "pubmed",
+      "date_published": "2026-10-17T00:00:00",
+      "date_fetched": "2026-10-20T15:58:57.916774",
+      "doi": "10.1007/s00213-026-07179-5",
       "authors": [
         {
-          "name": "\u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632 \u0635\u0627\u0628\u0631 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632",
-          "author_id": "2137189095",
+          "name": "Andreas Krabbe",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Lena Lindstr\u00f6m",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pilleriin Sikka",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jussi Jylkk\u00e4",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "\u0645\u062c\u0644\u0629 \u06a9\u0644\u06cc\u0629 \u0627\u0644\u062a\u0631\u0628\u06cc\u0629 \u0641\u0649 \u0627\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0646\u0641\u0633\u06cc\u0629",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "A multidimensional examination of the effects of MBCT intervention on healthy university students",
-      "url": "https://www.semanticscholar.org/paper/fefefe785140a456f2bc25f28927030584b8a792",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-19T17:54:06.527680",
-      "doi": "10.4992/pacjpa.89.0_630",
-      "authors": [
-        {
-          "name": "M. Takahashi",
-          "author_id": "50750848",
-          "affiliation": null
-        },
-        {
-          "name": "Remi Inayoshi",
-          "author_id": "2023656200",
-          "affiliation": null
-        },
-        {
-          "name": "Akiko Eura",
-          "author_id": "51356924",
-          "affiliation": null
-        },
-        {
-          "name": "Nakatani Hironori",
-          "author_id": "2094649443",
-          "affiliation": null
-        },
-        {
-          "name": "Yuan Ning",
-          "author_id": "2469586265",
-          "affiliation": null
-        },
-        {
-          "name": "Peng-Cheng Li",
-          "author_id": "2469359604",
-          "affiliation": null
-        },
-        {
-          "name": "Tohru Yagi",
-          "author_id": "2052545265",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "The Proceedings of the Annual Convention of the Japanese Psychological Association",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Effectiveness and Comparison of Compassion-Focused Therapy (CFT) and Mindfulness-Based Cognitive Therapy (MBCT) on Self-Esteem in Female Breadwinner Mothers",
-      "url": "https://www.semanticscholar.org/paper/1dbcc601fdd95401212a8b10a89c17ca8436edcd",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-19T17:54:06.527686",
-      "doi": "10.61838/mhlj.146",
-      "authors": [
-        {
-          "name": "Shiva Parsamanesh",
-          "author_id": "2449676178",
-          "affiliation": null
-        },
-        {
-          "name": "Reza Khakpour",
-          "author_id": "2360236687",
-          "affiliation": null
-        },
-        {
-          "name": "Rahim Davari",
-          "author_id": "2332258476",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The aim of the present study was to examine and compare the effectiveness of Compassion-Focused Therapy (CFT) and Mindfulness-Based Cognitive Therapy (MBCT) on self-esteem in female breadwinner mothers. This applied study employed an experimental method with a pretest\u2013posttest design and a three-month follow-up, including a control group. The statistical population consisted of female breadwinner mothers residing in District 14 of Tehran, from whom 45 individuals were selected through convenience sampling and randomly assigned to three groups of 15 participants (two experimental groups and one control group). The experimental groups received eight weekly 90-minute treatment sessions. Data were collected using the Rosenberg Self-Esteem Scale and analyzed through repeated-measures analysis of variance. The results indicated that both interventions were effective in improving the variables under investigation. Based on the findings, it can be concluded that psychological interventions grounded in compassion and mindfulness can be utilized as effective approaches for enhancing the mental health of female breadwinner mothers. Therefore, employing these approaches in supportive and counseling programs aimed at empowering this segment of society is recommended.",
-      "journal": "Mental Health and Lifestyle Journal",
+      "abstract": "BACKGROUND: Combining meditation with psychoactive substances is often assumed to be a niche practice centred on classic psychedelics. We sought to broaden this narrative in two cross-sectional studies. METHODS: Study 1 used a broad naturalistic sample (N = 1,391) to examine the prevalence of substance use, meditation, and their simultaneous combination, as well as associations with subjective happiness. Study 2 used a stratified subsample (n = 397) focusing on classic psychedelic and cannabis users, the most common psychedelic-type substances combined with meditation, to assess associations with mental well-being, peace of mind, psychological flexibility, depression, and anxiety. RESULTS: Contrary to prevailing assumptions, alcohol (29%), cannabis (19%), and nicotine (16%) were far more commonly combined with meditation than classic psychedelics (6%). Classic psychedelic use was also embedded within a pattern of pronounced polysubstance use, suggesting that it may reflect a broader substance-use profile rather than an isolated behavioural practice. Regression analyses found no consistent associations between psychedelic or cannabis use, with or without meditation, and any outcome. However, an unexpected pattern emerged for other drugs and alcohol. Other- drug use without meditation was associated with poorer well-being outcomes relative to no other-drug use, whereas other-drug use combined with meditation was not. Alcohol combined with meditation was associated with better well-being outcomes relative to alcohol use without meditation. CONCLUSIONS: These findings suggest that combining meditation with substance use is not limited to psychedelics and should be studied within broader patterns of polysubstance use and meditation practice.",
+      "journal": "Psychopharmacology",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Perceived changes in the self following an MBCT protocol: a qualitative study to inform further theory development",
-      "url": "https://www.semanticscholar.org/paper/7e03b84b3ac00a902af619802fcde65ccd7fbff4",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-02-10T00:00:00",
-      "date_fetched": "2026-10-19T17:54:06.527700",
-      "doi": "10.1108/mhsi-06-2025-0178",
-      "authors": [
-        {
-          "name": "Philippine Chachignon",
-          "author_id": "2280019186",
-          "affiliation": null
-        },
-        {
-          "name": "E. Lebarbenchon",
-          "author_id": "116762308",
-          "affiliation": null
-        },
-        {
-          "name": "Carine Finiels",
-          "author_id": "2416443259",
-          "affiliation": null
-        },
-        {
-          "name": "Marion Martinelli",
-          "author_id": "32602367",
-          "affiliation": null
-        },
-        {
-          "name": "L. Dany",
-          "author_id": "2280018330",
-          "affiliation": null
-        },
-        {
-          "name": "Sylvia Martin",
-          "author_id": "2328959324",
-          "affiliation": null
-        }
-      ],
-      "abstract": "\n \n Mindfulness-based cognitive therapy (MBCT) is a flagship intervention addressing depressive disorders that are distressing for the self and socially impairing. While psychological processes such as self-regulation, meta-awareness and self-transcendence account for its efficacy, these are often examined in isolation, and the social aspects of the self remain under-researched. Moreover, theoretical paradoxes in mindfulness \u2013 simultaneous strengthening and deconstruction of the self \u2013 call for more holistic and qualitative approaches. The purpose of this paper is to explore how MBCTs are experienced by individuals to inform selfrelated and social mechanisms.\n \n \n \n This study explored these dynamics through ten post-interventional semi-structured interviews focusing on changes in psychological, physical and social dimensions of the self. Two independent coders used thematic analysis methods to blindly assess the verbatim transcriptions and extract themes. Thematic analysis revealed four main themes: 1) evolution of awareness, 2) evolution of the sense of self, 3) evolution of the connection to others, and 4) negative aspects, with the sense of self predominating. Participants reported that social connectedness evolved alongside differentiation, suggesting that MBCT strengthens intrapersonal self-regulation more readily than social identity processes, which are particularly impaired in depression.\n \n \n \n A thematic content analysis revealed four main themes associated with changes involved in the MBCT: 1) evolution of awareness, 2) evolution of the sense of self, 3) evolution of the connection to others, and 4) negative aspects. Theme 2 was significantly predominant. A focus on theme 3 reflected participants\u2019 common discourses of differentiation that coexisted with social connectedness, and a lesser importance of this theme compared to the first two.\n \n \n \n The findings contribute to theory development by showing that, despite mindfulness being associated with empathy and prosocial behaviors in the literature, the social dimension of the self remained subtle and ambivalent \u2013 torn between processes of differentiation and social identification \u2013 highlighting a theoretical blind spot and the need to explicitly address social identity in mindfulness-based interventions. These insights illuminate the complex interplay between individual and social dimensions of the self in MBCT and suggest avenues for enhancing both therapeutic and social outcomes.\n \n \n \n The findings suggest that MBCT protocols could benefit from explicitly integrating social dimensions of the self which are often overlooked. Clinically this means adding modules or exercises that target social belonging and connection to others enhancing social support for depressed patients. Recognizing the limitations of MBCT for certain personality profiles calls for more personalized interventions. Addressing individual and social needs more effectively could improve treatment adherence and optimize overall therapeutic outcomes.\n \n \n \n This research highlights the crucial but underexplored role of the social self in mental health within mindfulness practices. It reveals a paradox of increased self-awareness coupled with limited social connection among depressed patients. Beyond clinical settings, these findings encourage rethinking group interventions to foster belonging and social identity recognition. Promoting the \u201csocial cure\u201d through mindfulness could reduce social isolation, strengthen support networks and ultimately help prevent depressive relapse, producing significant societal benefits.\n \n \n \n This study offers an original qualitative exploration of the social self-experience in MBCT an area rarely investigated. It challenges classical models by showing that an enhanced sense of self does not necessarily coincide with improved social connectedness. The holistic change-focused approach reveals a fundamental theoretical paradox and suggests integrating social identity processes more explicitly in interventions. This perspective advances the psychosocial understanding of mindfulness mechanisms and proposes innovative directions to enhance therapeutic protocols.\n",
-      "journal": "Mental Health and Social Inclusion",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Bridging the Rural Mental Health Gap: Telehealth Delivery of Specialized CBT and MBCT for Veterans With Parkinson's Disease",
-      "url": "https://www.semanticscholar.org/paper/ff75c216b3d9c94ee2497e6d9b96f359ea6ac4e9",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-01T00:00:00",
-      "date_fetched": "2026-10-19T17:54:06.527752",
-      "doi": "10.1111/jrh.70175",
-      "authors": [
-        {
-          "name": "J. R. Purcell",
-          "author_id": "2257886877",
-          "affiliation": null
-        },
-        {
-          "name": "Rokas Perskaudas",
-          "author_id": "21181122",
-          "affiliation": null
-        },
-        {
-          "name": "Rachael B. Miller",
-          "author_id": "2052955444",
-          "affiliation": null
-        },
-        {
-          "name": "Lauren M. St. Hill",
-          "author_id": "2504368024",
-          "affiliation": null
-        },
-        {
-          "name": "Arlene R. King",
-          "author_id": "1398392665",
-          "affiliation": null
-        },
-        {
-          "name": "Vibha Reddy",
-          "author_id": "2322094765",
-          "affiliation": null
-        },
-        {
-          "name": "Kait Gilleran",
-          "author_id": "2443258962",
-          "affiliation": null
-        },
-        {
-          "name": "Laura Marsh",
-          "author_id": "2265207377",
-          "affiliation": null
-        },
-        {
-          "name": "Aliya I. Sarwar",
-          "author_id": "8177087",
-          "affiliation": null
-        },
-        {
-          "name": "J. Mack",
-          "author_id": "34663104",
-          "affiliation": null
-        },
-        {
-          "name": "John E. Duda",
-          "author_id": "2271859541",
-          "affiliation": null
-        },
-        {
-          "name": "Jessica Lehosit",
-          "author_id": "67341451",
-          "affiliation": null
-        },
-        {
-          "name": "Petty Tineo",
-          "author_id": "51161400",
-          "affiliation": null
-        },
-        {
-          "name": "Marilyn Hinojosa-Lindsey",
-          "author_id": "1403167659",
-          "affiliation": null
-        },
-        {
-          "name": "Kristi Ketchum",
-          "author_id": "2154484736",
-          "affiliation": null
-        },
-        {
-          "name": "Solomon Kalkstein",
-          "author_id": "6409036",
-          "affiliation": null
-        },
-        {
-          "name": "Meredith Shouse",
-          "author_id": "2443259547",
-          "affiliation": null
-        },
-        {
-          "name": "Kayla Maloney",
-          "author_id": "104877406",
-          "affiliation": null
-        },
-        {
-          "name": "Christopher Liong",
-          "author_id": "49428825",
-          "affiliation": null
-        },
-        {
-          "name": "Autumn Makin",
-          "author_id": "2443256303",
-          "affiliation": null
-        },
-        {
-          "name": "Gretchen L. Glenn",
-          "author_id": "14660160",
-          "affiliation": null
-        },
-        {
-          "name": "Dawn McHale",
-          "author_id": "2443258168",
-          "affiliation": null
-        },
-        {
-          "name": "Susie O'Connor",
-          "author_id": "1421770017",
-          "affiliation": null
-        },
-        {
-          "name": "Alejandro Interi\u00e1n",
-          "author_id": "2323156626",
-          "affiliation": null
-        },
-        {
-          "name": "R. Dobkin",
-          "author_id": "4737242",
-          "affiliation": null
-        }
-      ],
-      "abstract": "ABSTRACT Purpose The Veteran Affairs (VA) New Jersey Parkinson's Disease (PD) Telepsychotherapy Hub (PD Telepsych Hub) delivers virtual mental health treatments to underserved rural Veterans in partnership with VA Parkinson's Disease Research, Education, and Clinical Centers (PADRECCs). This manuscript outlines the PD Telepsych Hub's hybrid type 2 implementation\u2010effectiveness framework then presents the clinical and demographic characteristics of Enrolled Veterans along with mental health outcomes for Treatment Engagers receiving individual Cognitive Behavioral Therapy (CBT\u2010PD) or group Mindfulness\u2010Based Cognitive Therapy (MBCT\u2010PD) over the first 5 years of operation (10/2020 to 09/2025). Methods Underserved rural Veterans with PD were primarily directly outreached by the PD Telepsych Hub (64%) or referred by VA clinicians. Veterans who met screening criteria and completed a psychiatric consult were enrolled and offered CBT\u2010PD or MBCT\u2010PD via telehealth according to preferences and needs. Enrolled Veterans completed baseline questionnaires assessing demographics and health characteristics. Treatment Engagers completed pre\u2010and\u2010post measures of mood, anxiety, loneliness, functional change, and treatment satisfaction. Results Enrolled Veterans (N = 522 across 31 states) were rural (72%), 6% Hispanic, 8% people of color, and on average 71\u2010years\u2010old. They reported an average of 7 years since PD diagnosis. Although most met criteria for a mood disorder (86%) and 43% had psychiatric comorbidities, only 9% were receiving psychotherapy at time of program enrollment. CBT\u2010PD (n = 202) significantly reduced depression and anxiety, while MCBT\u2010PD (n = 38) reduced depression. Treatment Engagers (n = 240) overall reported high treatment satisfaction (94%). Conclusion At baseline, the mismatch between care access and clinical need was striking. Results highlight a growing foundation for real\u2010world effectiveness in delivering empirically supported, PD\u2010adapted interventions via telehealth to the highest\u2010need, lowest\u2010access populations.",
-      "journal": "Journal of Rural Health",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Review of Research Progress and Controversy of MBCT, MBSR and Other Mindfulness Interventions in a Variety of Psychological Disorders",
-      "url": "https://www.semanticscholar.org/paper/926b6f7c0a706b94292a2a54e1fb6a45ea4c217c",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-19T17:54:06.527794",
-      "doi": "10.1051/shsconf/202623503007",
-      "authors": [
-        {
-          "name": "Ruobing Zhao",
-          "author_id": "2446811240",
-          "affiliation": null
-        }
-      ],
-      "abstract": "With the rising global burden of psychological disorders, traditional interventions show limitations in supporting psychological well-being. Mindfulness-based stress reduction (MBSR) and mindfulness-based cognitive therapy (MBCT) have become a respected, comprehensive, non-pharmacological approach that emphasises self-regulation and sustainable mental health. This review synthesises high-quality randomised controlled trial evidence on the efficacy of MBCT and MBSR in physical and psychological symptoms. Theoretical mechanisms are examined across cognitive, emotional, and neurocognitive levels, highlighting decentering, attention regulation, and emotional acceptance as core transdiagnostic processes. Evidence indicates that MBCT demonstrates robust preventive effects in recurrent depression, while MBSR shows consistent benefits for anxiety and stress-related conditions. However, the contribution of such therapies to non-specific factors, such as long-term maintenance effects, responses to specific diseases, and group support and treatment expectations, remains controversial. By critically discussing the methodological challenges, including heterogeneous interventions, limited active control conditions, and cultural propulsivity, future research directions may include long-term follow-up, mechanism-focused design, biomarker integration, and precision-oriented and digital mindfulness interventions. Overall, Mindfulness-Based Intervention stands as a promising and scalable approach to improve the long-term mental well-being of individuals with the disease, and additional rigorous research is required to elucidate its mechanisms and refine clinical implementation.",
-      "journal": "SHS Web of Conferences",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "Synchronous Online Group MBCT vs. Guided Asynchronous Online MBCT for Mild to Moderate Depression: A Randomized Clinical Trial",
-      "url": "https://www.semanticscholar.org/paper/e3137e480834039c81c5f408b2d5eb4d486b7eb1",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-03-26T00:00:00",
-      "date_fetched": "2026-10-19T17:54:06.527843",
-      "doi": "10.1007/s12671-026-02778-x",
-      "authors": [
-        {
-          "name": "Jan Ward\u0119szkiewicz",
-          "author_id": "2293330096",
-          "affiliation": null
-        },
-        {
-          "name": "P. Holas",
-          "author_id": "2238853002",
-          "affiliation": null
-        },
-        {
-          "name": "G. Andersson",
-          "author_id": "2270042788",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "MBCT"
-      ]
-    },
-    {
-      "title": "An Exploratory Study on the Relationship between Participation in a Classical Music Meditation Program and Psychological Well-Being: From the Perspective of the Threefold Training (Sila, Samadhi, and Praj\u00f1\u0101)",
-      "url": "https://www.semanticscholar.org/paper/be4142f96ead188935e499def931ab33fcb45317",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-30T00:00:00",
-      "date_fetched": "2026-10-19T17:54:16.509805",
-      "doi": "10.21457/kars.2026.6.86.2.333",
-      "authors": [
-        {
-          "name": "Joo-Young Lee",
-          "author_id": "2495863615",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Studies in Religion(The Journal of the Korean Association for the History of Religions)",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "samadhi"
-      ]
-    },
-    {
-      "title": "Navigating the Therapeutic Potential of Ego Dissolution",
-      "url": "https://www.semanticscholar.org/paper/4052b588775e49f7007beda54e5a59b4b99fbb79",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-10-06T00:00:00",
-      "date_fetched": "2026-10-19T17:54:21.802633",
-      "doi": "10.31156/jaex.28663",
-      "authors": [
-        {
-          "name": "Rebecka Malm",
-          "author_id": "147933608",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Ego dissolution (ED; a temporary disruption of self-boundaries and personal identity) is a central feature of many altered states of consciousness. With the resurgence of psychedelic research, these experiences have become of growing clinical relevance, as they can evoke both profound therapeutic transformation and significant psychological destabilization. This conceptual paper reviews the phenomenology of ED, integrates neurobiological insights from predictive coding theory, and examines how three psychological frameworks \u2013 Acceptance and Commitment Therapy (ACT), Interpersonal Neurobiology (IPNB), and Internal Family Systems (IFS) - inform the therapeutic navigation of these states. Synthesizing these perspectives, the paper introduces the Ego Dissolution Integration Framework (EDIF), composed of four interconnected components: (1) Open safely, (2) Establish awareness as identity, (3) Relate to self-models, and (4) Balance freedom and function. EDIF provides clinicians with a psychologically grounded map for utilizing ED experiences \u2013 whether arising from psychedelics, meditation, or crisis \u2013 as opportunities for improved functioning and wellbeing.",
-      "journal": "Journal of Anomalous Experience and Cognition",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Han-u-Mana as philosophical hermeneutic: A phenomenological reading of ego-dissolution in the V\u0101lm\u012bki R\u0101m\u0101ya\u1e47a",
-      "url": "https://www.semanticscholar.org/paper/60f80f1f2cb934441dd540a2c4c43f2c2c06d3c6",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-09-01T00:00:00",
-      "date_fetched": "2026-10-19T17:54:21.802644",
-      "doi": "10.22271/23947519.2026.v12.i5b.3338",
-      "authors": [
-        {
-          "name": "Swapan Samanta",
-          "author_id": "2199538812",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "International Journal of Sanskrit Research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Contrasting cognitive, behavioral, and physiological responses to breathwork vs. naturalistic stimuli in reflective chamber and VR headset environments",
-      "url": "https://www.semanticscholar.org/paper/097b8d40b95f962c0518714ee30873b8ddc78a91",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-01-13T00:00:00",
-      "date_fetched": "2026-10-19T17:54:21.802899",
-      "doi": "10.1371/journal.pmen.0000269",
-      "authors": [
-        {
-          "name": "Ninette Simonian",
-          "author_id": "2264642275",
-          "affiliation": null
-        },
-        {
-          "name": "M. Johnson",
-          "author_id": "2338769964",
-          "affiliation": null
-        },
-        {
-          "name": "C. Lynch",
-          "author_id": "2290068374",
-          "affiliation": null
-        },
-        {
-          "name": "Geena Wang",
-          "author_id": "2487071322",
-          "affiliation": null
-        },
-        {
-          "name": "V. Kumaravel",
-          "author_id": "1580453425",
-          "affiliation": null
-        },
-        {
-          "name": "Taylor P. Kuhn",
-          "author_id": "2304995879",
-          "affiliation": null
-        },
-        {
-          "name": "F. Schoeller",
-          "author_id": "2276137093",
-          "affiliation": null
-        },
-        {
-          "name": "N. Reggente",
-          "author_id": "3435438",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The MindGym, a novel immersive technology utilizing a reflective chamber environment, was developed to create standardized experiential content, including anxiolytic experiences. This study examined whether therapeutic experiences originally created in the MindGym could maintain their efficacy when delivered via 360-degree recordings through virtual reality (VR) headsets. A randomized controlled trial (N=126) compared anxiety reduction, cognitive performance, and physiological responses across four conditions: MindGym and VR platforms, each delivering either breathwork or rain stimuli. Results demonstrated significant improvements across all conditions in cognitive performance (Trail Making Test RTACC, p.fdr<.001; Architex Total Speed, p.fdr<.001) and anxiety reduction (STAI, p.fdr<.001). Breathwork conditions produced greater decreases in breath rate compared to rain stimuli (p.fdr=.002). Treatment responses were moderated by individual differences, with absorption (MODTAS) predicting both awe (p.fdr=.004) and ego dissolution (p.fdr=.015), while openness to experience interacted with stimuli type to influence anxiety reduction (p.fdr=.038). The anxiolytic effects originally generated in the MindGym maintained full efficacy when translated to VR delivery, with no significant differences in effectiveness or immersion between the original environment and its virtual reproduction. These findings establish the MindGym as a viable content creation platform for immersive, anxiety-reducing experiences that can be successfully adapted to more accessible delivery systems, while highlighting the potential for personalization based on individual differences. Future research should investigate the translation of more complex MindGym-generated experiences to expand accessible anxiety management tools.",
-      "journal": "bioRxiv",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Mindful Awareness as a Mediator Between Social Appearance Anxiety and Social Media Addiction in Adolescents.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879693/",
+      "title": "Interdisciplinary Weight Management in a Safety-Net Health System: A Pilot Implementation Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896833/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-19T00:00:00",
-      "date_fetched": "2026-10-19T17:54:47.631418",
-      "doi": "10.3928/02793695-20261009-01",
+      "date_fetched": "2026-10-20T15:58:57.917096",
+      "doi": "10.1002/oby.70306",
       "authors": [
         {
-          "name": "Suheyla Yurt",
+          "name": "Courtney DeCan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "\u015eeyma Lalo\u011flu",
+          "name": "Katie Thure",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Nurgul Karakurt",
+          "name": "Nat Pedley",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sibel Asi Karaka\u015f",
+          "name": "Brett Cervantes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Osbaldo Camargo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Karina Fing Castro",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jacqueline Cabral",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Michelle Gallardo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Dailyn Rodriguez Reyes",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alejandra Perez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stephanie Young",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arash Nafisi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Soma Wali",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: Adolescence is a critical period for identity formation and social development, and social media can shape appearance perceptions and social acceptance. Social appearance anxiety may be associated with greater vulnerability to social media addiction, whereas mindful awareness may be linked to lower levels of this risk. The current study tested mindful awareness as a mediator between social appearance anxiety and social media addiction in adolescents. METHOD: The sample comprised 383 volunteer secondary school students in eastern T\u00fcrkiye during the 2024-2025 academic year. Participants completed standardized measures of social appearance anxiety, mindful awareness, and social media addiction. RESULTS: Social appearance anxiety was positively related to social media addiction and negatively related to mindful awareness; mindful awareness was also negatively related to addiction. CONCLUSION: Mediation results indicated partial mediation, suggesting mindfulness-based interventions may reduce appearance anxiety and promote healthier social media use among adolescents. Findings highlight mindful awareness as a target for prevention.",
-      "journal": "Journal of psychosocial nursing and mental health services",
+      "abstract": "OBJECTIVE: Despite the high prevalence of obesity and cardiometabolic diseases in safety-net populations, access to intensive, evidence-based lifestyle interventions and scalable implementation strategies remains limited. This study evaluated the effectiveness, acceptability, and feasibility of an interdisciplinary program in an urban safety-net health system. METHODS: This single-center, mixed-methods implementation evaluation assessed LA VIDA, a 6-month interdisciplinary weight management program for medically complex individuals. Outcomes included feasibility, patient engagement, self-rated health, quality of life, physical activity, dietary behaviors, and program satisfaction. RESULTS: Over 2\u2009years, 95 participants completed the program. They were predominantly female (72.6%) and Latino (78.9%), with a mean age of 50\u2009years, median BMI of 39.2 (IQR: 36.9 to 43.7), and 60% having \u2265\u20093 comorbidities. Median 6-month weight loss was 5.5% (IQR: -2.6% to -9.9%), with significant improvements in quality of life (p\u2009=\u20090.0003), physical health (p\u2009<\u20090.0001), moderate-intensity physical activity (p\u2009<\u20090.001), and dietary behaviors. Participants reported high satisfaction driven by personalized guidance, increased health knowledge, mindfulness, and the supportive group environment. CONCLUSIONS: LA VIDA was feasible and acceptable and improved patient-reported behaviors and outcomes in a safety-net setting. These findings support it as an effective model for integrated obesity care that combines lifestyle, behavioral, and pharmacologic treatment in the safety net.",
+      "journal": "Obesity (Silver Spring, Md.)",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Orbitofrontal-ventral striatal coupling: A model of the neurobehavioral architecture of craving in substance use disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897429/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-19T00:00:00",
+      "date_fetched": "2026-10-20T15:58:57.917144",
+      "doi": "10.3758/s13415-026-01506-1",
+      "authors": [
+        {
+          "name": "Reza Maleeh",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Neuroimaging has identified cue-elicited activity in ventral striatum and orbitofrontal cortex (OFC) as a reliable signature of craving, yet activation magnitude in either region is an inconsistent predictor of clinical outcome. This theoretical review develops a model on which the clinically consequential variable is not activation but effective coupling: the cue-evoked gain-the factor by which an input is amplified-with which OFC valuation signals modulate ventral striatal action-selection activity. I formalize this gain as valuation-policy coupling (\u03bb), which governs the probability that a drug-related appraisal recruits approach and consumption policies; it is a latent construct indexed by effective OFC-accumbens connectivity, approach bias under load, and pharmacological challenge. Two moderators-meta-awareness and elaborative versus nonelaborative engagement-determine whether the urge is re-entered or exited, and jointly specify a neurocognitive space in which craving occupies a high-\u03bb, high-meta-awareness, elaborative vertex. The framework predicts an awareness-amplification effect-noticing an urge intensifies it under high \u03bb and weakens it under low \u03bb-specifies when mindfulness-based relapse prevention should attenuate craving and when it should not, and yields a discriminative prediction: \u03bb-reducing interventions should reduce cue-modulated OFC-ventral-striatum coupling while leaving regional activation comparatively preserved. \u03bb is a parameter of craving rather than of relapse-which also requires cognitive-control parameters-and a candidate transdiagnostic mechanism. Claims are labeled by evidential status; the \u03bb-meta-awareness interaction is the model's principal hypothesis, and failure conditions are stated explicitly.",
+      "journal": "Cognitive, affective & behavioral neuroscience",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Is Less More? Exploring the Visual Processes of Minimalist and Complex Photography Through Eye Tracking and EEG.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897798/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-19T00:00:00",
+      "date_fetched": "2026-10-20T15:58:57.917472",
+      "doi": "10.1177/00315125261501784",
+      "authors": [
+        {
+          "name": "Hsien-Chih Chuang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jing-Cih Wang",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "In a world filled with an overwhelming amount of visual information, the clean and distinctive visual style of minimalist photography stands out. However, empirical research on how minimalist style affects visual cognition and psychological responses remains limited. The present study investigated the effects of photographic style (minimalist versus complex) on viewers' visual behavior, emotional responses, and brainwave state by conducting quantitative psychological experiments. Thirty participants viewed photographs in one of the two styles. Eye-tracking, consumer-grade electroencephalography (EEG), and subjective psychological assessment data were collected, enabling comprehensive evaluation of how the participants looked at, responded to, and emotionally engaged with the images. At the level of visual behavior, minimalism elicited significantly reduced number of fixations and saccades, but the duration of a single fixation is significantly longer, and the heatmap hotspots are highly concentrated, presenting a focused processing pattern of fewer but longer gazes. On a psychological level, minimalism evoked significantly less feeling of complexity and greater relaxation, although there was no significant difference in the aesthetics score between the two styles. In terms of brainwave state, viewing minimalist images resulted in significantly higher attention eSense levels, while the meditation eSense level did not show a significant difference. The results of this study therefore show that minimalist composition may influence the visual search pattern to be more focused, which is compatible with the tendency of simplified organization predicted by the principle of simplification. This study not only deepens the theoretical understanding of the psychological mechanisms of minimalist aesthetics, but also provides practical reference for visual communication and image creation of minimalist composition serving as an effective strategy for guiding the eyes toward the core subject.",
+      "journal": "Perceptual and motor skills",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -545,5 +174,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Walking May Improve Your Attention Span",
+      "url": "https://nautil.us/walking-may-improve-your-attention-span-1285936/",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-10-19T23:00:00",
+      "date_fetched": "2026-10-20T15:58:58.181690",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jake Currie",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "Nautilus",
+      "excerpt": "One more reason to get those steps in The post Walking May Improve Your Attention Span appeared first on Nautilus.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "attention"
+      ]
+    }
+  ]
 }
