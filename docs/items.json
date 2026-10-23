@@ -1,718 +1,703 @@
 {
-  "generated_at": "2026-10-22T16:14:26.572177",
+  "generated_at": "2026-10-23T16:03:43.457603",
   "papers": [
     {
-      "title": "Distinct Patterns of Directed Brain Connectivity in Focused Attention, Open Monitoring, and Loving Kindness Meditation: An Electroencephalographic Granger Causality Study with Long-term Meditators.",
-      "url": "https://www.semanticscholar.org/paper/90e37828c02e3850bda2bc8636f8077bbc7f0e4f",
+      "title": "Longitudinal Effects of Interoceptive Awareness Training as an Adjunct to Medication Treatment for Opioid Use Disorder: A Randomized Clinical Trial of Mindful Awareness in Body-oriented Therapy",
+      "url": "https://www.semanticscholar.org/paper/67e61f87aa3f3f86d7aee6f5ebddb42f4bad9abf",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-04-05T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993035",
-      "doi": "10.1162/jocn.a.2593",
+      "date_published": "2025-08-01T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869603",
+      "doi": "10.1016/j.drugalcdep.2025.112813",
       "authors": [
         {
-          "name": "Vasil Kolev",
-          "author_id": "2270410331",
+          "name": "Cynthia J. Price",
+          "author_id": "2278802339",
           "affiliation": null
         },
         {
-          "name": "Kosio Beshkov",
-          "author_id": "2103732422",
+          "name": "Kenneth C Pike",
+          "author_id": "2278803387",
           "affiliation": null
         },
         {
-          "name": "Peter Malinowski",
-          "author_id": "2352440261",
-          "affiliation": null
-        },
-        {
-          "name": "A. Raffone",
-          "author_id": "3103577",
-          "affiliation": null
-        },
-        {
-          "name": "J. Yordanova",
-          "author_id": "2031843",
+          "name": "Joseph O Merrill",
+          "author_id": "2278803957",
           "affiliation": null
         }
       ],
-      "abstract": "The present study applied spectral Granger causality (GC) analysis to electroencephalographic (EEG) recordings obtained during focused attention meditation (FAM), open monitoring meditation (OMM), and loving kindness meditation (LKM) in highly experienced meditators. The aim of the investigation was to characterize distinct connectivity signatures associated with each meditation style by examining the strength, frequency, and direction of interregional interactions. These differences were expected to specify the neural connectivity profiles of the cognitive and affective state of each meditative practice. Multivariate GC was computed from high-resolution EEG signals recorded from long-term meditators (n = 22) in four conditions: rest, FAM, OMM, and LKM. GC was analyzed in the frequency domain for key electrode clusters (anterior and posterior) in the two hemispheres to compare frequency-specific directed connectivity between rest and each meditation type. Main results demonstrated that each meditation state produced highly specific alterations in directed influences relative to rest. In FAM, there was significant reduction in posterior-to-anterior GC in the alpha and beta bands as well as decreased multispectral interhemispheric frontal GC implying attenuated bottom-up sensory and associative inputs. In OMM, multispectral GC was significantly increased from the left hemisphere to the right posterior cluster implying expanded awareness in the right posterior regions through enhanced top-down modulation by the left hemisphere. The distinctive features of LKM profile were the interhemispheric symmetry, the posterior-anterior bidirectionality, and the specific beta-band engagement, implying a coactivation of systems that support an emotionally balanced stance, equanimity, and prosocial attitude. These novel findings demonstrate that the direction and frequency specificity of information flows provide complementary insights into neural processes underlying distinct meditative states.",
-      "journal": "Journal of Cognitive Neuroscience",
+      "abstract": "Background and Objective: Medication for opioid use disorder (MOUD) treatment outcomes can be limited by co-occurring mental and physical conditions, and new adjunctive interventions are needed to improve treatment. Mindful Awareness in Body-oriented Therapy (MABT) teaches interoceptive awareness skills to promote well-being. This study evaluated the longitudinal effects of MABT as an adjunct to MOUD treatment. Methods: Patients stable on MOUD recruited from six community clinics were randomly assigned to MABT+MOUD or MOUD. Five assessments delivered over one year (N =303) examined abstinence from non-prescribed opioid and overall substance use (primary outcomes), and secondary outcomes of mental and physical health distress, interoceptive and mindfulness skills, and opioid craving. An intent-to-treat approach to examine change across time involved generalized estimating equations and linear mixed multilevel models. Results: This sample demonstrated high percent days abstinence from non-prescribed opioids and other substances, resulting in no statistical between-group differences over time. Significant overall longitudinal effects for MABT+MOUD vs. MOUD were evident on secondary outcomes of physical symptom frequency, and interoceptive awareness. In addition, significant baseline to 12 month between-group improvements were evident on PTSD symptoms, emotion regulation difficulties, and mindfulness skills. Conclusions: While stable on MOUD, this sample had high levels of chronic pain and mental health distress. The results highlight improved longitudinal health outcomes in response to MABT critical to support recovery on MOUD. The MABT completion rate and maintained use of MABT skills over 12 months demonstrates MABT implementation feasibility and positive intervention response as an adjunct to MOUD treatment.",
+      "journal": "Drug and Alcohol Dependence",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Bridging the Fire Safety Awareness Training Gaps: Survey Findings from Dubai and Sharjah Emirates",
+      "url": "https://www.semanticscholar.org/paper/09441ff906f2f66676f4cf670c93f4fd662c8cdb",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-24T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869666",
+      "doi": "10.51983/ijiss-2026.16.1.34",
+      "authors": [
+        {
+          "name": "Mark Tee Kit Tsun",
+          "author_id": "11140807",
+          "affiliation": null
+        },
+        {
+          "name": "Tauqeer Faiz",
+          "author_id": "1739147535",
+          "affiliation": null
+        },
+        {
+          "name": "A. al Mahmud",
+          "author_id": "2460362204",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Dubai and Sharjah, twin cities of the United Arab Emirates, offer a diverse living environment, attracting residents from around the globe. Despite their cosmopolitan nature, these emirates have a concerning rate of fire incidents. To address fire-related issues, the public and private sectors provide extensive fire safety training/workshops and run awareness campaigns. The increase in fire incidents has been encouraged by the possible deficiencies in these training programs; a survey was conducted to assess the effectiveness of available training resources. Employing basic statistics and thematic analysis, we collected data from 149 participants. We aimed to assess the effectiveness of fire safety training programs provided by different organizations in Dubai and Sharjah. The proposed survey had 12 questions about fire safety training and awareness campaigns run in the Dubai and Sharjah Emirates, yielding valuable insights. The lack of adequate fire safety training among the residents of Dubai and Sharjah was revealed through thematic analysis. Conventional approaches in training, such as PowerPoint slides, brochures, and discussions, make the training passive learning. Residents wait for the opportunity to attend fire safety training, and it happens rarely. The available training often lacks contextual learning and inclusion of technological resources. Residents of Dubai and Sharjah rely on their employers or the public sector to sponsor their fire safety training. Additionally, many residents use search engines to learn about fire safety, unaware of existing awareness campaigns. Survey respondents in larger workshops frequently complained about limited individual attention, the long duration of these workshops, participants' education level, time constraints, and the language of instruction. These are the major causes of difficulties in the fire safety training. Most residents recommended incorporating mobile, augmented, and virtual reality applications to make training safe, contextually rich, engaging, and motivating. The survey results supported practical demonstrations, smartphone-enabled training, and augmented and virtual reality-based training over leaflets, PowerPoint presentations, and discussion. Age, gender, and qualification variables were used to establish relationships with the survey responses using thematic analysis to improve fire safety training and awareness campaigns. However, the question left unanswered by respondents requires further investigation to address the gaps and how technology, such as augmented and virtual reality, can transform perception of awareness campaigns by integrating contextual learning, motivation, and engagement.",
+      "journal": "Indian Journal of Information Sources and Services",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Morphological awareness training in reading and spelling of Portuguese",
+      "url": "https://www.semanticscholar.org/paper/733eae02a603eaa4bfd8fa7f5adf2329a24f5475",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-10-23T16:02:57.869676",
+      "doi": "10.51207/2179-4057.20250004",
+      "authors": [
+        {
+          "name": "Silvia Brilhante Guimar\u00e3es",
+          "author_id": "144098286",
+          "affiliation": null
+        },
+        {
+          "name": "M\u00e1rcia Maria Peruzzi Elia da Mota",
+          "author_id": "2502767584",
+          "affiliation": null
+        },
+        {
+          "name": "S. H. Deacon",
+          "author_id": "2074471412",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Summary This study investigates the effects of instruction in mor - phology in both oral and written modality on morpholo - gical skills and both spelling and reading of a group of Portuguese speaking children in Grade 3. We conducted morphological training across 19 sessions with 17 students and compared its effects to a \u2018business as usual\u2019 control group of 16 students. The groups were matched based on performance on measures of verbal and non-verbal abilities as well as phonological awareness. Pre-and post-tests included morphological awareness, spelling of morphologically complex words and other word types, as well as word-level reading. Analyses revealed significant effects of the intervention on morphological awareness and spelling of morphologically complex words, but not on word-level reading or spelling. These findings point to relatively specific effects of morphological training, albeit ones that are likely to be quite helpful to children given the prevalence of morphologically complex words in written texts.",
+      "journal": "Revista Psicopedagogia",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "The Security Awareness Adventure: A serious game for security awareness training utilizing a state transition system and a probabilistic model",
+      "url": "https://www.semanticscholar.org/paper/2e200dddc8f491773513bbb7d6fae08e32a8f47a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869682",
+      "doi": "10.1016/j.cose.2025.104500",
+      "authors": [
+        {
+          "name": "Tong Li",
+          "author_id": "2249712521",
+          "affiliation": null
+        },
+        {
+          "name": "Fang-Qi Dong",
+          "author_id": "2298803320",
+          "affiliation": null
+        },
+        {
+          "name": "Chaoqun Wen",
+          "author_id": "2359341021",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Computers & security",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Unlocking Cybersecurity: A Game\u2010Changing Framework for Training and Awareness\u2014A Systematic Review",
+      "url": "https://www.semanticscholar.org/paper/8db2de93e64730fdd30fd631950ee0018e9ed914",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869700",
+      "doi": "10.1155/hbe2/9982666",
+      "authors": [
+        {
+          "name": "Kiran Amjad",
+          "author_id": "2297793098",
+          "affiliation": null
+        },
+        {
+          "name": "K. Ishaq",
+          "author_id": "89094064",
+          "affiliation": null
+        },
+        {
+          "name": "N. Nawaz",
+          "author_id": "35933213",
+          "affiliation": null
+        },
+        {
+          "name": "F. Rosdi",
+          "author_id": "49030931",
+          "affiliation": null
+        },
+        {
+          "name": "Abdul Basit Dogar",
+          "author_id": "2343754919",
+          "affiliation": null
+        },
+        {
+          "name": "Fawad Ali Khan",
+          "author_id": "2333333776",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Recent advancements in computer science have led to the automation of many business processes. However, this increased automation has also escalated cyber threats and attacks alarmingly, as most data breaches are attributed to human errors, which are critical in these incidents. The primary cause is a lack of cybersecurity awareness and insufficient hands\u2010on experience in real\u2010world scenarios. Serious game frameworks offer a promising solution by surpassing traditional learning methods and addressing cybersecurity education\u2019s complex and evolving nature. This research employs the Preferred Reporting Items for Systematic reviews and Meta\u2010Analyses (PRISMA) technique to systematically analyze various studies, using a snowballing method to select relevant resources. The study conducted a systematic literature review of 68 selected studies within the domains of serious games and cybersecurity training, aiming at evaluating the contributions of other researchers. The review examined different frameworks, tools, technologies, methodologies, and serious games developed for cybersecurity training over the past 5 years. The key findings demonstrate that serious games can effectively engage learners, facilitating knowledge sharing within realistic cybersecurity environments. Additionally, the review assessed the methodologies used to evaluate these serious games across different educational settings. Finally, the study underscores the need for a structured classification of research in the cybersecurity domain, leveraging serious game frameworks along with its taxonomy. This classification would provide a clear direction for future research, building on the evaluation of techniques from previous studies.",
+      "journal": "Human Behavior and Emerging Technologies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Effects on Performance, Perception, and Awareness of Plyometric Training in Youth Volleyball: A Novel Methodological Approach to Training",
+      "url": "https://www.semanticscholar.org/paper/ac4b40fab10a935b974b04321e175146f8020596",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-04T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869706",
+      "doi": "10.3390/app15031581",
+      "authors": [
+        {
+          "name": "Gaetano Raiola",
+          "author_id": "2266569110",
+          "affiliation": null
+        },
+        {
+          "name": "Giovanni Esposito",
+          "author_id": "48464021",
+          "affiliation": null
+        },
+        {
+          "name": "S. Aliberti",
+          "author_id": "2020408832",
+          "affiliation": null
+        },
+        {
+          "name": "Francesca D'Elia",
+          "author_id": "2266321625",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Plyometric training is known to improve jump height in volleyball, but few studies address athletes\u2019 perception and awareness of its benefits. This gap limits its full potential for enhancing performance. This study examines young non-elite volleyball athletes\u2019 awareness of plyometric training effects. A sample of 24 athletes (mean age 18.3 \u00b1 3.8 years) was divided into an experimental group (EXP) and a control group (CON), each with 12 participants. The EXP group underwent plyometric training, while the CON group performed basic technical exercises. Performance and perceptions were assessed using the Spike Jump Test and surveys at pre-, mid-, and post-training phases. The EXP group showed significant vertical jump improvement, from a pre-training mean of 30.14 cm to 32.22 cm post-training, confirmed by the Friedman test (p = 0.00). In contrast, the CON group showed no significant changes (p = 0.47). Perception scores in the EXP group improved significantly, from 3.33 to 4.16, indicating enhanced awareness of plyometric training benefits, whereas the CON group showed no significant changes (p = 0.35). These findings highlight the dual benefits of plyometric training in improving both jump performance and awareness of its effectiveness, emphasizing the value of integrating perception into training for volleyball athletes.",
+      "journal": "Applied Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Fostering AI literacy in pre-service teachers: impact of a training intervention on awareness, attitude and trust in AI",
+      "url": "https://www.semanticscholar.org/paper/3621a7012c651b35a4e750051be1df76f97cab1c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-29T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869713",
+      "doi": "10.3389/feduc.2025.1668078",
+      "authors": [
+        {
+          "name": "Ainara Bilbao-Era\u00f1a",
+          "author_id": "2389692704",
+          "affiliation": null
+        },
+        {
+          "name": "Amaia Arroyo-Sagasta",
+          "author_id": "2389707689",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The proliferation of generative artificial intelligence (AI) tools in recent years has transformed the educational landscape. This evolution has increased the need to train teachers to adapt to a context in which this technology is ubiquitous, and to prepare their future students for it. However, the effectiveness of AI training programmes for teachers has not been widely analysed. AI literacy has a positive influence on attitudes and perceptions toward technology. It also improves understanding of the role of technology in everyday life, facilitating the conscious and critical integration of AI, including in educational contexts. In this context, the lack of qualified AI teachers is one of the most significant obstacles to integrating the technology itself into basic education itself. This study evaluates the effect of an AI literacy-based intervention on improving the perceptions of AI among pre-service teachers. To carry out the analysis, the pre-service teachers\u2019 perceptions were evaluated using the PAICE questionnaire, which measures awareness, attitude, and trust in AI, before and after the training session. Paired-sample t-tests revealed significant improvements in awareness and attitude. Trust increased numerically but did not reach statistical significance. These results suggest that concise, concept-driven instruction can influence awareness and attitude toward AI. In line with these results, a comparison with the findings of a larger study highlights that self-assessed knowledge about AI is notably higher in the group of pre-service teachers involved in the intervention. The study contributes to the integrative design of training programmes for pre-service and in-service teachers, combining conceptual, ethical, and experiential components. It also highlights the need to promote teacher development in order to enable them to respond critically and consciously to an educational system that has been radically transformed by AI.",
+      "journal": "Frontiers in Education",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "awareness training"
+      ]
+    },
+    {
+      "title": "Safeguarding seniors in the digital age: an experimental study on the influence of cybersecurity awareness training on technology adoption, security behaviors, and cybercrime consciousness",
+      "url": "https://www.semanticscholar.org/paper/3223d00c085f364967615f2db09acefb29ac7be3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-05-29T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869721",
+      "doi": "10.3389/fpubh.2026.1780758",
+      "authors": [
+        {
+          "name": "M. Atta",
+          "author_id": "2275136320",
+          "affiliation": null
+        },
+        {
+          "name": "S. Alkubati",
+          "author_id": "8687304",
+          "affiliation": null
+        },
+        {
+          "name": "Marwa Ibrahim Mahfouz Khalil",
+          "author_id": "2263688541",
+          "affiliation": null
+        },
+        {
+          "name": "Nawara Khirallah Abd El Fatah",
+          "author_id": "2495942368",
+          "affiliation": null
+        },
+        {
+          "name": "Rajeh Saad Alsololi",
+          "author_id": "2439831276",
+          "affiliation": null
+        },
+        {
+          "name": "Muthbat Majad Aldawsari",
+          "author_id": "2439830188",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction The rapid expansion of digital engagement has also exposed older adults to an increasing spectrum of cyber threats. Many older individuals encounter distinct challenges when navigating digital environments, including limited prior exposure to technology, lower levels of cybersecurity literacy, and heightened susceptibility to online misinformation. These vulnerabilities not only compromise their digital safety but also undermine their confidence in adopting and effectively using technology. Objectives This study aimed to examine the effect of cybersecurity awareness training on technology adoption, cybersecurity behaviors, and cybercrime awareness among older adults residing in assisted living facilities. Methods A quasi-experimental pretest-posttest control group design was employed. A total of 160 older adults were recruited through convenience sampling. Participants were divided into intervention and control groups. The intervention group underwent a five-week cybersecurity training program, with weekly sessions of 60\u201390\u202fmin. Topics included password security, phishing awareness, social media safety, and secure browsing. Validated assessment tools were used to evaluate changes in cybersecurity awareness, technology acceptance, and security practices before and after the intervention. Results Post-intervention assessments showed that the intervention group experienced significant improvements in digital safety knowledge, attitudes toward technology use, control over digital tools, and awareness of cyber threats, especially on social media. Enhanced adoption of cybersecurity behaviors in daily life was also observed. Conclusion Cybersecurity awareness training is effective in improving older adults\u2019 knowledge of digital threats, encouraging positive attitudes toward technology, and promoting safe online behavior. These findings underscore the potential of targeted interventions to reduce digital vulnerability and enhance inclusion among aging populations.",
+      "journal": "Frontiers in Public Health",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "Glycaemic control and pregnancy outcomes with real-time continuous glucose monitoring in gestational diabetes (GRACE): an open-label, multicentre, multinational, randomised controlled trial.",
-      "url": "https://www.semanticscholar.org/paper/817b34585d6d6ff1c6097fc1da9988312965652f",
+      "title": "Empowering Digital Defense: The Role of Cyber-Vaccination and Awareness Training in Strengthening Cybersecurity in the Modern Era Awareness Training for Cybersecurity",
+      "url": "https://www.semanticscholar.org/paper/51785f66d0b480515909b5fb78afb6fff36ed4ae",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-11-01T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993092",
-      "doi": "10.1016/S2213-8587(25)00288-8",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869728",
+      "doi": "10.2478/ejels-2026-0003",
       "authors": [
         {
-          "name": "Tina Linder",
-          "author_id": "2030020081",
+          "name": "Anni Dasho Sharko",
+          "author_id": "70037404",
           "affiliation": null
         },
         {
-          "name": "I. Dressler-Steinbach",
-          "author_id": "1658990978",
+          "name": "Folitjona Puravelli",
+          "author_id": "2405569181",
           "affiliation": null
         },
         {
-          "name": "Silke Wegener",
-          "author_id": "2276042188",
-          "affiliation": null
-        },
-        {
-          "name": "K. Schellong",
-          "author_id": "4961861",
-          "affiliation": null
-        },
-        {
-          "name": "Saskia Schmidt",
-          "author_id": "2283472595",
-          "affiliation": null
-        },
-        {
-          "name": "Daniel Eppel",
-          "author_id": "1390175935",
-          "affiliation": null
-        },
-        {
-          "name": "C. Monod",
-          "author_id": "80852759",
-          "affiliation": null
-        },
-        {
-          "name": "F. Heinzl",
-          "author_id": "37676199",
-          "affiliation": null
-        },
-        {
-          "name": "K. Redling",
-          "author_id": "11570955",
-          "affiliation": null
-        },
-        {
-          "name": "Bettina Winzeler",
-          "author_id": "2262054626",
-          "affiliation": null
-        },
-        {
-          "name": "B. Mosimann",
-          "author_id": "5366962",
-          "affiliation": null
-        },
-        {
-          "name": "F. Weschenfelder",
-          "author_id": "2309466165",
-          "affiliation": null
-        },
-        {
-          "name": "T. Groten",
-          "author_id": "2384952588",
-          "affiliation": null
-        },
-        {
-          "name": "M. Mittlb\u00f6ck",
-          "author_id": "2357264541",
-          "affiliation": null
-        },
-        {
-          "name": "J. Jendle",
-          "author_id": "46942991",
-          "affiliation": null
-        },
-        {
-          "name": "Wolfgang Henrich",
-          "author_id": "2310878334",
-          "affiliation": null
-        },
-        {
-          "name": "M. Morettini",
-          "author_id": "1904709",
-          "affiliation": null
-        },
-        {
-          "name": "L. Bozkurt",
-          "author_id": "4626886",
-          "affiliation": null
-        },
-        {
-          "name": "Andrea Tura",
-          "author_id": "2261978975",
-          "affiliation": null
-        },
-        {
-          "name": "C. G\u00f6bl",
-          "author_id": "2251904747",
+          "name": "Genci Sharko",
+          "author_id": "69926450",
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND\nData regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG).\n\n\nMETHODS\nFor this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18-55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36-38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute's GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose-lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328).\n\n\nFINDINGS\nBetween Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25\u00b72\u2009weeks [SD 2\u00b73] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28\u00b76 weeks (SD 1\u00b79) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0\u00b732, 95% CI 0\u00b710-0\u00b787, p=0\u00b7014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1\u00b759, 0\u00b786-2\u00b799, p=0\u00b711). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0\u00b777, 0\u00b742-1\u00b740, p=0\u00b739).\n\n\nINTERPRETATION\nrt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research.\n\n\nFUNDING\nDexcom.\n\n\nTRANSLATION\nFor the German translation of the abstract see Supplementary Materials section.",
-      "journal": "The Lancet Diabetes and Endocrinology",
-      "year": 2025,
+      "abstract": "Abstract Today\u2019s rapidly evolving digital world has experienced a steady increase in the threat of hacking. As cyberattacks become more frequent and sophisticated, cyber-vaccination technology is being developed as a security method to counter the potential dangers posed by botnets. Cyber-vaccination involves exposing individuals to simulated cyberattacks, allowing them to become familiar with common threats and learn how to respond appropriately. Through internet safety awareness training, participants develop essential skills that are critical for maintaining online security. On a global scale, the growth of cybercrime mirrors the rapid spread of an infectious virus. Based on reported financial losses, cybercriminals appear to be accumulating increasing amounts of stolen funds each year. Although a wide range of advanced technologies exists to identify and prevent known cyber threats, these measures are often insufficient when attackers exploit human behavior as their primary method of intrusion. Many reputable organizations invest significant resources in training their employees to recognize and avoid phishing emails and other forms of cyberattacks. These organizations allocate funding and establish specialized teams to provide effective cybersecurity education. However, a substantial portion of the general population lacks access to such routine training, which presents a significant challenge. Providing accessible cybersecurity education is therefore essential. This study aims to examine the various free training options currently available, as well as the common risks and challenges associated with these educational opportunities. Additionally, the study will compare alternative solutions to determine their effectiveness in improving cybersecurity awareness.",
+      "journal": "European Journal of Economics, Law and Social Sciences",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "An open paradigm dataset for intelligent monitoring of underground drilling operations in coal mines",
-      "url": "https://www.semanticscholar.org/paper/73175c88592fdd1ba4d079d50f50132644e74ecc",
+      "title": "Importance OF Cybersecurity Awareness Training for SCHOOL Administrators AND Teachers for Sustainable SCHOOL System",
+      "url": "https://www.semanticscholar.org/paper/9b681b931337ac1d9bebe4c7de997ad54ac00b5b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-13T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993099",
-      "doi": "10.1038/s41597-025-05118-1",
+      "date_published": "2026-04-18T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869735",
+      "doi": null,
       "authors": [
         {
-          "name": "P. Zhao",
-          "author_id": "2378086907",
+          "name": "Oweikpodor Vera Gbaeprekumo",
+          "author_id": "2369653113",
           "affiliation": null
         },
         {
-          "name": "Xichao Wang",
-          "author_id": "2243357672",
+          "name": "Nnorom Jane Ndidiamaka",
+          "author_id": "2333384388",
           "affiliation": null
         },
         {
-          "name": "Shuainan Yu",
-          "author_id": "2361232876",
-          "affiliation": null
-        },
-        {
-          "name": "Xiangqing Dong",
-          "author_id": "2261935733",
-          "affiliation": null
-        },
-        {
-          "name": "Bao-Jiang Li",
-          "author_id": "2118425321",
-          "affiliation": null
-        },
-        {
-          "name": "Haiyan Wang",
-          "author_id": "2175961382",
-          "affiliation": null
-        },
-        {
-          "name": "Guo-Chu Chen",
-          "author_id": "3295052",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The underground drilling environment in coal mines is critical and prone to accidents, with common accident types including rib spalling, roof falling, and others. High-quality datasets are essential for developing and validating artificial intelligence (AI) algorithms in coal mine safety monitoring and automation field. Currently, there is no comprehensive benchmark dataset for coal mine industrial scenarios, limiting the research progress of AI algorithms in this industry. For the first time, this study constructed a benchmark dataset (DsDPM 66) specifically for underground coal mine drilling operations, containing 105,096 images obtained from surveillance videos of multiple drilling operation scenes. The dataset has been manually annotated to support computer vision tasks such as object detection and pose estimation. In addition, this study conducted extensive benchmarking experiments on this dataset, applying various advanced AI algorithms including but not limited to YOLOv8 and DETR. The results indicate the proposed dataset highlights areas for improvement in algorithmic models and fills the data gap in the coal mining, providing valuable resources for developing coal mine safety monitoring.",
-      "journal": "Scientific Data",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "open monitoring"
-      ]
-    },
-    {
-      "title": "Autonomous robotic systems for coral reef monitoring: Review and open research issues",
-      "url": "https://www.semanticscholar.org/paper/1401f0e8b3d247b1e4697a5d6addce908fc0e44e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-12-01T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993120",
-      "doi": "10.1016/j.ecoinf.2025.103511",
-      "authors": [
-        {
-          "name": "Atif Sultan",
-          "author_id": "2273652886",
-          "affiliation": null
-        },
-        {
-          "name": "L. S. Saoud",
-          "author_id": "2319631",
-          "affiliation": null
-        },
-        {
-          "name": "Mahmoud Elmezain",
-          "author_id": "2322564032",
-          "affiliation": null
-        },
-        {
-          "name": "Mohamed Heshmat",
-          "author_id": "2322564205",
-          "affiliation": null
-        },
-        {
-          "name": "Lakmal D. Seneviratne",
-          "author_id": "2272657840",
-          "affiliation": null
-        },
-        {
-          "name": "I. Hussain",
-          "author_id": "2266089286",
+          "name": "Eguonor Temienor",
+          "author_id": "2450528151",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Ecological Informatics",
-      "year": 2025,
+      "journal": "",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "Physics-informed neural network for hydraulic prediction in open-channel water transfer projects with sparse monitoring data.",
-      "url": "https://www.semanticscholar.org/paper/2e60c24131857b246baa00f61a2261bf01cfbfb6",
+      "title": "The Space Weather Awareness Training Network",
+      "url": "https://www.semanticscholar.org/paper/9050fd72bf6d715993408f62ab526c341e569700",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-01T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993145",
-      "doi": "10.1016/j.watres.2025.124507",
+      "date_published": "2026-06-17T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869750",
+      "doi": "10.1051/swsc/2026020",
       "authors": [
         {
-          "name": "Zhong-Bing Li",
-          "author_id": "2502577056",
+          "name": "Teresa Barata",
+          "author_id": "2259810905",
           "affiliation": null
         },
         {
-          "name": "T. Mu",
-          "author_id": "6773713",
+          "name": "D. del Moro",
+          "author_id": "133823516",
           "affiliation": null
         },
         {
-          "name": "Xin Li",
-          "author_id": "2214718535",
+          "name": "Robertus Erd\u00e9lyi",
+          "author_id": "2422648901",
           "affiliation": null
         },
         {
-          "name": "Pengcheng Li",
-          "author_id": "2293147364",
+          "name": "J. Fernandes",
+          "author_id": "2328023558",
           "affiliation": null
         },
         {
-          "name": "Jian-Gang Feng",
-          "author_id": "2272868771",
+          "name": "R. Gafeira",
+          "author_id": "2281123494",
           "affiliation": null
         },
         {
-          "name": "Hui Xu",
-          "author_id": "2307497620",
+          "name": "M. Georgoulis",
+          "author_id": "1827145",
           "affiliation": null
         },
         {
-          "name": "Chunsheng Liu",
-          "author_id": "2186959028",
+          "name": "K. Murawski",
+          "author_id": "2264826521",
           "affiliation": null
         },
         {
-          "name": "Shang-Tuo Qian",
-          "author_id": "95562555",
+          "name": "A. Nindos",
+          "author_id": "100989347",
+          "affiliation": null
+        },
+        {
+          "name": "O. Oliveira",
+          "author_id": "2269148453",
+          "affiliation": null
+        },
+        {
+          "name": "S. Patsourakos",
+          "author_id": "101477816",
+          "affiliation": null
+        },
+        {
+          "name": "K. Petrovay",
+          "author_id": "3971134",
+          "affiliation": null
+        },
+        {
+          "name": "S. Poedts",
+          "author_id": "2244695746",
+          "affiliation": null
+        },
+        {
+          "name": "R. Vanio",
+          "author_id": "1672367127",
+          "affiliation": null
+        },
+        {
+          "name": "A. Afanasiev",
+          "author_id": "51190745",
+          "affiliation": null
+        },
+        {
+          "name": "M. Kors\u00f3s",
+          "author_id": "2335764438",
+          "affiliation": null
+        },
+        {
+          "name": "A. Boiko",
+          "author_id": "2184636584",
+          "affiliation": null
+        },
+        {
+          "name": "L. John",
+          "author_id": "2455296299",
+          "affiliation": null
+        },
+        {
+          "name": "Shreeyesh Biswal",
+          "author_id": "2315298827",
+          "affiliation": null
+        },
+        {
+          "name": "S. Bourgeois",
+          "author_id": "2269147999",
+          "affiliation": null
+        },
+        {
+          "name": "Simone Chierichini",
+          "author_id": "2267724829",
+          "affiliation": null
+        },
+        {
+          "name": "Gr\u00e9goire Francisco",
+          "author_id": "2261737350",
+          "affiliation": null
+        },
+        {
+          "name": "Augustin Andr'e-Hoffmann",
+          "author_id": "2432290598",
+          "affiliation": null
+        },
+        {
+          "name": "E. Husidic",
+          "author_id": "133897255",
+          "affiliation": null
+        },
+        {
+          "name": "S. Koya",
+          "author_id": "2314691085",
+          "affiliation": null
+        },
+        {
+          "name": "Mayank Kumar",
+          "author_id": "2221757127",
+          "affiliation": null
+        },
+        {
+          "name": "R. Mugatwala",
+          "author_id": "2186112841",
+          "affiliation": null
+        },
+        {
+          "name": "G. Nogueira",
+          "author_id": "2411003744",
+          "affiliation": null
+        },
+        {
+          "name": "A. Wagner",
+          "author_id": "2269147841",
+          "affiliation": null
+        },
+        {
+          "name": "E. Kilpua",
+          "author_id": "143760222",
           "affiliation": null
         }
       ],
-      "abstract": "Open-channel water transfer projects play a crucial role in addressing regional water supply-demand imbalances, and real-time, comprehensive, and accurate acquisition of their hydrodynamic spatiotemporal evolution is essential for ensuring safety and efficiency of water conveyance and optimizing scheduling strategies. While hydraulic monitoring systems and numerical simulations are potential solutions, the former struggles to balance the number of monitoring points with cost constraints to achieve comprehensive and economically feasible measurements, and the latter requires clear boundary conditions and key parameters that often pose challenges in practical scenarios. This paper presents a Physics-Informed Neural Network (PINN)-based method applied to predicting hydraulic transients in open channels, incorporating sparse monitoring data and physical laws. Results from numerical simulations and field tests demonstrate that the PINN model can accurately predict open-channel hydrodynamics and Manning's coefficient in various operational scenarios, and is robust to sensor noise. A series of sensitivity analyses were conducted to investigate the effects of neural network structural parameters, as well as the number and location of monitoring points, thereby determining the optimal neural network structure and monitoring point configuration. The findings provide a foundation for real-time, comprehensive and accurate hydrodynamic predictions in open-channel transfer projects from sparse monitoring data.",
-      "journal": "Water Research",
-      "year": 2025,
+      "abstract": "Motivation and Aims: The main objectives of this paper are twofold: (1) to present the Space Weather Awareness Training Network (SWATNet), an innovative Marie Sk{\\l}odowska-Curie Training Network designed to provide high-quality doctoral training in space weather, and (2) to highlight the scientific advances achieved within the project. Methods:\u00a0By combining cutting-edge research with structured international and intersectoral training, SWATNet reached fundamental advances in understanding space weather phenomena and trained a new generation of scientists equipped to tackle modern challenges in both research and industry.\nResults: SWATNet delivered\u00a0 advancements in modelling solar eruptions and solar corona, and improved studies of the propagation and transport of Solar Energetic Particles, often utilising interdisciplinary methods. These include machine and deep learning, image processing, and various numerical modelling approaches. The research produced a total of 26 articles in peer-reviewed journals, along with various presentations at international conferences. In addition, SWATNet successfully completed its ambitious training programme on practical observatory and industry training.",
+      "journal": "Journal of Space Weather and Space Climate",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "A soft sensor open-source methodology for inexpensive monitoring of water quality: A case study of NO3- concentrations",
-      "url": "https://www.semanticscholar.org/paper/319a9b47159ac198a98d2a6d523729485a5b56bf",
+      "title": "Examining the Role of Accountant\u2019s Knowledge of Forensic Accounting, Corporate Governance Policies and Fraud Awareness Training in Preventing Fraud: A Survey of Indian Corporates",
+      "url": "https://www.semanticscholar.org/paper/8862cdc436a33e7957597d538c8912463e0c0bdf",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993151",
-      "doi": "10.1016/j.jocs.2024.102522",
+      "date_published": "2026-02-04T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869757",
+      "doi": "10.3390/jrfm19020118",
       "authors": [
         {
-          "name": "Antonio Jes\u00fas Chaves",
-          "author_id": "2211821188",
+          "name": "Rakhi P. Sangale",
+          "author_id": "2409277596",
           "affiliation": null
         },
         {
-          "name": "Cristian Mart\u00edn",
-          "author_id": "2108627709",
+          "name": "D. S. Vakrani",
+          "author_id": "2401329909",
           "affiliation": null
         },
         {
-          "name": "Luis Llopis Torres",
-          "author_id": "2338847838",
+          "name": "Suresh B. Pathare",
+          "author_id": "2409280292",
           "affiliation": null
         },
         {
-          "name": "Manuel D\u00edaz",
-          "author_id": "2114760325",
-          "affiliation": null
-        },
-        {
-          "name": "Jaime Fern\u00e1ndez-Ortega",
-          "author_id": "2047190452",
-          "affiliation": null
-        },
-        {
-          "name": "J. Barber\u00e1",
-          "author_id": "104710315",
-          "affiliation": null
-        },
-        {
-          "name": "B. Andreo",
-          "author_id": "47921412",
+          "name": "Jewel Kumar Roy",
+          "author_id": "2311961951",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Journal of Computer Science",
-      "year": 2025,
+      "abstract": "Corporate fraud remains a persistent problem that highlights the need for improved internal control and governance. Research on corporate governance (CG) and forensic accounting (FA) has been largely performed as separate studies. Little has been done to look at how accountants\u2019 knowledge and the specific training of accountants in fraud awareness for their company\u2019s leaders affect preventing fraud (FP). The study surveyed 150 accountants in India from April 2023 to May 2024. The results are based on Chi-Square testing and binary logistic regression. The study investigated how companies in India incorporate CG policy understanding and FG use for KMP and boards and how these factors affect FP. The findings indicate that understanding CG, using FA, and having specific training on fraud awareness for KMPs and boards of directors are all significant factors in reducing the occurrence of fraud. In addition, general employee training has no impact on FP. The theories of agency, stakeholder, and fraud triangle were combined to create one model to provide guidance to both organizations and regulators on how to institutionalize FG and to improve transparency in governance.",
+      "journal": "Journal of Risk and Financial Management",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "Assessment of tensile behaviour and damage evolution of open and filled hole FMLs based on AE monitoring and numerical prediction",
-      "url": "https://www.semanticscholar.org/paper/8bb39baf49c206bf690f87240ccd910476a86607",
+      "title": "From body to mind: how body-mind axial awareness training enhances body awareness, mindfulness, positive embodiment and mental health in healthcare students",
+      "url": "https://www.semanticscholar.org/paper/8529da23352ac2c1673318b0e95754433d917ef9",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-01T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993158",
-      "doi": "10.1016/j.compstruct.2025.118911",
+      "date_published": "2026-04-10T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869769",
+      "doi": "10.1080/21642850.2026.2656029",
       "authors": [
         {
-          "name": "K.J. Hu",
-          "author_id": "2280869066",
+          "name": "Yi-Min Tien",
+          "author_id": "3368789",
           "affiliation": null
         },
         {
-          "name": "Jinlong Wu",
-          "author_id": "2343316197",
+          "name": "Chia-Yao Lin",
+          "author_id": "50554519",
           "affiliation": null
         },
         {
-          "name": "Haoyu Song",
-          "author_id": "2343477983",
+          "name": "Yunn-Wen Lien",
+          "author_id": "7156530",
           "affiliation": null
         },
         {
-          "name": "Yao-Guo Shi",
-          "author_id": "2343795898",
-          "affiliation": null
-        },
-        {
-          "name": "Fu-Xian Zhu",
-          "author_id": "2308242840",
-          "affiliation": null
-        },
-        {
-          "name": "Q.H. Shi",
-          "author_id": "2280661411",
-          "affiliation": null
-        },
-        {
-          "name": "Jiangtao Wang",
-          "author_id": "2343468446",
+          "name": "Li-Chuan Hsu",
+          "author_id": "2274318232",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Composite structures",
-      "year": 2025,
+      "abstract": "Abstract Background Healthcare students face intense emotional and academic stress, leading to anxiety and poor mental health. Body-Mind Axial Awareness (BMAA)\u2014a movement-based, body-centered practice\u2014integrates bodily awareness and interoceptive attention to promote mind\u2013body regulation and mental health. Methods A pretest\u2013posttest controlled design was used with 38 students in the BMAA group and 27 in the control group. Group differences arising from non-random enrollment were statistically adjusted using analysis of covariance (ANCOVA), and within-group changes were examined using paired t-tests and repeated-measures multivariate analysis of variance (MANOVA). Participants completed eight weeks of BMAA training involving weekly two-hour sessions and daily home practice. Assessments before and after intervention included four domains of psychological functioning, measured using validated instruments: body awareness (Body Awareness Ability Inventory; Multidimensional Assessment of Interoceptive Awareness), mindfulness (Mindful Attention Awareness Scale), positive embodiment (Experience of Embodiment Scale), and mental health (Adult Mental Health Scale; Toronto Alexithymia Scale-20; State\u2013Trait Anxiety Inventory-Trait; Satisfaction with Life Scale). Results After controlling for baseline differences, the BMAA group showed greater gains than the control group in body awareness, mindfulness, positive embodiment, and mental health. Within-group analyses further indicated that BMAA participants demonstrated significant pre\u2013post improvements across most body awareness and mindfulness subscales (except Not-Distracting and Not-Worrying), as well as across embodiment dimensions (except Resisting Objectification), along with enhanced emotional awareness and expression, reduced anxiety, and higher life satisfaction (p\u2009<\u2009.05 for relevant comparisons). Despite the absence of random assignment and modest group-size imbalance, ANCOVA and within-group findings demonstrated consistent effects. Conclusion The findings demonstrate that BMAA training enhances multiple facets of body\u2013mind functioning, including bodily awareness, mindfulness, positive embodiment, and mental health. As healthcare students encounter cognitive and emotional demands, BMAA may offer a feasible embodied approach for strengthening psychological resilience and adaptive stress management during professional training.",
+      "journal": "Health Psychology and Behavioral Medicine",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "Eculizumab withdrawal and monitoring in atypical haemolytic uraemic syndrome (SETS aHUS): a multicentre, open label, prospective, single arm trial",
-      "url": "https://www.semanticscholar.org/paper/937f43dcd11f5df6694a2e814a1a396986dcb49d",
+      "title": "Impact of environmental training, awareness, and green values on sustainable food waste management",
+      "url": "https://www.semanticscholar.org/paper/f5d8de1b05a2bac1c8e00d5ac7971cc72ad07865",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-08-07T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993187",
-      "doi": "10.1016/j.lanepe.2025.101392",
+      "date_published": "2025-10-28T00:00:00",
+      "date_fetched": "2026-10-23T16:02:57.869775",
+      "doi": "10.1038/s41598-025-05042-9",
       "authors": [
         {
-          "name": "Andy Bryant",
-          "author_id": "2372887020",
+          "name": "Bilqees Ghani",
+          "author_id": "145656704",
           "affiliation": null
         },
         {
-          "name": "J. Lecouturier",
-          "author_id": "4104352",
+          "name": "Muhammad Zada",
+          "author_id": "2298435090",
           "affiliation": null
         },
         {
-          "name": "Giovany Orozco-Leal",
-          "author_id": "2139833385",
+          "name": "Manoj Kumar Lohana",
+          "author_id": "2309187868",
           "affiliation": null
         },
         {
-          "name": "V. Brocklebank",
-          "author_id": "2372881900",
+          "name": "K. R. Memon",
+          "author_id": "113944925",
           "affiliation": null
         },
         {
-          "name": "S. Carnell",
-          "author_id": "39693003",
+          "name": "A. Salameh",
+          "author_id": "121494201",
           "affiliation": null
         },
         {
-          "name": "Thomas B. Chadwick",
-          "author_id": "2372880077",
-          "affiliation": null
-        },
-        {
-          "name": "Sarah Dunn",
-          "author_id": "2372891810",
-          "affiliation": null
-        },
-        {
-          "name": "Sally Johnson",
-          "author_id": "2256773568",
-          "affiliation": null
-        },
-        {
-          "name": "David Kavanagh",
-          "author_id": "2372492501",
-          "affiliation": null
-        },
-        {
-          "name": "Ciara Kennedy",
-          "author_id": "2372534682",
-          "affiliation": null
-        },
-        {
-          "name": "Michal Malina",
-          "author_id": "2387555413",
-          "affiliation": null
-        },
-        {
-          "name": "Emma K Montgomery",
-          "author_id": "2280783341",
-          "affiliation": null
-        },
-        {
-          "name": "C. Muirhead",
-          "author_id": "49788805",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Oluboyede",
-          "author_id": "2372886069",
-          "affiliation": null
-        },
-        {
-          "name": "Luke Vale",
-          "author_id": "2372526670",
-          "affiliation": null
-        },
-        {
-          "name": "Christopher Weetman",
-          "author_id": "2061619820",
-          "affiliation": null
-        },
-        {
-          "name": "Edwin K. S. Wong",
-          "author_id": "2253398936",
-          "affiliation": null
-        },
-        {
-          "name": "Neil Sheerin",
-          "author_id": "2325661232",
+          "name": "Nicol\u00e1s Contreras-Barraza",
+          "author_id": "2389266952",
           "affiliation": null
         }
       ],
-      "abstract": "Summary Background Atypical Haemolytic Uraemic Syndrome is a rare disease, associated with high morbidity and mortality. Eculizumab, a monoclonal complement inhibitor, is an effective treatment but the optimal way to use this high-cost medication has not been determined. The SETS aHUS trial aimed to establish the safety of eculizumab withdrawal and the effectiveness of a monitoring protocol to detect disease relapse and reintroduction of treatment if relapse occurs. Methods The SETS aHUS multicentre, open label, prospective, single-arm trial enrolled participants from 15 UK hospitals. Patients over two years of age with aHUS who were receiving eculizumab therapy for at least six months were eligible to withdraw from treatment, replacing it with monitoring to assess disease activity and treatment re-introduction if relapse occurred. The primary outcome measure was harm to a participant as a consequence of eculizumab withdrawal. Participants met a primary outcome if there was a permanent reduction in estimated glomerular filtration rate, requirement for kidney replacement therapy or significant extra-renal manifestation of disease. The Bayes factor single arm binary model was used to monitor and analyse the trial data, applying pre-trial stopping rules. The trial is registered with the European Union Drug Regulating Authority (EudraCT 2017-003916-37) and is closed for recruitment. Findings One of 28 participants (3.6%) who withdrew from treatment met a primary outcome. Four of the 28 participants (14.3%) relapsed. Only participants with an identified cause of complement dysregulation relapsed. It was possible, by monitoring and rapid participant access, to reintroduce eculizumab treatment. Based on the pre-trial analysis plan, withdrawal from treatment may represent no greater risk to patients. Interpretation In this single arm study, for patients fulfilling trial entry criteria, which excluded some high-risk patients, withdrawal of eculizumab treatment with monitoring of disease activity was not associated with an increased risk of harm compared to continuation of eculizumab. Funding 10.13039/501100000664National Institute for Health and Care Research Health Technology Assessment programme.",
-      "journal": "The Lancet Regional Health - Europe",
+      "abstract": "With increasing concerns about food waste and its environmental impact, environmental training (ET) is important in improving waste management practices in businesses. Despite its significance, its impact on sustainable food waste management behavior (SFWMB) has received little attention, especially considering the effects of environmental awareness (EA) and green values (GV) in the food sector. To address this knowledge gap, our research investigates these relationships using the theory of planned behavior and the elaboration likelihood model as theoretical frameworks. Analysis was conducted using SMART PLS 4 and structural equation modeling on responses to a survey of 286 fast-food restaurant employees and their supervisors. Our data indicate that ET has a significant impact on SFWMB and this effect is mediated by EA. ET fosters EA by improving cognitive abilities and information, leading to the adoption of ecologically friendly behaviors. Furthermore, a significant increase in GV reinforces the relationship between ET and SFWMB, indicating that this relationship is more prominent among employees who adhere to strong GV. Finally, the Importance\u2013Performance Map Analysis indicates that although ET is highly important for SFWMB, it exhibits low performance. These findings have important implications for businesses, particularly those in the food industry, that are working to improve their waste management practices. Investments in ET can help businesses improve their reputation, reduce their environmental footprint, and contribute to a more sustainable future.",
+      "journal": "Scientific Reports",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "open monitoring"
+        "awareness training"
       ]
     },
     {
-      "title": "An open-source workflow for identifying hydrodynamic water quality events in rivers by continuous water quality monitoring and time-series data processing using R and US EPA CANARY",
-      "url": "https://www.semanticscholar.org/paper/a802d02f6d21e223e50c7fb189eb852b11a7a4ed",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-07-27T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993195",
-      "doi": "10.1016/j.mex.2025.103538",
-      "authors": [
-        {
-          "name": "L. Cronin",
-          "author_id": "48057147",
-          "affiliation": null
-        },
-        {
-          "name": "C. M. Taylor",
-          "author_id": "2481170881",
-          "affiliation": null
-        },
-        {
-          "name": "C. Briciu Burghina",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "F. E. Lucy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "F. Regan",
-          "author_id": "2221517522",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Improving European surface water quality requires urgent action to address diffuse pollution sources particularly from agriculture, with increased frequency and intensity of hydroclimatic events also a key driver of pollutant export to waters and water quality decline worldwide. However, the need for comprehensive, practical protocols for sensor deployment, sensor maintenance and data management for the adoption of high frequency water quality monitoring has been highlighted, along with the challenges for citizen scientists in analyzing millions of water quality data points and sharing metadata. The practical method presented, with reproducibility built into the workflow, is designed for multiple users and a step-by-step application of the workflow is demonstrated including:\u2022 Deployment arrangement for water quality sondes in two temporary monitoring stations with different site characteristics.\u2022 Data collection and data validation methods.\u2022 Concise, reproducible, open-source workflow detailing the use of R, R markdown and US EPA CANARY software for data import, data cleaning, data visualization, data integrity, along with site-specific CANARY event system configuration for the detection of potential water quality events.Results for two monitoring stations on different rivers show CANARY successfully identified 100 % (n 47) and 97 % (n 39) of the manually identified turbidity events.",
-      "journal": "MethodsX",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "open monitoring"
-      ]
-    },
-    {
-      "title": "Monitoring Antioxidant Consumption and Build-Up in Polypropylene During Open-Loop and Closed-Loop Mechanical Recycling",
-      "url": "https://www.semanticscholar.org/paper/05fd9619d0460aef0ad7ae45e825945350c5fa8f",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-04-01T00:00:00",
-      "date_fetched": "2026-10-22T16:13:50.993201",
-      "doi": "10.3390/ma18071640",
-      "authors": [
-        {
-          "name": "N. Knoben",
-          "author_id": "6868112",
-          "affiliation": null
-        },
-        {
-          "name": "Max Vanhouttem",
-          "author_id": "2265289998",
-          "affiliation": null
-        },
-        {
-          "name": "Aike Wypkema",
-          "author_id": "2353810969",
-          "affiliation": null
-        },
-        {
-          "name": "Nithya Subramanian",
-          "author_id": "2347630087",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Polypropylene (PP), a widely used recyclable plastic in packaging and engineering applications, is prone to thermo-oxidative degradation during reprocessing and molding at high temperatures. Antioxidants (AOs) are essential for stabilizing PP in both its virgin and recycled states. The quantity of AO added is critical: insufficient amounts can lead to poor stabilization, while excessive amounts can cause safety concerns due to build-up. This study presents a modified approach to measure the Oxidation Induction Temperature (OIT) using Differential Scanning Calorimetry (DSC), particularly for recycled PP from waste that contains unpredictable contaminations. This modified approach ensures the safety of the calorimetry cell by limiting the oxidation reaction and preventing the release of volatile compounds during measurements. By performing DSC measurements in inert environments, we obtain the OIT, which can be correlated to residual intact AO levels. This approach to monitoring AO levels is demonstrated in both open- and closed-loop recycling of rigid PP. Although the presence of contamination is known to catalyze thermo-oxidative degradation in PP, our results indicate that recycled PP from open-loop collection still contains sufficient residual AO that allows it to withstand limited thermal reprocessing. However, this tendency of AO retention leads to significant build-up during closed-loop recycling when AOs are added to each cycle, where the PP grade remains fairly homogeneous and the dispersity (\u0110) does not significantly increase over multiple recycling loops.",
-      "journal": "Materials",
-      "year": 2025,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "open monitoring"
-      ]
-    },
-    {
-      "title": "The effects of an online mindfulness-based intervention for parents of children with attention deficit/hyperactivity disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901396/",
+      "title": "Mental Health and Psychosocial Processes in Transgender and Gender Diverse Adults with Chronic Physical Illnesses: A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906184/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-20T00:00:00",
-      "date_fetched": "2026-10-22T16:14:25.689462",
-      "doi": "10.1016/j.jad.2026.122646",
+      "date_published": "2026-10-21T00:00:00",
+      "date_fetched": "2026-10-23T16:03:42.348000",
+      "doi": "10.1080/01612840.2026.2739251",
       "authors": [
         {
-          "name": "Zoe Jiwen Zhang",
+          "name": "S\u00e9rgio A Carvalho",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Herman Hay Ming Lo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rebecca Y M Cheung",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Qirong Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wing Tung Yeung",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Stanley Kam Chung Chan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alma Au",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elisabeth Wai Yin Wong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eric Kam-Pui Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Doris Mei Sum Woo",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Susan M B\u00f6gels",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elsa Ngar-Sze Lau",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Siu-Man Ng",
+          "name": "N\u00faria Rubio",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness-based interventions (MBIs) have been identified as a complementary treatment for children with ADHD. While there is a growing interest in developing MBIs in online formats, its application in parents is largely based on healthy populations. A two-arm randomized controlled trial (RCT) was designed to investigate the effectiveness of an online MBI (arm 1) compared with an online psychoeducation (PSY) program (arm 2). Outcomes were measured before the intervention, after the intervention, and at 3-month follow-up. A total of 248 parents whose children with ADHD symptoms aged 6 to 12\u202fyears old participated in the study, with 131 parents assigned to the online MBI group and 117 to the PSY group. Both groups indicated significant and lasting improvements in their children's ADHD symptoms, executive functioning, and parental well-being. In addition, parental stress levels and two dimensions of expressed emotion, including critical comments and initial statements, decreased significantly in both groups. Notably, a specific benefit of the online MBI was identified for insomnia. A small-magnitude improvement in parent-child relationship quality, as a dimension of expressed emotion, was observed in the repeated measures ANOVA but was not consistently supported by the sensitivity analysis. Future studies should verify the specific and sustainable treatment effects of MBIs, strengthening parental engagement and support.",
-      "journal": "Journal of affective disorders",
+      "abstract": "Transgender and gender diverse (TGD) adults experience high rates of chronic physical illnesses (CPIs) and mental health difficulties, yet little is known about the psychosocial processes underlying this relationship. This scoping review aimed to map and synthesize the literature examining psychosocial factors associated with mental health among TGD adults living with CPIs. Following PRISMA-ScR and Joanna Briggs Institute guidelines, systematic searches were conducted in PubMed, PsycINFO, Scopus, and Google Scholar. Eligible qualitative and quantitative studies that investigated psychosocial processes and mental health outcomes among TGD adults with CPIs were included. Twenty-five studies met the eligibility criteria. Most were cross-sectional and focused on transgender women living with HIV. Minority stress-related experiences, including stigma, discrimination, trauma, and violence, were consistently associated with depression, anxiety, psychological distress, poorer quality of life, and reduced healthcare engagement. In contrast, social support, community connectedness, resilience, coping, mindfulness, and spirituality emerged as important protective factors. Few studies examined CPIs beyond HIV or biophysiological processes. Overall, the evidence highlights the central role of minority stress in shaping mental health among TGD adults with CPIs while revealing substantial gaps regarding diverse TGD populations, non-HIV chronic illnesses, and transdiagnostic and biopsychosocial mechanisms that should be prioritized in future research.",
+      "journal": "Issues in mental health nursing",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -720,56 +705,31 @@
       "matched_keywords": []
     },
     {
-      "title": "Health starts with the skin! Risk and protective psychological processes linking distress to quality of life in chronic dermatological conditions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901102/",
+      "title": "Exploratory heart rate variability patterns across sleep stages following a 7-day multicomponent mantra-based cognitive intervention: A pilot randomized pre-post controlled study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906498/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-20T00:00:00",
-      "date_fetched": "2026-10-22T16:14:25.689587",
-      "doi": "10.1016/j.actpsy.2026.107975",
+      "date_published": "2026-10-21T00:00:00",
+      "date_fetched": "2026-10-23T16:03:42.348268",
+      "doi": "10.1016/j.actpsy.2026.107984",
       "authors": [
         {
-          "name": "Oriana Mosca",
+          "name": "Ankita Garg",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Giulia Zucca",
+          "name": "Varun Dutt",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Annamaria Tupputi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Antonella Silletti",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mattia Mocenni",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eleonora Chiodino",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Chiara Mureddu",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marco Guicciardi",
+          "name": "Laxmidhar Behera",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Chronic dermatological conditions, particularly psoriasis, are associated with substantial psychological burden and impaired quality of life. However, the psychosocial factors accounting for the relationship between psychological distress, dermatology-specific quality of life, and overall life satisfaction remain insufficiently understood. OBJECTIVE: This study examined key risk and protective psychological factors associated with the relationship between distress and well-being among individuals with psoriasis and other chronic dermatological conditions. METHODS: A total of 108 adults diagnosed with psoriasis or other chronic skin diseases (mean age\u202f=\u202f48.32\u202fyears; 67.6% women) completed validated self-report measures assessing psychological distress, affect, acceptance of living with the disease, perceived stigma, social anxiety, perceived social support, self-compassion, mindfulness, dermatology-related quality of life, and satisfaction with life. Parallel mediation analyses were conducted while controlling for age and sex. RESULTS: Higher psychological distress was statistically associated with greater impairment in dermatology-related quality of life both directly and indirectly through several psychosocial processes. Negative affect and perceived stigma were associated with greater distress-related impairment in dermatological quality of life, whereas acceptance of living with the disease emerged as a protective factor associated with lower impairment. In contrast, the indirect association between distress and lower life satisfaction was statistically accounted for by maladaptive self-compassion components, specifically isolation and over-identification. Dispositional mindfulness and perceived social support did not show significant mediating effects. CONCLUSIONS: The findings highlight distinct psychological factors associated with distress and reduced well-being in individuals with chronic dermatological conditions. Acceptance-related processes may protect against dermatology-specific quality of life impairment, whereas stigma and negative affect are associated with greater vulnerability. In addition, self-critical and isolating responses to distress appear particularly relevant for diminished life satisfaction. These results support the integration of acceptance-based, compassion-focused, and stigma-reduction approaches within psycho-dermatological care.",
+      "abstract": "BACKGROUND: Cognitive-contemplative practices could potentially affect autonomic function, but existing research has focused on waking measures of heart rate variability (HRV). It remains unclear whether changes associated with brief interventions differ across sleep stages. OBJECTIVE: To determine whether differences in HRV according to sleep stage would differ in a group undergoing a 7-day, multicomponent, Hare Krishna mantra-based cognitive therapy (HMBCT) intervention compared to a group engaging in their normal routine activities. METHODS: Thirty-four healthy males aged 18-30\u202fyears were randomized to HMBCT (n\u202f=\u202f17) or a usual-routine control condition (n\u202f=\u202f17). Overnight polysomnography with continuous ECG was conducted at baseline and after the 7-day intervention period. HRV variables were calculated using time-domain and Poincar\u00e9/geometric HRV indices separately for REM, N2, and N3 sleep stages. Group \u00d7 Time interactions were analyzed using repeated measures ANOVA, and then subjected to Benjamini-Hochberg false discovery rate (FDR) correction in 30 primary tests. RESULTS: Nine interactions reached the nominal uncorrected threshold (p\u202f<\u202f.05): four in REM (SDNN, RMSSD, SD1, SD2) and five in N2 (SDNN, RMSSD, pNN50, SD1, CVI), while none did so in N3. Effect sizes of REM/N2 interaction were estimated as partial \u03b7 CONCLUSIONS: Nominal interactions were more pronounced in REM and N2 sleep stages, but none of the primary interactions survived multiple testing correction. Thus the results are exploratory and should be confirmed in other studies.",
       "journal": "Acta psychologica",
       "year": 2026,
       "source_name": null,
@@ -778,105 +738,47 @@
       "matched_keywords": []
     },
     {
-      "title": "A systematic review and meta-analysis of multi-health behavior interventions to reduce common mental health symptoms in people living with and beyond cancer.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901772/",
+      "title": "Profiles of Chronic Pain and Cognitive Concerns: A Cluster Analysis Among Older Adults Enrolled in a Mind-body Activity Intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906768/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-20T00:00:00",
-      "date_fetched": "2026-10-22T16:14:25.689643",
-      "doi": "10.1080/07347332.2026.2747658",
+      "date_published": "2026-10-21T00:00:00",
+      "date_fetched": "2026-10-23T16:03:42.348289",
+      "doi": "10.1016/j.jpain.2026.106478",
       "authors": [
         {
-          "name": "Vagner Deuel de O Tavares",
+          "name": "Katherine E Gnall",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Felipe B Schuch",
+          "name": "Savannah M Boyd",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Gary Skinner",
+          "name": "Julia E Hooker",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Thea Baker",
+          "name": "Defne Yucebas",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Madeleine France-Ratcliffe",
+          "name": "Christine S Ritchie",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Geovan Menezes de Sousa",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "May Lynn Quan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Colleen Cuthbert",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Megan Teychenne",
+          "name": "Ana-Maria Vranceanu",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: People living with and beyond cancer often report lower levels of physical activity, poorer sleep, and poorer diet quality, all of which may contribute to an increased risk of common mental health symptoms. This systematic review aimed to investigate the effects of multi-health behavior interventions designed to reduce common mental health symptoms in people living with and beyond cancer. METHODS: This systematic review and meta-analyses followed PRISMA guidelines. The search, conducted up to July 2, 2025, included PubMed, Embase, Web of Science, PsycInfo, and PsyAPA, and grey literature. Multi-health behavior interventions (randomized and non-randomized trials) for people living with and beyond cancer, that targeted at least two behaviors (physical activity, diet, sleep, mindfulness) and assessed effects on common mental health outcomes (depression, anxiety, stress) were included. RESULTS: A total of 22 studies ( CONCLUSION: Multi-health behavior interventions are associated with small but significant improvements in common mental health symptoms among people living with and beyond cancer. However, given the limitations and variable certainty of the available evidence, further high-quality RCTs are needed to confirm these findings.",
-      "journal": "Journal of psychosocial oncology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Correction: Effects of a Mindfulness Intervention on Volleyball-Specific Performance: A Randomized Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901151/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-01T00:00:00",
-      "date_fetched": "2026-10-22T16:14:25.689665",
-      "doi": "10.1055/a-2977-3983",
-      "authors": [
-        {
-          "name": "M Sibel Yaman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mehmet Ali \u00dczg\u00fc",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "R\u0131za Barak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "\u0130layda Barak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mirac Tunahan Birsen",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "International journal of sports medicine",
+      "abstract": "Chronic pain and cognitive concerns are highly comorbid, particularly among older adults, though the specific severity and symptom overlap may vary across individuals. We aimed to characterize distinct profiles of individuals with chronic pain and subjective cognitive concerns (concern of persistent cognitive decline, with or without objective cognitive deficits) and compare demographic/psychosocial variables between subgroups. We analyzed baseline data from an ongoing randomized controlled trial comparing a mind-body activity intervention to a health education control. As part of the larger study, older adults with chronic musculoskeletal pain and subjective cognitive concerns completed measures of pain severity (NRS), pain interference (PROMIS), and subjective (ECog-12) and objective cognitive dysfunction (RBANS). Participants also completed measures of mental health symptoms (anxiety, depression), general psychosocial factors (loneliness, mindfulness, self-compassion, coping skills), and pain-specific psychological factors (pain catastrophizing, kinesiophobia, pain self-efficacy). An exploratory hierarchical cluster analysis examined unique symptom profiles among participants with complete data (n=251) on the four pain/cognitive dysfunction variables, and multivariate logistic regression models examined cluster membership by demographic and psychosocial variables. We identified a three-cluster solution: (1) lowest symptom burden (n=101); (2) mixed symptom burden (n=93); and (3) highest symptom burden (n=57). Several demographic, mental health, and psychosocial factors significantly distinguished between subgroup membership. Results elucidate the heterogeneity in clinical presentations within these two overlapping conditions and suggest specific potential risk factors for experiencing greater symptom burden. Findings overall represent an important first step in identifying which older adults may benefit most from interventions for co-occurring chronic pain and cognitive concerns. PERSPECTIVE: This article characterizes distinct profiles of older adults with chronic pain and cognitive concerns and suggests potential risk factors for experiencing greater symptom burden. Findings can help inform which older adults are most likely to benefit from interventions targeting co-occurring chronic pain and cognitive concerns.",
+      "journal": "The journal of pain",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
