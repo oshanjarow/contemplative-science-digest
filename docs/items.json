@@ -1,476 +1,90 @@
 {
-  "generated_at": "2026-10-24T15:01:33.161408",
+  "generated_at": "2026-10-25T15:12:46.867658",
   "papers": [
     {
-      "title": "Exploring The Influence Of Scent And Touch On Psychophysiological Stress At Work: A Pilot Neurophenomenology-informed Study",
-      "url": "https://www.semanticscholar.org/paper/488a2fa2072dc74cb381846b89cd8037d8a62195",
+      "title": "L-FAME: Longitudinal Focused Attention Meditation EEG Dataset and Benchmark",
+      "url": "https://www.semanticscholar.org/paper/1315fd09b5f460d40d901e4bcb00916feeb3c08b",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-10-01T00:00:00",
-      "date_fetched": "2026-10-24T15:01:11.401670",
-      "doi": "10.1016/j.braen.2026.100038",
+      "date_published": "2026-05-21T00:00:00",
+      "date_fetched": "2026-10-25T15:12:10.629226",
+      "doi": "10.48550/arXiv.2605.22893",
       "authors": [
         {
-          "name": "S. Schuller",
-          "author_id": "13957367",
+          "name": "Angqi Li",
+          "author_id": "2274220722",
           "affiliation": null
         },
         {
-          "name": "Annique Laurens Janse",
-          "author_id": "2516719317",
+          "name": "AbbasRaza Syed",
+          "author_id": "2230370809",
           "affiliation": null
         },
         {
-          "name": "Lisanne Bergefurt",
-          "author_id": "1403581872",
+          "name": "Hamzeh Alzweri",
+          "author_id": "2438606250",
           "affiliation": null
         },
         {
-          "name": "Y. de Kort",
-          "author_id": "144979687",
+          "name": "Tao-Sheng Liu",
+          "author_id": "2321528005",
           "affiliation": null
         },
         {
-          "name": "R. Appel-Meulenbroek",
-          "author_id": "1403096694",
+          "name": "Barry H. Cohen",
+          "author_id": "47828772",
+          "affiliation": null
+        },
+        {
+          "name": "S. Ravishankar",
+          "author_id": "145233481",
           "affiliation": null
         }
       ],
-      "abstract": null,
-      "journal": "Brain and Environment",
+      "abstract": "We introduce a novel Longitudinal Focused Attention Meditation Electroencephalography (L-FAME) dataset and an accompanying benchmark, designed to foster research into the neural effects of various meditation practices and the evolution of these effects over a six-week training period. The dataset contains EEG recordings and psychological assessments from 74 healthy college participants, collected at two distinct time points: pre-intervention and post-intervention. Participants were randomly assigned to one of three distinct meditation groups: two mantra-based techniques (SA-TA-NA-MA and Hare Krishna) and one Breath Focus practice. Leveraging this unique longitudinal and comparative dataset, we propose a benchmark suite comprising three distinct classification tasks: (1) cognitive state decoding to distinguish between resting and meditation states, (2) fine-grained classification of the specific meditation techniques, and (3) cross-session adaptation to evaluate model generalization across the longitudinal time gap. We provide comprehensive baseline results for these tasks utilizing a range of classical machine learning algorithms and deep learning architectures. The complete dataset, preprocessing pipelines, and benchmark evaluation code will be publicly released, offering a valuable resource and a standardized framework for the development and comparison of new analytical methods in computational meditation research and EEG-based machine learning. The dataset is available at https://huggingface.co/datasets/L-FAME-Dataset-Benchmark/L-FAME",
+      "journal": "arXiv.org",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "neurophenomenology"
+        "focused attention meditation"
       ]
     },
     {
-      "title": "H\u00e2l\n as Structural Causality: Grounding Virtue Ethics in Whitehead's Process Metaphysics",
-      "url": "https://www.semanticscholar.org/paper/bbed47f38b157ae0eb8a3c9d333c9dbc320af6dc",
+      "title": "Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation",
+      "url": "https://www.semanticscholar.org/paper/043d75c7b0a581106117eebe5c53064771522ecb",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-24T15:01:11.401731",
-      "doi": "10.5406/21543682.55.2.04",
+      "date_published": "2026-07-16T00:00:00",
+      "date_fetched": "2026-10-25T15:12:10.629233",
+      "doi": null,
       "authors": [
         {
-          "name": "Yuksel Guvenc",
-          "author_id": "2514823131",
+          "name": "Prakash Chandra Kavi",
+          "author_id": "2242383838",
+          "affiliation": null
+        },
+        {
+          "name": "D. Friedman",
+          "author_id": "2165314699",
+          "affiliation": null
+        },
+        {
+          "name": "Gustavo Patow",
+          "author_id": "2310354511",
           "affiliation": null
         }
       ],
-      "abstract": "\n Process philosophy replaces substance ontology with event-based metaphysics, yet it struggles to account for robust personal continuity and sustained character development. This article addresses this meso-level gap by introducing H\u00e2l\u2014an ethically constituted ontological state\u2014as a category bridging Whitehead's momentary actual occasions and enduring societies. (The Arabic term hal, originally associated with the Sufi, refers to a transient spiritual state, here reconceptualized as a stable, ethically constituted ontological structure.) The present article relates H\u00e2l to Aristotelian hexis (or habit) and the virtue ethics tradition and compares it not only to certain Whiteheadian concepts but also to certain Buddhist themes and to certain elements of contemporary neurophenomenology. Further, the implications of H\u00e2l for postmortem persistence will be explored.",
-      "journal": "Process Studies",
+      "abstract": "Meditative expertise involves sustained attention, rapid recovery from distraction, and coordinated dynamics of large-scale brain networks. We present a computational phenomenology of focused-attention meditation traversing four attractor states: breath focus, mind-wandering, meta-awareness, and redirect attention. Within a dual-process active inference formulation, the model implements a three-layer nested Markov-blanket architecture: (L1) a high-dimensional physiological neuronal substrate modeled as a stochastic multivariate Ornstein--Uhlenbeck process over attentional Yeo networks; (L2) a low-dimensional generative model (System 1) that encodes latent mental content as thoughtseeds and evaluates autonomic action tendencies; and (L3) an agentic metacognitive monitor (System 2) that implements a Global Neuronal Workspace (GNW) capacity bottleneck to selectively gate these tendencies. In L3, meta-awareness functions as the GNW ignition signal, derived from policy-prior divergence and dynamically gated by direct competition between orchestrator and distractor thoughtseeds. Policy selection actively minimizes expected free energy, and L2 actions furnish descending predictions over network activity to close the enactive perception--action cycle. Training uses variational Expectation-Maximization (EM) across expert and novice phenotypes. Simulations reproduce behavior consistent with empirical observations and findings in contemplative neuroscience, providing a tractable link between first-person phenomenology and objective neurophysiological measures.",
+      "journal": "",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "neurophenomenology"
+        "focused attention meditation"
       ]
-    },
-    {
-      "title": "\u0411\u0456\u043e\u043a\u0456\u0431\u0435\u0440\u043d\u0435\u0442\u0438\u0447\u043d\u0435 \u043a\u0435\u0440\u0443\u0432\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0430\u043c\u0438 \u0433\u043b\u0438\u0431\u043e\u043a\u043e\u0433\u043e \u043c\u043e\u0432\u043d\u043e\u0433\u043e \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0456 \u043d\u0435\u0439\u0440\u043e\u0444\u0456\u0434\u0431\u0435\u043a\u0443 \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438 \u0430\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0440\u0435\u0433\u0443\u043b\u044e\u0432\u0430\u043d\u043d\u044f",
-      "url": "https://www.semanticscholar.org/paper/a920023bcc69a785457c2197a2c527ec0a438324",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": null,
-      "date_fetched": "2026-10-24T15:01:11.401776",
-      "doi": "10.15290/lingdid.2026.30.02",
-      "authors": [
-        {
-          "name": "G. Iarotska",
-          "author_id": "2353132714",
-          "affiliation": null
-        },
-        {
-          "name": "\u0406. \u0414. \u0421\u043f\u0430\u0441\u044c\u043a\u0438\u0439",
-          "author_id": "2515823666",
-          "affiliation": null
-        }
-      ],
-      "abstract": "The aim of the study is to provide a theoretical and conceptual analysis of biocybernetic control of deep foreign -language learning based on neurofeedback and methods of adaptive regulation. Methodologically, it integrates post-nonclassical scientific rationality, enactivism, and neurophenomenology, treating language learning as a multilevel process of meaning -making. An adaptive model is developed that describes the learner\u2019s state through the vector, S(t) = [C(t), M(t), N(t), A(t)]T, comprising cognitive abilities, metacognitive skills, neurophysiological indicators, and affective characteristics, and implementing the Boyd -loop principle (observation \u2013 orientation \u2013 decision \u2013 action \u2013 reflection). As a result, the study proposes a system grounded in four principles \u2013 holistic integration, neuroadaptivity, semantic dominance, and reflexive spirality \u2013 and a set of fifteen exercises in five blocks, in which real -time neurofeedback automatically adjusts difficulty and personalizes the learning process. The proposed approach establishes a theoretical foundation for personalized, neuroadaptive educational technologies that combine scientific rigor with humanistic values.",
-      "journal": "Linguodidactica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "neurophenomenology"
-      ]
-    },
-    {
-      "title": "Lifestyle intervention to improve outcomes in dichorionic twin pregnancies: study protocol for a multicentre randomised controlled trial with an integrated pilot study - the LIFETWIN trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919594/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-23T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.420797",
-      "doi": "10.1136/bmjopen-2026-122541",
-      "authors": [
-        {
-          "name": "Katleen Lodewyckx",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yael Winter Shafran",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Birgit Coucke",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Martien Put",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Liesbeth Lewi",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annick Bogaerts",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tim Smits",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Laure Noel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tinne Mesens",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jacques Jani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Roland Devlieger",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "BMJ open",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Extended reality as an assistive technology for mental health and wellbeing: a scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42910594/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-22T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.420940",
-      "doi": "10.1080/17483107.2026.2751324",
-      "authors": [
-        {
-          "name": "Haoming Xia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Farnaz Nickpour",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Daniel Joyce",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Guangliang Cheng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yiting Duan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yixuan Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jacqueline Rees-Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Payal Ghatnekar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shichao Zhao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zhe Gong",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Zhengjun Yue",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Mental health disorders, including anxiety, depression, post-traumatic stress disorder (PTSD), and neurodevelopmental conditions such as ADHD and autism, represent a global health challenge with substantial social and economic burden. Despite progress in conventional interventions, challenges such as limited accessibility, digital inequality, high costs, and scalability constraints persist. Extended Reality (XR), encompassing Virtual, Augmented, and Mixed Reality, has emerged as a potential assistive technology offering immersive, interactive, and personalised therapeutic experiences. OBJECTIVES: This scoping review examines whether XR represents a meaningful advancement in mental health care by addressing three questions: (1) What types of mental health conditions have been addressed using XR? (2) What design approaches underpin XR experiences for mental health and wellbeing? and (3) What challenges and opportunities shape XR's integration into mental health practice? METHODS: A scoping review was conducted in accordance with the PRISMA Extension for Scoping Reviews (PRISMA-ScR). The Web of Science Core Collection was searched for peer-reviewed empirical studies published between January 2022 and March 2025. Following title and abstract screening and full-text review against predefined eligibility criteria, 277 studies were included and synthesised thematically. RESULTS: XR has been applied across a range of mental health and wellbeing contexts, including anxiety and stress, depression and mood disorders, PTSD, neurodevelopmental conditions, social isolation, cognitive decline, and workplace stress. The literature most frequently reported short-term or preliminary benefits, particularly in anxiety- and PTSD-related applications. XR experience designs included immersive exposure, mindfulness and relaxation, social interaction, cognitive stimulation, biofeedback, haptic interaction, and adaptive personalised experiences. However, limited longitudinal and comparative evidence, high costs, accessibility barriers, clinician training needs, and ethical, privacy, and regulatory concerns continue to constrain widespread adoption. CONCLUSIONS: XR represents a promising assistive approach for mental health and wellbeing, but its effectiveness and sustainable clinical impact have not yet been fully established. Stronger comparative and longitudinal evidence, inclusive and human-centred design, improved accessibility, and clearer ethical and regulatory frameworks are required to support its integration into mental health care.",
-      "journal": "Disability and rehabilitation. Assistive technology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Advances in assessment systems and non-pharmacological intervention strategies for cancer-related fatigue following transarterial chemoembolization in hepatocellular carcinoma: a narrative review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42909630/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-23T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.421054",
-      "doi": "10.1007/s00520-026-11380-9",
-      "authors": [
-        {
-          "name": "Shiying Yang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xuelei Yao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yali Ren",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Teng Ding",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiamin Gao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lin Shentu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOSE: Transarterial chemoembolization (TACE) is a primary treatment for intermediate to advanced hepatocellular carcinoma (HCC); however, cancer-related fatigue (CRF) is a prevalent and distressing symptom following TACE that significantly impairs patients' recovery and health-related quality of life. This review aimed to systematically summarize the current evidence on CRF screening, assessment, and non-pharmacological interventions specifically tailored to the post-TACE HCC population, and to propose an integrated, nurse-led clinical management framework. METHODS: A narrative review was conducted by systematically searching PubMed, Web of Science, and CNKI for literature published up to April 2026. The search encompassed peer-reviewed original research articles (including randomized controlled trials, cohort studies, cross-sectional studies, and meta-analyses), clinical practice guidelines, and expert consensus reports. The level of evidence for each intervention category was evaluated using the Oxford Centre for Evidence-Based Medicine (OCEBM) grading system. The literature search focused on CRF epidemiology, pathophysiology, validated assessment tools, non-pharmacological interventions (including exercise, psychosocial support, nutritional management, and traditional Chinese medicine therapies), and nursing management models in HCC patients following TACE. RESULTS: CRF following TACE is a multifactorial symptom driven by treatment-induced inflammation, hepatic dysfunction, and psychological distress. Validated screening tools, including the Brief Fatigue Inventory (BFI), Cancer Fatigue Scale (CFS), and EORTC QLQ-C30 fatigue subscale, are recommended for routine use, though to the best of our knowledge, no CRF assessment tool developed specifically for the post-TACE HCC population has been validated to date. A structured screening pathway encompassing baseline assessment, perioperative monitoring, and long-term follow-up was identified as essential for early detection. Among non-pharmacological interventions, individualized exercise prescriptions (aerobic and resistance training) have been most consistently supported across randomised trials and meta-analyses for alleviating CRF, followed by cognitive behavioral therapy, mindfulness-based stress reduction, and nutritional support. Traditional Chinese medicine approaches, including acupoint massage, auricular acupressure, and moxibustion, showed preliminary potential but require further high-quality validation. A nurse-led multidisciplinary care model integrating assessment, individualized intervention planning, and continuous coordination has been proposed as a promising operational framework for CRF management, endorsed by international CRF practice frameworks. CONCLUSIONS: Effective management of CRF after TACE requires a comprehensive, evidence-based approach spanning standardized screening, multimodal non-pharmacological interventions, and a nurse-coordinated multidisciplinary care model. Integrating routine CRF assessment into standard TACE clinical pathways and developing TACE-specific assessment tools are priorities for future research and clinical practice.",
-      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindful Awareness and Stress Associations Among People Living With the Effects of Stroke and their Partners: Findings From a Daily Diary Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42912412/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-23T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.421131",
-      "doi": "10.1097/PSY.0000000000001539",
-      "authors": [
-        {
-          "name": "Hannah Tschenett",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elizabeth Zambrano Garza",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Theresa Pauly",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kenneth M Madden",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maureen C Ashe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rachel Murphy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Denis Gerstorf",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wolfgang Linden",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Urs M Nater",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christiane A Hoppmann",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: Stroke is a leading cause of morbidity and mortality, significantly affecting the health of individuals post stroke and their partners. Both people living with the effects of stroke (PLWS) and their partners experience elevated stress. Therefore, this daily diary study examined day-to-day variations in stress and its association with mindful awareness as a potential protective factor against stress within and between PLWS and their partners. METHODS: Eighty-six community-dwelling couples (67\u00b110\u00a0y old, 50% female) in Canada, with one partner living with the effects of stroke, reported their daily stress, their partners' stress, and their own mindful awareness every evening for up to 14 days. RESULTS: Distinguishable dyads models showed that individuals reporting that their partners felt more stressed (daily and overall), and whose partners felt more stressed (daily and overall) reported more daily stress themselves. In contrast, when individuals reported more mindful awareness (daily and overall), they reported less daily stress. PLWS also reported less daily stress when their partners reported more overall mindful awareness. However, this dyadic association was not found in the other direction or for daily mindful awareness. CONCLUSIONS: Results suggest dyadic associations of daily stress between partners and indicate that mindful awareness may reduce daily stress within individuals. Within the dyad, PLWS seemed to benefit from their partners' mindful awareness. Results highlight the significant role of the partner for PLWS and emphasize the need to consider how interpersonal dynamics vary, particularly in couples managing medical conditions. REGISTRATION: The study was preregistered at OSF (https://doi.org/10.17605/OSF.IO/XTV2H).",
-      "journal": "Biopsychosocial science and medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The effect of an empowerment program on ruminative thoughts, fatigue, and psychological resilience of cancer survivors: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42914870/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-23T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.421195",
-      "doi": "10.1016/j.ejon.2026.103355",
-      "authors": [
-        {
-          "name": "Sinem \u00d6calan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yeter Sinem \u00dczar-\u00d6z\u00e7etin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "\u00d6mer Dizdar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "\u015eeref Can G\u00fcrel",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "PURPOS: Cancer survivors in remission often experience intrusive rumination, cancer-related fatigue, and reduced psychological resilience, which may hinder daily functioning and recovery. This study evaluated the effects of a 10-week online empowerment program designed to reduce intrusive rumination and fatigue while enhancing deliberate rumination and psychological resilience. METHODS: A randomized controlled trial was conducted with 62 cancer survivors assigned to an intervention or waitlist control group. The intervention comprised ten weekly 90-min Zoom sessions integrating psychoeducation, cognitive-behavioral therapy, acceptance and commitment therapy, mindfulness, and relaxation techniques. Outcomes were assessed at baseline, post-intervention, and 3-month follow-up using the Event-Related Rumination Inventory, Cancer Fatigue Scale, and Connor-Davidson Resilience Scale. Primary analyses followed the intention-to-treat principle using linear mixed-effects models. RESULTS: The 62 participants had a mean age of 49.98\u202f\u00b1\u202f9.32 years, and 93.5% were female. Significant group\u202f\u00d7\u202ftime interactions were observed for intrusive rumination (F\u202f=\u202f5.711, p\u202f=\u202f.005), deliberate rumination (F\u202f=\u202f6.303, p\u202f=\u202f.003), cancer-related fatigue (F\u202f=\u202f7.349, p\u202f=\u202f.001), and psychological resilience (F\u202f=\u202f4.205, p\u202f=\u202f.020). Across the three measurement points, intrusive rumination and cancer-related fatigue decreased in the intervention group, while deliberate rumination and psychological resilience increased, with different trajectories observed in the control group. CONCLUSIONS: The empowerment program improved intrusive rumination, cancer-related fatigue, deliberate rumination, and psychological resilience among cancer survivors. Empowerment-based interventions may represent feasible nursing strategies for psychosocial support during remission.",
-      "journal": "European journal of oncology nursing : the official journal of European Oncology Nursing Society",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness-based perioperative care, sleep architecture, autonomic regulation, and early atrial tachyarrhythmia recurrence after radiofrequency catheter ablation for atrial fibrillation: a prospective observational cohort study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42920308/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-23T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.421262",
-      "doi": "10.1080/13548506.2026.2746784",
-      "authors": [
-        {
-          "name": "Juanjuan Wang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Danping Wu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study aimed to examine the relationship between perioperative care by mindfulness and sleep quality, autonomic regulation, inflammatory activity, and early recurrence of atrial tachyarrhythmia (AT) following radiofrequency catheter ablation (RFCA) for atrial fibrillation (AF). This was a prospective assessor-blinded observational cohort study involving 124 patients with AF who underwent their initial radiofrequency catheter ablation from April 2023 to December 2025. Conventional perioperative care was provided to one group (n=62), while the other group (n=62) received mindfulness-based perioperative care. To reduce baseline imbalance, propensity score overlap weighting was implemented. Objective sleep architecture was assessed by overnight polysomnography and autonomic function was examined by HRV analysis. hs-CRP, IL-6, TNF-\u03b1, IL-1\u03b2, and MCP-1 were analyzed by enzyme-linked immunosorbent assays. Health related quality of life was determined based on the SF-36 questionnaire. Compared with conventional care, mindfulness-based perioperative care was associated with greater observed changes in total sleep time (389.4 \u00b1 43.8 vs. 365.7 \u00b1 45.2 min, P=0.012), sleep efficiency (77.4 \u00b1 7.2% vs. 71.2 \u00b1 7.8%, P=0.004), sleep onset latency (27.1 \u00b1 8.8 vs. 34.8 \u00b1 10.5 min, P=0.009), and PSQI scores (7.2 \u00b1 2.5 vs. 9.3 \u00b1 2.9, P=0.006). The mindfulness group also showed lower inflammatory biomarker levels and differences in short-term autonomic indices, including a lower LF/HF ratio (1.39 \u00b1 0.41 vs. 1.66 \u00b1 0.54, P=0.005). Early atrial tachyarrhythmia recurrence occurred in 6 patients (9.7%) in the mindfulness-based perioperative care group and in 11 patients (17.7%) in the conventional care group, corresponding to a crude risk ratio of 0.55 (95% CI: 0.22-1.38). Mindfulness-based perioperative care was associated with improved objective and subjective sleep quality, more favorable autonomic and inflammatory biomarker profiles, better postoperative quality of life, and a lower observed rate of early atrial tachyarrhythmia recurrence after radiofrequency catheter ablation for AF.",
-      "journal": "Psychology, health & medicine",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Resilience Following a Course-Embedded Mindfulness Intervention.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42912856/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-20T00:00:00",
-      "date_fetched": "2026-10-24T15:01:32.421298",
-      "doi": "10.1097/NNE.0000000000002351",
-      "authors": [
-        {
-          "name": "Amy E Delaney",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kim Y Martineau Jackson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jennifer A Livesley",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mary O'Keeffe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ian A Lane",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Nursing students experience high levels of stress, highlighting the need for innovative curricular approaches that promote resilience and well-being. PURPOSE: To evaluate the impact of embedding mindfulness micro-practices throughout a prelicensure Fundamentals and Health Assessment course on nursing students' resilience. METHODS: Brief mindfulness activities were integrated into course modules. A pretest-posttest educational evaluation examined responses from 132 Bachelor of Nursing students using the Connor-Davidson Resilience Scale. Independent samples t tests and item-level analyses evaluated changes between pretest and posttest responses. RESULTS: Posttest resilience scores were significantly higher than pretest scores (P = .042; d = 0.36), with significant improvements across 5 resilience domains, particularly adaptability to change. CONCLUSIONS: Embedding mindfulness micro-practices into foundational nursing coursework is a feasible, competency-based strategy for fostering resilience while supporting the self-awareness, well-being, reflective practice, and professional development competencies found in domains 9 and 10 of the American Association of Colleges of Nursing Essentials.",
-      "journal": "Nurse educator",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
     }
   ],
   "articles": []
