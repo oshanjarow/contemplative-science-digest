@@ -1,91 +1,413 @@
 {
-  "generated_at": "2026-10-25T15:12:46.867658",
+  "generated_at": "2026-10-26T17:49:49.787502",
   "papers": [
     {
-      "title": "L-FAME: Longitudinal Focused Attention Meditation EEG Dataset and Benchmark",
-      "url": "https://www.semanticscholar.org/paper/1315fd09b5f460d40d901e4bcb00916feeb3c08b",
+      "title": "Mindfulness-Based Stress Reduction for Generalized Anxiety Disorder: Systematic Review and Meta-Analysis",
+      "url": "https://www.semanticscholar.org/paper/0ed48b97100e4380fbcbcf77e91b747cf83a6269",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-05-21T00:00:00",
-      "date_fetched": "2026-10-25T15:12:10.629226",
-      "doi": "10.48550/arXiv.2605.22893",
+      "date_published": "2026-10-24T00:00:00",
+      "date_fetched": "2026-10-26T17:48:47.981267",
+      "doi": "10.64898/2026.10.21.26366048",
       "authors": [
         {
-          "name": "Angqi Li",
-          "author_id": "2274220722",
+          "name": "V. V. Neves",
+          "author_id": "2363878690",
           "affiliation": null
         },
         {
-          "name": "AbbasRaza Syed",
-          "author_id": "2230370809",
+          "name": "N. Larbi",
+          "author_id": "151150836",
           "affiliation": null
         },
         {
-          "name": "Hamzeh Alzweri",
-          "author_id": "2438606250",
+          "name": "R. Acabchuk",
+          "author_id": "3794999",
           "affiliation": null
         },
         {
-          "name": "Tao-Sheng Liu",
-          "author_id": "2321528005",
+          "name": "L. Haygood",
+          "author_id": "1829186794",
           "affiliation": null
         },
         {
-          "name": "Barry H. Cohen",
-          "author_id": "47828772",
+          "name": "V. Rajasankar",
+          "author_id": "2433264329",
           "affiliation": null
         },
         {
-          "name": "S. Ravishankar",
-          "author_id": "145233481",
+          "name": "S. Goldberg",
+          "author_id": "2257975273",
+          "affiliation": null
+        },
+        {
+          "name": "S. Sun",
+          "author_id": "2517140885",
+          "affiliation": null
+        },
+        {
+          "name": "E. Hoge",
+          "author_id": "2848527",
+          "affiliation": null
+        },
+        {
+          "name": "J. Brewer",
+          "author_id": "10686504",
+          "affiliation": null
+        },
+        {
+          "name": "C. Li",
+          "author_id": "2517143695",
+          "affiliation": null
+        },
+        {
+          "name": "B. T. Johnson",
+          "author_id": "2517127471",
+          "affiliation": null
+        },
+        {
+          "name": "E. Loucks",
+          "author_id": "2264972663",
           "affiliation": null
         }
       ],
-      "abstract": "We introduce a novel Longitudinal Focused Attention Meditation Electroencephalography (L-FAME) dataset and an accompanying benchmark, designed to foster research into the neural effects of various meditation practices and the evolution of these effects over a six-week training period. The dataset contains EEG recordings and psychological assessments from 74 healthy college participants, collected at two distinct time points: pre-intervention and post-intervention. Participants were randomly assigned to one of three distinct meditation groups: two mantra-based techniques (SA-TA-NA-MA and Hare Krishna) and one Breath Focus practice. Leveraging this unique longitudinal and comparative dataset, we propose a benchmark suite comprising three distinct classification tasks: (1) cognitive state decoding to distinguish between resting and meditation states, (2) fine-grained classification of the specific meditation techniques, and (3) cross-session adaptation to evaluate model generalization across the longitudinal time gap. We provide comprehensive baseline results for these tasks utilizing a range of classical machine learning algorithms and deep learning architectures. The complete dataset, preprocessing pipelines, and benchmark evaluation code will be publicly released, offering a valuable resource and a standardized framework for the development and comparison of new analytical methods in computational meditation research and EEG-based machine learning. The dataset is available at https://huggingface.co/datasets/L-FAME-Dataset-Benchmark/L-FAME",
-      "journal": "arXiv.org",
+      "abstract": "Objective: To evaluate the efficacy and safety of Mindfulness-Based Stress Reduction (MBSR) for anxiety symptoms in adults with generalized anxiety disorder (GAD). Design: Systematic review and meta-analysis. Data Sources: CINAHL, Embase, MEDLINE, PsycINFO, Scopus, SocINDEX, ERIC (EBSCO), and ProQuest Dissertations & Theses Global were searched from inception to October 2025; identified trial protocols were hand-searched for subsequent reports through February 2026. Eligibility criteria for selecting studies: Randomized, non-randomized, and single-arm trials evaluating the effects of MBSR on anxiety in adults with GAD. Data extraction and synthesis: Two authors independently screened records, extracted data, and assessed risk of bias. The primary outcome was anxiety symptoms; the secondary outcome was adverse events. Random-effects meta-analyses were conducted, and certainty of evidence was assessed. Results: Of 19 included reports (16 independent samples), 8 randomized controlled trials (n=1,012) were included in the primary meta-analysis. MBSR significantly reduced anxiety symptoms vs. waitlist (Hedges' g=-0.88; 95% CI -1.57 to -0.19) and general active comparators (g=-0.85; 95% CI -1.15 to -0.54), and showed no significant difference vs. escitalopram in two linked trials (g=0.09; 95% CI -0.11 to 0.29), with fewer adverse events in the in-person trial, the only one reporting them (15% vs. 79%; number needed to treat to avoid harm=2). GRADE certainty of evidence was high for the escitalopram comparison and very low for waitlist. Conclusions: MBSR is a well-tolerated, nonpharmacologic treatment option for adults with GAD. Anxiety reductions were similar to escitalopram, with fewer adverse events; independent replication is needed. MBSR may be a viable option for patients who prefer non-pharmacological management or who cannot tolerate medication. Systematic review registration: PROSPERO CRD420251140213.",
+      "journal": "medRxiv",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "focused attention meditation"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Thoughtseeds as Latent Causes: A Dual-Process Computational Phenomenology of Focused-Attention Meditation",
-      "url": "https://www.semanticscholar.org/paper/043d75c7b0a581106117eebe5c53064771522ecb",
+      "title": "The Effect of Mindfulness-Based Cognitive Therapy on Kinesiophobia in Older Adults with Chronic Knee Osteoarthritis: A Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927343/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-07-16T00:00:00",
-      "date_fetched": "2026-10-25T15:12:10.629233",
+      "source_type": "pubmed",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-10-26T17:49:38.676375",
+      "doi": "10.2147/CIA.S638393",
+      "authors": [
+        {
+          "name": "Zahra Kheirkhah",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fatemeh Fallahi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Khadijeh Sharifi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Fatemeh Sadat Asgarian",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amir Hossein Fallahi",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "PURPOSE: To determine the effect of mindfulness-based cognitive therapy on kinesiophobia in older adults with chronic knee osteoarthritis. PATIENTS AND METHODS: This randomized clinical trial conducted among 56 older patients with knee osteoarthritis at health centers in Kashan, Iran, in 2024. Participants were selected via consecutive sampling and randomly assigned to either an intervention (n = 28) or a control (n = 28) group using block randomization. The intervention group participated in eight 90 minute sessions of Mindfulness Based Cognitive Therapy, while the control group received routine care. Kinesiophobia was measured with the Tampa Scale for Kinesiophobia (TSK11) at baseline, week 4 (immediately post intervention), and week 8 (four week follow up). Covariate adjusted repeated measures ANCOVA was performed, adjusting for age, number of children, and baseline pain intensity. Statistical significance was set at p < 0.05. All participants completed follow up. RESULTS: The mean kinesiophobia score decreased from 29.46 \u00b1 3.81 at baseline to 25.68 \u00b1 3.22 at week 8 in the intervention group and from 28.64 \u00b1 4.78 to 26.68 \u00b1 5.15 in the control group. The adjusted repeated-measures analysis showed a significant group-by-time interaction (Wilks' \u039b = 0.88, F(2.50) = 3.34, p = 0.040, \u03b7p CONCLUSION: Four weeks of MBCT may influence the trajectory of kinesiophobia over time in older adults with knee osteoarthritis. TRIAL REGISTRATION: Registered in the Iranian Registry of Clinical Trials (IRCT20231105059961N1).",
+      "journal": "Clinical interventions in aging",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Exploring the effects of mindfulness meditation on resting-state functional connectivity: an overview.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42228355/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-26T00:00:00",
+      "date_fetched": "2026-10-26T17:49:38.676500",
+      "doi": "10.1515/revneuro-2026-0019",
+      "authors": [
+        {
+          "name": "Thomas Le Fran\u00e7ois",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Charlotte E Hilberdink",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "B\u00e9reng\u00e8re Guillery-Girard",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elise Leroux",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pascal Delamillieure",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maxime Tr\u00e9hout",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ga\u00ebl Ch\u00e9telat",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Annick Haelewyn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric Bui",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mindfulness meditation has received growing interest in research over the past decades. Mindfulness meditation training (MMT) can be employed as a mental practice to improve cognitive skills such as attention and emotion regulation and may promote well-being. Neuroimaging studies have emerged to understand the effects of MMT on brain functioning. However, no review exists on the effects of MMT on resting-state brain functional connectivity (rsFC) in healthy meditation-na\u00efve adults specifically. We, therefore, aimed to provide an overview of studies that investigated the effects of MMT on rsFC in healthy meditation-na\u00efve adults, as well as their link to cognitive and clinical measures. Several studies reported changes in MMT-induced rsFC within and between regions of the default mode (DMN), salience (SN), and central executive (CEN) networks. Both increases and decreases in rsFC have been observed for brain regions associated with these networks after MMT, each with differential roles in emotion regulation, stress, and cognitive functions. Some studies highlighted associations between changes in rsFC after MMT and modifications in cognitive performance and psycho-affective measures, which may be influenced by MMT-specific characteristics such as practice duration or delivery methods. MMT may induce a reorganization in the brain's functional architecture by altering rsFC within and between these networks and seems to modify processes related to attention, executive memory, emotional regulation, stress, and resilience. Investigating functional connectivity during rest in key brain networks seems a promising approach to understand the effects of mindfulness meditation on overall well-being.",
+      "journal": "Reviews in the neurosciences",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Developing a digital heart failure symptom management intervention using the preparation phase of the Multiphase Optimization StraTegy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42920131/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-22T00:00:00",
+      "date_fetched": "2026-10-26T17:49:49.007589",
+      "doi": "10.1186/s12912-026-05571-2",
+      "authors": [
+        {
+          "name": "Michelle van Rijn",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tiny Jaarsma",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gerhard Andersson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Subhash Aryal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Kenneth Freedland",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Christopher Lee",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shayleigh Page",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sara Pettersson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Barbara Riegel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anna Str\u00f6mberg",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ercole Vellone",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Heleen Westland",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Persons with heart failure (HF) often experience bothersome symptoms in daily life, which can negatively affect their health-related quality of life (HRQOL). Self-care e.g. to monitor and manage symptoms, is essential in HF management. Self-care can stabilize the disease, reduce symptoms, and improve outcomes. However, patients often find it difficult to recognize and manage symptoms due to various factors. Consequently, many people delay acting until their symptoms become too severe to manage by themselves. This highlights the need for timely engagement in symptom monitoring and interpretation to enable early and appropriate responses. In the SympTom mAnagement and self-caRe (STAR) study, we prepare (phase 1), optimize (phase 2), and evaluate (phase 3) a digital intervention using the Multiphase Optimization StraTegy (MOST). The STAR intervention supports patients with HF in recognizing their symptoms and taking timely, appropriate actions. OBJECTIVE: The aim of this study is to describe the MOST preparation phase of the STAR intervention, including its development of the underlying conceptual model, identification of candidate components and optimization criterion, and assessment of intervention feasibility to inform the subsequent optimization phase. METHODS: We conducted four sequential activities from the preparation phase of MOST: (1) developing a conceptual model; (2) identifying candidate components; (3) identifying optimization criterion; and (4) conducting a feasibility study of the digital STAR intervention with patients with HF and HF nurses. RESULTS: The conceptual model includes four candidate components; a basic component, symptom awareness training, symptom management counselling, and symptom management experiments. We expect these components to influence behavioral outcomes such as reduced symptom burden and hospitalizations, and improved self-care and HRQOL. The set of candidate components were specified at two levels (low versus high) by varying intensity, frequency, or mode of delivery while maintaining consistent core content. Ten patients with HF and 5 HF nurses tested the STAR intervention in the feasibility study. The STAR intervention was perceived as feasible from both a patient and nurses' perspective. Patients rated the intervention as clear, user-friendly and structured. Participants valued personal support from HF nurses and perceived it as important for continued use of the intervention. The feasibility findings provide concrete input to refine the intervention prior to the optimization trial. CONCLUSION: The STAR intervention is feasible and acceptable to both patients with HF and HF nurses. Combined with the conceptual model, linking components to underlying mechanisms and outcomes, the findings provide us a solid foundation for optimizing the STAR intervention in a subsequent optimization trial.",
+      "journal": "BMC nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Common Phenomenal and Neural Substrate Geometry in Visual Motion Perception.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925996/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-24T00:00:00",
+      "date_fetched": "2026-10-26T17:49:49.007806",
+      "doi": "10.1016/j.neuroimage.2026.122313",
+      "authors": [
+        {
+          "name": "Kallum Robinson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ariel Zeleznikow-Johnston",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiahao Wu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yumiko Yoshimura",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Naotsugu Tsuchiya",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "What is a possible physical substrate of the qualitative aspects of consciousness (qualia)? Answering this question is a central goal of consciousness research. Due to their subjective and ineffable nature, finding a quantitative way to characterise qualia from verbal description has thus far proven elusive. To overcome the challenge of expressing subjective experience, recent structural and relational approaches have been proposed from mathematics. Yet, as far as we know, no attempts have been made to evaluate the relationship between a certain structure of qualia and the structure of a candidate underlying physical substrate. Towards this ambitious goal of linking the structures of qualia and physical, we set out to make an empirical first step by focusing on experienced dissimilarity of visual motion in human participants and stimulus-evoked neural population response geometry recorded from mouse primary visual cortex. From human participants (N=171), we obtained dissimilarity ratings of visual motion experiences induced by 48 stimuli, spanning across 8 directions and 6 spatial frequencies. Analysis revealed a human dissimilarity structure that was not well captured by a simple monotonic function of physical motion-direction difference alone nor by a pure orientation-symmetry account. From nine individual mice, we recorded single-neuron activity (n=751) with optical imaging in both awake and lightly anaesthetised conditions (isoflurane 0.6-0.8%). From neuron population responses to a similar set of motion stimuli, we computed a distance matrix that is comparable to our human dissimilarity matrix. Quantitative analyses show structural commonalities between a human dissimilarity structure and mouse neural structure, where a categorical organisation of stimulus direction best explained both. These commonalities were similar in awake and anaesthetised recordings, suggesting that this coarse V1 geometry is relatively insensitive to this type of anaesthesia; future work combining behaviour with causal intervention is required to relate such neural structures to conscious experience. Finally, we list several empirical factors that can be improved to promote our qualia structure approach in the future.",
+      "journal": "NeuroImage",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Influence of Preoperative Virtual Reality on Preoperative State Anxiety in the Ambulatory Setting: The AMBLUMEEN Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929532/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-26T00:00:00",
+      "date_fetched": "2026-10-26T17:49:49.007890",
+      "doi": "10.1213/ANE.0000000000008360",
+      "authors": [
+        {
+          "name": "Charles-Herv\u00e9 Vacheron",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Angelique Denis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sylvie Bin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Muriel Rabilloud",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Florence Raynal",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Arnaud Friggeri",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Preoperative anxiety affects 30% to 80 % of ambulatory surgery patients and is associated with increased anesthetic requirements, postoperative pain, and delayed recovery. Virtual reality (VR) is a promising nonpharmacological anxiolytic, but evidence remains limited in the ambulatory setting. METHODS: The AMBLUMEEN (AMBulatory LUMEEN) trial is a single-center, randomized, open-label, superiority trial conducted in an adult ambulatory surgery unit. Patients with moderate-to-severe preoperative anxiety (State-Trait Anxiety Inventory Form Y-A [STAI-YA] > 45) were randomized 1:1 to standard care alone (control) or standard care and a single 20-minute preoperative VR session (immersive 360\u00b0 natural contemplative scenes). The primary end point was the change in STAI-YA score from arrival in the ambulatory unit (baseline) to immediately before operating room transfer (presurgery), analyzed under the intention-to-treat principle with a linear mixed model. Secondary end points included preoperative benzodiazepine use, postoperative morphine requirement, unplanned overnight admission, patient satisfaction, and device acceptability. RESULTS: Of 106 randomized patients (53 per group) with a median [interquartile range] baseline STAI-YA of 49 [46-55] and 49 [46-58] respectively in the control and VR group, the VR group experienced a markedly greater reduction in state anxiety than controls. Adjusted mean between-group difference in STAI-YA change from baseline to presurgery was -18.7 95% confidence interval (CI) [-21.4 to -16.1] points in favor of VR. Although benzodiazepine requirement, postoperative pain, and unplanned overnight admission were comparable between groups, the morphine requirement in postanesthesia care unit was lower in the VR group (6/53 [11.3% 95% CI, 11.3 {4.3-23.0}] vs 0/53 [0.0%, 95% CI, {0.0-6.7}]; P = .027). Global perioperative satisfaction was high in both groups (median 8 [8-9] on 10). CONCLUSIONS: A single 20-minute session of medical-grade VR significantly reduced preoperative anxiety in ambulatory surgery patients, with high acceptability and an excellent safety profile.",
+      "journal": "Anesthesia and analgesia",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Implicit Self-Death Associations and Symptoms of Depression and Anxiety: A Single-Case Experimental Design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921722/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-24T00:00:00",
+      "date_fetched": "2026-10-26T17:49:49.008073",
+      "doi": "10.1177/00332941261501010",
+      "authors": [
+        {
+          "name": "Radiah Maria Belak",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nicholas J Moberly",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Death anxiety may operate as a transdiagnostic process underlying anxiety and depressive symptoms. This study used the Death-Implicit Association Task (D-IAT) to index implicit self-death associations (ISDA) and evaluated a brief mindfulness intervention using a concurrent multiple-baseline design with maintenance across four students with prior anxiety/depressive diagnoses. Across 20 daily sessions, D-IAT D-scores and Mini-DASS depression and anxiety scores were collected. Visual analysis suggested reductions in depression and anxiety for several participants, with lower scores often persisting into maintenance. Casewise Tau-b patterns were heterogeneous. Exact randomisation tests showed a significant reduction in anxiety from baseline to intervention (",
+      "journal": "Psychological reports",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    }
+  ],
+  "articles": [
+    {
+      "title": "Did Substack Fix the Internet?",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/did-substack-fix-the-internet",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-10-26T10:00:00",
+      "date_fetched": "2026-10-26T17:49:49.273648",
       "doi": null,
       "authors": [
         {
-          "name": "Prakash Chandra Kavi",
-          "author_id": "2242383838",
-          "affiliation": null
-        },
-        {
-          "name": "D. Friedman",
-          "author_id": "2165314699",
-          "affiliation": null
-        },
-        {
-          "name": "Gustavo Patow",
-          "author_id": "2310354511",
+          "name": "Kyle Chayka",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Meditative expertise involves sustained attention, rapid recovery from distraction, and coordinated dynamics of large-scale brain networks. We present a computational phenomenology of focused-attention meditation traversing four attractor states: breath focus, mind-wandering, meta-awareness, and redirect attention. Within a dual-process active inference formulation, the model implements a three-layer nested Markov-blanket architecture: (L1) a high-dimensional physiological neuronal substrate modeled as a stochastic multivariate Ornstein--Uhlenbeck process over attentional Yeo networks; (L2) a low-dimensional generative model (System 1) that encodes latent mental content as thoughtseeds and evaluates autonomic action tendencies; and (L3) an agentic metacognitive monitor (System 2) that implements a Global Neuronal Workspace (GNW) capacity bottleneck to selectively gate these tendencies. In L3, meta-awareness functions as the GNW ignition signal, derived from policy-prior divergence and dynamically gated by direct competition between orchestrator and distractor thoughtseeds. Policy selection actively minimizes expected free energy, and L2 actions furnish descending predictions over network activity to close the enactive perception--action cycle. Training uses variational Expectation-Maximization (EM) across expert and novice phenotypes. Simulations reproduce behavior consistent with empirical observations and findings in contemplative neuroscience, providing a tractable link between first-person phenomenology and objective neurophysiological measures.",
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "A new book by Hamish McKenzie, the platform\u2019s co-founder, argues that writers today are more empowered than ever. But online newsletters form their own kind of attention economy.",
+      "relevance_score": 1,
       "matched_keywords": [
-        "focused attention meditation"
+        "attention"
       ]
     }
-  ],
-  "articles": []
+  ]
 }
