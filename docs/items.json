@@ -1,121 +1,38 @@
 {
-  "generated_at": "2026-10-26T17:49:49.787502",
+  "generated_at": "2026-10-27T16:59:21.573037",
   "papers": [
     {
-      "title": "Mindfulness-Based Stress Reduction for Generalized Anxiety Disorder: Systematic Review and Meta-Analysis",
-      "url": "https://www.semanticscholar.org/paper/0ed48b97100e4380fbcbcf77e91b747cf83a6269",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-10-24T00:00:00",
-      "date_fetched": "2026-10-26T17:48:47.981267",
-      "doi": "10.64898/2026.10.21.26366048",
-      "authors": [
-        {
-          "name": "V. V. Neves",
-          "author_id": "2363878690",
-          "affiliation": null
-        },
-        {
-          "name": "N. Larbi",
-          "author_id": "151150836",
-          "affiliation": null
-        },
-        {
-          "name": "R. Acabchuk",
-          "author_id": "3794999",
-          "affiliation": null
-        },
-        {
-          "name": "L. Haygood",
-          "author_id": "1829186794",
-          "affiliation": null
-        },
-        {
-          "name": "V. Rajasankar",
-          "author_id": "2433264329",
-          "affiliation": null
-        },
-        {
-          "name": "S. Goldberg",
-          "author_id": "2257975273",
-          "affiliation": null
-        },
-        {
-          "name": "S. Sun",
-          "author_id": "2517140885",
-          "affiliation": null
-        },
-        {
-          "name": "E. Hoge",
-          "author_id": "2848527",
-          "affiliation": null
-        },
-        {
-          "name": "J. Brewer",
-          "author_id": "10686504",
-          "affiliation": null
-        },
-        {
-          "name": "C. Li",
-          "author_id": "2517143695",
-          "affiliation": null
-        },
-        {
-          "name": "B. T. Johnson",
-          "author_id": "2517127471",
-          "affiliation": null
-        },
-        {
-          "name": "E. Loucks",
-          "author_id": "2264972663",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Objective: To evaluate the efficacy and safety of Mindfulness-Based Stress Reduction (MBSR) for anxiety symptoms in adults with generalized anxiety disorder (GAD). Design: Systematic review and meta-analysis. Data Sources: CINAHL, Embase, MEDLINE, PsycINFO, Scopus, SocINDEX, ERIC (EBSCO), and ProQuest Dissertations & Theses Global were searched from inception to October 2025; identified trial protocols were hand-searched for subsequent reports through February 2026. Eligibility criteria for selecting studies: Randomized, non-randomized, and single-arm trials evaluating the effects of MBSR on anxiety in adults with GAD. Data extraction and synthesis: Two authors independently screened records, extracted data, and assessed risk of bias. The primary outcome was anxiety symptoms; the secondary outcome was adverse events. Random-effects meta-analyses were conducted, and certainty of evidence was assessed. Results: Of 19 included reports (16 independent samples), 8 randomized controlled trials (n=1,012) were included in the primary meta-analysis. MBSR significantly reduced anxiety symptoms vs. waitlist (Hedges' g=-0.88; 95% CI -1.57 to -0.19) and general active comparators (g=-0.85; 95% CI -1.15 to -0.54), and showed no significant difference vs. escitalopram in two linked trials (g=0.09; 95% CI -0.11 to 0.29), with fewer adverse events in the in-person trial, the only one reporting them (15% vs. 79%; number needed to treat to avoid harm=2). GRADE certainty of evidence was high for the escitalopram comparison and very low for waitlist. Conclusions: MBSR is a well-tolerated, nonpharmacologic treatment option for adults with GAD. Anxiety reductions were similar to escitalopram, with fewer adverse events; independent replication is needed. MBSR may be a viable option for patients who prefer non-pharmacological management or who cannot tolerate medication. Systematic review registration: PROSPERO CRD420251140213.",
-      "journal": "medRxiv",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "The Effect of Mindfulness-Based Cognitive Therapy on Kinesiophobia in Older Adults with Chronic Knee Osteoarthritis: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42927343/",
+      "title": "Factors associated with communicative and financial barriers to healthcare utilization among people with selected citizenships in Germany: results from a nationwide cross-sectional study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934686/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-01-01T00:00:00",
-      "date_fetched": "2026-10-26T17:49:38.676375",
-      "doi": "10.2147/CIA.S638393",
+      "date_published": "2026-10-24T00:00:00",
+      "date_fetched": "2026-10-27T16:59:20.483395",
+      "doi": "10.1186/s12913-026-15932-x",
       "authors": [
         {
-          "name": "Zahra Kheirkhah",
+          "name": "Lena Goerigk",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fatemeh Fallahi",
+          "name": "Katja Kajikhina",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Khadijeh Sharifi",
+          "name": "Claudia H\u00f6vener",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Fatemeh Sadat Asgarian",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amir Hossein Fallahi",
+          "name": "Carmen Koschollek",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "PURPOSE: To determine the effect of mindfulness-based cognitive therapy on kinesiophobia in older adults with chronic knee osteoarthritis. PATIENTS AND METHODS: This randomized clinical trial conducted among 56 older patients with knee osteoarthritis at health centers in Kashan, Iran, in 2024. Participants were selected via consecutive sampling and randomly assigned to either an intervention (n = 28) or a control (n = 28) group using block randomization. The intervention group participated in eight 90 minute sessions of Mindfulness Based Cognitive Therapy, while the control group received routine care. Kinesiophobia was measured with the Tampa Scale for Kinesiophobia (TSK11) at baseline, week 4 (immediately post intervention), and week 8 (four week follow up). Covariate adjusted repeated measures ANCOVA was performed, adjusting for age, number of children, and baseline pain intensity. Statistical significance was set at p < 0.05. All participants completed follow up. RESULTS: The mean kinesiophobia score decreased from 29.46 \u00b1 3.81 at baseline to 25.68 \u00b1 3.22 at week 8 in the intervention group and from 28.64 \u00b1 4.78 to 26.68 \u00b1 5.15 in the control group. The adjusted repeated-measures analysis showed a significant group-by-time interaction (Wilks' \u039b = 0.88, F(2.50) = 3.34, p = 0.040, \u03b7p CONCLUSION: Four weeks of MBCT may influence the trajectory of kinesiophobia over time in older adults with knee osteoarthritis. TRIAL REGISTRATION: Registered in the Iranian Registry of Clinical Trials (IRCT20231105059961N1).",
-      "journal": "Clinical interventions in aging",
+      "abstract": "BACKGROUND: Research has shown that migrants in Germany face various barriers to healthcare access, including communicative and financial barriers. This study examined which sociodemographic, migration-related, and psychosocial factors are associated with these barriers in order to better understand lower healthcare utilization among migrants. METHODS: We used data from the nationwide cross-sectional health interview survey GEDA Fokus, which included people with Croatian, Italian, Polish, Syrian, or Turkish citizenship living in Germany. Descriptive, univariable, and multivariable analyses were conducted separately for communicative and financial barriers while accounting for relevant social factors. RESULTS: Of the 6,038 participants, 16.2% reported communicative barriers and 9.0% reported financial barriers to healthcare utilization. According to the regression analyses, gender, age, German language proficiency, and self-reported experiences of racist discrimination were associated with communicative barriers. For financial barriers, associations with gender, educational level, and experiences of discrimination due to the socioeconomic situation were found. CONCLUSION: The results indicate that demographic, socioeconomic, migration-related, and psychosocial factors are associated with communicative and financial barriers to healthcare utilization. Gender and experiences of discrimination were significantly associated with both communicative and financial barriers. In practice, the provision of qualified translation and interpretation services, anti-discrimination and awareness training for healthcare staff, and the expansion of low-threshold, financially accessible services could help promote more equitable access to healthcare among migrants.",
+      "journal": "BMC health services research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -123,62 +40,27 @@
       "matched_keywords": []
     },
     {
-      "title": "Exploring the effects of mindfulness meditation on resting-state functional connectivity: an overview.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42228355/",
+      "title": "Advancing a Model of Mindful Sexual Communication: Testing Sexual Communication as a Mediator of the Association Between Sexual Mindfulness and Sexual Satisfaction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932258/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-10-26T00:00:00",
-      "date_fetched": "2026-10-26T17:49:38.676500",
-      "doi": "10.1515/revneuro-2026-0019",
+      "date_fetched": "2026-10-27T16:59:20.483701",
+      "doi": "10.1080/00224499.2026.2744375",
       "authors": [
         {
-          "name": "Thomas Le Fran\u00e7ois",
+          "name": "Madison Wiese",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Charlotte E Hilberdink",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "B\u00e9reng\u00e8re Guillery-Girard",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Elise Leroux",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pascal Delamillieure",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maxime Tr\u00e9hout",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ga\u00ebl Ch\u00e9telat",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Annick Haelewyn",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eric Bui",
+          "name": "Amanda Denes",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Mindfulness meditation has received growing interest in research over the past decades. Mindfulness meditation training (MMT) can be employed as a mental practice to improve cognitive skills such as attention and emotion regulation and may promote well-being. Neuroimaging studies have emerged to understand the effects of MMT on brain functioning. However, no review exists on the effects of MMT on resting-state brain functional connectivity (rsFC) in healthy meditation-na\u00efve adults specifically. We, therefore, aimed to provide an overview of studies that investigated the effects of MMT on rsFC in healthy meditation-na\u00efve adults, as well as their link to cognitive and clinical measures. Several studies reported changes in MMT-induced rsFC within and between regions of the default mode (DMN), salience (SN), and central executive (CEN) networks. Both increases and decreases in rsFC have been observed for brain regions associated with these networks after MMT, each with differential roles in emotion regulation, stress, and cognitive functions. Some studies highlighted associations between changes in rsFC after MMT and modifications in cognitive performance and psycho-affective measures, which may be influenced by MMT-specific characteristics such as practice duration or delivery methods. MMT may induce a reorganization in the brain's functional architecture by altering rsFC within and between these networks and seems to modify processes related to attention, executive memory, emotional regulation, stress, and resilience. Investigating functional connectivity during rest in key brain networks seems a promising approach to understand the effects of mindfulness meditation on overall well-being.",
-      "journal": "Reviews in the neurosciences",
+      "abstract": "Mindfulness and communication have powerful implications for sexual health. Sexual communication and sexual mindfulness - the ability to be aware and non-judgmental during sexual activity - are two constructs often associated with sexual satisfaction. To further explore these relationships, a model of mindful sexual communication was advanced. More specifically, a moderated mediation model was tested to explore the indirect effect of sexual mindfulness on sexual satisfaction through sexual communication, as well as the potential moderating role of interoceptive awareness (i.e., trusting the body and self-regulation). Data were collected from 205 young adult college students in a variety of relational contexts that had a recent sexual interaction. The results indicated that sexual mindfulness awareness was indirectly associated with sexual satisfaction via frequency and comfort of sexual communication, whereas sexual mindfulness non-judgment was only indirectly associated with sexual satisfaction via sexual communication comfort. Additionally, two moderated mediation models were supported for participants in committed relationships: trusting the body and self-regulation moderated the indirect effect of sexual mindfulness non-judgment on sexual satisfaction via sexual communication comfort. The results reveal that different aspects of sexual mindfulness function uniquely together with aspects of sexual communication and interoceptive awareness to predict sexual satisfaction, revealing preliminary support for a new theoretical model of mindful sexual communication. These findings and their implications for sexual communication and mindfulness are discussed along with practical applications for individuals and professionals.",
+      "journal": "Journal of sex research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -186,77 +68,42 @@
       "matched_keywords": []
     },
     {
-      "title": "Developing a digital heart failure symptom management intervention using the preparation phase of the Multiphase Optimization StraTegy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42920131/",
+      "title": "The role of sexual mindfulness in enhancing sexual well-being among breast cancer survivors: A randomized clinical trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42937772/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-22T00:00:00",
-      "date_fetched": "2026-10-26T17:49:49.007589",
-      "doi": "10.1186/s12912-026-05571-2",
+      "date_published": "2026-10-23T00:00:00",
+      "date_fetched": "2026-10-27T16:59:20.483978",
+      "doi": "10.1097/MD.0000000000051237",
       "authors": [
         {
-          "name": "Michelle van Rijn",
+          "name": "Asefeh Shirdashtzadeh Kerdabadi",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tiny Jaarsma",
+          "name": "Zeinab Tavakol",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Gerhard Andersson",
+          "name": "Fereshteh Rasti Borujeni",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Subhash Aryal",
+          "name": "Hadi Raeisi Shahraki",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Kenneth Freedland",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christopher Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shayleigh Page",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sara Pettersson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Barbara Riegel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anna Str\u00f6mberg",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ercole Vellone",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heleen Westland",
+          "name": "Zahra Davoodi",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Persons with heart failure (HF) often experience bothersome symptoms in daily life, which can negatively affect their health-related quality of life (HRQOL). Self-care e.g. to monitor and manage symptoms, is essential in HF management. Self-care can stabilize the disease, reduce symptoms, and improve outcomes. However, patients often find it difficult to recognize and manage symptoms due to various factors. Consequently, many people delay acting until their symptoms become too severe to manage by themselves. This highlights the need for timely engagement in symptom monitoring and interpretation to enable early and appropriate responses. In the SympTom mAnagement and self-caRe (STAR) study, we prepare (phase 1), optimize (phase 2), and evaluate (phase 3) a digital intervention using the Multiphase Optimization StraTegy (MOST). The STAR intervention supports patients with HF in recognizing their symptoms and taking timely, appropriate actions. OBJECTIVE: The aim of this study is to describe the MOST preparation phase of the STAR intervention, including its development of the underlying conceptual model, identification of candidate components and optimization criterion, and assessment of intervention feasibility to inform the subsequent optimization phase. METHODS: We conducted four sequential activities from the preparation phase of MOST: (1) developing a conceptual model; (2) identifying candidate components; (3) identifying optimization criterion; and (4) conducting a feasibility study of the digital STAR intervention with patients with HF and HF nurses. RESULTS: The conceptual model includes four candidate components; a basic component, symptom awareness training, symptom management counselling, and symptom management experiments. We expect these components to influence behavioral outcomes such as reduced symptom burden and hospitalizations, and improved self-care and HRQOL. The set of candidate components were specified at two levels (low versus high) by varying intensity, frequency, or mode of delivery while maintaining consistent core content. Ten patients with HF and 5 HF nurses tested the STAR intervention in the feasibility study. The STAR intervention was perceived as feasible from both a patient and nurses' perspective. Patients rated the intervention as clear, user-friendly and structured. Participants valued personal support from HF nurses and perceived it as important for continued use of the intervention. The feasibility findings provide concrete input to refine the intervention prior to the optimization trial. CONCLUSION: The STAR intervention is feasible and acceptable to both patients with HF and HF nurses. Combined with the conceptual model, linking components to underlying mechanisms and outcomes, the findings provide us a solid foundation for optimizing the STAR intervention in a subsequent optimization trial.",
-      "journal": "BMC nursing",
+      "abstract": "BACKGROUND: Patients with a wide range of sexual disorders are vulnerable to negative sexual well-being due to complications from breast cancer treatment. This study aimed to investigate the impact of sexual mindfulness-based training on the sexual well-being of women with breast cancer. METHODS: This randomized clinical trial was conducted in 2024 and involved a statistical population of women with breast cancer who had consulted comprehensive health service centers in Shahrekord, Iran. Among the referring women, 36 people were selected by convenience sampling. To investigate depression in the participants, the short-form Beck Depression Questionnaire was used, and 4 patients were excluded from the study due to severe depression. Then, the participants were randomly assigned to 2 study groups of 16 patients.Sexual mindfulness training was conducted in 8 sessions (90 minutes, once a week) for the intervention group at the reproductive and sexual health clinic in Shahrekord. Meanwhile, the control group was not subjected to planned intervention or training. A sexual well-being questionnaire was used to collect data for repeated measures analysis. Both groups were asked to complete the sexual well-being questionnaire before, immediately after, and 3 months after the intervention. Data were analyzed through independent samples T-test, analysis of covariance, and repeated measures analysis. RESULTS: The findings showed that there was no significant difference in sexual well-being between the intervention and control groups before the intervention (P\u2005=\u2005.29). Immediately after the intervention, sexual well-being significantly increased in the intervention group, from 39.33\u2005\u00b1\u200525.56 to 56.17\u2005\u00b1\u200522.29 (P\u2005<\u2005.001); however, the corresponding between-group comparison was not statistically significant (P\u2005=\u2005.11). Three months after the intervention, sexual well-being was significantly higher in the intervention group (66.42\u2005\u00b1\u200513.79) than in the control group (51.92\u2005\u00b1\u200520.62; P\u2005<\u2005.001). CONCLUSION: Sexual Mindfulness can be considered a therapeutic method in palliative care to improve sexual well-being in breast cancer patients.",
+      "journal": "Medicine",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -264,118 +111,52 @@
       "matched_keywords": []
     },
     {
-      "title": "Common Phenomenal and Neural Substrate Geometry in Visual Motion Perception.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925996/",
+      "title": "A Multilayer Visibility Graph Framework for Ultrashort-Term Analysis of Multichannel Physiological Signals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944531/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-24T00:00:00",
-      "date_fetched": "2026-10-26T17:49:49.007806",
-      "doi": "10.1016/j.neuroimage.2026.122313",
+      "date_published": "2026-10-21T00:00:00",
+      "date_fetched": "2026-10-27T16:59:20.484384",
+      "doi": "10.3390/s26206668",
       "authors": [
         {
-          "name": "Kallum Robinson",
+          "name": "Laura Lavezzo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ariel Zeleznikow-Johnston",
+          "name": "Anna Di Marco",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jiahao Wu",
+          "name": "Aleandra Viti",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yumiko Yoshimura",
+          "name": "Rebecca Ciacchini",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Naotsugu Tsuchiya",
+          "name": "Ciro Conversano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Enzo Pasquale Scilingo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mimma Nardelli",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "What is a possible physical substrate of the qualitative aspects of consciousness (qualia)? Answering this question is a central goal of consciousness research. Due to their subjective and ineffable nature, finding a quantitative way to characterise qualia from verbal description has thus far proven elusive. To overcome the challenge of expressing subjective experience, recent structural and relational approaches have been proposed from mathematics. Yet, as far as we know, no attempts have been made to evaluate the relationship between a certain structure of qualia and the structure of a candidate underlying physical substrate. Towards this ambitious goal of linking the structures of qualia and physical, we set out to make an empirical first step by focusing on experienced dissimilarity of visual motion in human participants and stimulus-evoked neural population response geometry recorded from mouse primary visual cortex. From human participants (N=171), we obtained dissimilarity ratings of visual motion experiences induced by 48 stimuli, spanning across 8 directions and 6 spatial frequencies. Analysis revealed a human dissimilarity structure that was not well captured by a simple monotonic function of physical motion-direction difference alone nor by a pure orientation-symmetry account. From nine individual mice, we recorded single-neuron activity (n=751) with optical imaging in both awake and lightly anaesthetised conditions (isoflurane 0.6-0.8%). From neuron population responses to a similar set of motion stimuli, we computed a distance matrix that is comparable to our human dissimilarity matrix. Quantitative analyses show structural commonalities between a human dissimilarity structure and mouse neural structure, where a categorical organisation of stimulus direction best explained both. These commonalities were similar in awake and anaesthetised recordings, suggesting that this coarse V1 geometry is relatively insensitive to this type of anaesthesia; future work combining behaviour with causal intervention is required to relate such neural structures to conscious experience. Finally, we list several empirical factors that can be improved to promote our qualia structure approach in the future.",
-      "journal": "NeuroImage",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Influence of Preoperative Virtual Reality on Preoperative State Anxiety in the Ambulatory Setting: The AMBLUMEEN Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42929532/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-26T00:00:00",
-      "date_fetched": "2026-10-26T17:49:49.007890",
-      "doi": "10.1213/ANE.0000000000008360",
-      "authors": [
-        {
-          "name": "Charles-Herv\u00e9 Vacheron",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Angelique Denis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sylvie Bin",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Muriel Rabilloud",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Florence Raynal",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arnaud Friggeri",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Preoperative anxiety affects 30% to 80 % of ambulatory surgery patients and is associated with increased anesthetic requirements, postoperative pain, and delayed recovery. Virtual reality (VR) is a promising nonpharmacological anxiolytic, but evidence remains limited in the ambulatory setting. METHODS: The AMBLUMEEN (AMBulatory LUMEEN) trial is a single-center, randomized, open-label, superiority trial conducted in an adult ambulatory surgery unit. Patients with moderate-to-severe preoperative anxiety (State-Trait Anxiety Inventory Form Y-A [STAI-YA] > 45) were randomized 1:1 to standard care alone (control) or standard care and a single 20-minute preoperative VR session (immersive 360\u00b0 natural contemplative scenes). The primary end point was the change in STAI-YA score from arrival in the ambulatory unit (baseline) to immediately before operating room transfer (presurgery), analyzed under the intention-to-treat principle with a linear mixed model. Secondary end points included preoperative benzodiazepine use, postoperative morphine requirement, unplanned overnight admission, patient satisfaction, and device acceptability. RESULTS: Of 106 randomized patients (53 per group) with a median [interquartile range] baseline STAI-YA of 49 [46-55] and 49 [46-58] respectively in the control and VR group, the VR group experienced a markedly greater reduction in state anxiety than controls. Adjusted mean between-group difference in STAI-YA change from baseline to presurgery was -18.7 95% confidence interval (CI) [-21.4 to -16.1] points in favor of VR. Although benzodiazepine requirement, postoperative pain, and unplanned overnight admission were comparable between groups, the morphine requirement in postanesthesia care unit was lower in the VR group (6/53 [11.3% 95% CI, 11.3 {4.3-23.0}] vs 0/53 [0.0%, 95% CI, {0.0-6.7}]; P = .027). Global perioperative satisfaction was high in both groups (median 8 [8-9] on 10). CONCLUSIONS: A single 20-minute session of medical-grade VR significantly reduced preoperative anxiety in ambulatory surgery patients, with high acceptability and an excellent safety profile.",
-      "journal": "Anesthesia and analgesia",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Implicit Self-Death Associations and Symptoms of Depression and Anxiety: A Single-Case Experimental Design.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921722/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-24T00:00:00",
-      "date_fetched": "2026-10-26T17:49:49.008073",
-      "doi": "10.1177/00332941261501010",
-      "authors": [
-        {
-          "name": "Radiah Maria Belak",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nicholas J Moberly",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Death anxiety may operate as a transdiagnostic process underlying anxiety and depressive symptoms. This study used the Death-Implicit Association Task (D-IAT) to index implicit self-death associations (ISDA) and evaluated a brief mindfulness intervention using a concurrent multiple-baseline design with maintenance across four students with prior anxiety/depressive diagnoses. Across 20 daily sessions, D-IAT D-scores and Mini-DASS depression and anxiety scores were collected. Visual analysis suggested reductions in depression and anxiety for several participants, with lower scores often persisting into maintenance. Casewise Tau-b patterns were heterogeneous. Exact randomisation tests showed a significant reduction in anxiety from baseline to intervention (",
-      "journal": "Psychological reports",
+      "abstract": "Recent advances in physiological sensing technologies enable continuous acquisition of multichannel biosignals for digital health applications. Because physiological interactions arise from nonlinear mechanisms, their characterization requires analytical approaches capable of capturing both individual signal dynamics and cross-signal dependencies, often from short recordings. This study proposes a multilayer visibility graph (VG) framework free of phase-space embedding parameters for analyzing physiological interactions from multichannel biosignals. The approach was evaluated in a simulation study based on unidirectionally coupled R\u00f6ssler oscillators and in two physiological datasets comprising synchronized cardiovascular recordings from healthy adults and wearable electrodermal activity (EDA) recordings acquired during a Mindfulness-Based Stress Reduction (MBSR) intervention. Average Degree (DA) was used to characterize the topological organization of individual and multiplex visibility graphs, while inter-layer mutual information (I) between degree sequences was introduced to quantify cross-layer dependence. In the simulation study, coupling-related changes in the response dynamics were already detectable from single-layer VGs at short window lengths, whereas inter-layer mutual information captured coupling-dependent changes in cross-layer organization. Feature estimates began to stabilize at approximately 480 samples and approached a plateau at longer window lengths. In the cardiovascular dataset, sex-related differences were primarily observed in configurations involving systolic blood pressure: DA differed in single-layer and multichannel representations, while inter-layer mutual information showed significant sex differences, specifically in the interbeat interval-systolic blood pressure duplex. In the EDA dataset, the proposed descriptors identified changes in trainer-trainee physiological organization across the MBSR intervention. These findings indicate that VG-based descriptors provide complementary information on within-signal topology and inter-layer dependence and can be applied to short multichannel physiological recordings without phase-space reconstruction.",
+      "journal": "Sensors (Basel, Switzerland)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -383,31 +164,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Did Substack Fix the Internet?",
-      "url": "https://www.newyorker.com/culture/infinite-scroll/did-substack-fix-the-internet",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-10-26T10:00:00",
-      "date_fetched": "2026-10-26T17:49:49.273648",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Kyle Chayka",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "A new book by Hamish McKenzie, the platform\u2019s co-founder, argues that writers today are more empowered than ever. But online newsletters form their own kind of attention economy.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
