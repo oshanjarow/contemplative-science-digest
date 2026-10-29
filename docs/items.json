@@ -1,108 +1,197 @@
 {
-  "generated_at": "2026-10-28T17:34:21.982614",
+  "generated_at": "2026-10-29T17:44:56.364427",
   "papers": [
     {
-      "title": "A Bio Inspired Mechanism for Early Stage Non-Cooperative UAV Intent Recognition",
-      "url": "https://www.semanticscholar.org/paper/b85325cc7c3ecfac6bc514a44fc0da1c52944b83",
+      "title": "Mind Your Heart-A Web-Based Dietary Approaches to Stop Hypertension Diet and Mindful Eating Intervention for Working Adults at Elevated Cardiovascular Risk: Pilot Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950223/",
       "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2025-10-31T00:00:00",
-      "date_fetched": "2026-10-28T17:33:37.980563",
-      "doi": "10.1109/asim67379.2025.11512660",
+      "source_type": "pubmed",
+      "date_published": "2026-10-28T00:00:00",
+      "date_fetched": "2026-10-29T17:44:45.112721",
+      "doi": "10.2196/106388",
       "authors": [
         {
-          "name": "Manrui Zheng",
-          "author_id": "2434485068",
+          "name": "Anita M Reina",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Bo-Wei Huang",
-          "author_id": "2276579303",
+          "name": "Heather M Padilla",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Haotian Wu",
-          "author_id": "2281573116",
+          "name": "Jenay M Beer",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Cheng Hu",
-          "author_id": "145805157",
+          "name": "Donglan S Zhang",
+          "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zhi-Fu Li",
-          "author_id": "2292305224",
+          "name": "Lisa M Renzi-Hammond",
+          "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "This paper presents a bio inspired visual method for detecting non-cooperative unmanned aerial vehicle (UAV) encounters using a computational model of the locust\u2019s Lobula Giant Movement Detector (LGMD). In constrained airspace where drones may operate without identification or communication (e.g., ADS-B), our approach enables early and reliable intent recognition using only monocular video. The LGMD path-way processes angular expansion (looming) cues from incoming objects and converts membrane potential dynamics into time-to-collision (TTC) estimates, distinguishing between cooperative behaviors (e.g., yielding, departing) and non-cooperative threats (e.g., persistent approaching). Extensive real world experiments with dual quadrotor engaged videos across six encounter scenarios demonstrate that the model responds robustly under varying illumination and resolution conditions. Results confirm that LGMD alone provides sufficient intent awareness for onboard decision making, offering a lightweight, communication-free solution to enhance UAV safety in non-cooperative environments.",
-      "journal": "2025 4th International Conference on Advanced Sensing, Intelligent Manufacturing (ASIM)",
-      "year": 2025,
+      "abstract": "BACKGROUND: The Dietary Approaches to Stop Hypertension Diet (DASH) diet supports heart health; yet, many find it difficult to follow in community settings. Mindful eating can improve adherence, but in-person programs are time-consuming and not always accessible. eHealth offers an accessible, scalable alternative that may increase engagement and compliance. OBJECTIVE: This study assessed the feasibility of a DASH eHealth program focused on mindful eating and the preliminary changes in eating behaviors, diet quality, and health outcomes. METHODS: Participants were recruited from a university workplace via email and flyers and randomly assigned to either a web-based DASH diet education program (Diet Only) or the Mind Your Heart (MYH) intervention. The MYH program included the same DASH curriculum plus additional mindful eating instruction, guided practice, and specific, measurable, achievable, realistic, and time frame (SMART) goal setting. Both interventions were fully asynchronous, self-guided, and lasted 6 weeks on the Desire2Learn (D2L) Brightspace platform, with no personalized coaching or counseling. Baseline and postintervention assessments involved in-person measurements of anthropometrics, blood pressure, and blood biomarkers. Participants recorded their diets electronically over 3 days using MyFitnessPal (MyFitnessPal, Inc) and completed validated questionnaires on mindful eating using the Mindful Eating Behaviors Scale (MEBS), eating behaviors using the Three-Factor Eating Questionnaire Revised 21-item (TFEQ-R21), motivation for regulated eating using the Regulated Eating Behaviors Scale (REBS), and perceived stress using the Perceived Stress Scale 10-item (PSS-10). During the intervention, automated ecological momentary assessments (EMAs) were sent electronically 3 times weekly to monitor eating behaviors in real time. RESULTS: Thirty-seven participants (mean BMI 31.93 SD 7.25, 34/37, 91.9% female, 31/37, 83.8% White) were randomized into groups. Among the 36 who remained enrolled, the mean curriculum completion was 85.9%, SD 21.4; 31 (86.1%) completed\u226560% of assigned content, and 32 (88.9%) completed at least half of the scheduled EMA prompts. Thirty-four participants attended the postintervention assessment and completed the questionnaires and the blood pressure assessment, although paired baseline and postintervention data were not available for all anthropometric measures and biomarkers. Participants reported no adverse events, and research staff observed none. Although no significant between-group differences were observed for DASH adherence, anthropometric measures, blood pressure, or cardiometabolic biomarkers, participants in the MYH group showed greater improvements than the Diet Only group in TFEQ-cognitive restraint (mean difference in change 0.39, 95% CI 0.06-0.72; Hedges  CONCLUSIONS: A fully asynchronous digital mindful eating plus DASH education intervention and associated research procedures were feasible among working adults at elevated cardiovascular risk. Preliminary changes in eating behaviors suggest that mindful eating warrants further evaluation, but findings should be interpreted cautiously given the small sample and feasibility design. Larger, adequately powered randomized controlled trials are needed.",
+      "journal": "JMIR formative research",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": [
-        "non-dual awareness"
-      ]
+      "matched_keywords": []
     },
     {
-      "title": "Full title: A Focus Group Study Exploring Mindfulness and Healthy Behaviors among Black Women.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42944988/",
+      "title": "Brief Mindfulness Training Influences Daily Life Stress Among Emerging Adults Exposed to Childhood Trauma: A Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950149/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-27T00:00:00",
-      "date_fetched": "2026-10-28T17:34:21.005463",
-      "doi": "10.1007/s40615-026-03249-8",
+      "date_published": "2026-10-28T00:00:00",
+      "date_fetched": "2026-10-29T17:44:55.569769",
+      "doi": "10.1097/PSY.0000000000001542",
       "authors": [
         {
-          "name": "Belinda O'Hagan",
+          "name": "Emily K Lindsay",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sugandha K Gupta-Louis",
+          "name": "Carissa A Low",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Michael Onu",
+          "name": "Sydney Damon",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tayla von Ash",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Briana Roberts",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Selena Evora",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Khiara Makayla Lee",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kayla Kinsler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Patricia Markham Risica",
+          "name": "Anna L Marsland",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVES: Despite documented benefits of mindfulness related to stress reduction and health promotion, participation among Black women is relatively low. To understand factors influencing the acceptability and potential uptake of mindfulness-based interventions among Black women, formative research is essential to determine whether promoting mindfulness for Black women could foster engagement in healthy behaviors. The current study aims to understand the perspectives of Black women regarding the use of mindfulness to promote healthy behaviors. METHODS: Five semi-structured focus groups involving Black women (n\u2009=\u200937, Mean Age\u2009=\u200954 years) in Rhode Island and Virginia were conducted to elicit perceptions of mindfulness as a stress-management tool. Focus group transcripts were analyzed using an abductive approach informed by Minority Stress Theory. RESULTS: Participants distinguished between recommended behaviors and what is feasible, often due to experiences of stress. While many stressors were general and not specific to one's identity, others were directly connected to having a minoritized identity. When asked about their engagement of mindfulness techniques to manage stress and engage in healthy behaviors, participants reported a variety of responses, ranging from no interest at all to already having integrated mindfulness-based strategies. CONCLUSIONS: Recommendations for a mindfulness-based intervention for Black women included having representation of women of color running the program and considering time limitations due to conflicting demands. While there are barriers to a healthy lifestyle for Black women, results from this study suggest that potential acceptability and perceived usefulness of mindfulness-based strategies among some participants. The effectiveness of such intervention should be assessed as future research.",
-      "journal": "Journal of racial and ethnic health disparities",
+      "abstract": "OBJECTIVE: Childhood trauma is thought to program biological adaptations to stress that confer lifelong health risk. Mindfulness interventions have improved mental health among adults exposed to childhood trauma, but whether they can offset physical health risk is unknown. This trial evaluated effects of mindfulness and coping interventions on daily life stress processes in this population. METHODS: Eighty-one emerging adults who recalled physical, emotional, or sexual abuse in childhood were randomly assigned to a two-week remote mindfulness or coping comparison intervention. They provided daily life stress (momentary and day-level perceived stress and stressful events) and heart rate data for one week at pre-intervention, post-intervention, and one-month follow-up. Multilevel models tested for time \u00d7 condition effects. RESULTS: Across conditions, participants reported fewer stressful events over time (ps<.001), with larger effects following mindfulness training. Mindfulness participants reported higher stress perceptions from pre- to post-intervention relative to coping (momentary: d=.26, P=.002; daily: d=.44, P=.005), effects that were weaker at follow-up (momentary: d=.20, P=.015; daily: d=.19, P=.23). Increases in perceived stress following mindfulness training were more pronounced at higher levels of childhood abuse severity. In contrast, mindfulness participants showed relatively lower heart rate during moments of stress compared to coping participants from pre- to post-intervention (d=.62, P=.004). CONCLUSIONS: Brief mindfulness training alters stress processes among adults who recall childhood trauma, reducing stressful events and physiological reactivity while intensifying stress perceptions. Results suggest the possibility that brief mindfulness training increases awareness and reduces emotional avoidance of stress experience. Further work is warranted to examine mindfulness intervention effects on stress-related health trajectories in trauma-exposed populations.",
+      "journal": "Biopsychosocial science and medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Prefrontal Cortical Changes With Mindfulness-Oriented Recovery Enhancement in Opioid Use Disorder: A Randomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949709/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-28T00:00:00",
+      "date_fetched": "2026-10-29T17:44:55.569876",
+      "doi": "10.1001/jamapsychiatry.2026.3388",
+      "authors": [
+        {
+          "name": "Yuefeng Huang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ahmet O Ceceli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Greg Kronberg",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "K Rachel Drury",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sarah G King",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Natalie E McClain",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yui Ying Wong",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Maggie Boros",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eduardo R Butelman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Pierre-Olivier Gaudreault",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Muhammad A Parvaz",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nelly Alia-Klein",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric L Garland",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rita Z Goldstein",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "IMPORTANCE: Despite decades of clinical implementation of medications for opioid use disorder (OUD), overdose mortality rates remain high, underscoring a critical need for interventions that target the brain mechanisms underlying addiction. OBJECTIVE: To assess the neural mechanisms of Mindfulness-Oriented Recovery Enhancement (MORE) and their associations with clinical outcomes, including craving and abstinence duration. DESIGN, SETTING, AND PARTICIPANTS: This randomized clinical trial was conducted from November 2020 to September 2024 among individuals with OUD recruited from an inpatient rehabilitation facility in New York and randomized to MORE or psychoeducational supportive therapy (PST). Data were analyzed from October 2024 to August 2026. INTERVENTIONS: Treatment with MORE (comprising training in mindfulness, drug cue reappraisal, and savoring positive experiences) or PST (active control condition) across 8 weekly 2-hour group sessions. MAIN OUTCOMES AND MEASURES: Outcomes included treatment-related changes in functional magnetic resonance imaging (fMRI) blood oxygen level-dependent signal (primary), abstinence length (secondary), and cue-induced craving (secondary). RESULTS: Drug cue reactivity task analyses included 59 participants (MORE, n\u2009=\u200924; 5 women [20.8%]; mean [SD] age, 43.6 [11.3] years; PST, n\u2009=\u200935; 8 women [22.9%]; mean [SD] age, 42.8 [10.0] years). Movie-watching and follow-up analyses were conducted in subsets of 37 (MORE, n\u2009=\u200918; PST, n\u2009=\u200919) and 38 participants (MORE, n\u2009=\u200913; PST, n\u2009=\u200925), respectively. Compared with PST, MORE reduced drug-biased activity in the middle frontal gyrus and other brain areas, including the precuneus, during downregulation of responses to drug cues relative to upregulation of responses to natural reward cues (even when controlling for passive cue viewing; z\u2009>\u20093.1; P\u2009<\u2009.05). The shift from drug to natural reward responses in the lateral and ventromedial prefrontal cortex (PFC) was associated with lower cue-induced craving exclusively in the MORE group (z\u2009>\u20093.1; P\u2009<\u2009.05). Relative to PST, MORE also reduced medial PFC synchronization to naturalistic drug-related movie scenes (q\u2009=\u20090.019) and significantly extended abstinence duration at follow-up (approximately 4 months posttreatment; \u03c72\u2009=\u20096.7; P\u2009=\u2009.04; Cohen w\u2009=\u20090.19). CONCLUSIONS AND RELEVANCE: This neuroimaging randomized clinical trial demonstrates that MORE may restructure function in PFC nodes of the reward, salience, and control networks, positioning it as a biologically grounded adjunct to pharmacotherapy for OUD. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04112186.",
+      "journal": "JAMA psychiatry",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Perceived benefits and challenges of the use of immersive virtual reality Tai Chi by older Chinese and Korean immigrants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949708/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-12-31T00:00:00",
+      "date_fetched": "2026-10-29T17:44:55.569922",
+      "doi": "10.1080/17482631.2026.2732302",
+      "authors": [
+        {
+          "name": "Yongseop Kim",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Junhyoung Kim",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Older Asian immigrants encounter challenges that limit access to healthcare services and experience physical inactivity that can exacerbate psychological distress. Virtual reality offers a promising technology for delivering mindfulness and physical activity interventions that promote body awareness and physical fitness. OBJECTIVE: The goal of this study was to explore the perceived benefits, challenges, and cultural relevance of IVTC program use by older Chinese and Korean immigrants. METHODS: Semi-structured interviews were conducted with 19 participants following their participation in a four-week IVTC intervention. Data were analyzed using comparative thematic analysis, and data trustworthiness was ensured through member checking and reflexive processes. RESULTS: Reported health benefits were grouped into four main subthemes: (1) enhanced physical functioning and balance, (2) cognitive stimulation, (3) mental and emotional wellbeing, and (4) convenience accessibility. Reported challenges were grouped into three subthemes, including: (1) balance and coordination difficulties, (2) physical discomfort from headsets, and (3) the need for extended VR technology use instruction. Participants also discussed the cultural relevance of Tai Chi and their openness to integrating VR into their daily routine. CONCLUSION: The findings of this study highlight the potential feasibility and acceptability of IVTC use for enhancing the health and engagement of older Asian immigrants.",
+      "journal": "International journal of qualitative studies on health and well-being",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
