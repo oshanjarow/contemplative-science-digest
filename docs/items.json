@@ -1,42 +1,727 @@
 {
-  "generated_at": "2026-10-29T17:44:56.364427",
+  "generated_at": "2026-10-30T17:24:44.944037",
   "papers": [
     {
-      "title": "Mind Your Heart-A Web-Based Dietary Approaches to Stop Hypertension Diet and Mindful Eating Intervention for Working Adults at Elevated Cardiovascular Risk: Pilot Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950223/",
+      "title": "Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation.",
+      "url": "https://www.semanticscholar.org/paper/99f03f48f831dc9d3c6785ee714d1588ce5692e9",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-10-28T00:00:00",
-      "date_fetched": "2026-10-29T17:44:45.112721",
-      "doi": "10.2196/106388",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-01T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613225",
+      "doi": "10.1093/cercor/bhaf079",
       "authors": [
         {
-          "name": "Anita M Reina",
+          "name": "Umay Demir",
+          "author_id": "2354992223",
+          "affiliation": null
+        },
+        {
+          "name": "W. F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "There is growing scientific interest in advanced meditation, and particularly the Theravada Buddhist advanced concentrative absorption meditation known as jhana (ACAM-J). ACAM-J includes a series of eight consecutive meditative states, which are radically altered states of consciousness. The neuroscience of ACAM-J, specifically brain reorganization, remains underspecified in part due to the difficulty of finding and studying expert ACAM-J meditators and challenges related to laboratory investigation of ACAM-J. Using a nonlinear dimensionality reduction technique applied to human functional neuroimaging in an intensive case study, we investigated brain reorganization during ACAM-J. We applied linear mixed models and correlations to explore relations among brain reorganization and ACAM-J phenomenology. Results demonstrated that ACAM-J induces disruption of the hierarchical organization of the brain by shifting the gradients toward a more globally integrated rather than segregated state between sensory-related and higher-order cognitive regions. Additionally, ACAM-J induces a separation between sensory-related and attention modulation-related regions, resulting in greater differentiation in functional organization of these regions, consistent with phenomenological reports. This study highlights the need for further research into brain reorganization and health-related implications of both short-term and long-term practice of ACAM-J. Key points/highlights The neuroscience of advanced concentrative absorption meditation (ACAM) has the potential to improve our knowledge of well-being and altered states of consciousness but remains underexplored due to methodological challenges. We investigated functional reorganization of the brain during ACAM-J using gradient analysis and demonstrated that ACAM-J disrupts the hierarchical organization of the brain during meditation. Additionally, we demonstrated that ACAM-J increases differentiation between primary sensory areas and areas related to attention modulation.",
+      "journal": "Cerebral Cortex",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "The neuroscience of highly stable, positive, and refined states of consciousness during jhana-type advanced concentration absorption meditation (ACAM-J)",
+      "url": "https://www.semanticscholar.org/paper/2ae932b7cbd238d53e72489f48775b4f43f40e15",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-13T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613243",
+      "doi": "10.1101/2025.11.12.688050",
+      "authors": [
+        {
+          "name": "W. F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
+          "affiliation": null
+        },
+        {
+          "name": "Grace Mackin",
+          "author_id": "2387320843",
+          "affiliation": null
+        },
+        {
+          "name": "Isidora Beslic",
+          "author_id": "2387311693",
+          "affiliation": null
+        },
+        {
+          "name": "Marta Bianciardi",
+          "author_id": "2253552101",
+          "affiliation": null
+        },
+        {
+          "name": "T. Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Humans can experience a rich array of conscious experience, including highly stable, positive, and refined states of non-ordinary perception that can be elicited through advanced meditation. Here, we present the first group-level, ultra\u2013high-field (7T) fMRI study of jhana advanced concentration absorption meditation (ACAM-J). We combined local (regional homogeneity), mesoscale (connectivity gradients), and global (geometric eigenmodes) human brain mapping with diverse and detailed phenomenology, meditative traits, behaviorally assessed cognitive functions, and extensive publicly available psychobehavioral affinity maps. Across eight successive states of ACAM-J, we observed reproducible neural trajectories marked by anterior-to-posterior reorganization, flattening of cortical hierarchies, nonlinear reconfiguration of global harmonics, and tight coupling between brain metrics and equanimity, attentional stability, and behavior. Neurosynth decoding further associate ACAM-J with reduced suffering-related processes and more with attentional monitoring. These findings suggest ACAM-J is a distinct, structured mode of awareness that persists despite radically reduced narrative thought and sensory content. Our findings also inform boundary conditions for current models of consciousness. More broadly, this research indicates that advanced meditation is a powerful framework for understanding psychological transformation, and for potential new opportunities for supporting human well-being and flourishing.",
+      "journal": "bioRxiv",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Whole-Brain Models of Advanced Concentrative Absorption Meditation: Approaching Critical Dynamics through Jh\u0101na",
+      "url": "https://www.semanticscholar.org/paper/16a07e413185b273da8517b627079fc181deaa6b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-29T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613260",
+      "doi": "10.1101/2025.09.25.678574",
+      "authors": [
+        {
+          "name": "J. Vohryzek",
+          "author_id": "52033010",
+          "affiliation": null
+        },
+        {
+          "name": "E. Lopez-Sola",
+          "author_id": "2047957413",
+          "affiliation": null
+        },
+        {
+          "name": "W. F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Perl",
+          "author_id": "2889679",
+          "affiliation": null
+        },
+        {
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
+          "affiliation": null
+        },
+        {
+          "name": "R. Laukkonen",
+          "author_id": "8103511",
+          "affiliation": null
+        },
+        {
+          "name": "T. Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "M. Kringelbach",
+          "author_id": "2277456007",
+          "affiliation": null
+        },
+        {
+          "name": "Giulio RufJini",
+          "author_id": "2446389801",
+          "affiliation": null
+        },
+        {
+          "name": "G. Deco",
+          "author_id": "2263750702",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Advanced meditation offers a powerful lens for investigating consciousness and for understanding how sustained training may contribute to human flourishing. In the spirit of neurophenomenology, we combine first-person reports with model-free empirical analyses and formal whole-brain modeling to investigate the mechanisms underlying advanced meditative states and minimal phenomenal experience (MPE). Specifically, we focus on jh\u0101na meditation, a type of advanced concentrative absorption meditation (ACAM-J). Advanced practitioners accessed the eight ACAM-J states during ultra-high-field 7T functional magnetic resonance imaging. For each state, we first characterize empirical functional connectivity and then build a mechanistic whole-brain model that reproduces brain activity by modeling the dynamical regimes of different brain networks. We found that the later ACAM-J states, taken here as candidates for MPE, show increased large-scale functional integration and a shift of functional network dynamics toward near-critical working points. The default mode network (DMN) exhibits the largest shift, from a distant noise-driven regime during the control condition to near-critical dynamics during ACAM-J. We also observed that the trajectory of ACAM-J states is non-linear, with prominent reconfigurations at key meditative milestones. Our results suggest that MPE, as instantiated in later ACAM-J states, corresponds to a globally susceptible state where near-critical dynamics dominate. We interpret this near-critical regime as a form of \u201copenness\u201d, in which constrained and differentiated patterns of brain activity give way to greater flexibility. In particular, increased DMN susceptibility is correlated with broader attention and reduced narrative thought, consistent with a more 8lexible mode of self-related processing. In this context, advanced meditation provides a powerful model for studying how sustained contemplative practice can profoundly shape brain dynamics and provide a window into core aspects of consciousness.",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Electroencephalogram recordings in Jhana states: An open dataset",
+      "url": "https://www.semanticscholar.org/paper/4df6aadb219e5bcd2b03acbbd17be7bf229bc035",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-07-02T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613276",
+      "doi": "10.64898/2026.06.27.734949",
+      "authors": [
+        {
+          "name": "M. Fabus",
+          "author_id": "1393227651",
+          "affiliation": null
+        },
+        {
+          "name": "Stephen Zerfas",
+          "author_id": "2447416038",
+          "affiliation": null
+        },
+        {
+          "name": "Alex Gruver",
+          "author_id": "2447416024",
+          "affiliation": null
+        },
+        {
+          "name": "Maria E. Fini",
+          "author_id": "51016696",
+          "affiliation": null
+        },
+        {
+          "name": "Tamaz Gadaev",
+          "author_id": "2349654180",
+          "affiliation": null
+        },
+        {
+          "name": "Kathryn J. Devaney",
+          "author_id": "34200366",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The use of meditation as a tool to improve human wellbeing is receiving considerable scientific interest. However, most existing research has focused on concentration-based practices. One powerful alternative is jhana meditation, which leads to states characterised by self-reinforcing bliss, potentially useful for a variety of clinical and scientific domains. However, our understanding of these states is limited by small amounts of data and poor access to experts. To enable new insights, here we release the largest to date and first open-access dataset of electroencephalographic and physiological recordings in expert Jhana meditators. This includes 100+ hours of data in N=26 subjects across three retreats, alongside a detailed description and example code illustrating analysis of the data. This open dataset release can enable wider collaboration and has the potential to move us closer to an understanding of endogenously generated altered states of consciousness.",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Machine Learning-Based Classification of Jhana Advanced Concentrative Absorption Meditation Using 7 Tesla Functional Magnetic Resonance Imaging",
+      "url": "https://www.semanticscholar.org/paper/9d17a3b026af4a24e8575b012b857555fa9dbe5a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-13T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613283",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Puneet Kumar",
+          "author_id": "2291199974",
+          "affiliation": null
+        },
+        {
+          "name": "W. F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "Alakhsimar Singh",
+          "author_id": "2322617111",
+          "affiliation": null
+        },
+        {
+          "name": "Xiao-Bai Li",
+          "author_id": "2266423066",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Introduction: Jhana advanced concentrative absorption meditation (ACAM-J) involves profound changes in consciousness, making its neural correlates important for understanding consciousness and well-being. Prior neuroimaging has relied on univariate, group-level contrasts, leaving open whether ACAM-J carries distributed neural signatures decodable from individual scans. This study evaluates whether fMRI-derived regional homogeneity (ReHo) can classify ACAM-J using machine learning. Methods: We analysed 7T fMRI data from 20 advanced meditators who progressed through their standard ACAM-J sequence and two matched control tasks, plus intensive data from one case-study participant held out for final evaluation. ReHo maps were computed per segment and parcellated into 498 regions spanning cortex, subcortex, brainstem, and cerebellum. Within subject-wise stratified cross-validation, feature ranking, recursive feature elimination, and class balancing were applied to training data only; six classifier families were fitted, and the top three per contrast were combined by probability averaging. Results: Across 19 binary comparisons, the ensemble reached an overall average accuracy of 65.87% before and 66.82% after regressing out phenomenology-related variance, with an average Cohen's \\k{appa} of 0.2443. Discrimination was strongest for the most separated states (ACAM-J1 vs ACAM-J6, 74.33% accuracy, \\k{appa} = 0.5158), while adjacent states were harder to separate. Prefrontal and anterior cingulate areas contributed most to model decisions. Conclusion: ReHo patterns measured at 7T carry information distinguishing ACAM-J from control states and, more modestly, from one another, supporting the feasibility of multivariate decoding of advanced meditation and informing future work on its mechanisms and neuromodulation.",
+      "journal": "",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Meditative absorption shifts brain dynamics toward criticality",
+      "url": "https://www.semanticscholar.org/paper/02fcf03c54a3cdf126ecf6e8ce50bb9c7c5f297c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-26T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613297",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Jonas Mago",
+          "author_id": "2197573141",
+          "affiliation": null
+        },
+        {
+          "name": "Josh Brahinsky",
+          "author_id": "2334544889",
+          "affiliation": null
+        },
+        {
+          "name": "Mark Miller",
+          "author_id": "2334570883",
+          "affiliation": null
+        },
+        {
+          "name": "C. Maschke",
+          "author_id": "2008738115",
+          "affiliation": null
+        },
+        {
+          "name": "H. Slagter",
+          "author_id": "1743265",
+          "affiliation": null
+        },
+        {
+          "name": "Shaila Catherine",
+          "author_id": "2334545320",
+          "affiliation": null
+        },
+        {
+          "name": "R. Laukkonen",
+          "author_id": "8103511",
+          "affiliation": null
+        },
+        {
+          "name": "B. Cahn",
+          "author_id": "2351709950",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        },
+        {
+          "name": "Wangmo Dixey",
+          "author_id": "2394308728",
+          "affiliation": null
+        },
+        {
+          "name": "Richard Dixey",
+          "author_id": "2289119174",
+          "affiliation": null
+        },
+        {
+          "name": "S. Rej",
+          "author_id": "5304780",
+          "affiliation": null
+        },
+        {
+          "name": "Michael Lifshitz",
+          "author_id": "2334546490",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Criticality describes a regime between order and chaos that supports flexible yet stable information processing. Here we examine whether neural dynamics can be volitionally shifted toward criticality through the self-regulation of attention. We examined ten experienced practitioners of meditation during a 10-day retreat, comparing refined states of meditative absorption, called the jhanas, to regular mindfulness of breathing. We collected electroencephalography (EEG) and physiological data during these practices and quantified the signal's dynamical properties using Lempel-Ziv complexity, signal entropy, chaoticity and long-range temporal correlations. In addition, we estimated perturbational sensitivity using a global auditory oddball mismatch negativity (MMN) during meditation. Relative to mindfulness, jhana was associated with pronounced self-reported sensory fading, slower respiration, higher neural signal diversity across multiple measures, reduced chaoticity, and enhanced MMN amplitude over frontocentral sites. Spectral analyses showed a flatter aperiodic one over f component and a frequency-specific reorganization of long-range temporal correlations. Together, increased diversity with reduced chaoticity and heightened deviance detection indicate a shift toward a metastable, near-critical regime during jhana. We propose an overlap of the phenomenology of jhana with minimal phenomenal experiences in terms of progressive attenuation of sensory content with preserved tonic alertness. Accordingly, our findings suggest that criticality is a candidate neurophysiological marker of the absorptive, minimal-content dimension of the minimal phenomenal experience.",
+      "journal": "",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Samatha Bh\u0101van\u0101: Studi Komprehensif Teknik Pengembangan Ketenangan, Hambatan, dan Pencapaian Batin",
+      "url": "https://www.semanticscholar.org/paper/41b6f1222ce825ddee3355fb713fc77626d5a5c1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-16T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613319",
+      "doi": "10.70292/jpcp.v4i1.330",
+      "authors": [
+        {
+          "name": "Aleks Effendi",
+          "author_id": "2423467717",
+          "affiliation": null
+        },
+        {
+          "name": "Julia Surya",
+          "author_id": "2005871915",
+          "affiliation": null
+        },
+        {
+          "name": "Rahayu Arna Vidiya",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Heather M Padilla",
+          "name": "Enten Widya Putri",
+          "author_id": "2467920414",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Penelitian ini bertujuan untuk mengkaji secara komprehensif praktik Samatha Bh\u0101van\u0101 sebagai metode pengembangan ketenangan batin dalam tradisi Buddhis Therav\u0101da, dengan fokus pada teknik pelaksanaan, hambatan, serta pencapaian batin yang dihasilkan. Penelitian ini menggunakan pendekatan kualitatif dengan metode studi kepustakaan terhadap teks-teks klasik seperti Visuddhimagga dan Tipi\u1e6daka (edisi PTS), serta didukung oleh kajian ilmiah kontemporer dalam bidang psikologi dan neuroscience. Hasil penelitian menunjukkan bahwa Samatha Bh\u0101van\u0101 merupakan praktik meditasi yang sistematis dan bertahap, dimulai dari pemilihan objek meditasi berdasarkan carita (karakter mental), pengembangan konsentrasi melalui kemunculan nimitta, hingga pencapaian jh\u0101na sebagai puncak konsentrasi. Selain itu, penelitian ini mengidentifikasi adanya hambatan utama dalam praktik meditasi yang terbagi menjadi n\u012bvara\u1e47a (hambatan internal) dan palibodha (hambatan eksternal), yang secara signifikan mempengaruhi kualitas konsentrasi. Keberhasilan praktik sangat ditentukan oleh kemampuan praktisi dalam mengelola hambatan tersebut secara simultan. Lebih lanjut, pencapaian lanjutan dalam Samatha Bh\u0101van\u0101 mencakup penguasaan meditasi (vas\u012b) dan perkembangan kesadaran tingkat tinggi (abhi\u00f1\u00f1\u0101), yang menunjukkan optimalisasi fungsi mental dan stabilitas batin. Penelitian ini menegaskan bahwa Samatha Bh\u0101van\u0101 tidak hanya memiliki landasan filosofis yang kuat, tetapi juga relevan dengan temuan ilmiah modern terkait peningkatan perhatian, regulasi emosi, dan kesejahteraan psikologis. Dengan demikian, praktik ini memiliki potensi besar untuk diintegrasikan dalam konteks pendidikan dan kesehatan mental.",
+      "journal": "Jurnal Pustaka Cendekia Pendidikan",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Peace and the Unconditioned: Nibb\u0101na as the Supreme Pacification",
+      "url": "https://www.semanticscholar.org/paper/4caad192d5a0dbd3241bf4fba341316504145da0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-31T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613331",
+      "doi": "10.36948/ijfmr.2025.v07i05.59253",
+      "authors": [
+        {
+          "name": "Kelasa",
+          "author_id": "2391628639",
+          "affiliation": null
+        },
+        {
+          "name": "Vivek Kumar",
+          "author_id": "2458323804",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Abstract\nThis article argues that early Buddhist discourse in the Sutta Pi\u1e6daka construes peace not as mere emotional calm or social quietism but as the pacification (upasama) that culminates in nibb\u0101na, the unconditioned. Reading key formulae \u201cnibb\u0101na\u1e41 parama\u1e41 sukha\u1e41,\u201d \u201cstilling of all formations\u201d (sabbasa\u1e45kh\u0101rasamatho), and epithets such as santi (peace) and khema (security) the study clarifies how \u201csupreme happiness\u201d denotes qualitative freedom from affliction rather than hedonic pleasure. It maps the semantic field of peace within the soteriological sequence nibbid\u0101 vir\u0101ga nirodha upasama/vimutti, and shows how the path functions as a technology of pacification: ethical discipline (s\u012bla) removes remorse and fear, concentration (sam\u0101dhi/jh\u0101na) stills the hindrances and unifies attention, and insight (vipassan\u0101) discloses anicca\u2013dukkha anatt\u0101, deconstructing craving and clinging. The article addresses common misreadings (nihilism, quietism) and proposes that the Nik\u0101yas present peace as the non-arising of stress grounded in dependent origination\u2019s cessation, with practical implications for contemplative training and communal concord.",
+      "journal": "International Journal For Multidisciplinary Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Technical Evaluation of the Smart Water Jug-Plastic Bottle Disposal System",
+      "url": "https://www.semanticscholar.org/paper/03f63697708b7a40090fba0abfae18b33c91c875",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-10-22T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613377",
+      "doi": "10.38124/ijisrt/26oct215",
+      "authors": [
+        {
+          "name": "Arriza Murl L. Azur",
+          "author_id": "2517710786",
+          "affiliation": null
+        },
+        {
+          "name": "Kia S. Bera\u00f1a",
+          "author_id": "2517705138",
+          "affiliation": null
+        },
+        {
+          "name": "H. Delima",
+          "author_id": "95667734",
+          "affiliation": null
+        },
+        {
+          "name": "Jasmin Mart\u00ednez",
+          "author_id": "2386935311",
+          "affiliation": null
+        },
+        {
+          "name": "Ailene M. Milagrosa",
+          "author_id": "2517693336",
+          "affiliation": null
+        },
+        {
+          "name": "Donita Mae M. Panuelos",
+          "author_id": "2517701192",
+          "affiliation": null
+        },
+        {
+          "name": "Amyiel Enrico D. Rebueno",
+          "author_id": "2517710011",
+          "affiliation": null
+        },
+        {
+          "name": "Camilla Jean B. Salcedo",
+          "author_id": "2517693762",
+          "affiliation": null
+        },
+        {
+          "name": "Christel Jhana M. Tacadino",
+          "author_id": "2517719958",
+          "affiliation": null
+        },
+        {
+          "name": "John Allen B. Valde",
+          "author_id": "2517702177",
+          "affiliation": null
+        },
+        {
+          "name": "Jessa Mae L. Caletisen",
+          "author_id": "2517697501",
+          "affiliation": null
+        },
+        {
+          "name": "Xenia S. Baesa-Alfelor",
+          "author_id": "2258255196",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study evaluated the technical performance and behavioral impact of the Smart Water Jug\u2013Plastic Bottle Disposal System (SWJ \u2013 PBDS) as a strategy at Ocampo National High School \u2013 Senior High School (ONHS-SHS). The research addressed the escalating issue of plastic waste, focusing on reducing plastic bottle consumption through innovative smart sensor technology. The study employs a mixed-methods approach, combining descriptive and quasi-experimental designs. The descriptive component details the system\u2019s characteristics via surveys, gathering data on user experiences and operational aspects. The quasi-experimental component assesses the system\u2019s impact on waste management outcomes using a pre-test and post-test survey to compare waste reduction before and after the implementation of the research product.",
+      "journal": "International Journal of Innovative Science and Research Technology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Professionalism and Growth Pathways of Education Graduates: The Contribution of Work Experience",
+      "url": "https://www.semanticscholar.org/paper/8d39e44f816eabfb0417c53d7822f773357b850a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-10-26T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613386",
+      "doi": "10.70838/jasaam.010610",
+      "authors": [
+        {
+          "name": "Shiela Mae Tradio",
+          "author_id": "2522449882",
+          "affiliation": null
+        },
+        {
+          "name": "Chrisle Amores",
+          "author_id": "2522486176",
+          "affiliation": null
+        },
+        {
+          "name": "Jaisel Meldwin Bragat",
+          "author_id": "2522452207",
+          "affiliation": null
+        },
+        {
+          "name": "Ron Christian Bugarin",
+          "author_id": "2522472958",
+          "affiliation": null
+        },
+        {
+          "name": "Mark Daniel Coniaberos",
+          "author_id": "2522452242",
+          "affiliation": null
+        },
+        {
+          "name": "Jhana Marie Cosep",
+          "author_id": "2522473239",
+          "affiliation": null
+        },
+        {
+          "name": "John Jeshua Lagman",
+          "author_id": "2522452364",
+          "affiliation": null
+        },
+        {
+          "name": "Chynna Mae Marca",
+          "author_id": "2522449937",
+          "affiliation": null
+        },
+        {
+          "name": "Princess Angel Pagador",
+          "author_id": "2522473183",
+          "affiliation": null
+        },
+        {
+          "name": "Laiza Paquibot",
+          "author_id": "2522449853",
+          "affiliation": null
+        },
+        {
+          "name": "Kesiah Pearl Tampus",
+          "author_id": "2522474277",
+          "affiliation": null
+        },
+        {
+          "name": "Denise Anne Tumulak",
+          "author_id": "2522474233",
+          "affiliation": null
+        },
+        {
+          "name": "Nonita Legaspi",
+          "author_id": "2174259769",
+          "affiliation": null
+        },
+        {
+          "name": "Kimberly Toring",
+          "author_id": "2364251838",
+          "affiliation": null
+        },
+        {
+          "name": "E. Toring",
+          "author_id": "2364269103",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The professionalism and career growth pathways of education graduates from Indiana Aerospace University and private schools in Lapu-Lapu City between 2021 and 2025. Anchored in Kolb\u2019s Experiential Learning, Bandura\u2019s Social Learning, and Super\u2019s Career Development theories, it explores how practical work experience enhances graduates\u2019 teaching competencies, professional ethics, and career development. The research employed a quantitative descriptive design with 100 respondents comprising education graduates from Indiana Aerospace University and private schools in Lapu-Lapu City, selected through stratified random sampling. Data were collected via structured questionnaires distributed through Google Forms, focusing on respondents\u2019 profiles, work experience, professionalism, growth, and encountered challenges. Findings show that education graduates strongly agree on the vital role of work experience in developing practical skills, professional conduct, confidence, and continuous learning opportunities. Graduates report that hands-on experience positively influences their problem-solving abilities, adaptability, and clarity in career goals. However, significant challenges include poor professionalism among colleagues, inconsistent professional behavior, lack of support for growth, and limited career advancement opportunities, which adversely impact the work environment and motivation. The study concludes that work experience is pivotal in fostering professionalism and career growth in education graduates, reinforcing practical training and ongoing professional development. Recommendations include implementing clear professional standards, enhancing support for growth initiatives, and establishing career advancement pathways to address identified problems. The proposed action plan aims to promote a positive work environment, ethical conduct, and sustained professional development, ultimately improving educational outcomes and graduate employability.",
+      "journal": "Journal of Advanced Studies in Aviation, Aerospace, and Management",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "Investigating the complex cortical dynamics of an advanced concentrative absorption meditation called jhanas (ACAM-J): a geometric eigenmode analysis.",
+      "url": "https://www.semanticscholar.org/paper/4b032b240bb95f16d42d1b39e9f89b38ac518ff8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-01T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613398",
+      "doi": "10.1093/cercor/bhaf039",
+      "authors": [
+        {
+          "name": "Ruby M. Potash",
+          "author_id": "2288190891",
+          "affiliation": null
+        },
+        {
+          "name": "W. F. Z. Yang",
+          "author_id": "2300816450",
+          "affiliation": null
+        },
+        {
+          "name": "Brian S Winston",
+          "author_id": "2384082077",
+          "affiliation": null
+        },
+        {
+          "name": "S. Atasoy",
+          "author_id": "35189762",
+          "affiliation": null
+        },
+        {
+          "name": "M. Kringelbach",
+          "author_id": "1988969",
+          "affiliation": null
+        },
+        {
+          "name": "T. Sparby",
+          "author_id": "51294643",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Advanced meditation has been associated with long- and short-term psychological changes such as bliss, profound insight, and transformation of well-being. However, most advanced meditation neuroimaging analyses have implemented primarily spatially-localized approaches, focusing on discrete regional changes in activity rather than distributed dynamics. The present study uses a geometric eigenmode decomposition of ultrahigh field-strength 7T functional magnetic resonance imaging (fMRI) data from an intensely sampled case study to investigate the complex, distributed cortical dynamics associated with advanced concentrative absorption meditation. Geometric eigenmode decomposition of advanced concentrative absorption meditation and non-meditative control task fMRI data revealed elevated global brain state power and energy patterns of specific advanced concentrative absorption meditation states compared to controls, with mid-frequency spectrum brain state power and energy following a non-random, cubic trajectory through the advanced concentrative absorption meditation sequence. Further, these brain state differences were meaningfully associated with subjective phenomenological reports of attention, intensity of advanced concentrative absorption meditation quality, and sensations. This study unites precise methodological design, a novel fMRI decomposition framework, and rigorous phenomenology to provide valuable insights into the distributed neural signatures of highly refined conscious states. These results underscore similarities and differences between advanced concentrative absorption meditation and other altered states of consciousness like those induced by psychedelics-offering insights into refined conscious states and their implications for health and well-being.",
+      "journal": "Cerebral Cortex",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "An Ethical Sam\u0101dhi: Brahma-vih\u0101ra Meditation and the Flexible Early Buddhist Path",
+      "url": "https://www.semanticscholar.org/paper/c27f3f2cc21dd661e093630b847ecfd36bf973f6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-20T00:00:00",
+      "date_fetched": "2026-10-30T17:24:12.613403",
+      "doi": "10.1007/s12671-025-02597-6",
+      "authors": [
+        {
+          "name": "E. Shulman",
+          "author_id": "100620453",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article offers a new interpretation of Brahma-vih\u0101ra meditation (BVM) in early Buddhism, positioning it between ethical cultivation and development of sam\u0101dhi; BVM can thereby perfect ethical practice by creating a comprehensive meditative state that is thoroughly ethical. The fact that the radically ethical states of mind of BVM are sometimes included in the path to liberation, while more commonly they are not, further affords an important understanding regarding the flexible nature of the early Buddhist path. This is not one path, two paths, or any other number of paths, but a flexible method that different practitioners can use in various ways, evoking its diverse potentials according to their personal inclinations and contexts. Within this dynamic structure, Brahma-vih\u0101ra meditations play two main roles: first, they allow a completion of ethical practice, bringing it to perfection through the divine attitudes of love (mett\u0101), compassion (karu\u1e47\u0101), empathic joy (mudit\u0101), and equanimity (upekkh\u0101). Second, these states of mind, in which the mind reaches a state of totality, serve as a form of sam\u0101dhi, which can replace other types of meditative concentration, such as jh\u0101na. At their best, these states can be liberating. This interpretation of BVM\u2019s role improves our understanding of the early Buddhist path, and specifically of the manner in which it combines ethical cultivation with advanced meditation. Here, sam\u0101dhi proves to be ethical, and ethics liberating.",
+      "journal": "Mindfulness",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "jhana"
+      ]
+    },
+    {
+      "title": "An mHealth Stress Management Intervention for Latino Millennial Caregivers: Pilot Feasibility Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954109/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-27T00:00:00",
+      "date_fetched": "2026-10-30T17:24:33.843119",
+      "doi": "10.2196/85396",
+      "authors": [
+        {
+          "name": "Sandi Alshahwan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jenay M Beer",
+          "name": "Megan Thomas Hebdon",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Donglan S Zhang",
+          "name": "Cheongin Im",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Lisa M Renzi-Hammond",
+          "name": "Michael Thomas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Neil Peterson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Janice Hernandez",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Heather Cuevas",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sharon Horner",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: The Dietary Approaches to Stop Hypertension Diet (DASH) diet supports heart health; yet, many find it difficult to follow in community settings. Mindful eating can improve adherence, but in-person programs are time-consuming and not always accessible. eHealth offers an accessible, scalable alternative that may increase engagement and compliance. OBJECTIVE: This study assessed the feasibility of a DASH eHealth program focused on mindful eating and the preliminary changes in eating behaviors, diet quality, and health outcomes. METHODS: Participants were recruited from a university workplace via email and flyers and randomly assigned to either a web-based DASH diet education program (Diet Only) or the Mind Your Heart (MYH) intervention. The MYH program included the same DASH curriculum plus additional mindful eating instruction, guided practice, and specific, measurable, achievable, realistic, and time frame (SMART) goal setting. Both interventions were fully asynchronous, self-guided, and lasted 6 weeks on the Desire2Learn (D2L) Brightspace platform, with no personalized coaching or counseling. Baseline and postintervention assessments involved in-person measurements of anthropometrics, blood pressure, and blood biomarkers. Participants recorded their diets electronically over 3 days using MyFitnessPal (MyFitnessPal, Inc) and completed validated questionnaires on mindful eating using the Mindful Eating Behaviors Scale (MEBS), eating behaviors using the Three-Factor Eating Questionnaire Revised 21-item (TFEQ-R21), motivation for regulated eating using the Regulated Eating Behaviors Scale (REBS), and perceived stress using the Perceived Stress Scale 10-item (PSS-10). During the intervention, automated ecological momentary assessments (EMAs) were sent electronically 3 times weekly to monitor eating behaviors in real time. RESULTS: Thirty-seven participants (mean BMI 31.93 SD 7.25, 34/37, 91.9% female, 31/37, 83.8% White) were randomized into groups. Among the 36 who remained enrolled, the mean curriculum completion was 85.9%, SD 21.4; 31 (86.1%) completed\u226560% of assigned content, and 32 (88.9%) completed at least half of the scheduled EMA prompts. Thirty-four participants attended the postintervention assessment and completed the questionnaires and the blood pressure assessment, although paired baseline and postintervention data were not available for all anthropometric measures and biomarkers. Participants reported no adverse events, and research staff observed none. Although no significant between-group differences were observed for DASH adherence, anthropometric measures, blood pressure, or cardiometabolic biomarkers, participants in the MYH group showed greater improvements than the Diet Only group in TFEQ-cognitive restraint (mean difference in change 0.39, 95% CI 0.06-0.72; Hedges  CONCLUSIONS: A fully asynchronous digital mindful eating plus DASH education intervention and associated research procedures were feasible among working adults at elevated cardiovascular risk. Preliminary changes in eating behaviors suggest that mindful eating warrants further evaluation, but findings should be interpreted cautiously given the small sample and feasibility design. Larger, adequately powered randomized controlled trials are needed.",
+      "abstract": "BACKGROUND: Latino millennial caregivers comprise over one-quarter of millennial family caregivers in the United States. Latino millennial family caregivers face unique challenges due to cultural, structural, and economic burdens that may increase stress and stress-related health effects. These caregivers also report time limitations due to their multiple roles. Technology may be a way to deliver an accessible and flexible intervention to support stress management and emotional regulation in this population. OBJECTIVE: This study aimed to evaluate the feasibility, acceptability, and preliminary outcomes of a culturally tailored mobile health (mHealth) intervention to support stress management and emotional regulation for Latino millennial caregivers. METHODS: Participants (N=30) were recruited nationally in the United States using a recruitment agency and were randomized to the intervention or waitlist control groups. The 4-week fully automated intervention included daily mindfulness exercises and journaling prompts delivered via a custom mHealth platform. The waitlist control group received a written handout with mindfulness, journaling, and support information. Feasibility data, including recruitment and retention rates and intervention adherence, and postintervention acceptability surveys were collected. Study outcome measures were collected electronically at baseline and 2, 4, and 6 weeks. Primary outcomes included caregiver burden and perceived stress, and secondary outcomes included well-being, informational support, and emotional support. Feasibility and acceptability data were analyzed descriptively alongside study outcome measure data from participants who completed week 6 data collection (n=21). No efficacy testing was conducted. RESULTS: Enrollment was completed in 12 weeks (N=30), with a 70% (21/30) retention. Participants showed differential adherence, with 60% (6/10) completing a daily journal activity and 30% (3/10) completing a daily mindfulness activity. Adherence patterns were reflected in the acceptability findings, with journaling being preferred over mindfulness. Preliminary outcomes showed varying patterns between the intervention and control groups, with the intervention group showing decreased median burden levels from before (median 20, IQR 15-27.25) to after the intervention (median 15, IQR 10.50-28.75) but increased median stress levels from 19.50 (IQR 12-26.75) to 21 (IQR 8.75-22.75), while the control group burden and stress levels remained the same before and after the intervention. Positive affect and well-being and informational support increased for both groups. Median emotional support levels increased from 15 (IQR 12-20) before the intervention to 16 (IQR 13-19) after the intervention for the control group and decreased from 14.5 (IQR 11.5-17.75) to 14 (IQR 12-17.25) for the intervention group. CONCLUSIONS: Findings demonstrate areas for further intervention iteration to address both adherence and acceptability issues with the mindfulness component of the intervention. Intervention implementation also needs to be addressed, including participant retention rates. Our team will use lessons learned alongside feedback from Latino millennial caregivers to address these issues.",
       "journal": "JMIR formative research",
       "year": 2026,
       "source_name": null,
@@ -45,37 +730,77 @@
       "matched_keywords": []
     },
     {
-      "title": "Brief Mindfulness Training Influences Daily Life Stress Among Emerging Adults Exposed to Childhood Trauma: A Randomized Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950149/",
+      "title": "Brief Motivational Workplace Intervention to Reduce Sugar-Sweetened Beverage Consumption Among Health Care Workers: Intervention Description, Feasibility, Fidelity, and Exploratory Outcomes From a Cluster Randomized Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954121/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-28T00:00:00",
-      "date_fetched": "2026-10-29T17:44:55.569769",
-      "doi": "10.1097/PSY.0000000000001542",
+      "date_published": "2026-10-27T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.143678",
+      "doi": "10.2196/96240",
       "authors": [
         {
-          "name": "Emily K Lindsay",
+          "name": "Isabella Fornell-Villalobos",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Carissa A Low",
+          "name": "Laurie M Jacobs",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sydney Damon",
+          "name": "Juliana Van Cleve",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Anna L Marsland",
+          "name": "Kathleen J Antonio",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amanda Pickett",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Melody Pezeshkian",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tarini Mudunuri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ashley E Mason",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jamey M Schmidt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elissa S Epel",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Laura Schmidt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rachel M Radin",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: Childhood trauma is thought to program biological adaptations to stress that confer lifelong health risk. Mindfulness interventions have improved mental health among adults exposed to childhood trauma, but whether they can offset physical health risk is unknown. This trial evaluated effects of mindfulness and coping interventions on daily life stress processes in this population. METHODS: Eighty-one emerging adults who recalled physical, emotional, or sexual abuse in childhood were randomly assigned to a two-week remote mindfulness or coping comparison intervention. They provided daily life stress (momentary and day-level perceived stress and stressful events) and heart rate data for one week at pre-intervention, post-intervention, and one-month follow-up. Multilevel models tested for time \u00d7 condition effects. RESULTS: Across conditions, participants reported fewer stressful events over time (ps<.001), with larger effects following mindfulness training. Mindfulness participants reported higher stress perceptions from pre- to post-intervention relative to coping (momentary: d=.26, P=.002; daily: d=.44, P=.005), effects that were weaker at follow-up (momentary: d=.20, P=.015; daily: d=.19, P=.23). Increases in perceived stress following mindfulness training were more pronounced at higher levels of childhood abuse severity. In contrast, mindfulness participants showed relatively lower heart rate during moments of stress compared to coping participants from pre- to post-intervention (d=.62, P=.004). CONCLUSIONS: Brief mindfulness training alters stress processes among adults who recall childhood trauma, reducing stressful events and physiological reactivity while intensifying stress perceptions. Results suggest the possibility that brief mindfulness training increases awareness and reduces emotional avoidance of stress experience. Further work is warranted to examine mindfulness intervention effects on stress-related health trajectories in trauma-exposed populations.",
-      "journal": "Biopsychosocial science and medicine",
+      "abstract": "BACKGROUND: Metabolic disease, including type 2 diabetes, is a major public health concern. Reducing sugar-sweetened beverage (SSB) consumption is a critical target for disease prevention and lifestyle modification. Workplace interventions offer a promising opportunity to address barriers to behavior change while strengthening motivation and self-efficacy. OBJECTIVE: The authors describe the intervention protocol, fidelity, and feasibility of a theory-informed brief intervention based on motivational interviewing principles to support reductions in SSB consumption among health care workers. The authors also explore changes over time in proposed mechanisms of behavior change. METHODS: Participants (N=314) allocated to the intervention arm of a multicenter randomized controlled trial received a 4-dose intervention consisting of an introductory phone call, a brief counseling session, and 2 booster calls, supplemented by at-home tools targeting stress and craving management. We assessed fidelity to motivational interviewing principles (competence scores) and described feasibility via session adherence. Finally, we explored changes over time in motivation for change and perceived self-efficacy. RESULTS: More than 60% of enrolled participants completed all 4 sessions, suggesting feasibility and high retention in the context of a remotely delivered workplace intervention. Health coaches achieved basic levels of proficiency in 2 of 4 competency scores: technical (mean 3.23, SD 0.48) and complex reflections (mean 41.91%, SD 15.17%). Preliminary exploratory findings indicate improvements in motivation for change and self-efficacy over time. Finally, we found that the use of brief mindfulness practices were associated with acute reductions in stress and cravings. CONCLUSIONS: This theory-grounded brief motivational intervention may offer a cost-effective and accessible approach for employers to support behavior change related to SSB consumption. Findings from the fully powered randomized controlled trial are needed to determine if the brief intervention can effectively change behavior. This paper establishes the intervention and its framework to inform future implementation.",
+      "journal": "JMIR formative research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -83,87 +808,57 @@
       "matched_keywords": []
     },
     {
-      "title": "Prefrontal Cortical Changes With Mindfulness-Oriented Recovery Enhancement in Opioid Use Disorder: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949709/",
+      "title": "Mindfulness-based orofacial pain education promotes perceived control and self-management in painful TMD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956291/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-10-28T00:00:00",
-      "date_fetched": "2026-10-29T17:44:55.569876",
-      "doi": "10.1001/jamapsychiatry.2026.3388",
+      "date_published": "2026-10-29T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.143783",
+      "doi": "10.1080/08869634.2026.2755878",
       "authors": [
         {
-          "name": "Yuefeng Huang",
+          "name": "Beatriz Dorne",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ahmet O Ceceli",
+          "name": "Giovana Quaresma Del Grande",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Greg Kronberg",
+          "name": "Alex Moreira M\u00e9lo",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "K Rachel Drury",
+          "name": "Paula Rodrigues-Pereira",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Sarah G King",
+          "name": "Melissa Oliveira Melchior",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Natalie E McClain",
+          "name": "Matheus Herreira-Ferreira",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yui Ying Wong",
+          "name": "Jardel Francisco Mazzi-Chaves",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Maggie Boros",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eduardo R Butelman",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pierre-Olivier Gaudreault",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Muhammad A Parvaz",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nelly Alia-Klein",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Eric L Garland",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rita Z Goldstein",
+          "name": "La\u00eds Valencise Magri",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "IMPORTANCE: Despite decades of clinical implementation of medications for opioid use disorder (OUD), overdose mortality rates remain high, underscoring a critical need for interventions that target the brain mechanisms underlying addiction. OBJECTIVE: To assess the neural mechanisms of Mindfulness-Oriented Recovery Enhancement (MORE) and their associations with clinical outcomes, including craving and abstinence duration. DESIGN, SETTING, AND PARTICIPANTS: This randomized clinical trial was conducted from November 2020 to September 2024 among individuals with OUD recruited from an inpatient rehabilitation facility in New York and randomized to MORE or psychoeducational supportive therapy (PST). Data were analyzed from October 2024 to August 2026. INTERVENTIONS: Treatment with MORE (comprising training in mindfulness, drug cue reappraisal, and savoring positive experiences) or PST (active control condition) across 8 weekly 2-hour group sessions. MAIN OUTCOMES AND MEASURES: Outcomes included treatment-related changes in functional magnetic resonance imaging (fMRI) blood oxygen level-dependent signal (primary), abstinence length (secondary), and cue-induced craving (secondary). RESULTS: Drug cue reactivity task analyses included 59 participants (MORE, n\u2009=\u200924; 5 women [20.8%]; mean [SD] age, 43.6 [11.3] years; PST, n\u2009=\u200935; 8 women [22.9%]; mean [SD] age, 42.8 [10.0] years). Movie-watching and follow-up analyses were conducted in subsets of 37 (MORE, n\u2009=\u200918; PST, n\u2009=\u200919) and 38 participants (MORE, n\u2009=\u200913; PST, n\u2009=\u200925), respectively. Compared with PST, MORE reduced drug-biased activity in the middle frontal gyrus and other brain areas, including the precuneus, during downregulation of responses to drug cues relative to upregulation of responses to natural reward cues (even when controlling for passive cue viewing; z\u2009>\u20093.1; P\u2009<\u2009.05). The shift from drug to natural reward responses in the lateral and ventromedial prefrontal cortex (PFC) was associated with lower cue-induced craving exclusively in the MORE group (z\u2009>\u20093.1; P\u2009<\u2009.05). Relative to PST, MORE also reduced medial PFC synchronization to naturalistic drug-related movie scenes (q\u2009=\u20090.019) and significantly extended abstinence duration at follow-up (approximately 4 months posttreatment; \u03c72\u2009=\u20096.7; P\u2009=\u2009.04; Cohen w\u2009=\u20090.19). CONCLUSIONS AND RELEVANCE: This neuroimaging randomized clinical trial demonstrates that MORE may restructure function in PFC nodes of the reward, salience, and control networks, positioning it as a biologically grounded adjunct to pharmacotherapy for OUD. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04112186.",
-      "journal": "JAMA psychiatry",
+      "abstract": "BACKGROUND: The added value of mindfulness-based strategies for chronic painful temporomandibular disorders (TMD) remains unclear. OBJECTIVES: To evaluate an 8-week Mindfulness-Based Orofacial Pain Education Program added to conventional care. METHODS: This mixed-methods quasi-experimental controlled study included 53 adults receiving conventional care plus the program ( RESULTS: No group-by-time interaction was found for the primary outcome (WHOQOL-BREF psychological domain; \u03b2 = 0.165; 95% CI, -0.113-0.442;  CONCLUSIONS: The program did not improve most clinical outcomes but fostered perceived pain control and engagement in self-management beyond symptom reduction.",
+      "journal": "Cranio : the journal of craniomandibular practice",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -171,27 +866,199 @@
       "matched_keywords": []
     },
     {
-      "title": "Perceived benefits and challenges of the use of immersive virtual reality Tai Chi by older Chinese and Korean immigrants.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949708/",
+      "title": "When night owls confront work deadlines: a dual\u2011system perspective on how and when chronotype relates to procrastination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954185/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-12-31T00:00:00",
-      "date_fetched": "2026-10-29T17:44:55.569922",
-      "doi": "10.1080/17482631.2026.2732302",
+      "date_published": "2026-10-29T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.144076",
+      "doi": "10.1080/08870446.2026.2750383",
       "authors": [
         {
-          "name": "Yongseop Kim",
+          "name": "Xiaodong Ming",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Junhyoung Kim",
+          "name": "Shuqi Xie",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jianfeng Yang",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Donggen Zhong",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Older Asian immigrants encounter challenges that limit access to healthcare services and experience physical inactivity that can exacerbate psychological distress. Virtual reality offers a promising technology for delivering mindfulness and physical activity interventions that promote body awareness and physical fitness. OBJECTIVE: The goal of this study was to explore the perceived benefits, challenges, and cultural relevance of IVTC program use by older Chinese and Korean immigrants. METHODS: Semi-structured interviews were conducted with 19 participants following their participation in a four-week IVTC intervention. Data were analyzed using comparative thematic analysis, and data trustworthiness was ensured through member checking and reflexive processes. RESULTS: Reported health benefits were grouped into four main subthemes: (1) enhanced physical functioning and balance, (2) cognitive stimulation, (3) mental and emotional wellbeing, and (4) convenience accessibility. Reported challenges were grouped into three subthemes, including: (1) balance and coordination difficulties, (2) physical discomfort from headsets, and (3) the need for extended VR technology use instruction. Participants also discussed the cultural relevance of Tai Chi and their openness to integrating VR into their daily routine. CONCLUSION: The findings of this study highlight the potential feasibility and acceptability of IVTC use for enhancing the health and engagement of older Asian immigrants.",
-      "journal": "International journal of qualitative studies on health and well-being",
+      "abstract": "OBJECTIVE: This study examines the association between chronotype and procrastination. Drawing on the hot-cool distinction between the emotional and cognitive systems of self-control, we propose that negative mood and future temporal perspective mediate this association as hot- and cool-system pathways, respectively, with dispositional mindfulness moderating these indirect effects. METHODS: Study 1 ( RESULTS: In Study 1, a later chronotype significantly predicted subsequent procrastination, whereas the reverse cross-lagged paths were not significant. Study 2 indicated that negative mood and future temporal perspective mediated the positive association between later chronotype and procrastination and that dispositional mindfulness significantly attenuated the mediating effect of negative mood but did not moderate the mediation  CONCLUSIONS: These findings offer longitudinal evidence linking chronotype to procrastination. Individuals with a later chronotype appear more prone to procrastination, possibly owing to elevated negative mood and a diminished future temporal perspective. Notably, dispositional mindfulness appears to mitigate the indirect relationship between later chronotype and procrastination ",
+      "journal": "Psychology & health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Effect of yoga on blood pressure in hypertensive older adults: a randomised multicentre study with control group - study protocol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933840/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-26T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.144101",
+      "doi": "10.1136/bmjopen-2026-119579",
+      "authors": [
+        {
+          "name": "Alexander Douglas Teixeira Machado",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcos Rojo",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcelo Eidi Ochiai",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jo\u00e3o Batista Costa Carvalho De Serro-Azul",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wilson Jacob Filho",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Guilherme Veiga Guimar\u00e3es",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Hypertension is highly prevalent among older adults and remains a leading contributor to cardiovascular morbidity and mortality. Age-related arterial stiffness and endothelial dysfunction contribute to residual cardiovascular risk despite adequate brachial blood pressure control. Yoga is a mind\u2013body intervention integrating physical postures, breathing techniques and meditation that has demonstrated modest blood pressure-lowering effects in adults; however, evidence in older hypertensive populations remains limited. METHODS: This prospective, randomised, controlled, multicentre study will include ninety (n=90) community-dwelling adults aged 65 years or older with treated hypertension, randomised in a 2:1 ratio to a 12-week structured, senior-adapted yoga programme plus usual care (n=60) or to usual care with attention-control health education sessions (n=30). The primary outcome is the between-group difference in change in brachial systolic blood pressure at 12 weeks. Secondary exploratory outcomes include ambulatory and central blood pressure, arterial stiffness, endothelial function, functional capacity, sleep parameters, quality of life, mood status and feasibility metrics. ETHICS AND DISSEMINATION: All participants will provide written informed consent prior to enrolment. The study has been approved by the Comit\u00ea de \u00c9tica em Pesquisa do Hospital das Cl\u00ednicas, Faculdade de Medicina, Universidade de S\u00e3o Paulo (CEP HC-FMUSP; approval number 8.068.380). The study will be conducted in accordance with the Declaration of Helsinki (World Medical Association, 2013). It was registered in the Brazilian Registry of Clinical Trials (ReBEC) on 19 February 2026 as \u2018Yoga in Elderly Hypertensive Patients\u2019, identifier RBR-23vmpsx (https://ensaiosclinicos.gov.br/rg/RBR-23vmpsx). Recruitment began in June 2026 and is expected to be completed by April 2027. Funding is provided by the Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo (FAPESP; process 2024/23879-2). The sponsor, Instituto do Cora\u00e7\u00e3o (InCor), will oversee study monitoring, with annual audits planned.",
+      "journal": "BMJ open",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "WE PLAY | ON JOUE - Family-Centered Virtual Reality Games Room for Children with Developmental Disabilities and Their Families: A Feasibility Case Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954306/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-29T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.144146",
+      "doi": "10.1080/01942638.2026.2746645",
+      "authors": [
+        {
+          "name": "Tatiana Ogourtsova",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anouk Lamontagne",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Ebrahim Mahmoudi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Filomena Pietrangelo",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIMS: To explore the feasibility, satisfaction with, enjoyment of, acceptability, and preliminary effects of joint virtual reality (VR) sessions targeting physical engagement in youth with disabilities and relaxation in caregivers. METHODS: In a mini-ethnographic case study, four youth-caregiver dyads completed weekly 30-minute immersive VR sessions over four weeks. Youth (aged 10-20\u2009years) with cerebral palsy ( RESULTS: Although standardized motor outcomes showed limited overall change over the intervention period, improvements were observed in one youth participant. Reductions in stress were noted for three caregivers. Enjoyment ratings were high (7-10/10 for youth; 9-10/10 for caregivers), with engaging gameplay and relaxation identified as key benefits. CONCLUSIONS: Findings provide preliminary support for the potential feasibility and acceptability of family-centered VR interventions in pediatric rehabilitation, warranting evaluation in larger studies.",
+      "journal": "Physical & occupational therapy in pediatrics",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "The relation between mindfulness and mentalizing among individuals with borderline personality disorder: A controlled study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956204/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-29T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.144169",
+      "doi": "10.1037/per0000790",
+      "authors": [
+        {
+          "name": "Noa Steinberg",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tom Livni",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Rotem Moshe-Cohen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Leeav Sheena-Peer",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Shir Ada Basson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yogev Kivity",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Mentalizing-the capacity to consider mental states-is a core human ability, yet processes related to it remain poorly understood. Mindfulness has been proposed as functionally related to mentalizing, but the nature and direction of this relation remain unclear. Although both are relevant to borderline personality disorder (BPD), research has rarely examined them together. This study examined group differences in and associations between dispositional mindfulness and mentalizing among individuals with BPD, psychiatric controls (PCs), and healthy controls (HCs). Participants were 153 adults (51 per group) completing diagnostic and laboratory assessments. Mindfulness was measured with the Five Facet Mindfulness Questionnaire, and mentalizing with the Mentalization Scale and Reflective Functioning Scale applied to the Brief Reflective Function Interview. The BPD group showed markedly lower mindfulness than PCs and HCs (",
+      "journal": "Personality disorders",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "\"My Body is Nurturing Me\" Personalized Spiritual Experiences during Interoceptive Awareness Training Among People in Medication Treatment for Opioid Use Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960352/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-10-29T00:00:00",
+      "date_fetched": "2026-10-30T17:24:44.144188",
+      "doi": "10.1037/scp0000423",
+      "authors": [
+        {
+          "name": "Megan Sherman",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Cynthia J Price",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Research links the neural processes of spiritual experiences, or 'peak experiences' of eudaimonic well-being, to substance abuse recovery. Studies also identify health improvements among substance use disorder (SUD) treatment approaches that include interoceptive awareness training. However, the relationship between interoceptive awareness and spiritual experience within substance use recovery is poorly understood. This conceptual project was designed to explore personalized spiritual experience among a sub-set of participants in a study of Mindful Awareness in Body-oriented Therapy (MABT) for people in medication treatment for opioid use disorder (MOUD). MABT teaches and develops the capacity for interoceptive awareness, defined as the conscious experience of internal bodily sensations, to facilitate improved self-care and well-being. Three themes of spiritual experience emerged based on consistent patterns and processes: Experiencing Wholeness and Healing, Awakening Inner Knowing, and My Body is Nurturing Me. To illustrate how these themes are expressed within the context of MABT, four participant exemplars are provided. Responses to survey questions about spiritual experience and interoceptive awareness were also examined. All participants endorsed some level of SE and the level of IA increased pre to post. In summary, this project highlighted the role of SE in MABT and the potential helpfulness of SE in SUD recovery. Future research could explore underlying mechanisms of IA for improved SE and the role of SE in SUD recovery.",
+      "journal": "Spirituality in clinical practice (Washington, D.C.)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
