@@ -1,600 +1,288 @@
 {
-  "generated_at": "2026-11-12T19:17:13.333518",
+  "generated_at": "2026-11-13T18:54:19.594952",
   "papers": [
     {
-      "title": "The Effects of Loving-Kindness Meditation Guided by Short Video Apps on Policemen\u2019s Mindfulness, Public Service Motivation, Conflict Resolution Skills, and Communication Skills",
-      "url": "https://www.semanticscholar.org/paper/4d1663445d91a781bc4babd0c902b26d498731f6",
+      "title": "Neurophysiological mechanisms of focused attention meditation: A scoping systematic review",
+      "url": "https://www.semanticscholar.org/paper/0a1f9c86cf1fb51ebc09e4ee6cbeff802605530c",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-07-01T00:00:00",
-      "date_fetched": "2026-11-12T19:16:34.878026",
-      "doi": "10.3390/bs15070909",
+      "date_published": "2025-05-28T00:00:00",
+      "date_fetched": "2026-11-13T18:53:30.531398",
+      "doi": "10.1162/IMAG.a.14",
       "authors": [
         {
-          "name": "Chao Liu",
-          "author_id": "2218426632",
+          "name": "Jonathan M. Lieberman",
+          "author_id": "2190250773",
           "affiliation": null
         },
         {
-          "name": "Li-Jen Lin",
-          "author_id": "2327263929",
+          "name": "P. McConnell",
+          "author_id": "40341784",
           "affiliation": null
         },
         {
-          "name": "Kang Zhang",
-          "author_id": "2347643059",
+          "name": "Mar Estarellas",
+          "author_id": "2265760662",
           "affiliation": null
         },
         {
-          "name": "Wen-Ko Chiou",
-          "author_id": "2244477915",
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
           "affiliation": null
         }
       ],
-      "abstract": "Police officers work in high-stress environments that demand emotional resilience, interpersonal skills, and effective communication. Occupational stress can negatively impact their motivation, conflict resolution abilities, and professional effectiveness. Loving-Kindness Meditation (LKM), a mindfulness-based intervention focused on cultivating compassion and empathy, has shown promise in enhancing prosocial attitudes and emotional regulation. With the rise of short video platforms, digital interventions like video-guided LKM may offer accessible mental health support for law enforcement. This study examines the effects of short video app-guided LKM on police officers\u2019 mindfulness, public service motivation (PSM), conflict resolution skills (CRSs), and communication skills (CSSs). It aims to determine whether LKM can enhance these psychological and professional competencies. A randomized controlled trial (RCT) was conducted with 110 active-duty police officers from a metropolitan police department in China, with 92 completing the study. Participants were randomly assigned to either the LKM group (n = 46) or the waitlist control group (n = 46). The intervention consisted of a 6-week short video app-guided LKM program with daily 10 min meditation sessions. Pre- and post-intervention assessments were conducted using several validated scales: the Mindfulness Attention Awareness Scale (MAAS), the Public Service Motivation Scale (PSM), the Conflict Resolution Styles Inventory (CRSI), and the Communication Competence Scale (CCS). A 2 (Group: LKM vs. Control) \u00d7 2 (Time: Pre vs. Post) mixed-design MANOVA was conducted to analyze the effects. Statistical analyses revealed significant group-by-time interaction effects for PSM (F(4,177) = 21.793, p < 0.001, \u03b72 = 0.108), CRS (F(4,177) = 20.920, p < 0.001, \u03b72 = 0.104), and CSS (F(4,177) = 49.095, p < 0.001, \u03b72 = 0.214), indicating improvements in these areas for LKM participants. However, no significant improvement was observed for mindfulness (F(4,177) = 2.850, p = 0.930, \u03b72 = 0.016). Short video app-guided LKM improves public service motivation, conflict resolution skills, and communication skills among police officers but does not significantly enhance mindfulness. These findings suggest that brief, digitally delivered compassion-focused programs can be seamlessly incorporated into routine in-service training to strengthen officers\u2019 prosocial motivation, de-escalation competence, and public-facing communication, thereby fostering more constructive police\u2013community interactions.",
-      "journal": "Behavioral Science",
+      "abstract": "Abstract Focused attention meditation (FA) is a foundational and widely studied practice that cultivates sustained concentration by focusing on a specific object, such as the breath, while disengaging from distractions. Numerous studies have investigated the neurophysiological mechanisms of FA, examining aspects such as spectral power, connectivity patterns, and neural entropy. However, despite this extensive research, clarity regarding the methodological approaches and key findings in this field remains limited. This scoping systematic review aimed to collate and interpret key information from electroencephalography (EEG) and magnetoencephalography (MEG) studies on FA, with a focus on study population composition, experimental design, and neurophysiological outcomes. Our findings revealed substantial heterogeneity in participant characteristics, potentially contributing to variability in neurophysiological results, while the choice of FA tasks and control conditions was relatively consistent. In terms of neurophysiological outcomes, consistent trends indicate that FA is associated with increased power in the alpha, beta, and gamma bandwidths, as well as heightened complexity and reduced criticality measures. Based on the findings of this review, we propose several methodological recommendations to improve the quality of future research. Additionally, we identified significant evidence gaps when considering the whole body of research, including the limited use of MEG and a lack of longitudinal studies, pointing to areas for future investigation. Overall, this review provides a firm grounding for the study of the neurophysiology of FA, as well as the study of advanced meditation and neuroscience-informed meditative development.",
+      "journal": "Imaging neuroscience",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "loving-kindness meditation"
+        "meditation"
       ]
     },
     {
-      "title": "Frequent loving kindness meditation relates to lower anxiety in long term practitioners through higher self compassion and cognitive flexibility",
-      "url": "https://www.semanticscholar.org/paper/0bc80355adf3db4f36b304c46cab1638a39f6c8b",
+      "title": "Meditation induces shifts in neural oscillations, brain complexity, and critical dynamics: novel insights from MEG",
+      "url": "https://www.semanticscholar.org/paper/880b02bd082cb32fce6db0cc06dc0bcfda04a720",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-03-29T00:00:00",
-      "date_fetched": "2026-11-12T19:16:34.878276",
-      "doi": "10.1038/s41598-026-46387-z",
+      "date_published": "2025-03-19T00:00:00",
+      "date_fetched": "2026-11-13T18:53:30.531430",
+      "doi": "10.1093/nc/niaf047",
       "authors": [
         {
-          "name": "J. R. Yela",
-          "author_id": "2092199902",
+          "name": "A. Pascarella",
+          "author_id": "2995877",
           "affiliation": null
         },
         {
-          "name": "Jos\u00e9 Buz",
-          "author_id": "6611979",
+          "name": "Philipp Th\u00f6lke",
+          "author_id": "2153862554",
           "affiliation": null
         },
         {
-          "name": "Antonio L. Crego",
-          "author_id": "2361249380",
+          "name": "David Meunier",
+          "author_id": "2285800192",
           "affiliation": null
         },
         {
-          "name": "Luis Gregoris",
-          "author_id": "48086653",
+          "name": "J. O'Byrne",
+          "author_id": "2264932305",
           "affiliation": null
         },
         {
-          "name": "Marta Alonso",
-          "author_id": "2142479722",
+          "name": "Tarek Lajnef",
+          "author_id": "2274531",
+          "affiliation": null
+        },
+        {
+          "name": "A. Raffone",
+          "author_id": "3103577",
+          "affiliation": null
+        },
+        {
+          "name": "R. Guidotti",
+          "author_id": "5277914",
+          "affiliation": null
+        },
+        {
+          "name": "V. Pizzella",
+          "author_id": "1922502",
+          "affiliation": null
+        },
+        {
+          "name": "L. Marzetti",
+          "author_id": "2305137002",
+          "affiliation": null
+        },
+        {
+          "name": "Karim Jerbi",
+          "author_id": "2243936288",
           "affiliation": null
         }
       ],
-      "abstract": "Little is known about the variables influencing the efficacy of mindfulness-based interventions among long-term practitioners. This study examined the association between Loving-Kindness Compassion Meditation (LKCM) practice and anxiety levels in 60 experienced meditators. We analyzed practice duration, frequency, self-compassion, and cognitive fusion. Results indicated no direct association between years of practice and anxiety. However, a moderated serial mediation model showed that the benefits are related to the frequency of practice. Weekly practice frequency moderated the relationship between years of meditation and self-compassion; furthermore, self-compassion was associated with lower cognitive fusion and this, in turn, with lower anxiety levels. Notably, high self-compassion was evident early in daily practitioners, whereas comparable levels were only observed in less frequent practitioners. These findings suggest that self-compassion and cognitive flexibility are critical components in prolonged meditation, highlighting the pivotal role of practice consistency over time. Supplementary Information The online version contains supplementary material available at 10.1038/s41598-026-46387-z.",
-      "journal": "Scientific Reports",
+      "abstract": "While the beneficial impacts of meditation are increasingly acknowledged, its underlying neural mechanisms remain poorly understood. We examined the electrophysiological brain signals of expert Buddhist monks during two established meditation methods known as Samatha and Vipassana, which employ focused attention and open monitoring technique. By combining source-space magnetoencephalography (MEG) with advanced signal processing and machine learning tools, we provide an unprecedented assessment of the role of brain oscillations, complexity and criticality in meditation. In addition to power spectral density (PSD), we computed long-range temporal correlations (LRTC), deviation from criticality coefficient (DCC), Lempel-Ziv complexity (LZC), 1/f slope, Higuchi fractal dimension (HFD), and spectral entropy. Our findings indicate increased levels of neural signal complexity during both meditation practices compared to the resting state, along-side widespread reductions in gamma-band LRTC and 1/f slope. Importantly, the DCC analysis revealed a separation between Samatha and Vipassana, suggesting that their distinct phenomenological properties are mediated by specific computational characteristics of their dynamic states. Furthermore, in contrast to most previous reports, we observed a decrease in oscillatory gamma power during meditation, a divergence we attribute to the correction of the power spectrum by the 1/f slope. We discuss how these results advance our comprehension of the neural processes associated with focused attention and open monitoring meditation practices.",
+      "journal": "bioRxiv",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditation"
+      ]
+    },
+    {
+      "title": "The Effect of Meditation-Based Mind-Body Interventions on Older Adults with Poor Sleep Quality: A Meta-Analysis of Randomized Controlled Trials",
+      "url": "https://www.semanticscholar.org/paper/f6127bae143bd40479dc7248c1ed46e29a5f2f66",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-18T00:00:00",
+      "date_fetched": "2026-11-13T18:53:30.531446",
+      "doi": "10.1080/15402002.2025.2475911",
+      "authors": [
+        {
+          "name": "Yue Li",
+          "author_id": "2220635265",
+          "affiliation": null
+        },
+        {
+          "name": "Jiaxing Tang",
+          "author_id": "2314417177",
+          "affiliation": null
+        },
+        {
+          "name": "Gaopeng Chen",
+          "author_id": "2298044567",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Aims and objective This study aims to evaluate the effect of meditation-based mind-body interventions (MBIs) (Mindfulness, Tai Chi, Yoga, and Qigong) for older adults with poor sleep quality. Background Poor sleep quality exerts negative impact on life quality of old adults. The meditation-based mind-body interventions, with merits of simplicity, practicality, accessibility, and widespread dissemination, have been widely used to improve sleep in the older adults. However, the effects of MBIs on sleep quality of old adults are largely unknown. Method A comprehensive systematic review and meta-analysis were carried out following the PRISMA-P guidelines. Embase, PubMed, CINAHL, PsycINFO, Cochrane Library, Web of Science, and CNKI databases were searched to gather randomized controlled trials (RCTs) on the effects of MBIs on older adults with poor sleep quality. Study quality was evaluated by the Cochrane Risk of Bias tool. Results This study included 11 randomized controlled trials (with 1,052 participants) published between 2008 and 2023. Compared to the control group, there was a significant improvement in sleep quality (SMD= -0.66, 95%CI [-0.894, -0.426], P<0.00001), depression (SMD=-1.60, 95% CI [-1.89, 0.23], P=0.005), and anxiety (SMD= -1.46, 95% CI [-3.67, 0.75], P=0.026) for older adults with poor sleep quality. However, there was no statistically significant difference in the treatment effect for stress (SMD= -4.45, 95% CI [-10.24, 1.35], P=0.196). Conclusion Meditation-based mind-body interventions significantly improved the sleep quality of older adults with poor sleep quality. Nevertheless, more evidence is needed to support this. Registration The protocol for this study was registered with PROSPERO (CRD42023445082). https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=445082. PROSPERO registration number CRD42023445082.",
+      "journal": "Behavioural Sleep Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditation"
+      ]
+    },
+    {
+      "title": "Active Inference, Computational Phenomenology, and Advanced Meditation: Toward the Formalization of the Experience of Meditation.",
+      "url": "https://www.semanticscholar.org/paper/79e844d4fbb37657f2ca993a98fe19c3ff26c7f8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-01T00:00:00",
+      "date_fetched": "2026-11-13T18:53:30.531479",
+      "doi": "10.1016/j.neubiorev.2025.106539",
+      "authors": [
+        {
+          "name": "H. Tal",
+          "author_id": "2401950219",
+          "affiliation": null
+        },
+        {
+          "name": "Malcolm Wright",
+          "author_id": "2312747381",
+          "affiliation": null
+        },
+        {
+          "name": "Shawn Prest",
+          "author_id": "2401950419",
+          "affiliation": null
+        },
+        {
+          "name": "Lars Sandved-Smith",
+          "author_id": "2269374655",
+          "affiliation": null
+        },
+        {
+          "name": "M. Sacchet",
+          "author_id": "2324309146",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Computational phenomenology has emerged as a powerful framework for investigating advanced meditation states and stages, and meditative development and endpoints. Various models have been proposed to mechanistically explain the diverse experiences associated with these practices, including enhanced well-being, shifts in attentional control, the loosening or 'defabrication' of perceptual constructions, as well as minimal phenomenal experiences and transformative meditative endpoints such as cessations. However, these models have developed in disparate directions, and an integrative understanding of the underlying mechanisms remains elusive. This review examines how computational models attempt to account for the phenomenology of advanced meditation, with a particular focus on Active Inference as a modeling framework. We identify precision weighting, the confidence attributed to different model parameters, as a common mechanism across models, shaping experiential shifts. Furthermore, we observe a marked difference between early models, which emphasize top-down attentional modulation toward interoception or specific focus objects, and later models which center on layer-specific precision re-weighting within the meditator's hierarchical generative model and target more specific phenomenology. These differences arise from variations in the models' aims, scope, and definitions of contemplative practice. Despite increased interest in minimal phenomenal experience, related states and formal endpoints such as nonduality and cessations remain largely unaddressed. Few models tackle reported increases in cognitive flexibility and learning from meditation, while fundamental mechanisms behind informal practice and affective processes, and processes underlying compassion traditions, remain underexplored. Addressing these gaps is crucial for refining computational models of advanced meditation and informing our understanding of its cognitive, affective, and experiential effects.",
+      "journal": "Neuroscience and Biobehavioral Reviews",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditation"
+      ]
+    },
+    {
+      "title": "Indian Knowledge System: Fostering Balance and Well-being in the Law of Governance",
+      "url": "https://www.semanticscholar.org/paper/5a76ff8fb344bb471a4f751db348dd86b28d0d70",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-06-01T00:00:00",
+      "date_fetched": "2026-11-13T18:53:51.168085",
+      "doi": "10.56975/ijnrd.v11i6.326020",
+      "authors": [
+        {
+          "name": "Sakshi Singh",
+          "author_id": "2527574344",
+          "affiliation": null
+        },
+        {
+          "name": "R. K. Chauhan",
+          "author_id": "2463198009",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Rendering judgment is nothing but a challenging task. The internal and external ethics are amalgamated under sensory and intellectual discourse. So, to accomplish such a task absolute discipline is required. This research paper explores the hermeneutical approach that influences the higher authority in decision-making. The decision-making mechanism must be well-rehearsed, meditative, and visionary like the legendary figures, King Harishchandra, Dadhichi, Bhishma Pitamah, Yudhisthara etc. Materialistic illusions can cloud the judgment of both ordinary people and judges alike. This paper explores the Indian knowledge system in connection of Mahabharat, and Dandniti (the science of governance). Furthermore, this paper seeks to explore how to maintain and balance wisdom through the principles of the Yog Sutras which emphasizes Chitvritti Nirodha. If there is a conflict between the mind, body, and senses, true judgment is unattainable. Judgments also serve as instruments of social welfare, enriching society through a healthy and just legal system.",
+      "journal": "International journal of novel research and development",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "loving-kindness meditation"
+        "nirodha"
       ]
     },
     {
-      "title": "Effects of audio guided loving kindness meditation on psychological well being and laboratory stress responsiveness in healthy university students",
-      "url": "https://www.semanticscholar.org/paper/ad2ad62a32bed255b4cd4a5097293d77047da45e",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-07-15T00:00:00",
-      "date_fetched": "2026-11-12T19:16:34.878337",
-      "doi": "10.1038/s41598-026-62472-9",
-      "authors": [
-        {
-          "name": "Shunta Maeda",
-          "author_id": "48486990",
-          "affiliation": null
-        },
-        {
-          "name": "Ren Fujisawa",
-          "author_id": "2450201577",
-          "affiliation": null
-        },
-        {
-          "name": "T. Uchiyama",
-          "author_id": "2450203466",
-          "affiliation": null
-        },
-        {
-          "name": "Tomoya Sato",
-          "author_id": "48736420",
-          "affiliation": null
-        },
-        {
-          "name": "Y. Kanai",
-          "author_id": "47555237",
-          "affiliation": null
-        }
-      ],
-      "abstract": "This study investigated the efficacy of a two-week online audio-guided loving-kindness meditation (LKM) program compared with mindfulness meditation (MF) and an active control (AC) group in a healthy university population. The study consisted of an overarching trial (N\u2009=\u2009130), with a nested laboratory stress testing (N\u2009=\u200950). The full-sample subjective outcomes involved psychological distress, social approach and avoidance motivation, self-compassion, social connectedness, and positive and negative emotion. The nested laboratory testing examined the stress responsiveness to the socially evaluated cold pressor test, in terms of subjective stress, salivary cortisol, and blood pressure. All groups showed significant improvements in psychological distress, self-compassion, social connectedness, and negative emotion; however, no significant group differences were observed. For stress responsiveness, no significant differences were found across groups in average cortisol, blood pressure, or subjective stress levels. However, subsequent exploratory analyses yielded preliminary signals that the MF group, but not the LKM group, showed more attenuated cortisol activation and a higher completion rate on the cold pressor test than the AC group, which provides hypothesis-generating insights for future research. Overall, the findings did not support the relative superiority of LKM over MF and AC on both subjective indices and biological stress responsiveness.",
-      "journal": "Scientific Reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "loving-kindness meditation"
-      ]
-    },
-    {
-      "title": "2142\u2003Chronic Loving Kindness Meditation Increases Aperiodic Broadband Activity Within the Mesial Temporal Lobe",
-      "url": "https://www.semanticscholar.org/paper/868d04656ba7c544e6c1e4a40fb474619c52e18f",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-04-01T00:00:00",
-      "date_fetched": "2026-11-12T19:16:34.878378",
-      "doi": "10.1227/neu.0000000000003964_2142",
-      "authors": [
-        {
-          "name": "Daniel D. Cummins",
-          "author_id": "2282705035",
-          "affiliation": null
-        },
-        {
-          "name": "Varun Subramaniam",
-          "author_id": "2379484288",
-          "affiliation": null
-        },
-        {
-          "name": "Lea Tortolero",
-          "author_id": "2301208846",
-          "affiliation": null
-        },
-        {
-          "name": "F. Panov",
-          "author_id": "2303539036",
-          "affiliation": null
-        },
-        {
-          "name": "L. N. Martinez",
-          "author_id": "2301268375",
-          "affiliation": null
-        },
-        {
-          "name": "C. Maher",
-          "author_id": "2298585333",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Neurosurgery",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "loving-kindness meditation"
-      ]
-    },
-    {
-      "title": "Body Scan, Sitting Meditation, Thought Meditation, or Loving-kindness Meditation: Perceptions of Formal Mindfulness Practices Among Young Adults With and Without Recent Self-injury",
-      "url": "https://www.semanticscholar.org/paper/86d877c762ef35f674978221b22244336a809d22",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-07-20T00:00:00",
-      "date_fetched": "2026-11-12T19:16:34.878390",
-      "doi": "10.1007/s12671-026-02943-2",
-      "authors": [
-        {
-          "name": "J. Petrovic",
-          "author_id": "147132281",
-          "affiliation": null
-        },
-        {
-          "name": "Jessica Mettler",
-          "author_id": "39587653",
-          "affiliation": null
-        },
-        {
-          "name": "Julia Baran-Polansky",
-          "author_id": "2401613958",
-          "affiliation": null
-        },
-        {
-          "name": "Bassam Khoury",
-          "author_id": "6339775",
-          "affiliation": null
-        },
-        {
-          "name": "Nancy L. Heath",
-          "author_id": "2274821777",
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "Mindfulness",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "loving-kindness meditation"
-      ]
-    },
-    {
-      "title": "Mechanistic insights toward dissociating therapeutic from psychedelic effects: bridging the gap between psychedelic research and mental health care",
-      "url": "https://www.semanticscholar.org/paper/a44f2bc1d675e4af2ff6a38ccad740e29b7f876b",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-06-24T00:00:00",
-      "date_fetched": "2026-11-12T19:16:47.259448",
-      "doi": "10.1038/s41398-026-04203-2",
-      "authors": [
-        {
-          "name": "M. Pettorruso",
-          "author_id": "2333566856",
-          "affiliation": null
-        },
-        {
-          "name": "G. d'Andrea",
-          "author_id": "1864164192",
-          "affiliation": null
-        },
-        {
-          "name": "Antonio Inserra",
-          "author_id": "2323457213",
-          "affiliation": null
-        },
-        {
-          "name": "C. Cavallotto",
-          "author_id": "1556898464",
-          "affiliation": null
-        },
-        {
-          "name": "S. Censi",
-          "author_id": "2381892253",
-          "affiliation": null
-        },
-        {
-          "name": "\u00c9. Billard",
-          "author_id": "144882272",
-          "affiliation": null
-        },
-        {
-          "name": "A. Di Stefano",
-          "author_id": "47837142",
-          "affiliation": null
-        },
-        {
-          "name": "L. De Risio",
-          "author_id": "2482634167",
-          "affiliation": null
-        },
-        {
-          "name": "M. Tullo",
-          "author_id": "2276552827",
-          "affiliation": null
-        },
-        {
-          "name": "C. D'Addario",
-          "author_id": "1398283682",
-          "affiliation": null
-        },
-        {
-          "name": "G. di Lorenzo",
-          "author_id": "48076560",
-          "affiliation": null
-        },
-        {
-          "name": "Richard G. Wise",
-          "author_id": "2243593428",
-          "affiliation": null
-        },
-        {
-          "name": "S. Sensi",
-          "author_id": "49851022",
-          "affiliation": null
-        },
-        {
-          "name": "Francesca Zoratto",
-          "author_id": "5612694",
-          "affiliation": null
-        },
-        {
-          "name": "G. Martinotti",
-          "author_id": "2460739",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Clinical trials investigating psychedelic compounds for depression and anxiety-related disorders are yielding promising preliminary results. Psychedelics produce profound alterations in brain function\u2014such as suppression of the default mode network and thalamocortical dysregulation\u2014leading to intense subjective experiences including ego dissolution and mystical-type states. While often described as meaningful or therapeutic, these effects can also be unpredictable or distressing. Because of these effects, which require labor-intensive, potentially cost-challenging preparation, administration, integration sessions, and exclude individuals with psychiatric vulnerabilities (e.g., bipolar disorder, borderline personality disorder, schizophrenia), questions remain about their real-world scalability. Consequently, there is growing interest in the possibility of dissociating the therapeutic benefits of psychedelics from their consciousness-altering effects. In this perspective, we examine emerging clinical and preclinical evidence investigating this scientifically timely and pressing question. Pharmacological strategies such as serotonin 2A receptor (5-HT2AR) antagonism and the development of \u201cbiased\u201d psychedelic analogues or psychedelic-inspired compounds with reduced or null psychedelic potential may represent potential routes through which therapeutic efficacy may be retained even in the absence of psychedelic experiences. Current preclinical data suggest that downstream molecular and network-level mechanisms may mediate therapeutic effects independently of 5-HT2AR-driven subjective states. Whether these mechanisms can fully substitute for the experiential component of psychedelic therapy remains to be determined. Nonetheless, confirming this dissociation could mark a turning point in psychopharmacology, enabling the development of next-generation psychedelic-inspired treatments that may be more scalable, accessible, and appropriate for a broader range of psychiatric populations.",
-      "journal": "Translational Psychiatry",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": [
-        "ego dissolution"
-      ]
-    },
-    {
-      "title": "Construct Overlap Between Two Widely Used Self-Report Measures of Dispositional Mindfulness: Evidence from Stress and Anxiety Control Outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013842/",
+      "title": "Web-Based Isha Kriya Meditation and Breathwork in Long COVID: Mixed Methods Randomized Controlled Pilot Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019250/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-11-11T00:00:00",
-      "date_fetched": "2026-11-12T19:17:12.668910",
-      "doi": "10.1177/00332941261506972",
+      "date_published": "2026-11-12T00:00:00",
+      "date_fetched": "2026-11-13T18:54:08.718748",
+      "doi": "10.2196/89631",
       "authors": [
         {
-          "name": "Andrew Denovan",
+          "name": "Akila Rayapuraju",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Zoe D Hughes",
+          "name": "Enas Mohamed",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Neil Dagnall",
+          "name": "Preeti Upadhyay Reed",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Hibiki Orui",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Morgan Pratt",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Nashaw Jafari",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tulsi Chase",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amberly Ticotsky",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jason Maley",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Balachundhar Subramaniam",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Researchers commonly conceptualise dispositional mindfulness as a multidimensional construct comprising attentional awareness, present-moment focus, and acceptance. However, widely used measures differ considerably in the dimensions they assess, raising questions regarding the extent to which they demonstrate construct overlap and can be considered interchangeable. The present study evaluated the psychometric functioning, construct overlap, and associations of the Mindful Attention Awareness Scale (MAAS) and the Freiburg Mindfulness Inventory (FMI) with stress and anxiety control outcomes. A community sample of 1,498 UK adults completed the MAAS, FMI, Perceived Stress Scale, and Anxiety Control Questionnaire. Confirmatory factor analysis (CFA), exploratory structural equation modelling (ESEM), Rasch analysis, and structural equation modelling (SEM) evaluated measurement properties and examined associations with stress and anxiety control outcomes. ESEM provided superior fit relative to CFA for multidimensional measures, while Rasch analyses indicated satisfactory measurement functioning across mindfulness measures. Contrary to expectations, despite satisfactory psychometric performance, the MAAS demonstrated near-zero correlations with the FMI total score and its Presence and Acceptance facets, indicating that these measures were essentially independent in this sample rather than showing substantial dimensional overlap. Structural models further revealed distinct patterns of association, with acceptance showing the strongest relationships with coping and emotion control, whereas mindfulness awareness displayed the strongest associations with threat control and stress control. Findings are consistent with multidimensional conceptualisations of mindfulness and demonstrate negligible convergence between the MAAS and FMI, indicating that researchers should not assume that these instruments are interchangeable. More broadly, the findings highlight the importance of empirically evaluating construct overlap when selecting scales intended to assess the same psychological construct.",
-      "journal": "Psychological reports",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Effects and mechanisms of mindfulness acceptance commitment training on anxiety and cognitive flexibility in elite taekwondo athletes: A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013947/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-11T00:00:00",
-      "date_fetched": "2026-11-12T19:17:12.668957",
-      "doi": "10.1016/j.actpsy.2026.108102",
-      "authors": [
-        {
-          "name": "Yuee Gao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Keqiang Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jianye Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Fengming Dong",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Competitive anxiety is a common challenge in elite taekwondo, where athletes must regulate pressure and rapidly adapt to changing tactical demands. This randomized controlled trial examined the effects of Mindfulness-Acceptance-Commitment (MAC) training on competitive anxiety and cognitive flexibility in elite taekwondo athletes. Eighty athletes were randomly assigned to an 8-week MAC group (n\u202f=\u202f40) or an active Psychological Skills Training control group (PST; n\u202f=\u202f40). Assessments were conducted at baseline (T0), immediately post-intervention (T1), and 3-month follow-up (T2) using self-report questionnaires and a computerized task-switching paradigm. Significant Group \u00d7 Time interactions were found for cognitive anxiety, somatic anxiety, self-confidence, cognitive flexibility, and task-switching switch cost (all p\u202f<\u202f.01), indicating that changes differed between groups over time. The MAC group showed larger improvements in anxiety-related outcomes, self-confidence, and cognitive flexibility, with medium-to-large effects and the strongest effect for reduced switch cost (d\u202f=\u202f1.67). Mediation analyses suggested that increased mindfulness and reduced experiential avoidance partially explained these changes. These findings provide preliminary evidence that MAC training may improve psychological regulation and adaptive cognitive functioning in elite taekwondo athletes, although further studies with larger samples and competition-based assessments are warranted.",
-      "journal": "Acta psychologica",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "ID-SCAN: a functional MRI protocol for neurophenomenological phenotyping of dissociative identity disorder without trauma provocation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013476/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-12-01T00:00:00",
-      "date_fetched": "2026-11-12T19:17:12.669086",
-      "doi": "10.1080/20008066.2026.2753872",
-      "authors": [
-        {
-          "name": "Shogo Kajimura",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Kenichiro Okano",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Senkei Ueno",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Junko Yamada",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Haruna Fukui",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Aiko Hirai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ayahito Ito",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nobuhito Abe",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ryusuke Nakai",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Shunichi Noma",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Toshiya Murai",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": "European journal of psychotraumatology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness-based stress reduction for sleep quality and emotional state in menopause-related insomnia symptoms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013750/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-11T00:00:00",
-      "date_fetched": "2026-11-12T19:17:12.669249",
-      "doi": "10.1080/13697137.2026.2752790",
-      "authors": [
-        {
-          "name": "Jing Zhao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jun Deng",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Heng Liu",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: This study examined the efficacy and safety of mindfulness-based stress reduction (MBSR) for menopause-related insomnia symptoms, with a focus on anxiety, depression, sleep quality, coping styles and quality of life. METHOD: Eighty-two patients with menopause-related insomnia symptoms were randomized into an experimental group ( RESULTS: Compared with routine care alone, the MBSR group achieved significantly larger decreases in Self-Rating Anxiety Scale and Self-Rating Depression Scale scores, lower Pittsburgh Sleep Quality Index scores, more positive improvements in disease coping styles and more pronounced gains in several quality-of-life dimensions, particularly physical, psychological and social functioning ( CONCLUSION: This study confirms that 12-week MBSR is a safe and effective intervention for improving sleep quality, negative emotions, coping styles and quality of life in patients with menopause-related insomnia symptoms.",
-      "journal": "Climacteric : the journal of the International Menopause Society",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Barriers to Complementary and Integrative Health Use Among Veterans on Long-Term Opioid Therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016000/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-11T00:00:00",
-      "date_fetched": "2026-11-12T19:17:12.669513",
-      "doi": "10.1177/27683605261505152",
-      "authors": [
-        {
-          "name": "Maryam Kazemitabar",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Robert D Kerns",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "William C Becker",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alicia A Heapy",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erica A Abel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Haseena Rajeevan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jamie H Douglas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Steven B Zeliadt",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Samara K Zuniga",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Blair P Curtis",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "William C Westmoreland",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Benjamen Kligler",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Janet M Clark",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christina L Vair",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alison M Whithead",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Julie L Olson",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anne C Black",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Complementary and integrative health (CIH) therapies are increasingly promoted within the Veterans Health Administration (VHA) as nonpharmacologic approaches and adjuncts to long-term opioid therapy (LTOT) for chronic pain. However, uptake remains modest, and barriers to initiation and continuation are poorly understood. METHODS: We conducted a cross-sectional survey of 126 Veterans with chronic pain on LTOT who had no CIH utilization documented in VHA electronic health records between July 1, 2017, and December 31, 2022. Participants were sampled from a national VHA cohort of over 280,000 Veterans. Respondents reported familiarity with nine CIH services-acupuncture, biofeedback, guided imagery, clinical hypnosis, therapeutic massage, meditation, tai chi/qi gong, yoga, and chiropractic care-as well as prior use and reasons for non-use or discontinuation. Barriers were summarized overall and stratified by age, sex, and race. RESULTS: Fewer than 10% of Veterans reported regular use of most modalities, with chiropractic care as the exception (23% regular use). Common reasons for non-use included lack of knowledge about eligibility, uncertainty about how to begin, and skepticism about effectiveness. Discontinuation was most often attributed to perceived ineffectiveness, cost, and logistical challenges. Younger Veterans more frequently reported not knowing they were eligible or how to start, while White Veterans more often cited doubts about effectiveness, and Black Veterans reported discomfort with particular modalities. Self-practice therapies (yoga and meditation) were more commonly practiced at home; whereas hands-on therapies (acupuncture, chiropractic care, and massage) were largely accessed in community settings where cost and logistics were prominent barriers. CONCLUSIONS: Substantial barriers remain to CIH service engagement among Veterans on LTOT, spanning awareness, logistics, and personal comfort. Targeted education, streamlined referrals, and strategies to manage early expectations may improve uptake and sustainment.",
-      "journal": "Journal of integrative and complementary medicine",
+      "abstract": "BACKGROUND: Long COVID affects millions of adults, causing fatigue, dyspnea, cognitive symptoms, and mood disturbances. Effective treatments are limited, and many patients cannot access multidisciplinary rehabilitation because of symptom fluctuation, distance, or specialist shortages. Web-based mind-body interventions may offer accessible, scalable support alongside existing care. OBJECTIVE: We assessed the feasibility and efficacy of a 3-week web-based yogic breathing and meditation program for long COVID symptoms. METHODS: In this completed, parallel-group, 6-week waitlist-controlled, mixed methods randomized trial, adults aged 18-70 years with physician-confirmed long COVID were recruited from US clinics and self-referral and randomized 1:1 to immediate intervention or waitlist control, crossing over at week 3. The program included live webinars and video guides for daily self-practice. The primary outcome was adherence, defined as practicing at least 1 of 3 techniques on \u22654 days/week across all 3 active-intervention weeks. Secondary outcomes included perceived stressmood, quality of life, dyspnea, and somatic symptom burden, assessed at baseline, 3 weeks, and 6 weeks. Quantitative outcomes were analyzed using linear mixed-effects models. Semistructured interviews and focus groups underwent conventional content analysis and were integrated with quantitative findings via joint display. RESULTS: Of 189 randomized participants, 1 was excluded post-randomization for a protocol deviation; 188 (96 intervention, 92 waitlist) began the study. Of these, 124 reached the active intervention period. Among 58 with complete adherence data, 55% met the adherence threshold (60% intervention, 50% waitlist). Secondary analyses included 185 participants with \u22651 assessment. No adverse events were reported. Compared with waitlist control, the intervention group showed greater reductions in total mood disturbance (MD=-10; 95% CI -19 to -1.6; P=.02), negative mood (MD=-7.5; 95% CI -15 to -0.44; P=.04), fatigue (MD=-2.9; 95% CI -4.6 to -1.2; P=.001), MDP immediate perception (MD=-5.5; 95% CI -9.4 to -1.6; P=.007), MDP sensory dimension (MD=-5.1; 95% CI -8.5 to -1.7; P=.003), and somatic symptom burden (MD=-2.0; 95% CI -3.6 to -0.38; P=.02), and greater increases in positive mood (MD=2.9; 95% CI 0.66 to 5.1; P=.01) and vigor (MD=1.7; 95% CI 0.18 to 3.2; P=.03). Stress and quality of life did not differ significantly. Qualitative findings identified medical-system struggles, digital delivery, online support, and practices' effects on resilience and identity. Integration showed convergence for dyspnea and mood, divergence for stress and quality of life, and expansion through themes of medical-system experience, identity, and social connection. CONCLUSIONS: This web-based yogic breathing and meditation program appears feasible and accessible for people with long COVID. By combining 3 practices in a brief protocol and integrating quantitative and qualitative evidence, this study provides novel insight into both symptom outcomes and dimensions of recovery not captured by standardized measures. Further evaluation should assess longer-term effects and integration into scalable telehealth and virtual rehabilitation pathways.",
+      "journal": "Journal of medical Internet research",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -602,5 +290,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "The Shapes and Colors of a Near-Death Experience",
+      "url": "https://nautil.us/the-shapes-and-colors-of-a-near-death-experience-1286591/",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-11-12T20:30:00",
+      "date_fetched": "2026-11-13T18:54:19.146344",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Kristen French",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "Nautilus",
+      "excerpt": "Near-death experiences are more common than many of us might think: Some studies estimate that between four and eight percent of the global population has had one, as have up to 23 percent of cardiac arrest survivors. These journeys into the borderlands of consciousness tend to feature a few common perceptual themes: ghostly figures and bright lights, tunnels, a sense of peace and calm. But questions about the nature of such experiences and how such perceptual phenomena arise abound. Recently...",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "consciousness"
+      ]
+    }
+  ]
 }
