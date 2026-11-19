@@ -1,391 +1,58 @@
 {
-  "generated_at": "2026-11-18T19:43:19.737653",
+  "generated_at": "2026-11-19T19:43:22.571081",
   "papers": [
     {
-      "title": "Distinct contemplative traditions share a common EEG complexity signature",
-      "url": "https://www.semanticscholar.org/paper/29d87b3c06b1db641c5ab5190ac8ed8ba4a8aa8a",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-11-14T00:00:00",
-      "date_fetched": "2026-11-18T19:42:15.215920",
-      "doi": "10.1101/2025.06.20.660652",
-      "authors": [
-        {
-          "name": "Prakash Shrimali",
-          "author_id": "2368631911",
-          "affiliation": null
-        },
-        {
-          "name": "A. Sasidharan",
-          "author_id": "4162472",
-          "affiliation": null
-        },
-        {
-          "name": "Saketh Malipeddi",
-          "author_id": "2282712845",
-          "affiliation": null
-        },
-        {
-          "name": "Bianca Ventura",
-          "author_id": "2187623505",
-          "affiliation": null
-        },
-        {
-          "name": "R. Venugopal",
-          "author_id": "38338562",
-          "affiliation": null
-        },
-        {
-          "name": "A. Nair",
-          "author_id": "2484259",
-          "affiliation": null
-        },
-        {
-          "name": "P. Tewarie",
-          "author_id": "1873512",
-          "affiliation": null
-        },
-        {
-          "name": "P. Ravindra",
-          "author_id": "2345368648",
-          "affiliation": null
-        },
-        {
-          "name": "B. Kutty",
-          "author_id": "5880440",
-          "affiliation": null
-        },
-        {
-          "name": "G. Northoff",
-          "author_id": "144296359",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Meditation encompasses diverse practices that train attention inward, unlike externally oriented task states. Which brain-activity features are shared across contemplative practices, which accompany long-term training, and which are tradition-specific remains unclear. We leveraged electroencephalography data from 226 participants: advanced meditators of four contemplative traditions and non-meditating controls. We developed a neurodynamic profiling approach spanning 21 features across four feature families: oscillatory, aperiodic, complexity and timescale. Using extensive machine learning, we found that meditation and task states were reliably separable, driven by a large, uniform drop in complexity during meditation. Meditators differed from controls primarily in timescale dynamics. Traditions exhibited distinct signatures in all feature families except complexity, and meditators\u2019 neurodynamic profiles identified the contemplative tradition they practiced. A classifier trained on three traditions could still detect meditation in the fourth, regardless of which tradition was left out, relying mainly on complexity features. Diverse contemplative techniques therefore converge on a shared neurodynamic signature\u2014reduced complexity during meditation relative to an external task, that generalizes across traditions. This shared signature coexists with tradition-specific profiles in oscillatory, aperiodic, and timescale features.",
-      "journal": "bioRxiv",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Worldviews in Large Language Models",
-      "url": "https://www.semanticscholar.org/paper/e0b20cb2cac497823ce69e6f5d762a42d3462143",
-      "item_type": "paper",
-      "source_type": "semantic_scholar",
-      "date_published": "2026-11-17T00:00:00",
-      "date_fetched": "2026-11-18T19:42:20.188690",
-      "doi": null,
-      "authors": [
-        {
-          "name": "E. L\u00f3pez Sola",
-          "author_id": "94415045",
-          "affiliation": null
-        },
-        {
-          "name": "S. Chandaria",
-          "author_id": "118775812",
-          "affiliation": null
-        },
-        {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
-          "affiliation": null
-        }
-      ],
-      "abstract": "Large language models (LLMs) are often described in terms of personas and this framing has become central to alignment research. In this paper, we argue that there is a deeper level of description that lies in the agent's worldviews, i.e., its beliefs about what reality is and how it works. Treating LLMs as a population of subjects, we administer two worldview surveys from human psychology to eight models. We show that the models share many key worldview positions. For example, LLMs consistently describe the world as less good, safe, enticing, and alive than humans do. On the other hand, base models have a more positive outlook, suggesting that the bleakness we found is driven by post-training. In line with research on LLM\"personas\", we show that system prompts eliciting different identities shift worldviews in consistent directions, and that a contemplative prompt creates a more positive outlook and improves safety. We also found that dialogue between models consistently shifts worldviews and that several models converge on the\"spiritual bliss\"attractor. Intriguingly, dialogue increased safe responses and the spiritual bliss attractor engendered the most aligned responses overall. These findings suggest that worldviews form a measurable and malleable layer of LLM behavior that may be crucial for robust, positive alignment.",
-      "journal": "",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Others or the Self? A Network Simulation Analysis of Multiple Attachments, Self-Compassion, Depressive Symptoms, and Suicidal Ideation among College Students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43046545/",
+      "title": "Sustained mindfulness practice and socio-professional factors predict quality of life improvement in cancer patients: the Onco-MBSR study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049944/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-11-17T00:00:00",
-      "date_fetched": "2026-11-18T19:43:18.779312",
-      "doi": "10.1080/13811118.2026.2761496",
+      "date_fetched": "2026-11-19T19:43:11.827647",
+      "doi": "10.1007/s00520-026-11452-w",
       "authors": [
         {
-          "name": "Tingting Fu",
+          "name": "Patrick Heitzmann",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Cui Xia",
+          "name": "Camille Lacroix",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Yue Chen",
+          "name": "Antoine Valery",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Ruibo Xie",
+          "name": "Pascale Nau",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Claude Maskens",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Bernadette Dupuis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jean-G\u00e9rard Bloch",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Benoit Roch",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "OBJECTIVE: This study integrates multiple attachments, self-compassion, depressive symptoms, and suicidal ideation among college students within a unified framework. Through simulation-based analysis, it identifies key factors associated with simulated changes in the activation probability of suicidal ideation, providing insights for subsequent intervention research targeting suicidal ideation. METHODS: A cross-sectional survey design was adopted, recruiting 9,277 college students from three universities in central China in 2021 (19.07\u2009\u00b1\u20091.04\u2009years; 46.33% male). An Ising model was used to construct the network, and the NodeIdentifyR algorithm was applied to simulate alleviating and aggravating scenarios by adjusting node threshold parameters. Changes in the activation probability of the suicidal ideation node under different simulated node state-change scenarios were evaluated. RESULTS: Interpersonal problems, self-kindness, and father-child attachment showed relatively strong direct conditional associations with suicidal ideation. In the simulated alleviating scenarios, simulated changes in depressed affect, interpersonal problems, and self-kindness were associated with relatively greater reductions in the activation probability of the suicidal ideation node. In the simulated aggravating scenarios, simulated changes in mother-child attachment, common humanity, and mindfulness were associated with relatively greater increases in the activation probability of the suicidal ideation node. No significant differences were observed in the overall network structure between males and females, although descriptive differences were identified in the state-change patterns of several nodes. CONCLUSION: Different psychological and family factors showed heterogeneous patterns of changes in suicidal ideation probability, suggesting that network simulation methods may help explore potential intervention factors. Some state-change patterns showed descriptive differences between males and females, which may inform future gender-related research.",
-      "journal": "Archives of suicide research : official journal of the International Academy for Suicide Research",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Code Blue for Planet Earth and the $860K Solution: Nurses Lead the Charge Against Bedside Supply Waste.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044056/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-17T00:00:00",
-      "date_fetched": "2026-11-18T19:43:18.779644",
-      "doi": "10.1097/QMH.0000000000000578",
-      "authors": [
-        {
-          "name": "Eric R Messner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Rebecca Modene",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Erin Kitt-Lewis",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND AND OBJECTIVE: Healthcare systems face rising costs and environmental waste, with bedside supply waste-clean, unused items discarded at discharge-often overlooked. Nurses are well positioned to lead sustainable, cost-saving interventions. This sequential explanatory mixed-methods study evaluated a nurse-led supply stocking intervention to reduce bedside supply waste. METHODS: A 2-week baseline assessment across 5 inpatient units at a large academic medical center quantified discarded supplies, while a concurrent nurse survey explored perceptions, barriers, and improvement ideas. Findings informed 2 interventions: revised patient room stocking protocols and centralized supply carts with high-use items. Nurse champions supported implementation over 2 weeks, followed by repeat waste audits and surveys. RESULTS: Discarded supplies decreased from 9467 items to 353, generating $30.76 per-patient savings and projected annual institutional savings exceeding $860 000. Nurse feedback reflected greater supply mindfulness, reduced overstocking, and improved alignment of stocking practices with workflow. CONCLUSIONS: This scalable, nurse-driven model demonstrates cost-effective, sustainable quality improvement in inpatient care.",
-      "journal": "Quality management in health care",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Non-hormonal management of menopause symptoms-the statement of the European Society of Gynecology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049482/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-12-31T00:00:00",
-      "date_fetched": "2026-11-18T19:43:18.779714",
-      "doi": "10.1080/09513590.2026.2751783",
-      "authors": [
-        {
-          "name": "Camil Castelo-Branco",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ludwig Kiesel",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tevfik Yoldemir",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nathalie Chabbert-Buffet",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Attila Jakab",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Alessandro Genazzani",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Christian Battipaglia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Petra Stute",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "B\u0142a\u017cej M\u0229czekalski",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Mark Brincat",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Svetlana Vujovic",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ineta Vasaraudze",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrea Giannini",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Andrea R Genazzani",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BACKGROUND: Menopausal symptoms, particularly vasomotor symptoms (VMS), sleep disturbances, mood disorders, and genitourinary syndrome of menopause (GSM), affect a substantial proportion of women and may significantly impair the quality of life. Although menopausal hormone therapy (MHT) remains the most effective treatment, many women have contraindications to hormonal treatment or prefer non-hormonal options. OBJECTIVE: To review and provide evidence-based recommendations on current non-hormonal interventions for the management of menopausal symptoms. METHODS: The European Society of Gynecology convened an expert panel that performed a comprehensive literature review using MEDLINE and EMBASE. Clinical guidelines, systematic reviews, meta-analyzes, randomized controlled trials, and relevant primary studies evaluating non-hormonal interventions for menopausal symptoms were identified, critically appraised, and synthesized through a structured consensus process. RESULTS: Lifestyle modification, including healthy diet, regular physical activity, weight control, sleep hygiene, and behavioral interventions, forms the foundation of menopausal care. Among pharmacological therapies, selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, gabapentin, clonidine, oxybutynin, and pregabalin demonstrate varying degrees of efficacy for VMS. Neurokinin receptor antagonists, particularly fezolinetant and elinzanetant, represent the most effective evidence-based non-hormonal pharmacologic therapies currently available. Cognitive behavioral therapy and clinical hypnosis effectively reduce VMS-related distress and improve sleep and quality of life. Evidence for complementary approaches such as mindfulness, yoga, acupuncture, acupressure, reflexology, phytoestrogens, S-equol, DT56a, purified pollen extracts, and black cohosh ranges from moderate to limited. For GSM, lubricants, moisturizers, hyaluronic acid preparations, and pelvic floor muscle training provide symptomatic benefit, whereas current evidence does not support routine use of vaginal laser therapy. CONCLUSIONS: Non-hormonal therapies provide effective and individualized treatment options for menopausal symptoms, particularly for women who are unable or unwilling to use MHT. Neurokinin receptor antagonists, selected pharmacologic agents, psychological interventions, and targeted GSM therapies represent the strongest evidence-based approaches currently available. The choice of treatment should consider symptom profile, contraindications, adverse effects, regulatory approval, and patient preferences.",
-      "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Non-pharmacological interventions for ADHD in children and adolescents from low- and middle-income countries: A scoping review: Interventions non pharmacologiques chez les enfants et les adolescents atteints de TDAH dans les pays \u00e0 revenu faible ou interm\u00e9diaire: un examen de la port\u00e9e.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43048999/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-18T00:00:00",
-      "date_fetched": "2026-11-18T19:43:18.779803",
-      "doi": "10.1177/07067437261503698",
-      "authors": [
-        {
-          "name": "Dea Gjomema",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Nisha Ravindran",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Angela Paric",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Raymond W Lam",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Arun V Ravindran",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "BackgroundAttention deficit hyperactivity disorder (ADHD) is common among children and adolescents globally, yet evidence on non-pharmacological interventions remains disproportionately concentrated in high-income settings. This scoping review aimed to identify and synthesize evidence for the benefit of such interventions for this population with ADHD in low- and middle-income countries (LMICs).MethodsSystematic searches were conducted for clinical trials evaluating non-pharmacological interventions for youth aged 4-18 years with ADHD in LMICs. Interventions included behavioural and psychosocial therapies, cognitive training, psychoeducation, neurofeedback (NF), and complementary and alternative medicine (CAM). Of 4030 records identified, 16 studies met inclusion criteria. Findings were synthesized descriptively, and risk of bias was assessed using validated risk-of-bias tools.ResultsMost studies reported improvements across ADHD symptoms and selected cognitive, behavioural, or functional outcomes. The effects were moderate-to-large in several domains where standardized effect sizes were available. Studies of behavioural and parent-focused interventions reported relatively consistent improvements, while studies of cognitive training reported benefits across selected attentional, working-memory, and academic outcomes. Evidence for NF was limited, and findings across CAM interventions were mixed and highly heterogeneous. Overall, the evidence base was limited by the small number of studies, generally modest sample sizes, substantial clinical and methodological heterogeneity, and risk-of-bias concerns, limiting conclusions regarding the relative efficacy of individual interventions.ConclusionsNon-pharmacological interventions may contribute to ADHD management in LMICs as part of multimodal care. Larger, methodologically rigorous studies are needed to better establish their efficacy and support culturally appropriate and accessible implementation.",
-      "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Mindfulness-based cognitive therapy modulates dorsolateral prefrontal cortex activation during self-referential processing in obsessive-compulsive disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43044381/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-11T00:00:00",
-      "date_fetched": "2026-11-18T19:43:18.779910",
-      "doi": "10.1016/j.psychres.2026.117575",
-      "authors": [
-        {
-          "name": "Daniel Porta-Caster\u00e0s",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marta Cano",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Pino Alonso",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Muriel Vicent-Gil",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "V\u00edctor De la Pe\u00f1a-Arteaga",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Neus Miquel-Giner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Ignacio Mart\u00ednez-Zalaca\u00edn",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Lorea Mar-Barrutia",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marina L\u00f3pez-Sol\u00e0",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jessica R Andrews-Hanna",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Carles Soriano-Mas",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Narc\u00eds Cardoner",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Clara L\u00f3pez-Sol\u00e0",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Maria Serra-Blasco",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "Mindfulness-based cognitive therapy (MBCT) has emerged as a promising strategy for patients with obsessive-compulsive disorder (OCD) who do not fully respond to cognitive behavioral therapy. However, the neurobiological mechanisms underlying the effects of MBCT remain unclear. Functional magnetic resonance imaging (fMRI) is a critical tool for identifying brain changes associated with therapeutic interventions. We aimed to identify the neurobiological underpinnings of MBCT for clinically complex OCD by evaluating task-based fMRI during self-referential processing. Thirty-one patients with OCD (i.e., 15 randomized to a 3-month MBCT program and 16 to a treatment-as-usual group) underwent task-based fMRI scanning sessions focused on self-referential processing at baseline and after 3 months. During the fMRI sessions, participants completed a self-referential processing task, where they responded \"yes\" or \"no\" to whether an adjective described themselves. A flexible factorial model and within-group paired t-tests were used to evaluate the impact of the treatment group on longitudinal changes in brain activation. Our analyses revealed a group-by-time interaction in the dorsolateral prefrontal cortex (dlPFC) activity during self-referential processing. Patients with OCD treated with MBCT showed a reduction in dlPFC activation. An exploratory psychophysiological interaction analysis did not identify significant group-by-time changes in task-dependent functional connectivity between the dlPFC and regions within the default mode network. This study highlights that MBCT was associated with reduced dlPFC recruitment during self-referential processing in OCD, potentially reflecting less reliance on executive control during self-referential judgments. This dlPFC down-shift offers a plausible neurobiological correlate of MBCT effects in OCD.",
-      "journal": "Psychiatry research",
+      "abstract": "PURPOSE: MBSR is increasingly integrated into supportive cancer care and has demonstrated beneficial effects on quality of life (QoL) and psychological distress. However, determinants of individual response to MBSR remain poorly characterized. This study aimed to identify predictors of QoL improvement following participation in a standardized MBSR program among cancer patients. METHODS: This prospective, multicenter observational study included adult cancer patients enrolled in an 8-week standardized MBSR program across 12 certified centers in France and Belgium. QoL was assessed with EORTC QLQ-C30 and psychological distress with HADS at baseline (BL), end of program, and 3 months after program completion (M3). QoL improvement predictors between BL and M3 were explored using univariate analyses followed by multivariate models focusing on emotional (EF) and socio-family functioning (SFF). RESULTS: Among 211 participants with complete follow-up, significant improvements were observed across several QoL domains, particularly EF and SFF. In multivariate analyses, weekly mindfulness practice exceeding 50\u00a0min was the most consistent and robust independent predictor of improvement in both domains. Age was independently associated with EF, with poorer outcomes observed in participants aged 50-70\u00a0years. Socio-professional category (SPC) independently predicted SFF, with reduced improvement among craftsmen and blue-collar workers. CONCLUSION: In this large, real-world multicenter cohort, sustained engagement in mindfulness practice was the primary determinant of QoL improvement following MBSR in patients with cancer, while SPC and age modulated specific psychosocial outcomes. These findings support the need to promote long-term practice and adapt MBSR delivery to improve accessibility and effectiveness within supportive cancer care.",
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -393,31 +60,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "Save the Parasites!",
-      "url": "https://nautil.us/save-the-parasites-1286758/",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-11-18T15:00:00",
-      "date_fetched": "2026-11-18T19:43:19.236025",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Amber Dance",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "Nautilus",
-      "excerpt": "The world is full of tiny things that live off more charismatic hosts. Parasite ecologists say that these critters, too, are finally starting to get the conservation attention they deserve The post Save the Parasites! appeared first on Nautilus.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "attention"
-      ]
-    }
-  ]
+  "articles": []
 }
