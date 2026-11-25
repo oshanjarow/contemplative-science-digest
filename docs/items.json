@@ -1,104 +1,963 @@
 {
-  "generated_at": "2026-11-24T21:40:59.006603",
+  "generated_at": "2026-11-25T20:48:45.154096",
   "papers": [
     {
-      "title": "What Kind of Suffering Does Meditation Reduce?",
-      "url": "https://www.semanticscholar.org/paper/00c52b478f5b73c6af39c2f10f4a426397081207",
+      "title": "Long-term mindfulness meditation increases occurrence of sensory and attention brain states",
+      "url": "https://www.semanticscholar.org/paper/caf6c40b85983d293ab5202be788bcfcf1d70995",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-11-21T00:00:00",
-      "date_fetched": "2026-11-24T21:39:59.901049",
-      "doi": "10.1007/s12671-026-03027-x",
+      "date_published": "2025-01-06T00:00:00",
+      "date_fetched": "2026-11-25T20:47:55.447711",
+      "doi": "10.3389/fnhum.2024.1482353",
       "authors": [
         {
-          "name": "Vismay Agrawal",
-          "author_id": "2588481962",
+          "name": "D. Panitz",
+          "author_id": "2121338718",
           "affiliation": null
         },
         {
-          "name": "R. Laukkonen",
-          "author_id": "8103511",
+          "name": "A. Mendelsohn",
+          "author_id": "48412936",
+          "affiliation": null
+        },
+        {
+          "name": "J. Cabral",
+          "author_id": "145463318",
+          "affiliation": null
+        },
+        {
+          "name": "A. Berkovich-Ohana",
+          "author_id": "1403270222",
           "affiliation": null
         }
       ],
-      "abstract": "\n Meditation has been shown to reduce various forms of suffering and increase well-being. However, its broad effectiveness raises the question: In what way does meditation reduce suffering? We explore this question systematically, proposing that meditation\u2019s effectiveness stems not from addressing specific types of suffering but from dismantling underlying mechanisms that create the conditions for suffering. First, we examine suffering from three frameworks: well-being (hedonia/eudaimonia), contemporary mindfulness (non-reactivity), and traditional Buddhist practice (ignorance). While these approaches may correspond to phenomenologically similar states with less suffering, they reinforce different underlying habits, thereby affecting the likelihood of future suffering. Second, we clarify this distinction by drawing on the action\u2013perception cycle from a computational phenomenology perspective. Particularly, we cast suffering as self-reinforcing action\u2013perception cycles, and unreliable/reliable reduction of suffering as unstable/stable equilibrium in action\u2013perception cycles. Third, we propose four stages through which meditation facilitates a reliable reduction by progressively revealing that suffering, typically perceived as a passive experience, is in fact a specific pattern of action we are engaged in (i.e. meditation provides a reliable way to reduce enacted suffering). Our framework provides a conceptual foundation for mathematically formalizing and computationally modelling non-reactivity, ignorance (in the Buddhist sense), and suffering, and has implications for the larger goal of understanding perception, action, and conscious experience.",
-      "journal": "Mindfulness",
-      "year": 2026,
+      "abstract": "Interest has been growing in the use of mindfulness meditation (MM) as a therapeutic practice, as accumulating evidence highlights its potential to effectively address a range of mental conditions. While many fMRI studies focused on neural activation and functional connectivity during meditation, the impact of long-term MM practice on spontaneous brain activity, and on the expression of resting state networks over time, remains unclear. Here, intrinsic functional network dynamics were compared between experienced meditators and meditation-na\u00efve participants during rest. Our analysis revealed that meditators tend to spend more time in two brain states that involve synchrony among cortical regions associated with sensory perception. Conversely, a brain state involving frontal areas associated with higher cognitive functions was detected less frequently in experienced meditators. These findings suggest that, by shifting attention toward enhanced sensory and embodied processing, MM effectively modulates the expression of functional network states at rest. These results support the suggested lasting effect of long-term MM on the modulation of resting-state networks, reinforcing its therapeutic potential for disorders characterized by imbalanced network dynamics. Moreover, this study reinforces the utility of analytic approaches from dynamical systems theory to extend current knowledge regarding brain activity and evaluate its response to interventions.",
+      "journal": "Frontiers in Human Neuroscience",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditation"
+      ]
     },
     {
-      "title": "School Nurse-Led Mindfulness Activities for Third-Grade Children.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43075807/",
+      "title": "Advanced Analysis of Alpha EEG Patterns for Identifying Meditative States in Alpha Power Activation Yoga (APAY)",
+      "url": "https://www.semanticscholar.org/paper/fe71b93c9176e71554bd5e0123add7dada3aef29",
       "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-24T00:00:00",
-      "date_fetched": "2026-11-24T21:40:58.352096",
-      "doi": "10.1177/1942602X261510044",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-30T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531225",
+      "doi": "10.54392/irjmt25212",
       "authors": [
         {
-          "name": "Amanda Goff",
-          "author_id": null,
+          "name": "K. R",
+          "author_id": "2168260137",
           "affiliation": null
         },
         {
-          "name": "Denise Hammer",
-          "author_id": null,
+          "name": "P. Kshirsagar",
+          "author_id": "2330523617",
           "affiliation": null
         },
         {
-          "name": "Yvette Pigman",
-          "author_id": null,
+          "name": "Thiagarajan R",
+          "author_id": "2417667575",
+          "affiliation": null
+        },
+        {
+          "name": "Kuan-Tak Tan",
+          "author_id": "2308236566",
+          "affiliation": null
+        },
+        {
+          "name": "Sivaneasan B",
+          "author_id": "2353678548",
           "affiliation": null
         }
       ],
-      "abstract": "School nurses are uniquely positioned to support students' social and emotional well-being through school-based interventions. A school nurse-led quality improvement initiative introduced mindfulness interventions for third-grade students to support self-awareness and self-regulation in alignment with the Illinois State Board of Education Social and Emotional Learning Standards. The intervention included 15 video mindfulness lessons delivered to third-grade teachers for classroom use over 4 weeks. Students learned to develop self-awareness and self-regulation skills using tools such as breathing boards, relaxation, and the five senses. Sixty-five students completed pre- and post-social, academic, and emotional assessments; their social risk scores improved, indicating a reduction in perceived social risk. Teachers and students provided positive feedback on the activities and how they benefited from the lessons. Our results indicate that school nurse-led mindfulness interventions are a feasible strategy that may improve students' social well-being and self-regulation skills.",
-      "journal": "NASN school nurse (Print)",
+      "abstract": "Meditation, especially Alpha-Power Activation Yoga (APAY), is popular today for well-being. Apay promotes relaxation and focuses using yoga and attention. However, the inspiring settings app effectiveness evaluation made challenging. EEG can measure attentive brain activity. This work improves the Alfa EEG pattern analysis for the discovery of EFEM. EEG functions are classified through the moral analysis and machine learning of the time. This approach reflects the neurological attention process. Preliminary research found that alpha-EEG patterns change with training stages such as concentration, attentive absorption and relaxation. Deep concentration reduces hiking and increases frontal and lateral regions. Constant attention increases front and behind alpha, suggests brain treatment and sensory awareness. This shows that app-inspired attention requires more EEG study to understand neurophysiology. Strong EEG biomarker will track skill changes and its mental health benefits. Kaggle EEG Alpha Wave Dataset detects meditation (closes the eyes) with non-meditation (opening of the eyes) when relaxing the subject. In this dataset, the decisions identify accurately the trees in the decision, innocent bays and random forest phenomena. These findings will be repeated in a large population and investigated to see how the monkey practice affects psychological and neurological processes over time. Researchers can identify brainwave patterns and emotional welfare connections and explain these results. It can inspire new attention -based mental health treatments. Doctors can provide better mental and emotional care by adding these techniques to parting to the treatment. A full disposition goal is to improve the awareness of welfare and body. This can show how diet and exercise affect mental health.",
+      "journal": "International Research Journal of Multidisciplinary Technovation",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "\u2018Dharana\u2019 as the Gateway: Meditative Wit(H)Nessing and the Transformation of Trauma in Han Kang\u2019s the White Book",
+      "url": "https://www.semanticscholar.org/paper/99194a79a6a5d2284808a715a9cabd8ed6894593",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-14T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531238",
+      "doi": "10.47191/ijmra/v8-i04-30",
+      "authors": [
+        {
+          "name": "Md. Kamrul Hasan",
+          "author_id": "2495165320",
+          "affiliation": null
+        },
+        {
+          "name": "M. Azad",
+          "author_id": "2463322770",
+          "affiliation": null
+        },
+        {
+          "name": "M. Hossain",
+          "author_id": "2377734687",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Han Kang's The White Book (2016) redefines trauma narratives through Eastern meditative traditions, particularly the yogic concepts of \u2018dharana\u2019 (concentration) and \u2018dharana\u2019 (meditative absorption). The novel's structure, symbolism, and fragmented prose mirror these meditative stages, offering a literary model for processing grief and engaging with collective mourning. The narrator begins with an intense focus on her deceased sister's absence, using whiteness\u2014represented by objects like swaddling bands, snow, and salt\u2014as a focal point (\u2018dharana\u2019). This disciplined concentration anchors her mourning in a structured, ritualistic act of remembrance. As the narrative progresses, this focused contemplation expands beyond personal grief into an immersive meditation on mortality, impermanence, and renewal (dhyana). This transition reflects a shift from individual sorrow to a broader existential awareness, dissolving boundaries between self and collective memory. In parallel, Bracha L. Ettinger's (2006) concept of wit(h)nessing reframes witnessing trauma as an ethical, intersubjective process rather than a detached observation. The novel's sparse and fragmented prose, combined with deliberate white spaces, invites readers to engage actively in the mourning process, transforming reading into a participatory act of remembrance. By integrating Eastern meditative philosophy with poetic storytelling and ethical engagement, The White Book challenges conventional trauma narratives, positioning literature as a space for healing, reflection, and communal memory. This study argues that Kang's work reconfigures how trauma is represented in literature, and offers a transformative framework for understanding grief as a shared and meditative process",
+      "journal": "International journal of multidisciplinary research and analysis",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "The Notions of Absence, Emptiness and Nothingness from the Therav\u0101da Buddhist Perspective",
+      "url": "https://www.semanticscholar.org/paper/db22b2ae3cf21d19924dd9c373a3bcde8922aaad",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-09T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531309",
+      "doi": "10.4312/as.2025.13.2.75-96",
+      "authors": [
+        {
+          "name": "T. Ditrich",
+          "author_id": "102763555",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This article discusses three important concepts of ancient Indian discourse, namely absence, nothingness and emptiness, and examines their representations in Therav\u0101da Buddhism. Firstly, it overviews the early Indian records of the concept of absence and then focuses on the role of absence in Therav\u0101da Buddhism. It shows how the ethical foundations of the Buddhist path to liberation from suffering are largely expressed through the absence of unethical behaviour, and how meditation practice involves the cultivation of mental states that are based on the absence of unwholesome mental factors. The article then discusses specific higher states of meditative absorption, as presented in the canonical and postcanonical P\u0101li sources, which include experiences of infinite space, infinite consciousness, and nothingness, the latter being articulated as the absence of anything at all. According to the Therav\u0101da tradition, the experience of nothingness, which is perceived as complete absence, devoid of any phenomena, is not considered final liberation, because it still involves perception, feeling and other mental components and thus remains in the sphere of impermanence. Only in the state of ultimate emptiness of nibb\u0101na (Sanskrit nirv\u0101\u1e47a) is complete liberation from suffering reached. The realization of nibb\u0101na is presented as the very foundation of a deep transformation of consciousness, reflected in the partial or complete absence of fetters, defined as phenomena that bind living beings to suffering. In summary, the article shows how, in Therav\u0101da Buddhism, absence plays the central role in the cultivation of moral virtue and meditation, including the experience of nothingness, and how the realization of the emptiness of nibb\u0101na, regarded as the final liberation from suffering, is reflected in the concomitant ethical perfection.\u00a0",
+      "journal": "Asian Studies",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Proposed Model on Amrit Varsha Dhyan by Pandit Shriram Sharma Acharya in Enhancing Emotional Intelligence",
+      "url": "https://www.semanticscholar.org/paper/b460f4455a9e93531b8039bcbd1582a586fd2d32",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-31T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531320",
+      "doi": "10.36018/dsiij.25.355",
+      "authors": [
+        {
+          "name": "Lalima Batham",
+          "author_id": "90638421",
+          "affiliation": null
+        },
+        {
+          "name": "Swarnkala Singh",
+          "author_id": "2343470953",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Emotional intelligence, encompassing self-awareness, emotional regulation, empathy, motivation, and social skills, is essential for personal and professional growth. Ancient practices like meditation, rooted in Indian traditions, have been recognized for their potential to enhance emotional intelligence by fostering emotional and psychological balance. Among these practices, Amrit Varsha Dhyan, introduced by Pandit Shriram Sharma Acharya, emerges as a unique meditative approach emphasizing emotional harmony through guided visualization techniques. Amrit Varsha Dhyan involves visualizing the absorption of \"Amrit\" (divine nectar) to cleanse emotions, reduce stress, and cultivate positive thought patterns and behaviors. \nThis paper explores the foundational evidence linking Amrit Varsha Dhyan with the development of emotional intelligence. Through practices like guided imagery and visualization, Amrit Varsha Dhyan is believed to enhance self-awareness, emotional resilience, empathy, and social skills, contributing to holistic well-being. Empirical studies also highlight Amrit Varsha Dhyan's role in reducing anxiety, fostering emotional stability, and improving mental clarity. This study explores the potential of Amrit Varsha Dhyan as a structured meditation practice for cultivating emotional intelligence and promoting overall mental health.",
+      "journal": "Dev Sanskriti Interdisciplinary International Journal",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Svastik\u0101sana And Siddh\u0101sana In The Odia Bh\u0101gavata: A Comparative Study Of Yogic Posture Within The Ha\u1e6dha\u2013 R\u0101ja Yoga Framework",
+      "url": "https://www.semanticscholar.org/paper/08bfe0b0d7c14a0f0462acac9fe96ce8181403b3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-02-01T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531327",
+      "doi": "10.9790/0837-3102040811",
+      "authors": [
+        {
+          "name": "A. Sahoo",
+          "author_id": "46290295",
+          "affiliation": null
+        },
+        {
+          "name": "R. Dash",
+          "author_id": "103495828",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Classical yogic literature accords foundational importance to seated postures (\u0101sana) as prerequisites for\nmeditative absorption and higher yogic realization. While Sanskrit Ha\u1e6dha Yoga texts such as the Ha\u1e6dhaprad\u012bpik\u0101\nand Ghera\u1e47\u1e0da Sa\u1e41hit\u0101 systematically codify \u0101sanas, vernacular devotional texts have received comparatively\nlittle attention as sources of yogic praxis. The Odia Bh\u0101gavata, a major regional adaptation of the Bh\u0101gavata\nPur\u0101\u1e47a, preserves detailed instructions on yogic posture, silence, breath regulation, and contemplative\nabsorption embedded within a Vai\u1e63\u1e47ava devotional framework. This paper undertakes a comparative textual\nanalysis of Sv\u0101stik\u0101sana and Siddh\u0101sana as described in the Odia Bh\u0101gavata, correlating vernacular verses with\nclassical Sanskrit yogic literature. Through verse-specific comparison and functional analysis, the study\ndemonstrates that the Odia Bh\u0101gavata reflects a coherent hierarchy of \u0101sanas consistent with Ha\u1e6dha\u2013R\u0101ja Yoga\nsynthesis. Further, by integrating yogic physiology\u2014n\u0101\u1e0d\u012b, pr\u0101\u1e47a, and psychophysical stabilization\u2014the paper\nargues that the Odia Bh\u0101gavata functions as an applied yogic text wherein bodily discipline facilitates meditative\ndevotion. The findings underscore the relevance of vernacular bhakti literature to the historical transmission of\nclassical yoga.",
+      "journal": "IOSR Journal of Humanities and Social Science",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
-      "matched_keywords": []
+      "matched_keywords": [
+        "meditative absorption"
+      ]
     },
     {
-      "title": "Brain Reorganization Following Psychological Interventions for Chronic Pain: A Systematic Review of Neuroimaging Evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43072435/",
+      "title": "Impact of Nada-Bindu Upanisad on Holistic Health of University Staff",
+      "url": "https://www.semanticscholar.org/paper/e555773a8128a11686e507491ab425d7e5000e1a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-12-30T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531334",
+      "doi": "10.21088/ijamy.0974.6986.19426.3",
+      "authors": [
+        {
+          "name": "Sunil Kumar Tiwari",
+          "author_id": "2588491464",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: University non-teaching staff face signi\ud8bf\udfffcant occupational stress,\nsedentary lifestyles, and work-life imbalance, leading to deteriorating physical\nand mental health. The N\u0101da-Bindu Upani\u1e63ad, an ancient Yoga Upani\u1e63ad, presents a sophisticated philosophy of sound (n\u0101da) and meditative absorption(bindu) that holds potential for addressing contemporary health challenges. Aim: This theoretical paper analyzes the philosophical principles of the N\u0101daBindu Upani\u1e63ad and examines their relevance to the holistic health of university\nnon-teaching employees. Objectives: (1) To systematically analyze key philosophical concepts of the N\u0101daBindu Upani\u1e63ad; (2) To interpret these concepts in the context of occupational health challenges; (3) To develop a theoretical framework linking N\u0101da-Yogaprinciples to measurable health outcomes; (4) To integrate contemporary psychophysiological research for empirical substantiation.\nMaterial: Primary source is the published edition of the N\u0101da-BinduUpani\u1e63ad containing 56 verses with Sanskrit text, Hindi translation, and commentary. Secondary sources include peer-reviewed articles from PubMed, Scopus, Web of Science, and Google Scholar on OM chanting, mantra meditation, and occupational stress. Result: The Upani\u1e63ad\u2019s teachings on the twelve kal\u0101s of Pra\u1e47ava, n\u0101d\u0101nusandh\u0101nain Siddh\u0101sana with Vai\u1e63\u1e47av\u012b Mudr\u0101, progressive re\ud8bf\udfffnement of auditoryperception, and dissolution of v\u0101san\u0101s provide a comprehensive frameworkfor understanding how sound-based meditation regulates the autonomic nervous system. Contemporary research substantiates these claims, demonstrating signi\ud8bf\udfffcant effects on heart rate variability, cardiorespiratory synchronization,\nand stress reduction. Conclusion: The N\u0101da-Bindu Upani\u1e63ad provides a philosophically grounded,\npractically applicable system that can theoretically reduce occupational stress and improve physical and mental health outcomes among university nonteaching staff. Empirical validation through controlled intervention studies is warranted.",
+      "journal": "Indian Journal of Ancient Medicine and Yoga",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Traditional Islamic spiritual meditative practices: powerful psychotherapies for mental wellbeing",
+      "url": "https://www.semanticscholar.org/paper/53edd2dba1a76ee6b642b8a8a1544ab8a7a88bd3",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-16T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531370",
+      "doi": "10.3389/fpsyg.2025.1538865",
+      "authors": [
+        {
+          "name": "Farah R. Zahir",
+          "author_id": "3939894",
+          "affiliation": null
+        },
+        {
+          "name": "M. Qoronfleh",
+          "author_id": "51975218",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The new millennium is witnessing a remarkable shift within the scientific community, to be increasingly understanding and accepting the impact of meditative, spiritual, and even religious practices, on health and wellbeing. This has been precipitated ironically, by cutting edge scientific studies. Rigorous empirical research in epigenomics and neuroscience is proving that religious and spiritual experiences impact psychology and physiology. Therapeutic and prophylactic benefits from spiritual meditative practices (SMPs) are now proven for a variety of chronic conditions, notably in mental health wellness. While all forms of SMPs are currently being investigated, those from the Islamic tradition are lagging behind interrogation of similar SMPs from other traditions, such as mindfulness. Traditional Islamic SMPs have remained largely hidden or misunderstood, and as yet poorly translated into the modern context. In this paper we situate Islamic SMPs in the context of how they impact mental health and wellbeing, explaining their breadth and depth. We highlight the efficacy of dhikr and Quran recitation therapies as treatments for addiction and anxiety, noting historic evidence, and discuss how they may be integrated into modern mental health treatments. A millennium and a half of historical data proves their efficacy as psychotherapy. Precedent for the use of Islamic SMPs to treat mental illness for all people regardless of faith exists, highlighting their potential for wide implementation today. Of the Islamic SMPs that can most easily be accessed by modern people, listening to Quranic recitation and forms of dhikr therapy are notable for their ease of administration and strikingly uniform positive results. More rigorous empirical studies are called for to better translate Islamic SMPs into modern complimentary and alternative medicine, as they hold great promise as universally adoptable cogent modern psychotherapies.",
+      "journal": "Frontiers in Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Leaf absorption contributes to accumulation of microplastics in plants",
+      "url": "https://www.semanticscholar.org/paper/23f1476d8119e518ed57f24d6f7e34b924e197d6",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-09T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531383",
+      "doi": "10.1038/s41586-025-08831-4",
+      "authors": [
+        {
+          "name": "Ye Li",
+          "author_id": "2250774848",
+          "affiliation": null
+        },
+        {
+          "name": "Jun-Jie Zhang",
+          "author_id": "2108072982",
+          "affiliation": null
+        },
+        {
+          "name": "Li Xu",
+          "author_id": "2354961795",
+          "affiliation": null
+        },
+        {
+          "name": "Ruoqi Li",
+          "author_id": "2320717329",
+          "affiliation": null
+        },
+        {
+          "name": "Rui Zhang",
+          "author_id": "2299340299",
+          "affiliation": null
+        },
+        {
+          "name": "Meng-Xi Li",
+          "author_id": "2223019127",
+          "affiliation": null
+        },
+        {
+          "name": "Chun-Mei Ran",
+          "author_id": "2250469639",
+          "affiliation": null
+        },
+        {
+          "name": "Zi-Yu Rao",
+          "author_id": "9822637",
+          "affiliation": null
+        },
+        {
+          "name": "Xing Wei",
+          "author_id": "2128378093",
+          "affiliation": null
+        },
+        {
+          "name": "Mingli Chen",
+          "author_id": "2354576145",
+          "affiliation": null
+        },
+        {
+          "name": "Lu Wang",
+          "author_id": "2485380219",
+          "affiliation": null
+        },
+        {
+          "name": "Zhiwanxin Li",
+          "author_id": "2331269097",
+          "affiliation": null
+        },
+        {
+          "name": "Yining Xue",
+          "author_id": "2325917272",
+          "affiliation": null
+        },
+        {
+          "name": "Chu-Li Peng",
+          "author_id": "11889973",
+          "affiliation": null
+        },
+        {
+          "name": "Chunguang Liu",
+          "author_id": "2277568104",
+          "affiliation": null
+        },
+        {
+          "name": "Hong-Wen Sun",
+          "author_id": "2237738469",
+          "affiliation": null
+        },
+        {
+          "name": "Bao-Shan Xing",
+          "author_id": "2248212498",
+          "affiliation": null
+        },
+        {
+          "name": "Lei Wang",
+          "author_id": "2308701925",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Nature",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Multiscale Design of Dielectric Composites for Enhanced Microwave Absorption Performance at Elevated Temperatures",
+      "url": "https://www.semanticscholar.org/paper/48a5d4dae572d993d558518cad29a863cad4f271",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-31T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531393",
+      "doi": "10.1002/adfm.202423897",
+      "authors": [
+        {
+          "name": "Bo Hao",
+          "author_id": "2337914765",
+          "affiliation": null
+        },
+        {
+          "name": "Yi Zhang",
+          "author_id": "2274913784",
+          "affiliation": null
+        },
+        {
+          "name": "Haoxu Si",
+          "author_id": "1381546690",
+          "affiliation": null
+        },
+        {
+          "name": "Zhiyang Jiang",
+          "author_id": "1621514049",
+          "affiliation": null
+        },
+        {
+          "name": "CuiPing Li",
+          "author_id": "2206516262",
+          "affiliation": null
+        },
+        {
+          "name": "Yi-Bo Zhang",
+          "author_id": "2343477112",
+          "affiliation": null
+        },
+        {
+          "name": "Jing-Wei Zhang",
+          "author_id": "49050888",
+          "affiliation": null
+        },
+        {
+          "name": "Chun-Hong Gong",
+          "author_id": "2294384132",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Aerospace vehicles and electronic devices are often operated in elevated temperature environments, which has led to an increased demand for high\u2010temperature microwave absorbing materials (MAMs). The microwave absorption properties of MAMs are influenced not only by the intrinsic material characteristics but also by the micro\u2010, meso\u2010, and macro\u2010structural configurations of the composites. This paper reviews recent advancements in high\u2010temperature MAMs through a multiscale design approach. Due to the temperature sensitivity of permittivity, MAMs tend to exhibit microwave reflection behavior at elevated temperatures. Strategies aimed at regulating conductivity and polarization behavior can enhance impedance matching under these conditions; however, this often results in an unavoidable reduction in loss capability. In contrast to traditional design methodologies, MAMs constructed from subwavelength\u2010scale functional units can achieve remarkable anti\u2010reflection effects through discrete unit distribution, thereby significantly optimizing both dielectric loss capacity and impedance matching. Furthermore, the equivalent electromagnetic parameters of metacomposites are intrinsically linked to their physical properties and structural attributes. This relationship offers a novel strategy for enhancing high\u2010temperature microwave absorption performance. It is anticipated that this review will provide insightful guidance for future explorations into innovative and highly efficient high\u2010temperature MAMs.",
+      "journal": "Advanced Functional Materials",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Synergistic Polarization Relaxation in Heteroatom\u2010Optimized Heterointerfaces for Electromagnetic Wave Absorption",
+      "url": "https://www.semanticscholar.org/paper/94fca3e2f6913ecde8e275129e6ab26686fa9ee8",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-24T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531401",
+      "doi": "10.1002/adfm.202500304",
+      "authors": [
+        {
+          "name": "Shuang Xu",
+          "author_id": "2306580298",
+          "affiliation": null
+        },
+        {
+          "name": "Zi-Rui Jia",
+          "author_id": "48813175",
+          "affiliation": null
+        },
+        {
+          "name": "Di Lan",
+          "author_id": "2235574887",
+          "affiliation": null
+        },
+        {
+          "name": "Zhen-Guo Gao",
+          "author_id": "2299560450",
+          "affiliation": null
+        },
+        {
+          "name": "Si-Yuan Zhang",
+          "author_id": "2338535861",
+          "affiliation": null
+        },
+        {
+          "name": "Guang-Lei Wu",
+          "author_id": "2264542171",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The regulation of heteroatoms and heterogeneous interface characteristics has emerged as a promising strategy to enhance electromagnetic wave (EMW) absorption. However, challenges remain in precisely controlling heteroatom doping and fully understanding the synergistic mechanisms between heteroatoms and heterogeneous interfaces. Here, a novel strategy is proposed for enhancing synergistic polarization relaxation through heteroatom optimization. Carbon nanofiber (CNF)\u2010based Ni\u2013Fe nanocubes decorated with N and O heteroatoms are synthesized by pyrolyzing Fe\u2010based metal\u2013organic frameworks under different atmospheres (NH3, H2/Ar, Ar). The results show that N, O heteroatoms play a crucial role in the synergistic polarization effect by regulating the electronic structure and diverse heterogeneous structures. Finally, Fe2N@Ni3Fe/CNFs exhibit excellent EMW absorption at 2.3 mm, with a minimum reflection loss of \u221256.75 dB, and an effective absorption bandwidth of 6.7 GHz. Additionally, these materials display remarkable corrosion resistance due to their unique fiber network structure. This study highlights the role of heteroatoms in optimizing synergistic polarization effects, offering valuable insights for the design of advanced EMW absorption materials with heteroatom\u2010optimized heterointerfaces.",
+      "journal": "Advanced Functional Materials",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Botanical Flavonoids: Efficacy, Absorption, Metabolism and Advanced Pharmaceutical Technology for Improving Bioavailability",
+      "url": "https://www.semanticscholar.org/paper/2ad2c3bea7dec1545a4078c45f53c5ac01230c94",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-01T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531499",
+      "doi": "10.3390/molecules30051184",
+      "authors": [
+        {
+          "name": "Lei Hu",
+          "author_id": "2293267041",
+          "affiliation": null
+        },
+        {
+          "name": "Yi-Qing Luo",
+          "author_id": "2349408463",
+          "affiliation": null
+        },
+        {
+          "name": "Jia-Xin Yang",
+          "author_id": "2244228783",
+          "affiliation": null
+        },
+        {
+          "name": "Chun-Song Cheng",
+          "author_id": "2244429248",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Flavonoids represent a class of natural plant secondary metabolites with multiple activities including antioxidant, antitumor, anti-inflammatory, and antimicrobial properties. However, due to their structural characteristics, they often exhibit low bioavailability in vivo. In this review, we focus on the in vivo study of flavonoids, particularly the effects of gut microbiome on flavonoids, including common modifications such as methylation, acetylation, and dehydroxylation, etc. These modifications aim to change the structural characteristics of the original substances to enhance absorption and bioavailability. In order to improve the bioavailability of flavonoids, we discuss two feasible methods, namely dosage form modification and chemical modification, and hope that these approaches will offer new insights into the application of flavonoids for human health. In this article, we also introduce the types, plant sources, and efficacy of flavonoids. In conclusion, this is a comprehensive review on how to improve the bioavailability of flavonoids.",
+      "journal": "Molecules",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Recent Advances in Structural Design of Carbon/Magnetic Composites and their Electromagnetic Wave Absorption Applications.",
+      "url": "https://www.semanticscholar.org/paper/51ab4c908af7dc66df7b7f27d34f223d8cf95eef",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-20T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531519",
+      "doi": "10.1002/smll.202408570",
+      "authors": [
+        {
+          "name": "Hai-Yang Peng",
+          "author_id": "2297155512",
+          "affiliation": null
+        },
+        {
+          "name": "Da Zhang",
+          "author_id": "2109561171",
+          "affiliation": null
+        },
+        {
+          "name": "Zhi-Peng Xie",
+          "author_id": "2237751590",
+          "affiliation": null
+        },
+        {
+          "name": "Shuiqing Lu",
+          "author_id": "2297065965",
+          "affiliation": null
+        },
+        {
+          "name": "Yichang Liu",
+          "author_id": "2297065544",
+          "affiliation": null
+        },
+        {
+          "name": "Feng Liang",
+          "author_id": "2237712717",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Electromagnetic pollution protection and military stealth technologies underscore the urgent need to develop efficient electromagnetic wave-absorbing materials (EWAMs). Traditional EWAMs suffer from single absorption loss mechanisms, poor impedance matching, and weak reflection loss. To date, combining dielectric loss with magnetic loss in EWAMs have proven to be an effective approach to enhancing electromagnetic absorption performance. The structural design of composites plays a pivotal role in improving impedance matching and enhancing the attenuation of electromagnetic waves. It is widely regarded as one of the principal methods for fine-tuning electromagnetic parameters and response mechanisms. Among these, composites of carbon and magnetic materials have become a research hotspot due to their magnetoelectric synergistic effects and versatile microstructure design. Herein, the principles of electromagnetic wave absorption in terms of both the loss mechanism and impedance matching are outlined. The research progress on core-shell, skeleton, and hollow structure of carbon/magnetic composite EWAMs are summarized. The synthesis methods, absorption properties, and attenuation mechanisms of composites with these structures are described in detail. Finally, the limitations of carbon/magnetic composites in electromagnetic wave absorption are discussed, possible solutions are proposed, and future development directions for carbon/magnetic composite EWAMs are envisioned.",
+      "journal": "Small",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Yolk\u2013Shell CoNi@N-Doped Carbon-CoNi@CNTs for Enhanced Microwave Absorption, Photothermal, Anti-Corrosion, and Antimicrobial Properties",
+      "url": "https://www.semanticscholar.org/paper/044bb801b0969b2a64a92f9d6811641d99d885d9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-26T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531532",
+      "doi": "10.1007/s40820-024-01626-8",
+      "authors": [
+        {
+          "name": "Qiqin Liang",
+          "author_id": "2195973064",
+          "affiliation": null
+        },
+        {
+          "name": "Mu-Kun He",
+          "author_id": "2303246295",
+          "affiliation": null
+        },
+        {
+          "name": "Bei-Bei Zhan",
+          "author_id": "2269670456",
+          "affiliation": null
+        },
+        {
+          "name": "Hua Guo",
+          "author_id": "2283510223",
+          "affiliation": null
+        },
+        {
+          "name": "Xiao-Si Qi",
+          "author_id": "2238915773",
+          "affiliation": null
+        },
+        {
+          "name": "Yunpeng Qu",
+          "author_id": "2238652274",
+          "affiliation": null
+        },
+        {
+          "name": "Ya-Li Zhang",
+          "author_id": "2296023839",
+          "affiliation": null
+        },
+        {
+          "name": "Wei Zhong",
+          "author_id": "2187823816",
+          "affiliation": null
+        },
+        {
+          "name": "Jun-Wei Gu",
+          "author_id": "2289808981",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Highlights Hierarchical cubic sea urchin-like yolk-shell CoNi@N-doped carbon (NC)-CoNi@carbon nanotubes (CNTs) mixed-dimensional MCNCs with different CNTs contents could be availably and selectively synthesized. Owing to the generated hierarchical cubic sea urchin like yolk-shell structure, CoNi@NC-CoNi@CNTs display marvelous hydrophobic, corrosion resistance and MA performance. The construction of components and special microstructure make CoNi@NC-CoNi@CNTs MCNCs display terrific photothermal and antimicrobial (e g. only 1 mg\u00b7mL-1 concentration, ~84.03% antimicrobial rate) proper ties. Supplementary Information The online version contains supplementary material available at 10.1007/s40820-024-01626-8.",
+      "journal": "Nano-Micro Letters",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Absorption\u2013Reflection\u2013Transmission Power Coefficient Guiding Gradient Distribution of Magnetic MXene in Layered Composites for Electromagnetic Wave Absorption",
+      "url": "https://www.semanticscholar.org/paper/6f23a89b1aa18ede81bcea89afb4308b028bf52d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-17T00:00:00",
+      "date_fetched": "2026-11-25T20:48:14.531544",
+      "doi": "10.1007/s40820-025-01675-7",
+      "authors": [
+        {
+          "name": "Yang Zhou",
+          "author_id": "2278226986",
+          "affiliation": null
+        },
+        {
+          "name": "Wen Zhang",
+          "author_id": "2346057468",
+          "affiliation": null
+        },
+        {
+          "name": "Dong Pan",
+          "author_id": "2298789847",
+          "affiliation": null
+        },
+        {
+          "name": "Zhaoyang Li",
+          "author_id": "2156265181",
+          "affiliation": null
+        },
+        {
+          "name": "Bing Zhou",
+          "author_id": "2152593964",
+          "affiliation": null
+        },
+        {
+          "name": "Ming Huang",
+          "author_id": "2332737664",
+          "affiliation": null
+        },
+        {
+          "name": "Liwei Mi",
+          "author_id": "2311010147",
+          "affiliation": null
+        },
+        {
+          "name": "Chun-Tai Liu",
+          "author_id": "9966318",
+          "affiliation": null
+        },
+        {
+          "name": "Yue-Zhan Feng",
+          "author_id": "2237518816",
+          "affiliation": null
+        },
+        {
+          "name": "Chang-Yu Shen",
+          "author_id": "2309796506",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The layered arrangement and gradient distribution of magnetic MXene are firstly combined to improve the electromagnetic wave (EMW) RLmin and broaden effective absorption bandwidth. Absorption, reflection, and transmission (A\u2013R\u2013T) power coefficient analysis is firstly used to guide the gradient distribution, so as to realize EMW incidence at low-concentration surface, loss at middle concentration interlayer and reflection at high-concentration bottom. The layered gradient composite (LG5-10-15) achieves complete absorption coverage of X-band at thickness of 2.00-2.20 mm with RLmin of -68.67 dB. The layered arrangement and gradient distribution of magnetic MXene are firstly combined to improve the electromagnetic wave (EMW) RLmin and broaden effective absorption bandwidth. Absorption, reflection, and transmission (A\u2013R\u2013T) power coefficient analysis is firstly used to guide the gradient distribution, so as to realize EMW incidence at low-concentration surface, loss at middle concentration interlayer and reflection at high-concentration bottom. The layered gradient composite (LG5-10-15) achieves complete absorption coverage of X-band at thickness of 2.00-2.20 mm with RLmin of -68.67 dB. The morphological distribution of absorbent in composites is equally important with absorbents for the overall electromagnetic properties, but it is often ignored. Herein, a comprehensive consideration including electromagnetic component regulation, layered arrangement structure, and gradient concentration distribution was used to optimize impedance matching and enhance electromagnetic loss. On the microscale, the incorporation of magnetic Ni nanoparticles into MXene nanosheets (Ni@MXene) endows suitable intrinsic permittivity and permeability. On the macroscale, the layered arrangement of Ni@MXene increases the effective interaction area with electromagnetic waves, inducing multiple reflection/scattering effects. On this basis, according to the analysis of absorption, reflection, and transmission (A\u2013R\u2013T) power coefficients of layered composites, the gradient concentration distribution was constructed to realize the impedance matching at low-concentration surface layer, electromagnetic loss at middle concentration interlayer and microwave reflection at high-concentration bottom layer. Consequently, the layered gradient composite (LG5-10\u201315) achieves complete absorption coverage of X-band at thickness of 2.00\u20132.20 mm with RLmin of \u221268.67 dB at 9.85 GHz in 2.05 mm, which is 199.0%, 12.6%, and 50.6% higher than non-layered, layered and layered descending gradient composites, respectively. Therefore, this work confirms the importance of layered gradient structure in improving absorption performance and broadens the design of high-performance microwave absorption materials.",
+      "journal": "Nano-Micro Letters",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "meditative absorption"
+      ]
+    },
+    {
+      "title": "Development and Useability of a Lifestyle Program Designed to Address Depressive Symptoms in In-Home Aged Care Recipients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080486/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-11-23T00:00:00",
-      "date_fetched": "2026-11-24T21:40:58.352246",
-      "doi": "10.1016/j.jpain.2026.106502",
+      "date_fetched": "2026-11-25T20:48:44.332355",
+      "doi": "10.1177/15598276261506918",
       "authors": [
         {
-          "name": "Qiuyu Chen",
+          "name": "Julie Kelly",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Dalton Whitman",
+          "name": "Jessica L Mackelprang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Botao Zhang",
+          "name": "Clare O'Callaghan",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Mark Bishop",
+          "name": "Marissa Dickins",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Meryl Alappattu",
+          "name": "Tanya E Davison",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Penelope Schofield",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sunil Bhar",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Psychological interventions are effective for chronic pain, but their neural mechanisms remain unclear. This review synthesized functional magnetic resonance imaging and electroencephalography evidence on treatment-related brain changes following psychological interventions in adults with chronic non-cancer pain. Seven databases were searched. Eligible studies included adults aged 18-64 receiving a psychological intervention with both neuroimaging and clinical outcomes. Study quality was assessed with the Effective Public Health Practice Project tool. Heterogeneity precluded meta-analysis, findings were synthesized narratively. Nineteen studies (n = 843) were included: 15 randomized controlled trials, 3 within-subject designs, and 1 pilot non-randomized trial. Interventions were mindfulness-based interventions (n = 6), cognitive behavioral therapy (n = 5), hypnosis (n = 3), neurofeedback (n = 3), and other approaches (n = 2). The anterior insula, anterior cingulate and midcingulate cortex, prefrontal cortex, and primary somatosensory cortex were most consistently implicated. Cognitive behavioral therapy reduced somatosensory-limbic coupling and enhanced prefrontal engagement. Mindfulness showed convergent insular and cingulate involvement. Pain reprocessing therapy showed close alignment between observed neural changes and its proposed mechanism, with reduced affective-evaluative pain activation and increased prefrontal-somatosensory connectivity. Hypnosis dissociated somatosensory from affective pain processing. Brain-behavior correlations linked predominantly to cognitive-affective outcomes, including catastrophizing, self-efficacy, and anxiety rather than pain intensity. Across interventions, convergent findings implicated increased prefrontal engagement and reduced affective-evaluative pain processing, broadly consistent with cognitive-affective modulation of pain. These findings offer neurobiological plausibility for clinical approaches targeting catastrophizing and fear-avoidance, though guiding patient selection would require research linking neural change directly to clinical outcome. PERSPECTIVE: This review identified shared neuroanatomical hubs, including increased prefrontal regulation and reduced affective-evaluative pain processing across cognitive behavioral therapy, mindfulness, hypnosis, and pain reprocessing therapy. These findings provide neurobiological support for established clinical approaches targeting cognitive-affective responses to pain, but do not establish shared causal mechanisms or support patient stratification. TRIAL REGISTRATION: This systematic review was prospectively registered with PROSPERO (registration number: CRD42024623019).",
-      "journal": "The journal of pain",
+      "abstract": "Depressive symptoms are experienced by a significant proportion of older adults who receive in-home aged care services. A lifestyle program delivered through guided self-help was developed to help manage mild depressive symptoms. This study describes the development of the program and evaluates its useability. Semi-structured interviews were conducted with in-home aged care recipients across two phases. Phase 1 (N = 29) determined the content of the lifestyle program. Thematic analysis informed by grounded theory, indicated participants' support for content focused on physical activity, social connections, diet, sleep, relaxation, mindfulness meditation, and depression psychoeducation. Phase 2 (N = 28) analysed users' views about the lifestyle program. Content analysis of interviews determined that most participants found the program user-friendly. Feedback indicated a need for greater clinician involvement, reduced volume of information, and development of a protocol to tailor the program to individual needs and preferences. A tailored lifestyle program has the potential to address the emotional well-being of in-home aged care recipients.",
+      "journal": "American journal of lifestyle medicine",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Occupational Perspectives on Sleep Health in High-Demand Occupations: A PEOP-Informed Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080146/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-11-25T00:00:00",
+      "date_fetched": "2026-11-25T20:48:44.332422",
+      "doi": "10.1177/15394492261508448",
+      "authors": [
+        {
+          "name": "Holly L Thompson",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Elaina J DaLomba",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Talia R Barrow",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Tara A Haugen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jason L Judkins",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "Sleep deficiency is prevalent in military and comparable high-demand occupations and contributes to fatigue, impaired cognitive functioning, occupational performance deficits, and operational risk. This scoping review synthesized occupation-relevant, nonpharmacological sleep interventions for adults in high-demand occupations and examined implications for sleep participation, occupational performance, and occupational therapy practice. Scopus, PubMed, and PsycINFO were searched for peer-reviewed studies published between February 2015 and May 2026. Thirty-seven studies met inclusion criteria and were synthesized using the Person-Environment-Occupation-Performance model. Person-level interventions most consistently improved subjective sleep quality, insomnia symptoms, stress regulation, and perceived recovery, whereas objective physiologic sleep outcomes were less consistent. Environment- and occupation-level interventions influenced sleep continuity, circadian alignment, fatigue mitigation, morale, and occupational performance when aligned with operational schedules and recovery opportunities. Multilevel interventions demonstrated the strongest cross-domain improvements. Findings support occupation-centered, systems-level approaches to sleep health in high-demand occupational settings.",
+      "journal": "OTJR : occupation, participation and health",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Where to start? Impact of module ordering in acceptance and commitment therapy for young adults experiencing paranoia and low mood.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079894/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-11-25T00:00:00",
+      "date_fetched": "2026-11-25T20:48:44.332533",
+      "doi": "10.1017/S1352465826101441",
+      "authors": [
+        {
+          "name": "Millie Curtis",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Brandon Gaudiano",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Eric M J Morris",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jessica Kingston",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "BACKGROUND: Paranoia is common in young adults and often occurs alongside low mood. Brief transdiagnostic interventions may therefore be useful for students who do not meet criteria for specialist psychosis services but experience distressing suspicious thoughts. This single-case experimental study evaluated a six-session Acceptance and Commitment Therapy (ACT) intervention and explored whether the order of ACT modules differentially impacted therapy effects. METHOD: Ten UK university students aged 18-25 with elevated paranoia and mild to moderate depressive symptoms completed daily visual analogue measures of paranoia, affect and ACT processes during baseline, intervention and 2-week follow-up. Participants were randomised to receive either ACT-ENGAGE sessions first (values and committed action) followed by ACT-OPEN sessions (mindfulness, defusion and acceptance), or the reverse order. Standardised measures of paranoia, mood and psychological flexibility were completed at baseline, pre-intervention, post-intervention and follow-up. RESULTS: Daily data showed significant reductions in state paranoia, negative affect and improvements in openness and valued action for the ACT-ENGAGE-first condition only. Standardised paranoia scores improved reliably in both conditions, while depression improved more clearly in the ACT-ENGAGE-first condition. CONCLUSIONS: Findings provide preliminary evidence that a brief ACT intervention may benefit students experiencing paranoia and low mood, and suggest that beginning with values and committed action may strengthen clinical impact.",
+      "journal": "Behavioural and cognitive psychotherapy",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Understanding the self-compassionate experiences of people living with HIV: A qualitative study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43081828/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-11-25T00:00:00",
+      "date_fetched": "2026-11-25T20:48:44.332615",
+      "doi": "10.1177/13591053261505272",
+      "authors": [
+        {
+          "name": "Archna Choudhary",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Anurag Shukla",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Amit Kumar Macorya",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Archana Singh",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gyanesh Kumar Tiwari",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "This qualitative study explored the self-compassionate experiences of people living with HIV (PLHIV). Ten adults (",
+      "journal": "Journal of health psychology",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Slow Nursing in Dementia and Long-Term Care: A Concept Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079751/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-11-24T00:00:00",
+      "date_fetched": "2026-11-25T20:48:44.332981",
+      "doi": "10.1111/jan.70842",
+      "authors": [
+        {
+          "name": "Daniela Lillekroken",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "AIM: To analyse slow nursing by identifying its defining attributes, antecedents, consequences and empirical referents, and to position the concept within nursing theory and in dementia and long-term care. METHODS: The eight-step Walker and Avant's concept analysis framework was employed to define slow nursing attributes, antecedents, consequences and empirical referents. DATA SOURCES: A focused literature review was conducted in January 2026 across seven databases (Medline, CINAHL, PsycINFO, Web of Science, Scopus, Oria and Google Scholar) to identify and analyse the defining characteristics of Slow Nursing. RESULTS: A total of 18 articles were included in the current analysis. The analyses demonstrate that slow nursing is characterized by four defining attributes: intentional presence, relational depth, attuned care delivery and reflective practice. Antecedents include organizational flexibility, nursing competence, ethical sensitivity and patients' willingness or capacity to engage in meaningful interactions. Consequences include preserved personhood, enhanced well-being, improved clinical insight, strengthened moral resilience and less rushed or missed care. Empirical referents include the Slow Nursing Tool, observational indicators, patient and family experiences and reflective clinical documentation. CONCLUSION: Slow nursing in dementia and long-term care is a holistic, relational and temporally attuned approach that supports person-centred care and may help re-humanize nursing practice within increasingly accelerated healthcare systems. IMPACT: Demands for efficiency and productivity challenge nurses' ability to provide relational, person-centred care. This concept analysis establishes slow nursing as a holistic, relational and temporally attuned approach in dementia and long-term care and identifies its attributes and theoretical foundations. The findings may guide clinical practice, education and research in developing dementia and long-term care practices and environments that promote personhood, dignity and high-quality nursing care. REPORTING METHOD: No EQUATOR reporting guidelines are available for concept analysis studies. PATIENT AND PUBLIC CONTRIBUTION: This study did not include patient or public involvement in its design, conduct or reporting.",
+      "journal": "Journal of advanced nursing",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Distracted Eating in the Digital Age: An Ecological Momentary Assessment of Screen Use While Eating, Mindfulness, and Eating Behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079942/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-11-24T00:00:00",
+      "date_fetched": "2026-11-25T20:48:44.333079",
+      "doi": "10.1002/eat.70272",
+      "authors": [
+        {
+          "name": "Yueyang Xiao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jiayi Han",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuhan Chen",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xueyan Gao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuhang Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yuetian Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Wesley R Barnhart",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jinbo He",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: Screen use while eating has become increasingly common, yet little is known about how this digitally-oriented behavior relates to everyday eating experiences. Given that screen use occurs within specific eating contexts and fluctuates across situations, examining its momentary associations with eating behaviors in naturalistic settings can provide important insights into how screen use relates to everyday eating experiences. METHOD: This study used an ecological momentary assessment (EMA) design to examine how screen use while eating is associated with disordered eating urges, thoughts, and behaviors, mindful eating, intuitive eating, and state mindfulness. A total of 274 college students (36% male; M RESULTS: At the within-person level, screen use while eating was associated with increased urges for restrictive eating and exercise, more exercise-related thoughts, greater restriction attempts, less self-induced vomiting, and more binge eating at the subsequent assessment, as well as lower mindful and intuitive eating during the same meal. At the between-person level, individuals who reported more screen use while eating showed reduced mindful eating and mindfulness. CONCLUSION: This study expands on prior cross-sectional findings to suggest that screen use during meals may be associated with reduced mindfulness and more disruptions in adaptive eating behaviors. These findings suggest that reducing screen use during meals may represent a promising target for future intervention to promote healthier eating behaviors.",
+      "journal": "The International journal of eating disorders",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -106,5 +965,31 @@
       "matched_keywords": []
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "The Complicated Love Story Behind \u201cConsider the Oyster\u201d",
+      "url": "https://www.newyorker.com/books/second-read/the-complicated-love-story-behind-consider-the-oyster",
+      "item_type": "article",
+      "source_type": "rss",
+      "date_published": "2026-11-25T11:00:00",
+      "date_fetched": "2026-11-25T20:48:44.783166",
+      "doi": null,
+      "authors": [
+        {
+          "name": "Joy Lanzendorfer",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": null,
+      "year": null,
+      "source_name": "The New Yorker",
+      "excerpt": "M. F. K. Fisher\u2019s classic meditation on the shellfish\u2019s \u201cdreadful but exciting life\u201d was written to escape her own.",
+      "relevance_score": 1,
+      "matched_keywords": [
+        "meditation"
+      ]
+    }
+  ]
 }
