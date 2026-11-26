@@ -1,758 +1,2008 @@
 {
-  "generated_at": "2026-11-25T20:48:45.154096",
+  "generated_at": "2026-11-26T20:40:52.097584",
   "papers": [
     {
-      "title": "Long-term mindfulness meditation increases occurrence of sensory and attention brain states",
-      "url": "https://www.semanticscholar.org/paper/caf6c40b85983d293ab5202be788bcfcf1d70995",
+      "title": "Online and In\u2010Person Mindfulness\u2010Based Stress Reduction (MBSR) Improves Stress Resilience in Nursing Education",
+      "url": "https://www.semanticscholar.org/paper/eb9c37dffdba9b078937823d3f6b4ba39cddb753",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-06T00:00:00",
-      "date_fetched": "2026-11-25T20:47:55.447711",
-      "doi": "10.3389/fnhum.2024.1482353",
+      "date_published": "2025-05-11T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685778",
+      "doi": "10.1111/wvn.70031",
       "authors": [
         {
-          "name": "D. Panitz",
-          "author_id": "2121338718",
+          "name": "R. Schwartz-Mette",
+          "author_id": "1399315566",
           "affiliation": null
         },
         {
-          "name": "A. Mendelsohn",
-          "author_id": "48412936",
+          "name": "Maile Sapp",
+          "author_id": "2224280947",
           "affiliation": null
         },
         {
-          "name": "J. Cabral",
-          "author_id": "145463318",
-          "affiliation": null
-        },
-        {
-          "name": "A. Berkovich-Ohana",
-          "author_id": "1403270222",
+          "name": "K. Strout",
+          "author_id": "8640837",
           "affiliation": null
         }
       ],
-      "abstract": "Interest has been growing in the use of mindfulness meditation (MM) as a therapeutic practice, as accumulating evidence highlights its potential to effectively address a range of mental conditions. While many fMRI studies focused on neural activation and functional connectivity during meditation, the impact of long-term MM practice on spontaneous brain activity, and on the expression of resting state networks over time, remains unclear. Here, intrinsic functional network dynamics were compared between experienced meditators and meditation-na\u00efve participants during rest. Our analysis revealed that meditators tend to spend more time in two brain states that involve synchrony among cortical regions associated with sensory perception. Conversely, a brain state involving frontal areas associated with higher cognitive functions was detected less frequently in experienced meditators. These findings suggest that, by shifting attention toward enhanced sensory and embodied processing, MM effectively modulates the expression of functional network states at rest. These results support the suggested lasting effect of long-term MM on the modulation of resting-state networks, reinforcing its therapeutic potential for disorders characterized by imbalanced network dynamics. Moreover, this study reinforces the utility of analytic approaches from dynamical systems theory to extend current knowledge regarding brain activity and evaluate its response to interventions.",
-      "journal": "Frontiers in Human Neuroscience",
+      "abstract": "ABSTRACT Background Evidence\u2010based interventions (EBI) can reduce nursing burnout and improve retention and healthcare quality. Nursing school is an ideal time to implement EBI to mitigate burnout and increase resilience in pre\u2010professional populations. Aim The current study tested whether Mindfulness\u2010Based Stress Reduction (MBSR) significantly improved stress, burnout, and wellness in a university\u2010based nursing school. Methods Using a non\u2010randomized clinical trial design, multilevel modeling for repeated measures tested intervention effects over time in MBSR participants (n\u2009=\u200973) and matched controls (n\u2009=\u200973), as well as potential moderation of intervention effects by modality (online vs. in\u2010person MBSR) and subpopulation (students vs. faculty/staff). Results MBSR effectively reduced perceived stress, exhaustion, and total burnout and increased positive affect and frequency of using two key mindfulness skills: observing and nonreactivity. No significant effects of the intervention were observed for disengagement from work, satisfaction with life, negative affect, or the mindfulness skills of describing, acting with awareness, and nonjudgment. Effects were similar across modality and subpopulation. Linking Evidence to Action MBSR increases stress resilience and can be delivered effectively online and in person. Moreover, MBSR appears equally impactful for nursing students and faculty/staff. Implications for integrating EBI into schools of nursing to improve well\u2010being are discussed.",
+      "journal": "Worldviews on Evidence-Based Nursing",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditation"
+        "MBSR"
       ]
     },
     {
-      "title": "Advanced Analysis of Alpha EEG Patterns for Identifying Meditative States in Alpha Power Activation Yoga (APAY)",
-      "url": "https://www.semanticscholar.org/paper/fe71b93c9176e71554bd5e0123add7dada3aef29",
+      "title": "The effectiveness of a mindfulness-based stress reduction (MBSR) programme for parents of children with attention deficit hyperactivity disorder (ADHD): a pilot randomized controlled trial",
+      "url": "https://www.semanticscholar.org/paper/1d62102e8838d039108078c4a4230235efbc830c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-24T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685800",
+      "doi": "10.1186/s40359-025-02747-4",
+      "authors": [
+        {
+          "name": "Tsui Yuk Law",
+          "author_id": "2357242419",
+          "affiliation": null
+        },
+        {
+          "name": "D. Bressington",
+          "author_id": "4688208",
+          "affiliation": null
+        },
+        {
+          "name": "Jia-Yin Ruan",
+          "author_id": "2335353914",
+          "affiliation": null
+        },
+        {
+          "name": "Wai-Kit Wong",
+          "author_id": "2462811498",
+          "affiliation": null
+        },
+        {
+          "name": "Yim W. Mak",
+          "author_id": "8069705",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Parents of children with attention deficit hyperactivity disorder (ADHD) often experience high levels of parental stress. This has exacerbated during the coronavirus disease 2019 (COVID-19) pandemic. The aim of this study was to examine the effectiveness of mindfulness-based stress reduction (MBSR) programme in the Chinese population, which is feasible among Chinese parents during the COVID-19 pandemic period in reducing the parental stress of parents compared with the usual care group. This study was designed as a pilot randomized controlled trial with single-blind repeated measures. Parents of children aged 3\u201312 years with a diagnosis of ADHD were recruited from the parent resource center (PRC) of a local nongovernmental organization between June and August 2022. The participants were randomly assigned to the MBSR intervention group (n\u2009=\u200918) or usual care group (n\u2009=\u200918). With respect to the feasibility of the study, all 36 participants who were randomized fully completed the MBSR programme and assessments, resulting in a 100% attendance rate. 66% of the participants in the intervention group reported satisfaction with the intervention, which was helpful in reducing stress. They were willing to stay on this mindfulness-based programme in the future. The results of the repeated-measures ANOVA revealed a significant difference in self-perceived stress reduction between the groups (p\u2009<\u20090.001, ES\u2009=\u20090.192). The of within-group results revealed that the mean score of the intervention group decreased from 29.44 before the intervention to 25.50 (p\u2009<\u20090.001) immediately after intervention, and further decreased to 24.72 (p\u2009<\u20090.05) at one month after the intervention. By using the parental stress scale, the interaction effects also revealed significant differences between groups (p\u2009<\u20090.001, ES\u2009=\u20090.599). The stress level of the intervention group decreased from 74.50 before intervention, to 68.94 (p\u2009<\u20090.001) immediately after intervention, and further decreased to 67.50 (p\u2009<\u20090.05) at one month after intervention. These reports revealed statistically significant improvements in stress reduction and parental stress reduction in the intervention group. The pilot study revealed that MBSR is feasible and acceptable for parents of children with ADHD in Chinese culture. The findings also suggested that the MBSR programme was effective in reducing parental stress and enhancing mental well-being. This study was registered in the National Library of Medicine, National Center for Biotechnology Information Clinical Trials Registry as Version 1, and the trial registration data are available as NCT06210113, 28/2/2024.",
+      "journal": "BMC Psychology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "MBSR effects on positive psychological traits and experiential avoidance in head and neck cancer: a randomized controlled trial",
+      "url": "https://www.semanticscholar.org/paper/61a1c77aad899ba57e5cf8752bfe1a4704f0b8fd",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-19T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685813",
+      "doi": "10.1080/20008066.2025.2501822",
+      "authors": [
+        {
+          "name": "Zheng Zhang",
+          "author_id": "2189824006",
+          "affiliation": null
+        },
+        {
+          "name": "Qing-Qin Zhang",
+          "author_id": "2359518910",
+          "affiliation": null
+        },
+        {
+          "name": "Ping Lu",
+          "author_id": "2362454425",
+          "affiliation": null
+        },
+        {
+          "name": "Nurul Izzah Shari",
+          "author_id": "80890542",
+          "affiliation": null
+        },
+        {
+          "name": "N. R. Nik Jaafar",
+          "author_id": "7663849",
+          "affiliation": null
+        },
+        {
+          "name": "M. M. Mohamad Yunus",
+          "author_id": "2494995002",
+          "affiliation": null
+        },
+        {
+          "name": "Mohammad Farris Iman Leong Bin Abdullah",
+          "author_id": "51220795",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Background: Data on the effects of mindfulness-based stress reduction (MBSR) positive psychological traits and experiential avoidance (EA) among cancer patients are lacking. Objective: This randomized controlled trial (RCT) aimed to: (1) compare the efficacy between MBSR and treatment-as-usual (TAU) control groups in increasing posttraumatic growth (PTG), hope, and optimism and reducing EA across time measurements (T0, T1, and T2) among head and neck cancer (HNC) patients and (2) evaluate the mediation effects of hope, optimism, and EA on the relationship between MBSR and PTG. Methods: A total of 80 HNC participants were randomized to MBSR (n\u2009=\u200940) and TAU (n\u2009=\u200940) groups with the researchers and data analyst blinded, and the group allocation of the participants was concealed. A one-hour MBSR session was conducted once a week, with 45 minutes of home assignments, for six weeks in the MBSR group. The outcomes across time measurements were compared using a mixed linear model following intention-to-treat (ITT) analysis. Mediation effects of hope, optimism, and EA on the relationship between MBSR and PTG were assessed with PROCESS. Results: MBSR significantly increased the degree of optimism from T0 to T1 (mean difference\u2009=\u20091.825, 95% CI\u2009=\u20090.907\u20132.743, SE\u2009=\u20090.381, p\u2009<\u2009.001) with a medium effect size (d\u2009=\u20090.563) and from T1 to T2 (mean difference\u2009=\u20091.650, 95% CI\u2009=\u20090.829\u20132.470, SE\u2009=\u20090.328, p\u2009<\u2009.001) with a medium effect size (d\u2009=\u20090.630). Initially, MBSR did not increase the degree of hope from T0 to T1 (p\u2009=\u2009.677), but it significantly increased hope from T1 to T2 (mean difference\u2009=\u20092.524, 95% CI\u2009=\u20091.676\u20133.373, SE\u2009=\u20090.340, p\u2009<\u2009.001) with a medium effect size (d\u2009=\u20090.735). Conversely, MBSR did not sustain the changes in the degree of PTG and EA beyond T1. EA partially mediated the relationship between MBSR and PTG, but not hope and optimism. Conclusion: MBSR can be recommended as part of the treatment regimen for HNC patients. Trial registration: ClinicalTrials.gov identifier: NCT04800419. HIGHLIGHTS Mindfulness-based stress reduction enhanced optimism and hope in cancer. Mindfulness-based stress reduction does not sustain posttraumatic growth and experiential avoidance in cancer. 6 weeks of mindfulness-based stress reduction enhanced positive psychological traits in cancer.",
+      "journal": "European Journal of Psychotraumatology",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Mindfulness-Based Stress Reduction (MBSR) for Healthcare Workers",
+      "url": "https://www.semanticscholar.org/paper/7504cacfd35d0588a22f4f168fd16ab02b999ef1",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-11-26T20:40:08.685818",
+      "doi": "10.47857/irjms.2025.v06i02.02786",
+      "authors": [
+        {
+          "name": "D. Marisa",
+          "author_id": "2082032254",
+          "affiliation": null
+        },
+        {
+          "name": "R. Dioso",
+          "author_id": "145666280",
+          "affiliation": null
+        },
+        {
+          "name": "A. Elengoe",
+          "author_id": "4530027",
+          "affiliation": null
+        },
+        {
+          "name": "Yani Kamasturyani",
+          "author_id": "2097686141",
+          "affiliation": null
+        },
+        {
+          "name": "Ani Nurhaeni",
+          "author_id": "2141947379",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Healthcare professionals face high levels of stress, which negatively impacts their mental health, well-being, and job performance. Mindfulness-Based Stress Reduction (MBSR) is an intervention designed to mitigate stress and promote emotional well-being, but its long-term effects in healthcare settings remain under-explored. This study aims to evaluate the effectiveness of MBSR in reducing stress, improving mental health, and alleviating burnout among healthcare workers. A systematic literature review was conducted, synthesizing findings from peer-reviewed articles published within the past decade. Key criteria for study selection included the focus on MBSR's impact on healthcare workers' stress levels, mental health, and burnout. The results demonstrated that MBSR significantly reduced perceived stress, emotional exhaustion, and burnout, while improving emotional regulation, self-compassion, and overall mental health. However, a gap in the literature exists regarding the long-term benefits of MBSR, particularly its sustainability and effectiveness in diverse healthcare settings. The study highlights that while MBSR is an effective short-term intervention, further research is needed to explore its long-term feasibility and generalizability. The findings emphasize the importance of integrating MBSR into healthcare settings to support healthcare professionals' mental well-being and resilience, thereby improving the quality of care and fostering healthier work environments.",
+      "journal": "International Research Journal of Multidisciplinary Scope",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Enhancing student mental health through Mindfulness-based Stress Reduction (MBSR) toward curricular and cultural integration.",
+      "url": "https://www.semanticscholar.org/paper/ce9c78ca3dde95ba18ae37ce7b16223e01d516be",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685829",
+      "doi": "10.1016/j.ajp.2025.104598",
+      "authors": [
+        {
+          "name": "Zalik Nuryana",
+          "author_id": "2136863623",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaoyu Ni",
+          "author_id": "2275334120",
+          "affiliation": null
+        },
+        {
+          "name": "Herdian",
+          "author_id": "2339874761",
+          "affiliation": null
+        },
+        {
+          "name": "Shi-Qi Lu",
+          "author_id": "2143514768",
+          "affiliation": null
+        },
+        {
+          "name": "Wen-Bin Xu",
+          "author_id": "2275927163",
+          "affiliation": null
+        },
+        {
+          "name": "Suyadi",
+          "author_id": "86942154",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Student mental health is receiving increasing attention due to escalating academic, social, and emotional pressures, particularly in Asian educational contexts. Mindfulness-Based Stress Reduction (MBSR), has shown consistent effectiveness in alleviating anxiety, enhancing emotional regulation, and fostering psychological resilience among students. While the systematic review by Hue et al. affirms these general benefits, it does not explore critical areas for future research. This article highlights five underexplored dimensions: the structural integration of MBSR into formal curricula, the neuropsychological mechanisms underpinning its educational impact, the digital and geographic accessibility challenges in Asian contexts, the absence of culturally adapted hybrid delivery models, and the lack of comparative analysis between MBSR and indigenous contemplative practices such as dhikr, vipassana, zazen, and samatha. Addressing these gaps is essential to develop culturally relevant, pedagogically sound, and scalable MBSR interventions for educational systems in Asia.",
+      "journal": "Asian Journal of Psychiatry",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Psilocybin-Assisted Group Psychotherapy + Mindfulness Based Stress Reduction (MBSR) for Frontline Healthcare Provider COVID-19 Related Depression and Burnout: A Randomized Clinical Trial",
+      "url": "https://www.semanticscholar.org/paper/931505d1a89efaca378cfe3b1029329d9972608c",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685839",
+      "doi": "10.1101/2024.12.31.24319806",
+      "authors": [
+        {
+          "name": "Benjamin R. Lewis",
+          "author_id": "145559976",
+          "affiliation": null
+        },
+        {
+          "name": "J. Hendrick",
+          "author_id": "48699803",
+          "affiliation": null
+        },
+        {
+          "name": "Kevin Byrne",
+          "author_id": "145667888",
+          "affiliation": null
+        },
+        {
+          "name": "Madeleine M. Odette",
+          "author_id": "2200542646",
+          "affiliation": null
+        },
+        {
+          "name": "Chao-Rong Wu",
+          "author_id": "2346825493",
+          "affiliation": null
+        },
+        {
+          "name": "E. Garland",
+          "author_id": "2613266",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Objective This clinical trial sought to evaluate the safety and preliminary efficacy of psilocybin and MBSR for frontline healthcare providers with symptoms of depression and burnout related to the COVID-19 pandemic. Methods This was a randomized controlled trial that enrolled physicians and nurses with frontline clinical work during the COVID-19 pandemic and symptoms of depression and burnout. Participants were randomized in a 1:1 ratio to either an 8-week MBSR curriculum alone or an 8-week MBSR curriculum plus group psilocybin-assisted psychotherapy (PAP) with 25mg psilocybin. Symptoms of depression and burnout were assessed at baseline, and 2-weeks and 6-months post intervention utilizing the Quick Inventory of Depressive Symptoms (QIDS-SR-16) and Maslach Burnout Inventory Human Services Survey for Medical Professionals (MBI-HSS-MP), respectively. Secondary outcome measures included the Demoralization Scale (DS-II) and the Watts Connectedness Scale (WCS). Adverse events and suicidality were assessed through 6-month follow-up. Results 25 participants were enrolled and randomized. There were 12 study-related AEs recorded that were Grade 1-2 and no serious AEs. There was larger decrease in QIDS score for the MBSR+PAP arm compared to MBSR-only from baseline to 2-weeks post-intervention and significant between-group differences favoring MBSR+PAP on subscales of the MBI-HSS-MP as well as the DS-II and WCS. Conclusions Group psilocybin-assisted therapy plus MBSR was associated with clinically significant improvement in depressive symptoms without serious adverse events and with greater reduction in symptoms than MBSR alone. Study findings suggest that integrating psilocybin with mindfulness training may represent a promising treatment for depression and burnout among physicians and nurses.",
+      "journal": "medRxiv",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "A Comprehensive Literature Review On The Relationship Between Mindfulness-Based Stress Reduction (Mbsr) And Anxiety: Examining Mechanisms, Efficacy, And Long-Term Psychological Benefits",
+      "url": "https://www.semanticscholar.org/paper/cce513f567a18a5e8044a9c51e93205b74d3d572",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-17T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685847",
+      "doi": "10.56734/ijahss.v6n4a7",
+      "authors": [
+        {
+          "name": "Jada Zehner",
+          "author_id": "2355975780",
+          "affiliation": null
+        },
+        {
+          "name": "Kelly Arney",
+          "author_id": "2330707678",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Anxiety is a widespread mental health concern that significantly impacts daily functioning and overall well-being for a portion of the overall population. Mindfulness-Based Stress Reduction (MBSR) has sparked interest as a therapeutic approach integrating mindfulness meditation and yoga to promote self-awareness, emotional regulation, and stress resilience. This literature review examines the relationship between MBSR and anxiety, exploring the mechanisms through which mindfulness practices alleviate anxiety symptoms. Research indicates that MBSR is as effective as pharmacological treatments and other behavioral therapies in reducing anxiety. Furthermore, MBSR has been successfully implemented across diverse populations, including individuals with chronic illness, veterans, college students, and women facing hormonal changes. However, accessibility barriers, cultural influences, and individual hesitations limit its reach and effectiveness. Studies suggest that modifying MBSR\u2019s structure, integrating it with complementary therapies, and expanding virtual platforms can enhance its impact. While MBSR provides significant benefits, its effectiveness depends on individual engagement and the availability of mental health resources. Future research should focus on long-term outcomes, optimizing accessibility, and further exploring the integration of MBSR with other evidence-based treatments to provide comprehensive anxiety management solutions.",
+      "journal": "International Journal of Arts, Humanities &amp; Social Science",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Efficacy of Mindfulness Based Stress Reduction (MBSR) Program on Psychological Wellbeing, Psychological Distress, and Subjective Wellbeing Among Special Education Teachers",
+      "url": "https://www.semanticscholar.org/paper/a1adf76c9404afe026b99b142da80a4360ca71e7",
       "item_type": "paper",
       "source_type": "semantic_scholar",
       "date_published": "2025-03-30T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531225",
-      "doi": "10.54392/irjmt25212",
+      "date_fetched": "2026-11-26T20:40:08.685855",
+      "doi": "10.55737/qjssh.vi-i.25317",
       "authors": [
         {
-          "name": "K. R",
-          "author_id": "2168260137",
+          "name": "Tayyaba Hanif",
+          "author_id": "2185867616",
           "affiliation": null
         },
         {
-          "name": "P. Kshirsagar",
-          "author_id": "2330523617",
+          "name": "Ushna Asad",
+          "author_id": "2355467616",
           "affiliation": null
         },
         {
-          "name": "Thiagarajan R",
-          "author_id": "2417667575",
-          "affiliation": null
-        },
-        {
-          "name": "Kuan-Tak Tan",
-          "author_id": "2308236566",
-          "affiliation": null
-        },
-        {
-          "name": "Sivaneasan B",
-          "author_id": "2353678548",
+          "name": "Umm-e-Saliha",
+          "author_id": "2460768335",
           "affiliation": null
         }
       ],
-      "abstract": "Meditation, especially Alpha-Power Activation Yoga (APAY), is popular today for well-being. Apay promotes relaxation and focuses using yoga and attention. However, the inspiring settings app effectiveness evaluation made challenging. EEG can measure attentive brain activity. This work improves the Alfa EEG pattern analysis for the discovery of EFEM. EEG functions are classified through the moral analysis and machine learning of the time. This approach reflects the neurological attention process. Preliminary research found that alpha-EEG patterns change with training stages such as concentration, attentive absorption and relaxation. Deep concentration reduces hiking and increases frontal and lateral regions. Constant attention increases front and behind alpha, suggests brain treatment and sensory awareness. This shows that app-inspired attention requires more EEG study to understand neurophysiology. Strong EEG biomarker will track skill changes and its mental health benefits. Kaggle EEG Alpha Wave Dataset detects meditation (closes the eyes) with non-meditation (opening of the eyes) when relaxing the subject. In this dataset, the decisions identify accurately the trees in the decision, innocent bays and random forest phenomena. These findings will be repeated in a large population and investigated to see how the monkey practice affects psychological and neurological processes over time. Researchers can identify brainwave patterns and emotional welfare connections and explain these results. It can inspire new attention -based mental health treatments. Doctors can provide better mental and emotional care by adding these techniques to parting to the treatment. A full disposition goal is to improve the awareness of welfare and body. This can show how diet and exercise affect mental health.",
-      "journal": "International Research Journal of Multidisciplinary Technovation",
+      "abstract": "Teachers in special education sectors harbour a very challenging job, their struggles can be manifested as handling day-to-day tantrums and entertaining a wide spectrum of the needs of children. Apart from that, they are to manage a great many other tasks that come in handy with their jobs. Mindfulness-Based Reduction (MBSR) program helps special education teachers improve their psychological and subjective well-being, fostering Mindfulness, enhancing job satisfaction, and bettering interpersonal relationships with their colleagues and students. For this purpose, a quasi-experimental pre-test and post-test study was conducted with 30 special education teachers to improve their overall well-being and enhance mindfulness. Before conducting this training program, the researcher was certified in providing training in Mindfulness-Based Stress Reduction (MBSR) program from 'Palouse Mindfulness'. The training program was conducted under the supervision of a Clinical Psychologist who is also a certified relaxation expert. MBSR is an 8-week training program and different mindfulness activities were conducted. Participants were accessed before and after the MBSR training program. Findings show a significant difference between Baseline Assessment and post-assessment scores. Results of the present study confirmed that Mindfulness-Based Stress Reduction (MBSR) is an effective training program that enhances mindfulness, psychological well-being, and subjective well-being and reduces psychological distress among special education teachers.",
+      "journal": "Qlantic Journal of Social Sciences and Humanities",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "\u2018Dharana\u2019 as the Gateway: Meditative Wit(H)Nessing and the Transformation of Trauma in Han Kang\u2019s the White Book",
-      "url": "https://www.semanticscholar.org/paper/99194a79a6a5d2284808a715a9cabd8ed6894593",
+      "title": "Phenomenology of Body Awareness in Mindfulness-based Stress Reduction (MBSR)",
+      "url": "https://www.semanticscholar.org/paper/4dcd3b86ccf46de7c17a2e50b8160d7051dc87f9",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-14T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531238",
-      "doi": "10.47191/ijmra/v8-i04-30",
+      "date_published": "2025-11-30T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685862",
+      "doi": "10.29173/pandpr29578",
       "authors": [
         {
-          "name": "Md. Kamrul Hasan",
-          "author_id": "2495165320",
+          "name": "I. van den Bold",
+          "author_id": "2493524111",
           "affiliation": null
         },
         {
-          "name": "M. Azad",
-          "author_id": "2463322770",
+          "name": "M. D. de Boer",
+          "author_id": "2498726055",
           "affiliation": null
         },
         {
-          "name": "M. Hossain",
-          "author_id": "2377734687",
+          "name": "J. Slatman",
+          "author_id": "51095073",
           "affiliation": null
         }
       ],
-      "abstract": "Han Kang's The White Book (2016) redefines trauma narratives through Eastern meditative traditions, particularly the yogic concepts of \u2018dharana\u2019 (concentration) and \u2018dharana\u2019 (meditative absorption). The novel's structure, symbolism, and fragmented prose mirror these meditative stages, offering a literary model for processing grief and engaging with collective mourning. The narrator begins with an intense focus on her deceased sister's absence, using whiteness\u2014represented by objects like swaddling bands, snow, and salt\u2014as a focal point (\u2018dharana\u2019). This disciplined concentration anchors her mourning in a structured, ritualistic act of remembrance. As the narrative progresses, this focused contemplation expands beyond personal grief into an immersive meditation on mortality, impermanence, and renewal (dhyana). This transition reflects a shift from individual sorrow to a broader existential awareness, dissolving boundaries between self and collective memory. In parallel, Bracha L. Ettinger's (2006) concept of wit(h)nessing reframes witnessing trauma as an ethical, intersubjective process rather than a detached observation. The novel's sparse and fragmented prose, combined with deliberate white spaces, invites readers to engage actively in the mourning process, transforming reading into a participatory act of remembrance. By integrating Eastern meditative philosophy with poetic storytelling and ethical engagement, The White Book challenges conventional trauma narratives, positioning literature as a space for healing, reflection, and communal memory. This study argues that Kang's work reconfigures how trauma is represented in literature, and offers a transformative framework for understanding grief as a shared and meditative process",
-      "journal": "International journal of multidisciplinary research and analysis",
+      "abstract": "Body awareness is considered to be an important element of mindfulness-based interventions. Although studies have been done on the effects of enhanced body awareness on health and well-being, none of these studies focused on the meaning of the body and body awareness in the teaching and learning process of enhancing one\u2019s body awareness. In this paper, we provide a phenomenology of the body in the practice of a mindfulness-based intervention. We present a participant observation study about an eight-week mindfulness-based stress reduction (MBSR) training. We analyzed, by taking a hermeneutic-phenomenological approach, what enhancing one\u2019s body awareness entails in this practice, and how participants experienced their bodies in this process. We identified four ways in which the body (not) appears in MBSR: as intermittently present, as fragmented, while \u2018feeling good\u2019, and while \u2018not feeling good\u2019. We discussed how these body appearances can be understood through the analytic lens of Leder\u2019s disappearance and dys-appearance, and Zeiler\u2019s eu-appearance, and with Van Manen\u2019s phenomenological distinctions of the body. At the end of this paper, we considered how our findings may cast new light on one of the central tenets in mindfulness practice: to be non-judgmentally aware in the present moment.",
+      "journal": "Phenomenology &amp; Practice",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "The Notions of Absence, Emptiness and Nothingness from the Therav\u0101da Buddhist Perspective",
-      "url": "https://www.semanticscholar.org/paper/db22b2ae3cf21d19924dd9c373a3bcde8922aaad",
+      "title": "Effectiveness of Mindfulness-Based Stress Reduction (MBSR) in Managing Hypertension among Adults in Indonesia",
+      "url": "https://www.semanticscholar.org/paper/b01bb9c38724a6c096f3f57e4d390bd1c3af36fc",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-09T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531309",
-      "doi": "10.4312/as.2025.13.2.75-96",
+      "date_published": "2025-01-13T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685870",
+      "doi": "10.47941/ijhs.2451",
       "authors": [
         {
-          "name": "T. Ditrich",
-          "author_id": "102763555",
+          "name": "Dewi Anggraini",
+          "author_id": "2398283640",
           "affiliation": null
         }
       ],
-      "abstract": "This article discusses three important concepts of ancient Indian discourse, namely absence, nothingness and emptiness, and examines their representations in Therav\u0101da Buddhism. Firstly, it overviews the early Indian records of the concept of absence and then focuses on the role of absence in Therav\u0101da Buddhism. It shows how the ethical foundations of the Buddhist path to liberation from suffering are largely expressed through the absence of unethical behaviour, and how meditation practice involves the cultivation of mental states that are based on the absence of unwholesome mental factors. The article then discusses specific higher states of meditative absorption, as presented in the canonical and postcanonical P\u0101li sources, which include experiences of infinite space, infinite consciousness, and nothingness, the latter being articulated as the absence of anything at all. According to the Therav\u0101da tradition, the experience of nothingness, which is perceived as complete absence, devoid of any phenomena, is not considered final liberation, because it still involves perception, feeling and other mental components and thus remains in the sphere of impermanence. Only in the state of ultimate emptiness of nibb\u0101na (Sanskrit nirv\u0101\u1e47a) is complete liberation from suffering reached. The realization of nibb\u0101na is presented as the very foundation of a deep transformation of consciousness, reflected in the partial or complete absence of fetters, defined as phenomena that bind living beings to suffering. In summary, the article shows how, in Therav\u0101da Buddhism, absence plays the central role in the cultivation of moral virtue and meditation, including the experience of nothingness, and how the realization of the emptiness of nibb\u0101na, regarded as the final liberation from suffering, is reflected in the concomitant ethical perfection.\u00a0",
-      "journal": "Asian Studies",
+      "abstract": "Purpose: The aim of the study was to investigate the effectiveness of mindfulness-based stress reduction (MBSR) in managing hypertension among adults \nMethodology: This study adopted a desk methodology. A desk study research design is commonly known as secondary data collection. This is basically collecting data from existing resources preferably because of its low cost advantage as compared to a field research. Our current study looked into already published studies and reports as the data was easily accessed through online journals and libraries. \nFindings: Mindfulness-based stress reduction (MBSR) effectively reduces blood pressure by managing stress and enhancing relaxation. Studies show significant reductions in systolic and diastolic pressure, particularly in individuals with resistant hypertension. MBSR programs are most beneficial when tailored to cultural contexts and when participants maintain consistent practice. It serves as a valuable, non-pharmacological complement to traditional hypertension treatments, improving overall well-being and long-term health outcomes. \nUnique Contribution to Theory, Practice and Policy: Biofeedback theory, cognitive behavioral theory (CBT) & transactional model of stress and coping may be used to anchor future studies on the effectiveness of mindfulness-based stress reduction (MBSR) in managing hypertension among adults. It emphasizes the importance of addressing both mental and physical health, providing a complementary treatment to traditional medical interventions such as medication. As a non-drug treatment, MBSR can reduce reliance on expensive medications, offering a more affordable alternative for long-term hypertension management.",
+      "journal": "International Journal of Health Sciences",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "Proposed Model on Amrit Varsha Dhyan by Pandit Shriram Sharma Acharya in Enhancing Emotional Intelligence",
-      "url": "https://www.semanticscholar.org/paper/b460f4455a9e93531b8039bcbd1582a586fd2d32",
+      "title": "Integrative Counseling Workshop on Mindfulness-Based Stress Reduction (MBSR) with Muhasabah to Manage Stress and Anxiety in Border Students of Indonesia-Malaysia",
+      "url": "https://www.semanticscholar.org/paper/2677333ef904a0da76e9884912c3993d87260071",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-31T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531320",
-      "doi": "10.36018/dsiij.25.355",
+      "date_published": "2025-10-31T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685877",
+      "doi": "10.35568/abdimas.v8i4.7161",
       "authors": [
         {
-          "name": "Lalima Batham",
-          "author_id": "90638421",
+          "name": "T. Cahyono",
+          "author_id": "2386540344",
           "affiliation": null
         },
         {
-          "name": "Swarnkala Singh",
-          "author_id": "2343470953",
+          "name": "Nisa Ariantini",
+          "author_id": "2337333591",
+          "affiliation": null
+        },
+        {
+          "name": "Nurul Fadilah",
+          "author_id": "66661259",
           "affiliation": null
         }
       ],
-      "abstract": "Emotional intelligence, encompassing self-awareness, emotional regulation, empathy, motivation, and social skills, is essential for personal and professional growth. Ancient practices like meditation, rooted in Indian traditions, have been recognized for their potential to enhance emotional intelligence by fostering emotional and psychological balance. Among these practices, Amrit Varsha Dhyan, introduced by Pandit Shriram Sharma Acharya, emerges as a unique meditative approach emphasizing emotional harmony through guided visualization techniques. Amrit Varsha Dhyan involves visualizing the absorption of \"Amrit\" (divine nectar) to cleanse emotions, reduce stress, and cultivate positive thought patterns and behaviors. \nThis paper explores the foundational evidence linking Amrit Varsha Dhyan with the development of emotional intelligence. Through practices like guided imagery and visualization, Amrit Varsha Dhyan is believed to enhance self-awareness, emotional resilience, empathy, and social skills, contributing to holistic well-being. Empirical studies also highlight Amrit Varsha Dhyan's role in reducing anxiety, fostering emotional stability, and improving mental clarity. This study explores the potential of Amrit Varsha Dhyan as a structured meditation practice for cultivating emotional intelligence and promoting overall mental health.",
-      "journal": "Dev Sanskriti Interdisciplinary International Journal",
+      "abstract": "Stress and anxiety issues among students in the Indonesia\u2013Malaysia border region pose a serious challenge to the learning process. The inability to manage emotions can interfere with students' concentration and academic development. This community service activity aims to improve teachers' competence in managing stress and anxiety through integrative counseling based on Mindfulness-Based Stress Reduction (MBSR) and muhasabah, with the hope that teachers will be able to apply these techniques both for themselves and to assist their students. The participants were 25 teachers from partner schools in the border region. The workshop was conducted face-to-face through theory and practice sessions, supplemented by group discussions. To assess the impact of the activity, participants filled out instruments before and after the training and wrote reflections. The results showed an increase in teachers' understanding, with 65% in the high category, 25% in the medium category, and 10% in the low category. Although an increase in teacher competence was evident, the limitation of this activity was the lack of long-term data on direct application to students and the sustainability of the practice in schools. Therefore, follow-up through continuous mentoring is necessary so that the benefits of this program can be felt more widely.",
+      "journal": "ABDIMAS: Jurnal Pengabdian Masyarakat",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "Svastik\u0101sana And Siddh\u0101sana In The Odia Bh\u0101gavata: A Comparative Study Of Yogic Posture Within The Ha\u1e6dha\u2013 R\u0101ja Yoga Framework",
-      "url": "https://www.semanticscholar.org/paper/08bfe0b0d7c14a0f0462acac9fe96ce8181403b3",
+      "title": "MBSR at Work: Perspectives from an Instructor and Software Developers",
+      "url": "https://www.semanticscholar.org/paper/aabb1c90d706d7229da1ee4e475a14b5fff09756",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-02-01T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531327",
-      "doi": "10.9790/0837-3102040811",
+      "date_published": "2025-06-13T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685886",
+      "doi": "10.1145/3756681.3757006",
       "authors": [
         {
-          "name": "A. Sahoo",
-          "author_id": "46290295",
+          "name": "Simone Romano",
+          "author_id": "145696226",
           "affiliation": null
         },
         {
-          "name": "R. Dash",
-          "author_id": "103495828",
+          "name": "Alberto Conforti",
+          "author_id": "2334878171",
+          "affiliation": null
+        },
+        {
+          "name": "Gloria Guidetti",
+          "author_id": "11998330",
+          "affiliation": null
+        },
+        {
+          "name": "S. Viotti",
+          "author_id": "4831550",
+          "affiliation": null
+        },
+        {
+          "name": "Rachele Ceschin",
+          "author_id": "2561675097",
+          "affiliation": null
+        },
+        {
+          "name": "Giuseppe Scanniello",
+          "author_id": "1730059",
           "affiliation": null
         }
       ],
-      "abstract": "Classical yogic literature accords foundational importance to seated postures (\u0101sana) as prerequisites for\nmeditative absorption and higher yogic realization. While Sanskrit Ha\u1e6dha Yoga texts such as the Ha\u1e6dhaprad\u012bpik\u0101\nand Ghera\u1e47\u1e0da Sa\u1e41hit\u0101 systematically codify \u0101sanas, vernacular devotional texts have received comparatively\nlittle attention as sources of yogic praxis. The Odia Bh\u0101gavata, a major regional adaptation of the Bh\u0101gavata\nPur\u0101\u1e47a, preserves detailed instructions on yogic posture, silence, breath regulation, and contemplative\nabsorption embedded within a Vai\u1e63\u1e47ava devotional framework. This paper undertakes a comparative textual\nanalysis of Sv\u0101stik\u0101sana and Siddh\u0101sana as described in the Odia Bh\u0101gavata, correlating vernacular verses with\nclassical Sanskrit yogic literature. Through verse-specific comparison and functional analysis, the study\ndemonstrates that the Odia Bh\u0101gavata reflects a coherent hierarchy of \u0101sanas consistent with Ha\u1e6dha\u2013R\u0101ja Yoga\nsynthesis. Further, by integrating yogic physiology\u2014n\u0101\u1e0d\u012b, pr\u0101\u1e47a, and psychophysical stabilization\u2014the paper\nargues that the Odia Bh\u0101gavata functions as an applied yogic text wherein bodily discipline facilitates meditative\ndevotion. The findings underscore the relevance of vernacular bhakti literature to the historical transmission of\nclassical yoga.",
-      "journal": "IOSR Journal of Humanities and Social Science",
-      "year": 2026,
+      "abstract": "In this paper, we present the preliminary findings from a qualitative study (i.e., semi-structured interviews) on how a Mindfulness-Based Stress Reduction (MBSR) program, carried out in the Software Development (SD) working context, is perceived by the software developers of a multinational company who participated in the MBSR program and by the instructor who led it. MBSR is a deeply personal and experiential practice in helping individuals manage stress, particularly in high-pressure environments such as workplaces, healthcare settings, education, and other demanding professional or personal situations. Although MBSR has been experimented in different working contexts; surprisingly, it has never been studied in the SD working context where there are several stress factors that developers experience (e.g., time pressure and uncertainty about the content of a particular task and its outcome). In this respect, qualitative research can generate valuable insights into the application of MBSR in the SD working context that cannot be captured by standardized quantitative measures. Being MBSR instructors and software developers the key stakeholders in delivering an MBSR program in the SD working context, understanding their first-hand experiences can provide a more detailed picture of the investigated phenomenon. The most important takeaway result of our research can be summarized as follows: despite initial skepticism, the developers recognized personal improvements due to the MBSR practice, though the integration of MBSR techniques in the working context remained challenging.",
+      "journal": "International Conference on Evaluation & Assessment in Software Engineering",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "Impact of Nada-Bindu Upanisad on Holistic Health of University Staff",
-      "url": "https://www.semanticscholar.org/paper/e555773a8128a11686e507491ab425d7e5000e1a",
+      "title": "277 Mindfulness-based stress reduction (MBSR) for chronic pain management: Patient and pharmacist perceptions of a community pharmacy-based program in the Rural Deep South",
+      "url": "https://www.semanticscholar.org/paper/261f0afe6c370806b10f7042727395cdcd69f3ff",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2026-12-30T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531334",
-      "doi": "10.21088/ijamy.0974.6986.19426.3",
+      "date_published": "2025-03-26T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685896",
+      "doi": "10.1017/cts.2024.920",
       "authors": [
         {
-          "name": "Sunil Kumar Tiwari",
-          "author_id": "2588491464",
+          "name": "L. Hohmann",
+          "author_id": "13588105",
+          "affiliation": null
+        },
+        {
+          "name": "K. Marlowe",
+          "author_id": "6036173",
+          "affiliation": null
+        },
+        {
+          "name": "Anne Taylor",
+          "author_id": "2353558308",
+          "affiliation": null
+        },
+        {
+          "name": "Brent Fox",
+          "author_id": "2320032462",
+          "affiliation": null
+        },
+        {
+          "name": "G. Curran",
+          "author_id": "5699594",
+          "affiliation": null
+        },
+        {
+          "name": "B. Goodin",
+          "author_id": "5142167",
+          "affiliation": null
+        },
+        {
+          "name": "Caroline A. Presley",
+          "author_id": "46643037",
           "affiliation": null
         }
       ],
-      "abstract": "Background: University non-teaching staff face signi\ud8bf\udfffcant occupational stress,\nsedentary lifestyles, and work-life imbalance, leading to deteriorating physical\nand mental health. The N\u0101da-Bindu Upani\u1e63ad, an ancient Yoga Upani\u1e63ad, presents a sophisticated philosophy of sound (n\u0101da) and meditative absorption(bindu) that holds potential for addressing contemporary health challenges. Aim: This theoretical paper analyzes the philosophical principles of the N\u0101daBindu Upani\u1e63ad and examines their relevance to the holistic health of university\nnon-teaching employees. Objectives: (1) To systematically analyze key philosophical concepts of the N\u0101daBindu Upani\u1e63ad; (2) To interpret these concepts in the context of occupational health challenges; (3) To develop a theoretical framework linking N\u0101da-Yogaprinciples to measurable health outcomes; (4) To integrate contemporary psychophysiological research for empirical substantiation.\nMaterial: Primary source is the published edition of the N\u0101da-BinduUpani\u1e63ad containing 56 verses with Sanskrit text, Hindi translation, and commentary. Secondary sources include peer-reviewed articles from PubMed, Scopus, Web of Science, and Google Scholar on OM chanting, mantra meditation, and occupational stress. Result: The Upani\u1e63ad\u2019s teachings on the twelve kal\u0101s of Pra\u1e47ava, n\u0101d\u0101nusandh\u0101nain Siddh\u0101sana with Vai\u1e63\u1e47av\u012b Mudr\u0101, progressive re\ud8bf\udfffnement of auditoryperception, and dissolution of v\u0101san\u0101s provide a comprehensive frameworkfor understanding how sound-based meditation regulates the autonomic nervous system. Contemporary research substantiates these claims, demonstrating signi\ud8bf\udfffcant effects on heart rate variability, cardiorespiratory synchronization,\nand stress reduction. Conclusion: The N\u0101da-Bindu Upani\u1e63ad provides a philosophically grounded,\npractically applicable system that can theoretically reduce occupational stress and improve physical and mental health outcomes among university nonteaching staff. Empirical validation through controlled intervention studies is warranted.",
-      "journal": "Indian Journal of Ancient Medicine and Yoga",
-      "year": 2026,
+      "abstract": "Objectives/Goals: The purpose of this study was to explore pharmacists\u2019 and patients\u2019 attitudes, contextual barriers, organizational readiness, and preferences regarding implementation of a mindfulness-based stress reduction (MBSR) program for chronic pain management in the community pharmacy setting in rural Alabama. Methods/Study Population: Pharmacists in independently owned community pharmacies and patients \u226518 treated for chronic pain in the past year in rural Alabama were recruited via purposive and snowball sampling. One-hour virtual semi-structured interviews were conducted by Marketry, a qualitative market research company. Interview questions were guided by the consolidated framework for implementation research (CFIR) and focused on 1) knowledge/awareness; 2) attitudes; 3) barriers/facilitators (e.g., demand, reimbursement); 4) pharmacies\u2019 organizational readiness (e.g., technology, personnel, and culture); and 5) program preferences (content, format) regarding a potential pharmacy-based MBSR program for chronic pain management. Interview transcripts were analyzed using deductive content analysis to identify themes. Results/Anticipated Results: A total of 60 interviews were conducted (n = 30 pharmacists, n = 30 patients). Qualitative data analysis is ongoing and is expected to be completed by December 2024. Interviewee\u2019s responses describing knowledge, attitudes, barriers, facilitators, pharmacies\u2019 organizational readiness, and recommended program elements will be categorized according to the CFIR domains of \u201cinner setting,\u201d \u201couter setting,\u201d \u201cintervention characteristics,\u201d and \u201ccharacteristics of individuals.\u201d Domains will be summarized with over-arching themes. Discussion/Significance of Impact: Findings are expected to inform development of a community pharmacy-based MBSR program for chronic pain management. This serves as the first step in building and implementing a sustainable, accessible community pharmacy-based program offering a nonopioid alternative for pain management in the underserved rural Deep South.",
+      "journal": "Journal of Clinical and Translational Science",
+      "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "Traditional Islamic spiritual meditative practices: powerful psychotherapies for mental wellbeing",
-      "url": "https://www.semanticscholar.org/paper/53edd2dba1a76ee6b642b8a8a1544ab8a7a88bd3",
+      "title": "Raisin-MR-MBSR: Mixed Reality App for Raisin Meditation",
+      "url": "https://www.semanticscholar.org/paper/72b04fd07e5651702ce3afb9f6c5e26413168fcc",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-05-16T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531370",
-      "doi": "10.3389/fpsyg.2025.1538865",
+      "date_published": "2025-10-08T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685911",
+      "doi": "10.1109/ISMAR-Adjunct68609.2025.00188",
       "authors": [
         {
-          "name": "Farah R. Zahir",
-          "author_id": "3939894",
+          "name": "Hyesun Han",
+          "author_id": "2115570581",
           "affiliation": null
         },
         {
-          "name": "M. Qoronfleh",
-          "author_id": "51975218",
+          "name": "Jusub Kim",
+          "author_id": "36313095",
           "affiliation": null
         }
       ],
-      "abstract": "The new millennium is witnessing a remarkable shift within the scientific community, to be increasingly understanding and accepting the impact of meditative, spiritual, and even religious practices, on health and wellbeing. This has been precipitated ironically, by cutting edge scientific studies. Rigorous empirical research in epigenomics and neuroscience is proving that religious and spiritual experiences impact psychology and physiology. Therapeutic and prophylactic benefits from spiritual meditative practices (SMPs) are now proven for a variety of chronic conditions, notably in mental health wellness. While all forms of SMPs are currently being investigated, those from the Islamic tradition are lagging behind interrogation of similar SMPs from other traditions, such as mindfulness. Traditional Islamic SMPs have remained largely hidden or misunderstood, and as yet poorly translated into the modern context. In this paper we situate Islamic SMPs in the context of how they impact mental health and wellbeing, explaining their breadth and depth. We highlight the efficacy of dhikr and Quran recitation therapies as treatments for addiction and anxiety, noting historic evidence, and discuss how they may be integrated into modern mental health treatments. A millennium and a half of historical data proves their efficacy as psychotherapy. Precedent for the use of Islamic SMPs to treat mental illness for all people regardless of faith exists, highlighting their potential for wide implementation today. Of the Islamic SMPs that can most easily be accessed by modern people, listening to Quranic recitation and forms of dhikr therapy are notable for their ease of administration and strikingly uniform positive results. More rigorous empirical studies are called for to better translate Islamic SMPs into modern complimentary and alternative medicine, as they hold great promise as universally adoptable cogent modern psychotherapies.",
+      "abstract": "The Mindfulness-Based Stress Reduction (MBSR) program is globally recognized for its effectiveness. As digital mindfulness gains attention, recent research has explored adapting MBSR to smartphone platforms, though issues like reduced focus and limited guidance persist. This paper presents Raisin-MR-MBSR, a mixed reality adaptation of the classic raisin meditation for Microsoft HoloLens 2. Informed by a survey of experienced meditators, the app aims to boost engagement and accessibility for beginners. In a study with 33 young adults, it significantly reduced stress, anxiety, and negative affect, showing promise for immersive mindfulness practice.",
+      "journal": "2025 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Dampak Mindfulness Based Stress Reduction (MBSR) terhadap Stress Ibu yang Mengasuh Anak Berkebutuhan Khusus (ABK)",
+      "url": "https://www.semanticscholar.org/paper/6f9395ed50ef34a3f35454fcd8c1e21d8354a5c5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685919",
+      "doi": "10.59686/jtwb.v4i1.253",
+      "authors": [
+        {
+          "name": "Rita Untari",
+          "author_id": "102722257",
+          "affiliation": null
+        },
+        {
+          "name": "Maharso Adhi Nugroho",
+          "author_id": "100536364",
+          "affiliation": null
+        },
+        {
+          "name": "Siwi Hastuti",
+          "author_id": "2070903011",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: Stress is defined as a state of being pressured, both physically and psychologically. Stress experienced by mothers in raising children with special needs is called parenting stress. Mothers experience stress during the parenting process. Therefore, it is important to implement appropriate interventions. One form of intervention that can reduce stress is Mindfulness-Based Stress Reduction. Objectives: This study aims to examine the impact of Mindfulness-Based Stress Reduction (MBSR) on the stress of mothers of children with special needs (CWSN) at the Bunda Kirani Foundation in Boyolali. Methods: The research design is a quantitative, pre-experimental, one-group, pre-test and post-test design. The intervention using MBSR techniques includes body scanning, sitting meditation, hatha yoga, and walking meditation, with a total of 15 respondents. MBSR interventions were conducted 10 times. The measurement instrument used in this study was the Perceived. The assessment instrument used in this study was the Perceived Stress Scale. The sampling technique used was purposive sampling. The data analysis was performed using the Paired t-test. Results: The largest sample had a high school education background, totaling 9 people (60%), the majority were 38 years old, totaling 3 people (20%), and the oldest sample was 48 years old, totaling 1 person (6.7%). There was a decrease in scores, with an average of 5.34 after\u00a0being given MBSR treatment. The hypothesis test showed a p-value of 0.000 (p < 0.05), indicating that there was a statistically significant effect of MBSR treatment on the stress of mothers who have children at Yayasan Bunda Kirani Boyolali. Conclusion: MBSR impacts the reduction of stress in mothers who have children with developmental disabilities and provides direct caregiving. \nKeywords : Children with special needs, Stress, Mindfulness, MBSR.",
+      "journal": "Jurnal Terapi Wicara dan Bahasa",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "The Effect of Mindfulness-Based Stress Reduction (MBSR) on Emotion Regulation among Older Adults with Type 2 Diabetes Mellitus in Bangun Rejo Village, 2025",
+      "url": "https://www.semanticscholar.org/paper/fec6bd72c57787338e2faf7aa62517064d6dbcd9",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-31T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685928",
+      "doi": "10.62872/dnq7ty36",
+      "authors": [
+        {
+          "name": "E. Erika",
+          "author_id": "2237263588",
+          "affiliation": null
+        },
+        {
+          "name": "Indra Agussamad",
+          "author_id": "2194928355",
+          "affiliation": null
+        },
+        {
+          "name": "Tahan Tahan",
+          "author_id": "116601666",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Emotional regulation is an important aspect in maintaining the mental health of the elderly, especially those suffering from chronic diseases such as Type 2 Diabetes Mellitus. Chronic disease conditions often trigger psychological stress that impacts an individual's ability to manage emotions. One of the non-pharmacological interventions widely developed to overcome stress is Mindfulness-Based Stress Reduction (MBSR). This study aims to determine the effect of MBSR on emotional regulation in elderly with Type 2 Diabetes Mellitus in Bangun Rejo Village in 2025. This study used a quantitative design with a one-group pretest\u2013posttest method. The study subjects were 30 elderly with Type 2 Diabetes Mellitus selected using a total sampling technique. The MBSR intervention was given for eight sessions, and emotional regulation was measured using the Emotion Regulation Questionnaire (ERQ) before and after the intervention. Data analysis was performed using descriptive statistics and the Paired Sample t-Test. The results showed a significant increase in emotional regulation scores, from an average of 34.67 before the intervention to 75.50 after the MBSR intervention. Statistical test results showed a significant difference between pretest and posttest scores (p < 0.05). Thus, MBSR has been proven effective in improving emotional regulation in elderly people with Type 2 Diabetes Mellitus. The MBSR program is recommended as a supporting intervention in elderly health services.",
+      "journal": "Oshada",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Effectiveness of Implementing Modified Mindfulness Based Stress Reduction (MBSR) on Stress and Fatigue in Hemodialysis Patients",
+      "url": "https://www.semanticscholar.org/paper/8828d4f49c9be8cdc2accebfba971b0aaf7c93d0",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-20T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685937",
+      "doi": "10.31004/jn.v9i2.43554",
+      "authors": [
+        {
+          "name": "Aprianto Guntur Irawan",
+          "author_id": "2365733204",
+          "affiliation": null
+        },
+        {
+          "name": "Dhea Natashia",
+          "author_id": "80900789",
+          "affiliation": null
+        },
+        {
+          "name": "D. Gayatri",
+          "author_id": "1393777724",
+          "affiliation": null
+        },
+        {
+          "name": "Wati Jumaiyah",
+          "author_id": "66585421",
+          "affiliation": null
+        },
+        {
+          "name": "Winda Yuniarsih",
+          "author_id": "2365772774",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Stress and fatigue are common complaints among hemodialysis patients, significantly affecting their quality of life during long-term therapy. This study aimed to evaluate the effectiveness of a modified Mindfulness-Based Stress Reduction (MBSR) intervention on stress and fatigue in patients undergoing hemodialysis. The study adopted a quasi-experimental pretest-posttest control group design and employed simple random sampling. A total of 32 respondents participated, with 16 in each group. Stress was measured using the Perceived Stress Scale (PSS-10) and fatigue using the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F 40). The modified MBSR intervention was conducted for 30 minutes per session. Data were analyzed using paired t-tests and independent t-tests. The results showed significant differences in stress (MD = -13.12, t = -4.748, p < 0.001) and fatigue levels (MD = 7.34, t = -3.865, p = 0.001) between the intervention and control groups. These findings indicate that the modified MBSR therapy was effective in reducing stress and fatigue, with a p-value < 0.05 indicating statistical significance. Therefore, this modified MBSR therapy is a promising non-pharmacological nursing intervention that can be integrated into nursing care for chronic kidney failure patients experiencing stress and fatigue during hemodialysis.",
+      "journal": "Jurnal Ners",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "From Burnout to Balance: A Mixed-Method Study on Mindfulness-Based Stress Reduction (MBSR) in ABA Practitioners",
+      "url": "https://www.semanticscholar.org/paper/3c4c103d8860432e080b11d5718f301ea0530e6d",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-26T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685946",
+      "doi": "10.63468/jpsa.3.3.27",
+      "authors": [
+        {
+          "name": "Ramal Fatima",
+          "author_id": "2553347030",
+          "affiliation": null
+        },
+        {
+          "name": "Amna Liaqat",
+          "author_id": "2186418144",
+          "affiliation": null
+        },
+        {
+          "name": "Qandeel Fatima",
+          "author_id": "2338095143",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Burnout is a significant concern among Applied Behavior Analysis (ABA) therapists due to the emotionally demanding nature of their work with individuals diagnosed with Autism Spectrum Disorder (ASD). This study aimed to examine the effectiveness of Mindfulness-Based Stress Reduction (MBSR) in reducing burnout and enhancing mindfulness among ABA therapists in Pakistan. A quantitative pre-post design was used, involving 12 ABA therapists who participated in an eight-week MBSR program. The Maslach Burnout Inventory (MBI) and Five Facet Mindfulness Questionnaire (FFMQ) were administered before and after the intervention. Results indicated significant reductions in overall burnout, particularly in emotional exhaustion and depersonalization, while personal accomplishment scores increased post-intervention. Likewise, mindfulness scores improved significantly across all five subscales. Correlational analysis revealed a strong negative association between mindfulness and burnout components, suggesting that higher mindfulness was linked with lower emotional exhaustion and depersonalization, and greater personal accomplishment. Additionally, therapists with fewer years of experience, younger age, and longer working hours reported higher burnout levels. These findings highlight the potential of MBSR as a practical and accessible tool to enhance emotional regulation, resilience, and professional sustainability in high-stress therapeutic settings. Limitations include small sample size and lack of follow-up data. Future research should explore long-term effects and use larger, more diverse samples.",
+      "journal": "Journal of Political Stability Archive",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "MBSR (Mindfulness-based Stress Reduction Program) on the Stress Relief of Clinical Nurses in China",
+      "url": "https://www.semanticscholar.org/paper/605d9ae6d00e938460ade7bac98236daae73c56e",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685952",
+      "doi": "10.70979/tjos9614",
+      "authors": [
+        {
+          "name": "Zhimin Zheng",
+          "author_id": "2370347535",
+          "affiliation": null
+        }
+      ],
+      "abstract": "In recent years, the problem of negative emotions and job burnout among clinical front-line medical staff has become more and more serious, among which the pediatric emergency department has a large flow of patients, and the health and safety of children is the focus of family attention. Now under the new fertility policy, the number of pediatric patients will increase. Pediatric nurses due to the particularity of the profession and the influence of various factors, in the face of heavy work, all day in a state of tension and anxiety, psychological bear a lot of mental and psychological pressure, long-term, so that nurses are physically and mentally tired, lose confidence in nursing work.\nIn this study, questionnaire survey and statistical analysis were used to analyze whether MBSR could relieve the stress of emergency department nurses. Mindfully based stress reduction therapy (MBSR) is a systematic meditation training method, which can effectively reduce individual stress, strengthen emotional management, and improve individual physical and mental adjustment ability. Whether mindfulness-based stress reduction therapy can improve the work stress of pediatric emergency nurses, thereby improving nursing ability and ensuring the quality and safety of clinical care.\nBased on the results of the collected data, pediatric emergency nurses were generally overstressed, while the system underwent MBSR and stress levels were measured to decrease. Pediatric emergency nurses often face trauma and high workloads. Mindfulness-based stress reduction programs have been studied as a potential holistic intervention to reduce stress in nurses by cultivating present-moment awareness, emotional regulation, and positive thinking.",
+      "journal": "Asia Pacific Journal of Allied Health Sciences",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "The impact of effectiveness of mindfulness-based stress reduction (MBSR) on mindfulness and perceived stress in healthy adults",
+      "url": "https://www.semanticscholar.org/paper/e91909bd44c6e140126e3e8657f25aaadc4fe4db",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-11T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685961",
+      "doi": "10.70462/acim.2025.1.003",
+      "authors": [
+        {
+          "name": "Ampere A. Tseng",
+          "author_id": "2259757240",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This paper reviews and examines the effectiveness of Mindfulness-Based Stress Reduction (MBSR) interventions in enhancing mindfulness and mitigating stress-related symptoms. Drawing on trial data from 13 selected studies involving 574 generally healthy adults, this research seeks to establish a robust correlation between heightened mindfulness and reduced perceived stress. We assessed mindfulness using the Mindful Attention Awareness Scale (MAAS) and measured stress reductions through self-reported questionnaires. Normalized effectiveness scores, calculated as percentages from pre-intervention baselines, enabled linear regression analyses. To ensure the integrity of our findings, we rigorously controlled for external influences by isolating MBSR as the exclusive intervention and MAAS as the sole mindfulness measurement. Aggregate data confirm positive outcomes: mindfulness improvements ranged from 3.77% to 26.80%, and stress reductions varied from 8.41% to 49.05%. Linear regression trendlines reveal a strong positive correlation between increased mindfulness and decreased perceived stress. This highlights the profound benefits of MBSR interventions in enhancing mental well-being and suggests their potential for widespread integration into mental health initiatives. Ultimately, this article not only underscores MBSR's role in promoting mental wellbeing but also offers a quantitative framework for predicting health outcomes based on mindfulness levels.\u00a0",
+      "journal": "Advances in Complementary and Integrative Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Application of MBSR Combined with Relaxation Training in the Perioperative Period of Interventional Therapy for Lumbar Disc Herniation",
+      "url": "https://www.semanticscholar.org/paper/94774ab0d85e7553d908b31d20cbbbb6eaaea4fa",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-11-10T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685970",
+      "doi": "10.26689/jcnr.v9i10.12083",
+      "authors": [
+        {
+          "name": "Dan Xiao",
+          "author_id": "2392529819",
+          "affiliation": null
+        },
+        {
+          "name": "Qiu-Jing Hao",
+          "author_id": "2386650433",
+          "affiliation": null
+        },
+        {
+          "name": "Ya-Na He",
+          "author_id": "2392452540",
+          "affiliation": null
+        },
+        {
+          "name": "Zhixin Liu",
+          "author_id": "2405838137",
+          "affiliation": null
+        },
+        {
+          "name": "Xiaoqing Zhang",
+          "author_id": "2392456938",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Objective: To explore the application effect of MBSR combined with relaxation training in the perioperative period of radiofrequency ablation combined with ozone interventional therapy for lumbar disc herniation. Methods: Ninety patients with lumbar disc herniation who underwent radiofrequency ablation (RFA) combined with ozone interventional therapy in the Orthopedics and Traumatology Department of our hospital from January to December 2019 were included as research samples. They were randomly divided into two groups using a random number table method: the control group (45 cases) received routine perioperative nursing and health education; the experimental group (45 cases) received a comprehensive psychological intervention program consisting of MBSR combined with relaxation training in addition to the control group's treatment. Changes in pain perception (VAS), sleep quality (PSQI), psychological state (SAS/SDS), and life satisfaction (SWLS) were compared between the two groups before and after the intervention. Results: After the intervention, both groups showed a significant decrease in SAS and SDS scores (P<0.05), with a greater decrease in the experimental group (P<0.05); the experimental group had lower PSQI total scores and scores in each dimension compared to the control group (P<0.05); the experimental group had a significantly lower VAS score (3.56\u00b10.88) compared to the control group (5.94\u00b10.62) (P<0.05); the experimental group had a higher SWLS score (28.59\u00b15.61) compared to the control group (22.46\u00b14.15) (P<0.05). Conclusion: MBSR combined with relaxation training can significantly optimize the perioperative psychological state of patients undergoing RFA combined with ozone interventional therapy, reduce pain sensitivity and stress responses, and simultaneously improve sleep quality and treatment satisfaction.",
+      "journal": "Journal of Clinical and Nursing Research",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Live Video MBSR is a Feasible and Acceptable Adjunctive Therapy for Youth With Inflammatory Bowel Disease",
+      "url": "https://www.semanticscholar.org/paper/e2b3adc63d250deaa409fe50da27264edc2f177b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-10-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685980",
+      "doi": "10.1177/27536130251393662",
+      "authors": [
+        {
+          "name": "Srisindu Vellanki",
+          "author_id": "87114704",
+          "affiliation": null
+        },
+        {
+          "name": "Christina E. Holbein",
+          "author_id": "4338956",
+          "affiliation": null
+        },
+        {
+          "name": "Adoma Boateng",
+          "author_id": "2168275849",
+          "affiliation": null
+        },
+        {
+          "name": "Naomi Pressman",
+          "author_id": "2094017263",
+          "affiliation": null
+        },
+        {
+          "name": "J. Kirsch",
+          "author_id": "2170910484",
+          "affiliation": null
+        },
+        {
+          "name": "Erica Sibinga",
+          "author_id": "4705973",
+          "affiliation": null
+        },
+        {
+          "name": "M. Mascarenhas",
+          "author_id": "66286473",
+          "affiliation": null
+        },
+        {
+          "name": "L. Albenberg",
+          "author_id": "13089193",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background Mindfulness-based stress reduction (MBSR) has been shown to be beneficial for adults with inflammatory bowel disease (IBD), but little is known about its use in pediatric IBD. Objective This pilot study aimed to assess the feasibility and acceptability of an MBSR program delivered by live-video during the COVID-19 pandemic for youth with IBD. Methods Four cohorts of an 8-session MBSR program were conducted via a HIPAA-compliant, video-conferencing platform from winter 2021 to spring 2022. Mixed-methods data were collected through semi-structured focus groups, study-specific surveys, attendance data, and self-reported health-related quality of life (HRQOL) measures. Results Forty-six participants enrolled across 4 cohorts. Participants were 64% female, Mage=14.1 years, 36% non-Latinx White; most had Crohn\u2019s disease (81%). Participants attended an average of 7.6 of 8 classes, with 69% attending all 8 classes. Majority of participants (77%) were satisfied or very satisfied with the program. Three themes emerged from the focus groups (n=27): (1) IBD-specific benefits: reduced stress (which some identified as an IBD trigger) and connecting with IBD peers; (2) mental health benefits; and (3) virtual MBSR was feasible and well-liked, but challenges were present. Pre- vs post-program data (n = 30) showed statistically significant improvements in HRQOL (P = 0.04), HRQOL social functioning (P = 0.03), and perceived stress (P < 0.01). Conclusion This pilot study of live-video MBSR for youth with IBD shows feasibility and acceptability, high rates of attendance and satisfaction, and potential benefits in quality of life and stress. MBSR is a potential adjunctive therapy in pediatric IBD.",
+      "journal": "Global Advances in Integrative Medicine and Health",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Effectiveness of Mindfulnes Based Stress Reduction (MBSR) Increasing Resilience in Review of the Economic Social Status of ODGJ Companion Families at the Oepoi Health Center, Kupang",
+      "url": "https://www.semanticscholar.org/paper/cd202329081d1212bcdcfffd9f7dafd4add0f8ae",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-02-22T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685988",
+      "doi": "10.58526/jsret.v4i1.705",
+      "authors": [
+        {
+          "name": "Ratnasari Kinanggi",
+          "author_id": "2333390384",
+          "affiliation": null
+        },
+        {
+          "name": "Suroso",
+          "author_id": "122162815",
+          "affiliation": null
+        },
+        {
+          "name": "N. Pratitis",
+          "author_id": "2091519991",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This study aims to analyze the effectiveness of Mindfulness Based Stress Rreduction (MBSR) in increasing resilience and test the difference in resilience levels reviewed from the socioeconomic status of ODGJ companion families at the Oepoi Health Center, Kupang City. Resilience is the ability of individuals to manage themselves both within individuals such as individual emotions and thoughts as well as from outside individuals in overcoming problems, difficulties and unpleasant experiences in a good way. MBSR helps individuals manage stress and reduce impulsive reactions to emotions, as well as focus attention on the present moment, which reduces anxiety about the future. Socioeconomic status is the classification of people in social classes based on the same level of economic status.the number of samples in this study is 54 subjects, the sampling technique uses purposive sampling so that the subjects who received MBSR intervention were 19 people with The data analysis method uses the Mann Whitney U Test and the Kruskal Wallis test.",
+      "journal": "Journal of Scientific Research, Education, and Technology (JSRET)",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "COVID-19 Tan\u0131s\u0131 Alm\u0131\u015f Hastalara Bak\u0131m Veren Hem\u015firelerde Akran Deste\u011fi Y\u00f6ntemi ile Uygulanan Mesleki ve MBSR Akran Deste\u011fi Program\u0131n\u0131n Kayg\u0131, T\u00fckenmi\u015flik ve Bilin\u00e7li Fark\u0131ndal\u0131k \u00dczerine Etkisi: Bir Karma Y\u00f6ntem Ara\u015ft\u0131rmas\u0131",
+      "url": "https://www.semanticscholar.org/paper/079c83ddff50808f070cb895fa673ebd0847fb21",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-27T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.685997",
+      "doi": "10.38108/ouhcd.1277151",
+      "authors": [
+        {
+          "name": "O. Oner",
+          "author_id": "2092862965",
+          "affiliation": null
+        },
+        {
+          "name": "Yurdanur Dikmen",
+          "author_id": "33121604",
+          "affiliation": null
+        },
+        {
+          "name": "Handenur G\u00fcndo\u011fdu",
+          "author_id": "2494036221",
+          "affiliation": null
+        },
+        {
+          "name": "Fatma Tanr\u0131kulu",
+          "author_id": "2083892595",
+          "affiliation": null
+        },
+        {
+          "name": "Funda Erol",
+          "author_id": "143614090",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Ama\u00e7: Bu ara\u015ft\u0131rmada, pandemi s\u00fcrecinde \u00e7al\u0131\u015fan hem\u015firelere akran deste\u011fi y\u00f6ntemi ile uygulanan mesleki ve MBSR Akran Deste\u011fi Program\u0131n\u0131n ya\u015fanan kayg\u0131, t\u00fckenmi\u015flik ve bilin\u00e7li fark\u0131ndal\u0131k \u00fczerine etkisini incelemek ama\u00e7lanm\u0131\u015ft\u0131r. \nY\u00f6ntem: A\u00e7\u0131mlay\u0131c\u0131 S\u0131ral\u0131 Karma Desende y\u00fcr\u00fct\u00fclen ara\u015ft\u0131rman\u0131n evrenini bir hastanede \u00e7al\u0131\u015fan 580 hem\u015fire, nicel a\u015famas\u0131n\u0131n \u00f6rneklemini 195 hem\u015fire, nitel a\u015famas\u0131n\u0131n \u00f6rneklemini ise akran deste\u011fi veren 15 hem\u015fire ve akran deste\u011fi alan 49 hem\u015fire olu\u015fturmu\u015ftur. Veriler niceliksel ve niteliksel y\u00f6ntemlerle toplanm\u0131\u015ft\u0131r. \nBulgular: Akran deste\u011fi alan hem\u015firelerin durumluk kayg\u0131, s\u00fcrekli kayg\u0131 ve t\u00fckenmi\u015flik son test puan ortalamalar\u0131n\u0131n \u00f6n test puan ortalamalar\u0131na g\u00f6re istatistiksel olarak anlaml\u0131 derecede d\u00fc\u015ft\u00fc\u011f\u00fc g\u00f6r\u00fcl\u00fcrken, bilin\u00e7li fark\u0131ndal\u0131k son test puan\u0131n\u0131n artt\u0131\u011f\u0131 g\u00f6r\u00fclm\u00fc\u015ft\u00fcr (p",
+      "journal": "Ordu \u00dcniversitesi Hem\u015firelik \u00c7al\u0131\u015fmalar\u0131 Dergisi",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Beyond distress: a sequential quantitative investigation of MBSR through a dual-factor model of mental health in college students",
+      "url": "https://www.semanticscholar.org/paper/194d8b500e9a6fe07940ba0fb1d8d2e3d6e2bb63",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-07-16T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.686005",
+      "doi": "10.3389/fpsyg.2025.1588162",
+      "authors": [
+        {
+          "name": "Dingzhong Huang",
+          "author_id": "2338055823",
+          "affiliation": null
+        },
+        {
+          "name": "Rohani Ismail",
+          "author_id": "2335572821",
+          "affiliation": null
+        },
+        {
+          "name": "K. Yeoh",
+          "author_id": "5105225",
+          "affiliation": null
+        },
+        {
+          "name": "Affizal Ahmad",
+          "author_id": "2336523857",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Objective This study applies the Dual-Factor Model of Mental Health to examine the effects of Mindfulness-Based Stress Reduction (MBSR) among college students, addressing a critical gap in understanding how mindfulness interventions simultaneously promote positive mental health and reduce psychological distress. Sleep quality was investigated as a potential mediating mechanism, and the scalability of MBSR as a campus-wide intervention was explored in the post-pandemic context, where student mental health concerns have risen sharply. Method A sequential quantitative design was employed, combining cross-sectional analysis (N\u202f=\u202f406) and a randomized controlled trial (N\u202f=\u202f120). In the cross-sectional phase, mindfulness (MAAS), sleep quality (Athens Insomnia Scale), psychological distress (DASS-21), and positive mental health (MHC-SF) were assessed. Path analysis and bootstrap-based mediation testing (5,000 resamples) were used to examine structural relationships and estimate indirect effects, particularly the mediating role of sleep quality. In the experimental phase, participants were randomly assigned to an 8-week MBSR program or a waitlist control group, with assessments at baseline, post-intervention, and 6-month follow-up to evaluate sustained outcomes. We employed sequential quantitative design combining cross-sectional analysis (N\u202f=\u202f406) and a randomized controlled trial (N\u202f=\u202f120). The cross-sectional phase used the Mindful Attention Awareness Scale (MAAS), Athens Insomnia Scale (AIS), Depression Anxiety Stress Scale-21 (DASS-21), and Mental Health Continuum-Short Form (MHC-SF) to establish structural relationships through path analysis and bootstrap-based mediation testing (5,000 resamples). The intervention phase randomly assigned participants to an 8-week MBSR program or waitlist control, with assessments at baseline, post-intervention, and 6-month follow-up to capture sustainability. Result Cross-sectional analyses revealed that mindfulness was positively associated with positive mental health (\u03b2\u202f=\u202f0.38, p\u202f<\u202f0.01) and negatively associated with psychological distress (\u03b2\u202f=\u202f\u22120.31, p\u202f<\u202f0.01). Sleep quality emerged as a potential mediator, particularly in relation to positive mental health outcomes. The intervention group demonstrated robust and sustained improvements in positive mental health (d\u202f=\u202f0.71, 95% CI [0.52, 0.90]). Psychological distress showed more variable patterns, with no significant between-group differences observed.",
       "journal": "Frontiers in Psychology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "MBSR"
       ]
     },
     {
-      "title": "Leaf absorption contributes to accumulation of microplastics in plants",
-      "url": "https://www.semanticscholar.org/paper/23f1476d8119e518ed57f24d6f7e34b924e197d6",
+      "title": "EFEKTIVITAS INTERVENSI MINDFULNESS-BASED STRESS REDUCTION (MBSR) OLEH PERAWAT TERHADAP PENURUNAN EMOSI NEGATIF PADA PASIEN BIPOLAR: A META-ANALYSIS",
+      "url": "https://www.semanticscholar.org/paper/3dc01e87e775cbd3203acf3f43f1e67e8946994c",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-04-09T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531383",
-      "doi": "10.1038/s41586-025-08831-4",
+      "date_published": "2025-07-28T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.686013",
+      "doi": "10.52236/ih.v13i2.776",
       "authors": [
         {
-          "name": "Ye Li",
-          "author_id": "2250774848",
+          "name": "Elisa Adelia Do Carmo",
+          "author_id": "2534501086",
           "affiliation": null
         },
         {
-          "name": "Jun-Jie Zhang",
-          "author_id": "2108072982",
+          "name": "Khrisna Wisnusakti",
+          "author_id": "112871154",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Latar Belakang: Mindfulness-Based Stress Reduction (MBSR) telah terbukti efektif dalam mengurangi emosi negatif pada berbagai kondisi psikologis. Namun, efektivitasnya dalam konteks pasien bipolar, khususnya yang diberikan oleh perawat, memerlukan perhatian khusus. Tujuan: Menilai efektivitas MBSR yang diterapkan oleh perawat dalam mengurangi emosi negatif pada pasien bipolar melalui meta-analisis. Metode: Penelitian ini menggunakan pendekatan systematic literature review dengan mengikut pedoman PRISMA(Preferred Reporting Items For Systematic Reviews and Meta-Analyses). Melakukan pencarian sistematis melalui basis data elektronik untuk studi yang memenuhi kriteria inklusi. Data dari studi yang memenuhi kriteria dianalisis menggunakan model efek acak, pencarian dilakukan untuk artikel Berbahasa Inggris dan Bahasa Indonesia yang terbit antara tahun 2013-2024. Hasil: MBSR yang diterapkan oleh perawat menunjukkan penurunan signifikan pada gejala depresi dan kecemasan pada pasien bipolar. Namun, efek pada gejala manik tidak signifikan. Efek positif lebih jelas terlihat dalam analisis dalam kelompok dibandingkan antara kelompok. Kesimpulan: MBSR yang diterapkan oleh perawat efektif dalam mengurangi emosi negatif pada pasien bipolar, terutama gejala depresi dan kecemasan. Namun, diperlukan penelitian lebih lanjut untuk memahami mekanisme dan durabilitas efeknya. \n\u00a0",
+      "journal": "Jurnal ilmiah keperawatan",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Assessing the Effectiveness of Mindfulness-Based Stress Reduction (MBSR) Programs in Reducing Anxiety and Depression in Chronic Illness Patients",
+      "url": "https://www.semanticscholar.org/paper/9d1281b02c28822454eeb61ff6c07dee7850eeb5",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-22T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.686021",
+      "doi": "10.55299/ijphe.v4i2.1228",
+      "authors": [
+        {
+          "name": "Prima Dewi Kusumawati",
+          "author_id": "66531229",
           "affiliation": null
         },
         {
-          "name": "Li Xu",
-          "author_id": "2354961795",
+          "name": "Sofiyatul Anshoriyah",
+          "author_id": "2223225821",
           "affiliation": null
         },
         {
-          "name": "Ruoqi Li",
-          "author_id": "2320717329",
+          "name": "Delvy Mardvin Siokain",
+          "author_id": "2341825395",
           "affiliation": null
         },
         {
-          "name": "Rui Zhang",
-          "author_id": "2299340299",
+          "name": "F. F\u00e9rnandez",
+          "author_id": "2065110830",
           "affiliation": null
         },
         {
-          "name": "Meng-Xi Li",
-          "author_id": "2223019127",
+          "name": "W. Nurhidayati",
+          "author_id": "2265003674",
+          "affiliation": null
+        }
+      ],
+      "abstract": "The objective of the present study was to evaluate the efficacy of a mindfulness-based stress reduction (MBSR) program in mitigating anxiety and depression levels in patients suffering from chronic illnesses. To this end, qualitative research techniques were employed, encompassing in-depth interviews and participant observation, in order to gather data from a cohort of twelve patients who had engaged in the MBSR program for a duration of 8 weeks at Sam Marie Clinic.Thematic analysis was subsequently implemented for the purpose of data analysis. Findings indicated that the MBSR program effectively reduced anxiety and depression levels by fostering heightened self-awareness, acceptance of emotions, and effective stress management.The study's findings offer crucial insights for the advancement of mindfulness-based psychosocial interventions in chronic disease patient care.",
+      "journal": "International Journal of Public Health Excellence (IJPHE)",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "Sexual Minority Men Living with HIV\u2019s Interest in Yoga vs. MBSR as an Adjunct to an App-Based Positive Affect Intervention: A Focus Group Study",
+      "url": "https://www.semanticscholar.org/paper/7f6faf61a7e3c68ea8e5e6c02ad549eff0f44193",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-06-12T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.686031",
+      "doi": "10.29011/2577-2201.100270",
+      "authors": [
+        {
+          "name": "K. M. Sizemore",
+          "author_id": "8522518",
           "affiliation": null
         },
         {
-          "name": "Chun-Mei Ran",
-          "author_id": "2250469639",
+          "name": "A. Talan",
+          "author_id": "15498290",
           "affiliation": null
         },
         {
-          "name": "Zi-Yu Rao",
-          "author_id": "9822637",
+          "name": "Anxhela Kalia",
+          "author_id": "2546090750",
           "affiliation": null
         },
         {
-          "name": "Xing Wei",
-          "author_id": "2128378093",
+          "name": "J. T. Moskowitz",
+          "author_id": "2318124940",
           "affiliation": null
         },
         {
-          "name": "Mingli Chen",
-          "author_id": "2354576145",
+          "name": "E. Addington",
+          "author_id": "13114484",
           "affiliation": null
         },
         {
-          "name": "Lu Wang",
-          "author_id": "2485380219",
+          "name": "Shannon Gray",
+          "author_id": "2052902082",
           "affiliation": null
         },
         {
-          "name": "Zhiwanxin Li",
-          "author_id": "2331269097",
+          "name": "H. J. Rendina",
+          "author_id": "4407207",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Purpose: Sexual minority men (SMM) living with HIV experience significant mental health disparities. Studies show positive psychological interventions (PPI) and mindfulness-based interventions (MBI) can have a positive impact on people LWH, however, limited research has explored this among SMM LWH. The current study explores two MBIs (MBSR and yoga) as potential adjuncts to an app-based PPI, which was designed to reduce stress for SMM LWH. Methods: These data are from a sub-study of a proof-of-concept pilot. The pilot enrolled 22 SMM LWH, who used an app-based PPI for 90 days. Following completion of this initial study, participants were invited to participate in a focus group discussion, which explored SMM LWH\u2019s interest in MBSR vs. restorative yoga as adjunct programs to the app-based PPI. Results: A third of participants from the initial study attended the focus group (N=7). All focus group participants were racial minorities (71.4% Black, 14.3% Hispanic/Latino, 14.3% Multiracial), with an average age of 32.14yrs (SD=4.87). When asked about initial interest, most participants said they would prefer restorative yoga over MBSR. In the discussion that followed, three main themes and eleven subthemes emerged, which elucidated SMM LWH\u2019s attitudes toward MBI, as well as their perceived barriers and facilitators for both yoga and MBSR. Conclusions: The study provides insight into racial minority SMM LWH\u2019s comparative interest in two MBIs and suggests that yoga may be a feasible adjunct to the app-based PPI. However, inequities regarding access to yoga remain an important issue for SMM LWH and must be addressed.",
+      "journal": "Current Research in Complementary & Alternative Medicine",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "The Effect of Mindfulness-Based Stress Reduction (MBSR) Therapy on Reducing Stress and Fatigue among Career Women",
+      "url": "https://www.semanticscholar.org/paper/d4c82db20515600ed613f29f3520434dec14643a",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-04-29T00:00:00",
+      "date_fetched": "2026-11-26T20:40:08.686038",
+      "doi": "10.64420/ijcp.v2i1.185",
+      "authors": [
+        {
+          "name": "N. Yusof",
+          "author_id": "2196597773",
           "affiliation": null
         },
         {
-          "name": "Yining Xue",
-          "author_id": "2325917272",
+          "name": "Mardiana Mansor",
+          "author_id": "82233881",
           "affiliation": null
         },
         {
-          "name": "Chu-Li Peng",
-          "author_id": "11889973",
+          "name": "Haslinda Hasyim",
+          "author_id": "2373812594",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background: Working women frequently encounter high stress levels due to the combined demands of professional duties and household responsibilities. Emotional fatigue, often underestimated, plays a critical role in reducing well-being and workplace productivity. Objective: This study investigates the effectiveness of mindfulness techniques in reducing fatigue and alleviating stress among working women. Method: A qualitative case study was conducted with five professional women who also manage domestic roles. Data were collected through in-depth interviews and observations during a series of mindfulness sessions. Result: Fatigue was found to stem not only from workplace demands but also from emotional strain at home. Participants who felt unappreciated, described as experiencing a hypo emotional tank, tended to carry negative emotions into their work, increasing stress and lowering performance. After mindfulness practice, most participants reported improved emotional balance, enhanced self-worth, and noticeable reductions in fatigue and stress. Conclusion: Mindfulness practices help working women manage stress and fatigue by fostering self-awareness and emotional resilience. Contribution: This study offers insights into the emotional burdens faced by working women and supports mindfulness as an effective intervention for improving psychological well-being and job performance.",
+      "journal": "International Journal of Counseling and Psychotherapy",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "MBSR"
+      ]
+    },
+    {
+      "title": "NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition",
+      "url": "https://www.semanticscholar.org/paper/c43cf6c6d2a3a9774d2f8a1b35a3fe851643f81f",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-09-08T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113285",
+      "doi": "10.48550/arXiv.2509.06927",
+      "authors": [
+        {
+          "name": "H. ter Hofte",
+          "author_id": "2494371987",
           "affiliation": null
         },
         {
-          "name": "Chunguang Liu",
-          "author_id": "2277568104",
+          "name": "Nick van Ravenzwaaij",
+          "author_id": "2538581664",
+          "affiliation": null
+        }
+      ],
+      "abstract": "We introduce NeedForHeat DataGear: an open hardware and open software data collection system designed to accelerate the residential heating transition. NeedForHeat DataGear collects time series monitoring data in homes that have not yet undergone a heating transition, enabling assessment of real-life thermal characteristics, heating system efficiency, and residents'comfort needs. This paper outlines its architecture and functionalities, emphasizing its modularity, adaptability, and cost-effectiveness for field data acquisition. Unlike conventional domestic monitoring solutions focused on home automation, direct feedback, or post-installation heat pump monitoring, it prioritizes time series data we deemed essential to evaluate the current situation in existing homes before the heating transition. Designed for seamless deployment across diverse households, NeedForHeat DataGear combines openness, security, and privacy with a low-cost, user-friendly approach, making it a valuable tool for researchers, energy professionals, and energy coaches.",
+      "journal": "arXiv.org",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Benchmarking of open access publication rates for the pharmaceutical industry and research-intensive academic institutions: development and demonstration of a live, open monitoring tool",
+      "url": "https://www.semanticscholar.org/paper/0ee240fa1530d974af659e842019cff6825bcb07",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2026-01-02T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113351",
+      "doi": "10.1101/2024.09.14.613042",
+      "authors": [
+        {
+          "name": "Tomas J Rees",
+          "author_id": "2284739840",
           "affiliation": null
         },
         {
-          "name": "Hong-Wen Sun",
-          "author_id": "2237738469",
+          "name": "V. Philippon",
+          "author_id": "7829668",
           "affiliation": null
         },
         {
-          "name": "Bao-Shan Xing",
-          "author_id": "2248212498",
+          "name": "A. Liew",
+          "author_id": "5616337",
           "affiliation": null
         },
         {
-          "name": "Lei Wang",
-          "author_id": "2308701925",
+          "name": "S. Bar\u00f3nikov\u00e1",
+          "author_id": "66937807",
+          "affiliation": null
+        },
+        {
+          "name": "William T. Gattrell",
+          "author_id": "4191655",
+          "affiliation": null
+        },
+        {
+          "name": "Jo Gordon",
+          "author_id": "2321803279",
+          "affiliation": null
+        },
+        {
+          "name": "Taija S. Koskenkorva",
+          "author_id": "6129899",
+          "affiliation": null
+        },
+        {
+          "name": "Santosh G. Mysore",
+          "author_id": "6705306",
+          "affiliation": null
+        },
+        {
+          "name": "J. Os\u00f3rio",
+          "author_id": "3084361",
+          "affiliation": null
+        },
+        {
+          "name": "Tim Koder",
+          "author_id": "51095477",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Background In biomedical and health sciences, many articles are published open access (OA). OA publication rates continue to grow, especially for pharmaceutical research. Previous analyses of pharmaceutical OA publication rates were labor-intensive and not easily automated. We aimed to create a free, live, online dashboard comparing OA publication rates between pharmaceutical companies and academic institutions. Methods Using the Lens \u2013 an online platform aggregating full-text content and metadata for over 280 million scholarly works \u2013 we built a dashboard showing OA publication rates for medical research articles by authors from the top 40 pharmaceutical companies (pharma) and 40 research-intensive academic institutions (academia). The dashboard details OA rates by model, license and therapy area across three time frames: 12\u201324 months; 0\u201312 months; 0\u201310 years. We downloaded data from the dashboard between 24 July and 4 August 2023 and performed further analysis. Results Of the articles published 12\u201324 months before data extraction, 76.6% by pharma and 69.5% by academia were OA. The most common OA models were gold (pharma, 37%; academia, 41%) and hybrid (pharma, 22%; academia, 11%). Oncology had lower rates of OA articles than other therapy areas. In the 10 years before data extraction, growth in the OA publication rate was generally more rapid for pharmaceutical companies than for academic institutions, regardless of field (change in overall % OA 2013\u20132023: pharma, 3.1; academia, 1.6). Conclusions This dashboard provides novel and regularly updated evidence on the comparative OA publication practices of pharmaceutical companies and academic institutions. In our snapshot analysis, the OA publication rate was higher for pharmaceutical companies than for academic institutions and continues to increase. Notable differences were observed in approaches, in terms of licenses and OA models, which may reflect different institutional practices and circumstances. We encourage others to use this open resource for new research and to report their results.",
+      "journal": "bioRxiv",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open Monitoring Meditation Integrates Immersive Visuals and Gaming Boxes: Art Therapy Design and Empirical Research for Anxious Groups in Generation Z",
+      "url": "https://www.semanticscholar.org/paper/4bb9dd3a840499b4ecc2055abfe0436f53ed8027",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-11-26T20:40:16.113354",
+      "doi": "10.1007/978-3-032-30083-6_8",
+      "authors": [
+        {
+          "name": "Binghua Li",
+          "author_id": "2447736600",
+          "affiliation": null
+        },
+        {
+          "name": "Ziyuan Chi",
+          "author_id": "2456450772",
           "affiliation": null
         }
       ],
       "abstract": null,
-      "journal": "Nature",
-      "year": 2025,
+      "journal": "HCII",
+      "year": 2026,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Multiscale Design of Dielectric Composites for Enhanced Microwave Absorption Performance at Elevated Temperatures",
-      "url": "https://www.semanticscholar.org/paper/48a5d4dae572d993d558518cad29a863cad4f271",
+      "title": "Continuous glucose monitoring in the management of gestational diabetes in Switzerland (DipGluMo): an open-label, single-centre, randomised, controlled trial.",
+      "url": "https://www.semanticscholar.org/paper/dd5617d02619bff9cc85823099110b8bfb51d3a7",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-31T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531393",
-      "doi": "10.1002/adfm.202423897",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113364",
+      "doi": "10.1016/s2213-8587(25)00063-4",
       "authors": [
         {
-          "name": "Bo Hao",
-          "author_id": "2337914765",
+          "name": "S. Amylidi-Mohr",
+          "author_id": "1397314070",
           "affiliation": null
         },
         {
-          "name": "Yi Zhang",
-          "author_id": "2274913784",
+          "name": "G. Zennaro",
+          "author_id": "2567343335",
           "affiliation": null
         },
         {
-          "name": "Haoxu Si",
-          "author_id": "1381546690",
+          "name": "S. Schneider",
+          "author_id": "2067749358",
           "affiliation": null
         },
         {
-          "name": "Zhiyang Jiang",
-          "author_id": "1621514049",
+          "name": "L. Raio",
+          "author_id": "6499037",
           "affiliation": null
         },
         {
-          "name": "CuiPing Li",
-          "author_id": "2206516262",
+          "name": "B. Mosimann",
+          "author_id": "5366962",
           "affiliation": null
         },
         {
-          "name": "Yi-Bo Zhang",
-          "author_id": "2343477112",
-          "affiliation": null
-        },
-        {
-          "name": "Jing-Wei Zhang",
-          "author_id": "49050888",
-          "affiliation": null
-        },
-        {
-          "name": "Chun-Hong Gong",
-          "author_id": "2294384132",
+          "name": "D. Surbek",
+          "author_id": "50542035",
           "affiliation": null
         }
       ],
-      "abstract": "Aerospace vehicles and electronic devices are often operated in elevated temperature environments, which has led to an increased demand for high\u2010temperature microwave absorbing materials (MAMs). The microwave absorption properties of MAMs are influenced not only by the intrinsic material characteristics but also by the micro\u2010, meso\u2010, and macro\u2010structural configurations of the composites. This paper reviews recent advancements in high\u2010temperature MAMs through a multiscale design approach. Due to the temperature sensitivity of permittivity, MAMs tend to exhibit microwave reflection behavior at elevated temperatures. Strategies aimed at regulating conductivity and polarization behavior can enhance impedance matching under these conditions; however, this often results in an unavoidable reduction in loss capability. In contrast to traditional design methodologies, MAMs constructed from subwavelength\u2010scale functional units can achieve remarkable anti\u2010reflection effects through discrete unit distribution, thereby significantly optimizing both dielectric loss capacity and impedance matching. Furthermore, the equivalent electromagnetic parameters of metacomposites are intrinsically linked to their physical properties and structural attributes. This relationship offers a novel strategy for enhancing high\u2010temperature microwave absorption performance. It is anticipated that this review will provide insightful guidance for future explorations into innovative and highly efficient high\u2010temperature MAMs.",
-      "journal": "Advanced Functional Materials",
+      "abstract": "BACKGROUND\nIn gestational diabetes, one of the key factors affecting perinatal outcomes is glycaemic control. We aimed to investigate the effect of real-time continuous glucose monitoring (rtCGM) on perinatal outcomes versus self-monitoring of blood glucose (SMBG).\n\n\nMETHODS\nIn this open-label, randomised, controlled trial, we recruited pregnant individuals aged 18-45 years with gestational diabetes, according to the International Association of Diabetes and Pregnancy Study Groups criteria, from a university hospital in Bern, Switzerland. Participants were randomly assigned (1:1) to the rtCGM intervention group or the SMBG control group. Randomisation was done centrally on the basis of pre-pregnancy BMI, previous gestational diabetes, family history of type 2 diabetes, and ethnicity. The primary endpoint was a composite of perinatal outcomes: large for gestational age, macrosomia, polyhydramnios, neonatal hypoglycaemia, and stillbirth. Key secondary outcomes were patient preference and maternal glycaemic control. Analyses were conducted on an intention-to-treat basis. This trial is registered with ClinicalTrials.gov, NCT05037526.\n\n\nFINDINGS\nBetween Sept 29, 2021, and June 11, 2024, 302 pregnant women with gestational diabetes were included in the study and randomly assigned to one of the groups. 156 participants were assigned to the rtCGM intervention group and 143 were assigned to the SMBG control group completed the study. Primary outcome data were available for 297 (99%) of 299 participants. The composite outcome did not differ significantly between the two groups (odds ratio 1\u00b702 [95% CI 0\u00b763-1\u00b766]). The only adverse events were skin changes, occurring in six (4%) participants in the rtCGM intervention group and in one (<1%) participant in the SMBG control group (blinded device).\n\n\nINTERPRETATION\nOur results show that the outcome in individuals with gestational diabetes is not improved by the use of rtCGM. However, individuals expressed a higher preference for the rtCGM device. This finding suggests that rtCGM could be offered to simplify the management of gestational diabetes. A cost-effectiveness study could address what method requires fewer resources. To our knowledge, this is the first randomised trial powered to evaluate the efficacy of rtCGM regarding pregnancy outcomes.\n\n\nFUNDING\nThe University of Bern and the Swiss Diabetes Foundation.\n\n\nTRANSLATION\nFor the German translation of the abstract see Supplementary Materials section.",
+      "journal": "The Lancet Diabetes and Endocrinology",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Synergistic Polarization Relaxation in Heteroatom\u2010Optimized Heterointerfaces for Electromagnetic Wave Absorption",
-      "url": "https://www.semanticscholar.org/paper/94fca3e2f6913ecde8e275129e6ab26686fa9ee8",
+      "title": "Slope Stability Monitoring Methods and Technologies for Open-Pit Mining: A Systematic Review",
+      "url": "https://www.semanticscholar.org/paper/19049fc92eb2e250b3989e231d09664cf7ef59e2",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-24T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531401",
-      "doi": "10.1002/adfm.202500304",
+      "date_published": "2025-05-17T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113372",
+      "doi": "10.3390/mining5020032",
       "authors": [
         {
-          "name": "Shuang Xu",
-          "author_id": "2306580298",
+          "name": "Rohan Le Roux",
+          "author_id": "2487201715",
           "affiliation": null
         },
         {
-          "name": "Zi-Rui Jia",
-          "author_id": "48813175",
+          "name": "Mohammadali Sepehri",
+          "author_id": "98685195",
           "affiliation": null
         },
         {
-          "name": "Di Lan",
-          "author_id": "2235574887",
+          "name": "Siavash Khaksar",
+          "author_id": "2133390396",
           "affiliation": null
         },
         {
-          "name": "Zhen-Guo Gao",
-          "author_id": "2299560450",
-          "affiliation": null
-        },
-        {
-          "name": "Si-Yuan Zhang",
-          "author_id": "2338535861",
-          "affiliation": null
-        },
-        {
-          "name": "Guang-Lei Wu",
-          "author_id": "2264542171",
+          "name": "Iain Murray",
+          "author_id": "2275749162",
           "affiliation": null
         }
       ],
-      "abstract": "The regulation of heteroatoms and heterogeneous interface characteristics has emerged as a promising strategy to enhance electromagnetic wave (EMW) absorption. However, challenges remain in precisely controlling heteroatom doping and fully understanding the synergistic mechanisms between heteroatoms and heterogeneous interfaces. Here, a novel strategy is proposed for enhancing synergistic polarization relaxation through heteroatom optimization. Carbon nanofiber (CNF)\u2010based Ni\u2013Fe nanocubes decorated with N and O heteroatoms are synthesized by pyrolyzing Fe\u2010based metal\u2013organic frameworks under different atmospheres (NH3, H2/Ar, Ar). The results show that N, O heteroatoms play a crucial role in the synergistic polarization effect by regulating the electronic structure and diverse heterogeneous structures. Finally, Fe2N@Ni3Fe/CNFs exhibit excellent EMW absorption at 2.3 mm, with a minimum reflection loss of \u221256.75 dB, and an effective absorption bandwidth of 6.7 GHz. Additionally, these materials display remarkable corrosion resistance due to their unique fiber network structure. This study highlights the role of heteroatoms in optimizing synergistic polarization effects, offering valuable insights for the design of advanced EMW absorption materials with heteroatom\u2010optimized heterointerfaces.",
-      "journal": "Advanced Functional Materials",
+      "abstract": "Slope failures in open-pit mining pose significant operational and safety issues, underscoring the importance of implementing effective stability monitoring frameworks for early hazard detection to allow for timely intervention and risk mitigation. This systematic review presents a comprehensive synthesis of existing and emerging methods and technologies used for slope stability monitoring in open-pit mining, including both remote sensing and in situ methods, as well as advanced technologies, such as Artificial Intelligence (AI), the Internet of Things (IoT), and Wireless Sensor Networks (WSNs). Using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) 2020 guidelines, a total of 49 studies were selected from a collection of four engineering databases, and a comparative analysis was conducted to determine the underlying differences between the various methods for open-pit slope stability monitoring in terms of their performance across key attributes, such as monitoring accuracy, spatial and temporal coverage, operational complexity, and economic viability. Their juxtaposition highlighted the notion that no universally optimal slope stability monitoring system exists, due to a series of compromises that arise as a result of inherent technological limitations and site-specific constraints. Notably, remote sensing methods offer large-scale, non-intrusive monitoring, but are often limited by environmental factors and data acquisition infrequency, whereas in situ methods provide high precision, but suffer from limited spatial coverage and scalability. This review further highlights the capacity of emerging methods and technologies to address these limitations, providing suggestions for future research directions involving the integration of multiple sensing technologies for the enhancement of monitoring capabilities. This study provides a consolidated knowledge base on open-pit slope stability monitoring methods, technologies, and techniques, to guide the development of integrated, cost-effective, and scalable slope monitoring solutions that enhance mine safety and efficiency.",
+      "journal": "Mining",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Botanical Flavonoids: Efficacy, Absorption, Metabolism and Advanced Pharmaceutical Technology for Improving Bioavailability",
-      "url": "https://www.semanticscholar.org/paper/2ad2c3bea7dec1545a4078c45f53c5ac01230c94",
+      "title": "A Review of Open Remote Sensing Data with GIS, AI, and UAV Support for Shoreline Detection and Coastal Erosion Monitoring",
+      "url": "https://www.semanticscholar.org/paper/e055d3177a6cce0e2564478c39aa1c63a741989e",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-03-01T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531499",
-      "doi": "10.3390/molecules30051184",
+      "date_published": "2025-04-25T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113409",
+      "doi": "10.3390/app15094771",
       "authors": [
         {
-          "name": "Lei Hu",
-          "author_id": "2293267041",
+          "name": "D. Christofi",
+          "author_id": "108274275",
           "affiliation": null
         },
         {
-          "name": "Yi-Qing Luo",
-          "author_id": "2349408463",
+          "name": "C. Mettas",
+          "author_id": "51900676",
           "affiliation": null
         },
         {
-          "name": "Jia-Xin Yang",
-          "author_id": "2244228783",
+          "name": "E. Evagorou",
+          "author_id": "51891980",
           "affiliation": null
         },
         {
-          "name": "Chun-Song Cheng",
-          "author_id": "2244429248",
+          "name": "Neophytos Stylianou",
+          "author_id": "5714036",
+          "affiliation": null
+        },
+        {
+          "name": "M. Eliades",
+          "author_id": "5759261",
+          "affiliation": null
+        },
+        {
+          "name": "C. Theocharidis",
+          "author_id": "2007295371",
+          "affiliation": null
+        },
+        {
+          "name": "A. Chatzipavlis",
+          "author_id": "117592827",
+          "affiliation": null
+        },
+        {
+          "name": "T. Hasiotis",
+          "author_id": "2481344",
+          "affiliation": null
+        },
+        {
+          "name": "D. Hadjimitsis",
+          "author_id": "2010726",
           "affiliation": null
         }
       ],
-      "abstract": "Flavonoids represent a class of natural plant secondary metabolites with multiple activities including antioxidant, antitumor, anti-inflammatory, and antimicrobial properties. However, due to their structural characteristics, they often exhibit low bioavailability in vivo. In this review, we focus on the in vivo study of flavonoids, particularly the effects of gut microbiome on flavonoids, including common modifications such as methylation, acetylation, and dehydroxylation, etc. These modifications aim to change the structural characteristics of the original substances to enhance absorption and bioavailability. In order to improve the bioavailability of flavonoids, we discuss two feasible methods, namely dosage form modification and chemical modification, and hope that these approaches will offer new insights into the application of flavonoids for human health. In this article, we also introduce the types, plant sources, and efficacy of flavonoids. In conclusion, this is a comprehensive review on how to improve the bioavailability of flavonoids.",
-      "journal": "Molecules",
+      "abstract": "This review discusses the evolution and integration of open-access remote sensing technology in shoreline detection and coastal erosion monitoring through the use of Geographic Information Systems (GIS), Artificial Intelligence (AI), Unmanned Aerial Vehicles (UAVs), and Ground Truth Data (GTD). The Sentinel-2 and Landsat 8/9 missions are highlighted as the primary core datasets due to their open-access policy, worldwide coverage, and demonstrated applicability in long-term coastal monitoring. Landsat data have allowed the detection of multi-decadal trends in erosion since 1972, and Sentinel-2 has provided enhanced spatial and temporal resolutions since 2015. Through integration with GIS programs such as the Digital Shoreline Analysis System (DSAS), AI-based processes such as sophisticated models including WaterNet, U-Net, and Convolutional Neural Networks (CNNs) are highly accurate in shoreline segmentation. UAVs supply complementary high-resolution data for localized validation, and ground truthing based on GNSS increases the precision of the produced map results. The fusion of UAV imagery, satellite data, and machine learning aids a multi-resolution approach to real-time shoreline monitoring and early warnings. Despite the developments seen with these tools, issues relating to atmosphere such as cloud cover, data fusion, and model generalizability in different coastal environments continue to require resolutions to be addressed by future studies in terms of enhanced sensors and adaptive learning approaches with the rise of AI technology the recent years.",
+      "journal": "Applied Sciences",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Recent Advances in Structural Design of Carbon/Magnetic Composites and their Electromagnetic Wave Absorption Applications.",
-      "url": "https://www.semanticscholar.org/paper/51ab4c908af7dc66df7b7f27d34f223d8cf95eef",
+      "title": "Monitoring of ecological environment changes in open-pit mines on the Loess Plateau from 1990 to 2023 based on RSEI",
+      "url": "https://www.semanticscholar.org/paper/9695d866d7dae20b2dc9704452d23ac3d7a341fe",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-01-20T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531519",
-      "doi": "10.1002/smll.202408570",
+      "date_published": "2025-01-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113419",
+      "doi": "10.1016/j.ecolind.2024.113064",
       "authors": [
         {
-          "name": "Hai-Yang Peng",
-          "author_id": "2297155512",
+          "name": "Xing-Bang Wang",
+          "author_id": "2339421945",
           "affiliation": null
         },
         {
-          "name": "Da Zhang",
-          "author_id": "2109561171",
+          "name": "Yanyun Nian",
+          "author_id": "1989903",
           "affiliation": null
         },
         {
-          "name": "Zhi-Peng Xie",
-          "author_id": "2237751590",
+          "name": "Haiyuan Wang",
+          "author_id": "2339489504",
           "affiliation": null
         },
         {
-          "name": "Shuiqing Lu",
-          "author_id": "2297065965",
+          "name": "Jie Chen",
+          "author_id": "2339420509",
           "affiliation": null
         },
         {
-          "name": "Yichang Liu",
-          "author_id": "2297065544",
+          "name": "Ke-Gong Li",
+          "author_id": "2278619700",
           "affiliation": null
         },
         {
-          "name": "Feng Liang",
-          "author_id": "2237712717",
+          "name": "Tianming Hu",
+          "author_id": "2339434060",
+          "affiliation": null
+        },
+        {
+          "name": "Zhi-Ming Li",
+          "author_id": "2116785567",
           "affiliation": null
         }
       ],
-      "abstract": "Electromagnetic pollution protection and military stealth technologies underscore the urgent need to develop efficient electromagnetic wave-absorbing materials (EWAMs). Traditional EWAMs suffer from single absorption loss mechanisms, poor impedance matching, and weak reflection loss. To date, combining dielectric loss with magnetic loss in EWAMs have proven to be an effective approach to enhancing electromagnetic absorption performance. The structural design of composites plays a pivotal role in improving impedance matching and enhancing the attenuation of electromagnetic waves. It is widely regarded as one of the principal methods for fine-tuning electromagnetic parameters and response mechanisms. Among these, composites of carbon and magnetic materials have become a research hotspot due to their magnetoelectric synergistic effects and versatile microstructure design. Herein, the principles of electromagnetic wave absorption in terms of both the loss mechanism and impedance matching are outlined. The research progress on core-shell, skeleton, and hollow structure of carbon/magnetic composite EWAMs are summarized. The synthesis methods, absorption properties, and attenuation mechanisms of composites with these structures are described in detail. Finally, the limitations of carbon/magnetic composites in electromagnetic wave absorption are discussed, possible solutions are proposed, and future development directions for carbon/magnetic composite EWAMs are envisioned.",
-      "journal": "Small",
+      "abstract": null,
+      "journal": "Ecological Indicators",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Yolk\u2013Shell CoNi@N-Doped Carbon-CoNi@CNTs for Enhanced Microwave Absorption, Photothermal, Anti-Corrosion, and Antimicrobial Properties",
-      "url": "https://www.semanticscholar.org/paper/044bb801b0969b2a64a92f9d6811641d99d885d9",
+      "title": "Open-Source Photosynthetically Active Radiation Sensor for Enhanced Agricultural and Agrivoltaics Monitoring",
+      "url": "https://www.semanticscholar.org/paper/6bf808560d6d06539a2d533f76f4b8520ce0a336",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-26T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531532",
-      "doi": "10.1007/s40820-024-01626-8",
+      "date_published": "2025-05-30T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113428",
+      "doi": "10.3390/electronics14112225",
       "authors": [
         {
-          "name": "Qiqin Liang",
-          "author_id": "2195973064",
+          "name": "Md Motakabbir Rahman",
+          "author_id": "2289622194",
           "affiliation": null
         },
         {
-          "name": "Mu-Kun He",
-          "author_id": "2303246295",
+          "name": "Uzair Jamil",
+          "author_id": "2198023083",
           "affiliation": null
         },
         {
-          "name": "Bei-Bei Zhan",
-          "author_id": "2269670456",
-          "affiliation": null
-        },
-        {
-          "name": "Hua Guo",
-          "author_id": "2283510223",
-          "affiliation": null
-        },
-        {
-          "name": "Xiao-Si Qi",
-          "author_id": "2238915773",
-          "affiliation": null
-        },
-        {
-          "name": "Yunpeng Qu",
-          "author_id": "2238652274",
-          "affiliation": null
-        },
-        {
-          "name": "Ya-Li Zhang",
-          "author_id": "2296023839",
-          "affiliation": null
-        },
-        {
-          "name": "Wei Zhong",
-          "author_id": "2187823816",
-          "affiliation": null
-        },
-        {
-          "name": "Jun-Wei Gu",
-          "author_id": "2289808981",
+          "name": "J. Pearce",
+          "author_id": "2244407265",
           "affiliation": null
         }
       ],
-      "abstract": "Highlights Hierarchical cubic sea urchin-like yolk-shell CoNi@N-doped carbon (NC)-CoNi@carbon nanotubes (CNTs) mixed-dimensional MCNCs with different CNTs contents could be availably and selectively synthesized. Owing to the generated hierarchical cubic sea urchin like yolk-shell structure, CoNi@NC-CoNi@CNTs display marvelous hydrophobic, corrosion resistance and MA performance. The construction of components and special microstructure make CoNi@NC-CoNi@CNTs MCNCs display terrific photothermal and antimicrobial (e g. only 1 mg\u00b7mL-1 concentration, ~84.03% antimicrobial rate) proper ties. Supplementary Information The online version contains supplementary material available at 10.1007/s40820-024-01626-8.",
-      "journal": "Nano-Micro Letters",
+      "abstract": "Photosynthetically active radiation (PAR) is crucial for plant growth, influencing photosynthesis efficiency and crop yield. The increasing adoption of controlled-environment agriculture (CEA) necessitates precise PAR monitoring. The high cost of commercial PAR sensors, however, limits their accessibility and widespread use, creating a growing need for a low-cost alternative capable of reliable deployment in diverse agricultural environments. Building on recent advancements in PAR sensing using multi-channel spectral sensors such as the AS7341 and AS7265, this study develops the electronics for an AS7341-based, open-source, cost-effective (~USD 50) PAR sensor validated across a broad PPFD range and conditions, ensuring reliability and ease of replication. It uses a relatively simple multi-linear regression that offers real-time applications without energy intensive machine learning. The developed sensor is calibrated against the industry-standard Apogee SQ-500SS PAR sensor in four distinct farming environments: (i) horizontal grow lights, (ii) vertical agrotunnel lighting, (iii) agrivoltaics, and (iv) in greenhouses. A mean error ranging from 1 to 5% indicates its suitability for controlled environment farming and continuous data logging. The open-source hardware design and systematic installation guidelines enable users to replicate, calibrate, and integrate the sensor with minimal background in electronics and optics.",
+      "journal": "Electronics",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Absorption\u2013Reflection\u2013Transmission Power Coefficient Guiding Gradient Distribution of Magnetic MXene in Layered Composites for Electromagnetic Wave Absorption",
-      "url": "https://www.semanticscholar.org/paper/6f23a89b1aa18ede81bcea89afb4308b028bf52d",
+      "title": "WildWing: An open\u2010source, autonomous and affordable UAS for animal behaviour video monitoring",
+      "url": "https://www.semanticscholar.org/paper/1eb734eaee6215b8343d585bcb03752f89d769b3",
       "item_type": "paper",
       "source_type": "semantic_scholar",
-      "date_published": "2025-02-17T00:00:00",
-      "date_fetched": "2026-11-25T20:48:14.531544",
-      "doi": "10.1007/s40820-025-01675-7",
+      "date_published": "2025-03-10T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113448",
+      "doi": "10.1111/2041-210x.70018",
       "authors": [
         {
-          "name": "Yang Zhou",
-          "author_id": "2278226986",
+          "name": "Jenna M. Kline",
+          "author_id": "2271703140",
           "affiliation": null
         },
         {
-          "name": "Wen Zhang",
-          "author_id": "2346057468",
+          "name": "Alison Zhong",
+          "author_id": "2349846875",
           "affiliation": null
         },
         {
-          "name": "Dong Pan",
-          "author_id": "2298789847",
+          "name": "Kevyn Irizarry",
+          "author_id": "2191728763",
           "affiliation": null
         },
         {
-          "name": "Zhaoyang Li",
-          "author_id": "2156265181",
+          "name": "Charles V. Stewart",
+          "author_id": "2273953949",
           "affiliation": null
         },
         {
-          "name": "Bing Zhou",
-          "author_id": "2152593964",
+          "name": "Christopher Stewart",
+          "author_id": "2333452044",
           "affiliation": null
         },
         {
-          "name": "Ming Huang",
-          "author_id": "2332737664",
+          "name": "Daniel I. Rubenstein",
+          "author_id": "2276551307",
           "affiliation": null
         },
         {
-          "name": "Liwei Mi",
-          "author_id": "2311010147",
-          "affiliation": null
-        },
-        {
-          "name": "Chun-Tai Liu",
-          "author_id": "9966318",
-          "affiliation": null
-        },
-        {
-          "name": "Yue-Zhan Feng",
-          "author_id": "2237518816",
-          "affiliation": null
-        },
-        {
-          "name": "Chang-Yu Shen",
-          "author_id": "2309796506",
+          "name": "Tanya Y. Berger-Wolf",
+          "author_id": "2150810005",
           "affiliation": null
         }
       ],
-      "abstract": "The layered arrangement and gradient distribution of magnetic MXene are firstly combined to improve the electromagnetic wave (EMW) RLmin and broaden effective absorption bandwidth. Absorption, reflection, and transmission (A\u2013R\u2013T) power coefficient analysis is firstly used to guide the gradient distribution, so as to realize EMW incidence at low-concentration surface, loss at middle concentration interlayer and reflection at high-concentration bottom. The layered gradient composite (LG5-10-15) achieves complete absorption coverage of X-band at thickness of 2.00-2.20 mm with RLmin of -68.67 dB. The layered arrangement and gradient distribution of magnetic MXene are firstly combined to improve the electromagnetic wave (EMW) RLmin and broaden effective absorption bandwidth. Absorption, reflection, and transmission (A\u2013R\u2013T) power coefficient analysis is firstly used to guide the gradient distribution, so as to realize EMW incidence at low-concentration surface, loss at middle concentration interlayer and reflection at high-concentration bottom. The layered gradient composite (LG5-10-15) achieves complete absorption coverage of X-band at thickness of 2.00-2.20 mm with RLmin of -68.67 dB. The morphological distribution of absorbent in composites is equally important with absorbents for the overall electromagnetic properties, but it is often ignored. Herein, a comprehensive consideration including electromagnetic component regulation, layered arrangement structure, and gradient concentration distribution was used to optimize impedance matching and enhance electromagnetic loss. On the microscale, the incorporation of magnetic Ni nanoparticles into MXene nanosheets (Ni@MXene) endows suitable intrinsic permittivity and permeability. On the macroscale, the layered arrangement of Ni@MXene increases the effective interaction area with electromagnetic waves, inducing multiple reflection/scattering effects. On this basis, according to the analysis of absorption, reflection, and transmission (A\u2013R\u2013T) power coefficients of layered composites, the gradient concentration distribution was constructed to realize the impedance matching at low-concentration surface layer, electromagnetic loss at middle concentration interlayer and microwave reflection at high-concentration bottom layer. Consequently, the layered gradient composite (LG5-10\u201315) achieves complete absorption coverage of X-band at thickness of 2.00\u20132.20 mm with RLmin of \u221268.67 dB at 9.85 GHz in 2.05 mm, which is 199.0%, 12.6%, and 50.6% higher than non-layered, layered and layered descending gradient composites, respectively. Therefore, this work confirms the importance of layered gradient structure in improving absorption performance and broadens the design of high-performance microwave absorption materials.",
-      "journal": "Nano-Micro Letters",
+      "abstract": "Drones have become invaluable tools for studying animal behaviour in the wild, enabling researchers to collect aerial video data of group\u2010living animals. However, manually piloting drones to track animal groups consistently is challenging due to complex factors such as terrain, vegetation, group spread and movement patterns. The variability in manual piloting can result in unusable data for downstream behavioural analysis, making it difficult to collect standardized datasets for studying collective animal behaviour. To address these challenges, we present WildWing, a complete hardware and software open\u2010source unmanned aerial system (UAS) for autonomously collecting behavioural video data of group\u2010living animals. The system's main goal is to automate and standardize the collection of high\u2010quality aerial footage suitable for computer vision\u2010based behaviour analysis. We provide a novel navigation policy to autonomously track animal groups while maintaining optimal camera angles and distances for behavioural analysis, reducing the inconsistencies inherent in manual piloting. The complete WildWing system costs only $650 and incorporates drone hardware with custom software that integrates ecological knowledge into autonomous navigation decisions. The system produces 4\u2009K resolution video at 30 fps while automatically maintaining appropriate distances and angles for behaviour analysis. We validate the system through field deployments tracking groups of Grevy's zebras, giraffes and Przewalski's horses at The Wilds conservation centre, demonstrating its ability to collect usable behavioural data consistently. By automating the data collection process, WildWing helps ensure consistent, high\u2010quality video data suitable for computer vision analysis of animal behaviour. This standardization is crucial for developing robust automated behaviour recognition systems to help researchers study and monitor wildlife populations at scale. The open\u2010source nature of WildWing makes autonomous behavioural data collection more accessible to researchers, enabling wider application of drone\u2010based behavioural monitoring in conservation and ecological research.",
+      "journal": "Methods in Ecology and Evolution",
       "year": 2025,
       "source_name": null,
       "excerpt": null,
       "relevance_score": 0.0,
       "matched_keywords": [
-        "meditative absorption"
+        "open monitoring"
       ]
     },
     {
-      "title": "Development and Useability of a Lifestyle Program Designed to Address Depressive Symptoms in In-Home Aged Care Recipients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43080486/",
+      "title": "Contrastive and self-supervised learning for open-set damage classification in structural health monitoring with incomplete and imbalanced vibration data",
+      "url": "https://www.semanticscholar.org/paper/692af00e201d53bdcda903c347e7f887d6938e07",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": null,
+      "date_fetched": "2026-11-26T20:40:16.113468",
+      "doi": "10.1016/j.eswa.2025.128731",
+      "authors": [
+        {
+          "name": "Sheng Shi",
+          "author_id": "2113258991",
+          "affiliation": null
+        },
+        {
+          "name": "D. Du",
+          "author_id": "46540418",
+          "affiliation": null
+        },
+        {
+          "name": "O. Mercan",
+          "author_id": "97020225",
+          "affiliation": null
+        },
+        {
+          "name": "E. Kalkan",
+          "author_id": "52342121",
+          "affiliation": null
+        },
+        {
+          "name": "J. Parol",
+          "author_id": "93857589",
+          "affiliation": null
+        }
+      ],
+      "abstract": null,
+      "journal": "Expert systems with applications",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring",
+      "url": "https://www.semanticscholar.org/paper/2f68b787461eb35e691402cc9c2250ce5ff4ef1b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113478",
+      "doi": "10.52202/085713-1859",
+      "authors": [
+        {
+          "name": "Yuyang Chen",
+          "author_id": "2333248555",
+          "affiliation": null
+        },
+        {
+          "name": "N. Lang",
+          "author_id": "38997847",
+          "affiliation": null
+        },
+        {
+          "name": "B. Schmidt",
+          "author_id": "2242409249",
+          "affiliation": null
+        },
+        {
+          "name": "Aditya Jain",
+          "author_id": "2307990814",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Basset",
+          "author_id": "6848840",
+          "affiliation": null
+        },
+        {
+          "name": "Sara Beery",
+          "author_id": "2134791809",
+          "affiliation": null
+        },
+        {
+          "name": "M. Larriv\u00e9e",
+          "author_id": "14063852",
+          "affiliation": null
+        },
+        {
+          "name": "D. Rolnick",
+          "author_id": "2381187",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Global biodiversity is declining at an unprecedented rate, yet little information is known about most species and how their populations are changing. Indeed, some 90% of Earth's species are estimated to be completely unknown. Machine learning has recently emerged as a promising tool to facilitate long-term, large-scale biodiversity monitoring, including algorithms for fine-grained classification of species from images. However, such algorithms typically are not designed to detect examples from categories unseen during training -- the problem of open-set recognition (OSR) -- limiting their applicability for highly diverse, poorly studied taxa such as insects. To address this gap, we introduce Open-Insect, a large-scale, fine-grained dataset to evaluate unknown species detection across different geographic regions with varying difficulty. We benchmark 38 OSR algorithms across three categories: post-hoc, training-time regularization, and training with auxiliary data, finding that simple post-hoc approaches remain a strong baseline. We also demonstrate how to leverage auxiliary data to improve species discovery in regions with limited data. Our results provide insights to guide the development of computer vision methods for biodiversity monitoring and species discovery.",
+      "journal": "Neural Information Processing Systems",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Monitoring and evaluation of ecological restoration in open-pit coal mine using remote sensing data based on a OM-RSEI model",
+      "url": "https://www.semanticscholar.org/paper/cbec82d3cd0ad86983a6c19ef5d1d550dbb1c93b",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-01-29T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113497",
+      "doi": "10.1080/17480930.2025.2458012",
+      "authors": [
+        {
+          "name": "Shi-Wei Wang",
+          "author_id": "123673903",
+          "affiliation": null
+        },
+        {
+          "name": "Chao Ma",
+          "author_id": "2267269998",
+          "affiliation": null
+        },
+        {
+          "name": "Yingying Ma",
+          "author_id": "2343296386",
+          "affiliation": null
+        },
+        {
+          "name": "Ting-Ting Li",
+          "author_id": "2267285440",
+          "affiliation": null
+        }
+      ],
+      "abstract": "ABSTRACT Open-pit coal mining poses a severe threat to regional ecological security. Rapid and accurate monitoring of ecological quality changes is crucial for regional ecological restoration. In this study, taking the Wujiata open-pit coal mine as an example, the Red-Edge Normalized Difference Vegetation Index (RENDVI), Salinity Index (SI-T), WETness index (WET), Normalized Differential Built Soil Index (NDBSI), Land Surface Temperature (LST), and Desertification Index (DI) were used to construct the Open-pit Mine Remote Sensing Ecological Index (OM-RSEI) through Principal Component Analysis (PCA). The ecological quality and restoration conditions of typical mining areas in arid and semi-arid regions were monitored and evaluated. The results shown that: (1) The contribution rates and eigenvalues of OM-RSEI were higher than those of conventional RSEI, OM-RSEI was more applicable in open-pit mining areas. (2) From 2018 to 2023, the OM-RSEI of the Wujiata open-pit coal mine showed a \u2018V\u2019 shaped fluctuation that was damaged and then gradually recovered. (3) The degraded area of Wujiata open-pit coal mine and its 5\u2009km buffer zone accounted for 78.02%, and the improved area accounted for 19.16%. (4) The average Moran\u2019s I index of OM-RSEI in the study area was 0.8189, and the high\u2013high clustering corresponded to the \u2018good\u2019 and \u2018excellent\u2019 distributions, while the low\u2013low clustering corresponded to the \u2018poor\u2019 and \u2018less-poor\u2019 distributions. The OM-RSEI provided a new indicator for monitoring and evaluation of ecological restoration in open-pit coal mines, which can provide theoretical support for ecological restoration in open-pit coal mining areas.",
+      "journal": "International Journal of Mining, Reclamation and Environment",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Marine biodiversity and environmental data: an AI-ready, open dataset from the long term (1995\u20132023) Basque Country monitoring network",
+      "url": "https://www.semanticscholar.org/paper/989126c130c797ef7cb97dbdb78b086bbef39905",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-03-03T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113512",
+      "doi": "10.3389/focsu.2024.1528837",
+      "authors": [
+        {
+          "name": "\u00c1ngel Borja",
+          "author_id": "2257065285",
+          "affiliation": null
+        },
+        {
+          "name": "I. Adarraga",
+          "author_id": "2085537697",
+          "affiliation": null
+        },
+        {
+          "name": "J. Bald",
+          "author_id": "40107732",
+          "affiliation": null
+        },
+        {
+          "name": "M. J. Belzunce-Segarra",
+          "author_id": "1403016963",
+          "affiliation": null
+        },
+        {
+          "name": "I. Cruz",
+          "author_id": "40019564",
+          "affiliation": null
+        },
+        {
+          "name": "J. Franco",
+          "author_id": "145181036",
+          "affiliation": null
+        },
+        {
+          "name": "J. Garmendia",
+          "author_id": "39863223",
+          "affiliation": null
+        },
+        {
+          "name": "J. Larreta",
+          "author_id": "48989541",
+          "affiliation": null
+        },
+        {
+          "name": "A. Laza-Mart\u00ednez",
+          "author_id": "1399041230",
+          "affiliation": null
+        },
+        {
+          "name": "Alberto Manzanos",
+          "author_id": "87756182",
+          "affiliation": null
+        },
+        {
+          "name": "M. Marquiegui",
+          "author_id": "6612916",
+          "affiliation": null
+        },
+        {
+          "name": "I. Martin",
+          "author_id": "2297209822",
+          "affiliation": null
+        },
+        {
+          "name": "J. Mart\u00ednez",
+          "author_id": "2218869965",
+          "affiliation": null
+        },
+        {
+          "name": "I. Menchaca",
+          "author_id": "2236184",
+          "affiliation": null
+        },
+        {
+          "name": "Sarai Pouso",
+          "author_id": "35329023",
+          "affiliation": null
+        },
+        {
+          "name": "M. Revilla",
+          "author_id": "39296466",
+          "affiliation": null
+        },
+        {
+          "name": "J. G. Rodr\u00edguez",
+          "author_id": "2218776469",
+          "affiliation": null
+        },
+        {
+          "name": "Jos\u00e9 Mar\u00eda Ruiz",
+          "author_id": "2109130023",
+          "affiliation": null
+        },
+        {
+          "name": "Y. Sagarm\u00ednaga",
+          "author_id": "10774635",
+          "affiliation": null
+        },
+        {
+          "name": "O. Solaun",
+          "author_id": "5291167",
+          "affiliation": null
+        },
+        {
+          "name": "A. Uriarte",
+          "author_id": "2145675",
+          "affiliation": null
+        },
+        {
+          "name": "I. Zorita",
+          "author_id": "11805930",
+          "affiliation": null
+        },
+        {
+          "name": "I. Muxika",
+          "author_id": "3613380",
+          "affiliation": null
+        }
+      ],
+      "abstract": "This dataset provides 28 years of environmental monitoring data (1995\u20132023) from 51 stations in the estuaries and coastal areas of the Basque Country in the Bay of Biscay. Covering 130 variables across water, sediments, and biota, it includes detailed records of phytoplankton, macroalgae, macroinvertebrates, and fish. Compiled in collaboration with the Basque Water Agency (URA), the dataset supports analysis of environmental responses to human pressures and management interventions, identifying patterns of environmental quality improvement within a context of natural variability. Provided in a FAIR2 Data Package, the dataset is structured to ensure Findability, Accessibility, Interoperability, Reusability, and Artificial Intelligence-readiness, facilitated by structured metadata and Application Programming Interface access. This resource is intended for researchers and policymakers examining anthropogenic and natural influences on aquatic ecosystems, contributing to sustainable management, conservation practices, and alignment with European directives, including the Water Framework Directive.",
+      "journal": "Frontiers in Ocean Sustainability",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Validation of an Open-Source Smartwatch for Continuous Monitoring of Physical Activity and Heart Rate in Adults",
+      "url": "https://www.semanticscholar.org/paper/8f76c80b21310df0e73a8267937d7e9e7f2a1591",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-05-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113538",
+      "doi": "10.3390/s25092926",
+      "authors": [
+        {
+          "name": "N. Ravanelli",
+          "author_id": "6057988",
+          "affiliation": null
+        },
+        {
+          "name": "KarLee Lefebvre",
+          "author_id": "2302621343",
+          "affiliation": null
+        },
+        {
+          "name": "Amy Brough",
+          "author_id": "2302686828",
+          "affiliation": null
+        },
+        {
+          "name": "Simon Paquette",
+          "author_id": "2557855585",
+          "affiliation": null
+        },
+        {
+          "name": "Wei Lin",
+          "author_id": "2359626422",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Consumer-grade wrist-based wearable devices have grown in popularity among researchers to continuously collect metrics such as physical activity and heart rate. However, manufacturers rarely disclose the preprocessing sensor data algorithms, and user-generated data are typically shared leading to data governance issues. Open-source technology may address these limitations. This study evaluates the validity of the Bangle.js2 for step counting and heart rate during lab-based validation and agreement with other wearable devices (steps: Fitbit Charge 5; heart rate: Polar H10) in free-living conditions. A custom open-source application was developed to capture the sensor data from the Bangle.js2. Participants (n = 47; 25 males; 27 \u00b1 11 years) were asked to complete a lab-based treadmill validation (3 min stages at 2, 3, 4, and 5 mph) and stair climbing procedure followed by a 24 h free-living period. The Bangle.js2 demonstrated systematic undercounting of steps at slower walking speeds with acceptable error achieved at 5 km/h. During free-living conditions, the Bangle.js2 demonstrated strong agreement with the Fitbit Charge 5 for per-minute step counting (CCC = 0.90) and total steps over 24 h (CCC = 0.96). Additionally, the Bangle.js2 demonstrated strong agreement with the Polar H10 for minute-averaged heart rate (CCC = 0.78). In conclusion, the Bangle.js2 is a valid open-source hardware and software solution for researchers interested in step counting and heart rate monitoring in free-living conditions.",
+      "journal": "Italian National Conference on Sensors",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Cloud-based slope risk monitoring and early warning system for open-pit coal mines: a case study of Zhonglian Runshi",
+      "url": "https://www.semanticscholar.org/paper/cbedf2080c960ad60af07e0a692424208910f9d7",
+      "item_type": "paper",
+      "source_type": "semantic_scholar",
+      "date_published": "2025-12-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:16.113556",
+      "doi": "10.1038/s41598-025-28190-4",
+      "authors": [
+        {
+          "name": "Xiaoyong Dong",
+          "author_id": "2400554124",
+          "affiliation": null
+        },
+        {
+          "name": "Shuang Li",
+          "author_id": "2400700748",
+          "affiliation": null
+        },
+        {
+          "name": "Ran Ma",
+          "author_id": "2400870417",
+          "affiliation": null
+        },
+        {
+          "name": "Weihui Tian",
+          "author_id": "2404280504",
+          "affiliation": null
+        },
+        {
+          "name": "Keke Zhao",
+          "author_id": "2402489346",
+          "affiliation": null
+        },
+        {
+          "name": "Hui Xiang",
+          "author_id": "2400527560",
+          "affiliation": null
+        },
+        {
+          "name": "Jiongjiong Zhu",
+          "author_id": "2400602037",
+          "affiliation": null
+        },
+        {
+          "name": "Yang Qiu",
+          "author_id": "2320065256",
+          "affiliation": null
+        }
+      ],
+      "abstract": "Slope landslides in open-pit coal mines critically threaten mining safety. Traditional early-warning systems face limitations, including data silos, false alarms, and an overemphasis on data collection over analysis. To overcome these challenges, this study develops a novel cloud-based Early Warning System (EWS) that integrates the Internet of Things (IoT) for multi-source data acquisition, Long Short-Term Memory (LSTM) networks for high-precision time-series prediction, and Dempster\u2013Shafer (D-S) evidence theory for uncertainty-based multi-indicator fusion. Unlike conventional EWSs relying on single-threshold rules, the proposed framework performs real-time, data-driven risk reasoning, significantly reducing false alarms and enhancing system robustness under heterogeneous monitoring conditions. Field deployment at the Zhonglian Runshi open-pit mine demonstrated that the proposed LSTM model achieved a prediction accuracy of R2\u2009=\u20090.91 (RMSE\u2009<\u20090.11 mm), while maintaining a tenfold lower computational cost than Transformer-based models. Through multi-source integration of 69 sensors, the system achieved continuous, real-time risk assessment with reliable multi-channel alerts. These results confirm the feasibility of lightweight, cloud-enabled intelligent EWSs for large-scale open-pit mines, providing a scalable paradigm for intelligent geohazard monitoring and early warning.",
+      "journal": "Scientific Reports",
+      "year": 2025,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": [
+        "open monitoring"
+      ]
+    },
+    {
+      "title": "Systematic review of quantitative studies exploring links between mindfulness, mental health, and social media use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084487/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-11-23T00:00:00",
-      "date_fetched": "2026-11-25T20:48:44.332355",
-      "doi": "10.1177/15598276261506918",
+      "date_published": "2026-01-01T00:00:00",
+      "date_fetched": "2026-11-26T20:40:40.403191",
+      "doi": "10.1371/journal.pone.0337349",
       "authors": [
         {
-          "name": "Julie Kelly",
+          "name": "Charlotte A Jones",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jessica L Mackelprang",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Clare O'Callaghan",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Marissa Dickins",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Tanya E Davison",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Penelope Schofield",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Sunil Bhar",
+          "name": "Marc S Tibber",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Depressive symptoms are experienced by a significant proportion of older adults who receive in-home aged care services. A lifestyle program delivered through guided self-help was developed to help manage mild depressive symptoms. This study describes the development of the program and evaluates its useability. Semi-structured interviews were conducted with in-home aged care recipients across two phases. Phase 1 (N = 29) determined the content of the lifestyle program. Thematic analysis informed by grounded theory, indicated participants' support for content focused on physical activity, social connections, diet, sleep, relaxation, mindfulness meditation, and depression psychoeducation. Phase 2 (N = 28) analysed users' views about the lifestyle program. Content analysis of interviews determined that most participants found the program user-friendly. Feedback indicated a need for greater clinician involvement, reduced volume of information, and development of a protocol to tailor the program to individual needs and preferences. A tailored lifestyle program has the potential to address the emotional well-being of in-home aged care recipients.",
-      "journal": "American journal of lifestyle medicine",
+      "abstract": "There is growing interest in inter-individual differences linked to risk and resilience in the associations between social media use and mental health. Here, we systematically reviewed empirical studies exploring links between mindfulness, social media use, and mental health, in order to explore the possibility that mindfulness plays a protective role. Systematic searches of PsychInfo, Medline, and Web of Science databases were run from database inception to January 2026. Forty-three studies met criteria for inclusion. Mindfulness was modelled variably as an independent variable, dependent variable, mediator, and moderator. Overwhelmingly, results linked mindfulness to better mental health and more beneficial patterns of social media use, and mediated/ moderated associations between the two in a protective manner where tested. Existing studies were limited by a predominance of cross-sectional designs, a paucity of research in non-'WEIRD' samples, and a bias towards younger population samples. The findings support the role of mindfulness as a potential protective factor in the association between social media and mental health, but highlight a need for longitudinal and experimental research to unpick underlying directions of causality, and examine the clinical utility of mindfulness as a modifiable trait.",
+      "journal": "PloS one",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -760,42 +2010,160 @@
       "matched_keywords": []
     },
     {
-      "title": "Occupational Perspectives on Sleep Health in High-Demand Occupations: A PEOP-Informed Scoping Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43080146/",
+      "title": "A retrospective study on the effects of MBCT on inflammatory cytokine levels and memory function changes in patients with chronic insomnia comorbid with depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084853/",
+      "item_type": "paper",
+      "source_type": "pubmed",
+      "date_published": "2026-11-19T00:00:00",
+      "date_fetched": "2026-11-26T20:40:51.248760",
+      "doi": "10.1016/j.psychres.2026.117616",
+      "authors": [
+        {
+          "name": "Shuang Zhu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Xuan Li",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Minghu Cui",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Yifan Cao",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Jian Hu",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Haijing Zhu",
+          "author_id": null,
+          "affiliation": null
+        }
+      ],
+      "abstract": "OBJECTIVE: To retrospectively analyze effects of Mindfulness\u2011Based Cognitive Therapy (MBCT) on serum pro\u2011inflammatory cytokines, depression, sleep and memory function in patients with chronic insomnia disorder comorbid with depression, and explore correlations between inflammatory factor changes and shifts in depressive symptoms, sleep and memory function. METHOD: We enrolled 160 inpatients with chronic insomnia disorder comorbid with depression from the Psychiatry Department of the First Affiliated Hospital of Harbin Medical University (October 2023\u2011January 2026), assigning them to MBCT group (n\u202f=\u202f80, 8\u2011week MBCT intervention) and control group (n\u202f=\u202f80). HAMD\u201117, PSQI, WMS\u2011RC (total memory quotient, comprehension memory) scores and serum IL\u20116 were measured at baseline and week\u20118 follow\u2011up. Linear mixed\u2011effects models compared longitudinal index differences between groups; we calculated change score \u0394 and examined correlations between \u0394IL\u20116 and clinical changes via Pearson correlation analysis. RESULT: Baseline age, education years, BMI, HAMD\u201117, PSQI, WMS\u2011RC indices, IL\u20116 and demographic data were comparable between groups (all P\u202f>\u202f0.05). Linear mixed\u2011effects models revealed significant main time effects for HAMD\u201117, PSQI, total memory quotient, comprehension memory score and IL\u20116 (all P\u202f<\u202f0.001); significant time\u2011group interactions existed for all indicators (all P\u202f<\u202f0.001). The MBCT group showed larger reductions in HAMD\u201117, PSQI and IL\u20116, alongside greater improvements in memory indices. Group main effects were non\u2011significant (all P\u202f>\u202f0.05). Correlation analysis showed\u0394IL\u20116 had weak positive correlation with \u0394PSQI (r\u202f=\u202f0.266, P\u202f<\u202f0.001) and moderate negative correlation with \u0394 comprehension memory score (r\u202f=\u202f-0.435, P\u202f<\u202f0.001); no significant correlations were found between\u0394IL\u20116 and\u0394HAMD\u201117 or \u0394 total memory quotient (P\u202f>\u202f0.05). CONCLUSION: Eight\u2011week MBCT exposure was associated with relieved depression and insomnia symptoms, lower serum IL\u20116 and improved memory function in these comorbid patients. Serum IL\u20116 reduction correlated with memory function improvement.",
+      "journal": "Psychiatry research",
+      "year": 2026,
+      "source_name": null,
+      "excerpt": null,
+      "relevance_score": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "title": "Consciousness, complexity, and clinical implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079070/",
       "item_type": "paper",
       "source_type": "pubmed",
       "date_published": "2026-11-25T00:00:00",
-      "date_fetched": "2026-11-25T20:48:44.332422",
-      "doi": "10.1177/15394492261508448",
+      "date_fetched": "2026-11-26T20:40:51.248864",
+      "doi": "10.1007/s00429-026-03236-z",
       "authors": [
         {
-          "name": "Holly L Thompson",
+          "name": "Roberta Ferrucci",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Elaina J DaLomba",
+          "name": "Stefania Corti",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Talia R Barrow",
+          "name": "Fabio Blandini",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Tara A Haugen",
+          "name": "Paolo Brambilla",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jason L Judkins",
+          "name": "Carolina Bonivento",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Stefano F Cappa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Mauro Crippa",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Federico Faggin",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Luigi Ferini-Strambi",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Vittorio Gallese",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marco Giacchetti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Riccardo Manzotti",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Marcello Massimini",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Serena Oliveri",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Gianni Pezzoli",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Alberto Priori",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Matteo Stocco",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Domenico Stigliani",
+          "author_id": null,
+          "affiliation": null
+        },
+        {
+          "name": "Sergio Barbieri",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "Sleep deficiency is prevalent in military and comparable high-demand occupations and contributes to fatigue, impaired cognitive functioning, occupational performance deficits, and operational risk. This scoping review synthesized occupation-relevant, nonpharmacological sleep interventions for adults in high-demand occupations and examined implications for sleep participation, occupational performance, and occupational therapy practice. Scopus, PubMed, and PsycINFO were searched for peer-reviewed studies published between February 2015 and May 2026. Thirty-seven studies met inclusion criteria and were synthesized using the Person-Environment-Occupation-Performance model. Person-level interventions most consistently improved subjective sleep quality, insomnia symptoms, stress regulation, and perceived recovery, whereas objective physiologic sleep outcomes were less consistent. Environment- and occupation-level interventions influenced sleep continuity, circadian alignment, fatigue mitigation, morale, and occupational performance when aligned with operational schedules and recovery opportunities. Multilevel interventions demonstrated the strongest cross-domain improvements. Findings support occupation-centered, systems-level approaches to sleep health in high-demand occupational settings.",
-      "journal": "OTJR : occupation, participation and health",
+      "abstract": "Consciousness remains one of science's most challenging problems because it cannot be exhaustively characterized as a single function, computation, or behavior; it also refers to the presence and organization of subjective experience. This position paper integrates clinical neurology, neurophysiology, psychiatry, psychoanalysis, embodied cognition, moral neuroscience, theoretical physics, philosophy of mind, and neurotechnology. We argue that, despite major advances in identifying neural correlates, computational models, and behavioral markers, contemporary consciousness research has not resolved the explanatory gap between objective description and subjective experience. We propose that claims about consciousness at neurophysiological, embodied, cognitive, social, and ontological levels should be coordinated through explicit cross-level constraints rather than merged into a single unitary theory. These domains have different evidential roles and are not all constituents of consciousness. Perturbational measures of cortical complexity, including the Perturbational Complexity Index (PCI) and its state-transition variant (PCIst), support assessment of preserved conscious capacity in studied human populations. They do not independently determine a clinical diagnosis or phenomenal content. Evidence from aphasia, sleep, anesthesia, and disorders of consciousness also demonstrates dissociations among language, wakefulness, behavioral responsiveness, and conscious experience. Perspectives from embodied simulation, mind-object identity, quantum information, and the philosophy of physics are treated here as heuristic stress tests rather than as mechanistic accounts; they keep open foundational questions concerning subjectivity, representation, and the role of the observer. We advocate constrained pluralism, a methodological framework in which consciousness is conceptualized as an integrated, embodied, relational, and temporally extended process. Such an approach provides a coherent foundation for future research while strengthening the dialogue between neuroscience, clinical practice, philosophy, and neuroethics.",
+      "journal": "Brain structure & function",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -803,161 +2171,37 @@
       "matched_keywords": []
     },
     {
-      "title": "Where to start? Impact of module ordering in acceptance and commitment therapy for young adults experiencing paranoia and low mood.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43079894/",
+      "title": "Who Benefits from School-Based Mindfulness? Attention-Related Moderators of Adolescent Intervention Response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087505/",
       "item_type": "paper",
       "source_type": "pubmed",
-      "date_published": "2026-11-25T00:00:00",
-      "date_fetched": "2026-11-25T20:48:44.332533",
-      "doi": "10.1017/S1352465826101441",
+      "date_published": "2026-11-20T00:00:00",
+      "date_fetched": "2026-11-26T20:40:51.249019",
+      "doi": "10.3390/bs16112207",
       "authors": [
         {
-          "name": "Millie Curtis",
+          "name": "Yongqi Wang",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Brandon Gaudiano",
+          "name": "Yuhan Weng",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Eric M J Morris",
+          "name": "Zhiya Chen",
           "author_id": null,
           "affiliation": null
         },
         {
-          "name": "Jessica Kingston",
+          "name": "Caiqi Chen",
           "author_id": null,
           "affiliation": null
         }
       ],
-      "abstract": "BACKGROUND: Paranoia is common in young adults and often occurs alongside low mood. Brief transdiagnostic interventions may therefore be useful for students who do not meet criteria for specialist psychosis services but experience distressing suspicious thoughts. This single-case experimental study evaluated a six-session Acceptance and Commitment Therapy (ACT) intervention and explored whether the order of ACT modules differentially impacted therapy effects. METHOD: Ten UK university students aged 18-25 with elevated paranoia and mild to moderate depressive symptoms completed daily visual analogue measures of paranoia, affect and ACT processes during baseline, intervention and 2-week follow-up. Participants were randomised to receive either ACT-ENGAGE sessions first (values and committed action) followed by ACT-OPEN sessions (mindfulness, defusion and acceptance), or the reverse order. Standardised measures of paranoia, mood and psychological flexibility were completed at baseline, pre-intervention, post-intervention and follow-up. RESULTS: Daily data showed significant reductions in state paranoia, negative affect and improvements in openness and valued action for the ACT-ENGAGE-first condition only. Standardised paranoia scores improved reliably in both conditions, while depression improved more clearly in the ACT-ENGAGE-first condition. CONCLUSIONS: Findings provide preliminary evidence that a brief ACT intervention may benefit students experiencing paranoia and low mood, and suggest that beginning with values and committed action may strengthen clinical impact.",
-      "journal": "Behavioural and cognitive psychotherapy",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Understanding the self-compassionate experiences of people living with HIV: A qualitative study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43081828/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-25T00:00:00",
-      "date_fetched": "2026-11-25T20:48:44.332615",
-      "doi": "10.1177/13591053261505272",
-      "authors": [
-        {
-          "name": "Archna Choudhary",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Anurag Shukla",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Amit Kumar Macorya",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Archana Singh",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Gyanesh Kumar Tiwari",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "This qualitative study explored the self-compassionate experiences of people living with HIV (PLHIV). Ten adults (",
-      "journal": "Journal of health psychology",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Slow Nursing in Dementia and Long-Term Care: A Concept Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43079751/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-24T00:00:00",
-      "date_fetched": "2026-11-25T20:48:44.332981",
-      "doi": "10.1111/jan.70842",
-      "authors": [
-        {
-          "name": "Daniela Lillekroken",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "AIM: To analyse slow nursing by identifying its defining attributes, antecedents, consequences and empirical referents, and to position the concept within nursing theory and in dementia and long-term care. METHODS: The eight-step Walker and Avant's concept analysis framework was employed to define slow nursing attributes, antecedents, consequences and empirical referents. DATA SOURCES: A focused literature review was conducted in January 2026 across seven databases (Medline, CINAHL, PsycINFO, Web of Science, Scopus, Oria and Google Scholar) to identify and analyse the defining characteristics of Slow Nursing. RESULTS: A total of 18 articles were included in the current analysis. The analyses demonstrate that slow nursing is characterized by four defining attributes: intentional presence, relational depth, attuned care delivery and reflective practice. Antecedents include organizational flexibility, nursing competence, ethical sensitivity and patients' willingness or capacity to engage in meaningful interactions. Consequences include preserved personhood, enhanced well-being, improved clinical insight, strengthened moral resilience and less rushed or missed care. Empirical referents include the Slow Nursing Tool, observational indicators, patient and family experiences and reflective clinical documentation. CONCLUSION: Slow nursing in dementia and long-term care is a holistic, relational and temporally attuned approach that supports person-centred care and may help re-humanize nursing practice within increasingly accelerated healthcare systems. IMPACT: Demands for efficiency and productivity challenge nurses' ability to provide relational, person-centred care. This concept analysis establishes slow nursing as a holistic, relational and temporally attuned approach in dementia and long-term care and identifies its attributes and theoretical foundations. The findings may guide clinical practice, education and research in developing dementia and long-term care practices and environments that promote personhood, dignity and high-quality nursing care. REPORTING METHOD: No EQUATOR reporting guidelines are available for concept analysis studies. PATIENT AND PUBLIC CONTRIBUTION: This study did not include patient or public involvement in its design, conduct or reporting.",
-      "journal": "Journal of advanced nursing",
-      "year": 2026,
-      "source_name": null,
-      "excerpt": null,
-      "relevance_score": 0.0,
-      "matched_keywords": []
-    },
-    {
-      "title": "Distracted Eating in the Digital Age: An Ecological Momentary Assessment of Screen Use While Eating, Mindfulness, and Eating Behaviors.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43079942/",
-      "item_type": "paper",
-      "source_type": "pubmed",
-      "date_published": "2026-11-24T00:00:00",
-      "date_fetched": "2026-11-25T20:48:44.333079",
-      "doi": "10.1002/eat.70272",
-      "authors": [
-        {
-          "name": "Yueyang Xiao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jiayi Han",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuhan Chen",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Xueyan Gao",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuhang Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Yuetian Li",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Wesley R Barnhart",
-          "author_id": null,
-          "affiliation": null
-        },
-        {
-          "name": "Jinbo He",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": "OBJECTIVE: Screen use while eating has become increasingly common, yet little is known about how this digitally-oriented behavior relates to everyday eating experiences. Given that screen use occurs within specific eating contexts and fluctuates across situations, examining its momentary associations with eating behaviors in naturalistic settings can provide important insights into how screen use relates to everyday eating experiences. METHOD: This study used an ecological momentary assessment (EMA) design to examine how screen use while eating is associated with disordered eating urges, thoughts, and behaviors, mindful eating, intuitive eating, and state mindfulness. A total of 274 college students (36% male; M RESULTS: At the within-person level, screen use while eating was associated with increased urges for restrictive eating and exercise, more exercise-related thoughts, greater restriction attempts, less self-induced vomiting, and more binge eating at the subsequent assessment, as well as lower mindful and intuitive eating during the same meal. At the between-person level, individuals who reported more screen use while eating showed reduced mindful eating and mindfulness. CONCLUSION: This study expands on prior cross-sectional findings to suggest that screen use during meals may be associated with reduced mindfulness and more disruptions in adaptive eating behaviors. These findings suggest that reducing screen use during meals may represent a promising target for future intervention to promote healthier eating behaviors.",
-      "journal": "The International journal of eating disorders",
+      "abstract": "Although adolescence constitutes a malleable developmental window for mental health interventions targeting self-regulatory capacities, little is known about which adolescents benefit the most from widely adopted school-based mindfulness-based interventions (MBIs). This longitudinal study included 1307 Grade 10 students whose classes were randomly assigned to one of three conditions: an 8-week school-based MBI, an active control condition receiving mental health education, and a passive control condition. We tested whether baseline attention-related characteristics-mind wandering, attention-deficit/hyperactivity disorder (ADHD) symptoms, and cognitive disengagement syndrome (CDS)-moderated intervention effects on psychological distress, attentional control, and subjective well-being across baseline, post-intervention, and follow-up assessments. We further explored group differences in post-intervention cognitive control capacity (CCC) between the MBI and the active control groups. Results showed that higher baseline CDS was associated with greater reductions in psychological distress from baseline to follow-up in the MBI group than in either control condition, whereas ADHD symptoms showed a less consistent pattern and mind wandering showed little evidence of differential response. The CDS pattern weakened when the attention-related characteristics were considered together. Exploratory analyses also suggested higher post-intervention CCC in the MBI group than in the active control group. These findings highlight the value of considering attention-related individual differences to better understand variation in adolescents' responses to school-based MBIs.",
+      "journal": "Behavioral sciences (Basel, Switzerland)",
       "year": 2026,
       "source_name": null,
       "excerpt": null,
@@ -965,31 +2209,5 @@
       "matched_keywords": []
     }
   ],
-  "articles": [
-    {
-      "title": "The Complicated Love Story Behind \u201cConsider the Oyster\u201d",
-      "url": "https://www.newyorker.com/books/second-read/the-complicated-love-story-behind-consider-the-oyster",
-      "item_type": "article",
-      "source_type": "rss",
-      "date_published": "2026-11-25T11:00:00",
-      "date_fetched": "2026-11-25T20:48:44.783166",
-      "doi": null,
-      "authors": [
-        {
-          "name": "Joy Lanzendorfer",
-          "author_id": null,
-          "affiliation": null
-        }
-      ],
-      "abstract": null,
-      "journal": null,
-      "year": null,
-      "source_name": "The New Yorker",
-      "excerpt": "M. F. K. Fisher\u2019s classic meditation on the shellfish\u2019s \u201cdreadful but exciting life\u201d was written to escape her own.",
-      "relevance_score": 1,
-      "matched_keywords": [
-        "meditation"
-      ]
-    }
-  ]
+  "articles": []
 }
